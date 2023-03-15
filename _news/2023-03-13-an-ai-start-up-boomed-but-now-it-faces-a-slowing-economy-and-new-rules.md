@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

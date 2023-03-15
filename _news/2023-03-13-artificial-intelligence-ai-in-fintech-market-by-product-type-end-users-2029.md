@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
+    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
+    publishedDateTime: 2023-03-14T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "13/03 – Weekly Fintech Recap"
     excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."

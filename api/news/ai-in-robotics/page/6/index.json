@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-27-both-pros-and-cons-emerge-as-artificial-intelligence-technology-ai-advances-quickly.md",
+      "title": "Both pros and cons emerge as artificial intelligence technology, AI, advances quickly",
+      "excerpt": "Its name is FRIDA and it's a robot using artificial intelligence technology to generate portrait paintings from photographs. Usually, they are of colleagues of its developers, Jean Oh and Peter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/26/a4c2df77-e3cf-4c8a-948f-91ac6db82f2f/thumbnail/1200x630/67e8bede1b2b8381d16dbda08f9c9cd7/gettyimages-1246453874-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/artificial-intelligence-technology-ai-pros-cons-carnegie-mellon-university/",
+      "publishedDateTime": "2023-01-26T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
       "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
       "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
@@ -1278,58 +1321,6 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing.md",
-      "title": "Nvidia shows how surprisingly hard it is for a robot to pick up a chicken wing",
-      "excerpt": "The chipmaker is showcasing how a robotics startup is using its simulation platform to train robots to pick up food like pieces of chicken.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a99225b214eb1f075000aa34ce23d0eaa8765f28/2023/01/19/dac2fd5c-7c0d-43d1-9a90-d0ce8fe7c1f8/robot-gripping-chicken-synthetic.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing/",
-      "publishedDateTime": "2023-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

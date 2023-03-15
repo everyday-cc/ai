@@ -35,6 +35,15 @@ related:
         width: 2880
         height: 1914
         isCached: true
+  - title: "Machine learning helps researchers separate compostable from conventional plastic waste with ‘very high’ accuracy"
+    excerpt: "Compostable plastics are on the rise. Despite their merits, these products, including wrappers and packaging, can contaminate conventional plastic waste in the recycling process. Now, scientists used highly sensitive imaging techniques and developed machine learning methods that can identify compostable plastics among conventional types."
+    publishedDateTime: 2023-03-14T23:44:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/982203"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "99o72kKqiqIz5furw5D8bkuWe2Hyp7NKcZaZFsgnPv8zSbHl0kuKniSekpOm+fQ8jtgTdOh/h+FNaaEBN9lL9oFzXL1215hdcDXx5c7GWdqYSoFE1XAI4zdVS/uXsgP24m0CmCNc+NMlH5nj/wn5MDddJOt7AtJa7lZcq64UY+7+FjBhFxr3s1nyLfeTX4WnLGy08hIAxXA5sy7AN0nhd3R60b76AQr8L7AEmgb7F/AbyfFihNHkOfQmnG5bZwKLeOp6P8QCtP3k3JsKIGsC85wLpBcDhi7jEIOpekw6ZvGcESeKEa6qtcZWS4iiC/rrBU816/MXjmJ+/rEwuwPuQmkbWBRuasgcRxvYfIUYTIs=;evyoQ4o6mDIj9d+Fhy5sOA=="
 ---

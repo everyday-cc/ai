@@ -107,45 +107,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
-    excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
-    publishedDateTime: 2023-03-14T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/"
-    ampWebUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft's Azure OpenAI service gets ChatGPT for preview: Know everything"
-    excerpt: "In January 2023, the tech giant announced the general availability of the Azure OpenAI service, which enables enterprises to power their application with large-scale AI."
-    publishedDateTime: 2023-03-10T06:57:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-s-azure-openai-service-gets-chatgpt-for-preview-know-everything-2023-03-10-853429"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 67
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/azure-openai-1678430477.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT now chatting via Azure OpenAI Service"
-    excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
-    publishedDateTime: 2023-03-10T20:52:00Z
-    webUrl: "https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
   - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
     excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
     publishedDateTime: 2023-03-11T00:17:00Z
@@ -240,20 +201,6 @@ related:
         width: 1024
         height: 729
         isCached: true
-  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
-    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
-    publishedDateTime: 2023-03-12T03:47:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
     excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
     publishedDateTime: 2023-03-13T12:27:00Z
@@ -303,20 +250,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
-    excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
-    publishedDateTime: 2023-03-13T17:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/colossal-ai-releases-open-source-framework-for-chatgpt-replication/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "'ChatGPT, Draft a Catchy Title:' The Risks of Using AI"
     excerpt: "Will generative AI make lawyers obsolete? Can ChatGPT help streamline a legal practice? In considering whether to adopt generative AI tools, lawyers should consider the risks."
@@ -383,6 +316,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 21
+  - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
+    excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"
+    publishedDateTime: 2023-03-14T23:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776949.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Aro46PhXhyA9z7Rs8gUzt1ZQEJH85zFEb5vrTGBmT2TucWVuUGUCUnix983dQpHxNU1FXyv+/6FmKnMKaqwiRtE7f4znlirnK9wyHDI4JmwrMIEnU8jyp6LUJoKBPop4BcIMNwZ2/zynTr0VMgpBwsVRiIXRo6mSe+sAEUvsl4JxKkK70cXOmyaTCn6ZbAn3P11PcrgW3N+9N7t1VcBxb447pTXDXbdg7AMPpftvLjd91GkdNLp/sC+9SA3TkTvGrVnEQHpXBv8kKsGAXAP4jLbOGvCJ+kZHI3cbZZOI4Jq4n874MxG28HFzWI4kgyv2DHOdZE99MH+GBiLF+6KYLXeZgcocauxYrLKqjJ/PWZs=;QXXLX+KaFNXRHyNgvv48YA=="
 ---

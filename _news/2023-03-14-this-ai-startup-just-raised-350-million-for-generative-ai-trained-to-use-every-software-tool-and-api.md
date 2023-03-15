@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "AI startup Adept raises US$350 million in fresh funding"
+    excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
+    publishedDateTime: 2023-03-14T20:59:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-startup-adept-raises-us350-million-fresh-funding-3347151"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "nOaW0eImWHjbI/OjKZhKRUxpLSnawLGoWhJ6wAbXpctkorsNpRJ7dm4cJfAlgRajuSAPO/Bv3so1on6cyLG+XbminPd7Pa4AtDCKpcCouxDc6fLFwvPgJ8XsQz3t6GwWvvAyRA3yTCmiVjoOTr736RLMJF+TdzliVP5pvztdckPVbNMhFqrN+Gbnko3KVQCC8EBSh+Av0sSACRjp7t2YFf+aq8vJyoB6XjXtdaEHxBBp8NQnxMNETT+IYxcd5dchnDccxYzPtHV3oHyEGn8Zc80YrdzYbPdGJxLREc+QTlBjiPOZJEqnIGAyxvjMdA5OC9G8qRZfr6ZIkzbw8jg2siE+a4C4zjs809ZOX6Ct+//Vpm7F3f63Pytai5dPeeEM6oK+Abs1NAoYVL34zLYH0dwvzn2SO38xyPBDtvG5C2dROFe16p8FhXL8ArJwzCxx/LE1PJUyDVxzr9M4tC56crO8gmLFF/l6WzUP/ew7eEySLZtYEdJGWp0tU//yESk8JzBKplbDAwvVQbo5xNQgvg==;tiwVveLNH+rzxXuWzCrtww=="

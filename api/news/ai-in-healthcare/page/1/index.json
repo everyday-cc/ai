@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -51,49 +51,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-opinion-ai-chatbots-are-still-far-from-replacing-human-therapists.md",
-      "title": "Opinion: AI chatbots are still far from replacing human therapists",
-      "excerpt": "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbots-are-still.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp",
-      "publishedDateTime": "2023-03-14T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -261,7 +218,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 419,
       "tags": null,
       "images": [
         {
@@ -591,6 +548,49 @@
         "AI",
         "AI in Healthcare",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.md",
+      "title": "AI will drive personalized healthcare, but ChatGPT not there yet, Johns Hopkins expert says",
+      "excerpt": "While artificial intelligence will soon scan your EHR to give your physician a unique medical picture of you, AI technology like ChatGPT is still in its",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

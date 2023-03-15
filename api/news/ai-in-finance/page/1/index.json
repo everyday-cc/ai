@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
+      "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
+      "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "publishedDateTime": "2023-03-14T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-dealing-with-shortage-of-ai-talent-in-banking.md",
       "title": "Dealing with shortage of AI talent in banking",
       "excerpt": "Banks have continually invested in new technologies to improve their operational efficiencies and customer experiences. Cash withdrawals from cashier windows in branches gave away to ATMs. And paper-based passbook printing took a backseat when",
@@ -10,7 +54,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -96,7 +140,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1358,59 +1402,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
-      "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
-      "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
-      "originalUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/N8oH5-YytfIMlpB4TZfnbaWyL0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMPAA4VKZJKEBEQQG3QVAB4P4E.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

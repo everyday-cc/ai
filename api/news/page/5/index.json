@@ -2,6 +2,155 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-09-chatgpt-is-now-available-in-azure-openai-service.md",
+      "title": "ChatGPT is now available in Azure OpenAI Service",
+      "excerpt": "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
+      "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7aef177b-557f-4544-aa26-746ac23def5d.png",
+          "width": 1200,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T00:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-sales-of-countrys-first-manga-made-with-neural-net-use-starts-in-japan.md",
+      "title": "Sales of country’s first manga made with neural net use starts in Japan",
+      "excerpt": "The author of the Cyberpunk Momotaro shared impressions of the process of creating the manga with the aid of the neural network. \"The artificial intelligence does not always create an image ...",
+      "sourceUrl": null,
+      "webUrl": "https://tass.com/world/1586259",
+      "originalUrl": "https://tass.com/world/1586259",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://phototass3.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20230309/1384257.jpg",
+          "width": 1080,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tass.com/world/1586259/amp",
+      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/world/1586259/amp",
+      "publishedDateTime": "2023-03-08T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TASS",
+        "domain": "tass.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-machine-learning-in-finance-market-trade-research-report-2023-2028.md",
+      "title": "Machine Learning in Finance Market Trade Research Report 2023-2028",
+      "excerpt": "Pages] Top “Machine Learning in Finance Market” Size 2023 Key players Profiled in the Report are [, Ignite Ltd ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-heres-how-facial-recognition-is-changing-travel-through-bay-area-airports.md",
       "title": "Here’s how facial recognition is changing travel through Bay Area airports",
       "excerpt": "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
@@ -988,144 +1137,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-ai-in-2023-ethics-in-the-spotlight.md",
-      "title": "AI In 2023: Ethics In The Spotlight",
-      "excerpt": "US firm Getty",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "originalUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1952584778056026783150258099093848347974-technology-computing-ai-society-politics-1.jpg",
-          "width": 1536,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "publishedDateTime": "2023-03-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi.md",
-      "title": "ChatGPT Raises Old And New Concerns About AI. A Conversation With Francesca Rossi",
-      "excerpt": "These issues are often called AI Ethics, or Responsible AI. Francesca Rossi points out that among other things, previous systems were trained on data sets which were more heavily curated, so attempts could at least be made to minimise the amount of bias they displayed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640814d6de92a3987c25191c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
-      "publishedDateTime": "2023-03-08T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
-      "title": "From marketing to design, brands adopt AI tools despite risk",
-      "excerpt": "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
-      "originalUrl": "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "expressnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

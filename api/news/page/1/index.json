@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job.md",
+      "title": "Startup Tells New Hires They Need To Know ChatGPT For a Job",
+      "excerpt": "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
+      "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
+      "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
+      "publishedDateTime": "2023-03-14T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-could-covid-cause-face-blindness-study-suggests-its-possible.md",
       "title": "Could COVID cause ‘face blindness'? Study suggests it’s possible",
       "excerpt": "\"It was like my dad’s voice came out of a stranger’s face.\" \"This one describes face recognition as one of the main deficits in the case study patient, but goes through to describe several tests used in determining different neurocognitive deficits ...",
@@ -50,6 +145,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes.md",
+      "title": "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes",
+      "excerpt": "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna74916",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916",
+      "publishedDateTime": "2023-03-14T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -107,21 +244,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-15-ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says.md",
-      "title": "AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says",
-      "excerpt": "The hottest AI technology foundation, OpenAI's GPT, got a big upgrade Tuesday that's now available in the premium version of the ChatGPT chatbot. The new GPT-4 can generate much longer strings of text,",
+      "path": "_news/2023-03-15-gpt-4-unleashed-heres-what-it-will-mean-for-ai-chatbots.md",
+      "title": "GPT-4 unleashed: Here’s what it will mean for AI chatbots",
+      "excerpt": "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/",
+      "webUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
+      "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 913,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,16 +266,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/",
-      "publishedDateTime": "2023-03-14T12:27:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T12:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "PC World",
+        "domain": "pcworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -154,6 +291,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -218,7 +356,7 @@
       "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -262,49 +400,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-opinion-ai-chatbots-are-still-far-from-replacing-human-therapists.md",
-      "title": "Opinion: AI chatbots are still far from replacing human therapists",
-      "excerpt": "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbots-are-still.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp",
-      "publishedDateTime": "2023-03-14T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api.md",
       "title": "This AI startup just raised $350 million for generative AI trained to use every software tool and API",
       "excerpt": "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?",
@@ -313,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -600,7 +695,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1039,6 +1134,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-14-cambridge-launches-ai-research-ethics-policy.md",
+      "title": "Cambridge Launches AI Research Ethics Policy",
+      "excerpt": "New guidelines will help researchers use generative AI tools like ChatGPT while upholding academic standards around transparency, plagiarism, accuracy and originality. The rules are set out in the fir",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31332608",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31332608",
+      "publishedDateTime": "2023-03-13T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi.md",
       "title": "You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi",
       "excerpt": "Things are moving at lighting speed in AI Land. On Friday, a software developer named Georgi Gerganov created a tool called \"llama.cpp\" that can run Meta's new GPT-3-class AI large language model, LLaMA,",
@@ -1088,153 +1226,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns.md",
-      "title": "Artificial intelligence can realistically replicate voices, raising new tech concerns",
-      "excerpt": "New artificial intelligence technology can replicate voices, giving users the ability to manufacture content involving celebrities, politicians or just about anyone. NBC News’ Gadi Schwartz shares more on the groundbreaking AI technology and the ethical implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678748553630_nn_gsc_ai_voice_cloning_230313_1920x1080-cex58r.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo165109829933",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933",
-      "publishedDateTime": "2023-03-13T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
-      "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
-      "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg",
-          "width": 760,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "publishedDateTime": "2023-03-13T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that.md",
-      "title": "Manufacturing A Specialized New, Infused Pre-Roll? There’s A Robot For That",
-      "excerpt": "Cannabis manufacturers have an increasing need for product customization which this entrepreneur says only robotics can solve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
-      "originalUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640f36260963e482477aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 887,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
-      "publishedDateTime": "2023-03-13T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

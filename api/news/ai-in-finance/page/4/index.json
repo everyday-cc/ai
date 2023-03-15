@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
+      "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
+      "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "originalUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/banking1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/banking-finance/reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains/2950310/lite/",
+      "publishedDateTime": "2023-01-16T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-top-10-fintech-and-innovation-trends-to-watch-in-2023.md",
       "title": "Top 10 Fintech and innovation trends to watch in 2023",
       "excerpt": "Following the increasing levels of automated processes and digitized transformations in financial services, Fintech companies are leveraging AI and Machine learning in handling “Big data” and ...",
@@ -1325,61 +1368,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Machine learning, or AI, involves training a system ... and improve the quality of care. In the financial services industry, via the company’s 2016 acquisition of Promontory Financial Group ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

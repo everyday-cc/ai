@@ -358,7 +358,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -948,6 +948,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-04-samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups.md",
+      "title": "Samsung Jet Bot AI+ Robot Vacuum with Object Recognition review: a robot vacuum for grown-ups",
+      "excerpt": "Forward-thinking features include LiDAR and 3D navigation, object recognition (and avoidance), and remote-control cameras. But before we delve into more geeky goodness, would you just look at it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "originalUrl": "https://www.techradar.com/reviews/samsung-jet-bot-ai-robot-vacuum-with-object-recognition-review-a-robot-vacuum-for-grown-ups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t2mUKj7ppXDa9eFLvmMDRU-1200-80.jpg",
+          "width": 970,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
       "title": "Can religion save us from Artificial Intelligence?",
       "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
@@ -1362,50 +1415,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
-      "title": "KT showcases self-driving delivery robot at MWC",
-      "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202302/753af40588424714809aeaaaa074b7d4.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "publishedDateTime": "2023-02-28T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13"
 type: article
 quality: 68
-heat: 98
+heat: 78
 published: true
 
 provider:
@@ -37,34 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Report on Machine Learning in Retail Market with Size and Latest Trends Analysis, Geographic Growth Factors During 2023 to 2028"
-    excerpt: "GlobalMachine Learning in Retail MarketNew Research Report 2022 | The Machine Learning in Retail market size is"
-    publishedDateTime: 2023-03-10T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-report-on-machine-learning-in-retail-market-with-size-and-latest-trends-analysis-geographic-growth-factors-during-2023-to-2028-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Analysis: Future Investments and Growth Factors until 2028"
-    excerpt: "The purpose of this report onMachine Learning in Medical Imaging Marketanalysis is to assist business owners in"
-    publishedDateTime: 2023-03-10T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

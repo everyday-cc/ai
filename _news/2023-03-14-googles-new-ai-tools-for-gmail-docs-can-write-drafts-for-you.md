@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

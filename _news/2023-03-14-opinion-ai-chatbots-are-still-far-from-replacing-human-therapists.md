@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-the
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
 type: article
 quality: 59
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -35,20 +35,11 @@ related:
     provider:
       name: PC World
       domain: pcworld.com
-    quality: 49
-  - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
-    excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
-    publishedDateTime: 2023-03-13T15:00:00Z
-    webUrl: "https://www.keranews.org/arts-culture/2023-03-13/a-fort-worth-artist-uses-painting-robots-here-are-his-thoughts-on-the-future-of-ai-art"
-    type: article
-    provider:
-      name: KERA News
-      domain: keranews.org
-    quality: 48
+    quality: 69
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 913
         isCached: true
   - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
     excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
@@ -73,29 +64,6 @@ related:
         width: 345
         height: 238
         isCached: true
-  - title: "Opinion: Is it time to start considering personhood rights for AI chatbots?"
-    excerpt: "But in recent months, we’ve witnessed a dizzying flurry of developments in AI, including language models like ChatGPT and Bing Chat with remarkable skill at seemingly human conversation. Given these rapid shifts and the flood of money and talent devoted ..."
-    publishedDateTime: 2023-03-12T01:02:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/12/opinion-is-it-time-to-start-considering-personhood-rights-for-ai-chatbots"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/09/1972532.jpg"
-        width: 1240
-        height: 794
-        isCached: true
-  - title: "How podcasters use ChatGPT and other AI tools in their workflows — and what listeners think the rules should be"
-    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
-    publishedDateTime: 2023-03-14T12:46:00Z
-    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
     publishedDateTime: 2023-03-14T19:49:00Z
@@ -104,6 +72,15 @@ related:
     provider:
       name: Winnipeg Free Press
       domain: winnipegfreepress.com
+    quality: 19
+  - title: "Snapchat’s AI could be the creepiest chatbot yet"
+    excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
+    publishedDateTime: 2023-03-14T23:47:00Z
+    webUrl: "https://www.fastcompany.com/90865731/snapchat-ai-could-be-creepiest-chatbot-yet"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 19
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."

@@ -23,100 +23,50 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ..."
-    publishedDateTime: 2023-03-14T16:39:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
+  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
+    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
+    publishedDateTime: 2023-03-14T23:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbots-are-still.jpg"
-        width: 1356
-        height: 668
-        isCached: true
-  - title: "GPT-4 unleashed: Here’s what it will mean for AI chatbots"
-    excerpt: "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ..."
-    publishedDateTime: 2023-03-14T19:31:00Z
-    webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
-  - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
-    excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
-    publishedDateTime: 2023-03-13T15:00:00Z
-    webUrl: "https://www.keranews.org/arts-culture/2023-03-13/a-fort-worth-artist-uses-painting-robots-here-are-his-thoughts-on-the-future-of-ai-art"
-    type: article
-    provider:
-      name: KERA News
-      domain: keranews.org
-    quality: 48
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
-    excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
-    publishedDateTime: 2023-03-13T13:30:00Z
-    webUrl: "https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing"
+  - title: "Think ChatGPT Is Smart? Ask It to Do Arithmetic"
+    excerpt: "People of all ages—especially my kids—have enjoyed hours of laughs asking its artificial intelligence silly and scatalogical ... AI does using the same basic tricks as ChatGPT. Chatbot therapy is a totally different kind of problem, and a bad match ..."
+    publishedDateTime: 2023-03-14T14:10:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic?amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
-    excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."
-    publishedDateTime: 2023-03-14T17:07:00Z
-    webUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 39
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
     images:
-      - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
-        width: 345
-        height: 238
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pexels-cottonbro-studio-5473955.jpeg.jpg?itok=mrYSeey0"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Opinion: Is it time to start considering personhood rights for AI chatbots?"
-    excerpt: "But in recent months, we’ve witnessed a dizzying flurry of developments in AI, including language models like ChatGPT and Bing Chat with remarkable skill at seemingly human conversation. Given these rapid shifts and the flood of money and talent devoted ..."
-    publishedDateTime: 2023-03-12T01:02:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/12/opinion-is-it-time-to-start-considering-personhood-rights-for-ai-chatbots"
+  - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
+    excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
+    publishedDateTime: 2023-03-14T20:40:00Z
+    webUrl: "https://www.jsonline.com/story/tech/2023/03/13/best-questions-ask-chatgpt-open-ai/11439179002/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 30
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/09/1972532.jpg"
-        width: 1240
-        height: 794
+      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
-    publishedDateTime: 2023-03-14T19:49:00Z
-    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
-    type: article
-    provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 19
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
-    publishedDateTime: 2023-03-13T19:18:00Z
-    webUrl: "https://theconversation.com/ai-chatbots-are-still-far-from-replacing-human-therapists-201084"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 17
 
 secured: "L+K2YGkvPLsYu63MPYEHgZEzZOnp/dN20/7j942/UcLdkWrI75WciCIwtXOjEEZcvTJ5m8SFUivEs93PokOFvd7Kgh02rrWuTMX48VAfXmhJdsxJ0wIbsOHKmxCpPxaQVcTN7tRIVo8aF0+6auvw050YMGLzqnA3tzA48cLd4XxSuAH5HUb88O+gqePuZSV62RSKKI2LsDlZoUlI/Q0TT2LBLVtdSHGXZc99TbsEvYK359LcvLlGYA4HaN8ls3WrPkRGxqFuXDlM0Jumv7NtfpPJRoBdDDO9hQNuLhrL0aD65ObTKv3wNjH5RpzpbNjDo0z7DJBuOUW8Ibuyb2j9CTAoNiDtiMs5xl6XLEpl1DKf/2kkABhT0DH4/CwmXNkZkVvsIFEALzEtPMz+isBeCyin/Ijzuv9f+rosutrSlPIH1/9AFklysddDy9gRTS8j5M7uOqoowtYSSh2LIoNgpY+LUVstMJHSSMwLkM9XEO05EGFte9GQD2LzkPG5VdX4/chyOl3e680eOiA5D2gJ1w==;rVw7+wO0fY4xkOIO3NFvKA=="
 ---

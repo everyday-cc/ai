@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-a
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

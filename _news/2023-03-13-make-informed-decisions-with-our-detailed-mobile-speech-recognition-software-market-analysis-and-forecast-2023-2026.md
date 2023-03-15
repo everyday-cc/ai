@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Evolution of Artificial Intelligence (AI) Robots Market 2023: Future Developments and Trends by 2028"
-    excerpt: "Latest Research Report 2023-2028: “Artificial Intelligence (AI) Robots Market” | Survey with 125 Pages Report The Artificial Intelligence (AI) Robots Market is a dynamic and constantly evolving industry,"
-    publishedDateTime: 2023-03-10T06:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-evolution-of-artificial-intelligence-ai-robots-market-2023-future-developments-and-trends-by-2028-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029"
     excerpt: "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-14T01:02:00Z
@@ -323,6 +309,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Artificial Intelligence Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Artificial Intelligence Market” Size 2023 Key players Profiled ..."
+    publishedDateTime: 2023-03-14T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market : Detailed Analysis of Industry, Attractive Valuation and Growth Forecast Up to 2029"
     excerpt: "The \"Artificial Neural Networks Market\" study describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-14T00:51:00Z
@@ -444,6 +444,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Global Artificial Intelligence in Accounting Market by Component, Application, Technology, Vertical & Region - Forecast to 2030"
+    excerpt: "The scope of the report, which outlines the precise market segments that the Artificial Intelligence in Accounting report will focus on, is a crucial component of the study. The investigation's parameters and objectives are established by the report's scope."
+    publishedDateTime: 2023-03-14T20:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-artificial-intelligence-in-accounting-market-by-component-application-technology-vertical-region---forecast-to-2030-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

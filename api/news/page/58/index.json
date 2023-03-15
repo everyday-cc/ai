@@ -2,6 +2,224 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-01-27-explainer-what-is-an-australian-black-voice-to-parliament.md",
+      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
+      "excerpt": "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/wirestory_07694a5fc5e28b243c09873c994bb3d6_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
+      "publishedDateTime": "2023-01-26T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.md",
+      "title": "An Oregon school district turns to artificial intelligence to beef up campus security",
+      "excerpt": "A Klamath Falls school district is using artificial intelligence to try to prevent future school shootings. Klamath Falls City Schools is partnering with Pennsylvania-based ZeroEyes, whose AI technology will be linked with the district’s existing network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
+      "originalUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XWUW53UBSZCWTILTHPC3NLOC64.png",
+          "width": 1554,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
+      "publishedDateTime": "2023-01-26T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats.md",
+      "title": "A robot was scheduled to argue in court, then came the jail threats",
+      "excerpt": "The man behind a startup called DoNotPay planned to use AI to help fight a traffic ticket. But professional lawyers shut it down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats",
+      "originalUrl": "https://www.wlrn.org/technology/2023-01-26/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/f2f3f2a/2147483647/strip/true/crop/876x540+0+106/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2F22222_custom-32c6a66f8277ba536f6b7c8d91afd3debcf30a4a.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true",
+      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/technology/2023-01-25/a-robot-was-scheduled-to-argue-in-court-then-came-the-jail-threats?_amp=true",
+      "publishedDateTime": "2023-01-26T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
+      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
+      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
+      "publishedDateTime": "2023-01-26T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-irbo-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf.md",
+      "title": "IRBO iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF",
+      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2022-01-27 00:00:00 to 2023-01-27 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -51.98 to 22.96.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/symbol/IRBO/peers/comparison",
+      "originalUrl": "https://seekingalpha.com/symbol/IRBO/peers/comparison",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-sanskrit-language-code-cracked-by-phd-student.md",
       "title": "Sanskrit Language Code Cracked by PhD Student",
       "excerpt": "A 2500 year old grammatical problem has finally been solved by PhD student Rishi Rajpopat at the University of Cambridge.",
@@ -972,242 +1190,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-can-you-flirt-better-than-artificial-intelligence.md",
-      "title": "Can You Flirt Better Than Artificial Intelligence?",
-      "excerpt": "Chatting on dating apps is awkward. With new AI-driven apps, entrepreneurs are looking to cut the small talk and get more people on actual dates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-704289/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
-      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
-      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
-      "title": "How to build a neural network in Java",
-      "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
-      "originalUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/23/15/istock-1268123564-100931530-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
-      "publishedDateTime": "2023-01-26T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy-and-improving-diarization.md",
-      "title": "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization",
-      "excerpt": "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
-      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
-      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
-      "publishedDateTime": "2023-01-26T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
+    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
+    publishedDateTime: 2023-03-14T23:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Think ChatGPT Is Smart? Ask It to Do Arithmetic"
     excerpt: "People of all ages—especially my kids—have enjoyed hours of laughs asking its artificial intelligence silly and scatalogical ... AI does using the same basic tricks as ChatGPT. Chatbot therapy is a totally different kind of problem, and a bad match ..."
     publishedDateTime: 2023-03-14T14:10:00Z
@@ -40,6 +54,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "How podcasters use ChatGPT and other AI tools in their workflows — and what listeners think the rules should be"
+    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
+    publishedDateTime: 2023-03-14T12:46:00Z
+    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "JlWJEkS3c8WcFhiB2HcZUM6C1hSHmQoxkih4032Zu/i9MSBqhpLGVVbqiZ4K5yWAgbe38mOW3OMR7O0yHmEd4eigThnmHIP8xTfO9LydzL/ScOyZH761Gc1o0tgtVwBh9U3AALM6ENLk3bpM/tYIGJ02E3CUUb+coEJeww7o/ZSU+UKodgr/sxLRDlVvrQzyXu3wgmGimGIfPcjlAcZBM0pY/H8AAi3dRS/peiVe8NuZb06/x2D98MQhJL1Q7Ii4w+SwvgS9D6Hh0mRtR63X0IDB57cJTmB5dfESlsthoFJeztnN/vUQl4MSvEP5Sj8itY5bSus7duoyGUN/ODh2aCpMMGs4ms7ieFhwVlM/7fw=;Cf3gnpZ24YLpihYMVVisfQ=="
 ---

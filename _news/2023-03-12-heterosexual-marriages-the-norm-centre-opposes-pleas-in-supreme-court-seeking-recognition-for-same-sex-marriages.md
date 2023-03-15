@@ -27,22 +27,91 @@ images:
     isCached: true
 
 related:
-  - title: "Same-sex marriages will wreak havoc: Govt in SC"
-    excerpt: "Legal validation of same-sex marital unions will cause “complete havoc” with the delicate balance of personal laws in the country and in accepted societal values, the Union government told the Supreme Court in an affidavit filed on Sunday,"
-    publishedDateTime: 2023-03-12T20:44:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/samesex-marriages-will-wreak-havoc-govt-in-sc-101678653887822.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/samesex-marriages-will-wreak-havoc-govt-in-sc-101678653887822-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/samesex-marriages-will-wreak-havoc-govt-in-sc-101678653887822-amp.html"
+  - title: "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ..."
+    publishedDateTime: 2023-03-14T22:24:00Z
+    webUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749"
+    ampWebUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
     images:
-      - url: "https://images.hindustantimes.com/default/1600x900.jpg"
-        width: 1600
-        height: 900
+      - url: "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg"
+        width: 650
+        height: 400
         isCached: true
+  - title: "\"Marriage In Hinduism Is 'Sanskar', Not Contract Or Enjoyment\": RSS On Same-Sex Marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
+    publishedDateTime: 2023-03-14T15:36:00Z
+    webUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053"
+    ampWebUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 35
+    images:
+      - url: "https://c.ndtvimg.com/2021-10/r0bni7l8_dattatreya-hosabale-650_625x300_23_October_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
+    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice LGBTQ activist Prijith PK o"
+    publishedDateTime: 2023-03-14T22:17:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273628910/catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1678828201.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Breaking news live: Centre files affidavit before SC, opposes legal recognition of same-sex marriage"
+    excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss Centre files affidavit before Supreme Court, opposes the legal recognition of same-sex marriage. Centre tells SC that same-sex relationships & heterosexual relationships are clearly distinct classes which cannot be treated identically."
+    publishedDateTime: 2023-03-12T08:52:00Z
+    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/liveblog/98573226.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
+    images:
+      - url: "https://static.toiimg.com/photo/msid-98573226/98573226.jpg?pl=753347"
+        width: 293
+        height: 224
+        isCached: true
+  - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
+    publishedDateTime: 2023-03-14T15:11:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2379135-marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-backs-centres-stand-against-same-sex-marriage"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 18
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_03_2023_15_11_35_8671234.jpg?width=920&format=jpeg"
+        width: 920
+        height: 690
+        isCached: true
+  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
+    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
+    publishedDateTime: 2023-03-12T11:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
 
 secured: "9fs79ymPTl6uJo7bxQ5XglBnj8O9EgpGqGIU+1Te++v26QxSN4wuwQd/AkVx7DvJWNLfmlg0PtYJDV6gLyB+EJvMpINFuMYxE1pit6UB36fSBxJpwoKvZtQzAurCz+vXbS6yYeRfOykmk+tmr/Rp/dfgW6Ob9pQ+mh1XssrKGZVlQODdOgPq/XVNrggKDM8Tf8d2x5WUg31k6beqUyMUJ/s27t2QN7FMdxlqaufEwF+hIMM/xXwTvNcdZ5tsFz2ml8ugrCwWAxMYerKYm+u773I2Bfo3wDVv8kSZtXmdrxXhwfp+vLpLiQMqZqXL8qaTMEeopnJIIgr/lp2zfducBS2Qcx9XrSwHHG8QnkzrXDM=;ZWt2XeJrDwaLbno1wOscfA=="
 ---

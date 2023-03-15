@@ -8,9 +8,9 @@ webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-w
 ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
 type: article
-quality: 87
-heat: 117
-published: true
+quality: 89
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
+    excerpt: "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded."
+    publishedDateTime: 2023-03-14T20:54:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 100
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art"
     excerpt: "After months of anticipation, OpenAI has released a powerful new image- and text-understanding AI model, GPT-4, that the company calls ... s testing it with a single partner, Be My Eyes, to start with. Powered by GPT-4, Be My Eyes’ new Virtual Volunteer ..."
     publishedDateTime: 2023-03-14T17:25:00Z
@@ -46,6 +63,45 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
+    excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
+    publishedDateTime: 2023-03-14T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/"
+    ampWebUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT now chatting via Azure OpenAI Service"
+    excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
+    publishedDateTime: 2023-03-10T20:52:00Z
+    webUrl: "https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
+  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
+    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
+    publishedDateTime: 2023-03-12T03:47:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
     excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
     publishedDateTime: 2023-03-14T19:16:00Z
@@ -55,6 +111,45 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
+  - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
+    excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
+    publishedDateTime: 2023-03-13T17:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/colossal-ai-releases-open-source-framework-for-chatgpt-replication/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI announces GPT-4, which was powering Bing the whole time"
+    excerpt: "OpenAI officially announced its multimodel language model GPT-4 on Tuesday, and the AI is capable of seeing images for the first time."
+    publishedDateTime: 2023-03-14T19:09:00Z
+    webUrl: "https://bgr.com/tech/openai-announces-gpt-4/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/gpt-4.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1282
+        isCached: true
+  - title: "OpenAI ups the ante in AI wars with GPT-4"
+    excerpt: "Inaccurate responses known as “hallucinations” have been a challenge for many AI programs. Microsoft stands to benefit ... OpenAI’s latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious businesses ..."
+    publishedDateTime: 2023-03-14T23:32:00Z
+    webUrl: "https://www.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
+    ampWebUrl: "https://amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
     excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
     publishedDateTime: 2023-03-14T19:41:00Z
@@ -65,6 +160,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "TxiJH+Vy19MSITQImHqNWh4Wa0z3SFLDwProUseUd+cIHjQgG758V2rl2gywZEFS3CpZiw4pY3jroVuriEFNoCCfpaRTz/u7NZOFZSw2AQpsmVU0iyc5qsL2o1HC0sSudzq21Q6rBaMG3jwpaqcCoKQFZOis43mJZbQpZgworYfUfOZRmTyCnLuo6UhLeX2ZR5basBsXslDEu5DoD5GY0OLuDWz5O6PjuB4XDEXTyEJPAlKGrmrJm3cpGCz0mer+FSWAG8MWsNE3n5KvbSQKNdZGH+SojCM23GLA1epnVVweCRbKjpbA2C4t97LRAOmM18SKJAJjKaMqsG+iJ8K1gvFYgxNylL30LRdAL5ZHAJI=;lRlqvmLtasmsVelj0NP4QA=="
+secured: "/2xUQoVbYcztAWfcJ0QkJoyxBWN2lBW9QytF1K2nLR/+4szqUy4gkvwJ023XOzcQXW2sgSVuvCHZ1DM0dxAXRXYqqTm5ma1RMBLRC8rrCM+xs5oDt/6nXcDKtg+cHs8g2EsayIfmVdPeuqpW7jB65rjX1oPRHRp2hCDp8NmFmPANFn9dkusveQF7sF7xmbtYIMBdeQ1VpTEwusCD6roXgdGfyxerZ8tiec5gwpkZ4w+8EDIk4q5Yn0ViDwhVU155Cx06w9gfbbad3xbAGWywf6EXFC8X669sAqh6FXSPFi/1j4qilwHza7U+0CR+AeP1QUmZmR3ZuLFP+fY98VK9T0VjO9rkR0qGucSNGywHtkrlf+lF1D1znVMcSiQTpv88RUXbBdIBQS1SqahNKD/XeYSiUKQpTnuKt3y/uXDAaJC0ju/kc+ZTRCOxJDoukyYYp7Q0wj0+CRanWFeQiwt2Bg74KQU/HSIhdJLseHJ4DpOrG77gNBJ9nDf8K8Y2aQXQE6MaE74riPcwCS4+Wk2ZYQ==;a+hZInUoAq118mk4A8jKjw=="
 ---
 

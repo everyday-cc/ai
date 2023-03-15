@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-gpt-4-unleashed-heres-what-it-will-mean-for-ai-chatbots.md",
+      "title": "GPT-4 unleashed: Here’s what it will mean for AI chatbots",
+      "excerpt": "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
+      "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 913,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v-ai.md",
       "title": "Tenstorrent Opens Office In Japan To Capitalize On RISC-V + AI",
       "excerpt": "Tenstorrent, the Toronto-based semiconductor company, now led by the super-star chip designer Jim Keller, has just opened a new office in Japan. So, as many other AI startups are struggling, Tenstorrent is doubling down. We believe this telegraphs the ...",
@@ -201,7 +253,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 421,
+      "heat": 441,
       "tags": null,
       "images": [
         {
@@ -306,7 +358,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1400,58 +1452,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-smarter-ai-needs-more-memory-and-storage.md",
-      "title": "Smarter AI Needs More Memory And Storage",
-      "excerpt": "Sanjay Mehrotra of Micron, spoke about the importance of memory to the semiconductor industry and with Rene Haas and Ronnie Chatterji discussed topics such as the CHIPS act, chiplets and the IP industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/02/28/smarter-ai-needs-more-memory-and-storage/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/02/28/smarter-ai-needs-more-memory-and-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe6a57d4e78867ac7edce5/0x0.png?format=png&width=1200",
-          "width": 977,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/02/28/smarter-ai-needs-more-memory-and-storage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/02/28/smarter-ai-needs-more-memory-and-storage/amp/",
-      "publishedDateTime": "2023-02-28T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

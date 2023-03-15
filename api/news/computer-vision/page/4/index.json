@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-04-virginia-senate-democrats-kill-youngkin-backed-bill-on-school-awards.md",
+      "title": "Virginia Senate Democrats kill Youngkin-backed bill on school awards",
+      "excerpt": "Virginia Senate Democrats voted to kill the GOP Gov. Glenn Youngkin-backed bill on school awards. The bill would have required student and parent notification about certain awards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/virginia-senate-democrats-kill-youngkin-backed-bill-school-awards",
+      "originalUrl": "https://www.foxnews.com/us/virginia-senate-democrats-kill-youngkin-backed-bill-school-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/484fed0a-925f-4a53-a249-f798fa824e4a/900665c9-6ebf-4e9e-9a2c-df0740b969e4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/virginia-senate-democrats-kill-youngkin-backed-bill-school-awards.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/virginia-senate-democrats-kill-youngkin-backed-bill-school-awards.amp",
+      "publishedDateTime": "2023-02-03T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-836-billion-by-2028.md",
+      "title": "The Worldwide AI in Computer Vision Industry is Expected to Reach $83.6 Billion by 2028",
+      "excerpt": "This report assesses the application of AI in computer vision systems used in conjunction with connected devices, hardware components, embedded software, AI platforms, and analytics. The report analyzes machine learning models and APIs used in computer vision systems along with the application of neural networks in AI analytics systems.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/03/9754717.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/03/9754717.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-why-tech-billionaires-love-middle-earth.md",
       "title": "Why Tech Billionaires Love Middle-earth",
       "excerpt": "Under the Trump Administration, the company began building surveillance towers along the U.S.-Mexico border that track undocumented immigrant crossings using object recognition. Computer scientists and human rights groups say virtual border wall projects ...",
@@ -1368,110 +1454,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-the-6-most-important-tech-trend-predictions-for-2023.md",
-      "title": "The 6 Most Important Tech Trend Predictions For 2023",
-      "excerpt": "Here we look at the 2023 tech predictions, based on an interview with Deloitte's Chief Futurist Mike Bechtel. We discuss AI, the metaverse, decentralized systems, and even mainframe modernization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ca418536b41c24dc922d82/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
-      "publishedDateTime": "2023-01-19T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-the-enemies-list-at-madison-square-garden.md",
-      "title": "The ‘Enemies List’ at Madison Square Garden",
-      "excerpt": "This is “The Daily.” [THEME MUSIC] Today, with little warning or regulation, more and more companies have begun using facial recognition technology on their customers, they say as a security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/19/multimedia/18daily-1/13Daily-MSG-audio-app-zcgv-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/18/podcasts/the-daily/facial-recognition-madison-square-garden.amp.html",
-      "publishedDateTime": "2023-01-18T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

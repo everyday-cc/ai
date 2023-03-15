@@ -2,9 +2,9 @@
 category: news
 title: "Kneron KL720 supports Qualcomm for virtually seamless AI for robotics, drones and industry 4.0"
 excerpt: "Leading edge AI solutions provider Kneron announces today that its KL720 AI SoC now supports the Qualcomm® Robotics RB1 and Qualcomm® Robotics RB2 Platforms from Qualcomm Technologies, Inc. for robotics,"
-publishedDateTime: 2023-03-14T20:18:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776983.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/14/9776983.htm"
+publishedDateTime: 2023-03-14T23:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/03/14/9776983.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/03/14/9776983.htm"
 type: article
 quality: 39
 heat: 39
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "f7EQKOEFcrFp+mynkFWpvNexNsjMKXXtZG5oyEZvpq/BKZt1LHjPAm1DtHuif7gw1VwfEasmEhoK7ySEVFazeXJS4572/hBS/l+u2/MjG3vjcn/bi9gmQtp91QokAGYYwXjCnpBpMLJfl7kpL2joNrvIIfpmR1gPdzh87PuSWiDDvg0YN2VnluIFebd+gB4QL/KRjfx6qdMpav1I8PAZyfLbaixEm8aG048e+TEFozlwNDBUOkNDZ86K4HyVYR/JTjbcWTGHVBSBaGaAkoN8BbP6LY6NzpNoizX2AIvzMDKbZgDDDcFhsoCf6OI7NUuvE4OjCEWlR+kkK0W1MtATtFL52vx/kC/O+sFl7d22+hw=;32Pu2T/3A2sGLNBUXLVxQA=="
+secured: "IePQl/me6rOi8DPhgwiqvd7b4GqNrSU1NKNJ60hSlBejh1PTVlfPXU5LpCuFg2iEiXCJlFELhXreNb7dUEeUiiQsZb+9F8qGI9837wrffaDkDd4IE7RjUU7EbblBnc9Shoa4ZVrMwc6T2UM/068EvtsIW29in8dTBJeUUytv+5OfdPMPUfZC2SyWsCtjS10gk0UK0VqyeqC7Eeouyy+TMqiRGv5aA/Yz3L7Ofg+JRB0+MCE+Saumzny/XneVkPHc8/3EYAZ9QRU/NgUiSUrJHTGpxm5hxCpMl6zZxxZf7JS6fHp0O8l/ZmpisvMDl8acxxGy/LkVAMZYDeVJVR12AEXH38GO/HxtwPcivjMqIps=;nJSlfgNaV0P3GUiMeAGT7A=="
 ---
 

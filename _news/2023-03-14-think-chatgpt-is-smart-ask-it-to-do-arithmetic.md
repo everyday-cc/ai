@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/your-internet-brain/202303/t
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
+    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
+    publishedDateTime: 2023-03-14T23:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
     excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
     publishedDateTime: 2023-03-14T20:40:00Z
@@ -41,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How podcasters use ChatGPT and other AI tools in their workflows — and what listeners think the rules should be"
+    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
+    publishedDateTime: 2023-03-14T12:46:00Z
+    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
 
 secured: "Qd8RrIlxZkACytRSZPt/+aQPj7DMuAOd7jQzktuZglkABHTuQWWK58U2ekV+Z1rEFH6nMYN+dJPz761V7ISI239brYKVlUtueRhu8U7idX9ZYfVtOPs+kUh8Tv+ykCxAzKhxuwRp5DNOiFxZ7+bKiUM9stDNqvWXZa9psdLpwQfboQHcwfdQ7VK03GlR/cEXB8b3muGHBar0uglC8kxhI98ZghDAgBodd+TSrD2kZeYUtcD7QnwLUYs8ql0zSR/MrejgnkFXSmzDPTeDDYdBKMkARtZ0hlmoD2QNMswQwr650jj2kL9ZRUUBPcsrKBoJviyumjk04FyoJKWCPWWkqQltNxi7DT3XKgddivESdlY=;LE8wQP1gjHV0cnGcT4PFXA=="
 ---

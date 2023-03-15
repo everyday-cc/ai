@@ -50,7 +50,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "AI startup Adept raises US$350 million in fresh funding"
+    excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
+    publishedDateTime: 2023-03-14T20:59:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-startup-adept-raises-us350-million-fresh-funding-3347151"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "t64LGzkjIiMEjj1+fWSgSQhlsqHCFqJEMZe8NJzgceF+sf3+Rpfzkki01Aldatij76FLB+M2TzjenjdpZBAG0NXwLs6d0N8uv6Xca49ZX63Weg2onP9YqHx8Yh3GEMpYe33Ux622/4B7KNdvtGKnawzz1RM7SbHTEVbasV52l1QFXsISwEF9rp9PvwZKhSemThJwwyCMWbDI9fM2cy6ubPhZyzSDoJPxnz+7NVHw/Yje+Ug93aseSFuu5drflGYc2Umyset+G/9o8ctIQ5tWhGzZhBAWPrCXT2yzHbpCfLNZGP916cbZkOQL9N9YjsxBlx3psjzuH4n9qVPllIwSGTmrm4eMGJEHGrflMBmTr3c=;4ysc2NS26khKy89pH+5lrw=="
+secured: "kz7y/wl5ZTZEkD0jc2BsFmofWFxqv5kLifh7Yn60tjSEfNG2IK11tL2nBo5GUQKm2vlGk/bLGa9rOywghCs7CQruc9BXyV4+gMZaqI1KloaaxGL241yEqMOLvPnzHGlQv4GVoWwBsffEUzSlbdRbU8RH6YsDofZvB72SKmbhqE3BAOBZf1L8S3cFqByX1Vo7W60m41ulabjC8x8j9wDldCHL0AHQLbiTuIB4EgGW9mBEdiHcOfy6qP1KKOnGZNt6JFx/172BS4WFArC7UkLz042T9b6fprjeWgQXu5tTe8BpDQBhLoSOXqNgNrlta3bM/z4Ajy2ThO5W+ydAMqXFqcQ9z3FnbT2Q/U5F8154KgH0RDktJKHiQcLXt6iNPMlEcKi0JsWIswZBTDafIBvGcHo1KtsasXngU0mSMrhCIqGyAZAuEI+Syg+IVedFX0dwus5/SUysPWBN07mYDb7Gpa4xG3EA3Rnjj5nWKEY99iZo2llnpcUurzUmG8lPbaOD6dDrXBhOEVn7vD+Seh0NHA==;qHopd0Tje2TyKdNAmlFKxg=="
 ---
 

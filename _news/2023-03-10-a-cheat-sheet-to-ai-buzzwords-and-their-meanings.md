@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Peter Gabriel on the future of AI: 'We might as well just grab the algorithms and dance with them, rather than fight them'"
+    excerpt: "\"When an intelligent species is so smart that it can destroy itself, it very often does,\" says Gabriel. \"I hope we don't fall into that trap, but we can have a wonderful party on the way to jumping over the cliff."
+    publishedDateTime: 2023-03-14T23:38:00Z
+    webUrl: "https://www.aol.com/entertainment/peter-gabriel-future-ai-might-203833721.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/xuQHWGwH68MpJKNf4B0NXA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDQ-/https://media.zenfs.com/en/aol_yahoo_music_149/e5d27db5a66b5ea2ba23ea07a0e81fbe"
+        width: 1199
+        height: 644
+        isCached: true
 
 secured: "c3X+Hf7zNyUoAUMT3XYvOvI2v20P4diWKSlqFXGOpsKNZm2//2wJsnhhNzOKiIm86Hn2pwKmVe6uS6262PptPMiI6JMW+06hjmTE+5+RxI6IPiNU99prDTIT0pOfpSwZyAPFlVGvm70jKWofEGXTcpePdt5B/JVmpxzqLxVlXeo8m+iprlf6gpbfUicguIILgDf3X2J2meTucfoHuzVc9c0o6YPUI1BiUIo2I5prsOEIm9Sni9B4BwvAJ2P899db1AUmMQxGv8AvOWsD01nXWnF7YdALCDVjScWm+CDmd6/wybtemVLMchvvOO/ItZTT668DrYB6HuniDVY+WenjLETUPMWor80Ab8CHpanOsA9WKaMuodyss+pl2/qH2a2Ugxk7FMd90/K+yI9yhoM8kw9ufGDp+LPkJcotprd1oo2P9K0EKdLkYOaUdQDXCDgskL8vPNOzIKdRz4tE541xyr0Qxr447/W4/TpLcABLpQMdfBL29jgRhN9T8ZHfn/LtCRK/Rat1VjqAMzg7ooojnQ==;ZCm3BQXQZLyQI4Y4pmUxzw=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amid Bing Chat controversy, Microsoft cut an AI ethics team, report says"
+    excerpt: "Calling the work of the ethics and society team “trailblazing,” Microsoft said that the company had focused more over the past six years on investing in and expanding the size of its Office of Responsible AI. That office remains active, along with ..."
+    publishedDateTime: 2023-03-14T22:10:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 120
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1246861873-800x532.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Microsoft fires ethics and society team with AI division"
     excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
     publishedDateTime: 2023-03-14T05:40:00Z
@@ -319,6 +335,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-03/14/I_01675image_story.jpg"
         width: 400
         height: 250
+        isCached: true
+  - title: "Microsoft Cuts AI Ethics Team"
+    excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
+    publishedDateTime: 2023-03-14T23:53:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/14/microsoft-cuts-ai-ethics-team.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/REDSchwartz0613BlogBalance.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."

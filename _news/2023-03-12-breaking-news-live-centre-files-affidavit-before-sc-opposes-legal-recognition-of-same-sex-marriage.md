@@ -27,37 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "SC refers petitions seeking legal recognition of same-sex marriage to Constitution Bench"
-    excerpt: "Bench headed by CJI DY Chandrachud listed petitions seeking legal recognition of same-sex marriage to a five-judge bench constitution bench"
-    publishedDateTime: 2023-03-13T06:36:00Z
-    webUrl: "https://www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html"
-    ampWebUrl: "https://www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html/amp"
+  - title: "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ..."
+    publishedDateTime: 2023-03-14T22:24:00Z
+    webUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749"
+    ampWebUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "\"Marriage In Hinduism Is 'Sanskar', Not Contract Or Enjoyment\": RSS On Same-Sex Marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
+    publishedDateTime: 2023-03-14T15:36:00Z
+    webUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053"
+    ampWebUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
     quality: 35
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2023/01/Untitled-design-2023-01-03T192727.872.jpg"
-        width: 1200
-        height: 800
+      - url: "https://c.ndtvimg.com/2021-10/r0bni7l8_dattatreya-hosabale-650_625x300_23_October_21.jpg"
+        width: 650
+        height: 400
         isCached: true
-  - title: "\"Institution of marriage is matter of policy; govt not interfering in anybody's personal life\": Union Law minister"
-    excerpt: "Asserting that the institution of marriage is a matter of \"policy\", Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in the personal life of anybody by opposing the plea seeking legal recognition of same-sex marriage."
-    publishedDateTime: 2023-03-13T11:40:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
+  - title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
+    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice LGBTQ activist Prijith PK o"
+    publishedDateTime: 2023-03-14T22:17:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273628910/catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 33
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1678828201.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "'Heterosexual Marriages The Norm' : Centre Opposes Pleas In Supreme Court Seeking Recognition For Same-Sex Marriages"
+    excerpt: "The notion of marriage itself necessarily presupposes a union between two persons of the opposite sex, said the Central Government in its counter-affidavit filed in the Supreme Court opposing a bunch of petitions which seek legal recognition for same-sex marriage."
+    publishedDateTime: 2023-03-12T09:43:00Z
+    webUrl: "https://www.livelaw.in/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
+    ampWebUrl: "https://www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 21
+    images:
+      - url: "https://www.livelaw.in/h-upload/2023/03/12/500x300_463050-20233largeimg263218209.jpg"
+        width: 500
+        height: 300
+        isCached: true
+  - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
+    publishedDateTime: 2023-03-14T15:11:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2379135-marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-backs-centres-stand-against-same-sex-marriage"
     type: article
     provider:
       name: devdiscourse
       domain: devdiscourse.com
-    quality: 22
+    quality: 18
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_11_40_10_8874342.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_03_2023_15_11_35_8671234.jpg?width=920&format=jpeg"
+        width: 920
+        height: 690
         isCached: true
   - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
     excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"

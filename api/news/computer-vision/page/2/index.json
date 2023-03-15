@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
+      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
+      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "publishedDateTime": "2023-02-27T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028.md",
+      "title": "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028",
+      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-why-facial-recognition-could-spell-the-end-of-anonymity-in-public.md",
       "title": "Why facial recognition could spell the end of anonymity in public",
       "excerpt": "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried",
@@ -1271,92 +1376,6 @@
       "provider": {
         "name": "Electropages",
         "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
-      "title": "How AI and Facial Recognition Can Chill Access to Justice",
-      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-professor-to-use-nsf-career-award-to-advance-open-world-computer-vision.md",
-      "title": "Professor to Use NSF CAREER Award to Advance Open-World Computer Vision",
-      "excerpt": "School of Interactive Computing assistant professor Zsolt Kira believes the future of machine learning and computer vision exists in continuous open-world learning. The National Science Foundation seems to agree.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/professor-use-nsf-career-award-advance-open-world-computer-vision",
-      "originalUrl": "https://www.cc.gatech.edu/news/professor-use-nsf-career-award-advance-open-world-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Zsolt%20Kira_86A0201%20copy.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
         "images": null,
         "publishers": null,
         "authors": null

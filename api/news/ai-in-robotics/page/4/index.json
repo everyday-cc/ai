@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
+      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
+      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
+      "publishedDateTime": "2023-02-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
       "title": "AI-Powered FRIDA robot collaborates with humans to create art",
       "excerpt": "Carnegie Mellon University's Robotics Institute has a new artist-in-residence. FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art.",
@@ -1086,40 +1130,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-east-elem-students-use-robotics-to-create-unique-art.md",
-      "title": "East Elem. students use robotics to create unique art",
-      "excerpt": "Students at East Elementary School used rolling robots to create artwork, as part of the school’s broader robotics and coding curriculum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cullmantimes.com/news/east-elem-students-use-robotics-to-create-unique-art/article_13c70da6-a64f-11ed-be52-2f36e534b2fd.html",
-      "originalUrl": "https://www.cullmantimes.com/news/east-elem-students-use-robotics-to-create-unique-art/article_13c70da6-a64f-11ed-be52-2f36e534b2fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cullman Times",
-        "domain": "cullmantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,204 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-02-06-gender-recognition-reform-rally-in-glasgow-met-with-counter-protest.md",
+      "title": "Gender recognition reform rally in Glasgow met with counter-protest",
+      "excerpt": "Hundreds gathered in the city centre of Glasgow as a gender recognition reform protest was met with a counter-protest formed of trans",
+      "sourceUrl": null,
+      "webUrl": "https://www.glasgowtimes.co.uk/news/23300718.gender-recognition-reform-rally-glasgow-met-counter-protest/",
+      "originalUrl": "https://www.glasgowtimes.co.uk/news/23300718.gender-recognition-reform-rally-glasgow-met-counter-protest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.glasgowtimes.co.uk/news/23300718.amp/",
+      "cdnAmpWebUrl": "https://www-glasgowtimes-co-uk.cdn.ampproject.org/c/s/www.glasgowtimes.co.uk/news/23300718.amp/",
+      "publishedDateTime": "2023-02-05T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glasgowtimes",
+        "domain": "glasgowtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-a-simple-guide-to-the-expansive-world-of-artificial-intelligence.md",
+      "title": "A simple guide to the expansive world of artificial intelligence",
+      "excerpt": "Artificial intelligence is in everything nowadays. Use this guide to understand what, exactly, AI is, and how to think about its different applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/artificial-intelligence-definition/",
+      "originalUrl": "https://www.popsci.com/technology/artificial-intelligence-definition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/02/02/Depositphotos_191578900_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/artificial-intelligence-definition/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/artificial-intelligence-definition/?amp",
+      "publishedDateTime": "2023-02-05T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ibm-watson-enlisted-to-combat-substance-abuse.md",
+      "title": "IBM Watson enlisted to combat substance abuse",
+      "excerpt": "The deal will see the Watson AI be used by Texas-based software firm ... \"It’s time to leverage an advanced cognitive technology platform like IBM Watson to help make the right, evidence-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-an-interview-with-ai-what-chatgpt-says-about-itself.md",
+      "title": "An interview with AI: What ChatGPT says about itself",
+      "excerpt": "To find out how good ChatGPT really is — and if I'll have a job by this time next year — I decided to give it a test drive, attempting to get as close as possible to interviewing it in the way I would any other source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
+      "originalUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest.md",
+      "title": "AI Art Accidentally Wins Destiny 2’s ‘Art Of The Week’ Fanart Contest",
+      "excerpt": "The Destiny 2 community has run into a situation where a piece of AI art actually won one of the slot’s in Bungie’s “Art of the Week” contest in the TWAB.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/02/05/ai-art-accidentally-wins-destiny-2s-art-of-the-week-fanart-contest/amp/",
+      "publishedDateTime": "2023-02-05T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-05-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
       "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
       "excerpt": "OPINION: Knowing what ethical risks may play out at a country level is important because it can help policymakers and organisations to adjust their risk management policies and practices accordingly,",
@@ -810,220 +1008,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-how-third-generation-ai-powered-digital-twins-can-save-energy.md",
-      "title": "How third-generation AI-powered digital twins can save energy",
-      "excerpt": "How advanced third-generation digital twins using AI algorithms can help producers accomplish their energy-saving goals.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
-      "originalUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/network-infrastructure.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-third-generation-ai-powered-digital-twins-can-save-energy/amp/",
-      "publishedDateTime": "2023-02-03T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
-      "title": "How Smart Are AI Chips, Really?",
-      "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-criminals-use-facial-recognition-to-rob-patrons-at-nyc-gay-bar.md",
-      "title": "Criminals use facial recognition to rob patrons at NYC gay bar",
-      "excerpt": "Police say criminals used facial recognition technology to steal thousands of dollars from patrons at a New York City gay bar. NBC’s Matt Lavietes has more on how these crimes are occurring and what authorities are advising for protecting oneself from these incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/criminals-use-facial-recognition-to-rob-patrons-at-nyc-gay-bar-162603077918",
-      "originalUrl": "https://www.nbcnews.com/now/video/criminals-use-facial-recognition-to-rob-patrons-at-nyc-gay-bar-162603077918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1675465667294_now_hallie_mle_robberies_230203_1920x1080-eebmsn.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo162603077918",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo162603077918",
-      "publishedDateTime": "2023-02-03T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

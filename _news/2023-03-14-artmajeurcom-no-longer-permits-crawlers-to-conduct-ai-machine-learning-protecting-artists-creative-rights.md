@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artmajeur.com No Longer Permits Crawlers to Conduct AI Machine Learning (Protecting Artists' Creative Rights)"
+    excerpt: "Artmajeur has decided to disallow crawlers from conducting machine learning on our website to protect the intellectual property and creative rights of artists. The decision was made to prevent crawlers from stealing artists' images and other content for commercial purposes without their permission."
+    publishedDateTime: 2023-03-14T22:48:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/20-sell-art/protecting-artists-creative-rights-artmajeur-com-no-longer-permits-crawlers-to-conduct-machine-learning/333001"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 35
+    images:
+      - url: "https://www.artmajeur.com/medias/hd/s/a/samuel/blog/ia.jpg"
+        width: 1000
+        height: 699
+        isCached: true
   - title: "Protecting Artists' Creative Rights: Artmajeur.com No Longer Permits Crawlers to Conduct Machine Learning"
     excerpt: "Artmajeur has decided to disallow crawlers from conducting machine learning on our website to protect the intellectual property and creative rights of artists. The decision was made to prevent crawlers from stealing artists' images and other content for commercial purposes without their permission."
     publishedDateTime: 2023-03-12T23:45:00Z

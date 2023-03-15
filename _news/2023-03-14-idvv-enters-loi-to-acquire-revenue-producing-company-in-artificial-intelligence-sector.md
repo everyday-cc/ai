@@ -2,21 +2,21 @@
 category: news
 title: "IDVV Enters LOI To Acquire Revenue Producing Company In Artificial Intelligence Sector"
 excerpt: "International Endeavors Corporation “IEC” (OTC PINK:IDVV) announced that it has entered into an LOI to Acquire SF Corp, a technology holdings corporation. This acquisition will add revenues and expand IDVV’s presence in the"
-publishedDateTime: 2023-03-14T14:04:00Z
-originalUrl: "https://www.miamiherald.com/press-releases/article273120465.html"
-webUrl: "https://www.miamiherald.com/press-releases/article273120465.html"
+publishedDateTime: 2023-03-14T13:05:00Z
+originalUrl: "https://www.sacbee.com/press-releases/article273120465.html"
+webUrl: "https://www.sacbee.com/press-releases/article273120465.html"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI
 
-secured: "pIBQN6/4e8ZOwjO6L4Eiol+QmdnpQWOFqtRnw6hGGVPtwHro+KIkl1cQ1Hz3guzMS5HfPmdHNYQuoCG9HC7OC52tXd+Ps2DOgOjnktP9T+ujdtDk32ckQPWABOkpdSGtsmov/o2stNYWCt3cw0MGVqUht/8lvU1CTepbuB5eDEj8hrWW4RojNeHT0poOyH37rf39jRIK3LUTe/H9AVH5KmT/NTlqySlflz+SEm7R6MHgSRS1563f5IQumlCJg80dBhl9VlBIhNrpX71C1DUUeFJWN/fX4WOGJk5rjNwUzaAGWSqBzOyYxSayxFI0co+d/IGeIJXWth86jfMkzk0UxngHBTvPEl75OfRYsXj6QAk=;n9XtEZWWhe7IYq9NiuN8/A=="
+secured: "Yy48aeD+vaOplZzV2zTK7OxCcj6AI/C6Er7W0+DLmWy5HjHeUarsCt0dSoADE5ETS5+FYLrkt/9f6uAu9GUsXMDEJZm6XbjZpM1EdYgx6DfGQ4unv0+15ATql5LsAqEAFsEt1YIAcNJ6uGK2O+pe9wGbkEzgOxZhyi4JJ+0aBwlR+We+74iqUTt4FavmpNRzgwHhLDY7QLyKtNlP+X5CZODj2tqybMd2/hj+g9u/WmqqVvY+sOys6esRk18Qkp2LagAIr27kve4NAs7ytdOQ/R2PFE4OczkcVUFM3aDs4Eh+RSHhkJwTuDCfHktcDGksTcEJcPxpbLdUvfwLBHtFWmkLIyc3MQIvY3CP0XQoHxQ=;r68oG58l8yMzDVWgW5lY2A=="
 ---
 

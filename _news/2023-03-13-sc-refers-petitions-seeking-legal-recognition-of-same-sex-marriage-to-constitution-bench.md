@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Breaking news live: Centre files affidavit before SC, opposes legal recognition of same-sex marriage"
-    excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss Centre files affidavit before Supreme Court, opposes the legal recognition of same-sex marriage. Centre tells SC that same-sex relationships & heterosexual relationships are clearly distinct classes which cannot be treated identically."
-    publishedDateTime: 2023-03-12T08:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/liveblog/98573226.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 29
-    images:
-      - url: "https://static.toiimg.com/photo/msid-98573226/98573226.jpg?pl=753347"
-        width: 293
-        height: 224
-        isCached: true
   - title: "\"Institution of marriage is matter of policy; govt not interfering in anybody's personal life\": Union Law minister"
     excerpt: "Asserting that the institution of marriage is a matter of \"policy\", Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in the personal life of anybody by opposing the plea seeking legal recognition of same-sex marriage."
     publishedDateTime: 2023-03-13T11:40:00Z
@@ -59,15 +43,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
-    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
-    publishedDateTime: 2023-03-12T11:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
 
 secured: "Ut8Y0D8spDs4YSVbOcoPdbeDHjnoezxugVt+p8ay4drrTByCBnUEy5bm3ulrha/Q2mfyIFytqjx0TiP0oL4nZCSY/u/Sjvm+u3QEltLOYt2AVSKzEpZF/47VRT9byoH2RiOtI7IV4JmkMf49XZriw1EwKlyL9HmMTn/A2yXB+Sou3rkYrqzVcnTcTlhWZ9spO5oVAYQ7VybFsI25dAyfTaCSku+0Zte7H+TRCCWvXLUJlRGaSrpVp865mQw2/+WZZiLm/iZPmP+klIfWfKl4XOrLI0IWWdgmm+cMdAunBsgipG+WNu35OhckdqTnh8g9wzsovlwThfpY506Ue32uPk1SiPoig8u/5wSZDh5abY11WLd3BSR/Ee63aFFIuS55wxpgnVZFG9if2B4TXuCQ4iSLFJq+IICyZrGr106BIBGDnOniN9k49Tkorw+NriId5wSFGdXWtgCKp6dpX9n5pQ5BeAX5LbqDqmImNow8XW59izYsUQqcsXTITilh3YW23lM7RQnScFQGdHmdhGtFPw==;deTWSnuGNZyoEd5KIVx4EA=="
 ---

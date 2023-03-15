@@ -26,24 +26,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "'Heterosexual Marriages The Norm' : Centre Opposes Pleas In Supreme Court Seeking Recognition For Same-Sex Marriages"
-    excerpt: "The notion of marriage itself necessarily presupposes a union between two persons of the opposite sex, said the Central Government in its counter-affidavit filed in the Supreme Court opposing a bunch of petitions which seek legal recognition for same-sex marriage."
-    publishedDateTime: 2023-03-12T09:43:00Z
-    webUrl: "https://www.livelaw.in/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    ampWebUrl: "https://www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 21
-    images:
-      - url: "https://www.livelaw.in/h-upload/2023/03/12/500x300_463050-20233largeimg263218209.jpg"
-        width: 500
-        height: 300
-        isCached: true
-
 secured: "DhzBSj3/szmlZc2rpOx+hbBUYYl+jqCcBv19Nee+5Xs/LwC3s4/M3clerGChhOaqq0c+j0gHcElYqhsKaJPXtNzWlkGjUg2rc9KF9NPMVe+GTEqQl1hYKucg99bXkWqBuABz4tHz8n4jzWG2pdFnOjyvDj2NFWcBDI4IvXgxkH/TTK/R9g7Ts63OxXvxsTsCsFMHCAoA90luE7XAE6EtkSdlzoT0MHSd9cvqtKRr6p36D6/gampZMnCXhWZ9/wVYlJDjbfdNukAtenGOonnKpowqRDHUt6mzcyNp0n4DJozgkzqmfbOgi67G3T3Of2qLu7Yl8CbeS8A7oU/oIS3/b1fZgPvHI4jp2LM2ku+2YEo=;r0pMWaz3BKHVnutv1iXiDQ=="
 ---
 

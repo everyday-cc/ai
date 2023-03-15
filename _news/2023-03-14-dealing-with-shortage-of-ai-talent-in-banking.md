@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shorta
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:
