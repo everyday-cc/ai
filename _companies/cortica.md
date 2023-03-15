@@ -2,7 +2,7 @@
 name: "Cortica"
 overview: "Cortica is an Israeli company founded in 2007 with leading AI technology for autonomous platforms. The company’s Autonomous AI is based upon proprietary brain research and utilizes unsupervised-learning methodologies backed by more than 200 patents. The Cortica AI understands the visual world on a human level – thereby significantly exceeding the capabilities of the industry."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://cortica.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=a3qsoevtDiU"
 
-secured: "H8lmv6l63c7okU2nOIQ8iH1U8LQb+pM6YDyV/Tyr7igqAM7hBtuGtEbRc8RM3T8KkuaYVzWlSzW58HF95kKw8njDiNKUmhBPLKQZickvyoIUp+W+nVszg8pSVClPHEDR8mItRnLBZ9CFbd4cFDNny7K4nVhuQZwC16wICjOD9y88GR78GaKY8BAq0kCh6moebsEaBbv8787lguHCxQzLDAAL4TkUtYNFzK40glfM4zxZFS+4YjoDU0DsiNHLjz5MQ9NNMbTiKrqbSs0W/H2nIO8BMxODgphNQ3fz43k+AL7irspfpv7R2tz0gJeQLgUGREF3hQOqHpoN5lc+84IMYpKzqeNNoILg8F1w0rFKLCyfAbwv1yMBmjmQjSepF/3ICdaX/WbfLDS+Ch6l3HHB1Q==;L/sR1IlggfgH0O54u96sbw=="
+secured: "1AM1KjxA1TFfS+JocrGTf+0OKydQYs0TtwzCrqouAWIfwbVr4PxPY02tLTRvxWid6Iz6Hy9LafFQoeVNESmQ9+jxDwcIhsZvi3sNafMuFceMzUABRIbmzAcbX8gepR35oWVA5VBC0+5PkG1KJtcOWR5CBHlMZp60q1kpKQefXgapBWvEnHADsPmjxGxGOKbTGfdbBP4fF14glR/6oSQzjp3M9OV90uUO//E3gSPpwQJInLlBnKfAKv7XfxrF32pqgnr5ASGhkzVdtm8a4aJzG2hENu2y4sa6TCH+I/Tktms8FhyB0B2ji2uXYUKnOQnSwegZy068nx9pzGnhmhVEvD/pwpTp2RwRtsbHrrqVX7MweZKBXGqvrxHZJ9i9+xfXNya2VbZ81SyEOIMW7TMvEQ==;2b9BR/VR77W52kxp4akPNw=="
 ---
 

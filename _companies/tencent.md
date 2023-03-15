@@ -2,7 +2,7 @@
 name: "Tencent"
 overview: "Founded in November, 1998, Tencent is a leading provider of Internet value added services in China. Since its establishment, Tencent has maintained steady growth under its user-oriented operating strategies. On June 16, 2004, Tencent Holdings Limited (SEHK 700) went public on the main board of the Hong Kong Stock Exchange."
 type: "profile"
-heat: 130
+heat: 151
 
 website: https://www.tencent.com/en-us/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tencentglobal"
   url: "https://twitter.com/tencentglobal"
-  followers: 43883
+  followers: 43885
 
 size: 10,001+ employees
 yearFounded: 1998
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Tencent"
 
-secured: "rjsSLpl35SXKDIeYCiNhTuDz2MfYzi20iZ92DQqte35pBuMTCcqEwYU30GSIszOQpP02EUZHYuHLSbJF4F4+JjkNeFUl5b3F1EdTXlqBwi0k1NNAxcGEJ5RD33Rvn1oyWeIR8v7WltmTy5nOO/ImpvCXiFo3eh3+q0wqRr30M0apDrYGfNsG4MwZqZ7tFK8lT2SXfiaG22G7CuiN6HAcK1FTykxDJsm5lyVK3vUpWLqjHb7VkdCL7HAOl/d88ql7gg7Kd62MyoYcOdIuRhY9kmV6ZoS9YeMAVbS6zZibZfgUGiJLCoUceXgXDNvhwZbrU0/dmotKIOXlyOtd4HC9/e65yvEmqrqYbWNFPgFqsh7QT1zLBwx6xCYvbe/Xy50tDLPk3yINPIPN4ew9uTMeVjmp9qCbb5HhN7IgVtInvTQ=;mp98Q9GRO0fwNujt+5nVxA=="
+secured: "yJaZvpTlagcUgkbQ4FrO6myH1+MLqt/+66jkr3o7fyf2xv0u7KCsup06WBt7JkZcLXH8CZYu0Zl7j4zZVQpoS7LF5Bg4xueNqfYX3aJq02izwlW9sHA3Ctz49l2vBs4FneUALK4QSOSt25pxJUmrMjuDLA6JQVd/0WHYtcxb1rVkMlCf1qloVNYshCDQN6FCA2yspMr8Pgph+O/JhVwJnsL+oO4GMWKfGnTTboaZUQNOX7RSFNX89K2vn7iNzobK81vlZhG23g7HlIIwMKm3bEFpDD6utQ7s9MoEWQdhPIB0JBmgOIS+Wpzdo0ijFnTyZrnC2qTMbmvlYGoyN1zKr82JFp9JiqoHKPICiXVku0KiFaKQ8E0AjXw/9Cen7kEBPG/9JTozfVgltt8fBYT88lxno+DlvtjjyHjD+HMYJ1E=;6Xxq0k9Y2TregGlarvbW5g=="
 ---
 
