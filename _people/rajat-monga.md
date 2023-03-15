@@ -3,7 +3,7 @@ name: "Rajat Monga"
 bio: "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google."
 location: San Francisco Bay Area
 type: "profile"
-heat: 18
+heat: 32
 
 affiliation:
   name: Google
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Rajat Monga"
 
-secured: "hLvaulNeCuRTj+u7QLTGSGuuYNtuWWkiBCKir2Y4uZNqwzIFK8qzsmWpE8bTeeH3/kIEcXzY78pMB+C4jOyVkdSNAkafjeQLdjYkU1V4WoboVMSsbCsOkN3+CBVs73xPTqKEDIrfP27kt92ABccQoV8JRlX1zNnJUWlehuV8B8yASwnEVcuESGzdHtqBd766B/PI2+2w0t2x/XZ/b7tkQGhOewZpQIgVCcKj1DB+lnj7DLleU4WBabH+EVtuougOcnCNcjX4Tz30+qKw2u6fCujnSjn9AcJt3NF0C65JEech/Z3S13AoeBAFm6p52v4CmIZV8/mQKjf8kJcVBPf30cT3P7p2aMNmA0dVY6JVkzW+IxrMAwTnFdNqspHTG8GltwGU/vHmqMrBUSnxBehGiSbc6pOkPvcZqIknRJarX5U=;w8Ahys2PeP216UKVIx9+JQ=="
+secured: "uviiJALYEO+Ir1z76rFE7Ft5dKBOw2RZNSKTI6TqapDZ+IEl7VZFfBo0ts0HjbcYPc6owODnSPI26X5MG2VGMlvndcrCL9RUjRdHZ1Ph9Iyk93hU+xkWrESvjVfLsCUgj0J5WhVGWOXP415zoiVgvxA7JL/L7ESjizsjA7Miqs+qedxqWsoGYH2cx5x3eN6wH89hoAHSpMixLynCpgSNPyrudsDIPztXArUzxZQDrzi3zhMg4FI4bOzzTwV230Cq0iN4c1x8AVJ+IOCp78yAXSEyOmdjtzUCT07nnQHUp0frrZxNe53TOmZYeG6Y2Ys/WhgqcggknZPfulBxbtRQwYANBzuBwTDdSaGyWR3ed9tOUfv/f2rd+mWMRykqihGg44gpJKjiz5AfDEtIMfQiaR58h0mnnlD7kmiuFKUarhQ=;c/fdsiyo339D+63tIzpfPg=="
 ---
 
