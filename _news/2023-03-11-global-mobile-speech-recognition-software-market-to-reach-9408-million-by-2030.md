@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-14T15:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bYvlqIXHYzBHJAwi9JdoqttBTWrEJcd9O16buMJBCjJuM0fRqdorGWjtTM5Hxa7JBTWynZb3YblJh9FEYl0lCkwjS6UIAcdjhvaEsTr+WgUChfH8BlVVQxTMEciwsxomPcgnaFYf5tf9AUC2e1GwEpI2Xl3H1CGO6ggYL6z6MDesoahb5kK4imLpYkp+1UWhokBAca+5l+SPExVhFUJjc+AO8fxAKrRHqLgLN6BmZhNEZrm8/6w2wlomKJ+RZfn9epN2F25anVHZKwsEbNdPB/CiAk/X7kheOOvoBtwq124xCdsfy+x+3nolRsVIcjo5t+yXKg2uCsJtcGfyDvIcjnpyrmwCJn6QxsmMaBQvTjQ=;hCYapSqApaHDD/c5zlnpdw=="
 ---

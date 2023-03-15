@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
+    excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
+    publishedDateTime: 2023-03-14T21:49:00Z
+    webUrl: "https://www.forbes.com/sites/cyrusfarivar/2023/03/14/gpt-4-can-ace-standardized-tests-do-your-taxes-and-more-says-openai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6410ebb44fc14bff864167ff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT now chatting via Azure OpenAI Service"
     excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
     publishedDateTime: 2023-03-10T20:52:00Z
@@ -146,6 +160,17 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
+    excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
+    publishedDateTime: 2023-03-15T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
     excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
     publishedDateTime: 2023-03-14T19:41:00Z
@@ -156,6 +181,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "pDTVEecCpSLNSH/NC9FuAvKHQ2k3Mwd3skNvAkXa3BbX3rMm/jdqdMPwvZJ40GMhVS24fQAcQ+3eNMZBjwDTDjK9JbRTPr60Y4xinDAuygMeq1lis8LN+8ZnIyIYA2ogcP/DCY/T2R0CB5tGqmQIMS4bq6Bd0DxGIGZ/RQOzPiGpWJXo0RHWoWRGEiiCou0GfFI0QS4cCbtjZJzTuVWx8sWU6SAlSiaWylijV3LEt+A47zXZDp8d78aabcqpyofTqqc45JS07hKQe0r2aAgXpXwZaBIdI7+gUuhozhLMU9imLXqZW8pilJDwAuXAuua1DfE/AuMZscyJWu9pbb9o/rrnwxbFix/uU74SWcIOLes=;wp/SszDiAnMmKcpOWcgGsg=="
+secured: "PBZTL0n/KKap+ky/oiABA4kjy1VR1vM//Ti4MvPTkFLDUAZJ+k5KBz0hQV73aov/mAQBEhH2go0JjAN3wQiZzz/zAtonFC5sfR+J8CNSHIOmOAkvIgkUJLkfWOhUIaL74MuxKjrk+h9y3qiN6BWTFez6yuB7d8811UxjUXIzOhRzSC2NVeoNHAnlY7GSxbpQ9Eg7vO2EBUzt/yiKJU1spUYqodCI7BWtlMp1IbfHDXrIwGYWO+j1FbbBassSGg6mAZFK5dNKmTuXcwuvwCWBke1jFVwBLsG0XIfrDIxzrqMLASrcxXhSBoQvqbX7DmHj4vl9gMWPPVMDtFGeZlbJ1ksuYJ4ivKoZ/7tZzg5T6y8xb88QwPS4UID1GOpzGo/kPtDT7YhixYUxrx9wY/VSpwDxRK5y7A2vRHlPNZ8V3Z3U8VqStrchHyZtiKNXTgCIYEsroYlOPLPyTCAQssShE401hgr3CBuaqXZNHgQfR9C7toYsJDtUUp9NFpWKn0hON04bofnNs8/q+4l0YB1yTw==;M3Hdn9xooeuDPtuU4AU4CA=="
 ---
 

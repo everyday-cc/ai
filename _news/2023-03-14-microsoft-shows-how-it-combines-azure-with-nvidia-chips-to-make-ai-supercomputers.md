@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-wit
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
 type: article
 quality: 131
-heat: 441
+heat: 451
 published: true
 
 provider:
@@ -144,22 +144,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "ChatGPT on Azure OpenAI Service: How Microsoft is helping companies adopt AI"
-    excerpt: "With the availability, developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, which will help them"
-    publishedDateTime: 2023-03-10T08:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 86
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Microsoft Edge Copilot brings AI content creation to your browser"
     excerpt: "That’s where you’ll find value in Bing, Edge Copilot, and other AI services. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
     publishedDateTime: 2023-03-14T14:17:00Z
@@ -173,6 +157,20 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/03/microsoft-edge-logo-100911275-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Why AI Stocks Microsoft and AMD Popped Today"
+    excerpt: "AMD is likely to enjoy strong demand for its new chips. OpenAI unveiled GPT-4, the latest generation of its large language models (LLMs), which are trained on massive amounts of data and can be used to power AI applications. OpenAI used previous versions ..."
+    publishedDateTime: 2023-03-14T23:33:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/14/why-ai-stocks-microsoft-and-amd-were-up-today/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/724672/artificial-intellegence-ai-gettyimages-1345658982.jpg"
+        width: 2309
+        height: 1299
         isCached: true
   - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
     excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
@@ -376,6 +374,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
         width: 708
         height: 402
+        isCached: true
+  - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
+    excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
+    publishedDateTime: 2023-03-15T00:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/as-openai-releases-gpt-4-microsoft-details-azure-ai-infrastructure-behind-it/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
     excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"

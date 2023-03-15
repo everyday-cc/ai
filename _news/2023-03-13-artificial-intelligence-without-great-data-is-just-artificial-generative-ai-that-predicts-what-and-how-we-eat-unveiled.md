@@ -307,6 +307,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "ChatGPT Gets More 'Human' As AI Wave Continues"
+    excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial intelligence (AI) technology that it said would be safer and more accurate than its predecessor."
+    publishedDateTime: 2023-03-15T00:13:00Z
+    webUrl: "https://www.barrons.com/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    ampWebUrl: "https://www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 37
   - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
     excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
     publishedDateTime: 2023-03-13T13:02:00Z

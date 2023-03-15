@@ -302,6 +302,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "ChatGPT Gets More 'Human' As AI Wave Continues"
+    excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial intelligence (AI) technology that it said would be safer and more accurate than its predecessor."
+    publishedDateTime: 2023-03-15T00:13:00Z
+    webUrl: "https://www.barrons.com/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    ampWebUrl: "https://www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 37
   - title: "‘Artificial intelligence without great data is just artificial’: Generative AI that predicts what and how we eat unveiled"
     excerpt: "Tastewise already incorporates generative AI to help users at companies such as Nestlé, Campbell’s, Mars, Givaudan and PepsiCo, discover dish concepts, validate new product ideas, and generate market research reports. The AI-powered market intelligence ..."
     publishedDateTime: 2023-03-13T10:22:00Z

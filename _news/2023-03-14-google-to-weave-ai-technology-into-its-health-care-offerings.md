@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integ
 webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "Google to weave AI technology into its healthcare offerings"
+    excerpt: "The company has assimilated health AI efforts in search and made strides in integrating its AI model into medical research."
+    publishedDateTime: 2023-03-15T00:57:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
   - title: "How a Toronto-made AI therapist could bridge the gap in Canada’s mental health-care system"
     excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
     publishedDateTime: 2023-03-12T12:00:00Z

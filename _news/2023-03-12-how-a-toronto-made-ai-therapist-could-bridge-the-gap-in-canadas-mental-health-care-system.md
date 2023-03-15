@@ -57,6 +57,17 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "Google to weave AI technology into its healthcare offerings"
+    excerpt: "The company has assimilated health AI efforts in search and made strides in integrating its AI model into medical research."
+    publishedDateTime: 2023-03-15T00:57:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/news/google-weave-ai-technology-its-healthcare-offerings"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
 
 secured: "PJtYVjo6eoQpHjiSdXvt0dPrLlu/v9F/csHYVIWvrsTTkQI6t7f0Jf7f14TpGUIMDabARrtV1tmyCyQUJgACtrC+Ep3halkHujf+OXd/oLgArpvmZTnpL1Ytm32JG2VwxI0QqldJZCS//1WKV0ARCtDqe6bXiKGDhCNEEOartFcMcL2BTu3mfYeRa2+hzIUT7xcXjP7Ix63qH01MLVX8r4cQadOLyEKRePLqU7I2FO25nkOHFagfqv/20H9BU6L7bg2NxFxj6h4kWWt4dJ7ro7uIYXFa8MoZw+sw4bhb1BiN+G9zO9BjbKJySF+83UG9YyBzn8N4RgmR4oKV/h9Xd2tFLlu3YjXBN9AeX76QFTk=;m84cZ9cVHWdEaOtOJ9QUkw=="
 ---

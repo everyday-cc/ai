@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:57:00Z
-originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:02:00Z
+originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Press-Telegram
+  domain: presstelegram.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
     excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
     publishedDateTime: 2023-03-13T08:53:00Z
@@ -72,6 +86,6 @@ related:
         height: 720
         isCached: true
 
-secured: "70VvJEqfcZtj3+rgByAGbPclE8lRU+CVZT5N3At4ACzgRGDYi44ZHNklT+3NYE9c3ZP5M3g1uFUoeTcyIbT/0k/dgiv4XUimK1jaBJwkyASiMWnPn5BpFGyJ7H9lJ1VV3pIcqwByqZdRS4GxcuZJDYkrW+Dx/TinLO0b9pNer8RV+2AnSv267l1VDFpX2iHp6Xu/jtf8lExth15+O6jxqDoTu/wDRyt+TqBZ3718gkQRZx8Xzuv8BklEsdgo5MoyaBqzpac020aBHUNeh052F+BBAQcbfXXEfIqG2mzZnmo+hdWK7zI4+54/DsrzhHDmXYV1WKVBAhGW5m+Nf0/D6fR9YkWh3EfOpUNLN+ppi8E=;yM25ctxygDmDKFCNlPx+Vw=="
+secured: "hfNWPiE9yRPNWgPNWyX/Gs7eTeoW1VoZGe2C7+Ee/6dpl5jY6IE8RGQbS6eMPByK2lFZbysrwLQ3xD6xtSR0OookUzOM5LInXnt88TzHwC8i033VPhSc5vjmr+/fFHNQQs0arDJsKDcA+Qi4R+bzZPOn/GWjlVn4rl5023RsRUWRDnl+rya3RgFUf0g3oHp42pqtcTRZAbwzJ/EyaIWUv+ZwtCeTApfszCvW9oU9oWKfzFCElLe5x3sW7il5J2jR0b4NeWfLDkzmPcx+Cjk6k4yitHpweDb9oUjpDl+kHIfGtPtS9Rg5se+Pfdc/ouAzX+mv05BpvV5rV1u5TjZigPMZ+aOtO2ytAGTGTx6Fqi4=;5Fl4UrvCPXgaH8gKhFV4pA=="
 ---
 
