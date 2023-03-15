@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Up 750% This Year, Can This AI Crypto Token Hit $1 Soon?"
-    excerpt: "After all, at the start of this year, SingularityNET was trading for ... After all, SingularityNET's technology helps to power Sophia, arguably the most famous AI-powered humanoid robot in the world. What other robot has been on The Tonight Show, given ..."
-    publishedDateTime: 2023-03-15T13:09:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/15/can-this-ai-crypto-token-hit-1-dollar/"
+  - title: "Crypto Long & Short: Finding Alpha in AI-Related Crypto"
+    excerpt: "Render token’s (RNDR) value within the AI ecosystem relates to storage and infrastructure. The RNDR token allows for graphics processing unit (GPU) renderings to be distributed via the blockchain. Much of the developing AI that has taken center stage ..."
+    publishedDateTime: 2023-03-15T16:17:00Z
+    webUrl: "https://www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/"
+    ampWebUrl: "https://www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/?outputType=amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 59
+    images:
+      - url: "https://www.coindesk.com/resizer/RkBGhbYTOTnLFM3wDbHeesrf6sA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R3OH5GO43VDINCEWAP3JKM77QY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "zpsEO9HG+xW/PJXKTguY3FJe7HRpYPGtAaFjWh7uLii1UgSe0QxjJXeWdrTMZqgl1grN2UytbzwzUyOXlEkOpRri7JlqBysGFZdIfXjVZNk/6/BqGV7JljUfMAbifSug5Aeg11pubVZDiPoAShKQjfh8crt3ttyvLiMTgaZU9mBgqJQZkF3zGJAAlppzmOkkGjwcQZmhdxMiHYxSkXZWT7KtDojT2z29hyT1Vvtv9EHqLMs84EuAvm2F4ZHrchyOwwRkCy6WLnCFJYfXZ5/Ui839SVCfvRdYBKGZD60mMNXvRso5W9l3rzKm0O2v9YlTjBFwTsOpD/sHd+VL2thYtL9zDJ7WYXKtHiXOrMtNifLe3K0sEuz+NxtKSa3jPvWw8wQ8lj/Is0LyUhJyhNXsa1gYgac88GSALZTIM2rMSyIO+KwIQYNOIt+JabaCINM+CwA+EfHyMfA52kMTUEUDNX8eBvwsT51tiHEzUJ4JmbpD6n+79Ya9KArXOkWPy866PivXNyqvIl0RvoPQSy7zQA==;c3Pexj5cQ/qS9Hjcw1Uwug=="
 ---

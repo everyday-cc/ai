@@ -45,22 +45,6 @@ related:
         width: 1084
         height: 542
         isCached: true
-  - title: "‘Robot lawyer’ faces lawsuit for practicing without license"
-    excerpt: "The Chicago-based law firm Edelson PC stated in a proposed class action that DoNotPay “is not actually a robot, a lawyer, nor a law firm.”"
-    publishedDateTime: 2023-03-11T00:34:00Z
-    webUrl: "https://www.newsnationnow.com/business/tech/robot-lawyer-faces-lawsuit-for-practicing-without-license/"
-    ampWebUrl: "https://www.newsnationnow.com/business/tech/robot-lawyer-faces-lawsuit-for-practicing-without-license/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/robot-lawyer-faces-lawsuit-for-practicing-without-license/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/03/gettyimages-941029696-170667a.jpg?w=1280"
-        width: 509
-        height: 339
-        isCached: true
   - title: "\"Robot Lawyer\" Faces Lawsuit For Practicing Law Without A License In US"
     excerpt: "DoNotPay Inc, which uses AI to provide legal services is facing a new lawsuit from a Chicago-based law firm. The company has claimed that DoNotPay has been practising law poorly and lacks a license, Reuters reported."
     publishedDateTime: 2023-03-12T16:09:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
 excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
-publishedDateTime: 2023-03-14T03:12:00Z
-originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
-webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
+publishedDateTime: 2023-03-13T21:39:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
+webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
 type: article
 quality: 23
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "LrTX86Ha+N1nWoHPJl6kmheuPqETuSdXUosxXxvUJENBA43Gut2tyqCX6erIsd2/eFKHaiG/a/5vSE8PUXPWxuVlDS8tWL+NYX9EDJfdP4DK/YUfEFnVE4BKpRlQ6PgH6HTqtqVzDNfn4ydqJDXjahWww/lrAu0Vm+/PdKzvtHwTm/SgfxR4rjpeHrk8ezS8ztMZ2BFZ36Es+KVvHxX465cztdw6Co7uzlebo7WnAtO2trlM4oUzU910v8ye99LJilzAoAltn9GYB+qs3/zrVS3Sht4J1Unk03IfyrMw2qlTImccb7DUs9aV8NhOhsWVCDbqHM+WeMi5gYVmK7a7DMwbXbIAHihBJAmlX+OIV8qV/tRSUH9AvNntbzSDDOcsM22GvREV9luDijxGoVXU6YdtGQOZY4U38qd+0pIopt1wyxeRqMt9T7SWWVX2cgXPk7Z9LtpMqsrDKHWK0mHazXVccrnvdrjW/o3u4VkOaSLeruxkoQ2ufmTxdZ3R/Q6BAdlL3QbvC2KMW7A2DyWoYA==;9AdVWUi1Q0K6xnnMxJC2jA=="
+secured: "iswUrzw1WP7tjo+03WU2IXcI44tBUR1SSKQxwdHhYSrNewrZGDk4D3OrhwOVsCA1jGBh8UwIfKQgk0Ldawep7fnntUjqZFcIaDtQae2BOLCJSesmCUyOJ0lPBmqkNlNl3PSBu4FymWImnE+mklwtq5OasuCioZKXY9vE57bCowqAaw2Td4cg2SfDxlDu9kJlUU97sxaDx0Qy/PHfKQcOmKRwRFT/5x7D3BpZlThaHNxpkzX9EMSswt8ERPAc4JweKz+ankeXPyEzQ1XS51349pNbIbRfekxaGQJY60BS5MbR1X22c6fOivJnct9v4kuD29c5IDAee5PSEWm9oJkCQY7bhypev4hSUlus74/cFHI=;W0Oj8Mb47kywGkw8oVjUYA=="
 ---
 

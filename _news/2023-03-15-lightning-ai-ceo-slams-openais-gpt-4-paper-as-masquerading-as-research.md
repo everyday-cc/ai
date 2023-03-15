@@ -75,7 +75,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800"
         width: 1200
@@ -128,6 +128,22 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/03/chatGPT-Mar-2023.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI experiment tricks human into doing robot’s bidding: OpenAI report"
+    excerpt: "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ..."
+    publishedDateTime: 2023-03-15T17:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 74
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/OpenAI_Logo_96005--1a5ac_c0-214-5130-3206_s1200x700.jpg?dbcd8e3378513305b03afa91bce0566484275237"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
     excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to integrate ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT. The Stripe move represents one of the first known integrations ..."
@@ -316,6 +332,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "2JH4SrkgMvBOkutJeCxJQzLfdoFuu/Cp8SaP5eCmqDhPGe0+oBbqFKzO5AV3S3vEYp8h9OQl1Jgt2wVP0gslmKjZRHE3+dSpKm8g9HUF2qQgXXzBQptvvMh1LEA3UMbz+m0K6BCIL2xldWlGp8NHDKerGc9CDhxvmjhxSgw+FFFCn8z+mzEYBRKsa0MoTSwLrjHgFtq1cExaGc1CkjMgUEtrRX5OgNH0Zd4YRLCyiIyJMW1CV3FWHFLcVk6ZcEmGsfLn5DkyJL5M4xSfyWs7iKZ1la6hnyD+P13rfnxQMDN8gEAK8fEftJpk1Sg/PUxDlBaLsnKy6y9lyV0R4m9Xh6jZPaaeZ7srJJqYdqG1WwY=;fnJC9h4CXovRdbxlXGHACg=="
+secured: "mjuhxO8YPHIYxl6vinPYZ2BlmdTLTa5vSIx21zWRdoFTvk9+QFsAwEwX+GSKVcdytUAydWFAGO8ePEnEQOkuPLOH91+MFcwG1KVlmujMG76SlODfF4JYK+//Cy3J/kjh5tZhl3wPpo7FgdH+3yDIOQGPGa0eebK4EA1tyzCxZ/hUJLyhET1P3Yj1o/ZPjizGVc2LtGklInlfXYvb6ET0nHSeJRMv3WvDFjTD8/VKxaRc5Lb4PfdAo3xV58z2mtvoetBSDlPDaMhGvEE1tQjgE4HID4Qh9qBlp1cDWoDJcoQt7z8B6Vwfz7D2KnOsLNDf8gRnh7tABOR8huSMkUPkOQvqfhEOWyKx9kslDDOSidmEp3k6DvBsgNbjnNMZPM3WKM26XIPn3O5ER5zqryvPir/Z9fUkDLecz8rAY9SHYXsvYIcWJzVw1HNJlJpnb3q0cxXUVflE02f+i2nobOC6Y3+8BPGVHFtKXNY9fSyOHSATw+7kDHL8bmA+gkuhs6snxKKxFwL0tWqCAIe87NqpPg==;xRdX29d6xICpwTKgWYHR/w=="
 ---
 

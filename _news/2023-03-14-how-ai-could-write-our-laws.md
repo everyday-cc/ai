@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-wri
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Could Change Psychotherapy"
+    excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT; art is being ..."
+    publishedDateTime: 2023-03-15T16:50:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
     excerpt: "Roughly one in 10 AI researchers said the technology could lead to the extinction of the human race or its severe “disempowerment,” according to a 2022 survey by Oxford University and the Machine Intelligence Research Center, Klein noted. One in 10."
     publishedDateTime: 2023-03-13T16:06:00Z

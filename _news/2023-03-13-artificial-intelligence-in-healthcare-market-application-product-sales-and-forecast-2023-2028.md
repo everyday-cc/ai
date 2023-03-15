@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
 type: article
 quality: 89
-heat: 479
+heat: 489
 published: true
 
 provider:
@@ -365,6 +365,20 @@ related:
     excerpt: "The \"Voice Recognition Biometrics Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-14T01:03:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-growing-demand-and-trends-2023-to-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future of Artificial Intelligence Market: Growth Projections and Industry Insights 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence Market\" research report offers a thorough analysis of the most recent developments, new fashions, rate of ..."
+    publishedDateTime: 2023-03-15T17:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-artificial-intelligence-market-growth-projections-and-industry-insights-2023-2028-2023-03-15"
     type: article
     provider:
       name: MarketWatch

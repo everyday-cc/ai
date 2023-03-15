@@ -41,6 +41,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How Artificial Intelligence Could Change Psychotherapy"
+    excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT; art is being ..."
+    publishedDateTime: 2023-03-15T16:50:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
     excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
     publishedDateTime: 2023-03-13T22:52:00Z

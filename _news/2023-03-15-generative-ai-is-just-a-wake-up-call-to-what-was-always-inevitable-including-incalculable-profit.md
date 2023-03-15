@@ -40,20 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "How to set up an enterprise strategy for generative AI"
-    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
-    publishedDateTime: 2023-03-14T11:41:00Z
-    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
-        width: 770
-        height: 434
-        isCached: true
   - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
     excerpt: "No other startup can do all of this and match Andi's high accuracy ... Andi solved this by pioneering conversational search, the first smart search assistant using generative AI to find the right answers and give you clear summaries of the best results ..."
     publishedDateTime: 2023-03-15T14:10:00Z
@@ -70,6 +56,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
+    excerpt: "Andi, which is building search for the next generation, announced today that just weeks after its initial launch it has launched a new Generated Content feature that provides the most accurate generative AI content and reliable source citation in the industry."
+    publishedDateTime: 2023-03-15T17:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-startup-andi-enhances-generative-ai-search-offering-with-/2023/03/15/9777725.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vjaQEV+WIpavY2wegEeDQ6oy7iV/noUJzSZpPlIe/9f+AJnZa35Ftd4l9QUJ0ATHnBxanAJeYhTy5mbXy42TDV7pyQcbuY+XpqzzHG4AiyYKBmutZ9cki07RQDXhdo+06iy6Sf+4BSKsfvNSTfRYJ+PPoPbu2nWK0CjhwUXyvcxRDn+6PamJL7p0xJk1Pjzc3nNVOjDn5s60hnisQmGxdepMBKswAU06Neadcx9a5wSfsz7rt/oHA5ZGpIBJ34sv1MT0FzNuePVauc6b8F96dmthSCFGVt29cYmVWgdcRY3pQc1Cxwx5U0VR25q/hf98Az/5zYz9sRMiuIw73mVsRp5hW3BUjuLG6cey4IhiXtBwnbUXcLa6Q2Rd8n0iAbrglxDDnnznYVh+o7v+NjCi1af66JuxFXRuFIrc7/XerKrcFiWLzMCkm48QVOsxYFeAjI91fi0EMxo2OCZeCVVlBbbqPg66EJXKN4g+ZpdumqaTz7+2L+Xr4Ohh+hoJhSWGHNv21It32wzs8sV5E47XWg==;ZGVHTAQCe3elKBrQzEXr+Q=="
 ---

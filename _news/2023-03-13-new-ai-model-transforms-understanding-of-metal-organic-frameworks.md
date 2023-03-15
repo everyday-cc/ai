@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1536
     height: 1024
     isCached: true
+
+related:
+  - title: "New AI model transforms understanding of metal-organic frameworks"
+    excerpt: "Researchers have developed a new AI model that significantly improves the understanding of Metal-Organic Frameworks (MOFs), promising materials for hydrogen storage and other applications."
+    publishedDateTime: 2023-03-15T16:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230313120929.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "2Q9IcHKdxMn6KcAwJJip8Ct1nc1VMLj0Yf0+5MDjT8Kwpfw77k0usJjmAgZy6LOYLpREKPguk8k3ZAkfBLSX53WQJ8+2UuS+SCqbl+t2sqcFiATwBNRuVQgTuXeL/ucXpNinTjRzYGg8l57N2FW++23WpduR6WHJafLvwTGotpDNlYU38GKsCmggCCSAvlCOWXo6x+mQq/6jxmJY4RLFstoYs/Qospecub9u8sxXmeCkCWTjfU9H4brZ0hu9s4Lspqlmd7JFzqk8I6bKyJPxZfI/CjlXECQrihVaCevEd2cr88xxjdylWSPxUjWuP8zcrN2Y657N9bfckDWd/u/X9rdnt75iQ1JAkUOM2bWiLo1SYqGaaKBleL5zSLbuxPbSW+vN/gxfeHS1jr3Yd7g2k4lJ63T+iwlNyGoLlyVpMQUf3TrpKMyTdkc+XFILMoOPgL3c1aomCSdAcbmEPJyHLg+iOj8T+Tphj8y2Pqm6Lt4oLvTu8ts3fZqdo27eMfr1q7h4/U6nFFEzBsXemJs0xg==;ctwLuKrKkmGcH2Ty/LV9Nw=="
 ---

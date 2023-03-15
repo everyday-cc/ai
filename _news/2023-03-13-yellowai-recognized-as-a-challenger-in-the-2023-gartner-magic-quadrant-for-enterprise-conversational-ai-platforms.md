@@ -26,17 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Openstream.ai Named Sole Visionary in Gartner 2023 Magic Quadrant"
-    excerpt: "Openstream.ai, the leading provider of Conversational AI and Virtual Assistant solutions, today announced that Gartner has named Openstream.ai and its Enterprise Virtual Assistant (Eva™) as the only &"
-    publishedDateTime: 2023-03-11T02:04:00Z
-    webUrl: "https://www.cmswire.com/the-wire/openstreamai-named-sole-visionary-in-gartner-2023-magic-quadrant/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 19
-
 secured: "CX6Afcklm4ZB5mqV/Dh1qg3C2HcojszjH7bhMs3YQgwypcAWbiJQUP7m4wK/UWX5suaWPmYUiaCC7/cjgTROWI9IkkTjLQumUoqKkdBRBBtr/348AsEPyHbAf4cvueTxpJQoL68YSHKZuQ5+GSWkPfXy9fxVKFoUdKeKhazfvNnPcM799qdh0dqzme1HpLkBxWXzhuyScsoAw66AyiTISlh+dD4KnB3LR67HMOhyjPk41BcF9ZXZxLAnlsKxQogOWmXKYNe67cFTVKTtC2ABh3MsbInK+KZMEunTlzsV1plE2YPa3IKdNEqsJelbkDRnhvPnMmqV8NOEPiipQ+pRwGnc7YhV++9L/sVzXss3wWQ=;z7oWHnp2nH7IDiRYCvoDFw=="
 ---
 

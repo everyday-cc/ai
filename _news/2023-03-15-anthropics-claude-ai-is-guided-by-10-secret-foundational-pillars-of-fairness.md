@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-14T22:48:00Z
 originalUrl: "https://www.engadget.com/anthropics-claude-ai-is-guided-by-10-secret-foundational-pillars-of-fairness-193058471.html"
 webUrl: "https://www.engadget.com/anthropics-claude-ai-is-guided-by-10-secret-foundational-pillars-of-fairness-193058471.html"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.yimg.com/uu/api/res/1.2/NuREVdQhYQMHqlYbhRrkBg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/30ffe700-b813-11ed-bbcd-885cf976a4b3.cf.jpg"

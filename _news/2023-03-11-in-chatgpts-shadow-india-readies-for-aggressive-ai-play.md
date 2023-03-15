@@ -123,21 +123,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
-    excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
-    publishedDateTime: 2023-03-11T00:17:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-15T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg"
-        width: 840
-        height: 438
+      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Generative AI and what the future holds"
     excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
@@ -278,6 +278,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/06/Klevens-Clair-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "SenseTime unveils open-source AI model amid ChatGPT boom"
+    excerpt: "Photo/VCG] Chinese artificial intelligence pioneer SenseTime unveiled what it called the \"largest multimodal open-source large-language model\" on Tuesday,"
+    publishedDateTime: 2023-03-15T17:55:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/15/WS641158bba31057c47ebb49d3.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/15/64115952a31057c4b4b747f8.jpeg"
+        width: 564
+        height: 376
         isCached: true
   - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
     excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"

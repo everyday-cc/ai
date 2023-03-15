@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks That Are Revolutionizing Retail"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
+    publishedDateTime: 2023-03-15T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-03-14T04:24:00Z
