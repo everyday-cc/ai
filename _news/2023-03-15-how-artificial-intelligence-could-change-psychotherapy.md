@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
@@ -72,6 +73,6 @@ related:
         height: 678
         isCached: true
 
-secured: "4ReLXMFQ2+UtVa89kcbqtrjB58gNul/0PL+Dw7eN8PqU3OV8wWnouY56rjCAa3uPalLYobvIbSXph9SINUYnOdHjAAYTsocXawGBks3uznPFLuoNiniiueJ6lNIbfEmYib2Bx8DTcTBLwX+olNmGLKqmtZ7GEIQYrD6B+nfCH1Oz44XfqIVHYx3xLXcj2wfWn5Lnt4HfPR82HWTZlqRXCaVifk8Yfzh90lH3XNjYVgxkfW/6QhxTOCbqZetj6tuHH5knp6okdipRoc/PuUP1Be/W1MLkzYz2nmUqP/5WF9n0+s73WLChiSWy+rh+n+JpdkxH3g1shRcC3GrmRQ0wQZ7DSDTija/ftjpWppTSuXM=;cUhvK5O6BEtCGKAe2uaBrg=="
+secured: "ZcjTHapg6NNeaZBoLihsqQkh/jubkQcNTGXu5SkDoHHDnKCI/a2JJMF3/AKIs5c4dbkG7F+kTudrluF4nbuel6ujiXZgFFUCjP3UKsG7toBU57M8I/412oClTdL1DrYAmp8ZmXzKCebcoR419BD6d99ONwhv5H656f8IJqNIU7DBoIh7nQtvGpsE3IZEGRc6VPnSdFBs612C1vrwQJNcT/k27X1PGrMeid5CTyKWqUc4dtlA0k0pe0EC4a0xEp2xAJQueuGcw443qju8KdWN6wtwujkvOC75KYN0z3DM4xWHn6vboSBPw2sV06sMc5N/f9keI6aiuy/GZI7OpRWEoVnVZTisTRswfF3/Jimwal/VRU+7nGQ1gDraLWPi64rJYX7l6EuheO9ZOMDcW2n8RDCEHRzWrpBxaQm9Hbf5EMz6ET7WfPWio6uHpuES/dR2UK1TgZNqRHXkd8UQyyPu3X8u6q2zBpA3hYoJe1JatI+0rDXbVPu79zM5xmB/9cOPA3vLOTnuSk8jhOhCwWtkAw==;U1sWYydtl78B4/bUYzfRbA=="
 ---
 

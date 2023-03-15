@@ -2,13 +2,10 @@
 category: news
 title: "Noda Chooses ThetaRay AI Solution to Monitor Open Banking Services"
 excerpt: "Headquartered in the UK, Noda is helping online merchants in Europe receive direct bank payments from eCustomers via a secure and instant one-stop open banking payment solution, as an alternative to cards,"
-publishedDateTime: 2023-03-14T09:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-noda-chooses-thetaray-ai-solution-monitor-open-banking-/2023/03/14/9776120.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-noda-chooses-thetaray-ai-solution-monitor-open-banking-/2023/03/14/9776120.htm"
+publishedDateTime: 2023-03-14T09:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: TMCnet
@@ -18,17 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Noda selects ThetaRay AI solution to monitor Open Banking in Europe"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-03-14T10:17:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/noda-selects-thetaray-ai-solution-to-monitor-open-banking-in-europe/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 34
-
-secured: "06X9caUD99H2AJMAqAT2Ufgo7PmG0vAQAQC7DprVYRqCPmrrqYWDKq6wxtQOa4xhSdY449lOaCUJ2g/aIRNiGneauVtNL0GWjG5cBuZumIrSDIetq8QbJ6plxwoiHvBOhynAAXLXFr9TO7s/v9YRa/wLO0fEcuc+iLRBri5JuiseNArGn1DjFXRSwrN20WlF7lEytpQh70YGTW5CTINc06aeJ5mU6BS8kQ/FK5ZOE2AVDDObC5f+N51g6VIesMBdjtnkyepX/ZZGyjbO/aOkf7qr+DvCkpgz2jq6L7Ku/j6cpBT7dP86+nM82ku3l9aUZPONgx+WfFsM7uiOPzi6ZnJzmrp3P207fv3ui/VWIc2OOi1AS/II7ueA6cAKKPqnq2hlxhrL3z71cILceTFAReLlsaIFHB7s+OSRePFFbh32WuffIgw/kT3pRmKvtrF90gQeYNw8bI605lfiwleh6xAPBIVLOP4Tv0VKfmfUOIPPfwn+EZdo5jdshOz7RA5+jf61IM6lPdFsfCoxf8X6GQ==;SOStqYccwuSKFvmF1ahavQ=="
+secured: "WwSaRFjNIrXDONPQfxrFoNuSH+b9mrAdWMuTMGIGNUY/5P1CsJvMlFTxOEI11hOOK1/uiVKR05VWfMLE2Lh36Hq3fdcq+jsvOtta2KImCGGPneHH67fcLXuzxols89vGrOBbNGGIV45l+0USOl0TUeXvsdrbuG7gXfx45y5T+hAE56aCYsaxeRGF62qmlAYckPuwjpDv2CvWY2Ro84e9QvbVwgcSXjO9I9UIeoJORei7/sh1Mb3Kic0UCHc7dpz2MsjmgWXDxP3J9OZwjrVdCPma9YG/4P0LovdM8hPCsC+Y5IJdSuEOpW9slDURB8Bx8Sf530Jpq8JerFbWUD2KucG20ftBf1/MlTFh/hWI4b28bQReuR8jP05xcav85AmykTTM2Apg9YnS6nfNGs3Yahnqjdwj4WWpGhCiSBXo5FGKyduXdFZZeey3dlVTIZlM1HnuqW3f+JehMvjfpUZ4ofsdeohJ7uV7OGKPq7k39uFI0UGaVPCNXzbOX7fzuB689AYpJsgg1p8AoddWQ2Yd9A==;mgOYCj3kmNa5vaFWp9zdtw=="
 ---
 
