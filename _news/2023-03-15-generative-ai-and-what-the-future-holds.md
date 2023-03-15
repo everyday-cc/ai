@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In ChatGPT's shadow, India readies for aggressive AI play"
-    excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
-    publishedDateTime: 2023-03-11T03:36:00Z
-    webUrl: "https://www.rediff.com/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 59
-    images:
-      - url: "https://im.rediff.com/345-230/getahead/2023/feb/10chatgpt.jpg"
-        width: 345
-        height: 230
-        isCached: true
   - title: "14 ways new AI bot ChatGPT could be used in healthcare"
     excerpt: "Artificial intelligence has played a larger role in most industries, including healthcare, over the last several years. A new AI tool, ChatGPT, developed by OpenAI, has several potential benefits and"
     publishedDateTime: 2023-03-13T20:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
+    quality: 47
+  - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
+    excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
+    publishedDateTime: 2023-03-15T19:10:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-03-15/pwcs-4-000-legal-staffers-get-ai-assistant-as-law-chatbots-gain-steam"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 47
   - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
     excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."

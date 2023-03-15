@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Grammarly's New AI Tool Is More Than a Spell-Checker"
+    excerpt: "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,"
+    publishedDateTime: 2023-03-15T16:02:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-more-than-a-spell-checker/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YhJsvlyjxSfCypM2ioGGde/e/EsBDIF9TYEY+Buhv3omjZvBYbWDImNKlLjs+gTSCW3kIci23BMIxV55zY09NKGDu/ffBjR79V/wpJ6Iv/FTt8xVncfXUNDDCZNV/o6HM2/2IaT2kF1iqgeDSHGYKJTynNbMHSEPTLT7yhM4Gp4w6kHAhm0NYJw1C8UgyN27ltP86zDGxzOj/AgesyzlAmKli0Htb0mmbdD+NFQchXGN2tfg7ByBlMLTb8oPTcjL5nKGbMO+xjAsXUsVea/SL8dbeDjboiTNAa6ka+H65TQakFY1pT5OcY3uEhGQKRTzfhT3QcW9Gt5wK/tNoMr3IXG7e/zLQ3wCzVhA7I4nqqM=;gB79vbkNsnuJlaPwwRgr3g=="
 ---

@@ -47,6 +47,31 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "How the quest for AI at scale is gaining momentum in the enterprise"
+    excerpt: "With the latest technology, increased computing power and advanced data solutions, the quest for AI at scale can be tackled as never before."
+    publishedDateTime: 2023-03-15T15:59:00Z
+    webUrl: "https://venturebeat.com/ai/the-quest-for-nirvana-applying-ai-at-scale/"
+    ampWebUrl: "https://venturebeat.com/ai/the-quest-for-nirvana-applying-ai-at-scale/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-quest-for-nirvana-applying-ai-at-scale/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/1-Lead-feature-The-quest-for-Nirvana-Applying-AI-at-scale-Light-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "How AI changes the investing game"
+    excerpt: "What happens when computers start running the show? Here are a few observations ... And the latter feels like it is 100 times faster than the former.” 2. AI thinks quickly, but not deeply. Generative language models look and act smart, but they can ..."
+    publishedDateTime: 2023-03-15T15:46:00Z
+    webUrl: "https://technical.ly/software-development/how-ai-changes-investing-stocks/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 17
 
 secured: "g/4EITvO8wWrmm3guPQ85xQgoJVC4MlWadPonxxZ6c/Wa4OYfCwrSMANLAJpg1N+H/+nnMVzNfGZgGK/bmmLML4nw91abDnzpecoU3/tto11eUbnVnoP3ccOY+HSazQm6QEgC3E+EHjwXreZc4onUjrhcUWwRBn/ytbtVW02GO1vKMlBZwQAelrF8ZlW7Ym67SUVy2cr+zmrAbGggeXKG7CDqz33n8pCnuN2RJx3GNeojsKqhcOjTeDdBPWw1Yta7UsHuH1UiICVKWdbHyRmazwbruDH7WFWtKUlBLN6NvLTyjwVGLQA4LDbTpxtulC8yBdmMNWMWrAvf2p7UxYDel3JzlrE7SnEzW3zs214KVU=;4e6XComWQPjFUfkvweHxwA=="
 ---

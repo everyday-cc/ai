@@ -128,22 +128,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In ChatGPT's shadow, India readies for aggressive AI play"
-    excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
-    publishedDateTime: 2023-03-11T03:36:00Z
-    webUrl: "https://www.rediff.com/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 59
-    images:
-      - url: "https://im.rediff.com/345-230/getahead/2023/feb/10chatgpt.jpg"
-        width: 345
-        height: 230
-        isCached: true
   - title: "Generative AI and what the future holds"
     excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
     publishedDateTime: 2023-03-15T09:30:00Z

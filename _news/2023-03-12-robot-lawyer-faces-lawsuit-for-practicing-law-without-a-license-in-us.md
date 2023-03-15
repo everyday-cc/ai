@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Robot lawyer' DoNotPay sued for practicing law without a license"
+    excerpt: "The San Francisco startup that touts itself as \"the world's first robot lawyer ... file class action lawsuits and other legal services, sometime through AI. The company has made headlines for attempting to get an AI chatbot to represent a client in ..."
+    publishedDateTime: 2023-03-15T21:05:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/15/robot-donotpay-sued.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "H7q0F8GcKXLN39SwLOXZB699bm0pL8JU6blI00Cgl/VvJh2LeMCQBO1lS4v7vZIkOCCPMgaML5Bjb9wytpy7ySFhEaPFaBcy4rk3JbgmJyBal7s8N8CromWB4HoDZqBhe8bBbM2mUDC6Us+kwwWUCqf0JxVwpFlD9NMP7qvmj5+AQFMTFG3LbDmHs8oPBhmZLsqnvF4Id2y+oBposricL7fR17VKMEGqj8LNHB68DRBYkOzoELWcCphlb5k6aIDu0rf26sJSbLYOlpSHIAW9liM8Lk0WIrp0EgyF8taoLO1oqzjbSv+Tl+epPIiSrYOAtOZjGeeKJNy/QbfswcJkewLZePefDMZH5rCoLUsKbj4=;hTd8ShCePHdrTKYOJGgQjA=="
 ---

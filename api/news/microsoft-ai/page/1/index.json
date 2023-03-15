@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Natural Language Processing"
       ]
     },
     {
@@ -421,7 +422,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 341,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -582,6 +583,40 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-chatgpt-now-available-in-microsoft-azure-openai-service-preview.md",
+      "title": "ChatGPT now available in Microsoft Azure OpenAI service preview",
+      "excerpt": "Microsoft has announced that OpenAI's ChatGPT is now available for preview in its Azure OpenAI service. Now developers can integrate custom AI-powered experiences directly into their applications using ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/chatgpt-now-available-in-microsoft-azure-openai-service-preview-article-98534443",
+      "originalUrl": "https://www.timesnownews.com/technology-science/chatgpt-now-available-in-microsoft-azure-openai-service-preview-article-98534443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T22:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1366,50 +1401,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu.md",
-      "title": "Microsoft Edge Canary can now upscale videos using the power of AI and your GPU",
-      "excerpt": "The feature uses machine learning, artificial intelligence, and the power of a PC's GPU to increase the resolution of videos to up to 720p. The functionality is now available in Microsoft Edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "originalUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DNhWfhWjxiMbh496AfG2KF-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

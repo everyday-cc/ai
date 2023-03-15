@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-bo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
 type: article
 quality: 91
-heat: 341
+heat: 331
 published: true
 
 provider:
@@ -127,22 +127,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "In ChatGPT's shadow, India readies for aggressive AI play"
-    excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
-    publishedDateTime: 2023-03-11T03:36:00Z
-    webUrl: "https://www.rediff.com/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 59
-    images:
-      - url: "https://im.rediff.com/345-230/getahead/2023/feb/10chatgpt.jpg"
-        width: 345
-        height: 230
         isCached: true
   - title: "Generative AI and what the future holds"
     excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."

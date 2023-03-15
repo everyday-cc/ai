@@ -1,25 +1,24 @@
 ---
 category: news
 title: "How Artificial Intelligence Could Change Psychotherapy"
-excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT; art is being ..."
-publishedDateTime: 2023-03-15T16:50:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
-webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;"
+publishedDateTime: 2023-03-15T14:51:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+webUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI
-  - AI in Autos
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
@@ -44,35 +43,7 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-    excerpt: "Roughly one in 10 AI researchers said the technology could lead to the extinction of the human race or its severe “disempowerment,” according to a 2022 survey by Oxford University and the Machine Intelligence Research Center, Klein noted. One in 10."
-    publishedDateTime: 2023-03-13T16:06:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-    excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
-    publishedDateTime: 2023-03-13T22:52:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
 
-secured: "ZcjTHapg6NNeaZBoLihsqQkh/jubkQcNTGXu5SkDoHHDnKCI/a2JJMF3/AKIs5c4dbkG7F+kTudrluF4nbuel6ujiXZgFFUCjP3UKsG7toBU57M8I/412oClTdL1DrYAmp8ZmXzKCebcoR419BD6d99ONwhv5H656f8IJqNIU7DBoIh7nQtvGpsE3IZEGRc6VPnSdFBs612C1vrwQJNcT/k27X1PGrMeid5CTyKWqUc4dtlA0k0pe0EC4a0xEp2xAJQueuGcw443qju8KdWN6wtwujkvOC75KYN0z3DM4xWHn6vboSBPw2sV06sMc5N/f9keI6aiuy/GZI7OpRWEoVnVZTisTRswfF3/Jimwal/VRU+7nGQ1gDraLWPi64rJYX7l6EuheO9ZOMDcW2n8RDCEHRzWrpBxaQm9Hbf5EMz6ET7WfPWio6uHpuES/dR2UK1TgZNqRHXkd8UQyyPu3X8u6q2zBpA3hYoJe1JatI+0rDXbVPu79zM5xmB/9cOPA3vLOTnuSk8jhOhCwWtkAw==;U1sWYydtl78B4/bUYzfRbA=="
+secured: "jq1JHZAGdZ8yLP5qAjRROAe84sSf/gpbZB7EPgdvTqpYcdQqOzsu0xnmR5bYf33TfovUzT3GuuIEDLtdrKMymtrcEoDh4EXZ7BEHBf4mR5KDD4IzLHbQ2vLaR5Kippl6uydyc/vBOv6xo+25nfjaxzc1IMKSLabmprEO6elyrDuqq1owO/bnznwmMcNuhm/iMYVD0x3q88gTV5DJdlVAiXn8IpMEX/St39ILDCqHbRNRNXmlJC1K7eALFd0hQum1NOXygYOj5PwYJ5+Q1X3nmpmxUGGkXy0IhidwxOnH1mIrf1/vYnZTQsLks5acup5YiXD5b29n6M8DrUCs1skuQWh0Vc/NBwizh78kyh4ZOvU=;Ayi3AMpJI6Y0xbLdDXSv/A=="
 ---
 

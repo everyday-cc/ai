@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T17:40:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31366709/utilidata-announces-development-of-a-custom-module-for-ai-at-the-edge-of-the-grid"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31366709/utilidata-announces-development-of-a-custom-module-for-ai-at-the-edge-of-the-grid"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Benzinga.com

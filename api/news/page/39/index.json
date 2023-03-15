@@ -2,6 +2,356 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-future-toyota-cars-to-be-powerd-by-robosense-lidar-for-safer-self-driving.md",
+      "title": "Future Toyota Cars to be Powerd by RoboSense LiDAR for Safer Self-Driving",
+      "excerpt": "RoboSense, a world-leading provider of Smart LiDAR Sensor Systems, officially announced its partnership with Toyota, the world's best-selling carmaker, on large-scale production with nominated orders for multiple models.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag.md",
+      "title": "Artificial Intelligence to be a game changer in govt audit space: CAG",
+      "excerpt": "Artificial Intelligence (AI) is going to be a game changer in the public audit space as it will help in quicker and more detailed analysis during both planning and execution stages, Comptroller and Auditor General of India (CAG) G C Murmu said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-download-generative-ai-for-video-and-detecting-ai-text.md",
+      "title": "The Download: generative AI for video, and detecting AI text",
+      "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model Stable Diffusion, has released an AI model that can transform existing videos into new ones by applying styles from a text prompt or reference image.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
+      "originalUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-this-industry-will-add-200-trillion-to-the-economy-by-2030-says-ark-invest-heres-1-stock-to-buy-if-it-does.md",
+      "title": "This Industry Will Add $200 Trillion to the Economy by 2030, Says Ark Invest -- Here's 1 Stock to Buy if It Does",
+      "excerpt": "C3.ai pioneered enterprise artificial intelligence, and its stock could see monumental ... ran a test to see how much C3.ai could improve application development time on AWS, and the results were remarkable. By using C3.ai in conjunction with AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-baidu-stock-jumps-15-as-the-chinese-internet-giant-says-its-readying-its-answer-to-chatgpt.md",
+      "title": "Baidu stock jumps 15% as the Chinese internet giant says it's readying its answer to ChatGPT",
+      "excerpt": "Shares in Baidu surged to highs unseen since 2021 after ... with the promise of further potential automation driving its share price up more than 200% at one point this month.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6116a207c040ad0018ce3837?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2?amp",
+      "publishedDateTime": "2023-02-07T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028.md",
+      "title": "APAC Region Projected to Lead the Personal AI and Robotics Market Through 2028",
+      "excerpt": "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. 7, 2023 /PRNewswire/ -- The relatively recent marriage of AI and Robotics, appears that it will be a successful and long-lasting relationship. A recent report",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30764211/apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30764211/apac-region-projected-to-lead-the-personal-ai-and-robotics-market-through-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain.md",
+      "title": "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain",
+      "excerpt": "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor's mission to digitize the global supply chain industry and empower freight forwarders to plan,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-synopsys-has-helped-over-100-clients-use-ai-to-accelerate-chip-design.md",
+      "title": "Synopsys Has Helped Over 100 Clients Use AI To Accelerate Chip Design",
+      "excerpt": "EDA vendor Synopsys started helping clients use reinforcement learning, an AI technique, to accelerate and improve physical chip layout with striking results. Physical chip design presents engineers with some 10 90000 possible ways to lay out the circuits in silicon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/synopsys-has-helped-over-100-clients-use-ai-to-accelerate-chip-design/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/synopsys-has-helped-over-100-clients-use-ai-to-accelerate-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-imagines-state-of-the-union-speeches-from-famous-historical-figures.md",
       "title": "AI imagines State of the Union speeches from famous historical figures",
       "excerpt": "Let's face it, State of the Union speeches are mostly rote. To shake up the formula, we asked ChatGPT to work up speeches as they might have been written by some of history's most interesting figures.",
@@ -612,348 +962,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling.md",
-      "title": "Chrome and Edge Browsers to Get Nvidia RTX AI Video Upscaling",
-      "excerpt": "RTX Video Super Resolution works by taking any low-resolution video viewed in a browser and upscaling it to 4K. This should theoretically allow you to watch a 1080p video on a high-resolution monitor without it looking like garbage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
-      "originalUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-robots-coming-for-our-jobs-will-also-help-fire-us.md",
-      "title": "The Robots Coming for Our Jobs Will Also Help Fire Us",
-      "excerpt": "Artificial intelligence has infiltrated decision-making on hiring, training and evaluations. Now it’s creeping into the layoff process as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-ai-event-live-blog-all-the-announcements-as-they-happen.md",
-      "title": "Microsoft AI Event LIVE Blog: All the announcements as they happen",
-      "excerpt": "MS built new balances, and are able to scale unlike anyone else. \"We're committed to learning with you.\" Sarah Bird, Responsible AI Lead, Azure, is now on stage. \"We have been preparing for this moment for many years.\" \"Since 2017, we have been investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "originalUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-askvet-launches-vera-the-worlds-first-answer-engine-for-animal-health-based-on-chatgpt.md",
-      "title": "AskVet™ Launches VERA, the World's First \"Answer Engine for Animal Health\" Based on ChatGPT",
-      "excerpt": "VERA is powered by AI, ChatGPT and AskVet's vast database of over 1.5 million digitized conversations between veterinarians and pet parents. In addition, VERA has been educated using expert articles,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9755839.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-baidu-adrs-jump-on-plan-for-ai-chatbot.md",
-      "title": "Baidu ADRs Jump on Plan for AI Chatbot",
-      "excerpt": "By Dean Seal Baidu Inc.'s American depositary receipts were up 14.3% at $163.26 in premarket trading after the company said it plans to launch a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-adrs-jump-on-plan-for-ai-chatbot-271675771322",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-how-companies-can-apply-robotics-to-their-work.md",
-      "title": "How Companies Can Apply Robotics To Their Work",
-      "excerpt": "It is exciting to think about the growth and innovation ahead in the robotics segment as it continues to mature and evolve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/02/07/how-companies-can-apply-robotics-to-their-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/02/07/how-companies-can-apply-robotics-to-their-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-top-five-opportunities-and-challenges-of-ai-in-healthcare.md",
-      "title": "Top Five Opportunities And Challenges Of AI In Healthcare",
-      "excerpt": "That all said, AI has now leapt into popular and mainstream culture and how we look at innovation and our world going forward. And certainly, healthcare is one industry where this has been an ongoing discussion and raging debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-crypto-tokens-fetch-singularity-rally-more-than-20-overnight.md",
-      "title": "AI Crypto Tokens Fetch, Singularity Rally More Than 20% Overnight",
-      "excerpt": "As the artificial intelligence narrative grows louder, several AI-adjacent cryptocurrencies have enjoyed hefty rallies.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
-      "originalUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "decrypt",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
-      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
-      "excerpt": "United Arab Bank (UAB) has announced that it has joined UAE Trade Connect (UTC) as an official member. UTC, the fintech blockchain platform of e& enterprise, is the UAE's first commercialized solution to combat fraud in the trade finance space built on advanced technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
-      "originalUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

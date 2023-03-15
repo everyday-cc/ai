@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-device-
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
+    publishedDateTime: 2023-03-15T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/15/9777780.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mNw158EsDh1yI2MUE0FtWaf66zhJ6jm5727Vkku3ZqMAOAM7hO7qk8rkfyGJVzWGY8DeupN5PRFxKf9q4GbjPavbbZc8PL9zJLCHxTdiJFALjrdVymBbZl5FU4DLs8vSbMkZHrwzajWfqp3X6EoZTVtLZ66ql6cFnWx8mqV6I+JiA4kB/tI2ELQbuYFZKHl4u3kzcowNVh3c1hEQXN5tDAYlVK6MLHfsLA1FRMI45aBCEl5VjFKQZDCdcy7+lA7Jdb/IuZwakRqrTPAk2V+PFJBLMCQEdBv7ce9LzO0ijRroxTn0NxfTzgyXxIYtzoESthKmPS3lDdWYY5yLPP0Mwa3uj9ZBvAFh7eueMWA6ZAk=;ENVZjk65HQa8YD1q72+e/g=="
 ---

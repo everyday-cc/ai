@@ -7,7 +7,7 @@ originalUrl: "https://kotaku.com/totalbiscuit-john-bain-youtube-delete-videos-ai
 webUrl: "https://kotaku.com/totalbiscuit-john-bain-youtube-delete-videos-ai-voices-1850220650"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "PSA: Beware of these AI-generated YouTube videos that spread malware"
+    excerpt: "In addition, you’ll want to be careful in general as these cybercriminals are also finding ways to take over popular YouTube channels. In order to reach as many people as possib"
+    publishedDateTime: 2023-03-15T16:43:00Z
+    webUrl: "https://www.androidauthority.com/youtube-video-malware-3298682/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2019/06/youtube-premium-inside-app-logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "WOTbA+cVbI34PUH4hEMgLKnXq00zsOyKwCr42KSq7ebnHzo1xWXs2zuj2eF/CNPUDDLzu6IQqJZPspqcVp5OYQYoiYSDYgZieSyIZKVqyUThrJV8v8PcemlDDb6xZd/saKN5X/j2HMJVuKRaal1yD4U94ROzqAwl4Q9YCOQgWdajRFOX2/Hx1xTAwhdJFhJShEiwiqla56adcyubCe95BCxlneiPPFDhKKeS05mNWUKkqzcbOOa8IQTeVFvz8cI7tBML1UWeQdx4De+eFqRTC5iUILiLIPfyrIAYgPmLLPKSlRRuQRpN1Qx44AiTJ/aRPdjZAAMop82N+hiLA1fbaero3f+q/memFvBXI7ji/1gtBvqY8dWNgVmHHg5dMsZ6zpfkFPsxC33oOvnDo/cIbq9Y0xaqo1dSo2ALd4RjH2S9Bp/RtTRydcVUuvwg8qR/Uy80PQzbYUIcBYcdac0lmAfAsh4wblBbidnwPkgDhcBideRuSbzBy7+pwLIow+EE23UwKE6W1nJLT9he29SLHg==;XVrHxi9WPQvPSgQ+43dY7A=="
 ---

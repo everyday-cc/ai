@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-15T13:33:00Z
 originalUrl: "https://www.freep.com/story/money/cars/general-motors/2023/03/15/gm-vehicles-artificial-intelligence-assistant-ultifi/70010009007/"
 webUrl: "https://www.freep.com/story/money/cars/general-motors/2023/03/15/gm-vehicles-artificial-intelligence-assistant-ultifi/70010009007/"
 type: article
-quality: 12
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2022/12/08/PDTF/5fa7dbed-b341-43b4-9b2c-a43ae49ad195-MaryBarra_120822_ES01.jpeg?auto=webp&crop=2399,1350,x0,y141&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "GM plans to develop an Azure-powered in-car AI assistant"
@@ -61,6 +68,6 @@ related:
         height: 559
         isCached: true
 
-secured: "DD4KKGAKeOIc1J660z3lhHR6nF/e4uoPRcoY+xjPX4EbTpdO5fh4AnifVZqmrVAl9HaS17yi8p/bZMQ9O4/FDAF3hjLwE0Cz0znQ+/sUruwrp0vCDq/QOU3tzthat91889fIpoej+DHml9miDyLqtCVxOq3XbTIaK97p7oyiflp3OKPdzLi24CVixtrMygK4ZP6tIASs7+kf65HsWiDfw64tCE2l1xSrSaDEcCgh1XdrJ5gAB+NC8FoYSvVZMAkUrcRC0fayN4WLp++ToNVPr1y+gFlFhb1AtxgSnUzXnmeJezlW++/5+KDey5uV19D8Z8AAQIxA373jKBkIxaOz0xZsdBHEBOYX6Wk1Z534u30f5j9bptok1Duvqy/LurcU8v1+bZHRbxihAXuFTEW97g9RSj173BHKkie5HsedCs1mUYZtE/oaOTuhRLitjqGoMiUdCZFizWvuOzwtJ1X63/AJ8WqaWAalrHkm0pN/Be81/ahgVyS7suZzVpG6Yvtpnb46uxRg0OJtK5uqm0w80Q==;kCQktiPgwF9qBgMbikFGrg=="
+secured: "U1umCWd3vKPoGdBfP6ioQuRGwCUwDpruGAJe2FF8YDyX+z1BwkS+C4EUYxlSQaIAORSLLKmD+LrreVybX6MXUqDgIdPAHHvgDDmgmixWxZnuDyapHQ6djg001jDGl6nL40D1aprGk9RmfXdQVDPBmdyCC6yc1K6IuLc3a97CxDwd6PcpkllPgcOTGQeUIleMUT6NGdDeZunkrTMWMzVxImSImzkxmDE6Q8AAgbfEqmEACpBwxgm5Ys7c8xdHRbHACl82plNe5/g+lio0NKHrIu9MgzV6Cya9uA5rziIWjzFmFZGLTQQwuq0csrzgF02GSctoJD26t+UpWzyMRYrICZv//Wqd8C2Y3jKrfNZhFlU=;HESG2T0UP8VHiqqy7Pkx2Q=="
 ---
 

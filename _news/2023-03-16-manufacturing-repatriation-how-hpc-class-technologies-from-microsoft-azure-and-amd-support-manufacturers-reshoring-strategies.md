@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:43:00Z
 originalUrl: "https://insidehpc.com/2023/03/manufacturing-repatriation-how-hpc-class-technologies-from-microsoft-azure-and-amd-support-manufacturers-reshoring-strategies/"
 webUrl: "https://insidehpc.com/2023/03/manufacturing-repatriation-how-hpc-class-technologies-from-microsoft-azure-and-amd-support-manufacturers-reshoring-strategies/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: insideHPC

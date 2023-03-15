@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "From 2023 to 2028 Report on the AI in Computer Vision market"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ..."
+    publishedDateTime: 2023-03-15T21:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029"
     excerpt: "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-14T01:02:00Z
@@ -102,6 +116,20 @@ related:
     excerpt: "The \"Artificial Intelligence Voice Market\" Study Describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-13T05:28:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029"
+    excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ..."
+    publishedDateTime: 2023-03-15T20:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch
@@ -149,6 +177,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Medicine Software Market Share and Forecast till 2029"
+    excerpt: "IBM Watson Group, Flatiron Health, Inc., Syapse, Inc.] have been looking into AI Medicine Software as a way to increase their market share and reach towards consumers. What is the AI Medicine Software market growth? AI Medicine Software Market Size is ..."
+    publishedDateTime: 2023-03-15T20:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-share-and-forecast-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -261,6 +303,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational AI Platform Market 2023 | Global Industry Report Forecast 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Conversational AI Platform Market” Size 2023 Key players Profiled in the Report are [, Clinc, Inbenta, AmplifyReach, FIS, Nuance Communication Inc., Baidu, Interactions, Avaamo, Facebook ..."
+    publishedDateTime: 2023-03-15T21:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-platform-market-2023-global-industry-report-forecast-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market [2023-2026] | Transform Business with Our Proven Visionary Data"
     excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-03-13T12:23:00Z
@@ -345,6 +401,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market Size and Forecast till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) in Manufacturing Market\" study describes how the technology industry is evolving and how major and ..."
+    publishedDateTime: 2023-03-15T18:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-and-forecast-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "Face Recognition Device Market Industry Size, Share, Trends, Growth Analysis and Forecast to 2028"
     excerpt: "The \"Face Recognition Device Market\" Study Describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-15T06:49:00Z
@@ -354,6 +419,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market 2023: Growth Prospects and Revenue Analysis"
+    excerpt: "Global “Artificial Intelligence-Emotion Recognition Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions."
+    publishedDateTime: 2023-03-15T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-growth-prospects-and-revenue-analysis-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -429,6 +508,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Natural Language Processing For Healthcare And Life Sciences Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all ..."
+    publishedDateTime: 2023-03-15T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
   - title: "New Survey on \"Artificial Intelligence Platform Market\" Augmented Expansion to Be Registered by 2023-2028"
     excerpt: "Mar 11, 2023 (The Expresswire) -- Report Highlights with 124 pages:-\"The global Artificial Intelligence Platform market size was valued at USD 2511.37 million in 2022 and is expected to expand at a CAGR of 15.36% during the forecast period, reaching USD ..."
     publishedDateTime: 2023-03-12T01:11:00Z
@@ -471,6 +559,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Software Market Top Players and Forecast till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Face Recognition Software Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
+    publishedDateTime: 2023-03-15T19:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-top-players-and-forecast-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
     excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
     publishedDateTime: 2023-03-13T10:27:00Z
@@ -535,7 +632,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -573,6 +670,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Medical Software Market (Size and Share) 2023-2029 with Forecast Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Medical Software Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding ..."
+    publishedDateTime: 2023-03-15T18:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-software-market-size-and-share-2023-2029-with-forecast-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "rD/7NGLuTOLLPgsUdTxOCirx4dQpBWTS5ifvr+d/WF+zJCq6DvrdcImZGsta2SYKuBmtJbEunFZ8ez/k9WDkRxsohvk51zVWHu5K/avQOwEjZANGN4/GJQuWqalPypwEMjJXEKt+awfFrUQZ8FfjIMzlFXqd32BGqFBtFYqUcTdKMwTEwtA2C068YJUe7nqYlQXK2hQT9B0/swklAaR9euGBer0gV87AV67EBsVoM5sheQ1wt7XLsBZIQ2yFI3Jb+wjz+vlT4XdFiO2bZTlk4WJBmCwPaWOjvFrIJPhGJ8W9HO/mu4ePz/cq8B29hRLvvQOXyErANEZxpU5tDup9dzp6rCAnf29x7pDp14Au/MU=;Wz0I2uH2uFCOFTtxz6h5Kw=="
 ---

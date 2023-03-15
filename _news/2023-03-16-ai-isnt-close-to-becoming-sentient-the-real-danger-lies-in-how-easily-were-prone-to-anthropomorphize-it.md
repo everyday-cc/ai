@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:03:00Z
 originalUrl: "https://www.houstonchronicle.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
 webUrl: "https://www.houstonchronicle.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
 type: article
+quality: 1
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
+    excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston’s Applied Ethics ..."
+    publishedDateTime: 2023-03-15T15:24:00Z
+    webUrl: "https://www.seattlepi.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 1
 
 secured: "IJ3LRObp1zy5lZHoswNKFHf701OQpUVVSeUGrnPFkass4EDzuC5fdTl9a1Fdoow3umYK7iBVaBUPXEg4kLwrkRHXmwBI7slrZ1XRS6HQHcsMFnpJnXKwAji4/KrAC6mA9Cn50l1of448KEkjWE16RzRN+LTvsHeFel2Abd12u2BYwtJa2RCBCo2NgxuBRbKWmxprvkbQ7GGQgRkZ1x8aGnWqkowKGPhag/tPK1FxXhMrGN+PX0Ge6D6ghaLV0+ZwdhUDdigwExwicOIkilSWxpx6d04QR2t9WIRDgb3uB1NTs96Yr0/2ok0ODZidENC+3rQKAO75VYQqyeXPEA1fp1tTGo1uoV1y398z8Zfn4cs=;An0Q1uAiYmmf6ltN9J3Biw=="
 ---

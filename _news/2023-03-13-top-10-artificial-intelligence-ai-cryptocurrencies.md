@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-13T09:18:00Z
 originalUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 webUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 type: article
-quality: 82
-heat: 102
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg"
@@ -38,7 +39,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400

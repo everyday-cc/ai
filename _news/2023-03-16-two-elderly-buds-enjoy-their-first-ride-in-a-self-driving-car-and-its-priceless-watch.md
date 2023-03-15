@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:10:00Z
 originalUrl: "https://tasteofcountry.com/elderly-men-self-driving-car-video/"
 webUrl: "https://tasteofcountry.com/elderly-men-self-driving-car-video/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Taste of Country

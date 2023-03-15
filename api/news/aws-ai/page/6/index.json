@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-07-aisera-founder-offers-perspective-on-latest-moves-from-aws-in-aiml.md",
+      "title": "Aisera founder offers perspective on latest moves from AWS in AI/ML",
+      "excerpt": "The founder and chief executive of Aisera Inc. identified four key areas of focus by Amazon Web Service Inc. during the recently concluded re:Invent gathering in Las Vegas. “First, the most important things Amazon has announced are in artificial intelligence and machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
+      "originalUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Muddu-Sudhakar-Aisera.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-lightspin-announces-full-coverage-for-aws-vortex-aws-time-machine-and-3-others-services-following-aws-reinvent.md",
+      "title": "Lightspin announces full coverage for AWS Vortex, AWS Time Machine and 3 others services following AWS Re:Invent",
+      "excerpt": "Lightspin is thrilled to announce that our cloud security platform now provides full coverage for the most recent AWS services announced at AWS Re:Invent 2022. AWS Re:Invent was an exciting event with many announcements related to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/12/lightspin-announces-full-coverage-for-aws-vortex-aws-time-machine-and-3-others-services-following-aws-reinvent/",
+      "originalUrl": "https://securityboulevard.com/2022/12/lightspin-announces-full-coverage-for-aws-vortex-aws-time-machine-and-3-others-services-following-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/12/lightspin-announces-full-coverage-for-aws-vortex-aws-time-machine-and-3-others-services-following-aws-reinvent/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/12/lightspin-announces-full-coverage-for-aws-vortex-aws-time-machine-and-3-others-services-following-aws-reinvent/amp/",
+      "publishedDateTime": "2022-12-06T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-carahsoft-announces-availability-of-adobe-in-aws-marketplace.md",
+      "title": "Carahsoft Announces Availability of Adobe in AWS Marketplace",
+      "excerpt": "Provides Public Sector With Access to FedRAMP Authorized Adobe Experience Manager via AWS Marketplace. RESTON, Va., Dec. 06, 2022 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., T",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/06/9725446.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/06/9725446.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
       "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
       "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",

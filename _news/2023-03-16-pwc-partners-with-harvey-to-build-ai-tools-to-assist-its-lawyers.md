@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:21:00Z
 originalUrl: "https://siliconangle.com/2023/03/15/pwc-partners-harvey-build-ai-tools-assist-lawyers/"
 webUrl: "https://siliconangle.com/2023/03/15/pwc-partners-harvey-build-ai-tools-assist-lawyers/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SiliconANGLE

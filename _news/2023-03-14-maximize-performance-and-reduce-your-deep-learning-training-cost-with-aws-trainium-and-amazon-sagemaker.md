@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/maximize-performance
 webUrl: "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/"
 type: article
 quality: 120
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions"
+    excerpt: "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud"
+    publishedDateTime: 2023-03-15T18:32:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
   - title: "Few-click segmentation mask labeling in Amazon SageMaker Ground Truth Plus"
     excerpt: "Amazon SageMaker Ground Truth Plus is a managed data labeling service that makes it easy to label data for machine learning (ML) applications. One common use case is semantic segmentation, which is a computer vision ML technique that involves assigning class labels to individual pixels in an image. For"
     publishedDateTime: 2023-03-13T18:36:45Z

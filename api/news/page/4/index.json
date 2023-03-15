@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-13-automated-machine-learning-automl-market-the-growing-trend-2029.md",
+      "title": "Automated Machine Learning (AutoML) Market: The Growing Trend 2029",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-grammarlys-new-ai-tool-can-do-more-than-check-your-spelling.md",
+      "title": "Grammarly's New AI Tool Can Do More Than Check Your Spelling",
+      "excerpt": "Grammarly can check your spelling and grammar in real-time, but it'll soon be able to do more than that. The company is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo that the company says is intended to improve communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "publishedDateTime": "2023-03-12T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-12-how-ai-and-machine-learning-are-revolutionising-business-intelligence.md",
+      "title": "How AI and Machine Learning are revolutionising Business Intelligence",
+      "excerpt": "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg",
+          "width": 2074,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "publishedDateTime": "2023-03-12T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-12-tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks.md",
+      "title": "TikTok Has A New ‘Bold Glamour’ AI-Powered Filter, Here Are The Risks",
+      "excerpt": "TikTok has released its new Bold Glamour filter that can remodel your face in an unreal way that looks very real. And it's already garnered real interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640d230a750aeccba86bedbf/0x0.jpg?format=jpg&crop=357,267,x10,y0,safe&width=1200",
+          "width": 357,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
+      "publishedDateTime": "2023-03-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more.md",
       "title": "Weekend AI News Roundup: AI in BPOs, Chinese students accessing ChatGPT, Inker Robotics secures million dollar funding, more",
       "excerpt": "The companies recognise this. The ubiquitousness of AI will therefore force a rethink for business process outsourcing companies on their staff composition. Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and ...",
@@ -53,7 +251,7 @@
       "originalUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1027,213 +1225,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
-      "title": "The ‘Search’ For Simpler Analytics",
-      "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640b1da0ec0c457c717aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/",
-      "publishedDateTime": "2023-03-10T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-accelerating-drug-development-to-keep-pace-with-drug-discovery.md",
-      "title": "Accelerating Drug Development To Keep Pace With Drug Discovery",
-      "excerpt": "Pharma is under pressure to move faster. Following the speed at which Covid-19 therapies came to market, there is a growing urgency to shorten drug development timelines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffc53a3d743a470c25b0e9b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
-      "publishedDateTime": "2023-03-10T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-how-small-and-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai.md",
-      "title": "How Small- And Medium-Sized Businesses Can Navigate The Cybersecurity Risks Of AI",
-      "excerpt": "While AI offers numerous benefits, it also poses significant cybersecurity risks to small- and medium-sized businesses that often lack the resources and expertise to defend against attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d0d1e1e7516cbb623ad21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
-      "publishedDateTime": "2023-03-10T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029.md",
-      "title": "Artificial Intelligence (AI) Robots Market 2023 [Latest Report] Is Thriving Worldwide by 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 09, 2023 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

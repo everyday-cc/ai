@@ -191,6 +191,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
+    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
+    publishedDateTime: 2023-03-15T18:28:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
   - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
     excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
     publishedDateTime: 2023-03-12T03:47:00Z
@@ -306,6 +315,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "What can ChatGPT maker's new AI model GPT-4 do?"
+    excerpt: "- Text from the ChatGPT page of the OpenAI website is shown in this photo, in New York, Feb. 2, 2023. The company behind the ChatGPT chatbot has on Wednesday, March 15 rolled"
+    publishedDateTime: 2023-03-15T20:37:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/what-can-chatgpt-maker-s-new-ai-model-gpt-4-do-17840908.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/72/71/23572080/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "OpenAI's GPT-4 Model Can Ace The SAT, Pass The Bar, And Explain Memes"
     excerpt: "GPT-4 was just released by OpenAI today, and the company describes it as \"the latest milestone\" in deep learning. As a large AI model, it's essentially similar to GPT-3—it accepts text and images as input, and it can give text outputs in response."
     publishedDateTime: 2023-03-15T12:59:00Z

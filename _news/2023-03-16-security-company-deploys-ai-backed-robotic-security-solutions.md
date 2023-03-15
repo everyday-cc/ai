@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:43:00Z
 originalUrl: "https://grbj.com/news/technology/security-company-deploys-ai-backed-robotic-security-solutions/"
 webUrl: "https://grbj.com/news/technology/security-company-deploys-ai-backed-robotic-security-solutions/"
 type: article
+quality: 51
+heat: 61
+published: false
 
 provider:
   name: Grand Rapids Business Journal
@@ -15,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
   - AI in Security
+
+related:
+  - title: "OSM Worldwide Partners with Ambi Robotics to Automate Parcel Sortation with AI-Powered Robotic Systems"
+    excerpt: "Ambi Robotics, the leading provider of AI-powered robotic solutions for parcel sorting operations, today announced a commercial partnership with OSM Worldwide, an innovative global parcel and logistics services company."
+    publishedDateTime: 2023-03-14T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-osm-worldwide-partners-with-ambi-robotics-automate-parcel-/2023/03/14/9776259.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "MLYYeixqHJEUc9laiNmWkrrbRKUUGiIS09+Acm52HE328AwX7BUQ2aGh0YtC2XbJl2LpiYdCNOFJQubd1NEQEkEOCCj863r+F1ZARmw4cr5V76fOL066IFym8+zJ91zoGpnN+fZvkg2dlIK5hPTtMJfusCdb52SRo5wO+pVXlQMKia9xjoAKGn2mXnGfqIiml16RyAALnYOjWIrHfIBHjZy7zFIF2JvAhIPCihwiBFqbPQyUWZpHof/Em/N19kNVRSg+aB7c2obXr3R9nN2iZdWlCscWSrLeslQlOY97iLAyfQCb11H81hZ4NSo9U5dcvT9Bu8V3dFwFXQGf2Ktl4a4CtpQVRm6XOao11gxZRCs=;Wny8fBQL7ZV7L3oU7qmk7g=="
 ---

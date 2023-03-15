@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
+    publishedDateTime: 2023-03-15T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

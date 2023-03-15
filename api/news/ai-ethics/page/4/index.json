@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-15-artificial-intelligence-in-veterinary-medicine-raises-ethical-challenges.md",
+      "title": "Artificial intelligence in veterinary medicine raises ethical challenges",
+      "excerpt": "Use of artificial intelligence (AI) is increasing in the field of veterinary medicine, but veterinary experts caution that the rush to embrace the technology raises some ethical considerations.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
+      "originalUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/veterinarian.jpg",
+          "width": 1920,
+          "height": 1371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
+      "publishedDateTime": "2022-12-14T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
       "title": "Could artificial intelligence help us build a technological world that is more ethical?",
       "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",

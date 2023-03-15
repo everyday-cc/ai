@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-24-how-machine-learning-is-revolutionizing-cx-outsourcing.md",
+      "title": "How machine learning is revolutionizing CX outsourcing",
+      "excerpt": "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "originalUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "publishedDateTime": "2023-02-24T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
       "title": "Machine learning could fix the prioritization problem in B2B tech sales",
       "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
@@ -1313,50 +1356,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-ai-and-ml-are-transforming-industries-sigma-solve-us.md",
-      "title": "AI and ML are Transforming Industries | Sigma Solve US",
-      "excerpt": "All around the globe, businesses are experiencing the best times of their lives following the advent of AI and ML. Artificial Intelligence and Machin",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
-      "originalUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/15/pr_15391_30ff920e_image_story.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T19:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

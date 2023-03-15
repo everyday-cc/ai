@@ -2,6 +2,375 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-01-06-google-and-deepmind-share-work-on-medical-chatbot-med-palm.md",
+      "title": "Google and DeepMind share work on medical chatbot Med-PaLM",
+      "excerpt": "Google and DeepMind have developed an artificial intelligence-powered chatbot tool called Med-PaLM designed to generate “safe and helpful",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/google-and-deepmind-share-work-on-medical-chatbot-med-palm/",
+      "originalUrl": "https://pharmaphorum.com/news/google-and-deepmind-share-work-on-medical-chatbot-med-palm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/wp-content/uploads/2021/12/iStock-1265879509.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform.md",
+      "title": "Yoomi and Rutgers Partner to Improve Physical Therapy Adherence Through Digital Health Platform",
+      "excerpt": "Yoomi, a digital health company focused on improving the standard of care in physical therapy, announced today it is partnering with Rutgers Robert Wood Johnson Medical School to explore how technology can mobilize patients effectively in physical therapy programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/yoomi-and-rutgers-partner-to-improve-physical-therapy-adherence-through-digital-health-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-artificial-intelligence-market-regional-opportunities-and-future-scope-report-2030.md",
+      "title": "Artificial Intelligence Market Regional Opportunities And Future Scope Report 2030",
+      "excerpt": "Artificial Intelligence Industry Overview The global artificial intelligence market size was valued at USD 93.5 billion in 2021 and is projected to expand at a compound annual growth rate (CAGR) of 38.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vingle.net/posts/5170783",
+      "originalUrl": "https://www.vingle.net/posts/5170783",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Erin1980",
+        "domain": "vingle.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amd-unveils-monster-instinct-mi300-hybrid-cpu-gpu-ai-accelerator-and-skynet-smiles.md",
+      "title": "AMD Unveils Monster Instinct MI300 Hybrid CPU-GPU AI Accelerator And Skynet Smiles",
+      "excerpt": "AMD's RDNA 3 GPU architecture found in the Radeon RX 7900 ... CEO Dr. Lisa Su announced the Instinct MI300, the latest in AMD's AI and other compute accelerators with a big focus on sustainability ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "originalUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60568/content/small_amd-lisa-su-with-mi300.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "publishedDateTime": "2023-01-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amazon-alexa-to-allow-voice-initiated-electric-vehicle-charging.md",
+      "title": "Amazon Alexa To Allow Voice-initiated Electric Vehicle Charging",
+      "excerpt": "Now, automakers are quickly bringing this convenience to the cabins of vehicles. Voice recognition has been around for a few decades now and while it still isn't 100 percent proficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "originalUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-lenovo-turns-to-ai-to-optimize-its-2023-gaming-laptops.md",
+      "title": "Lenovo turns to 'AI' to optimize its 2023 gaming laptops",
+      "excerpt": "Four new models at CES 2023 include the Lenovo LA AI chip, which the company says can dynamically adjust frame rates, increase the maximum heat threshold and boost overall performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "originalUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ae363a80-8889-11ed-b406-2572e023c352",
+          "width": 2643,
+          "height": 1487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "publishedDateTime": "2023-01-05T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-artificial-intelligence-is-just-getting-started.md",
+      "title": "Artificial intelligence is just getting started",
+      "excerpt": "I am writing in response to Douglas Rooks’ op-ed piece about the limits of computers and artificial intelligence (“A prescription for the new year,” Dec. 29). While I agree with Rooks more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
+      "originalUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kennebec Journal",
+        "domain": "centralmaine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-lenovo-introduces-the-worlds-first-dedicated-ai-chip-on-a-gaming-laptop.md",
+      "title": "Lenovo Introduces The ‘World’s First’ Dedicated AI Chip On A Gaming Laptop",
+      "excerpt": "Lenovo spent a lot of time at CES 2023 promoting its new LA AI chip, which it said is the world’s first dedicated AI chip on a gaming laptop. The new chip will come installed on the new Lenovo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
+      "originalUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/12/23/gizmodo-8.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amds-newest-mobile-processors-have-an-ai-engine.md",
+      "title": "AMD’s Newest Mobile Processors Have an AI Engine",
+      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/05/bf92f220b490c9783cc135ef688984c2.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "publishedDateTime": "2023-01-05T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
       "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
       "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
@@ -692,412 +1061,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-torn-over-cloud-biz.md",
-      "title": "Microsoft's AI Chatbot Could Bring 21% In Gains For Stockholders, But Analysts Are Torn Over Cloud Biz",
-      "excerpt": "Analysts Gil Luria and William Jellison initiated coverage and are expecting the company’s stock to gain over 21% in the next year, projecting a price target of $270 against a current price of $223. Microsoft’s stock,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/01/05/matthew-manuel-bhlsbx-0rnm-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine.md",
-      "title": "AMD debuts the Ryzen 7040 series, with dedicated on-chip AI engine",
-      "excerpt": "During her CES 2023 keynote, AMD CEO Lisa Su showcases the industry's first mobile x86 processor to feature a dedicated on-chip AI engine",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
-      "originalUrl": "https://www.zdnet.com/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3b1c82696c7575ba46414bbcd69da5d66dd6038b/2023/01/05/b388c904-7964-44b1-9d77-dc6a3b846b22/amd7040.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
-      "publishedDateTime": "2023-01-05T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-worx-introduces-new-landroid-vision-robotic-lawn-mower-industrys-first-robotic-mower-with-neural-network-technology.md",
-      "title": "WORX Introduces New LANDROID Vision Robotic Lawn Mower, Industry's First Robotic Mower with Neural Network Technology",
-      "excerpt": "equipped with the top-level neural network – artificial intelligence that is trained to distinguish between grass and non-grass. Through its on-board HDR camera and VISION AI, Worx's new ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amd-launches-new-ai-powered-pc-chips-at-ces.md",
-      "title": "AMD Launches New AI-Powered PC Chips at CES",
-      "excerpt": "Last year was a tough one for Advanced Micro Devices The microprocessor company was hurt in particular by a sharp falloff in personal computer demand, as a pandemic-era surge in PC purchases faded away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "originalUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-696996/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "publishedDateTime": "2023-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-the-physics-principle-that-inspired-modern-ai-art.md",
-      "title": "The Physics Principle That Inspired Modern AI Art",
-      "excerpt": "Diffusion models generate incredible images by learning to reverse the process that, among other things, causes ink to spread through water.",
-      "sourceUrl": null,
-      "webUrl": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
-      "originalUrl": "https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/Youtube_Article_160.jpg",
-          "width": 320,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quanta Magazine",
-        "domain": "quantamagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-combating-financial-crime-risks-with-machine-learning.md",
-      "title": "Combating financial crime risks with machine learning",
-      "excerpt": "machine learning is gradually finding its way into the current financial crime compliance technology. More than academia and research labs, the practical benefits of machine learning need to reach ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
-      "publishedDateTime": "2023-01-05T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "GEP'S INDUSTRY-LEADING PROCUREMENT & SUPPLY CHAIN SOFTWARE NOW AVAILABLE IN THE MICROSOFT AZURE MARKETPLACE",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to GEP SMART™, to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesCLARK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai.md",
-      "title": "AMD Blitzes CES With Cache-Fueled Zen 4 CPUs, A Ryzen And Radeon 7000 Mobile Arsenal And AI",
-      "excerpt": "There’s one thing for sure and its that this company isn’t taking its foot off the gas in any of its core technologies and market segments anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b6f6814ba88ddd701fbbc9/0x0.jpg?format=jpg&width=1200",
-          "width": 1158,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
-      "publishedDateTime": "2023-01-05T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report.md",
-      "title": "Standigm cited as 'Top 10 Generative AI-based startup based on VC Investment, 2019-2021' in Gartner® report",
-      "excerpt": "Standigm ranked seventh of 10 Generative AI-based startups based on its level of VC funding. Generative AI uses generative adversarial networks (GANs) to generate data. Once trained on labeled data, such as cars and buses,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1878881/Standigm_B_W_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

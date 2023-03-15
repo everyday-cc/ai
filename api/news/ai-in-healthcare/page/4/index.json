@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-are-robots-coming-to-replace-us-4-jobs-artificial-intelligence-cant-outcompete-yet.md",
+      "title": "Are Robots Coming to Replace Us? 4 Jobs Artificial Intelligence Can't Outcompete (Yet!)",
+      "excerpt": "Is artificial intelligence (AI) evolving to make our lives easier? I believe the answer is that it is a bit of both in the long run, but there is no need to panic for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "originalUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-healthcare-crm-market-to-surpass-usd-3154-billion-by-2028-owing-to-key-technological-breakthroughs-brandessence-market-research.md",
       "title": "Healthcare CRM Market to Surpass USD 31.54 billion by 2028 owing to Key Technological Breakthroughs | Brandessence Market Research",
       "excerpt": "The Healthcare CRM Market is anticipated to reach a valuation of USD 31.54 Billion by 2028 from USD 12.53 Billion in 2021, registering a CAGR of 14.1% over the forecast duration of 2022-2028. The healthcare industry is anticipated to experience a surge in the demand for Customer Relationship Management (CRM) solutions due to the growing requirement for structured data and automation within healthcare organizations.",
@@ -1238,50 +1282,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-kettering-students-training-artificial-intelligence-models-for-school-bus-safety.md",
-      "title": "Kettering students training artificial intelligence models for school bus safety",
-      "excerpt": "A group of undergraduate computer science students at Kettering University are developing a system to implement cheap, reliable artificial intelligence models on school buses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
-      "originalUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WEPZ3JLZOVAZDEHDMW42TLGEMQ.jpg",
-          "width": 3080,
-          "height": 2237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
-      "publishedDateTime": "2023-01-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

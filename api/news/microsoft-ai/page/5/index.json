@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-top-10-it-companies-in-the-world-2023.md",
       "title": "Top 10 IT Companies in The World 2023",
       "excerpt": "IT companies provide organizations with a range of services and solutions that can assist them in improving their operational efficiency and services, bringing them up to par with those provided on a",
@@ -1106,58 +1150,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-chatgpt-just-became-the-fastest-growing-app-of-all-time.md",
-      "title": "ChatGPT just became the fastest-growing 'app' of all time",
-      "excerpt": "\"No, OpenAI's GPT-3 language model, which powers ChatGPT, is not an app, it's a machine learning model designed to generate human ... Microsoft has also launched: the Azure OpenAI Service to provide developers access to GPT-3.5; DALL•E 2, the AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea66b908cc583f45fc75034683d42807a63cc563/2023/02/03/105ba195-9733-419a-85be-d90a2aeb898f/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "publishedDateTime": "2023-02-03T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

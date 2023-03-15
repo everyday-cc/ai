@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/23/03/g31363213/industrial-artif
 ampWebUrl: "https://www.benzinga.com/amp/content/31363213"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31363213"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 

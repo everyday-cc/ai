@@ -65,7 +65,12 @@ related:
     provider:
       name: Detroit Free Press
       domain: freep.com
-    quality: 12
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/12/08/PDTF/5fa7dbed-b341-43b4-9b2c-a43ae49ad195-MaryBarra_120822_ES01.jpeg?auto=webp&crop=2399,1350,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jnzTBZ/lRdXXS/6sZV4E6pONIJ5oo6GqJJp8OdUdI5BxsrQcdSWaf8bpWxfBdg8Nb1BTV280Dlcyma6sZO0rmbXV/DBYu7b7GADeA9Vp4CPzVk/wgwGU9ZynplGBuJ2TWrNT+CtV9Rsgy44/8VSboikn29GP15HyOQqX1RvzStQEocJiDtKXoxAVuemkrn6zifrXw5Zyt4+qy7qIUn2+XgY+W1D5elyTKUOxjD0oFrVKF0PMCdCQTJfyx7VTKfpFPGJU8TkseRwg0Tn1gzJbG/lkO9xKTzXVxwn2Wte3/PRMnA/Z5bPygybd8tLQrefY/kAs4ntNyFmeSpKrRt00dJPiDUrAaArL0igtT4f9edTGP4km797MBpynq7B8lQlRKjFvdHayEn2FUhHq0ofyM1nR7eAeIAHLk16Rd8XcRZ7iYBsiPoi/QP4omNxSAVLNT7lvumGzf/KicU9ZJlgOicVBoKuR/Mdgz6SSj1picn6qcj1t0U8lw239t31t/yVoWeynpjckH+wAoGaRtjPDow==;/l3Q8+Tiid0+uLH8o1NIAg=="
 ---

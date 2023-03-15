@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
+    publishedDateTime: 2023-03-15T21:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/15/9777780.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Dlr/yNrmqN5+jSGX2CpVMnen7QDZwqeYPgCaalCb064mwkqKZfkd0G1PsP/vUzHOTS8Ygk0Wg7IIDRN0eWcdNiH+l1m3mk+/G8dylOJpdNPXyEIpE6WzK4vI4lx96ow/l7Ea0wK76wZQFxWQS9JldH+8tMs3MnuEKQN8FvdYdbT86qUJuPQGxgUAbzVu5lQlHHBGgPGpZLhwBucC1zdZ3+4zX2tjy96DmCVt++6RmH+TKhT8/ZaDYiC1kGv4KSYaR6aEccSX+eE46Yh2V+K4C/iIjDy2DRvZ9OqF5GJHpGMZ3TXMf/fRFRrsty9tT6/N6aytM9ShbBU60vOMFdjWxdTm7jiJp1XsnhmZ9JooEnI=;2qKSQW0qoRJntublG0wg1A=="
 ---

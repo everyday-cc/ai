@@ -33,7 +33,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg"
         width: 2560
@@ -49,7 +49,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400

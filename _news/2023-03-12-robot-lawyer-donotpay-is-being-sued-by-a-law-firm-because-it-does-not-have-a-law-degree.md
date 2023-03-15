@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "'Robot lawyer' DoNotPay sued for practicing law without a license"
+    excerpt: "The San Francisco startup that touts itself as \"the world's first robot lawyer ... file class action lawsuits and other legal services, sometime through AI. The company has made headlines for attempting to get an AI chatbot to represent a client in ..."
+    publishedDateTime: 2023-03-15T21:05:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/15/robot-donotpay-sued.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "Fdr4QU4CkeN4Nf9GPPokNae4PtASjkjC7d8GGA0pGPLecRu4We4EhiPkFs+h+z1vjnaQzOYjbpzveGas3iPXnRZW4m1d/+py95uCkUDvuE0v2eQF4H3udPXz6+IMWPIA5xiLypBJw49ryZrCrAYSrwE9XAogAwaKUQXo06gNqlWTV8BguYt1gBYJBOeDzIjGgheJKDDW0zJFuP1JMibeIIMg4SqQTLl7Pct/dAIjhVmkJahwj7vRu3F2k4c/370SphXfQwcidGBnrve+lrl7t14uqf07kEBuGydAodEFKMemRYv+VCGdnm4XZVBBvteA5nAr8d8fSZrq043sVw2GvkQVuB++1XZziFTEDexHk7kpZzuVjAc1ULHCQnpBaiHYYgZRGwfI+r7oHZQWbVF5ObDgQatQJ9sfz2TuovxS0TcTTilSCzZfAnnAUsucIzUh/pJIcJvbjXxgwVztvYnfEj8z+UcDDf24DD1blLEkB1IW36SMegZmEsOeBtdaCtOAN6DEntfFczY4CtUxXzxaCQ==;I9oTAq5TcWnsT0Os55LDmg=="
 ---

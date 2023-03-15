@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:22:00Z
 originalUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
 webUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: al.com

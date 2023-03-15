@@ -469,20 +469,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
-    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
-    publishedDateTime: 2023-03-11T04:35:00Z
-    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Microsoft Plans to Launch ChatGPT Via Azure"
     excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
     publishedDateTime: 2023-03-12T09:34:00Z
@@ -500,6 +486,15 @@ related:
     provider:
       name: The Express Tribune
       domain: tribune.com.pk
+    quality: 34
+  - title: "Microsoft Adds AI Assistant to Its Edge Browser"
+    excerpt: "Bing's AI Copilot can now write emails and blog posts for you. Credit: Josh Norem You can start using the service with those questions out of the way. Its functionality is divided into three clickable links at the top of the sidebar: Chat, Compose ..."
+    publishedDateTime: 2023-03-15T18:50:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-adds-ai-assistant-to-its-edge-browser"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 34
 
 secured: "LrHWmqD3eau+bXPCmwAdW+NdMB3xEqq6MHwvSx2DJ/wMWe0TytxiwLHlKDkmJSd6j/o8zLsygjeiPCnzxnoR27MkFLFLg5a89FKXFVdUJyxEvPvdHJsvXr3jttrDF6kZ51oQyK45Gher/COwSooz37Ae/0sA6o3Kroa7Za63NAthobDB2U06awS6WTJ9McMnc7bazjbRZk4AvIkO+NejoPfhvxIEQD6Q7/I5DhDQ+TYVaqhVJQVrDCe0CLuVYsks6RjBRda7g+T4chqUuzHp9VVVW+xvPgZnp9aCrupVn/BvFz6PH05XaHS4is4kelYEioPhfGJsSK7TmUCwJGOXvOmfDQiO4N/c0wW8DX0/dog9jz11hrFpiHwN++mCZO0T7kNqobpLjnPyytm/lU4ncN6LcYY+ZW6K3H2KcPyvatHhI79BmvHlzYz9iKH8rF6Leddjd7KrNEaDfQxSKZlyuRG/Q6NVM6EWKcAHc0RyXJMuIsvDERWb9ZZtB3g8wiHLaaiCAr36/VTpqMrZWfCS3w==;Ug1PUDIBlCpxDxqaCWjgAQ=="

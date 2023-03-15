@@ -37,6 +37,15 @@ related:
         width: 1563
         height: 781
         isCached: true
+  - title: "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions"
+    excerpt: "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud"
+    publishedDateTime: 2023-03-15T18:32:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
 
 secured: "KPA5BTSIgy+tLuBQeSOedPgsAxhpw669BmCH4c45gLXKF0I7iWSO0WTClu9eMq9/cRLlRUl62dTSMeb31B8uKqI8+JOsGHf6Apo6MMsiilku4jBiONQ/nuG2jlbWkjxD50/ZrvfX6yzNACRMNz6VXQLTJbUlr+um5LrVVK9R1OhdLGhEX3Co9WhGG0rYeyq4d+sBNmttSnOmgScwTK3bRGWbiFqhes1lAc708a1tXPKuaFh1gTjhvW3K/ZoUOw2ZAtfZ9BPJjonWLjCr7nKctP4n+78MGYRNJobQK3vk/xEShc5sID4ucXyDXw8memb1of87xDWsvfa7u4kzqM7paPJY3zXWuM9xa6LPXKD8ptA=;7Q7/O6wcDr0LrgutUxGifA=="
 ---

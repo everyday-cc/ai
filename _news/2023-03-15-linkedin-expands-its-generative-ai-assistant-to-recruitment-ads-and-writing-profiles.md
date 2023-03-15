@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T16:56:00Z
 originalUrl: "https://techcrunch.com/2023/03/15/linkedin-expands-its-generative-ai-assistant-to-recruitment-ads-and-writing-profiles/"
 webUrl: "https://techcrunch.com/2023/03/15/linkedin-expands-its-generative-ai-assistant-to-recruitment-ads-and-writing-profiles/"
 type: article
+quality: 40
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "You can now ‘enhance’ your LinkedIn Profile with AI-written 'suggestions'"
+    excerpt: "LinkedIn is adding AI-powered “writing suggestions” and job descriptions to its service as it looks for new ways to infuse AI into its platform.."
+    publishedDateTime: 2023-03-15T20:15:00Z
+    webUrl: "https://www.engadget.com/you-can-now-enhance-your-linkedin-profile-with-ai-written-suggestions-160054549.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/WIcBxSaBXd3zrPFh6Bp61Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/3bdfe900-c2c1-11ed-bfdd-0f7c6505ef7c.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gSfAoYOVzf8TqifwPdGvNrFSxFiqFf4et7aAv//f5Qfz5BhusL6MJjnoaOK49LMTfl7Sf/6jrdU3lJiw5LsOXq6z/3JAFSiNtJPnzsGz1xWoqS0kuA/a2b3XLC2oVtGCtBNxXnFxQyTKS2eJTC/TR21yoMXcxeTB4bMMLUX1maBzT6aortgjRxaFWR0VzsCYhPIvpgzVteagNXd+3Q4b3Uid73y1zYYxUId8AOCWq0NCswPJzQ2czRGKOzm8kOr7WpQNvMTIzT7VMM4CBRBBV8WM3fZaKT/am5megGOZdAg6IXZJSqgm1r7PlDtNh+/AmK0rC2uGUzfstipixC8hJ6/xQcjttOyLjEgKDFFP2F8qv3kSinIJD19BEZwoI8CNw6iZhi+6i98tS01FxoUESO72vC0df5/C3SdXBqtWl1lFZOI/Tx7KVeZMfryYvEkcAkEC3ezdAx2zQoDcvLcc6BXjP1XHBucRcylza953vWYYtHNnKKfx5JSlUsKEl7XyhajJ9KcU7IPRbgN4CHhORA==;ad/wgh5MJbvRm8xxdvLGRQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T18:38:00Z
 originalUrl: "https://www.reuters.com/article/ai-copyright-guidance/u-s-copyright-office-says-some-ai-assisted-works-may-be-copyrighted-idUSKBN2VH1PG"
 webUrl: "https://www.reuters.com/article/ai-copyright-guidance/u-s-copyright-office-says-some-ai-assisted-works-may-be-copyrighted-idUSKBN2VH1PG"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Reuters

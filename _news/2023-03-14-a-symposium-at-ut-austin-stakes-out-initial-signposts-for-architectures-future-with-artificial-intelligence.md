@@ -5,9 +5,11 @@ excerpt: "After AI University of Texas at Austin Symposium February 3 Exhibit Ja
 publishedDateTime: 2023-03-13T22:46:00Z
 originalUrl: "https://www.archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/"
 webUrl: "https://www.archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/"
+ampWebUrl: "https://www.archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/?amp=1"
+cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/?amp=1"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "jRpBR+/PM9+63+gEWrxGJH+gayum9x98MjFHBJ26f4nUw7dFxP9b8bgOdAsBI+8IYLGAeNvodp6pdyAjtFThAotehNJQ/RQbWe8q6UsnCzSb6DXFeJjaArfJDRLEXjIFB1YWRyzVeKE0SPdzD6UbivylW5XEA8RVSoAwEEVysBfQaC8w/SJY5NwkcUig+HIF2sgUXYrDgtimrxW+u6nLZ2fq9PPr4BCmAaF/sZZ0vdRCpEb5M7l1WhEOZBVhw78q9ZjNl2YUCN+8KLDA7PsNVPxF8pliP8WCVDcXOv0IlLgz62MVoI4yeq9MRj6Mk7V04bYVF/v1SL7JKTh0LmUs4fKLFn2lOepqLjX/WR+7KMY=;H7RYOgOw8afgKVC6Qk4YQw=="
+images:
+  - url: "https://www.archpaper.com/wp-content/uploads/2023/03/Daniel-Koehler_31-Living-with-AI.jpg"
+    width: 2048
+    height: 1360
+    isCached: true
+
+secured: "PL+Po3SFtAxvfwvPcmPRWf8A900VWaYuQponT9Tm54UH1gPdFiNZc3wfcKyv5xRRbwFshPnXebricRNZVyzMtQ1NRqyKpKEjgFktRSCQoB0aXiLqjjH/EJs/fjhz4W/wMh44OYarXpRjZPV/VOQ4PgJMvB2coPIpBlP/YgYC0Ex5+vWehrzlWktu4BVbsNUpa56NfHWhSTgn9XH0O3ieKfT46/QbgAM+CfVadBLj6srjCLJc0YwySKqI9rJtU+R+tBcEVpQSnTOrZZpPp5jK5UylmjF6rc49JSgO0L88GdVSdIIXw8sMV3R7AAVEdte+l39ZO1IE4O2Yx6NZ+hieeE1NeWZVOPLdz0Dklf3a3zY=;sL7bGsTJmSA4uKq2UuXMqQ=="
 ---
 

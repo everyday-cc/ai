@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "The Nightmare of AI-Powered Gmail Has Arrived"
+    excerpt: "Yesterday, it shared more details about AI-assisted Gmail and Google Docs ... Google — and Google’s customers — will start to figure out how people actually use them and which ones catch on. The most likely outcome is that such tools will reveal ..."
+    publishedDateTime: 2023-03-15T21:24:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/the-nightmare-of-ai-powered-gmail-has-arrived.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/737/51c/eee976d5b96796972c33f1a5600dd1ea42-gmail.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
     excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
     publishedDateTime: 2023-03-14T13:37:00Z

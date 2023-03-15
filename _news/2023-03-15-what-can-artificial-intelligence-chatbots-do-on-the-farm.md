@@ -64,6 +64,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
+  - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
+    excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
+    publishedDateTime: 2023-03-15T19:10:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-03-15/pwcs-4-000-legal-staffers-get-ai-assistant-as-law-chatbots-gain-steam"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
     publishedDateTime: 2023-03-14T19:49:00Z

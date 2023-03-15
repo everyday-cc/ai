@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T17:44:00Z
 originalUrl: "https://techcrunch.com/2023/03/15/uk-spring-budget-chancellor-plans-1m-annual-ai-prize-quantum-investments-and-a-new-900m-exascale-computer/"
 webUrl: "https://techcrunch.com/2023/03/15/uk-spring-budget-chancellor-plans-1m-annual-ai-prize-quantum-investments-and-a-new-900m-exascale-computer/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TechCrunch

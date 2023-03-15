@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Joseph-Nelson-CLEAN-thumb-.jpg"

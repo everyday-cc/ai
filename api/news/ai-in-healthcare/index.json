@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,51 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-how-artificial-intelligence-could-change-psychotherapy.md",
+      "title": "How Artificial Intelligence Could Change Psychotherapy",
+      "excerpt": "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp",
+      "publishedDateTime": "2023-03-15T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -324,7 +368,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 489,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -1366,49 +1410,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool.md",
-      "title": "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL",
-      "excerpt": "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

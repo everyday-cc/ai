@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-19-facial-recognition-wielded-in-india-to-enforce-covid-policy.md",
+      "title": "Facial recognition wielded in India to enforce COVID policy",
+      "excerpt": "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
+      "originalUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
+      "publishedDateTime": "2022-12-19T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-genesis-face-connect-could-eliminate-the-need-for-key-fobs-in-the-future.md",
       "title": "Genesis' Face Connect Could Eliminate The Need For Key Fobs In The Future",
       "excerpt": "It can be a hassle, but with Genesis introducing face recognition technology, this problem could soon be a thing of the past. Genesis has rolled out a new EV, the GV 60, with a Face Recognition ...",
@@ -1296,40 +1340,6 @@
       "provider": {
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-a-new-collaboration-to-explore-augmented-reality-computer-vision-in-assisting-crew-in-the-safe-handling-of-provisions.md",
-      "title": "A new collaboration to explore augmented reality & computer vision in assisting crew in the safe handling of provisions",
-      "excerpt": "Safetytech Accelerator has announced a collaboration with CYENS Centre of Excellence and Oceanic Ltd, to explore augmented reality and computer vision in assisting crew in the safe handling and storage of vessel provisions.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/07/9726332.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/07/9726332.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

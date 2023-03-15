@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/15/09/binary_neural_network_artificial_intelligence_machine_learning_thinkstock_636754212_tinted-100747913-large-100921920-large.jpg?auto=webp&quality=85,70"

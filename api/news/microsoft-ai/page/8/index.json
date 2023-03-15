@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-11-fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline.md",
+      "title": "FDA Approves New Alzheimer’s Drug Designed to Slow Cognitive Decline",
+      "excerpt": "On Friday, the Food and Drug Administration approved an Alzheimer’s drug shown in clinical trials to slow cognitive decline ... for Medicare & Medicaid Services currently limits coverage of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
+      "originalUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thesource.com/wp-content/uploads/2023/01/SynapseAnd-NeuronCellsSendingElectricalChemicalSignals3DIllustration.jpg",
+          "width": 1024,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space.md",
       "title": "Geospatial industry investor Keith Masback joins board of directors of Cognitive Space",
       "excerpt": "WASHINGTON — Cognitive Space, a startup based in Houston, Texas, announced Jan. 10 the appointment of Keith Masback as an independent board member. Masback is a former National Geospatial ...",
@@ -1234,50 +1277,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
-      "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
-      "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/bright-outlook-a-brief.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "publishedDateTime": "2023-01-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
