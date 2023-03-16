@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-ar
 ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
 type: article
-quality: 57
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
@@ -43,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gurk0vO5BppHVoA+zgeQA/1GupmpBVqtHTdDi8Yhruzz99Zb02IzLz+qNStEy58hwvFp/u5CrdOzxjVKWHge2ICagJ7GGakR+35y613K8q+4nbhqO2zJVw3TIiriYg/20ODlHRW7DsxhEPborUFrKyzrP6lGrFn2vwC2apBlxhvhP/4rFyL3Dv6edY1fwLOKpfMpsYEI4LArlcrR9nEnoRQe/F5lrBS+aI8QMDd2la/EFQeP+aneOiN2Ld1oD2RgXO8b1AmcL5k+9Zi0qNFSYp8oXLMhFxOfEViM5sDzyvGGg/wyRNRwMVMdwjQfemBMgx9LB5vd+fsk6fSmgv1ZvSu9RXAWJZVCl5mrrMn/r3g=;OM7SlqYqasaKnRq2qkRxMQ=="
+secured: "wADBCFIxSlXx/nJfgfIEKdFTG4UMYtLOfI/J4ozny4/vFZ/UQrfIC58sFNWaGBIcucP6THYYz6tt7TQykIdiB4gbKxBSmChyl68mzHqkcohBEml6lTX6t4gi0Bz2lXD2J9x5VIDvbuIvHmOIHjbZUOJBgCzWOzRsw8H+ZcZuRyoSzpqnOoy5KVJmV+qOwVsm/pcpxg9exaPj/A84dBhtT6W1xW3cbhEvw+BAMuz9y+GSAFqAi8UGjsCRCwUg6NO/Pu9Eq7ld1oJoVHNLTrBbx2vxB0utORRu1zFNLs/VkpyYqYoiM0EjP9PupccjCrtyfWrAQY68F3+zSoM2zaeSiVO6wBFaoz03Sx1EHAv52q0kpuJQCQFaJJr18eucis834auU7kzFwYSjvP8PUAPt8RGzlHc6uJHNePUcxCTUalWl3gr0PP9TdUFbKmrNsFqBdTgR4yEPBRfbW2O1/mgNisIJpXw7wrGCEuQhocPcJ08cWPoqu0WHAmgJwFFXBABQuY9lCLQoacuRFFjnGsUmPg==;JbMe00GBkuc0ubwhyeY2ew=="
 ---
 

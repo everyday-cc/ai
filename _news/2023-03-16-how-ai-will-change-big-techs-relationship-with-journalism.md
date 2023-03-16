@@ -41,7 +41,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 76
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
         width: 1528

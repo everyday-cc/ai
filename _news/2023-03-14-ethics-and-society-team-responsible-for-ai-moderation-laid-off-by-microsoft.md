@@ -74,6 +74,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
+    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
+    publishedDateTime: 2023-03-16T00:25:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 71
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Layoffs: Ethics and Society Team Fired"
     excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
     publishedDateTime: 2023-03-14T09:17:00Z

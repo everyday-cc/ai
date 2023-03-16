@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Long-Term Cannabis Use, Cognitive Decline, and the Hippocampus"
-    excerpt: "[3] Multiple studies have shown that decreased hippocampal volume is associated with cognitive decrements. Cognitive impact on long-term cannabis users at age 45 With this introduction, I want to ..."
-    publishedDateTime: 2023-03-11T09:38:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus?amp"
+  - title: "Role of Psychology in Cognitive Aging and Dementia Prevention"
+    excerpt: "Although age is the most powerful risk factor for cognitive decline, dementia is not a natural or unavoidable result of aging Behavioral dementia prevention strategies, as well as new therapeutic ..."
+    publishedDateTime: 2023-03-12T21:56:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
+      name: Medindia
+      domain: medindia.net
     quality: 44
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/gras-grun-NhWxziQyIyo-unsplash.jpg?itok=9om9-JbM"
-        width: 1528
-        height: 800
+      - url: "https://www.medindia.net/images/common/news/950_400/psychology-can-help-with-cognitive-aging.jpg"
+        width: 735
+        height: 400
         isCached: true
 
 secured: "txZ+2kKhtjOySYaYLKoBuSFFsZdz2pQXuuQ1plrXK1MCFcB00DUlGc/1bzqbRYBBEBWOmkOI2m7UT6pVB/31o/htyA+d7N5kHm3kIwWJYwd2P7L0GYku0vJkWnhOp9pU0Zgum9N611RHF0+s/8O8VBm84DoYnpF5uO0yZdvppZSETEf0k8IUsL4eSJUmYXUv3Zut1eg8xJ4wRn3N0dFCwUwtTMu9TgBNtvXDwS7gaLngwO4aafuKlvWwzIXCCXDSi3rR2VrV/gLgzDIu76QvQk8+mBv9vCnmAM4aCOd8h/tcH0djihOcIB5GQJAj7FW5IpNOpT1UBZ+6QRz0ZzOo5+snSqPL4IHz0rh7ArYyHIY=;yPkqsYdAaiutcAIAOP3L+Q=="

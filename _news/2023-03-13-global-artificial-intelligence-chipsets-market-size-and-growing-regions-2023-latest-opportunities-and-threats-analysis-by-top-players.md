@@ -29,78 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
+  - title: "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry"
+    excerpt: "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,"
+    publishedDateTime: 2023-03-13T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
-    excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-highlights-on-artificial-intelligence-ai-consulting-market-size-2023-2028-newly-updated-report-contains-109-pages-2023-03-13"
+  - title: "Data and AI Ethics Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Data and AI Ethics Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the latest ..."
+    publishedDateTime: 2023-03-15T13:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-revenue-trends-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 66
+  - title: "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)"
+    excerpt: "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer"
+    publishedDateTime: 2023-03-13T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
-    excerpt: "Artificial Intelligence in Precision Farming Market 2023 with 109 Pages Report and enhance with extents shares"
-    publishedDateTime: 2023-03-13T03:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-12"
+  - title: "A Comprehensive Look at the Deep Learning Processor Chip Market [2028] | Our Research Report Covers Top Countries Data"
+    excerpt: "Our Most Recent Research Report Indicates that Deep Learning Processor Chip Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [106 Pages Report] Our Deep Learning Processor Chip Market research report provides an in-depth ..."
+    publishedDateTime: 2023-03-15T11:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-comprehensive-look-at-the-deep-learning-processor-chip-market-2028-our-research-report-covers-top-countries-data-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Artificial Intelligence (AI) Market Size Zooming to Reach Whopping USD 58.3 Billion With the CAGR of 52.46% by 2029 | BlueWeave Consulting"
-    excerpt: "New Delhi, March 15, 2023 (GLOBE NEWSWIRE) -- Global industrial artificial intelligence (AI) market is gaining traction because of the extensive use of robotics in manufacturing, use of computer vision technology in manufacturing, and significant increase ..."
-    publishedDateTime: 2023-03-15T15:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31363213/industrial-artificial-intelligence-ai-market-size-zooming-to-reach-whopping-usd-58-3-billion-with-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31363213"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31363213"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "2044 Data Science and Machine-Learning Platforms Market: Thorough breakdown for industry leaders Prognosis by 2027"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- A thorough study of the \"Data Science and Machine-Learning Platforms Market\" Growth for 2023 is given in the research report. There are opportunities for local expansion, business planning, product offerings, and end-user ..."
-    publishedDateTime: 2023-03-15T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2044-data-science-and-machine-learning-platforms-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-15"
+  - title: "Global Computer Vision System Market [2023-2026] | Growing Industry | Latest Report with Top Countries Data"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-13T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2026-growing-industry-latest-report-with-top-countries-data-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer Vision in Artificial Intelligence (AI) Market [2023-2026] | Gain a Competitive Edge with Our Professional Analyzed Research Report"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-13T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-artificial-intelligence-ai-market-2023-2026-gain-a-competitive-edge-with-our-professional-analyzed-research-report-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+  - title: "Self-driving Cars Market 2023 | Global Industry Report Forecast 2029"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."
+    publishedDateTime: 2023-03-13T19:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-global-industry-report-forecast-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "mVmDL9QrFxwmHw01QLpjCMnWA5XL8WbhNuV1QL1mLusgL+H41ExJJE3QYLoRT0ol27c72o2WIbgSClx/fxQyt5SY7FY5MtJigyBO0Pc3493hRJfw6DjLN4VTv+eZk3iIN2ewb6ZtrAEqohtqWAup0VUPNKTgJe8nKqpwHQKmznSvXEqNXAEUY6iL3j4jvQ+O2in9NFEOgEzPg6QuCee8n2oiia1oEDb//wguyET8qQoM1nIdwwLASUpwxikQOAdX9DFGwllLv19cshbrRhwl1EYFe3zfe3JjYLnQLdCBXzQfROXJcCqaM8R01AisLMRitVtx0HBrAwIe218/3P227LkXuzrKXTFDlba4nqjHOb8=;8+ZFVC5waafjyTNEPU9Grw=="
 ---

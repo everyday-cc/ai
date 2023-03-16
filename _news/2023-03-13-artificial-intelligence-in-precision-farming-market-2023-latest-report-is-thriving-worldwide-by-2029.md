@@ -29,10 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
+  - title: "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029"
+    excerpt: "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,"
+    publishedDateTime: 2023-03-13T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
+    publishedDateTime: 2023-03-15T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch
@@ -43,64 +57,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
-    excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-highlights-on-artificial-intelligence-ai-consulting-market-size-2023-2028-newly-updated-report-contains-109-pages-2023-03-13"
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
+    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
+    publishedDateTime: 2023-03-12T17:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global \"Artificial Intelligence (Chipsets) Market\" Size and Growing Regions 2023 | Latest Opportunities and Threats Analysis by Top Players"
-    excerpt: "Global “Artificial Intelligence (Chipsets) Market” [Latest Research Report 98 Pages] 2023 is a vital resource for"
-    publishedDateTime: 2023-03-13T11:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-size-and-growing-regions-2023-latest-opportunities-and-threats-analysis-by-top-players-2023-03-13"
+  - title: "Machine Learning in Communication Market is Booming in Near Future 2023-2029"
+    excerpt: "The \"Machine Learning in Communication Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-14T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-is-booming-in-near-future-2023-2029-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Industrial Artificial Intelligence (AI) Market Size Zooming to Reach Whopping USD 58.3 Billion With the CAGR of 52.46% by 2029 | BlueWeave Consulting"
-    excerpt: "New Delhi, March 15, 2023 (GLOBE NEWSWIRE) -- Global industrial artificial intelligence (AI) market is gaining traction because of the extensive use of robotics in manufacturing, use of computer vision technology in manufacturing, and significant increase ..."
-    publishedDateTime: 2023-03-15T15:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31363213/industrial-artificial-intelligence-ai-market-size-zooming-to-reach-whopping-usd-58-3-billion-with-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31363213"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31363213"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "2044 Data Science and Machine-Learning Platforms Market: Thorough breakdown for industry leaders Prognosis by 2027"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- A thorough study of the \"Data Science and Machine-Learning Platforms Market\" Growth for 2023 is given in the research report. There are opportunities for local expansion, business planning, product offerings, and end-user ..."
-    publishedDateTime: 2023-03-15T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2044-data-science-and-machine-learning-platforms-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-15"
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market [2023-2026] | Transform Business with Our Proven Visionary Data"
+    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-13T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2026-transform-business-with-our-proven-visionary-data-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Natural Language Processing For Healthcare And Life Sciences Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all ..."
+    publishedDateTime: 2023-03-15T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
 
 secured: "TSzlzMp81voAr7ISQ+o8xK7ZxlTVa+swMr5Z6qI+7qXVJLiub73rgJU+q/BSO4IFfLxzc+nhoAQa/fXT5h95pY6RzLziNU+ZigD5DYLU3veO5PQcZjBr7SJBgie5BLkBe/gEl1OoacLtedsfNPwPgix+Nv45IicQncwGGdS/9MNyTmb57NXNstRTUwY0alSXDKiBFdrIxrNJk54SK6xPeQmZGP71xHyhadkyDtdkRKztDY4DtgSUYD5j5jfQL1S8L/bNwQdm9TgewdB2FLxNn0WV2GanJGGm7Ly6b7KCYrOQrE2zgQkmu+mIz2tpOij96B9+psqTYPZ1tSVpjEsHy9hY4C1hSY2rCyrfDEDnjuU=;aLSHwjczmAV35a4RGWYhjw=="
 ---

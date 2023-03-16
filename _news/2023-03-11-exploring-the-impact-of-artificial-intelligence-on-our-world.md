@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "12 Uses For The New AI Program That Fans Claim Will Change The World Forever"
+    excerpt: "Amid dozens of controversies about AI technology stealing art and denying the Holocaust, it can be difficult to think of its genuinely cool capabilities—especially when Midjourney is constantly failing to even generate the right number of fingers on a human hand."
+    publishedDateTime: 2023-03-15T19:29:00Z
+    webUrl: "https://kotaku.com/chatgpt-4-ai-text-generator-make-games-1850229286"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 34
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/85dc6cf3a11f1557c2a3590c5a5c207a.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tbolmDArONZQM8A/L2xpg/2E+8h/K0XLJFbpa5Hx8THMZIEO2hFdtKwp/vsZvw4JN535WvagWwOSF6GAafcqmo5QbLUBZhEbV88+dm1FavJpLxYnf1ihv0Pu5CImTaWWclCfUN8vhHoxvF0BdszaIxG6FNlhcmJZ6ak3uAI6J5+GMyG8AYWXUhTxxUQi5Wy75lM5IogHAwk/mpwtcNzeKIvLUhqs8rxTYGM34++57CKXwMZzd3M7ywylO+mkDOV7rvHagxj9IyWD9pEiI2mTB6uc31XQMNN6O8F9DX1bco/VeGLQdORuiflQsiSGQxe7LnjNvoinB6qIoZ2t06DnzhZhH5pE0n03wTiAh2W+y70=;H3KJuA5Sq4h57KAko8jf6g=="
 ---

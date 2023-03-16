@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entir
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
+    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
+    publishedDateTime: 2023-03-16T00:25:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 71
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Ethics and society’ team responsible for AI moderation laid off by Microsoft"
     excerpt: "Tech giant Microsoft has laid off an entire team of ‘ethics and society’ responsible for Artificial Intelligence (AI) moderation"

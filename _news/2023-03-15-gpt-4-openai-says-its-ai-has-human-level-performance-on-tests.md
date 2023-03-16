@@ -327,6 +327,20 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "OpenAI unveils GPT-4, its most advanced AI language model"
+    excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
+    publishedDateTime: 2023-03-15T18:02:00Z
+    webUrl: "https://scrippsnews.com/stories/openai-unveils-ai-language-model-gpt-4/"
+    type: article
+    provider:
+      name: scrippsnews
+      domain: scrippsnews.com
+    quality: 39
+    images:
+      - url: "https://cdn.scrippsnews.com/images/videos/m/1678890405_Lx4TRf.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
     excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
     publishedDateTime: 2023-03-15T00:21:00Z
