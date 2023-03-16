@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Could COVID-19 Cause Face Blindness?"
+    excerpt: "Her test scores in face detection, face identity perception, and object recognition were normal, indicating respectively that Annie's problems with faces are due to face memory deficits and are not a more generalized impairment. Annie had flawless test ..."
+    publishedDateTime: 2023-03-16T11:26:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/could-covid-19-cause-face-blindness-210929-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/could-covid-19-cause-face-blindness-210929-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/could-covid-19-cause-face-blindness-210929-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 44
+    images:
+      - url: "https://www.medindia.net/images/common/news/950_400/could-you-lose-your-ability-to-recognize.jpg"
+        width: 735
+        height: 400
+        isCached: true
   - title: "‘Face blindness’ linked to COVID-19: ‘My dad’s voice came out of a stranger’"
     excerpt: "Duchaine and other researchers published Annie’s case study in the journal Cortex. “Our study highlights the sorts of perceptual problems with face recognition and navigation that can be caused by COVID-19,” said Duchaine. “It’s something that ..."
     publishedDateTime: 2023-03-14T19:53:00Z

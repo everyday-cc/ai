@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-
 webUrl: "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: USA Today
@@ -23,6 +23,19 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Advantech participates in GPU Technology Conference 2023 (GTC 2023); demonstrates AI technology in Robotics, Smart City"
+    excerpt: "Advantech, a globally renowned industrial edge AI solution provider and integrator of NVIDIA solutions, is happy to announce its decision to speak at NVIDIA’s GPU Technology Conference 2023 (GTC 2023). Leveraging extensive experience developing AI edge ..."
+    publishedDateTime: 2023-03-16T11:07:00Z
+    webUrl: "https://www.sourcesecurity.com/tags/mobile-access/news/advantech-gpu-technology-conference-2023-ai-technology-robotics-smart-city-co-11559-ga-co-14411-ga-co-1678962623-ga-co-1678962865-ga.1678878704.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/advantech-gpu-technology-conference-2023-ai-technology-robotics-smart-city-co-11559-ga-co-14411-ga-co-1678962623-ga-co-1678962865-ga.1678878704.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/advantech-gpu-technology-conference-2023-ai-technology-robotics-smart-city-co-11559-ga-co-14411-ga-co-1678962623-ga-co-1678962865-ga.1678878704.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 62
 
 secured: "h8e0SVLmB6Zh3XxXI327XHKdal/VnpLAEI2txZzht944ZidI+ChCfJrCkgWGVpDl6FNrtEClDX3wJbUWHxOVnTQTXrln3Wom15CRS5vE3ogezJ+YGNp9KRom7Ekxsnwxl6eCZhGAoZznOj1PvXEz8jdXWodY+GGhUElUPEvUk+FyqExOnEQpQgpKDpaGAMSgC5gy/oJVMBCppvH3UZ+wSD00+Hk5B4FITw9kgrsZxLsfijb+N/9mZM6e8OyPBHC1GkeHYVtVMhDfUGrKlNrxverlqZWbp5CBxM09rxqRzbqr2Hh2oLuCmKEp4eK8fgv/ReitSy3Sd2SNasPAUrOY83Bh6f+fXLrSgz96Y9wg0O8=;/7rGd9W7EA0qBJMTts/Wfg=="
 ---

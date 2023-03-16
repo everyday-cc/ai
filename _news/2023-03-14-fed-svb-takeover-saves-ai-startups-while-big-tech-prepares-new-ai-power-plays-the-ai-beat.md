@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-whil
 webUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "While SVB takeover saves AI startups, Big Tech continues AI power consolidation | The AI Beat"
+    excerpt: "He also pointed out that he was seeing “the best of the AI and startup world,” with “people helping each other, sharing tips and even wiring funds on trust and without docs so someone else ..."
+    publishedDateTime: 2023-03-13T20:17:00Z
+    webUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-24.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "aVRnEBdP5aUblK3u1ABHQIwly0CuiDYrKfDE/qgyZmmJnS5MB/l+iCJR90Gvb+BppNL6Q53CIsKVW6o3zxW5xAZRWduY85J290GE/VbLg52Ko3oSSthdg0+LjKCOxDcHT5m3CbUxwbQFdNLZrKrBiujrq34zp15BaIX2xGljw3gSAeww+rZw/1w6XWvRJCTlHYHCD96O0HP6cgmiY2rj9+a8XXiXes07u3CRdzYFgrBIYGpIUhqkyi1EjE0FFZSTZNFwf4GtmXThHd+RpYvBREYvJUD+2EGYireeJ4npwL5Zje7JgnZ5tFlyc/QcnDhuXzbqu2XQBd5FqtULKBJRBYFuKnYTjNOXBHqLAgG7n9e62QGICiSGS0ezg5iSAsXl3dTsCofhYpBOCtZGRw5WqwaSCFfN6oGYS/1TUJhRjOmaFce588JCQojlHQt7FLDpuK9tSTSCXfHdTr9pLYLfEQXGsMWRcB9XJ/+VbLr8JzXHXS7XJxh6rSDevkckTg2VHYQadV0wtWMi2FuXQyzyHA==;hEHrB6C/pca8xZlI6AOCEg=="
 ---

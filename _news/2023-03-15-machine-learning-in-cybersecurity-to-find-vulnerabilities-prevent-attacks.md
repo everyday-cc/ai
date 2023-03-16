@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "David McKeown of DOD Gains 2023 Wash100 Recognition for Leading Department Cybersecurity Push"
+    excerpt: "Executive Mosaic congratulates David McKeown on his first selection to the Wash100. Hear more insights from McKeown during his keynote speech at ExecutiveBiz’s Cloud Security Forum on March 22. Register here. David McKeown, senior information security ..."
+    publishedDateTime: 2023-03-16T09:56:00Z
+    webUrl: "https://www.govconwire.com/2023/03/david-mckeown-of-dod-inducted-into-2023-wash100/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-103.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "QpdIXeefb8DJjk7qQ3xhIa9YVabSx888dvKYfTad0TZ4aB56j2mZ8UFZNk03l4QHByzEDhzsib3/Sf19xB92JQ8/khMyGx9tBeO2y9VmzRq7fBa4uI/DhB2lWbTtNGDyx6OrDRkIIR3WUJcZdzpbEZqPuZn+cMgTFerFJdy0KWNow1HQVQV78HRwaH+dcrH+KIFKI8q929l+oIFy9EDTHX+IDiysidqceFzniB7DJjlw8uU6sdBdTDDn4DkEIHvujm6LeVrbRwBoL3qmPyZ5pQWQBk+2+IdJziVX8DM1KbG8o0cnDvP0lsGrKAafrcuoTGymKBTZCkDmhk/fT2KvdGjj+bUk34Go50LcT/2omyy2KtHprksSBJMSGQYuON8/YGvlqH2sunSbBnJD9Jqgrwo7jsK1dGhlNog3Wcy+tZUWiQ+vkyaFNxDur6AEHylYNbGPqskU9ZBxPndmUir/ny/dS+VQ4ByqEphWVv/s0mjnvbr7MrAUXTUpoYwjGdBs+8vnrRMvPfJnJP37BmLEIA==;r/EUbWfkZZiTzvc8EKZIYg=="
 ---

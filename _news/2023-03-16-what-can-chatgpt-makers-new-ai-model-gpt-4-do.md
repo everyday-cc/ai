@@ -1,29 +1,23 @@
 ---
 category: news
 title: "What can ChatGPT maker’s new AI model GPT-4 do?"
-excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
-publishedDateTime: 2023-03-15T23:14:00Z
-originalUrl: "https://www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
-webUrl: "https://www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
-ampWebUrl: "https://www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/amp/"
-cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/amp/"
+excerpt: "The company behind the ChatGPT chatbot has rolled out its latest artificial intelligence model, called GPT-4, in the next step for a technology that’s caught the world’s attention."
+publishedDateTime: 2023-03-16T10:21:00Z
+originalUrl: "https://www.thenewstribune.com/news/business/article273173795.html"
+webUrl: "https://www.thenewstribune.com/news/business/article273173795.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/business/article273173795.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article273173795.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Honolulu Star-Advertiser
-  domain: staradvertiser.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.staradvertiser.com/wp-content/uploads/2023/03/web1_13585874-dce2c362e6584bc6b1736ddc293bfbc7.jpg"
-    width: 760
-    height: 507
-    isCached: true
 
 related:
   - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
@@ -214,6 +208,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
+    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
+    publishedDateTime: 2023-03-16T10:49:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 55
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
     excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
     publishedDateTime: 2023-03-15T18:28:00Z
@@ -380,6 +388,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "8YzyGpKxmChhUkcxFHXTQpt3eoyFLoa6p/nxp2HCoDHrJ8hEf3z5fls98OBzudmw+4SuISjxjUW6x2KNAavWtTFfscfJuD1+BP8taS/mxR8prhAdFiTAjbuNQCJmW9pjqfb7pE3JYc1j15I8QiUL6jVd0G+//dHE03O+DyAv2kEzjMfxfwYQRE2GG3klrynRnzd/K2zFtNv7udszSyndOEIiR/HrmkCIL+X8XhDBNL69VElaKzGuI6rvWNFUH1sZOZXTonp5OM4WBJZNljcwsomGii0UxlKNohNmkf4wHC/GTopHHps0uTghjWPL4APVZVgK8kFHG+r4IUXNr7L+pHsKYUsLgScWiJwA+eJhir4=;EQsQ2kpy2my8370GZaJiwQ=="
+secured: "lNY1wNqzWzxGoB+1d5co6Ce23jhyZeHa4pnR4XCEe3K5IQdfZzorxskAEP0UsF9y5wyaVq0OhUWFnGYkgcPZI6Zx/zIgFbSMbwNc5/58wD7CwWFVcpHJ8iwj4raTY4RjlpGiSU8Npt2xxNP2kXxFSQbj203U22VvY2u+NyL5jNQYjtOUpF7WMgOWrW4qwmq203BHp5AsE+P8yXfcAFOnfrYEZCEwd2blL4Y4WydPpP44PLXf+p58lwm0LuX06FpVwn+OEEu4ew5C+0Vz2GN13yzZw7tufsuvN4joKS7Otl29k4F2oSu48NbcdCVxeTS0JomtqRPzD4p0h4U3qpD9Zs96spl6hfxORQ3JK77llHw=;WC2bkja0tORTtE18DFDyog=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-16T05:34:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-ml-platforms-market-size-report-analysis-2023-2029-2023-03-16"
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-ml-platforms-market-size-report-analysis-2023-2029-2023-03-16"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

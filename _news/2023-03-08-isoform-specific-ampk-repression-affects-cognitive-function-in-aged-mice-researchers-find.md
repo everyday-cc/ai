@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/aging--isoform-specifi.jpg"

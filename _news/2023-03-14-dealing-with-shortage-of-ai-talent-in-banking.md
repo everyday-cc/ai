@@ -46,7 +46,7 @@ related:
     provider:
       name: Speaking Tree
       domain: speakingtree.in
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
         width: 959

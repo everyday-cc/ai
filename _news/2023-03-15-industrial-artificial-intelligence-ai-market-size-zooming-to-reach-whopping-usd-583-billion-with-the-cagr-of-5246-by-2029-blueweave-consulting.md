@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/03/g31363213/industrial-artif
 ampWebUrl: "https://www.benzinga.com/amp/content/31363213"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31363213"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

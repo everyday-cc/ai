@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/Screenshot__37_.63ecfb59cb111.png?auto=format,compress&fit=crop&h=278&w=500&q=45"
         width: 500
         height: 278
+        isCached: true
+  - title: "David McKeown of DOD Gains 2023 Wash100 Recognition for Leading Department Cybersecurity Push"
+    excerpt: "Executive Mosaic congratulates David McKeown on his first selection to the Wash100. Hear more insights from McKeown during his keynote speech at ExecutiveBiz’s Cloud Security Forum on March 22. Register here. David McKeown, senior information security ..."
+    publishedDateTime: 2023-03-16T09:56:00Z
+    webUrl: "https://www.govconwire.com/2023/03/david-mckeown-of-dod-inducted-into-2023-wash100/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 28
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-103.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "17JnwSubtUrD4yMp/tVisKzUXjv5UmwjVf9Ox8nMUkAS4fnIcZFXaHHgd3CSUnkhIdQfDfRAoHdVAxvkvRAsMnJD+bflS34w/ZzMGbvqGUvsPEB1VWo5IYNluG9yjjIC2kVBhHf+WzOrszKQZIiqdH9VfEvgKKRYQqO/gP7qhcaMtszGCYuG/Q7+xS6fnm8eWTwTNDXn8Ury9m0+aCyz6dY4MbnPgokVdMbyHHAX+WAj1r+kg8ZV8a/+Lhi+Fl2Ih9gH+pRvR7/VvMNhPHMTudq0vdx8igXZIm3Irj5WIorsvoC/H6vbvS3iUFD3CkbobvTAIhehJvQ9TZUds8G8uHkY9Q8xBCrFTKcxOIDk75copl1iEYljgqPtlqvZulc0RcFcOXdPIOroeX7ne2zUFQdKQYMN4YFGH7LWtjiSv9g8kLgbzbWRiMvNNz4r7En1ftpJypdAT9J4u7fL/6ZPpbECISQQceBz2F1QYNo+jRa0V7fYVQJhhosx4j7ZyCYIVCBIQ2Vw4fb1KmdIzYeMhg==;egKvT70y472HFVj3PWQAmg=="

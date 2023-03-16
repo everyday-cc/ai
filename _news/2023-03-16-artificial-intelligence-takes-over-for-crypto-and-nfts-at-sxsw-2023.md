@@ -2,17 +2,17 @@
 category: news
 title: "Artificial Intelligence takes over for crypto and NFTs at SXSW 2023"
 excerpt: "But even before then, it appeared that SXSW 2023 would turn away from the crypto space in a big way, as the cash flowed elsewhere in the tech realm. As always, follow the money. It should surprise exactly no one,"
-publishedDateTime: 2023-03-15T22:55:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
-webUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+publishedDateTime: 2023-03-15T20:57:00Z
+originalUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+webUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -34,6 +34,6 @@ related:
       domain: nasdaq.com
     quality: 47
 
-secured: "dHF0OaarV4dLOe8eMda1aB0QN7nMpZMOS2vqhVKLOOJG3e5noBUxiSwZfwGvygsgNzU+xsBtONQklsGibUG8qY60pP0UfHG6II7EUMA/T3cqCAnRMABJjyhrG9eS2ZTcnKE2r9EKz1DBwus7vr5bOhdrcWdhUzxNr6mau4H2S1O5Db2Pdyc4NPTc13hvNPqWHf+nA81NoUQr/WoWZ497Q6n3w8IMCkksY1BFqTNCP74GBPP7RyIATVbdj17JAoZVtRHkeAvz+EFnwe6y2Zt6oVtBN28F56fVgUFmVus2/O67UfKaxsDqeJdzPSPCGFyQ4+8gCpTthPcfUxE00xRKr+NMvtaXCtBU/hQB2RkMlZHVuRyjRLgtnXEsGuQCgfyNNPU57aJ1bhxujixijt5+QILS+9xMpKp7JD2bBPD/3cR9dk2w+FhD7gMnEDcNW/EqdmKEuLuILlf80cntp6z8Bu44ks1lxZpzBSfSvyrJ9i61P6nNqaOXVDazizt6CTMWmPk+vs7mA6ehBW0CTR+Msw==;qG5aJ6+9FITDIEdG8LDtNQ=="
+secured: "VBQOdRcEudZWZQG+gD7u/xKEDu/8lO6VJZGSV3VCChI4PzUsFCjkZafzxBFZSstR0m9+NTwE5O98H78XxjvsP7/268bX0rcE7s9rr5pfKhGYHEy63cHToZlDzb5iZtK6DLIsQdMS+i2m8GGNUqSA4twBnHVkQ2htAN5FX/WVg1OJNJpML+BprQtBNcOQEbjbeAgKsFn5nJCCXptirFC5Rej+mwAT/7vBFJT9uirMbBM2usfkVvhRI8Fwt1A3LOULNmFzdu1yUb5vdDwu1lJ10aQnXTndE76MbtyFK3FT8SD8rvishm6trZa4Z6BnL/SbRQggyts2vNaDSe+gueAhHQFdez36CO0XIht32GUgvLQ=;kkoB8UC15IVt0W4qD06tCQ=="
 ---
 
