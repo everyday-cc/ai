@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 125
 published: true
 
 provider:

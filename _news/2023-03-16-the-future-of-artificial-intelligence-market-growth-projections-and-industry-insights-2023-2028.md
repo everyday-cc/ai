@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning (ML) Platforms Market Size Report Analysis, 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [116 Insights] Top “Machine Learning (ML) Platforms Market” Size 2023 Key players Profiled in the Report are [, H2O.ai, Hewlett Packard ..."
+    publishedDateTime: 2023-03-16T05:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-ml-platforms-market-size-report-analysis-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029"
     excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ..."
     publishedDateTime: 2023-03-15T20:49:00Z

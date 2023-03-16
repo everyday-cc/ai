@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/exploring-the-natural-la
 webUrl: "https://www.marketwatch.com/press-release/exploring-the-natural-language-processing-nlp-software-market-2023-2028-a-comprehensive-analysis-of-emerging-trends-and-untapped-opportunities-2023-03-13"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,48 @@ images:
     isCached: true
 
 related:
+  - title: "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ..."
+    publishedDateTime: 2023-03-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market (New Report) to Observe An Articulate Development During 2023-2029"
+    excerpt: "Cloud Natural Language Processing Market Size 2023-2029 | New Report (126 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-13T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
     excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
     publishedDateTime: 2023-03-15T16:54:00Z

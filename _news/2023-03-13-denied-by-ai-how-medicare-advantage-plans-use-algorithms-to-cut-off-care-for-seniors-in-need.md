@@ -47,7 +47,7 @@ related:
     provider:
       name: McKnight's Long-Term Care News
       domain: mcknights.com
-    quality: 19
+    quality: 21
 
 secured: "DhqG/sYUzgFOz/JZ/qoGcyGEcDBJEkbsobubHE8B4hEfElJxZLaA/yAtWC+qBwv26BznzXHuQMpYBcq3XA16y8GSIGtHCOAFTy/13fWVqthtPgWilW7aZyqQUtMkxlR0PQZI7YMkaKqrKf/x9yTVVjHlBtQSKK0uwOT0kXBf+8F5yVSzFnNX0OojAs8tX9UPilqIlsHc6BOtF9KqJPq3sz7yUfvcIBk02YWcAVArUu1fD+jBqzuMSrrfXuzoXpluFwHQ3Pe4HBlrPPxcFMeserLoJyRBLvG0h3Vqbo2l/WZOfYdD1P4nNUhT1AeaSqcejs8MLvA3teqZjtv8jGVjiASMvCNijWDj6bWZIhNe+2zY+VtWYlkS5AG+jufAYINEcdbNiALy9LMJdbHkFnhpUZjA9Tl3KOZ8KPVYjgKzPelyPY65zQzGoG434bjFPHYC++QNKfkAx89548aFsVvJlWQvt9eXzFS8GmxfUNic8h/DGL7b2e4Z9BUreV/GpfdwWm314hPeHSb0FlrIemy9FQ==;ujfzfqEVeGDkE7GHmRMLGg=="
 ---

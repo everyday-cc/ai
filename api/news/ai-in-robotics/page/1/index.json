@@ -1261,6 +1261,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-05-remote-control-man-in-philippines-uses-robot-to-buy-bubble-tea-in-singapore.md",
+      "title": "Remote control: Man in Philippines uses robot to buy bubble tea in Singapore",
+      "excerpt": "He was using a robot to do just that in Singapore, which is thousands of kilometres away. On Friday (March 3), TikTok user FrodoBots posted a minute-long clip, showing how he remotely controlled a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/singapore/remote-control-man-philippines-uses-robot-buy-bubble-tea-singapore",
+      "originalUrl": "https://www.asiaone.com/singapore/remote-control-man-philippines-uses-robot-buy-bubble-tea-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/05032023_robot%20buys%20bubble%20tea_%20tiktok_frodobots.jpg?h=890bec70&itok=APprMF1Z",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T19:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
       "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
       "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
@@ -1363,50 +1406,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
-      "title": "Can religion save us from Artificial Intelligence?",
-      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/03/230314155033.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/03/230314155033.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "How artificial intelligence can improve protein detection"
+    excerpt: "with artificial intelligence. Biological molecules such as proteins are central constituents of all living systems and dictate all physiological reactions in health and disease conditions."
+    publishedDateTime: 2023-03-13T13:03:00Z
+    webUrl: "https://phys.org/news/2023-03-artificial-intelligence-protein.html"
+    ampWebUrl: "https://phys.org/news/2023-03-artificial-intelligence-protein.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-artificial-intelligence-protein.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/how-artificial-intelli.jpg"
+        width: 1700
+        height: 2100
+        isCached: true
 
 secured: "lxnVgSVo9QDuU3XdBBrFuYZCP59S3BxxTTmyisEkO9HLSXZmEYIuxSDLwoJfdodW5DfkPSeLyVp1E/CX8gaJ5zqdylMYi/yKP9IcXM3XBN7/LHwYh2r11VjtSVo/07GtQi4Cz1VGbg4kaeu+tI3GN8GCzdvB2hb6UY4P3Et+VXpjtt0wvMagL7Bkvc9KMjxkE8GCFfeN29ag5qHBSC1zRSyuOqL8L1ANQ2HUFZNbz9lq/wnjO/rNO6LyhtiM0ibtssMxuzsJpHA9iYt4XzuJp8SfDZM+zlvGPnokwgOroEOB0C3jeJYZl2HN0OhOcB/oUS1YOxxhvMMGqMhJa4NznE/eEk4vzSKA19jGxSpTRNI=;k8Wwoodj7bZBhjkbHM1fdQ=="
 ---

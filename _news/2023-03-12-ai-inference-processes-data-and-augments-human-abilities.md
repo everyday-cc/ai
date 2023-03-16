@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Tableau AI features and Slack integration aim for data accessibility"
+    excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
+    publishedDateTime: 2023-03-16T05:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/706240/new-tableau-ai-features-slack-integration-aim-data-accessibility/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 38
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/tableau_dreamstime.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "New Tableau AI features and Slack integration aim for data accessibility"
     excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
     publishedDateTime: 2023-03-15T12:01:00Z

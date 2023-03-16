@@ -237,58 +237,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033.md",
-      "title": "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033",
-      "excerpt": "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-13-a-face-recognition-site-crawled-the-web-for-dead-peoples-photos.md",
       "title": "A Face Recognition Site Crawled the Web for Dead People’s Photos",
       "excerpt": "PimEyes appears to have scraped a major ancestry website for photos, without permission. Experts fear they could be used to identify living relatives.",
@@ -342,6 +290,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-13-global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects.md",
+      "title": "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects",
+      "excerpt": "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-ai-inference-processes-data-and-augments-human-abilities.md",
       "title": "AI Inference Processes Data And Augments Human Abilities",
       "excerpt": "Artificial Intelligence (AI ... The second-generation device also supports Vision Transformers (ViT acceleration, a neural network that is capable of many computer vision tasks, such as image classification, object detection, and semantic segmentation ...",
@@ -350,7 +350,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1182,19 +1182,19 @@
     {
       "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
       "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
-      "excerpt": "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images.",
+      "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg",
-          "width": 400,
-          "height": 300,
+          "url": "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1204,11 +1204,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T05:47:00-08:00",
+      "publishedDateTime": "2023-02-28T04:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

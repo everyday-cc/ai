@@ -255,22 +255,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 79
-  - title: "How Microsoft is helping companies adopt ChatGPT AI"
-    excerpt: "Microsoft launched AI-powered Bing with ChatGPT integration last month and soon after opening the preview to some users in the waiting list, reports started pouring in, suggesting that the chatbot ..."
-    publishedDateTime: 2023-03-11T13:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Microsoft Bing now has 100 million daily active users, thanks to AI"
     excerpt: "Microsoft Bing has surpassed 100 million daily active users, thanks to AI pushing the search engine over the milestone."
     publishedDateTime: 2023-03-13T22:45:00Z

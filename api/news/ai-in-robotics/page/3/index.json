@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-18-combat-ai-robodogs-follow-telepathic-commands-from-soldiers.md",
+      "title": "Combat AI ‘robodogs’ follow telepathic commands from soldiers",
+      "excerpt": "Robinson and fellow soldiers did course training with the mind-reading headsets and robodogs ... A new high-tech headset allows soldiers to control robot dogs using only their thoughts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "originalUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/robodog-Newsflash-BrainRobotics-04-copy.jpg?quality=75&strip=all&w=661",
+          "width": 661,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "publishedDateTime": "2023-02-17T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
       "title": "Inside the Studio With an AI-Guided Painting Robot",
       "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
@@ -1351,49 +1394,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-stop-the-killer-robots-musk-backed-lobbyists-fight-to-save-europe-from-bad-ai.md",
-      "title": "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI",
-      "excerpt": "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
-      "originalUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/28/iStock-610855316-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
-      "publishedDateTime": "2023-02-09T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
         "images": null,
         "publishers": null,
         "authors": null

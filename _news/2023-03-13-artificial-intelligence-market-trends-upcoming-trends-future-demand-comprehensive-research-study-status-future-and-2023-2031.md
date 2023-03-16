@@ -23,6 +23,48 @@ topics:
   - AI
 
 related:
+  - title: "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ..."
+    publishedDateTime: 2023-03-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market (New Report) to Observe An Articulate Development During 2023-2029"
+    excerpt: "Cloud Natural Language Processing Market Size 2023-2029 | New Report (126 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-13T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
     excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
     publishedDateTime: 2023-03-13T10:27:00Z

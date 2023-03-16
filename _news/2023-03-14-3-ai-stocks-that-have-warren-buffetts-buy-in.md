@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "Global X Robotics & Artificial Intelligence ETF To reduce the individual risks each AI stock may pose to your portfolio, you may simply buy an index exchange-traded fund (ETF) and diversify ..."
+    publishedDateTime: 2023-03-13T22:12:00Z
+    webUrl: "https://www.fool.ca/2023/03/13/3-top-artificial-intelligence-stocks-to-buy-right-now-2/"
+    type: article
+    provider:
+      name: The Motley Fool Canada
+      domain: fool.ca
+    quality: 39
+    images:
+      - url: "https://www.fool.ca/wp-content/uploads/2019/05/WirelessTech.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "hLEY7zJwyWPfkObUPyc74t+rLdVy4NuNs5hIrJEXoWtitOCrGobUDiiaPOggTbhcUpjXdeNsLo045Zwa3WjLV/cnVt8Thb4nk51smyitxuCB6PlFt11NDr9xVJvTp4Hhu4zDP/wk23Dle1vxBqj3W76dmYS07fDEbs0LIXgz527FJOY0VmrY6lRGZWqKST14DJYrOviNsc8x6GBqTAKTsEBShWtULYOfL3RkDTLsSSdQcAycknozEt3KbLEp8EMqihBZH+RCFgwtk0W8w7EqulkNKNBCpHBCITH2dFCghUeBhvz0YIXUWuK2GFvOKDBDqdrpRwin7otY1Cbci6tFegkxIbO9AlVDgtQ24ZE+m7iVTxWLc4cWXSgZ4L0n5e26s/N7CjizibluVnc11jC5mbGZGon1tRpEtyqzymFPqIYtKwOr1NK70ei6/8GqN8c8hZ0TUrYWIj+cdgLcCDPQL8mEMzSWElvpgQPC9p5XhLjwrSZmCMBDVidmtTl+aLBnRh2vL/pznpJSpLmvioe3RQ==;Y1jnxsQ6LowH+CVEYZ/JaQ=="
 ---

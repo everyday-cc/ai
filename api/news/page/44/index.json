@@ -2,6 +2,115 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6-billion plus valuation",
+      "excerpt": "Cohere working on a new dialogue model, that would resemble ChatGPT, to allow enterprise users generate text and refine the output",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
+      "originalUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-systems-will-lead-to-layoffs-but-traders-say-they-will-be-fine.md",
+      "title": "Artificial intelligence systems will lead to layoffs, but traders say they will be fine",
+      "excerpt": "Advanced artificial intelligence systems are expected to eventually replace some jobs in the financial, media, legal and technology sectors, according to the latest MLIV Pulse survey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
+      "originalUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-generated-seinfeld-parody-banned-on-twitch-over-transphobic-standup-bit.md",
+      "title": "AI-generated Seinfeld parody banned on Twitch over transphobic standup bit",
+      "excerpt": "Nothing, Forever, a 24/7 show based on popular sitcom, will be offline for 14 days as makers blame technical glitch",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2023/feb/06/nothing-forever-twitch-ban-seinfeld-parody-ai",
+      "originalUrl": "https://www.theguardian.com/us-news/2023/feb/06/nothing-forever-twitch-ban-seinfeld-parody-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-private-hospital-chain-rolls-out-clinical-intelligence-engine-for-doctors-across-india.md",
       "title": "Private Hospital chain rolls out Clinical Intelligence Engine for doctors across India",
       "excerpt": "One of the largest private hospital groups in Asia has launched Clinical Intelligence Engine- a clinical decision support tool, to be open to use by all Indian doctors on Apollo 24x7's platform.",
@@ -837,117 +946,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-an-extension-of-ferminet-to-discover-quantum-phase-transitions.md",
-      "title": "An extension of FermiNet to discover quantum phase transitions",
-      "excerpt": "In 2020, Google's British AI subsidiary DeepMind used a new ANN architecture dubbed the Fermionic neural network (FermiNet) to solve the Schrodinger equation for electrons in molecules, a central problem in the field of chemistry. The Schroedinger equation ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
-      "originalUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-extension-of-fermin.jpg",
-          "width": 2880,
-          "height": 1288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
-      "publishedDateTime": "2023-02-06T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
-      "title": "3 ETFs for the Artificial Intelligence Boom",
-      "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "originalUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
-      "publishedDateTime": "2023-02-06T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-radiology-imaging-associates-launches-the-enhanced-breast-cancer.md",
-      "title": "Radiology Imaging Associates Launches the Enhanced Breast Cancer",
-      "excerpt": "RadNet is a global leader in the development and use of AI for cancer screening, and the use of AI is significantly featured in the Enhanced Breast Cancer Detection service. \"AI is dramatically improving our detection capability and overall quality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-radiology-imaging-associates-launches-enhanced-breast-cancer-detection-/2023/02/06/9755322.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-radiology-imaging-associates-launches-enhanced-breast-cancer-detection-/2023/02/06/9755322.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

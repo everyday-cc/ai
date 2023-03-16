@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning (ML) Platforms Market Size Report Analysis, 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [116 Insights] Top “Machine Learning (ML) Platforms Market” Size 2023 Key players Profiled in the Report are [, H2O.ai, Hewlett Packard ..."
+    publishedDateTime: 2023-03-16T05:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-ml-platforms-market-size-report-analysis-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
     excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
     publishedDateTime: 2023-03-13T03:36:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,45 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "New Survey on \"Artificial Intelligence Platform Market\" Augmented Expansion to Be Registered by 2023-2028"
-    excerpt: "Mar 11, 2023 (The Expresswire) -- Report Highlights with 124 pages:-\"The global Artificial Intelligence Platform market size was valued at USD 2511.37 million in 2022 and is expected to expand at a CAGR of 15.36% during the forecast period, reaching USD ..."
-    publishedDateTime: 2023-03-12T01:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-survey-on-artificial-intelligence-platform-market-augmented-expansion-to-be-registered-by-2023-2028-2023-03-11"
+  - title: "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ..."
+    publishedDateTime: 2023-03-13T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
-    excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's"
-    publishedDateTime: 2023-03-13T16:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31325238/x-ray-inspection-systems-market-set-to-witness-unprecedented-cagr-of-7-2-by-2029-size-share-trends"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31325238"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31325238"
+  - title: "Cloud Natural Language Processing Market (New Report) to Observe An Articulate Development During 2023-2029"
+    excerpt: "Cloud Natural Language Processing Market Size 2023-2029 | New Report (126 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-13T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-03-13"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
-    excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's Five Forces analysis, and competitive environment are all dissected in detail in the research."
-    publishedDateTime: 2023-03-13T19:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-x-ray-inspection-systems-market-set-witness-unprecedented-/2023/03/13/9775872.htm"
+  - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
+    publishedDateTime: 2023-03-13T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/exploring-the-natural-language-processing-nlp-software-market-2023-2028-a-comprehensive-analysis-of-emerging-trends-and-untapped-opportunities-2023-03-13"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
+    publishedDateTime: 2023-03-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031"
+    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include ..."
+    publishedDateTime: 2023-03-13T11:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "SJW0wR+C8HAi43bJIE2RVr5QOv7VPdv//+tPpxwUGmGbsvThnpvROe8OoTXLzgH/kkZ3UG9aWtkfhF1q2VMLA/qnNdY7s/cjo6bpVHFPXuoRJKkZgMWtZGcDud5JQS0hPXc+lTwXE60LPWZ1gvobFPc+GC0YB5GXlJOn5MZNjezo4kWr36p6Q/ommRw6cd6oMi70zjx40ZmUe/F39b/hVAaeD4C2cDlbDKh5oCrG6h3TxMruyV+3bORHkHRony+5rrQ2pr8Uk282l2IHA3c0xSTBhtgfpnBe4aoKg2rDhWxWkkO8CydPxTdvBrRHavVJfs8UZ4rF0AygBd8tpRo5K2jgelcVcWLyc3mIxgUVFrs=;VV0PfB1P9nBD06YJr3nzOg=="
 ---

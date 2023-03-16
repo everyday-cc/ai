@@ -2,6 +2,145 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-12-18-get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo.md",
+      "title": "Get ready for wireless docking monitors, architecture wars and better chip supplies | Synaptics CEO",
+      "excerpt": "Michael Hurlston, CEO of Synaptics, talked about the easing of the chip shortage and other tech topics ahead of CES.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/synaptics-6.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/get-ready-for-wireless-docking-monitors-architecture-wars-and-better-chip-supplies-synaptics-ceo/amp/",
+      "publishedDateTime": "2022-12-17T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-microsoft-launches-real-time-voice-translation-in-skype.md",
+      "title": "Microsoft launches real-time voice translation in Skype",
+      "excerpt": "The new translation feature uses AI to automatically detect the languages being spoken during a video call and translate them in real time",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "originalUrl": "https://www.mid-day.com/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/dec/apple-seventeen-dec_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-launches-real-time-voice-translation-in-skype-23261056",
+      "publishedDateTime": "2022-12-17T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-boston-startups-search-engine-uses-ai-to-make-dense-research-more-accessible.md",
+      "title": "Boston startup’s search engine uses AI to make dense research more accessible",
+      "excerpt": "Seattle’s Allen Institute for AI has operated Semantic Scholar, a website that summarizes the contents of academic research papers. And in mid-November, tech titan Meta, the parent of Facebook ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "originalUrl": "https://www.bostonglobe.com/2022/12/11/business/boston-startups-search-engine-uses-ai-make-dense-research-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/iN4c1Z23Z14GbbfM9Ponw6YDAQw=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/PEYHDJJQLZSQ6GCIZKNW5B4EQA.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-17T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-8-ayurvedic-herbs-that-support-cognitive-function-and-mental-clarity.md",
       "title": "8 Ayurvedic Herbs That Support Cognitive Function And Mental Clarity",
       "excerpt": "These two groups share traits and have additional advantageous effects that support the body's ability to withstand shocks and enhance cognitive performance. Talking to OnlyMyHealth Editorial team ...",
@@ -1024,147 +1163,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence.md",
-      "title": "Key Strategies for Ethical and Responsible Use of Artificial Intelligence",
-      "excerpt": "While the issue of how to use AI ethically has been widely discussed for some time, little has been done to put guidelines",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "originalUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/12/Key-Strategies-for-Ethical-and-Responsible-Use-of-Artificial-Intelligence.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/key-strategies-for-ethical-and-responsible-use-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-16T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-automls-rise-to-prominence.md",
-      "title": "AutoML's Rise To Prominence",
-      "excerpt": "Where in the past people mostly developed large complex models in-house, I believe in the future new practitioners will opt for more simplistic models that offer higher performance in the form of autoML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef9dd3406868f00064f5619/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/12/16/automls-rise-to-prominence/amp/",
-      "publishedDateTime": "2022-12-16T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
-      "title": "Robotics competition kicked off for Delhi government school students",
-      "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/jelleke-vanooteghem-6nulohm40w8-unsplash-sixteen_nine.jpg?VersionId=q1ETy.V2ObyHT1nAmNcfRDHfT1U9NJdu",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/robotics-competition-kicked-off-for-delhi-government-school-students-2310029-2022-12-16",
-      "publishedDateTime": "2022-12-16T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

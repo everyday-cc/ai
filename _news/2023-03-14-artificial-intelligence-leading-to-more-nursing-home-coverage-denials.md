@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-14T04:10:00Z
 originalUrl: "https://www.mcknights.com/news/artificial-intelligence-leading-to-more-nursing-home-coverage-denials/"
 webUrl: "https://www.mcknights.com/news/artificial-intelligence-leading-to-more-nursing-home-coverage-denials/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "AI Use by Medicare Advantage Blamed for Increased Denial of Nursing Home Services"

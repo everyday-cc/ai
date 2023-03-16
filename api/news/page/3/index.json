@@ -345,7 +345,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 471,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -1194,29 +1194,38 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-azure-previews-powerful-and-scalable-virtual-machine-series-to-accelerate-generative-ai.md",
-      "title": "Azure previews powerful and scalable virtual machine series to accelerate generative AI",
-      "excerpt": "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate.",
+      "path": "_news/2023-03-13-global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects.md",
+      "title": "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects",
+      "excerpt": "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ...",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T23:00:08-07:00",
+      "publishedDateTime": "2023-03-12T23:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1232,8 +1241,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

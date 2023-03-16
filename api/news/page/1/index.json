@@ -55,6 +55,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-chat-gpt4-is-the-world-prepared-for-the-coming-ai-storm.md",
+      "title": "Chat GPT4: Is the world prepared for the coming AI storm?",
+      "excerpt": "Experts have little confidence that those in power are prepared for what's coming. Back in 2019, a non-profit research group called OpenAI created a software program that could generate paragraphs of coherent text and perform rudimentary reading comprehension and analysis without specific instruction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-64967627",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-64967627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12C4E/production/_128987867_gettyimages-1472810844.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-64967627.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-64967627.amp",
+      "publishedDateTime": "2023-03-15T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-how-ai-will-change-big-techs-relationship-with-journalism.md",
       "title": "How AI Will Change Big Tech's Relationship with Journalism",
       "excerpt": "This problem has already been raised by Getty, whose copyright-protected images have been used by AI ... Research Center. \"The tactics were unpopular with the public and damaging to their brands, but the tough negotiating, particularly from Facebook ...",
@@ -167,7 +218,7 @@
       "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -220,7 +271,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -613,7 +664,7 @@
       "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1226,57 +1277,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs.md",
-      "title": "How The Games Industry Can Leverage Advances In AI To Revolutionize NPCs",
-      "excerpt": "So, how can game studios prepare for more advanced video game NPCs in the future? We'll walk you through the steps you should take now to be ready for advanced AI NPCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62792c6a8956d9e3f1ed076c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/",
-      "publishedDateTime": "2023-03-15T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
