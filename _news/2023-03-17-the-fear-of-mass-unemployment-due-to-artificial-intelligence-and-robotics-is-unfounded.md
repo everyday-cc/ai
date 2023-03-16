@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T19:56:00Z
 originalUrl: "https://mises.org/wire/fear-mass-unemployment-due-artificial-intelligence-and-robotics-unfounded"
 webUrl: "https://mises.org/wire/fear-mass-unemployment-due-artificial-intelligence-and-robotics-unfounded"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: Mises Institute
@@ -14,6 +17,13 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
+
+images:
+  - url: "https://cdn.mises.org/styles/social_media_1200_x_1200/s3/aijobs-fb.jpg?itok=GbHMVmFB"
+    width: 1200
+    height: 628
+    isCached: true
 
 secured: "50PHJX7in7IWTeUzhaXgtcbKBJ+UR/hfwsiwCYZbSPlgaPF02bfd3mRR+UcDzI/w8uv0WlMMKVmu9LWp+IHCwzpFuXT2dBi3vKCLhjo7KfnTuYJ1TzqmoXLjl4SlxKeASghi1MmSLBL4Gvl73kJq99+mDLHDRlYafovb3zn5GeotWrhwq6LsbPA+cLEavXBGWSd3Y3xJok1RtHtHO1KH5LXw0FDbFaRYzAxQZYC+KEiO1coiZKvk+pElZiSAiGqU6Al0AH1+sgvzQJ9oerIRc74tU4iVVWZDIZCKOCccLtE0mt2l5qFUDY5pnSFizZOrNf9nyZhU4GzD45y9nQacR8poO87agL4lF/54IJOwnQU=;fn3CU9IyBQKRWym/j5h+vQ=="
 ---

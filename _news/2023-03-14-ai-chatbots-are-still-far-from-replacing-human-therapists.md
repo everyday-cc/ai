@@ -59,6 +59,24 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Baidu Plunges After Recorded Demo of AI Chatbot Disappoints"
+    excerpt: "Baidu Inc. debuted its ChatGPT-equivalent but skipped a live demo of its highly anticipated AI bot Thursday, disappointing viewers who had hoped for a stronger demonstration China’s highest-profile entry in a battle with the US to dominate a potentially transformative technology."
+    publishedDateTime: 2023-03-16T03:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-16/baidu-showcases-china-s-answer-to-chatgpt-in-high-stakes-debut"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "China’s ChatGPT rival Baidu Ernie is off to a rough start"
+    excerpt: "Fangbo Tao, CEO and founder of AI startup Mindverse and a former AI scientist at Alibaba and Facebook, echoed the sentiment. “Under the pressure of models like ChatGPT, domestic large language model companies in China have indeed launched similar ..."
+    publishedDateTime: 2023-03-16T19:46:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/baidu-chatgpt-launch-china/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
     excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."
     publishedDateTime: 2023-03-14T17:07:00Z

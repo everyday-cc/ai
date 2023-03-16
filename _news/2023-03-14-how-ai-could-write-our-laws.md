@@ -43,6 +43,22 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Generative AI output could be eligible for copyright protection. But there’s a catch."
+    excerpt: "According to a new policy statement from the U.S. Copyright Office, generative AI could be eligible for copyright protection. But, there’s a catch: Proof of human authorship (a prerequisite reaffirmed by the Copyright Office a year ago) is still required,"
+    publishedDateTime: 2023-03-16T20:37:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-26.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Six Ways Retail Can Leverage Generative AI To Transform Business"
     excerpt: "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates."
     publishedDateTime: 2023-03-14T12:30:00Z

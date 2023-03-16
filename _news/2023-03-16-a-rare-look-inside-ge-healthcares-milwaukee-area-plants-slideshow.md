@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T16:40:00Z
 originalUrl: "https://www.bizjournals.com/milwaukee/news/2023/03/16/ge-healthcare-slideshow.html"
 webUrl: "https://www.bizjournals.com/milwaukee/news/2023/03/16/ge-healthcare-slideshow.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -28,35 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Concertgoers react to facial recognition software at Madison Square Garden"
-    excerpt: "On their way in, they passed a protest banner, alerting them to MSG Entertainment’s ongoing use of facial recognition technology inside the facility. Not surprisingly, opinions were mixed. “Do I have a problem with that? Not really. One one hand ..."
-    publishedDateTime: 2023-03-16T03:02:00Z
-    webUrl: "https://pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/"
-    ampWebUrl: "https://pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/amp/"
-    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/amp/"
+  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
+    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
+    publishedDateTime: 2023-03-16T21:14:00Z
+    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
+    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
-    quality: 57
+      name: New York Post
+      domain: nypost.com
+    quality: 76
     images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
         width: 1024
-        height: 681
+        height: 682
         isCached: true
-  - title: "MSG concertgoers react to facial recognition software"
-    excerpt: "MSG initially came under scrutiny a few months ago for using facial recognition technology to turn away an attorney who had a paid ticket. MSG Entertainment is still committed to its use. When scaffolding goes up in New York City, it often doesn't come ..."
-    publishedDateTime: 2023-03-16T03:00:00Z
-    webUrl: "https://pix11.com/video/msg-concertgoers-react-to-facial-recognition-software/8476396/"
+  - title: "Facial Recognition Market Size and Share | Industry Size"
+    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
+    publishedDateTime: 2023-03-13T17:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
     type: article
     provider:
-      name: pix11
-      domain: pix11.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-        width: 396
-        height: 202
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
+    excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
+    publishedDateTime: 2023-03-15T21:57:00Z
+    webUrl: "https://www.biometricupdate.com/202303/startup-partners-to-bring-machine-learning-facial-recognition-to-iot-developers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 53
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/15175433/useful-sensors.png"
+        width: 1198
+        height: 874
         isCached: true
 
 secured: "csx/8rc+JdPG86Csqq095vzrbrDmnr6DPckSaUuKmx6c5O1g/XTSEupsO3T/UBmLPThMnVFzGzrbNLDe0pZujaS0Izp81XKtRS22g+CmiC8AEkLDDbYb2oI5zNI7+NV1B/ZmsWogy70wCsqlYOfdlALkCwxAHfUVuzC5UgmcdMs0iAt9in8riy7SWsuJZiqlj975yGRHXOdbEtOoKlLbMktT7jMM9bxeiYfTkKnUhUMeMRubW+l6yw0kmzxU2btb1jO90KRgwByFT2ILDprUiJeDD+hPlmh3c9Qt6ObAGkU/OzH2CpsDa5dSlnZug8FyevQTiqLCNQ603yT5PjpzY2XFg3g8T1P++ZRtUa0zJu5z9Z2OhwJG2kMZUr7TJqj36k1gyl4nDGmXx5sM6y8/AlUJswVkDAd6IPHGBwFoty2Q70UDQtfgneLY6pniOR7IPVr/on97p32pHVg4ddiqHrrWafivycMkBAlxSAUy8rN7Xac/NgLiZDu2ChW41izNPDkAcfy6BHlTpmakwxOlFA==;nNz3njcuLDg/aKsNuB7trw=="

@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "From 2023 to 2029 Report on the Artificial Intelligence (AI) in Education market"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- “Artificial Intelligence (AI) in Education Market” information for each competitor includes [ ALEKS, Cognii, Microsoft, Liulishuo, AWS, Carnegie Learning, Jenzabar, Jellynote, Century-Tech, Bridge-U, Google ..."
+    publishedDateTime: 2023-03-16T17:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/from-2023-to-2029-report-on-the-artificial-intelligence-ai-in-education-market-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
   - title: "Artificial Intelligence (AI) Market Worldwide Business Growth and Consumption Status by 2029"
     excerpt: "The \"Artificial Intelligence (AI) Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-13T20:33:00Z

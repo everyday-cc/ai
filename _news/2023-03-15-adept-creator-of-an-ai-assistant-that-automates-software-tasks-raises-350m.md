@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
-    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
-    publishedDateTime: 2023-03-16T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/castai.png"
-        width: 1197
-        height: 673
-        isCached: true
 
 secured: "8NUKwT+vnkzsxqz/Q7g2N30T1rgtz8kze829sMOFUIIkTzVp4idNMWek9BUP+Ti+hU6AOQdUqM4IlRMtXckN1eCSEI21HabMkKrN1dEZWYdx6J1LyFYJ7uzCeMXOiMHWBJwctEHGya5zJ6jxKr3taekqWHx+4ow984R/motRcUaqUE8nKSuP41bBuTpu1jWgkexoBztW7UM6wCHC010rymU3aAJOWY+sspY2ohL3P05b54Dt6Nw062Ce0wXQe9yh9ylMKiH2d6mgenyJVewZoXI+5/Tns6D1/q4pIMFQK+BdsaeM525QW29v32uHs62ubZk0w2DD5PFSP0QrG1G2sC+rjaO8p81+/anYDfqrv0Y=;ak1s09PmPeATtseLYVXrrg=="
 ---

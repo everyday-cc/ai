@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "DataRobot revamps its machine learning development platform with AI accelerators and new partner integrations"
+    excerpt: "Andy Thurai, principal analyst and vice president of Constellation Research Inc., told SiliconANGLE that AI and machine learning is moving rapidly from ... Google Cloud and Microsoft Azure, meaning customers with the most stringent security and compliance ..."
+    publishedDateTime: 2023-03-16T16:10:00Z
+    webUrl: "https://siliconangle.com/2023/03/16/datarobot-revamps-machine-learning-development-platform-ai-accelerators-new-partner-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "EeH9qb7OBVf/5CjcfsqPh6BzgNzyZdmVIbrQn8PE8IINC92lwzj5ecdj1pl/G4611JkgaHoz0cyNBHALqLtPqhLB80p9WVTVfWm1vbf+LrbUfdZ/v1W+DA1olByEGwYocBIIIlCsVo++Ed3LcOc9i24pLAOog2LCIT8F3kN4Gmds7xZJp5pUzoihrdkn3gGuSxMUnRKhv8nZviU2GGfUHZPD8BbOES6TTVbOQ/QV2a+50oPfDnX1ZRP/hSCX+bCFk6Z2Y3XU7PaH1MGREuxQOtlQtO6ht1bQetNJ+U5D0YPKenvEXkTU52wUxK2pYG4oQzgelW8ESGk1V9JAiop1TYXR8ifR7fUFyhtBnLb10W0=;1gyI4jpmgFSlGni3a28A+A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T13:35:00Z
 originalUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
 webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Analytics
@@ -14,6 +17,33 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Our latest health AI research updates"
+    excerpt: "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection."
+    publishedDateTime: 2023-03-14T15:00:00Z
+    webUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/"
+    ampWebUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg"
+        width: 2880
+        height: 1200
+        isCached: true
+  - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
+    excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."
+    publishedDateTime: 2023-03-15T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31367112/yoursearch-ai-launches-worlds-first-ai-powered-web-3-internet-search-in-the-us-market"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
 
 secured: "5aI6pBv+Lb2NKVYPVc6stdWrsM20Xa0wsj2BzBau291syzcoulSLfdo5qzu5yLCeU3oVsAKp0tt1fTq4PrrEDuuno5w1NknC8C6kUBgmvYVcFXLDFC1rxT84zMdnoj9abmBOxRmtOK6P/BYFXJE5E3S5aNH91ap51uTuRx0n0Q9pQyMU9UxBCU5C06j+rot2kFPnvEWrriuINQKb6KAbDFNxYwbWzIXV4B2aEyP611oXOgPefcALtFPRitqoT9cg3IwcRrGm5lBvQ7xFCRgSW4KJ7N50zLyp5kg5ujx0HIh64dAi3SsJbTYRP4v3U7FwbXu6R0Fsvh1H6Wh8ffIeMOqlR7MYZT8TQflfE9GlTw0=;5g5+Jd/RELj9E9ZeG03KiQ=="
 ---

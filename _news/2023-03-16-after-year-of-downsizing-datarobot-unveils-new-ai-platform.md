@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveil
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "DataRobot revamps its machine learning development platform with AI accelerators and new partner integrations"
+    excerpt: "Andy Thurai, principal analyst and vice president of Constellation Research Inc., told SiliconANGLE that AI and machine learning is moving rapidly from ... Google Cloud and Microsoft Azure, meaning customers with the most stringent security and compliance ..."
+    publishedDateTime: 2023-03-16T16:10:00Z
+    webUrl: "https://siliconangle.com/2023/03/16/datarobot-revamps-machine-learning-development-platform-ai-accelerators-new-partner-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "UaM5MJcjYfjwXlzBeeMS7m2cLU3/GoLEGKww6LmhvJ/dEquduNphzU6KBgVUc7LboXszBdQ1T0AaHQD7ywKSYsBfMph4yZxmnjtfjSJsW007jUIvy0cKMlpZh0Dkx6bTY8p9B+sFA4cr4gJwjZCrtrpEqJbj6hXBRbkoAJxKwsZpCjrkOSmLtx+6pLqdEsrb0wh5RxFgTUFUzBE7E70A1i6bxh9EKwdANWPOmhEts36JIEfApkdak9hypFaV2+y1WCwi+PbUT2p0hQrP7Rtyf8Fn91C1k5Nl3dgpm2j6CJGNpp3xc4qoqIv77Jx0nzYSwSGtIdLdpqgcXg3ox/9OmTeVNfH/qzgWMts4HbDg024=;zxyAufVg6zQ+7I8w3IHEgQ=="
 ---

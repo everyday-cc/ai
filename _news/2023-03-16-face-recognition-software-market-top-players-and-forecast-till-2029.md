@@ -205,6 +205,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence In RegTech Market Growth 2023-2029"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others) of Artificial Intelligence In RegTech Market and study the impact of Russia ..."
+    publishedDateTime: 2023-03-16T20:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-regtech-market-growth-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
     excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
     publishedDateTime: 2023-03-12T17:44:00Z
@@ -335,6 +349,20 @@ related:
     excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-03-13T12:23:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2026-transform-business-with-our-proven-visionary-data-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market 2023, Regional Status and Prospect till 2028"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- Recent Updated Report 2023-2028 of Artificial Intelligence Market| TOP KEY PLAYERS in Artificial Intelligence Market Contain (IBM, Intel, Nuance Communications, IFLYTEK, Microsoft, Salesforce, ZTE Corporation, Infosys ..."
+    publishedDateTime: 2023-03-16T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-regional-status-and-prospect-till-2028-2023-03-16"
     type: article
     provider:
       name: MarketWatch

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence leading to more nursing home coverage denials"
-    excerpt: "Artificial intelligence is partly to blame for increasing Medicare Advantage denials, especially among beneficiaries in need of skilled nursing care, a new report finds."
-    publishedDateTime: 2023-03-14T04:10:00Z
-    webUrl: "https://www.mcknights.com/news/artificial-intelligence-leading-to-more-nursing-home-coverage-denials/"
-    type: article
-    provider:
-      name: McKnight's Long-Term Care News
-      domain: mcknights.com
-    quality: 21
 
 secured: "DhqG/sYUzgFOz/JZ/qoGcyGEcDBJEkbsobubHE8B4hEfElJxZLaA/yAtWC+qBwv26BznzXHuQMpYBcq3XA16y8GSIGtHCOAFTy/13fWVqthtPgWilW7aZyqQUtMkxlR0PQZI7YMkaKqrKf/x9yTVVjHlBtQSKK0uwOT0kXBf+8F5yVSzFnNX0OojAs8tX9UPilqIlsHc6BOtF9KqJPq3sz7yUfvcIBk02YWcAVArUu1fD+jBqzuMSrrfXuzoXpluFwHQ3Pe4HBlrPPxcFMeserLoJyRBLvG0h3Vqbo2l/WZOfYdD1P4nNUhT1AeaSqcejs8MLvA3teqZjtv8jGVjiASMvCNijWDj6bWZIhNe+2zY+VtWYlkS5AG+jufAYINEcdbNiALy9LMJdbHkFnhpUZjA9Tl3KOZ8KPVYjgKzPelyPY65zQzGoG434bjFPHYC++QNKfkAx89548aFsVvJlWQvt9eXzFS8GmxfUNic8h/DGL7b2e4Z9BUreV/GpfdwWm314hPeHSb0FlrIemy9FQ==;ujfzfqEVeGDkE7GHmRMLGg=="
 ---

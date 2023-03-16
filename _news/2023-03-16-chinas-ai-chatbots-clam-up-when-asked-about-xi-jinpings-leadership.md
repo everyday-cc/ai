@@ -2,9 +2,9 @@
 category: news
 title: "China’s AI Chatbots Clam Up When Asked About Xi Jinping’s Leadership"
 excerpt: "For companies trying to ride the ChatGPT wave, there is an added layer of headaches if their chatbots are in China: how to weed out any talk of politics."
-publishedDateTime: 2023-03-16T01:52:00Z
-originalUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea"
-webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea"
+publishedDateTime: 2023-03-16T10:35:00Z
+originalUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea?mod=hp_lista_pos3"
+webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea?mod=hp_lista_pos3"
 type: article
 quality: 67
 heat: -1
@@ -91,6 +91,6 @@ related:
         height: 960
         isCached: true
 
-secured: "S+f4o2HM5GfIF0BRZLeExwMTpjkjEwLFkOLPRxeXQ13HuECjLeswZlu+ECrgotHet2Zd8EmBOaG5Jgg0AMU/B94cTlVrAG+OIvyINTqKuIf+Uw3zwowQvqM6aM++P880fa7p5n4T2/POS8NvhvQhnnvaaHboxUdhQml07ZAAKhGu7ZuD8asiCP5IlQolaLlEM08AdAZAsFRlVt4mO3+dtkZTqHcynX8nmmte/+BDpkRS/hht1CmLmZhy36Nhm888k3WmiP17o5C5Wk0MzR4/1X6s/uljpZU2ro6cMtHX1xonCiAoLNigXaOnvgaUs/FC4J4UJxoPLhEqfllfITdfG7M7okLORmu2ouWULrVpJpu7csBmlJACLX+QDuWxWSa8xozBXQclrAIDvOYlxukkDX/I8yowouzu8vWyYc6HdaQZsIlKjIVkspcPpudXWLX5qLLmonV6BCXlmXOe2tGXSgFMfuS/efDDkyO8Qm5CpAXe4IRnsGsSpjwIYQlQuWAAFcdKbYwTPUN3IbyPrUnbjw==;ygfrt2vto3CKv5/GDdzeJw=="
+secured: "WlDhzg+b5ntQpNPeIAVNeOSCmI/JD3DKFczipNCgzmZBwlWy/RSToi0S49U6Ulb/HXk5AMSYLsePbxA0Uw9rsaq01qkGk0pSnGoHXk1IsVs1qq+zLYkoWulmLe6XX9CDy1MCeEeUvmOLvzP/QMvN1ip9k7+sn7mER/VpJ9r0DZG8ic9Y9OtyWTZnBBWMBIrI0fYyUg0GPf4+sDeSgYrfkS8Z/CnydyoAfqseH3mMg/Msh5GZgasOiuTClRrXVLHdNRhgGvQrOpP/X9UJrq0fp1QqI0TcbfJW3H+LizjQNU9hTtBK65DFAVHzMYEEetze9zuTKiUY3PxZuY/q8ftkDT9f7oX33OyeCDoPJS02kcI=;SGnm61H9fcOYyTomH/S6pQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T19:05:00Z
 originalUrl: "https://www.defenseone.com/technology/2023/03/dont-expect-navy-robots-south-china-sea-anytime-soon-chief-says/384100/"
 webUrl: "https://www.defenseone.com/technology/2023/03/dont-expect-navy-robots-south-china-sea-anytime-soon-chief-says/384100/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Defense One

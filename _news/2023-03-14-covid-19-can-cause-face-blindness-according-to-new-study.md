@@ -87,6 +87,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Long COVID has some weird symptoms. Face blindness may be one them."
+    excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme ..."
+    publishedDateTime: 2023-03-14T12:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 24
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/03/08/USAT/ad56124b-a1e4-4672-925c-26b3e63104ba-Faceblindness_advertisement.jpg?auto=webp&crop=3299,1856,x0,y230&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4wugS0u8+lDyvM8DJnE0pxZp4bEe2USxLgCzQLIvt8Ju0m1g5sPPKpugYnoVuqxCLEtXTry4AH6eypqm1uc9CF7tL/LnoKkxc39cEVS6xCzH5AaREbC6l6P4ioKgYzqcfSCnjATPtfLIoaEh80usDhRwoAqB8ratS0oVyiT7qon4PwwfLoyeMpmJw8u9ld2KSQR5qXPzEQcwmmeIQ9qOXnHUybuiavhm4/4GzHqbZUYJ89c9R4GlHCnedxAgnb5wC3fhVHix3siGCJRceaow/MoLaf/GikMVPSl/EHVPVvDFM5R3Nkr2LKLoZvKPjN9TuyxNb+NJVto5HAsdkaSsaRb83g/+4ot+jcHMJLsfbM52wuvulKqqS0pcgz4GgklVTU1aaFGOXOHCpvxlF0gus34AxEQAg8d8n2rtm49/P0UOrk53r6VL/pqZkX8kYAbr5z1o2qdqlpFTmoeTPWYVG2rnpAq1CNBZ7x26UUAWVppypTvr2bV99q9wr8y+wEN4aEYCnrryqozwW8mblvUx1g==;KMvX/ZVwi3Uc87Cfgy15Ig=="
 ---

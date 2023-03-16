@@ -90,6 +90,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Microsoft 365 gets a host of new AI-powered features"
+    excerpt: "(Relatedly, OpenAI revealed yesterday that it worked with Microsoft to build a “supercomputer” in Azure to develop GPT-4.) Microsoft has reportedly been forced to ration access to the hardware for some internal teams building other AI tools to ensure ..."
+    publishedDateTime: 2023-03-16T16:04:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/"
+    ampWebUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/m365copilot_business_1920x1080_web.png?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft’s new Power Platform AI copilot will build your apps for you"
     excerpt: "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ..."
     publishedDateTime: 2023-03-16T15:49:00Z
@@ -329,6 +345,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "How to watch the Microsoft 365 AI event"
+    excerpt: "Microsoft is holding a special “future of work with AI” event today, where the company says it’ll be “reinventing productivity with AI.” Microsoft is expected to demonstrate how its ChatGPT-like AI will work in Microsoft 365 and Office apps like Teams,"
+    publishedDateTime: 2023-03-16T16:00:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642788/how-to-watch-microsoft-365-ai-event"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft lays off an ethical AI team as it doubles down on OpenAI"
     excerpt: "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes."
     publishedDateTime: 2023-03-14T16:41:00Z
@@ -361,6 +391,22 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 79
+  - title: "Microsoft: 365 Copilot chatbot is the AI-based future of work"
+    excerpt: "Through the use of a chatbot interface and natural language processing, users can ask questions of Copilot and receive human-like responses, summarize online chats, and generate business products. Copilot in Word, for example, can jump-start the creative ..."
+    publishedDateTime: 2023-03-16T19:54:00Z
+    webUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 76
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/03/microsoft-screenshot-2-100938628-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Microsoft’s real AI battle against Google begins with promise of new superpowers for work"
     excerpt: "“Other times it will be usefully wrong, giving you an idea that’s not perfect, but still gives you a head start.” Microsoft already has some significant experience in human-AI collaboration. Existing integrations of OpenAI technology in Microsoft ..."
     publishedDateTime: 2023-03-16T17:31:00Z
@@ -491,6 +537,20 @@ related:
         width: 708
         height: 402
         isCached: true
+  - title: "Microsoft spent hundreds of millions of dollars on a ChatGPT supercomputer"
+    excerpt: "Microsoft’s already working to make Azure’s AI capabilities even more powerful Microsoft’s already working to make Azure’s AI capabilities even more powerful with the launch of its new ..."
+    publishedDateTime: 2023-03-13T22:59:00Z
+    webUrl: "https://www.theverge.com/2023/3/13/23637675/microsoft-chatgpt-bing-millions-dollars-supercomputer-openai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
     excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
     publishedDateTime: 2023-03-15T00:54:00Z
@@ -514,6 +574,15 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 65
+  - title: "Microsoft begins making Bing Chat AI searches available to everyone"
+    excerpt: "It appears that Microsoft has opened up the new ChatGPT-powered Bing search engine to nearly everyone who wants to use it.."
+    publishedDateTime: 2023-03-16T18:02:00Z
+    webUrl: "https://www.engadget.com/microsoft-begins-making-bing-chat-ai-searches-available-to-everyone-102506412.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 64
   - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
     excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"
     publishedDateTime: 2023-03-14T13:52:00Z
@@ -544,6 +613,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Copilot leak shows AI automatically creating a PowerPoint presentation"
+    excerpt: "Microsoft is holding a big AI event later today, but one of the announcements appears to have just leaked. Twitter user h0x0d has published details of a PowerPoint Copilot feature, which appears to include ChatGPT-like AI that will create presentations for you."
+    publishedDateTime: 2023-03-16T16:51:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642870/microsoft-copilot-office-powerpoint-microsoft-365-leak"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 59
   - title: "Google announces new generative AI lineup in advance of Microsoft’s rumored GPT-4 debut"
     excerpt: "Google announced a laundry list of new generative AI capabilities, both for developers and for users of Google Workspace."
     publishedDateTime: 2023-03-14T13:01:00Z
@@ -580,6 +658,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/4c/e4cf0464-6667-5366-b44c-f1406bfd9bf2/6413342fac157.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
         width: 800
         height: 420
+        isCached: true
+  - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
+    excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
+    publishedDateTime: 2023-03-16T20:37:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-copilot-ai-office"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/microsoft-copilot-ai-office.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."

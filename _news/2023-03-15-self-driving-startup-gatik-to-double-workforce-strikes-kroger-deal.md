@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/self-driving-startup-gatik-double-workforce-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-3677155?amp=1"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Self-driving startup Gatik to double workforce, strikes Kroger deal"
-    excerpt: "Self-driving trucking startup Gatik will double its workforce by year end, a top executive said, after it announced a deal on Wednesday with grocer Kroger Co to transport goods within its Dallas, Texas network."
-    publishedDateTime: 2023-03-15T20:02:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-2023-03-15/"
+    excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
+    publishedDateTime: 2023-03-16T01:03:00Z
+    webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/lxjaB9QqWlrRzA1bs92zbK05_2I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4WOFNKNVJP2FMQXPOKREB7JJM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 34
 
 secured: "0jInFvgvfkG6T9cxMew6+dgFOD1+jcXanyf1g3uquK38AvGYlQ61eLRO2PqdZcgqaMa9koeNg/jiyIXt4MtaDCK2nXd+aY29msa2vtN2f1mS6Z5XkPqBDDqmxjAtUZHTsPzaqn8pqsq8QC+oVNkRmArYT+oUHo3bVhOavE3HliZ8OR+Vgq+F9oDHcSvw/S6GCpH4BKHz5OOhLvdMo8ZNSRXg1g0SZbf9QOV7QGdtGH6bXUOe00geJG0q3rrUhY2JQGJscT9XQftEoOa3pg0JpuE4nlwPYP1Xv5a/od87FFPKq2Dbqw92Vy7whmw9KTbg0bpKr/jMgCCL1T+5xk6N0Yqd/3pU+myPdsATONFBDQjdCdPmt1ezJM8b71Shev6LnXZuPy0Y2vZ+I4eXwNjJDXnyibrwWtjjChoaroLtHChVHeocEr6Tw3ngFWGGZ6tPzwMebefiMkyr16J0y5tm9DZhfWZoC7EKDDiHPHic3+j8XPbpMMe6Uc6sqbUWWubDEkVBVhnbyORY8mGa2NrGPA==;gYLRxIqdgWCYuM7POk/TkQ=="
 ---

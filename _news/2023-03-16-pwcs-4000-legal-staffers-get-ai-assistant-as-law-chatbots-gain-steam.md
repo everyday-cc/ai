@@ -38,8 +38,8 @@ related:
         isCached: true
   - title: "China’s AI Chatbots Clam Up When Asked About Xi Jinping’s Leadership"
     excerpt: "For companies trying to ride the ChatGPT wave, there is an added layer of headaches if their chatbots are in China: how to weed out any talk of politics."
-    publishedDateTime: 2023-03-16T01:52:00Z
-    webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea"
+    publishedDateTime: 2023-03-16T10:35:00Z
+    webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea?mod=hp_lista_pos3"
     type: article
     provider:
       name: Wall Street Journal

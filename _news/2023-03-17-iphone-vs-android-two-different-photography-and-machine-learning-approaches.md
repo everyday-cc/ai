@@ -5,7 +5,12 @@ excerpt: "To be clear: Apple is using machine learning models — or \"AI, Artif
 publishedDateTime: 2023-03-16T18:58:00Z
 originalUrl: "https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches"
 webUrl: "https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches"
+ampWebUrl: "https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches/amp/"
+cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches/amp/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: AppleInsider
@@ -14,7 +19,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
-secured: "8g8wJZU9/ZjzSrll/GqDz/OoSHkTX7GYfuZgPaCw0YDu1VMkGXNkW13mRVI+fNgmM5/iw/TZ4JZ8/I30lcnIC4Ou2GnoJw04e2Lpy6fBYTKe2Xy7h6sw6q0aJCQR7lOuQk+oU3HdiDkvho/sAXVxsI4/zAB3Od3uo8//6U13CbvGZl61GVnEiSWQ1YvgWe+e7ejfPmELUyGVHPZ4xQ7iyIT6EbK+RfYCqJyJ5bila4Qt2sW9+AhVslvvSPNd5Rxn/ALD0Ydyz2ujJB7jQcxlzZRIPiNXGgGQ4/Zs6btCa8YKG7jTl38DV/wOcP+BnWnge96g+ybl0ylrnQG5aNkGOZ4moI/fZpggV8pSG2g28Y2GYjwvWUz6EPg7+Dxx7CfcnsG0VdcjRoAWoJfNpJpk0u7C7zpcensOgeuQhRXF1QmkJ+nfXHbtLCP0A9vQWrarSPWOtG74NSIAz22f+XD0M5QJs1DJNF0qlVcsiTQSsqEapEi5jdnw/PbpqYxaxYQz4kr91FDVokHMC9rNO2b3dA==;7wJ0uk4qFHIgHDBL9jPvrQ=="
+images:
+  - url: "https://photos5.appleinsider.com/gallery/53478-107400-iPhone-14-Pro-Max-desk-xl.jpg"
+    width: 1312
+    height: 738
+    isCached: true
+
+secured: "AMoBlBeJfzrGRpOxLJo1E65DUbtHzFKdbboTfv+VJ5GRozJAc6ci1Z9RDPDzRgzjqNCgKLyt2rWbEuHwiBKntBYwO2rw0nAww98Kt3BWtet0cRoCasa6MAoiI6wtr5jpUF2frys/o6uY3uqagxXFamygaIn5TQV3X4j0d/Dj8w33Imei6f6rHzY4vq0ZwmjMkgzXJnueuOLEDnuRAS+TPAm3M+pEb3Er0odq86DwzpRlIFpJo5TILU40Uk+UdFaG7xvcoOaBUZI2hKEzfM87WlYOWrJjpEf6OOTMIjmiBfD2yYnrV2yoRViHYp8KWhJYX3mOT9wSknLk2fLpEr3Do+qw1/GLn4jSKxZe95CCzVU=;oIh9v/SwZe0zbCSId8c/iA=="
 ---
 

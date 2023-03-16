@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how facial recognition is changing travel through Bay Area airports"
-    excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition-1.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
   - title: "Concertgoers react to facial recognition software at Madison Square Garden"
     excerpt: "On their way in, they passed a protest banner, alerting them to MSG Entertainment’s ongoing use of facial recognition technology inside the facility. Not surprisingly, opinions were mixed. “Do I have a problem with that? Not really. One one hand ..."
     publishedDateTime: 2023-03-16T03:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-theche
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google Shares Health AI, Large Language Model Research Updates"
+    excerpt: "Google announced research updates on its medical large language model and recent partnerships to apply artificial intelligence to cancer, tuberculosis, and maternal health."
+    publishedDateTime: 2023-03-16T13:35:00Z
+    webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
   - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
     excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."
     publishedDateTime: 2023-03-15T18:00:00Z

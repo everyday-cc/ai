@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T19:18:00Z
 originalUrl: "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html"
 webUrl: "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html"
 type: article
+quality: 81
+heat: 81
+published: true
 
 provider:
   name: TechSpot
@@ -19,6 +22,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "lRB1DhgkEtX8PhtwG+vqz8vPozuxQFzFpSZ8iLXKZ4fer8z0xdE8mSurvunrls/AGyzY8uoDkVs9frYhRga+PnZw5DpgdtdIJqb/ZAX6a5iEza7+N6MUIivFOQWtQqjoBfpxDBUDS5vLThgZyTzS0szY4JyiaWXtQcWDbz73HxgBtDVBiVOuIEiaSsxT7GN2KEIb5WUscMyea66l7nGqa3DFWgyjGs0IMVZ9pIOLI/jaaNneknskxzUuPPX6U5suvAbNsSQa3QdvLPxMDNaJ6LbdWHqMzIvPyqHaTZjLGM/WIjtJaO9aoChv7jOKFyiCtSd0mIKIQib0jChfBiVppjd/BvExfMaAk+yjrOnwrSo=;d29XUknQs5c8aLx+K+xa2Q=="
+images:
+  - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-16-image-19.jpg"
+    width: 2000
+    height: 1010
+    isCached: true
+
+secured: "Y3uMoqtYLma48pSIIycG6jvaa5LNp2U+MdBY4WiNZTrGftO6PTbfCAAgCxW70xWCgF+ASpvLLvzbXo+l7CKtftiPgDJYMLgCloPQ8C5JWYnh38y4u2F3DOouGe26CmBX+i8ovUgjkSvuLPUJ1OtDfVelNN9mqjbXDRJqVbeevyclpl3NmF6ko7OmmO3UEgV3Sc6yzd9PplpAHQcWLwUKeSQX5D7yZrRyTPcj3P4tSbzNZEkR0V7c8PyK/k5vu8/CwMzZZXeNN/W4VtFFbFVX7Q0+buFmpN0+kiO8xx4RgutfAvfjaSn3CBTTFHIoAPkNjcmie2gPdARO6ChzTOogWZOee345lN5BxlFhy5H+jhc=;H42SZA4raDfNh3h1fxWm+A=="
 ---
 

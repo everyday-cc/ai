@@ -88,7 +88,7 @@ related:
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
         width: 3600
@@ -234,6 +234,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 47
+  - title: "Can ChatGPT Get Bored?"
+    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
+    publishedDateTime: 2023-03-16T20:35:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "du showcases Generative AI like ChatGPT capabilities at an exclusive governmental entities padel tournament"
     excerpt: "Emirates Integrated Telecommunications Company (EITC), has successfully concluded its participation at an exclusive padel tournament organised"
     publishedDateTime: 2023-03-12T08:25:00Z
@@ -305,6 +321,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
         width: 1440
         height: 915
+        isCached: true
+  - title: "General Motors Wants To Use ChatGPT Artificial Intelligence In Its Vehicles"
+    excerpt: "Is this the next big thing in vehicle technology? General Motors is exploring the feasibility of introducing ChatGPT, an artificial intelligence chatbot, into its vehicles, reports Semafor."
+    publishedDateTime: 2023-03-13T21:53:00Z
+    webUrl: "https://carbuzz.com/news/general-motors-wants-to-use-chatgpt-artificial-intelligence-in-its-vehicles"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 37
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1117000/400/1117485.jpg"
+        width: 1600
+        height: 1066
         isCached: true
   - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
     excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."

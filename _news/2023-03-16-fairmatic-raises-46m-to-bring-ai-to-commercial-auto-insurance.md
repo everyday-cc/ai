@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -41,11 +41,25 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
         width: 1200
         height: 804
+        isCached: true
+  - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
+    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
+    publishedDateTime: 2023-03-16T16:08:00Z
+    webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/castai.png"
+        width: 1197
+        height: 673
         isCached: true
 
 secured: "uJmgXg8/v8z3WOAUwltS7vQgIHZL2PXx/ZVVR6oLJWOhs7M2NYaeeU1FQZ2g2g74TipOSgONvDjkD17jUgxPh0NLbKx8Iohe6Q8Oi5zxseQMhBWM0U23jT8D1F8Ceo8zwfcCpTJMX6zZ8v5p0wAQ+2QFvtEA1cJzpeNIo+4M4U2MOc7WI6ioXBgP9ueVDBSPbfOX2HDX5tdEZfGLwtfsd8tb1AELjrLas6UuXWr6pC363tnN307DVI2jg/p7R+tE2Qx00WgHafXbmsMNSVMdmQtwleMiqeXM8ltI1n4z3i/HikPuDsKvy4BSkigbH3nv1gzhfjWFQb3+AVbwvyh8H//0zJaQM6gqaDsQfiQYaiSQvBNXxFValpHhPRodRbnLqFKl5OJQ9JW+1+yTUPlsly3BPdlWsNAvIwTeo8zcCPStun+BJ2P1TRaNKGDTJCpPeS+3OqR0M8ih0vMGG/XTSaH1URwbfqA8D0O64U5CdAaDKllIQmemX96R3PrwCgCNGtg/6rn+dbHnZxqhLJKgxw==;FtyVmscN/uTrr74SJKA8kA=="

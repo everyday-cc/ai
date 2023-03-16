@@ -9,7 +9,7 @@ ampWebUrl: "https://pix11.com/news/local-news/concertgoers-react-to-facial-recog
 cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's how facial recognition is changing travel through Bay Area airports"
-    excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition-1.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
   - title: "MSG concertgoers react to facial recognition software"
     excerpt: "MSG initially came under scrutiny a few months ago for using facial recognition technology to turn away an attorney who had a paid ticket. MSG Entertainment is still committed to its use. When scaffolding goes up in New York City, it often doesn't come ..."
     publishedDateTime: 2023-03-16T03:00:00Z

@@ -228,20 +228,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
-    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
-    publishedDateTime: 2023-03-12T03:47:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
     excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
     publishedDateTime: 2023-03-14T19:16:00Z

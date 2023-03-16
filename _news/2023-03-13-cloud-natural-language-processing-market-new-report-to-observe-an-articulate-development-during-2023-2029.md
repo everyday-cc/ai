@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
+    publishedDateTime: 2023-03-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AbzAW8DVOI6LT4qbM9kaQ4WpjZusp9QtNIpsjo4fXwOy2srwhkGJKgIhXwct1t/3rtNUxQ2DdupcuMA2LUG95NTTo0MfugcAOA6pwWYNnXZPApk4Fo+eS2JQtbXWNpJ3hw8CeZJJhwqlVIXvL56EEgjpNRbm5tg7EYTub6xb0GPVUyuVru1Lyi1zxJyTMRdBuHmkXtntiq5JDiXf7WeL7R3sTaB6cpQixzvdKfCa3X7yG0zIPjGnP62GjngGgLQ/a5BnGTPPb7Dzf9gz3HIxqfrMCJkz2zIuLs4/wZUOGUtSfrrmmAz1y43G31ieruJ7wVT39esUWicvbX/37bYKKsvKUtSbudyaTY2lMk/h7BU=;4fBgKILObCDb1Nm8bv+wlw=="
 ---

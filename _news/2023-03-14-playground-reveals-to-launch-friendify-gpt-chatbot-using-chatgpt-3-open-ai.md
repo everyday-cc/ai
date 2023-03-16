@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
+    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
+    publishedDateTime: 2023-03-14T03:19:00Z
+    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
     excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
     publishedDateTime: 2023-03-15T07:41:00Z
@@ -88,22 +104,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
-    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
-    publishedDateTime: 2023-03-14T03:19:00Z
-    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
-        width: 3600
-        height: 2400
         isCached: true
   - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
     excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
@@ -245,6 +245,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 47
+  - title: "Can ChatGPT Get Bored?"
+    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
+    publishedDateTime: 2023-03-16T20:35:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "du showcases Generative AI like ChatGPT capabilities at an exclusive governmental entities padel tournament"
     excerpt: "Emirates Integrated Telecommunications Company (EITC), has successfully concluded its participation at an exclusive padel tournament organised"
     publishedDateTime: 2023-03-12T08:25:00Z
@@ -316,6 +332,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
         width: 1440
         height: 915
+        isCached: true
+  - title: "General Motors Wants To Use ChatGPT Artificial Intelligence In Its Vehicles"
+    excerpt: "Is this the next big thing in vehicle technology? General Motors is exploring the feasibility of introducing ChatGPT, an artificial intelligence chatbot, into its vehicles, reports Semafor."
+    publishedDateTime: 2023-03-13T21:53:00Z
+    webUrl: "https://carbuzz.com/news/general-motors-wants-to-use-chatgpt-artificial-intelligence-in-its-vehicles"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 37
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1117000/400/1117485.jpg"
+        width: 1600
+        height: 1066
         isCached: true
   - title: "ChatGPT gets more ‘human’ as AI wave continues"
     excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"

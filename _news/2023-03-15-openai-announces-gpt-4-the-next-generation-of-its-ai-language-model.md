@@ -233,20 +233,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
-    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
-    publishedDateTime: 2023-03-12T03:47:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
     excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
     publishedDateTime: 2023-03-13T17:01:00Z

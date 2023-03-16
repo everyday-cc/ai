@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 84
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
-    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
-    publishedDateTime: 2023-03-16T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/castai.png"
-        width: 1197
-        height: 673
         isCached: true
   - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
     excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."

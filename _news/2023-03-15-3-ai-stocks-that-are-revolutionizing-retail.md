@@ -39,6 +39,22 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Generative AI output could be eligible for copyright protection. But there’s a catch."
+    excerpt: "According to a new policy statement from the U.S. Copyright Office, generative AI could be eligible for copyright protection. But, there’s a catch: Proof of human authorship (a prerequisite reaffirmed by the Copyright Office a year ago) is still required,"
+    publishedDateTime: 2023-03-16T20:37:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-26.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "How AI could write our laws"
     excerpt: "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits."
     publishedDateTime: 2023-03-14T09:00:00Z
