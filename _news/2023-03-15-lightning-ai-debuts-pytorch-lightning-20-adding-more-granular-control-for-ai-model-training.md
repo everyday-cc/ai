@@ -50,7 +50,12 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/pytorch_2.png"
+        width: 968
+        height: 556
+        isCached: true
   - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
     excerpt: "PyTorch Lightning Creator Launches Update of the Popular AI Framework with 45+ Million Downloads to Date; PyTorch Lightning 2.0 Offers the ML/AI Community Rich Features and an Imp"
     publishedDateTime: 2023-03-15T21:13:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
+    publishedDateTime: 2023-03-15T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
     excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
     publishedDateTime: 2023-03-13T04:02:00Z
@@ -73,8 +87,8 @@ related:
         isCached: true
   - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
-    publishedDateTime: 2023-03-15T21:21:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/15/9777780.htm"
+    publishedDateTime: 2023-03-15T20:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
     type: article
     provider:
       name: TMCnet

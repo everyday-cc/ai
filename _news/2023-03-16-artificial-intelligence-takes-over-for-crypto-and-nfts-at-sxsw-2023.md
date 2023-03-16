@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Artificial Intelligence takes over for crypto and NFTs at SXSW 2023"
-excerpt: "Last year at SXSW, attendees couldn't walk 10 feet without someone handing them a QR code leading to an NFT happening. The blockchain and web3 were in the ether last year, which was a few months before bitcoin crashed, FTX turned out to be a scam, and ..."
-publishedDateTime: 2023-03-15T17:08:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
-webUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+excerpt: "But even before then, it appeared that SXSW 2023 would turn away from the crypto space in a big way, as the cash flowed elsewhere in the tech realm. As always, follow the money. It should surprise exactly no one,"
+publishedDateTime: 2023-03-15T20:57:00Z
+originalUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+webUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -34,6 +34,6 @@ related:
       domain: nasdaq.com
     quality: 47
 
-secured: "zrxSo2DTVfkYoYnkamCR3rHm4Wy+qxAdpIh8F+sK8GvE86YSmTkkLL19WOazG/p0GDpp3mj6abJat1sAlcli8FxAD11RhqeWmg83DPcdEmLGMDZt2pk3rR1bef72uaALaRUxn6fYliyXNb9JVoXIaM9agMphIQlWITsm+BecNqEbmn1yO9W1KkIcjZmhcTfVkvRrIV7o40tTlpckHiU4S04ruYKGV3hMFhjOggRdMbDQUSoMsW4TCrCIcar93VO/qu69vKmt74AolMtQCaFeIOs7e2cOmBXaljcwXc4Hi68GGMWV5GmTUFGtS69wxX00X5eQyjVgqv1m0MIRt1fArpZQnQCCIcs0Ql0d92y6Wog=;fKhdJuTqCeLD4FkKPsFHOQ=="
+secured: "riqVhOcvO4rzMvU3RagzSqq+elxdjdNKzxoZAlecz013SDNwwsxHcGvTf0ORr74wpPvj4dG1ZzdRHX73n3CEEZLulL643Lf10Sl8UrzDPZr6N08B0WWDNa0sUES9Ze9cD2VpJbFQp1SJnUTKjBaVROqXNdlcBm7f0pXLOFRpo5Kyrc9dKbu7GUnaWpdIAq9Sm4R27IEvziC77uNxRQT2WO/uOGJHkAF4XgakYT1XbeyqDZMhvku+CDuNahql9WBv7BzhZlwrXnYB6SNv3djv+fKWRcKANQxbwz3StmQkKT46bwcIx/LJ1kgwky9B1tCgU6illuw6o/JyES9++uhBXWTvygaAscTgKFIpW9q7p6o=;6NuV6kBOEhz1xT6SHPFSCw=="
 ---
 

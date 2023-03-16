@@ -2,9 +2,9 @@
 category: news
 title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
-publishedDateTime: 2023-03-15T21:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/15/9777780.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/15/9777780.htm"
+publishedDateTime: 2023-03-15T20:09:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
 type: article
 quality: 0
 heat: -1
@@ -23,6 +23,20 @@ related:
     excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
     publishedDateTime: 2023-03-14T08:04:00Z
     webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
+    publishedDateTime: 2023-03-15T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch
@@ -76,6 +90,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3BzGbOoTVl7Vwo4ssx3eqlC/5eypkPuXNhNyrXt+YYKwdnhHR7+tK8pEj6LVVx3ADW5rhRcOHvqyPb6Fas37kuvaNC0ALy02gpce9X2bOfXTcuyTeInmcNw8u9sOhYHzDtBWdaqxOPmTHlP/J5b7oWJnBFiIaiU8akSB8+RtSe4LwN2riPJqwPtgVkdmbyJGcGza6aFMLqN8qrbR1OBbGYvboPy/qgJLOjSxC61XkPvOHGQ07RMg8D1dhWTEMPLjV92x1sI/pGiRXGjRiCDK2H5XeuPCs7A6rPewFJ/5bNyyBpDmQYb/vkaJHmBicRgfmY57GT1qELk+FT62FjDg5ZiVFmZxPkyw+NnUy/H3uJZolstkbw3Np+lFWZSKE3xAiUbMI6BCLpVA6AL+0VaTpvdU0y4SBvWqLqgiGEutmqQW22QckfIbVGhd/iuWrEc3Z1lMAWsf6WZKU4uR9h/FUe4yvg5U/6H2L2CHilFD20vwLTzHNFyaknSY0bw00fDlEVQhZ5elqdO2Y2Qn6OJi4Q==;9byHw8qmhFMgg6WULJaJdA=="
+secured: "VYTsyHXcuacUhGRDf+yr/vd2wEBQ6tvcBolBMfZEUq7v2x+GBd0XV3l2Ez4dIZ/NR7O9YmIyTIxlaMt3yh+k27LDzkdTkEq9Q08e5gtxxpnec3je5rIJNXUi/BCcdHg+I9De+2xZVGeXls5uMqKCERHRQXISTwEkHO0DULfii4VtG64zeNJJWEnOG0gmH+iXS9F2OKfMqD/QtelS4JGOAJexbK3Sh1DQ31wTmzVdt52a2f9UDHlTiZ9cQaA2tDJGjSM05WjGNNZMK/6bRG7iDFwwNv5L1q32NxVWgLacrdWD3xVn1wD49K6lBQPd7jT9j00ImREqm6pOhXovIdIctA7hQEo92AU9OpvMAqg2yT2hCWTMI+tuQ1tXMEXgN9AR7Z39KLzVUteMuRbUvNSIqVBc7zs+SmZUkjHZ3l0WBdkFKH8s+EBmwIjauS7pEtHHLTMCmUpijVvu8+uZf6hzlQ1xZzO7ZDmBviSWQYaAsUsUQtuWqQ9/CZ/TCJ6J9t3qR2in63VPo60LoR/8OaPXBw==;bJnWXq4Sqw/2VqD04n6m1A=="
 ---
 

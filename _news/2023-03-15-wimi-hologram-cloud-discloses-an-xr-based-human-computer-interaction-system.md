@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "WiMi Hologram Cloud Discloses An XR-Based Human-Computer Interaction System"
+    excerpt: "WiMi's XR-based human-computer interaction system combines artificial intelligence and human-computer interaction. The system combines natural language processing, artificial intelligence, and machine learning technologies to enable machines to understand and respond to any command in a human and engaging,"
+    publishedDateTime: 2023-03-15T23:21:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/15/9777366.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
   - title: "WiMi Creates Digital Image Processing Software Based on Visual saliency and Channel Attention Mechanism"
     excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology"
     publishedDateTime: 2023-03-13T12:01:00Z

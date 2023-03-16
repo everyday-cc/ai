@@ -28,6 +28,15 @@ related:
       name: The Future of Autonomy
       domain: insideunmannedsystems.com
     quality: 0
+  - title: "Topcon Positioning Group: Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
+    excerpt: "This expansion gives owners of skid steers, compact track loaders (CTL) and mini excavators the broadest offering of machine control ... mind,\" said Murray Lodge, executive vice president and general manager, Topcon. \"Working with a prism pole and our 3D ..."
+    publishedDateTime: 2023-03-15T22:00:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58567594-topcon-positioning-group-topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "2Kyis6i3cZreNReaBCWw2DS/tYolSeMZcFrYSM+aqZt/O01fCeq5K49zj+dwFKe4P4jy3G8B4dXca5+Q8fl90LVxvzJuXpse4m/0FtJb/G3F7SnXvP0u0+KPTFy4yXiwIXVOC1zuDN13WpSBqPpeN6mIX/ZGnW93MRI1QzANKGaRf0SS5xKx0eWWDwy8erTVDJQ96vKvDqmIaiZqFvTpTrQ3GzAqxNo43iW2olnI7OgS19jLWVW0cHpoaKKNZCN8Ueg4onfCH7sQSLer1Bi9ttYm3/G7RrzLG7p4IhKUdj1Wui8O5YEpSd+gSeTw7MXdPpyVgWRlpj4vhfX2UAf9ruamVIK6KKKnDmgwGzf36Fs=;ixm5Rq6F56Nnlh5jMzCyNQ=="
 ---

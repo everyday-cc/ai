@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-sourc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 137
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "New PyTorch 2.0 Compiler Promises Big Speedup for AI Developers"
+    excerpt: "PyTorch is a popular machine learning library developed by Facebook’s AI Research lab (FAIR) and released to open source in 2016. The Python-based library, which was developed atop the Torch scientific computing framework, is used to build and train ..."
+    publishedDateTime: 2023-03-15T18:52:00Z
+    webUrl: "https://www.datanami.com/2023/03/15/new-pytorch-2-0-compiler-promises-big-speedup-for-ai-developers/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/pytorch_2.png"
+        width: 968
+        height: 556
+        isCached: true
   - title: "Lightning AI debuts PyTorch Lightning 2.0, adding more granular control for AI model training"
     excerpt: "Another benefit of PyTorch Lightning is that it reduces the amount of custom code developers must write to use multiple types of chips, such as graphics processing units and central processing units, in their ML training projects. Lightning AI sells a ..."
     publishedDateTime: 2023-03-15T13:31:00Z
@@ -46,15 +60,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "New PyTorch 2.0 Compiler Promises Big Speedup for AI Developers"
-    excerpt: "PyTorch is a popular machine learning library developed by Facebook’s AI Research lab (FAIR) and released to open source in 2016. The Python-based library, which was developed atop the Torch scientific computing framework, is used to build and train ..."
-    publishedDateTime: 2023-03-15T18:52:00Z
-    webUrl: "https://www.datanami.com/2023/03/15/new-pytorch-2-0-compiler-promises-big-speedup-for-ai-developers/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
     excerpt: "PyTorch Lightning Creator Launches Update of the Popular AI Framework with 45+ Million Downloads to Date; PyTorch Lightning 2.0 Offers the ML/AI Community Rich Features and an Imp"
     publishedDateTime: 2023-03-15T21:13:00Z
@@ -65,6 +70,6 @@ related:
       domain: tmcnet.com
     quality: 24
 
-secured: "UVFFRubjtQxw5NqDagAKxq+Y/cgmsK7trDqMmO7OE184TyEhd/R8wG+lWVa5cCrJJV7iyu3byiKP2LiZuEfD8fvgkIxsANL44cr3LdQgAd+7go5TXDc5AoOE+pnkyy72mb2ml1Awm6UHBlhxPoVBcGPWFAUCLWgZrl58VI8TiEIsOJXpKlvwWSS8QqcbgGO7NBGFEYl1jYutkAt4PujXVzFPxwJBUe7v5X/GItJhc+YmlpKy4ne/Dv4nKaKlTlMzs8A6NrF5+2HCZNRny8/r/QktWIRwZkR8MlCjH4MgCrHD/IzdHcHYwBeZr96Z+MQlnnnSq5UFTelYGyb5gRVCkuGJ3arbZg3rJEGigw+LB2Y=;on1YQz+snQWR8YHUx8cNAw=="
+secured: "xK1ccHGVtGd6u7MtGXcNLm84lKxqRdD4pGNKkmKllccv2uIhKepoZygVP45vZz2dm4bFupWoTOsOirD8pDdUWToPOJzmJCR7nS2DRILbeaUQOO7BfUgW6rRQqL5wqpJOievHm4u+sO05h28LIRfxYQ/iJSowpGn+wwyDFQ5nzOSfX7ArLpjEsic5p8ufoAPFPSWN+a1AcdTBVQQr3q/Xyf2bG5IhX2Nto8PW6+lP7rikEIfoz8RwLF4h+BrYOAjLoTn5h5uWT5E8QcNw2gtVoi1UrUfhtCXti5buwzD4JurKo/4JbaYyOQcz8kzETvjOHhHmrzX4VgSyUbr9ZiYBLpEDNYjsYsImCDBHk5nEf0Cn4DrfmjDuYmOEeC2zSHW7/UNX/cA7PIGaElxRIlpUvhQ83/Er1R8uNqOHNwrjexfONFxwyyiqEV1TNvG4yIiYtprPZR4ikJ0TF0g699CWpmYiKJy0WQE1u83HAkYezDskeifUDgwuFr4dIt1RhBJA+RxKUcxVyqbjXaiGbhNbvQ==;vBLB/AG1nGJHl/x9/RcZSw=="
 ---
 

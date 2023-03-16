@@ -29,8 +29,8 @@ images:
 related:
   - title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
     excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
-    publishedDateTime: 2023-03-13T21:39:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
+    publishedDateTime: 2023-03-14T03:12:00Z
+    webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch

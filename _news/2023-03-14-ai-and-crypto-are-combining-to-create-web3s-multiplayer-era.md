@@ -19,13 +19,13 @@ topics:
 
 related:
   - title: "Artificial Intelligence takes over for crypto and NFTs at SXSW 2023"
-    excerpt: "Last year at SXSW, attendees couldn't walk 10 feet without someone handing them a QR code leading to an NFT happening. The blockchain and web3 were in the ether last year, which was a few months before bitcoin crashed, FTX turned out to be a scam, and ..."
-    publishedDateTime: 2023-03-15T17:08:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+    excerpt: "But even before then, it appeared that SXSW 2023 would turn away from the crypto space in a big way, as the cash flowed elsewhere in the tech realm. As always, follow the money. It should surprise exactly no one,"
+    publishedDateTime: 2023-03-15T20:57:00Z
+    webUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 37
     images:
       - url: "https://s.hdnux.com/photos/01/31/72/23/23569622/3/rawImage.jpg"

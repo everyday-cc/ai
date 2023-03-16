@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "New PyTorch 2.0 Compiler Promises Big Speedup for AI Developers"
+    excerpt: "PyTorch is a popular machine learning library developed by Facebook’s AI Research lab (FAIR) and released to open source in 2016. The Python-based library, which was developed atop the Torch scientific computing framework, is used to build and train ..."
+    publishedDateTime: 2023-03-15T18:52:00Z
+    webUrl: "https://www.datanami.com/2023/03/15/new-pytorch-2-0-compiler-promises-big-speedup-for-ai-developers/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/pytorch_2.png"
+        width: 968
+        height: 556
+        isCached: true
   - title: "Lightning AI debuts PyTorch Lightning 2.0, adding more granular control for AI model training"
     excerpt: "Another benefit of PyTorch Lightning is that it reduces the amount of custom code developers must write to use multiple types of chips, such as graphics processing units and central processing units, in their ML training projects. Lightning AI sells a ..."
     publishedDateTime: 2023-03-15T13:31:00Z
@@ -50,15 +64,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "New PyTorch 2.0 Compiler Promises Big Speedup for AI Developers"
-    excerpt: "PyTorch is a popular machine learning library developed by Facebook’s AI Research lab (FAIR) and released to open source in 2016. The Python-based library, which was developed atop the Torch scientific computing framework, is used to build and train ..."
-    publishedDateTime: 2023-03-15T18:52:00Z
-    webUrl: "https://www.datanami.com/2023/03/15/new-pytorch-2-0-compiler-promises-big-speedup-for-ai-developers/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
 
 secured: "YMTer7KcmUrwc6p1e8/gfqubtFHRTX571AwNKMu4bHAhhDFTsEjIs1HjdYq1GjS9k3+rSKFpXF/qOTSfAa29TRmA81d/4Op7ixQTiOgzrA95eAf+f0/8kwo8XP1KC2ajlPbgwtLx8AUgEOOGbHHtSRZHpLPkZcYOU//ryyrccAxpflYZqbAdiqKKd9mIWzPG8izSpAsG1tUxT4xatl7uo+AHaiSRbDH0v1WhxKwkOjmbkntZFWavkXqTENBtN+fvxKdQQ1mxh81scIWntLNAdTgkrC/RcdGzDZxg0xFtzA/RlVRk2ygcMI5c8VzMZ29yDDre7tjsM00E2riX+GiEZS9JPqPzgULjucwcyehOBoQ=;3u28caPE26Vt9UYvnhpRXw=="
 ---

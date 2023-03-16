@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scala
 webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 664
+        isCached: true
+  - title: "TI unlocks scalable edge AI performance in smart camera applications with new vision processor family"
+    excerpt: "To build on innovations that advance intelligence at the edge, Texas Instruments (TI) (Nasdaq: TXN) today introduced a new family of six Arm® Cortex®-based vision processors that allow designers to add more vision and artificial intelligence (AI) processing at a lower cost,"
+    publishedDateTime: 2023-03-15T22:19:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/15/9777526.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/2032100/edge_ai_am6xa_platform_pr_graphic.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
     excerpt: "No other startup can do all of this and match Andi's high accuracy ... Andi solved this by pioneering conversational search, the first smart search assistant using generative AI to find the right answers and give you clear summaries of the best results ..."

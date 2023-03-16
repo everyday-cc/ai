@@ -7,7 +7,7 @@ originalUrl: "https://www.valdostadailytimes.com/ap/business/nanite-inc-receives
 webUrl: "https://www.valdostadailytimes.com/ap/business/nanite-inc-receives-up-to-2m-investment-from-cf-foundation-to-explore-a-novel-method/article_ea74d77e-7341-5a53-82cc-ad68cf3c4aff.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Nanite receives funding to deliver genetic therapies to the lungs"
+    excerpt: "Nanite has announced an investment from the Cystic Fibrosis Foundation of up to $2M to develop gene delivery technologies for the lung."
+    publishedDateTime: 2023-03-15T18:00:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/nanite-funding-genetic-therapies-lungs/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 24
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/03/shutterstock-1717330288.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "bfst2yKeUTGADwPeAOamlgX7CZFbycKmL5zjMZtetgQXZ72Of9jKnEHwRuTpuwwvOHWat+conqotoN+zPLjzPKllbIJnnMkJ49QlSUJMZd7qwwpt89bwmVQKBRQNtgBZYAUNlmVK039OoAvxRSaFWy/p7pNgcfDFDzeX3foiOJxhLYGnn2r9lZ04FDHxTGjdNXvnggQGmbZccgBMPysWwaYbg0YWrpmCLc+qc6NbEWWmW+D+gb2ZkI5XMtYjk+ZVsfWW82RCpglxdzICzgx/ySmiJGaAZYKdahF3PmT8C3mZybTKPIXwLPfZkyBfADm7D+rVxVBrfT9GDkXEBY5L7PCvb+PcjSIseUeb5iff60w=;rwTdfCktCGMuREpRgKU8NQ=="
 ---

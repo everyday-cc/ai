@@ -189,6 +189,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GPT-4 Is Here: What Can ChatGPT Maker's New AI Model Do?"
+    excerpt: "The new system can figure out tax deductions and answer questions like a Shakespearean pirate but is “still not fully reliable,\" OpenAI said."
+    publishedDateTime: 2023-03-15T22:02:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 57
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
+    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
+    publishedDateTime: 2023-03-15T23:14:00Z
+    webUrl: "https://www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/03/15/breaking-news/what-can-chatgpt-makers-new-ai-model-gpt-4-do/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/03/web1_13585874-dce2c362e6584bc6b1736ddc293bfbc7.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
     excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
     publishedDateTime: 2023-03-15T18:28:00Z
@@ -313,20 +345,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "What can ChatGPT maker's new AI model GPT-4 do?"
-    excerpt: "- Text from the ChatGPT page of the OpenAI website is shown in this photo, in New York, Feb. 2, 2023. The company behind the ChatGPT chatbot has on Wednesday, March 15 rolled"
-    publishedDateTime: 2023-03-15T20:37:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/what-can-chatgpt-maker-s-new-ai-model-gpt-4-do-17840908.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/72/71/23572080/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "GPT-4 unveiled: OpenAI’s latest language model takes creative leap"
     excerpt: "OpenAI made their latest language model, GPT-4, available to Plus subscribers on Wednesday. Here's what it could be used for."
     publishedDateTime: 2023-03-15T12:31:00Z

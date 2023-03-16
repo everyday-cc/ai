@@ -197,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size Report Analysis, 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Artificial intelligence (AI) in Supply Chain and Logistics Marketinformation for each competitor includes (, SAP, Microsoft Corporation, IBM ..."
+    publishedDateTime: 2023-03-15T23:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-report-analysis-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
     excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
     publishedDateTime: 2023-03-12T17:44:00Z
@@ -388,6 +402,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Industrial Market Assessment Report by 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Industrial Market\" Report New Research Report 2023 gives A detailed market analysis on business plan ..."
+    publishedDateTime: 2023-03-15T22:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-industrial-market-assessment-report-by-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market : Detailed Analysis of Industry, Attractive Valuation and Growth Forecast Up to 2029"
     excerpt: "The \"Artificial Neural Networks Market\" study describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-14T00:51:00Z
@@ -550,6 +578,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Global “Artificial Intelligence (AI) in BFSI Market” [Latest Research Report] 2023 provides a comprehensive analysis of the industry ..."
     publishedDateTime: 2023-03-15T13:32:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-forecast-and-growth-trends-by-2023-2027-research-report-by-market-research-guru-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision System Market expected to rise at a considerable rate during the forecast period 2023 To 2028"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision System Market” Size 2023 Key players Profiled in the ..."
+    publishedDateTime: 2023-03-15T23:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-expected-to-rise-at-a-considerable-rate-during-the-forecast-period-2023-to-2028-2023-03-15"
     type: article
     provider:
       name: MarketWatch

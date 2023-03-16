@@ -3,21 +3,20 @@ category: news
 title: "How Artificial Intelligence Could Change Psychotherapy"
 excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;"
 publishedDateTime: 2023-03-15T14:51:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
-webUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -27,23 +26,23 @@ images:
     isCached: true
 
 related:
-  - title: "How AI could write our laws"
-    excerpt: "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits."
-    publishedDateTime: 2023-03-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
+  - title: "How AI Will Change Big Tech's Relationship with Journalism"
+    excerpt: "This problem has already been raised by Getty, whose copyright-protected images have been used by AI ... Research Center. \"The tactics were unpopular with the public and damaging to their brands, but the tough negotiating, particularly from Facebook ..."
+    publishedDateTime: 2023-03-15T23:54:00Z
+    webUrl: "https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.cnet.com/a/img/resize/c0f4e791fc7b29a5c886a88572adf428a1eb9498/hub/2023/03/15/e7218460-12c6-42ee-8dfd-1fc295edb72a/gettyimages-1232274134.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "jq1JHZAGdZ8yLP5qAjRROAe84sSf/gpbZB7EPgdvTqpYcdQqOzsu0xnmR5bYf33TfovUzT3GuuIEDLtdrKMymtrcEoDh4EXZ7BEHBf4mR5KDD4IzLHbQ2vLaR5Kippl6uydyc/vBOv6xo+25nfjaxzc1IMKSLabmprEO6elyrDuqq1owO/bnznwmMcNuhm/iMYVD0x3q88gTV5DJdlVAiXn8IpMEX/St39ILDCqHbRNRNXmlJC1K7eALFd0hQum1NOXygYOj5PwYJ5+Q1X3nmpmxUGGkXy0IhidwxOnH1mIrf1/vYnZTQsLks5acup5YiXD5b29n6M8DrUCs1skuQWh0Vc/NBwizh78kyh4ZOvU=;Ayi3AMpJI6Y0xbLdDXSv/A=="
+secured: "gurk0vO5BppHVoA+zgeQA/1GupmpBVqtHTdDi8Yhruzz99Zb02IzLz+qNStEy58hwvFp/u5CrdOzxjVKWHge2ICagJ7GGakR+35y613K8q+4nbhqO2zJVw3TIiriYg/20ODlHRW7DsxhEPborUFrKyzrP6lGrFn2vwC2apBlxhvhP/4rFyL3Dv6edY1fwLOKpfMpsYEI4LArlcrR9nEnoRQe/F5lrBS+aI8QMDd2la/EFQeP+aneOiN2Ld1oD2RgXO8b1AmcL5k+9Zi0qNFSYp8oXLMhFxOfEViM5sDzyvGGg/wyRNRwMVMdwjQfemBMgx9LB5vd+fsk6fSmgv1ZvSu9RXAWJZVCl5mrrMn/r3g=;OM7SlqYqasaKnRq2qkRxMQ=="
 ---
 

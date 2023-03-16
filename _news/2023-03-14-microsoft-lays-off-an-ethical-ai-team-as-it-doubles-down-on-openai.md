@@ -244,22 +244,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 79
-  - title: "Microsoft to launch ChatGPT 4 with AI videos"
-    excerpt: "but the GPT 4 will change the app to be the underlying large language model technology that powers it. At the recent “AI in Focus — Digital Kickoff” event, Microsoft explained that GPT-4 would be “multimodal\", which will allow AI to translate a ..."
-    publishedDateTime: 2023-03-11T07:02:00Z
-    webUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos"
-    ampWebUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 76
-    images:
-      - url: "https://i.tribune.com.pk/media/images/chatgpt-(1)1674717934-0/chatgpt-(1)1674717934-0.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "How Microsoft is helping companies adopt ChatGPT AI"
     excerpt: "Microsoft launched AI-powered Bing with ChatGPT integration last month and soon after opening the preview to some users in the waiting list, reports started pouring in, suggesting that the chatbot ..."
     publishedDateTime: 2023-03-11T13:13:00Z

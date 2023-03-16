@@ -28,6 +28,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 0
+  - title: "Topcon Positioning Group: Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
+    excerpt: "This expansion gives owners of skid steers, compact track loaders (CTL) and mini excavators the broadest offering of machine control ... mind,\" said Murray Lodge, executive vice president and general manager, Topcon. \"Working with a prism pole and our 3D ..."
+    publishedDateTime: 2023-03-15T22:00:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58567594-topcon-positioning-group-topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "xTOl/4K3VOK4utP7DEWQFxUkiLUkPU2rZmT+Dr6CN+4iujA47zuryIwfy03u7BS1ZjLmYGKQrso34ZAuQeoGdfvvhtugSvLmGGB1D3rC5lzuvjDQj4hAsSoBxlgsnejD17a/JfZuiYxERNxRxjzXujH1Lj8xwVfWMOhxPCQunW2vb6TAqh0uOB7PKpOKrxkn9N9+UpD8MFLpdMgFwCjy/u4fbQkACxZa0TmTU+u9BID/Y9GykGvf0He5wjy8kHVHvhKSHJAP44yS4hpC8E0w7prhQ6+I5OsGugAD/SKAEdMlwi0p9OXmZg/pPIty5CUfjc6OK97rKzvH0CuL6Rt12LRf3iyiVxFAeHcgq5wwRRA=;p3ioY4QATAa02eYo5on7oA=="
 ---

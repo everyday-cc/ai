@@ -3,8 +3,8 @@ category: news
 title: "AI Food Startup NotCo Hires Activision’s Fernando Machado as CMO"
 excerpt: "Plant-based food maker plans to use partnerships with companies like Kraft Heinz and Shake Shack to break through into the U.S."
 publishedDateTime: 2023-03-13T09:00:00Z
-originalUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d"
-webUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d"
+originalUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d?mod=latest_headlines"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "534IGZaMM6kXW5vZqCd5Qf4osC2b2dhuW1w9woUbsjnVxq1RATONJjXKogQNbsRMxSge0SP48yKQ0C/alparoGh9GgZlMWpgLnHX9tJVEZJ99/KyrYyYfOHAe2uZT5jFONeuJVfU0EghIjw1MhiHwgGujDbU/uUmfQXUo1dYwdUAPj0WFltBWQyW2xxprxISYbsbGptgsn6eoc2vjd8ZFS6UdiiX/xLaeuvfDQ2meLCQhbtxyF/x01yF09HvbXEYhgcYCFvV+VBwDq5YkEFREPn5M7oKA434vyBX15QlsCmrNQWPeVSsAVzEjh2CrO5FdSu6LPugYCRZtcsGryQo/Q1QSP2ZJPjGoPwbH1288Vg=;eZHgZcKChKTIxti7czBJgQ=="
+secured: "gpG+bFmuv4Dv5eGYZKWWuE0mLaGBoZVFzLlzb+orn9wc+U4O+MU0QWaPToQKNkWjyG0KfqrI7K/gXc9hBvzDwp0V6FGOaVyZ7PK/oR+1Eh775hv8StxtZFEQNVmMCtENXDwm48Al+zvUYTIEwAApHyUD48oLqJGT/1F/vWRpdlJSViPsatuN7C9WVgCjL5izBQZhpOthxqZu0BwEEVoAAZsTO6wfgoT1EX1e0gK+UqrBgPqUoNnZmDIxWJiq+QYl1kFcbxugvPvC40O0Bjau1x8Th/idNchuc6hSxsh2roPYaEfYjNpDXs0wkBTIGTRvkzNc4pEPYZDJRItxfH05W/Bq/8uu68DFBauYbAufMWQ=;o5ZDhCSXq+Iq7B2V8nEXfg=="
 ---
 
