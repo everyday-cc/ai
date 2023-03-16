@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
@@ -47,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "eKmtquSFNN88Lq7yCgMucTGMas01dGQtHLPBEp6c30EhO98wa2nYhnDYKe4MGCM63D/esfcPrvcDHjQG88jmkHHft45uflWQptu3mIk8Kvk/sJ5+xUleZDJFZlNWRGY5hG+D69q6F2IzFzhmnqalOKzpIGJyAWMgRmIZ68D6jfACRUOnHaIpmMwVxYsZ6yehRAqLwisn1vKGdZJ32okZjvnb44KQwcsiFR40GSnryiAKPImtzQ1aQcYDxwK11BOi87nrYcWGNakeLiljTzXkLelNwfyJ1FqEuPulVvV4O9A7GYvV6sTaDygIbKDGkUrkST7Yle9oq8qTlhPBNkr2TsaGBPQ9qYuXXh2cpXAQVqQ=;nep3PyHSnkcTHCqSJgCApw=="
+secured: "6XyVh4yT2Iz7MwjuHdqEER0Nqj5lXm563uVZKa7GXyfsa39LOGtqKox7QwEzwY5MfNnw/Xw5dmT31Z9GVe+N7EMtvK4jTbRQ44V9gJRgpCsvd/NA+jyerw3NSwPpBgqQzO88s11kVEgAhhWTcNCwQWaEnw8DYKIH6Srp01ATvf/hojTMx0ZCOl+pYaZJiiimmUkSb4fuisBe1vjXFcsmuPW4rxJeB8tpr6p9fmZG1R03nobF6UprgYewRuXAV5kf8sEIyxvq7kdYHm9Ht3hiMWrSNe+gY7i+l/nXhioUcf2o/Yw94L6xe3ye8UDqSfU30EwQ3McOBRCXjnE1No7rUxd5V4d3dGl+aUReWbkC6RRvH05TdrgrDkWDWchzR+DNQvi3kCX8aa7zOSN5DfYvow2V/FOv028sicJNjR9VAhLwvoR+aoZf6FYDOUPN8NqlE6JAcDL1lZD/OboFJG5BOnWdjk4MDmUllWxif1yDg2X8Phho3fOhA76UHE8jDQto5SmzVJqtNOXvjkIWeAVi+A==;x4fc/pORbM66K8rLPx4SAw=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation"
-excerpt: "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images."
-publishedDateTime: 2023-02-28T13:47:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire"
+excerpt: "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona"
+publishedDateTime: 2023-02-28T12:40:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "/i3x3Qu91Goa0Uh1kHftFFAMc6Sno4rvHULKW3R9zA4CCcIYWdKYMb8EHW6efTv3s0ecRjoeEKSB+IaF91dDusmbuetC6DCEcl12MHUyWOAn7REnLpvGwdflFPs8ohylQmlfLE0zQEUwOPji2lIXfhv1TSx1ITbEA1dog0lnR/Jd6sQF328Es5Q3iRUOC8sTiyLBbWkT3Vup7OAjHVIF4QmW8HVrSGtJGv1j5YwSE02F/YanYw9la74mESm6Vi27aBqM58S517zX8RXYUBnS1AugfE+rfXKGC2UO/fBB3+xO42UliRl0seSv5nMJgPBfB8Q9jXV4xMqbHgJk82jTNa2CQ1TjrxDLX75cxuOZhOY=;k0t9IfXUWfJUlYzKiQC3hg=="
+secured: "Kr/NjNzybvgl3KbYM/FzaaYD3RlLG+vo58d3IFHZ2pDeFryjMQumsX/xTfcGjOks3lZCjuaW3o2GdA4yov+WL2YApbvWI3s5Rzx4TOUDcqzKrtqGWQWSrtl+Z4h2Zqa79d4ZadgYyblmECm0+sB7NWYQ0GuOW3mvZgXrY8KaYT0aqOKw/9sR2VLN4jcDESIvyrupDTFvQrz9aX5zo7EtQhn9cGk6o9mCwdLSvlURQ/89zn0G2Be1PN8tdJISDrfMDzYkRNAIZCNEgrJS9frRimQszJWpK3fyvXxj9MjT2IC6533aYv/K8ped60F1KguILZCaGziqeIK4qXYDayMYvmDzMbToaqzo4QRIOAEIjDY=;yvyiPgzrFBCnc1kXB9jWwQ=="
 ---
 

@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
@@ -381,6 +382,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yj5GTBfvyE3r4S2uYOOh7QtsIZvVm0JS+UQE7rgpbmO+xpkcAa6YimcNfTpsfbFXRakCYvOY+uEoAAuQzskIadLMGG/CyGANYwZWppiSVM/Jcv/JoeHC5dx2xl7Qes6vAFBKRH6/d59vqXcNCA+UdK0YQ9iShhfKM4Q22tIVzgmzRHaPsgGVMxfQlQdnzC8V/0vQZNX418mfXlXVzHmQdDNU7deum6hKzGoIBV7d3xQYEexdwG/GstNM/omuDAT+D/NxtDVyhyEl5uN31VAzibzEIQnzVGnv9FX4tsodRPmERSLHdYov+St1a9lIjNL3fQmKyR4QwtEAR1e9qxzCQgRh0mPp4q3ZkWOZE12q5JU=;PgqcpQ8Zfi0Zj26nZFRHWg=="
+secured: "PYemKC6J36MbeRV1rl/U/R3tl+p2jghT6/1UsC0ay5DyyBmd3LO7oLLA8+lDlaEXV5jhNkVg5Y0UQF0y0ZcjGy7O8nPNeNvcSLs9NjG3RpR4oKfStzgnoVLzYKgOcWDk6oLdm16U9rU4Io9xHp5EA2ejsrXmy60VK6SCx7TIY+06QwmPSxxHPlx4/r08V0Qm+0IJBPG0zRWylax3mz/YdASTpI6gj8goms9NuRIZgDvyFE/onr5QK/wulYuV1kFGzjcu8//4oNIyHwYF2fhDhCM5RqeXR89nEWhsMl+cL//2tY0dP5yWHgKCgBlSfNhMkPVOE+PZ23rBzhjAVwoxdF9rlSmY+CY/KzYpMtA0EhhgGTPRmtefLahqDE16MLfAPpoivs0+Sz26kgB3DW0l99c6NN0rvaJ8Y5TeQxNCfwjjUKjFq8oqOdwi02JcC48jda4hg56TzkUCKzCW/NafhXbalzhF1g3Kfv1k3y+Sod+VGlcJJNfDVhcDMGa8369b5eIs9PhCK3MKdTJ8/sSNRw==;ndxPwDg3sG+4+qakNcicwQ=="
 ---
 
