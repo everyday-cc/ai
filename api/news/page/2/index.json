@@ -2,6 +2,269 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-15-6-ways-google-ai-is-helping-you-sleep-better.md",
+      "title": "6 ways Google AI is helping you sleep better",
+      "excerpt": "Learn how features like Sleep Profiles, Smart Wake and cough and snore detection are powered by AI to help you get better sleep.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/New__revised_0312_Keyword_blog-header-animated-final_YCPcPYO.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
+      "title": "Can healthcare show the way forward for scaling AI?",
+      "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-how-synthetic-data-is-boosting-ai-at-scale.md",
+      "title": "How synthetic data is boosting AI at scale",
+      "excerpt": "Artificial intelligence (AI) relies heavily on large ... “During my time at Google’s self-driving car project Waymo, we used a combination of both. Synthetic data will play a big role in situations we never want to experience in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-the-power-of-mlops-to-scale-ai-across-the-enterprise.md",
+      "title": "The power of MLOps to scale AI across the enterprise",
+      "excerpt": "AI and ML model developers and data scientists tell VentureBeat ... Public cloud providers AWS, Google Cloud and Microsoft Azure all provide MLOps platform support. DataRobot, Dataiku, Iguazio, Cloudera and DataBricks are leading vendors competing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/4-The-power-of-MLOps-to-scale-AI-across-the-enterprise.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-mlops-to-scale-ai-across-the-enterprise/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete.md",
+      "title": "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?",
+      "excerpt": "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
+      "originalUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
+      "publishedDateTime": "2023-03-15T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
       "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
       "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
@@ -796,7 +1059,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -847,7 +1110,7 @@
       "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -992,250 +1255,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy.md",
-      "title": "Google is working on AI for ultrasound diagnosis and cancer therapy",
-      "excerpt": "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
-      "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
-      "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
-      "originalUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/03/MF-AI-TAKEOVER-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
-      "publishedDateTime": "2023-03-14T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report.md",
-      "title": "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report",
-      "excerpt": "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "publishedDateTime": "2023-03-14T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-google-to-weave-ai-technology-into-its-health-care-offerings.md",
-      "title": "Google to Weave AI Technology Into Its Health-Care Offerings",
-      "excerpt": "Alphabet Inc.’s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research, ways to help consumers find ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQYiEad1ecc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-our-latest-health-ai-research-updates.md",
-      "title": "Our latest health AI research updates",
-      "excerpt": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
-      "originalUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg",
-          "width": 2880,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
-      "publishedDateTime": "2023-03-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

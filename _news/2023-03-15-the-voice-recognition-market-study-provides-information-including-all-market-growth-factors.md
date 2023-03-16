@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
+    publishedDateTime: 2023-03-15T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
     excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
     publishedDateTime: 2023-03-13T04:02:00Z
@@ -57,57 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- Facial Recognition Door Lock Market Insights 2023 by Types (Aluminum magnesium alloy, Zinc alloy, Aluminum, Stainless steel) , Applications ..."
-    publishedDateTime: 2023-03-15T14:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-growing-rapidly-with-recent-trends-2023-03-14"
+  - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-14T15:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Make Informed Decisions with Our Detailed Mobile Speech Recognition Software Market Analysis and Forecast [2023-2026]"
-    excerpt: "Pages Report] Global “ Mobile Speech Recognition Software Market ” [2023-2026] latest research report provides size, share, growth, developments, new technology, trends, and forecasts for 2026. Also,"
-    publishedDateTime: 2023-03-13T11:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/make-informed-decisions-with-our-detailed-mobile-speech-recognition-software-market-analysis-and-forecast-2023-2026-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market 2023: Growth Prospects and Revenue Analysis"
-    excerpt: "Global “Artificial Intelligence-Emotion Recognition Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions."
-    publishedDateTime: 2023-03-15T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-growth-prospects-and-revenue-analysis-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Massive Growth Expected for “Speech and Voice Recognition Market” till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Furthermore, The Speech and Voice Recognition market research report spread across 104 pages and analyses the global and regional markets, providing an in-depth analysis of ..."
-    publishedDateTime: 2023-03-14T20:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/massive-growth-expected-for-speech-and-voice-recognition-market-till-2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

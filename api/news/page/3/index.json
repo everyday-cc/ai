@@ -2,6 +2,250 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-15-google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy.md",
+      "title": "Google is working on AI for ultrasound diagnosis and cancer therapy",
+      "excerpt": "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
+      "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
+      "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
+      "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
+      "originalUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/03/MF-AI-TAKEOVER-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
+      "publishedDateTime": "2023-03-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report.md",
+      "title": "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report",
+      "excerpt": "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
+      "publishedDateTime": "2023-03-14T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-google-to-weave-ai-technology-into-its-health-care-offerings.md",
+      "title": "Google to Weave AI Technology Into Its Health-Care Offerings",
+      "excerpt": "Alphabet Inc.’s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research, ways to help consumers find ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQYiEad1ecc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-our-latest-health-ai-research-updates.md",
+      "title": "Our latest health AI research updates",
+      "excerpt": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+      "originalUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
+      "publishedDateTime": "2023-03-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
       "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
       "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
@@ -49,101 +293,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-gm-plans-to-develop-an-azure-powered-in-car-ai-assistant.md",
-      "title": "GM plans to develop an Azure-powered in-car AI assistant",
-      "excerpt": "General Motors recently said that it's developing an in-car AI assistant based on Microsoft's Azure cloud service and OpenAI, according to Semafor. The company compares its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
-      "originalUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-13-image-20.jpg",
-          "width": 2560,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south.md",
-      "title": "FEATURE-AI boom is dream and nightmare for workers in Global South",
-      "excerpt": "Workers in poorer nations deal with low pay, few protections By Rina Chandran, Adam Smith and Mariejo Ramos March 14 (Thomson Reuters Foundation) - Dinesh Raj, who lives in the south Indian city of Salem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south",
-      "originalUrl": "https://www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_02_2023_17_30_51_7313876.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south?amp",
-      "publishedDateTime": "2023-03-14T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -200,49 +349,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
-      "title": "How AI could write our laws",
-      "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "originalUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "publishedDateTime": "2023-03-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-face-recognition-device-market-with-data-research-source-2028.md",
       "title": "Face Recognition Device Market with Data Research Source 2028",
       "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
@@ -251,7 +357,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -406,7 +512,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-business-scenario-top-factors-that-will-boost-the-data-and-ai-ethics-market-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -489,58 +595,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-neural-networks-market-detailed-analysis-of-industry-attractive-valuation-and-growth-forecast-up-to-2029.md",
-      "title": "Artificial Neural Networks Market : Detailed Analysis of Industry, Attractive Valuation and Growth Forecast Up to 2029",
-      "excerpt": "The \"Artificial Neural Networks Market\" study describes how the technology industry is evolving and how major and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-detailed-analysis-of-industry-attractive-valuation-and-growth-forecast-up-to-2029-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-detailed-analysis-of-industry-attractive-valuation-and-growth-forecast-up-to-2029-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -741,7 +795,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 521,
+      "heat": 581,
       "tags": null,
       "images": [
         {
@@ -889,15 +943,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028.md",
-      "title": "Artificial Intelligence in Manufacturing and Supply Chain Market : Geographical Analysis till 2028",
-      "excerpt": "Short Description About Artificial Intelligence in Manufacturing and Supply Chain Market: Artificial Intelligence in Manufacturing and Supply Chain Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence in Manufacturing and Supply Chain market,",
+      "path": "_news/2023-03-14-facial-recognition-market-size-and-share-industry-size.md",
+      "title": "Facial Recognition Market Size and Share | Industry Size",
+      "excerpt": "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13",
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -913,7 +967,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T10:39:00-07:00",
+      "publishedDateTime": "2023-03-13T10:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -936,6 +990,7 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -979,6 +1034,58 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-how-to-explain-the-machine-learning-life-cycle-to-business-execs.md",
+      "title": "How to explain the machine learning life cycle to business execs",
+      "excerpt": "If you’re a data scientist or you work with machine learning (ML) models, you have tools to label data, technology environments to train models, and a fundamental understanding of MLops and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3689701/how-to-explain-the-machine-learning-life-cycle-to-business-execs.html",
+      "originalUrl": "https://www.infoworld.com/article/3689701/how-to-explain-the-machine-learning-life-cycle-to-business-execs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/06/two_people_review_information_on_a_tablet_in_an_office_workspace_collaboration_communication_planning_strategy_tactics_teamwork_by_gorodenkoff_shutterstock_1682600950_2400x1600-100890810-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3689701/how-to-explain-the-machine-learning-life-cycle-to-business-execs.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689701/how-to-explain-the-machine-learning-life-cycle-to-business-execs.amp.html",
+      "publishedDateTime": "2023-03-13T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1128,109 +1235,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry.md",
-      "title": "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry",
-      "excerpt": "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-esg-integrating-human-superpowers-with-ai.md",
-      "title": "ESG: Integrating Human Superpowers With AI",
-      "excerpt": "I like Elon Musk's quote: \"Some people don't like change, but you need to embrace change if the alternative is disaster.\" Our current transition of incorporating generative AI into our everyday lives presents a hero opportunity for humanity's breakthrough in growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6407421c7d044e45d4817110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/amp/",
-      "publishedDateTime": "2023-03-13T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

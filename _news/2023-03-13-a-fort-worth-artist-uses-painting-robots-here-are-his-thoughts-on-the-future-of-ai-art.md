@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future AI Again Named One of the Top AI Companies to Watch"
-    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Students are using artificial intelligence at school. Here's why teachers aren't panicking"
     excerpt: "Many local college professors and K-12 educators say they aren't worried about ChatGPT's use in the classroom. Why? It's easy to detect."
     publishedDateTime: 2023-03-14T02:30:00Z

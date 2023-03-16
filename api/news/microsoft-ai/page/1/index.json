@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -415,58 +416,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-gm-plans-to-develop-an-azure-powered-in-car-ai-assistant.md",
-      "title": "GM plans to develop an Azure-powered in-car AI assistant",
-      "excerpt": "General Motors recently said that it's developing an in-car AI assistant based on Microsoft's Azure cloud service and OpenAI, according to Semafor. The company compares its",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
-      "originalUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-13-image-20.jpg",
-          "width": 2560,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
       "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
       "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
@@ -475,7 +424,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 521,
+      "heat": 581,
       "tags": null,
       "images": [
         {
@@ -528,7 +477,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -1429,6 +1378,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
+      "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
+      "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

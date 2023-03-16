@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
+      "title": "After year of downsizing, DataRobot unveils new AI platform",
+      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "publishedDateTime": "2023-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon.md",
       "title": "Spring cleaning deal: Score a new robot vacuum for 68% off on Amazon",
       "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
@@ -298,7 +351,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -896,6 +949,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-humans-and-our-alarming-fear-of-robots.md",
+      "title": "Humans and Our Alarming Fear of Robots",
+      "excerpt": "I couldn’t help myself. “Everyone? That’s disingenuous.” The Tokyo robot was one of many robots and other forms of artificial intelligence (AI) that have grated on my nerves. I’m not alone in my disdain. Scientists have been studying robot hate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "originalUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/3GG7tX1uWzasiXe98ywtHM/361ef445bef3b1d9511b3904ac9f3a4d/shutterstock_719376568.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-3-high-growth-stocks-in-the-artificial-intelligence-industry.md",
       "title": "3 High-Growth Stocks in the Artificial Intelligence Industry",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is a multitrillion-dollar opportunity in the making.",
@@ -1300,93 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
-      "title": "Could the next great author be a robot? We asked (Human) writers",
-      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "publishedDateTime": "2023-03-05T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
-      "title": "Understanding the world of artificial intelligence and its future impacts",
-      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

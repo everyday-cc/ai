@@ -76,20 +76,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
-    excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."
-    publishedDateTime: 2023-03-14T17:07:00Z
-    webUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 39
-    images:
-      - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
-        width: 345
-        height: 238
-        isCached: true
   - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
     excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
     publishedDateTime: 2023-03-16T14:45:00Z
@@ -104,33 +90,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
-    publishedDateTime: 2023-03-14T19:49:00Z
-    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
-    type: article
-    provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 19
-  - title: "Snapchat’s AI could be the creepiest chatbot yet"
-    excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
-    publishedDateTime: 2023-03-14T23:47:00Z
-    webUrl: "https://www.fastcompany.com/90865731/snapchat-ai-could-be-creepiest-chatbot-yet"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
-    publishedDateTime: 2023-03-13T19:18:00Z
-    webUrl: "https://theconversation.com/ai-chatbots-are-still-far-from-replacing-human-therapists-201084"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 17
 
 secured: "S+f4o2HM5GfIF0BRZLeExwMTpjkjEwLFkOLPRxeXQ13HuECjLeswZlu+ECrgotHet2Zd8EmBOaG5Jgg0AMU/B94cTlVrAG+OIvyINTqKuIf+Uw3zwowQvqM6aM++P880fa7p5n4T2/POS8NvhvQhnnvaaHboxUdhQml07ZAAKhGu7ZuD8asiCP5IlQolaLlEM08AdAZAsFRlVt4mO3+dtkZTqHcynX8nmmte/+BDpkRS/hht1CmLmZhy36Nhm888k3WmiP17o5C5Wk0MzR4/1X6s/uljpZU2ro6cMtHX1xonCiAoLNigXaOnvgaUs/FC4J4UJxoPLhEqfllfITdfG7M7okLORmu2ouWULrVpJpu7csBmlJACLX+QDuWxWSa8xozBXQclrAIDvOYlxukkDX/I8yowouzu8vWyYc6HdaQZsIlKjIVkspcPpudXWLX5qLLmonV6BCXlmXOe2tGXSgFMfuS/efDDkyO8Qm5CpAXe4IRnsGsSpjwIYQlQuWAAFcdKbYwTPUN3IbyPrUnbjw==;ygfrt2vto3CKv5/GDdzeJw=="
 ---

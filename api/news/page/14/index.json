@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
+      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
+      "excerpt": "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
+      "originalUrl": "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms.md",
       "title": "Mediterranean diet may prevent cognitive issues for people with MS",
       "excerpt": "The finding suggests that the diet – which features fresh produce, seafood, nuts, olive oil and minimal red meat and sugar – may prevent or even treat cognitive symptoms related to the condition.",
@@ -1158,48 +1192,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin.md",
-      "title": "Fake, AI-generated start-up gets lucrative funding offer on LinkedIn!",
-      "excerpt": "I created a fake LinkedIn profile of a founder.- AI-generated white male face- Stripe alum- Stanford dropout- G…  @roshanpateI I know a bunch of people who worked at Stripe and NONE of them have anything good to say about Chad Smith.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin/articleshow/98328132.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin/articleshow/98328132.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/photo/96164744.cms",
-          "width": 2448,
-          "height": 1224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms",
-      "publishedDateTime": "2023-02-28T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

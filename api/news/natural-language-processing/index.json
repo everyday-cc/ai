@@ -101,49 +101,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
-      "title": "How AI could write our laws",
-      "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "originalUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
-      "publishedDateTime": "2023-03-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-03-13-dead-island-2s-amazon-alexa-voice-commands-are-novel-but-limited.md",
       "title": "Dead Island 2’s Amazon Alexa voice commands are novel, but limited",
       "excerpt": "Dead Island 2's Alexa Game Control implementation allows players to change weapons and set waypoints, but it's a little limited so far.",
@@ -298,59 +255,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-healthcare-natural-language-processing-market-valuation-worldwide-2023-2029.md",
-      "title": "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029",
-      "excerpt": "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1467,6 +1371,101 @@
         "AI",
         "AI in Marketing",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-natural-language-processing-nlp-market-global-research-report-with-opportunities-and-strategies-to-boost-growth-and-revenue-over-2023-2033.md",
+      "title": "Natural Language Processing Nlp Market Global Research Report With Opportunities, And Strategies To Boost Growth, And Revenue Over 2023-2033",
+      "excerpt": "Natural Language Processing Nlp Market Research IBM (US), Microsoft (US), Google (US), AWS (US), Meta (US), 3M (US), Baidu (China), Apple (US), SAS Institute (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
+      "originalUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7253",
+          "width": 281,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots.md",
+      "title": "Israeli Startup D-ID Puts A Face On Generative AI Chatbots",
+      "excerpt": "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
+      "publishedDateTime": "2023-02-28T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

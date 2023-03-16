@@ -2,6 +2,40 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-01-05-edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
+      "title": "Edge AI Chip Company Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
+      "excerpt": "IRVINE, Calif., Jan. 04, 2023 (GLOBE NEWSWIRE) -- Syntiant Corp., a provider of deep learning solutions for edge AI applications, today introduced the Syntiant NDP115 Neural Decision Processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook.md",
       "title": "New Concerns That Artificial Intelligence Spreads Misinformation On Facebook",
       "excerpt": "Of particular concern is how Facebook uses artificial intelligence - or A.I. for short - and how the technology may be helping spread misinformation online. Reporter Karen Hao has a new article about this at MIT Technology Review, \"How Facebook Got ...",
@@ -1050,40 +1084,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-eys3d-launches-one-stop-xink-development-platform-for-vision-equipped-robots.md",
-      "title": "eYs3D Launches One-Stop XINK Development Platform for Vision-Equipped Robots",
-      "excerpt": "PRNewswire/ -- eYs3D Microelectronics, a subsidiary of Etron Technology (TPEx: 5351. TW), a subsidiary of Etron Technology (TPEx: 5351. TW), launched at CES a state-of-the-art computer vision development platform for next-generation autonomous robotic applications such as AIoT (artificial intelligence of things),",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

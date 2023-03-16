@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
+    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
+    publishedDateTime: 2023-03-14T03:19:00Z
+    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
     excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
     publishedDateTime: 2023-03-14T18:29:00Z
@@ -337,6 +353,20 @@ related:
       - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/artificial-intelligence-without-great-data-is-just-artificial-generative-ai-that-predicts-what-and-how-we-eat-unveiled/16234231-2-eng-GB/Artificial-intelligence-without-great-data-is-just-artificial-Generative-AI-that-predicts-what-and-how-we-eat-unveiled.jpg"
         width: 683
         height: 512
+        isCached: true
+  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
+    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
+    publishedDateTime: 2023-03-16T12:17:00Z
+    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
+        width: 678
+        height: 452
         isCached: true
   - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
     excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"

@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-12-19-how-to-spot-ai-generated-text.md",
+      "title": "How to spot AI-generated text",
+      "excerpt": "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/",
+      "publishedDateTime": "2022-12-19T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-19-genesis-face-connect-could-eliminate-the-need-for-key-fobs-in-the-future.md",
       "title": "Genesis' Face Connect Could Eliminate The Need For Key Fobs In The Future",
       "excerpt": "It can be a hassle, but with Genesis introducing face recognition technology, this problem could soon be a thing of the past. Genesis has rolled out a new EV, the GV 60, with a Face Recognition ...",
@@ -1098,50 +1141,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up.md",
-      "title": "As Supply Chain Bogs Down, Autonomous Mobile Robot Sales Trend Up",
-      "excerpt": "A Vecna Robotics’ AMR moves heavy payloads through a warehouse ... tote things on a whole other level – using sophisticated sensors, artificial intelligence, machine learning and computerized pathway planning techniques to navigate their environment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
-      "originalUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

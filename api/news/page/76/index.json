@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-01-14-m3gan-the-strange-reasons-a-real-child-ai-robot-could-never-be-built.md",
+      "title": "M3GAN: The strange reasons a real child AI robot could never be built",
+      "excerpt": "For good or bad, a kid's toy with artificial intelligence (and killer dance moves) probably won't be possible at any point soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
+      "originalUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2023/01/megan-1dff218.jpg?quality=90&resize=960,413",
+          "width": 960,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
+      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
+      "publishedDateTime": "2023-01-13T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-l4-autonomous-driving-may-commercialize-before-l3-says-baidu-ceo-robin-li.md",
       "title": "L4 autonomous driving may commercialize before L3, says Baidu CEO Robin Li",
       "excerpt": "Baidu co-founder, chairman, and CEO Robin Li, at Baidu Create 2022 on January 10, said autonomous driving will become reality sooner than people have expected, while the commercialization of L4 ...",
@@ -1108,60 +1151,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-quantum-machine-learning-qml-poised-to-make-a-leap-in-2023.md",
-      "title": "Quantum machine learning (QML) poised to make a leap in 2023",
-      "excerpt": "Quantum machine learning (QML) combines quantum computing's power with ML's predictive capabilities to overcome classical algorithms' limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-605383559-e1646346568847.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
-      "publishedDateTime": "2023-01-12T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

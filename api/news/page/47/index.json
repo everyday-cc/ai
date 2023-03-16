@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
+      "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
       "title": "Artificial Intelligence (AI) Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -957,40 +1000,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-museum-launches-campaign-to-get-hold-of-florence-nightingales-customised-wheelchair.md",
-      "title": "Museum launches campaign to get hold of Florence Nightingale’s customised wheelchair",
-      "excerpt": "An American museum which acquired the wheelchair in 1920 recently restored and conserved the chair and is willing to donate it. | ITV News London",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/london/2023-02-06/museum-launches-campaign-to-acquire-florence-nightingales-customised-wheelchair",
-      "originalUrl": "https://www.itv.com/news/london/2023-02-06/museum-launches-campaign-to-acquire-florence-nightingales-customised-wheelchair",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

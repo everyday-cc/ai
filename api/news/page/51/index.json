@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-02-06-ibm-watson-enlisted-to-combat-substance-abuse.md",
+      "title": "IBM Watson enlisted to combat substance abuse",
+      "excerpt": "The deal will see the Watson AI be used by Texas-based software firm ... \"It’s time to leverage an advanced cognitive technology platform like IBM Watson to help make the right, evidence-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-05-an-interview-with-ai-what-chatgpt-says-about-itself.md",
       "title": "An interview with AI: What ChatGPT says about itself",
       "excerpt": "To find out how good ChatGPT really is — and if I'll have a job by this time next year — I decided to give it a test drive, attempting to get as close as possible to interviewing it in the way I would any other source.",
@@ -979,49 +1022,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
-      "title": "DeepMind Is Working on a Solution to Bias in AI",
-      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
-          "width": 1178,
-          "height": 1070,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

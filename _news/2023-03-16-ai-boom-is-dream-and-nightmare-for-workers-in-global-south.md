@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "In the battle for the future of work, AI is not above the law"
-    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
-    publishedDateTime: 2023-03-13T15:02:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VKkShE4sosGDSoTKNlxNM4i4trMBnjrcwtFlQAewhdW/XRKHy5J7rIJFnLkfgCD0xHcGJMVnDXBYcq4LkCT04Y9NGunal/q5b7iwcpOtyc96FHhfO49fzCiEZputPvHOff7I80VO0KxO3cWLgD2nSEibE5wk+pxgDs5ZKIQ2DioghqKZX30MkMaDXe06AMSgQAAcEQ5aADQBUWxVgE09h5lxaHFP/PH29d6/22DFatZ61G1RUbQt/5RQdwf9q8JxmCLMBpJpXC7XnANg7S1Y99yx/INs24NrJrr/mqCrJZ4Rqi7F6aipL4NLmwlYlzBretgkgRhkgjiD0YfhOG7qkxzswl5RzKEGyhLzwaQZQK2z7Tok0RsZr87jXz3dv3UCUgI0QCJuS7Q1ZKEp1nG+peWOdoSbtFaJnwhlj8X1KyaGgNjqVWge604z8D2pxb7EBhsK/e5fLbBYlb3Fu2OTRB3B77wryeVN25aJHvD/3xTTorOC7X+e24QiIiZQrZ4Y6oDLH3ph7xgzqdWs+vN+Pg==;xIW5/f0S+WgOQBXMnUfVOw=="
 ---

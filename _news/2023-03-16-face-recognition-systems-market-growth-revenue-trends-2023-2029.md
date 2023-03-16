@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029"
-    excerpt: "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,"
-    publishedDateTime: 2023-03-13T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- [121 Insights] Top “Face Recognition Technology Market” Size 2023 Key players Profiled in the Report are [, Crossmatch, NEC, Daon ..."
-    publishedDateTime: 2023-03-16T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-to-2023-2029-2023-03-15"
+  - title: "Face Recognition Device Market with Data Research Source 2028"
+    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
+    publishedDateTime: 2023-03-14T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14"
     type: article
     provider:
       name: MarketWatch
@@ -57,24 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
-    publishedDateTime: 2023-03-12T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Communication Market is Booming in Near Future 2023-2029"
-    excerpt: "The \"Machine Learning in Communication Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-14T00:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-is-booming-in-near-future-2023-2029-2023-03-13"
+  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
     type: article
     provider:
       name: MarketWatch
@@ -85,57 +57,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market [2023-2026] | Transform Business with Our Proven Visionary Data"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-13T12:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2026-transform-business-with-our-proven-visionary-data-2023-03-13"
+  - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-14T15:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Future Growth of the Cloud Natural Language Processing Market Size 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Cloud Natural Language Processing Market 2023 with 126 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
-    publishedDateTime: 2023-03-16T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-cloud-natural-language-processing-market-size-2023-2029-2023-03-15"
+  - title: "The Voice Recognition Market study provides information, including all market growth factors."
+    excerpt: "The Voice Recognition market is a rapidly growing industry with a wide range of applications. Over the past few years, it has witnessed significant growth due to increasing demand from various end-use industries."
+    publishedDateTime: 2023-03-15T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-voice-recognition-market-study-provides-information-including-all-market-growth-factors-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
-    excerpt: "Artificial Intelligence in Precision Farming Market 2023 with 109 Pages Report and enhance with extents shares"
-    publishedDateTime: 2023-03-13T03:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-12"
+  - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
+    publishedDateTime: 2023-03-15T20:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Revenue, Trends 2023-2029"
-    excerpt: "Global “Natural Language Processing For Healthcare And Life Sciences Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all ..."
-    publishedDateTime: 2023-03-15T17:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-revenue-trends-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Znn/xB6Jvb7eBGu8WtHkGv/W7rcxL47Y00ReBXp8CXfrwbZBLb6sk57T199+sYmPdrIH/7lBJuqdQomzi9peEVzwZuL5Mrv1PEA4HM0eczJ+l5NhrJnK8PRKWTqGFgtaF7d/Hn+G9gniMl961/wlqxOjj+k19EeQ6OK+KRlI6QgNUS1dIv5aC2eF0F/fW5d+PZjvbqECmKi+QU4L7FoWCr1jKrDrm26DBuxan+yS2sNUttFfdtolgCB5l04n5/iBH6HxTJN8bLzrqhTKFcar+C9Mmd43a52+xBOo5HaMK7yAhABM8gh2U54wv7yNf5Lo6SFkzhi8wHnLlc0OsKCdzroyjpYsMkb/Lg9Y+mK1KQY=;wMQEt+eO0GeYNVs+495oYA=="
 ---

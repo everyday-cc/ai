@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-02-the-next-big-threat-to-ai-might-already-be-lurking-on-the-web.md",
+      "title": "The next big threat to AI might already be lurking on the web",
+      "excerpt": "Artificial intelligence experts warn attacks against datasets used to train machine-learning tools are worryingly cheap and could have major consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7ce6d28d03411b85db74dd7ef00660720d7bcb65/2023/03/01/4e822689-e40c-4dab-9017-06ed2a01bf89/concept-of-big-data-and-computer-programming.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/",
+      "publishedDateTime": "2023-03-02T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions.md",
+      "title": "Future of Artificial Intelligence (AI) Chip Market by 2029: Trends and Predictions",
+      "excerpt": "Get a sample PDF of the report at -  The Artificial Intelligence (AI) Chip market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of Percent, this market is estimated to reach USD million in 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-no-chatgpt-isnt-going-to-cause-another-gpu-shortage.md",
       "title": "No, ChatGPT isn’t going to cause another GPU shortage",
       "excerpt": "“If you do not have enough GPU RAM, your model fitting/inference simply stops.” Heaton, who has a YouTube channel dedicated to how well AI models run on certain GPUs, noted that CUDA cores are ...",
@@ -1384,110 +1488,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-applied-materials-positive-on-q2-on-resilient-demand-for-automotive-ai-chips.md",
-      "title": "Applied Materials positive on Q2 on resilient demand for automotive, AI chips",
-      "excerpt": "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
-      "originalUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-its-always-sunny-inside-a-generative-ai-conference.md",
-      "title": "It’s Always Sunny Inside a Generative AI Conference",
-      "excerpt": "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
-      "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp",
-      "publishedDateTime": "2023-02-16T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

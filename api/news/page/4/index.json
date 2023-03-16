@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-13-esg-integrating-human-superpowers-with-ai.md",
+      "title": "ESG: Integrating Human Superpowers With AI",
+      "excerpt": "I like Elon Musk's quote: \"Some people don't like change, but you need to embrace change if the alternative is disaster.\" Our current transition of incorporating generative AI into our everyday lives presents a hero opportunity for humanity's breakthrough in growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6407421c7d044e45d4817110/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/03/13/esg-integrating-human-superpowers-with-ai/amp/",
+      "publishedDateTime": "2023-03-13T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-a-face-recognition-site-crawled-the-web-for-dead-peoples-photos.md",
       "title": "A Face Recognition Site Crawled the Web for Dead People’s Photos",
       "excerpt": "PimEyes appears to have scraped a major ancestry website for photos, without permission. Experts fear they could be used to identify living relatives.",
@@ -115,7 +166,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 331,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -306,6 +357,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-13-artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 649,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-gm-will-integrate-chatgpt-into-its-vehicles-in-car-digital-assistants.md",
       "title": "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants",
       "excerpt": "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT.",
@@ -452,58 +556,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects.md",
-      "title": "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects",
-      "excerpt": "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-13-azure-previews-powerful-and-scalable-virtual-machine-series-to-accelerate-generative-ai.md",
       "title": "Azure previews powerful and scalable virtual machine series to accelerate generative AI",
       "excerpt": "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate.",
@@ -591,15 +643,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-healthcare-natural-language-processing-market-valuation-worldwide-2023-2029.md",
-      "title": "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029",
-      "excerpt": "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,",
+      "path": "_news/2023-03-13-uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029.md",
+      "title": "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)",
+      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
+      "webUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -615,7 +667,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:39:00-07:00",
+      "publishedDateTime": "2023-03-12T21:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -638,21 +690,20 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-03-13-machine-learning-as-a-service-mlaas-market-to-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market to 2023-2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2023 (The Expresswire) -- Machine Learning as a Service (MLaaS) Marketinformation for each competitor includes (, MonkeyLearn, Google, BigML, IBM, Microsoft ...",
+      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
+      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-2023-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-2023-2029-2023-03-12",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -668,7 +719,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:38:00-07:00",
+      "publishedDateTime": "2023-03-12T20:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -691,7 +742,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI"
       ]
     },
@@ -735,59 +786,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-automated-machine-learning-automl-market-the-growing-trend-2029.md",
-      "title": "Automated Machine Learning (AutoML) Market: The Growing Trend 2029",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -850,7 +848,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -944,7 +942,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {

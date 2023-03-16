@@ -30,38 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market 2023 Business Scenario | Top Factors that Will Boost the Data and AI Ethics Market"
-    excerpt: "Data and AI Ethics Market Size 2023 | New Report (104 Pages) | Information Technology | In This Reports Data and AI"
-    publishedDateTime: 2023-03-14T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-business-scenario-top-factors-that-will-boost-the-data-and-ai-ethics-market-2023-03-13"
+  - title: "Facial Recognition Market Size and Share | Industry Size"
+    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
+    publishedDateTime: 2023-03-13T17:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence Market Size, Growth | Soaring Demand | 2023 - 2029"
-    excerpt: "Mar 14, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Artificial Intelligence Market” Size 2023 Key players Profiled ..."
-    publishedDateTime: 2023-03-14T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
+    publishedDateTime: 2023-03-15T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Conversational AI Platform Market 2023, Top Factors that Will Boost the Conversational AI Platform Market"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Conversational AI Platform Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-13T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-platform-market-2023-top-factors-that-will-boost-the-conversational-ai-platform-market-2023-03-13"
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
     type: article
     provider:
       name: MarketWatch
@@ -72,24 +72,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Till 2028, The Artificial Intelligence In Small And Medium Business Market | Exclusive report of 85 Pages"
-    excerpt: "In 2023, the market is growing at a stable rate and with the increasing adoption of strategies by key players, the market is predicted to rise over the projected horizon. Report further studies the market development status and future Artificial Intelligence In Small And Medium Business Market trend across the world."
-    publishedDateTime: 2023-03-14T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/till-2028-the-artificial-intelligence-in-small-and-medium-business-market-exclusive-report-of-85-pages-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Law Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2028"
-    excerpt: "Artificial Intelligence in Law Market Size 2023-2028 | New Report (112 Pages) | In This Reports Artificial Intelligence"
-    publishedDateTime: 2023-03-13T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-to-2028-2023-03-13"
+  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
+    publishedDateTime: 2023-03-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
     type: article
     provider:
       name: MarketWatch
@@ -99,6 +85,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
+    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
+    publishedDateTime: 2023-03-13T08:53:00Z
+    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 27
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "/ysVGzUaRhfHiEFMa4hfu8E8qQl1911TcVKdVFs/Fxt0XzvMBAaWnCOm1u8QnQuiNiyVbOuol8V1gUGQHBRSe3jiL4D1kylgPdrorziLH18/HL3qacuZR6q6GVKzWq8sKMivS/opkrcINx4URpqUtTDX+7Aylwaps/nOkNkKAdbcFYjrPxRp5DTIcW7JvtC3rkuaLjcoPwf+3jEs8oTTjY14QN1lnwQYYXUMDiXMxhwhLfo0jnuQrobAKvAJziu/hC1CfeQiA7qwBuFFyR/Yn+5Mxv7MQQ3jrGTHY8NMBnvYHTR2jTpQ9YBxqLX0zMiEdUcfDv7TK461gu+lUW/BRi+aQjOwdUP1lz37MI6MGpg=;eHHGBPjP29PD3cp0pgOMJw=="

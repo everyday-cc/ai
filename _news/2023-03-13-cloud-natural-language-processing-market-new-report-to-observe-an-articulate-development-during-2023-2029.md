@@ -29,85 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects"
-    excerpt: "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ..."
-    publishedDateTime: 2023-03-13T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13"
+  - title: "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)"
+    excerpt: "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer"
+    publishedDateTime: 2023-03-13T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Courses for C-suite Executives Market Is Booming Globally Forecast 2023-2029"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- Artificial Intelligence Courses for C-suite Executives Market 2023 with 107 Pages Report and enhance with extents shares..."
-    publishedDateTime: 2023-03-16T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-courses-for-c-suite-executives-market-is-booming-globally-forecast-2023-2029-2023-03-15"
+  - title: "Artificial Intelligence in Precision Farming Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
+    excerpt: "Artificial Intelligence in Precision Farming Market 2023 with 109 Pages Report and enhance with extents shares"
+    publishedDateTime: 2023-03-13T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
-    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
-    publishedDateTime: 2023-03-14T04:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
-    excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
-    publishedDateTime: 2023-03-13T10:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/exploring-the-natural-language-processing-nlp-software-market-2023-2028-a-comprehensive-analysis-of-emerging-trends-and-untapped-opportunities-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
-    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
-    publishedDateTime: 2023-03-15T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031"
-    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include ..."
-    publishedDateTime: 2023-03-13T11:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 20
 
 secured: "AbzAW8DVOI6LT4qbM9kaQ4WpjZusp9QtNIpsjo4fXwOy2srwhkGJKgIhXwct1t/3rtNUxQ2DdupcuMA2LUG95NTTo0MfugcAOA6pwWYNnXZPApk4Fo+eS2JQtbXWNpJ3hw8CeZJJhwqlVIXvL56EEgjpNRbm5tg7EYTub6xb0GPVUyuVru1Lyi1zxJyTMRdBuHmkXtntiq5JDiXf7WeL7R3sTaB6cpQixzvdKfCa3X7yG0zIPjGnP62GjngGgLQ/a5BnGTPPb7Dzf9gz3HIxqfrMCJkz2zIuLs4/wZUOGUtSfrrmmAz1y43G31ieruJ7wVT39esUWicvbX/37bYKKsvKUtSbudyaTY2lMk/h7BU=;4fBgKILObCDb1Nm8bv+wlw=="
 ---

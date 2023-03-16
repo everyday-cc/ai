@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "LinkedIn introduces AI tool to make curating your profile easier"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-16T16:38:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d2bec1c778f4ce262742cdf3116870e745d67dcb/2023/03/16/ac5de713-2e87-4efd-895d-5602eeb3a287/gettyimages-1240444322.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You can now ‘enhance’ your LinkedIn Profile with AI-written 'suggestions'"
     excerpt: "LinkedIn is adding AI-powered “writing suggestions” and job descriptions to its service as it looks for new ways to infuse AI into its platform.."
     publishedDateTime: 2023-03-15T20:15:00Z
@@ -35,6 +51,20 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/WIcBxSaBXd3zrPFh6Bp61Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/3bdfe900-c2c1-11ed-bfdd-0f7c6505ef7c.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "LinkedIn teams up with Adapt to boost machine translation"
+    excerpt: "LinkedIn and Adapt have created a machine translation model that focuses on specific categories of information such as product details."
+    publishedDateTime: 2023-03-13T10:56:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/linkedin-adapt-sfi-research-machine-translation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/AdobeStock_283773482_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "gSfAoYOVzf8TqifwPdGvNrFSxFiqFf4et7aAv//f5Qfz5BhusL6MJjnoaOK49LMTfl7Sf/6jrdU3lJiw5LsOXq6z/3JAFSiNtJPnzsGz1xWoqS0kuA/a2b3XLC2oVtGCtBNxXnFxQyTKS2eJTC/TR21yoMXcxeTB4bMMLUX1maBzT6aortgjRxaFWR0VzsCYhPIvpgzVteagNXd+3Q4b3Uid73y1zYYxUId8AOCWq0NCswPJzQ2czRGKOzm8kOr7WpQNvMTIzT7VMM4CBRBBV8WM3fZaKT/am5megGOZdAg6IXZJSqgm1r7PlDtNh+/AmK0rC2uGUzfstipixC8hJ6/xQcjttOyLjEgKDFFP2F8qv3kSinIJD19BEZwoI8CNw6iZhi+6i98tS01FxoUESO72vC0df5/C3SdXBqtWl1lFZOI/Tx7KVeZMfryYvEkcAkEC3ezdAx2zQoDcvLcc6BXjP1XHBucRcylza953vWYYtHNnKKfx5JSlUsKEl7XyhajJ9KcU7IPRbgN4CHhORA==;ad/wgh5MJbvRm8xxdvLGRQ=="

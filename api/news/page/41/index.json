@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-02-07-how-scientists-are-using-ai-to-talk-to-animals.md",
+      "title": "How Scientists Are Using AI to Talk to Animals",
+      "excerpt": "Portable sensors and artificial intelligence are helping researchers decode animal communication—and begin to talk back to nonhumans",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
+      "originalUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo.md",
       "title": "FRANCISCONOMICS: Reflections on Pope Francis’ ‘Hands Off Africa’ Speech in the Democratic Republic of Congo",
       "excerpt": "To this end, I am sure there will be no shortages of events and reflections focusing on the United States and the African Diaspora. But since black history begins with Africa and BHM is also an opportunity to reconnect with and increase our understanding of the mother land and “the Cradle of Humanity,",
@@ -889,49 +923,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-06T22:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-deep-learning-market-2023-new-report-global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027.md",
-      "title": "Deep Learning Market 2023 (New Report) - Global Industry SWOT Analysis with Strong Data by Prominent Player and Forecast upto 2027",
-      "excerpt": "Global Deep Learning Market 2023-2027 research report offers detailed coverage of Deep Learning industry and market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T22:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

@@ -23,36 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "How AI and Machine Learning are revolutionising Business Intelligence"
-    excerpt: "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation ..."
-    publishedDateTime: 2023-03-12T15:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
+  - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
+    excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
+    publishedDateTime: 2023-03-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg"
-        width: 2074
-        height: 2560
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
-    publishedDateTime: 2023-03-14T04:24:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "How AI could write our laws"
+    excerpt: "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits."
+    publishedDateTime: 2023-03-14T09:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
+  - title: "Six Ways Retail Can Leverage Generative AI To Transform Business"
+    excerpt: "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates."
+    publishedDateTime: 2023-03-14T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "zY+DnYf+pjF4iVcSJqjWulSJgyVeVkDIGTJL4MQvxtD6Um7eaoZp53Uh57I72+Dnxm0wlJawcKbycbFRZl5UsJIP8E+MDNCh2L/NBaGj05utEWngYo+G5ojiCA6DYkBf6Ia62gdVqXGjmh6bzTiAJuFslBuCkH6AOjKuiXpEqZ0jQ0MXogbVL+BfRbg9g8+pcfv6BaGqDvphWoBDKUES9uQcX6HaoxV1ZA1tKu6CF9fu/27HRL5yPN2t2FodJwOX+Ot1AITXshcGS2kGo9MRRJHxasXq1wGsgZQeUFcBOZrY6KZcwBp2QDu00qHKIJEKXPxkcCwqxzafJjSFvErW9lCHomjIutmrKA8Sg2BIC7w=;Z3qCYhMy4ogyNqxI6IYWCg=="
 ---

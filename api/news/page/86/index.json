@@ -2,6 +2,40 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-01-06-timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023.md",
+      "title": "Timekettle prepares innovative translation tech showcase for CES 2023",
+      "excerpt": "Technology company Timekettle is showcasing its cutting-edge translation technical solutions at the 2023 Consumer Electronics Show (\"CES 2023\"), the world's most",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30311197/timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-06T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-how-ai-could-solve-the-metaverses-language-problem.md",
       "title": "How AI Could Solve the Metaverse’s Language Problem",
       "excerpt": "Enter OneMeta AI. The company's Verbum service, which is making its debut at CES 2023, can provide real-time translation of up to 50 individuals, all speaking a different language (it supports 82 ...",
@@ -1008,49 +1042,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-10-exercises-to-boost-cognitive-health.md",
-      "title": "10 exercises to boost cognitive health",
-      "excerpt": "In today’s competitive world, a lot of importance is being given to cognitive health. Cognitive health is associated with one’s ability to think, learn, attend, focus, remember, create ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health",
-      "originalUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=81a037b4-154d-5187-92b1-b5dfacb2a706&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84105&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health?amp=1",
-      "publishedDateTime": "2023-01-05T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

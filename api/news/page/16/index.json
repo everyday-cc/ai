@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
+      "title": "Torc Robotics Announces Agreement to Acquire Algolux",
+      "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31095754",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754",
+      "publishedDateTime": "2023-02-28T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts.md",
       "title": "DIAGNOS and ÉTS Unveil a Method to Adapt Deep Learning Algorithms According to the Diversity of Contexts",
       "excerpt": "DIAGNOS and École de Technologie Supérieure (ÉTS), a world-renowned technical university, are proud to announce the unveiling of a method for adapting deep learning algorithms according to the diversity of contexts, in diabetic retinopathy screening.",
@@ -98,10 +141,10 @@
     {
       "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
       "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
-      "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona 2023. These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator,",
+      "excerpt": "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images.",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1093,49 +1136,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-facebook-parent-snap-embrace-ai-technology-that-powers-chatgpt-chatbot.md",
-      "title": "Facebook Parent, Snap Embrace AI Technology That Powers ChatGPT Chatbot",
-      "excerpt": "Meta Platforms Inc. and Snap Inc. are embracing the much talked-about artificial-intelligence technology popularized by OpenAI’s viral ChatGPT chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e?mod=pls_whats_news_us_business_f",
-      "originalUrl": "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e?mod=pls_whats_news_us_business_f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

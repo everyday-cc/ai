@@ -2,6 +2,63 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset.md",
       "title": "This Week In XR: AI Supplants Metaverse, Web3, Bigscreen Unveils Sleek VR Headset",
       "excerpt": "Indeed, the question could be asked of Crypto and Web3, all of whom are descending the “slope of disillusion” on Gartner Hype Cycle, on their way from “peak of elevated expectations” to the “trough of disillusion.",
@@ -1172,50 +1229,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-microsoft-baidu-and-google-which-ai-chatbot-stock-is-the-best-buy.md",
-      "title": "Microsoft, Baidu, And Google: Which AI Chatbot Stock Is The Best Buy?",
-      "excerpt": "Alphabet Inc. (GOOG), Baidu, Inc. (NASDAQ:BIDU), and Microsoft Corporation (NASDAQ:MSFT) have all been in the headlines with the current version of their proprietary chatbot engine. We now know ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "originalUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362322942/image_1362322942.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

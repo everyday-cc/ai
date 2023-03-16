@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 84
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -54,7 +54,12 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
     excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
     publishedDateTime: 2023-03-14T13:00:00Z
@@ -91,6 +96,34 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
+    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
+    publishedDateTime: 2023-03-16T16:08:00Z
+    webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/castai.png"
+        width: 1197
+        height: 673
+        isCached: true
+  - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
+    excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
+    publishedDateTime: 2023-03-15T02:31:00Z
+    webUrl: "https://siliconangle.com/2023/03/14/adept-creator-ai-assistant-automates-software-tasks-raises-350m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Adept-Raises-350M-in-Series-B-to-Build-AI-Assistant-That-Can-Automate-Software-Processes-994x559.jpg"
+        width: 994
+        height: 559
         isCached: true
 
 secured: "ArahmRHZ2Q6UpuNdV6xg2JkzSk078VoxkAM9Mypq2V4V0AU+KVEyDUcAzzxYvDwkkWzbz5j/90702IXnpKSp/nAb/7nUocxDseogVQXBzuFcbIScLN6UKWO4kiYR4HpyFtLw12M5xouyM3kLmhX9QBQb/CelQr0GF+wOHbaSjmi3TP+KVogAuu2YUCnanw9jlNM80adXrQmXxcVCoSxbV470okgXmADb2g6ilcOAvrGf84RpIJo6vO4PIT0YZWRPAtVhg19JVvVjtxYL8JDUq1FfKSJhR3YTfUTtk2JRJO0PxwfU3n3byaHHZITEEjdm5qVTlTJ5QsqJPndVj2Bijj8T5QsnRVd1CAz98x0NMh/BH+n74zJA6n97Fqu/Se0h9Gbf0hwkW2No64b+OSrv6eRIifvTcJkxOYg/7aEbomlGD6NmwSXYzYXMKAEF/cFTZNpVX3tGiTF9bTmbH2fqeswtm7Q6Jyv1iWggdTDOf158mc7xk8cwMVWEkA2Rm2h3gFVEr4wDPqvsyOwmomKM9g==;Er+4Q6LAwRvcfnNPodtYfQ=="

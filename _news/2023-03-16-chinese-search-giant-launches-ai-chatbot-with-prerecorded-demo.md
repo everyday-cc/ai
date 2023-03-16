@@ -23,31 +23,79 @@ topics:
   - AI
 
 related:
-  - title: "Weekend AI News Roundup: AI in BPOs, Chinese students accessing ChatGPT, Inker Robotics secures million dollar funding, more"
-    excerpt: "The companies recognise this. The ubiquitousness of AI will therefore force a rethink for business process outsourcing companies on their staff composition. Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and ..."
-    publishedDateTime: 2023-03-12T14:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
+  - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
+    excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
+    publishedDateTime: 2023-03-16T17:01:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 62
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/artificial-intelligence-rep.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Baidu shares fall after disappointing AI chatbot debut"
+    excerpt: "But China's strict censorship and US restrictions on chip sales could limit Baidu and other Chinese companies' AI ambitions. ChatGPT is blocked in China, but the American software is gaining a base of Chinese users who use virtual private networks to get ..."
+    publishedDateTime: 2023-03-16T07:55:00Z
+    webUrl: "https://www.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
+    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
+    type: article
+    provider:
+      name: Radio France Internationale
+      domain: www.rfi.fr
+    quality: 59
+    images:
+      - url: "https://s.rfi.fr/media/display/2e64a3b0-c3cf-11ed-8ca6-005056a90321/w:1280/p:16x9/48e8aa1be592c890b623a75ccfba438b9c2efd3a.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "AI News roundup: Big ChatGPT update around the corner, Koo integrates AI and more"
-    excerpt: "Can AI help with climate change? Machine Learning might help solve the biggest problem on the planet. The shifting climate will significantly impact global environmental, social, and economic systems."
-    publishedDateTime: 2023-03-13T13:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-big-chatgpt-update-around-the-corner-koo-integrates-ai-and-more-10242901.html"
+  - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
+    excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."
+    publishedDateTime: 2023-03-14T17:07:00Z
+    webUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 14
+      name: AgWeb
+      domain: agweb.com
+    quality: 39
+    images:
+      - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
+        width: 345
+        height: 238
+        isCached: true
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
+    publishedDateTime: 2023-03-14T19:49:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
+    type: article
+    provider:
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 19
+  - title: "Snapchat’s AI could be the creepiest chatbot yet"
+    excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
+    publishedDateTime: 2023-03-14T23:47:00Z
+    webUrl: "https://www.fastcompany.com/90865731/snapchat-ai-could-be-creepiest-chatbot-yet"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
+    publishedDateTime: 2023-03-13T19:18:00Z
+    webUrl: "https://theconversation.com/ai-chatbots-are-still-far-from-replacing-human-therapists-201084"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 17
 
 secured: "MsV+b93wtV9OEOuPI8i/zddLwMvb3nnZ2DpToE+qPtpH7Hoth6a1Qbqr8VhXLURcAMrxWfZxRvUyxwBEaAmKsDz9nJEjxBTrjqut50sJRNNJ8o+HtHwPxar7DwABFxaOpipGaMg5mob3oW85orVaanIt2jSqHq/PXBY3TLELZhmEeLPa5VDPw+6VGLnGHh3LZ3Bwq6behUKNLGV16P0ftspkflUoY7h2TlaYz5cecrpTaPRlRVx4+VqHlX3M6AVTWFiFs07l44uW4VhAV+tU0jPiplNi3CziDQvRzcN+turWTs4tWLVzR2NAWoEVP+fIKSlJxHdTnmbaAnxQgGe58UZNZVXut/TKYAW3t4SGCUdG4Dh0dMJlGjARpRp7aiW/yFBqnh0Yt1b376PL6mNWWs8fEmZbFPoTuWqhqZJ+taKacl9MDiTlL1b3IaEiGMVPYi/9MCfYEb3fg+DcTIfvw7NtREj4GyuHTmkJeQsuxndHqDUE+mjGEjiAKzJNOtn42/ESMgR5ADM76izA70d3Lw==;n8wt+MYv+CqkDNAfbtYbiw=="
 ---

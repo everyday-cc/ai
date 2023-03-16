@@ -2,9 +2,9 @@
 category: news
 title: "The stupidity of AI"
 excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
-publishedDateTime: 2023-03-16T06:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt?ref=upstract.com"
+publishedDateTime: 2023-03-16T13:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 720
         isCached: true
 
-secured: "x5AlFbhSU58puXoCJNHPtDzId9CXwW7nSQ7TX42V6J3YuFtooL2L7H3Iyuq5W9M96oxBZ+vDTjBOY/q3GcKl6mz4a14D3RKCBZTk59LYGMR7Cot4xRNf/FXadojKz8q7iUeJrZdfRABIdHc01udqpTjKiXXdlyj6M47gSoTcBiA3HqS/FUX43UFN+ZBYXxPztr3wrXIw2ip2RQPhjkI9y7AOtpHPqqLbg+Eia1IIE1jqFVdhhEXpec03fF7hAHbPcuprfE2DpnKv6acEUv/0FDqp3kINv0IqVoOI6EYT7ouknP4WmIVJe5zjtyldRdjs9Eh0ohQnX+z2cl9qEZ/QBCfQbEPXLXAwL0Z8mYOLNDo=;/Jx907fDdvKUf8MSt1+Bcg=="
+secured: "ytWM9+X/qPMm0av6yViPvq4nKUJcyI0f4rQFRrVkdoZkhHYEqSmKO77E7L7R83PQi6brcnz5lxNJffFdn0n2iY/r1Vd6SmA+S4j+tkbgjtDifEIBkLCmtokAj9+8aTgmqvk41CwyHvnE5O+9/7yToBW+4zFl+TG5WmXT/TWu93TcI1n0Gt6KlnoSTcdZ7Bw/dKM9puwTyYQnSTOfrWup/2yC08KFCDJX8VLgrruQ4w76HkBb5EWhjvuv/VlptDvWtUdJA0QHYl4l2aaBgxkZMiJXR2p0lBAtbU9nUK2PbOtHFkEoIp+ypGGibkU1uT+90ejkP+TA+I1aip2PqRkm75Od196GMo/xzVeO1PMvqZg=;w1zPsCpiy2Cnp2x6EAxVqQ=="
 ---
 

@@ -35,15 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Chinese search giant launches AI chatbot with prerecorded demo"
-    excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
-    publishedDateTime: 2023-03-16T13:22:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
 
 secured: "58GwHNCJ9zACYMP7rNZnnPiFa1l3P0cvClaG8gfMpi+H1yieFYMqfO6rNkZthTso44VuotIX9v58LnWR4GY5KTIJUME64BFl5Cs+zyiVWXGvyvsdF36gQnsfiQIfCDwPSsnRAN7yKsiBWVkR5XxfK8UPeJqJrhtLLQKMK9Q/+rutchgiPieVuMZSEAwNNiIqyebUm4cQ4MNHs5sSeliTqUH29kgXHdM6AniS2WwHXCgtLWiUPYy2psp5AdZ8FkWPrsY3A4yZbURunc17O6drbq81hjAHjrQy+jI8YsXDO7NlzcjeNFXZctbnOjQ7TJAklCQFpBz14wHpUqNVYMeHGSaa6mRynn5++qtXfiiITURq/UQMrmtTkeqM8OuWGtV77uo5NJWimzxl7IJ6OnkXuGkQeOMGgm2H3pVxBN9HucrJkM3EbWZm1lbaJRCKP5NWupUh7fd5KNYNCMfdgLFATUUK03OCa4sHIWe5kplWZ+8Rfk7rHcdVA5JWH+hiITduRvnSV0Z4qi3lTuDU5fEhfw==;TFZ+OiP3VubeqGd4PPWQFA=="
 ---

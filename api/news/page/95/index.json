@@ -2,6 +2,58 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-12-22-ukraine-has-become-the-worlds-testing-ground-for-military-robots.md",
+      "title": "Ukraine has become the world’s testing ground for military robots",
+      "excerpt": "Artificial intelligence-powered vehicles have been used in war for decades, but the Russian War on Ukraine is the modern world's testing bed.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "originalUrl": "https://thenextweb.com/news/ukraine-has-become-worlds-testing-ground-for-military-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2Fmilremspecs.jpg&signature=e3193e6efd2ff6b5221db5b1f1ff5a31",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction.md",
       "title": "­­Speed ML development using SageMaker Feature Store and Apache Iceberg offline store compaction",
       "excerpt": "Today, companies are establishing feature stores to provide a central repository to scale ML development across business units and data science teams. As feature data grows in size and complexity, data scientists need to be able to efficiently query these feature stores to extract datasets for experimentation,",
@@ -1159,49 +1211,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-the-download-home-robot-surveillance-and-problematic-ai-text.md",
-      "title": "The Download: home robot surveillance, and problematic AI text",
-      "excerpt": "The images were not taken by a person, but by development versions of iRobot’s Roomba J7 series robot vacuum, the company which Amazon recently acquired for $1.7 billion in a pending deal. They were then sent to Scale AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/",
-      "originalUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/FWDo5Ks5z0Z3BAyZhHnVyFcVcKrzJnnayDPgPbgUMYZNjjuS4Xp6DlhY9QiZwUgS3hS53MkIY9erWLNgMZpPboC_994L9zqSFAlM2ATZrfjjVEPI41f697ktPRVatwyOSmVeIfpOMIOnuQFSYkAY-1_YjWIOIfAM0YeAp60PQPvNMSLSDbGRL-SrfE7Qsg",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/20/1065669/download-home-robot-surveillance-problematic-ai-text/amp/",
-      "publishedDateTime": "2022-12-20T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

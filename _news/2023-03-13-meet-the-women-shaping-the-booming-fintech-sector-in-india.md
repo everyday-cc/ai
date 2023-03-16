@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,49 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "MC Insider: Fintech Jamtara, versions of Digital India Act, problem of plenty and more"
-    excerpt: "The fintech is having sleepless nights to nip this issue! AI is the flavour of the season. While startups were putting blockchain in their bio to improve their chances of securing funding some time back, the new buzzword they are milking is AI. What's ..."
-    publishedDateTime: 2023-03-15T04:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html/amp"
+  - title: "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029"
+    excerpt: "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO"
+    publishedDateTime: 2023-03-13T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/08/absolutvision-bSlHKWxxXak-unsplash-652x435.jpg"
-        width: 652
-        height: 435
-        isCached: true
-  - title: "SVB's Collapse Highlights The Potential Of Metaverse Fintech In Banking Industry"
-    excerpt: "Metaverse fintech combines blockchain, tokenization, decentralized finance (DeFi), and virtual reality (VR) into financial services to create more transparent, decentralized, and efficient financial systems. Tokenization, the use of AI and machine learning ..."
-    publishedDateTime: 2023-03-13T22:49:00Z
-    webUrl: "https://menafn.com/1105768934/SVBs-Collapse-Highlights-The-Potential-Of-Metaverse-Fintech-In-Banking-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/13/EP_0a988image_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Fintech and tech startups still reeling from SVB shutdown"
-    excerpt: "Some tech startup clients had to scramble to retrieve money as the bank was closing. Many wonder which financial institution will fill the void."
-    publishedDateTime: 2023-03-14T15:15:00Z
-    webUrl: "https://www.americanbanker.com/news/fintech-and-tech-startups-still-reeling-from-svb-shutdown"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/9c79fdc/2147483647/strip/true/crop/4000x2100+0+281/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F04%2F99%2Fe56a3be44da1890c80134a850ecd%2F396532615-1.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
+    excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
+    publishedDateTime: 2023-03-13T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-to-2023-2029-2023-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
+    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
+    publishedDateTime: 2023-03-14T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "13/03 – Weekly Fintech Recap"
     excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."

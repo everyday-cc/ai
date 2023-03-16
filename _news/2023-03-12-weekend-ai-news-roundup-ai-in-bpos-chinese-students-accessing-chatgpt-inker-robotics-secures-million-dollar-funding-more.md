@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese search giant launches AI chatbot with prerecorded demo"
-    excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
-    publishedDateTime: 2023-03-16T13:22:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "AI News roundup: Big ChatGPT update around the corner, Koo integrates AI and more"
     excerpt: "Can AI help with climate change? Machine Learning might help solve the biggest problem on the planet. The shifting climate will significantly impact global environmental, social, and economic systems."
     publishedDateTime: 2023-03-13T13:31:00Z

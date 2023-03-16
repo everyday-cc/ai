@@ -874,6 +874,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-humans-and-our-alarming-fear-of-robots.md",
+      "title": "Humans and Our Alarming Fear of Robots",
+      "excerpt": "I couldn’t help myself. “Everyone? That’s disingenuous.” The Tokyo robot was one of many robots and other forms of artificial intelligence (AI) that have grated on my nerves. I’m not alone in my disdain. Scientists have been studying robot hate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "originalUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/3GG7tX1uWzasiXe98ywtHM/361ef445bef3b1d9511b3904ac9f3a4d/shutterstock_719376568.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-democrats-band-together-to-try-yet-another-federal-facial-recognition-ban.md",
       "title": "Democrats Band Together to Try Yet Another Federal Facial Recognition Ban",
       "excerpt": "A new Congressional bill, supported by 16 senators, would ban facial recognition and biometric tech for federal officials. But proposed federal facial recognition bans are a lot like hot new restaurants in New York.",
@@ -1062,58 +1105,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-tesla-pushes-new-full-self-driving-beta-v11-update-as-it-slowly-expands-rollout.md",
-      "title": "Tesla pushes new Full Self-Driving Beta v11 update as it slowly expands rollout",
-      "excerpt": "Tesla has started to push a new Full Self-Driving Beta v11 software update, but the rollout of the highly anticipated FSD Beta update is still slow. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/08/tesla-full-self-driving-beta-v11-update-slowly-expands-rollout/",
-      "originalUrl": "https://electrek.co/2023/03/08/tesla-full-self-driving-beta-v11-update-slowly-expands-rollout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

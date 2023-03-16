@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Future AI Again Named One of the Top AI Companies to Watch"
-    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "vEklsvtrhUEpGBQ9auNXhOyVNYEQeOICEcTeE9Jw90MUrttTukAguK+us3dlIrOml0lVp0sGEE0LyMn9WSmBtd8MIFMuz3e0mF31aZwfctyM1MqMHFVgehtHAvabuKB89/sbD+Ra33NmUlK4FURGVH3A6G2vYo1knu8sqzeRCjRokgvZ/CROyIyU7dB18baokrqDEAVOOaLwjNQiRvnRGBLGT6baqAEcWFC7W/RAJZIx9NnYyDYfBv+4odYe9AIQG+afQbbRcXKUTN5sq0HskpGXJWWqr+z/TQr+qJKwC36nbDs9mEICb5H/fograBWpb5wzbhm/wQ33ZregHoeNiiZ31u/5cTKx5oc7bwOEZAJXnAXK22V1LGb9+hAunjkVYMGtIvBO3OswX7i4mCZa8/Tn3IVewSXb5MBeEh6xIvpd25U8sbeCXskSOnvHpBjwxWGgwc0dbf1NePouzhEoZ3B7NztRYrmp6P6DAWPaWQCzNIj25yTXhcvvkL4WQkwXGyYYbIgwqV6J95pwc0duQA==;Oq19yOT93GImdL835aAYtw=="
 ---

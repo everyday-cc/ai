@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-16-balancing-the-promise-of-new-vr-techs-x-ray-vision-with-privacy-concerns.md",
+      "title": "Balancing the promise of new VR tech's X-Ray vision with privacy concerns",
+      "excerpt": "What exactly is this headset capable of doing? The headset built by MIT researchers has a system that combines computer vision and wireless perception to locate a hidden item. It does this by using radio frequency signals, which can pass through objects to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns",
+      "originalUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57b7a6d5-576d-4f03-ad24-50b2a587a598/20f0fdc2-3380-4b2f-98f1-2818a50d7287/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/balancing-promise-new-vr-techs-x-ray-vision-privacy-concerns.amp",
+      "publishedDateTime": "2023-03-16T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-heres-how-facial-recognition-is-changing-travel-through-bay-area-airports.md",
       "title": "Here's how facial recognition is changing travel through Bay Area airports",
       "excerpt": "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
@@ -237,7 +289,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -254,6 +306,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-14T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-facial-recognition-market-size-and-share-industry-size.md",
+      "title": "Facial Recognition Market Size and Share | Industry Size",
+      "excerpt": "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T10:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -334,15 +438,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects.md",
-      "title": "Global Object Recognition Imaging Systems Market (2023-2029)-Current Status and Future Prospects",
-      "excerpt": "Mar 13, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | Analytics | In This Reports Object Recognition Imaging Systems Market Provides ...",
+      "path": "_news/2023-03-13-uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029.md",
+      "title": "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)",
+      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-object-recognition-imaging-systems-market-2023-2029-current-status-and-future-prospects-2023-03-13",
+      "webUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -358,7 +462,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T23:21:00-07:00",
+      "publishedDateTime": "2023-03-12T21:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1226,10 +1330,10 @@
     {
       "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
       "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
-      "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona 2023. These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator,",
+      "excerpt": "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images.",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1317,101 +1421,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
-      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
-      "excerpt": "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
-      "publishedDateTime": "2023-02-27T21:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-in-computer-vision-market-research-report-forecast-2023-to-2029.md",
-      "title": "AI in Computer Vision Market Research Report-Forecast 2023 to 2029",
-      "excerpt": "Top “ AI in Computer Vision Market ” Size 2023 Key players Profiled in the Report are [, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 484,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

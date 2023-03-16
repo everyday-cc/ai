@@ -88,6 +88,38 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Microsoft’s new Power Platform AI copilot will build your apps for you"
+    excerpt: "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ..."
+    publishedDateTime: 2023-03-16T15:49:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/"
+    ampWebUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-083404.png?resize=1200,649"
+        width: 1200
+        height: 649
+        isCached: true
+  - title: "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy"
+    excerpt: "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ..."
+    publishedDateTime: 2023-03-16T17:39:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg"
+        width: 800
+        height: 489
+        isCached: true
   - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
     excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
     publishedDateTime: 2023-03-16T15:07:00Z
@@ -272,6 +304,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft announces Copilot: the AI-powered future of Office documents"
+    excerpt: "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Microsoft is announcing a new AI-powered Copilot for its Microsoft 365 apps and services today, designed to assist people with generating documents ..."
+    publishedDateTime: 2023-03-16T16:05:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642833/microsoft-365-ai-copilot-word-outlook-teams"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/MCWRZPfJKetruQ4U2vUA0NJDWho=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24512917/omb_hero_wholenewwaytowork_web.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
     excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
     publishedDateTime: 2023-03-14T09:00:03Z
@@ -318,6 +364,20 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 79
+  - title: "Microsoft’s real AI battle against Google begins with promise of new superpowers for work"
+    excerpt: "“Other times it will be usefully wrong, giving you an idea that’s not perfect, but still gives you a head start.” Microsoft already has some significant experience in human-AI collaboration. Existing integrations of OpenAI technology in Microsoft ..."
+    publishedDateTime: 2023-03-16T17:31:00Z
+    webUrl: "https://www.geekwire.com/2023/microsofts-real-ai-battle-against-google-begins-with-promise-of-new-superpowers-for-work/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/03/satya-ai-announcement-2a.jpg"
+        width: 978
+        height: 628
+        isCached: true
   - title: "Microsoft Bing now has 100 million daily active users, thanks to AI"
     excerpt: "Microsoft Bing has surpassed 100 million daily active users, thanks to AI pushing the search engine over the milestone."
     publishedDateTime: 2023-03-13T22:45:00Z
@@ -509,6 +569,34 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/06/microsoft-azure.png"
         width: 2100
         height: 1500
+        isCached: true
+  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
+    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
+    publishedDateTime: 2023-03-16T16:23:00Z
+    webUrl: "https://gazette.com/news/us-world/microsoft-unveils-ai-office-copilot-in-fast-moving-race-with-google/article_0d224b79-2648-5213-87f4-8b9d273f8c5b.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/4c/e4cf0464-6667-5366-b44c-f1406bfd9bf2/6413342fac157.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
+    excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
+    publishedDateTime: 2023-03-16T16:50:00Z
+    webUrl: "https://www.tomsguide.com/news/microsoft-announces-365-copilot-this-ai-could-revolutionize-how-you-work"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 52
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/q7WucqcgFFacsJ4X8USoH8-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
     excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."

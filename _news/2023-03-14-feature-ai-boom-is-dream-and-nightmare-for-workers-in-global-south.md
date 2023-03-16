@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/education/2378760-feature-ai-bo
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: devdiscourse
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "In the battle for the future of work, AI is not above the law"
-    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
-    publishedDateTime: 2023-03-13T15:02:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI boom is dream and nightmare for workers in Global South"
     excerpt: "But it’s still better than nothing,” said Raj, who sometimes rents out his ID to members of a Facebook group ... are at the bottom of the AI value chain,” said Urvashi Aneja, director of Digital Futures Lab, an Indian research collective."
     publishedDateTime: 2023-03-16T07:28:00Z

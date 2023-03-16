@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/you-can-now-enhance-your-linkedin-profile
 webUrl: "https://www.engadget.com/you-can-now-enhance-your-linkedin-profile-with-ai-written-suggestions-160054549.html"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: YAHOO!News
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "LinkedIn introduces AI tool to make curating your profile easier"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-16T16:38:00Z
+    webUrl: "https://www.zdnet.com/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d2bec1c778f4ce262742cdf3116870e745d67dcb/2023/03/16/ac5de713-2e87-4efd-895d-5602eeb3a287/gettyimages-1240444322.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "LinkedIn expands its generative AI assistant to recruitment ads and writing profiles"
     excerpt: "Earlier this month, when LinkedIn started seeding “AI-powered conversation starters” in people’s news feeds to boost engagement on its platform, the move saw more than little engagement of its own, none of it too positive."
     publishedDateTime: 2023-03-15T16:56:00Z
@@ -37,6 +53,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 40
+  - title: "LinkedIn teams up with Adapt to boost machine translation"
+    excerpt: "LinkedIn and Adapt have created a machine translation model that focuses on specific categories of information such as product details."
+    publishedDateTime: 2023-03-13T10:56:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/linkedin-adapt-sfi-research-machine-translation"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/AdobeStock_283773482_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "yoZK9Gpk2j7VqQg2XDhUV+n+/7hdt4Z8aR6to0P+x9KKskDp5CdHNs24FVlS7SlfKlmc6oWolR+ScDCeYR8YfsmtFY+ZpuRm1cge5LzvGP+V301w/WwvJUJl4uA/4GqEpIhyNPwLgjT8sk78AHQkmOzJS6kbG/AS8qMaFuYmAvMq7pxtifHml9wC0qVEji93NHM+ojOX3QWZaUua6NfJ0pYO+3p+Amrc2g5kRLHPIFi7uD9x5/KLg2zRfbHRued8bEnm2dR+m/g+6FT23MAcz2y8nGGQ/RrMzxMfObsehwFSSMu3ApFdeYn2Q4Uoa7tVPSf+VmtxIkuAgqCTejkV/aSSfwkr2TTSHC0zTm4KWbw0ryHUAGb1YwyDL3GMhH+w5Xnypnr6+C7gcjgOICr92q/0MBi1B6eYI9S71YBmNrHIZbHPk8nYeHuy9712SHd0Cm73dNdvYsMSs7E20nEJvKvbiwuHyWP+SyQ+9WrzM1CzXUDEAJ7fSltkZaLEE/clM7xAhviJTMOGNrQk9hRUSw==;t01r7TZ/Mw9qTKD0fpz+bg=="
 ---

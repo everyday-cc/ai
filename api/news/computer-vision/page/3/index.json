@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-11-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints.md",
+      "title": "SIA responds to lawmaker demands to halt facial recognition technology at TSA checkpoints",
+      "excerpt": "The Security Industry Association issued a statement Friday in response to several U.S. Senators calling for the Transportation Security Administration (TSA) to halt the use of facial recognition technology at screening checkpoints. The association is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
+      "originalUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/16x9/OPED_TSA_FACIAL_RECOGNITION_COMMENTARY_TB.63e6c83828109.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
+      "title": "Object Recognition Imaging Systems Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View",
+      "excerpt": "Feb 10, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | In This Reports Object Recognition Imaging Systems Market and its business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-computer-vision-market-size-to-reach-usd-4111-bn-by-2030-at-a-cagr-of-160-predicts-allied-market-research.md",
       "title": "Computer Vision Market Size To Reach USD 41.11 Bn By 2030 At A CAGR Of 16.0%, Predicts Allied Market Research",
       "excerpt": "Computer Vision Market The global computer vision market share was dominated by the industrial market segment and is expected to maintain",
@@ -1114,75 +1209,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy.md",
-      "title": "How facial authentication promises the automated future techies seek without compromising user privacy",
-      "excerpt": "Facial recognition technology can compromise PII, but facial authentication promise to deliver the security society seeks without compromising privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
-      "originalUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-robots-revolutionising-chemistry.md",
-      "title": "The robots revolutionising chemistry",
-      "excerpt": "Researchers working with automated systems are pushing the boundaries of what chemists can achieve in the lab, reports James Mitchell Crow",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "originalUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

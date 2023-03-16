@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
+      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
+      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
+      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
+          "width": 2133,
+          "height": 1906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
+      "publishedDateTime": "2023-03-04T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
       "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
       "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
@@ -1109,21 +1152,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
-      "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
-      "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
+      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
+      "title": "Robotaxi tech improves but can they make money?",
+      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
+      "webUrl": "https://www.bbc.com/news/business-64742934",
+      "originalUrl": "https://www.bbc.com/news/business-64742934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-790970,msid-98383543/stakeholder-consultation-for-digital-india-bill-likely-from-march-rajeev-chandrasekhar.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1131,14 +1174,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "publishedDateTime": "2023-03-02T22:41:00-08:00",
+      "ampWebUrl": "https://www.bbc.com/news/business-64742934.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp",
+      "publishedDateTime": "2023-03-03T00:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1147,51 +1199,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-artificial-intelligence-crm-a-future-forward-partnership.md",
-      "title": "Artificial intelligence, CRM: A ‘future-forward’ partnership",
-      "excerpt": "AI develops within CRM, it will have a financial value attached to it, says Mark Annett, head of CRM Sales and Consulting at Camsoft Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
-      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
-      "publishedDateTime": "2023-03-02T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
