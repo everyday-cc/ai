@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-and-forecast-till-2029-2023-03-15"
 type: article
 quality: 98
-heat: 478
+heat: 488
 published: true
 
 provider:
@@ -403,6 +403,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in ICT (Information and Communications Technology) Market Top Players and Forecast till 2028"
+    excerpt: "Many major technology players are [AIBrian, Amazon, ATandT, Aysadi, Baidu, Bigml, Brighterion, CloudMinds, Diffbot, Digital Reasoning Systems, DigitalGenius, Facebook ... primary and secondary research effort into the AI in ICT (Information and ..."
+    publishedDateTime: 2023-03-16T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-top-players-and-forecast-till-2028-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

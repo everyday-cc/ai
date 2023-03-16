@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Future Growth of the Cloud Natural Language Processing Market Size 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Cloud Natural Language Processing Market 2023 with 126 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
+    publishedDateTime: 2023-03-16T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-cloud-natural-language-processing-market-size-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Precision Farming Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
     excerpt: "Artificial Intelligence in Precision Farming Market 2023 with 109 Pages Report and enhance with extents shares"
     publishedDateTime: 2023-03-13T03:06:00Z

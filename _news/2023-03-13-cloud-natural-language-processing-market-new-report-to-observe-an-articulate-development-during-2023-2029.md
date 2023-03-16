@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Courses for C-suite Executives Market Is Booming Globally Forecast 2023-2029"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- Artificial Intelligence Courses for C-suite Executives Market 2023 with 107 Pages Report and enhance with extents shares..."
+    publishedDateTime: 2023-03-16T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-courses-for-c-suite-executives-market-is-booming-globally-forecast-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
     excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
     publishedDateTime: 2023-03-14T04:50:00Z

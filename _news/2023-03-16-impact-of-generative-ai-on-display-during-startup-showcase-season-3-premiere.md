@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-15T18:14:00Z
 originalUrl: "https://siliconangle.com/2023/03/15/impact-generative-ai-display-aws-startup-showcase-season-3-premiere-awsshowcases3e1/"
 webUrl: "https://siliconangle.com/2023/03/15/impact-generative-ai-display-aws-startup-showcase-season-3-premiere-awsshowcases3e1/"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "/xdXdKiFhHXUZdpOEfCLddvIZFG+Ue1RRVx76feodcxRNzyzF/H3NjyN//DdkqKxTeW+qfmU9v61qyr2I5101nrhmWH84wq5q6l8tIS7Cok9RBbA0xkkvOJyiqEG+0R1TAfYUMF0FniYqY5Xte75/JyHt7/LCBIzrLxMwQnOOgYar8uIXBBUSGSM9G2x8VcW0ueFe7eWXzzmLGNBumciOaBeXbr66YNAGl8FF7MFVxT6Zvz1ATZ0UAv53mbTOfrgiIJgLXCm5XvP6YxLi8Cy+LFyY5OGFdsxk9+8Fp/A1xarHDWuvczvs9QnhnOAfG4mcrah5sb0E29a9lvzQPzB4UBVx2HSeskqeXbDcwyVMjI=;xmBxlc0A1GrYdy+LuhgYOQ=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Luis-Ceze-Anna-Connolly-Clean-Thumb-2.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "r7IZTL4ubEEaypm+yhvN/++m6ToUtJT0W8D6WyeYFwa5KFbSd7EG+ZcGK8PqHk7RcXcLdJ5dr1wH8j+wjHEuUtFTs5lf+a9F9mXWXDqvUbJtoPDOFsNBAsx4Ej7Hehm2DSZ4+cXSTodN5/0IgREwV/MVPxZoTp2wNkl6nzYR9xuA222KABtvMgGtmAz7zFrVipKbFBYypcKNIGiH+UFCNq8TeT8kSKJSe0KPkvwih2gmwJqtJFMV9VENPJLr+ThELmbSLFUJtWrDemXYPGqtzijpPBzf0TUOEurR4JsFV6ugjaB46S+PGJK7LfDp0+wtjI0Ouo4aKukhXFz2cGWAPvDkf8VBqiYeWIfqW/SI2bs=;kwTCHGYj2Hh5/5aB81iJZg=="
 ---
 

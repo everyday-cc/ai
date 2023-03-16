@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 913
         isCached: true
+  - title: "China’s AI Chatbots Clam Up When Asked About Xi Jinping’s Leadership"
+    excerpt: "For companies trying to ride the ChatGPT wave, there is an added layer of headaches if their chatbots are in China: how to weed out any talk of politics."
+    publishedDateTime: 2023-03-16T01:52:00Z
+    webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-742011/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
     excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
     publishedDateTime: 2023-03-13T13:30:00Z

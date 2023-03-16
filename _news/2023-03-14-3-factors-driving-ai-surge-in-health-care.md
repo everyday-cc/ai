@@ -44,6 +44,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
+    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
+    publishedDateTime: 2023-03-16T08:00:00Z
+    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
+    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    type: article
+    provider:
+      name: Speaking Tree
+      domain: speakingtree.in
+    quality: 59
+    images:
+      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
+        width: 959
+        height: 420
+        isCached: true
 
 secured: "oTwR6+LBYID/HmV0K3q5DrJcQaiaQTPpWxOF4IGeA06pQvBjTLUNgcw6VijCjIK5cocY97FoNdf6HLZDs5tuvZag+Q26DzcfYBzjPHihIdIVhnOuEstIThhZGe0/LghKNUXlRR+oGMtKRePlQonNcj1zg07hQ449khEbwvYqAHZB7+SFdDrvXV8vEpESoU1ffHHg0Ftjhqu98MggzdkadclGW7L/Cl8/49kPUd/Ramuwg4r2Zf5NlqjRLlJpCkXKPQPYdWQl1PebCqszu8cD96aG4oWbIFpPQ+PcppyG2vPMjGYXB9dd0lqeVLxX7dzAJIGTH2yDBIWApmURulty1ztwYptBf8JbrWPVYfRZr6E=;5Zaxb+ud58/3JdD40rcQUQ=="
 ---

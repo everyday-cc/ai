@@ -168,6 +168,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
+    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
+    publishedDateTime: 2023-03-16T09:11:00Z
+    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
     excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
     publishedDateTime: 2023-03-15T13:24:00Z
@@ -337,6 +351,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "QSxqx7UOvGCWWSNXQsgCYIjkZpf1hY6EMGb3b4dPUwZXZFUZK87/Xeenf07FBhkAUkoqsMFJeSG7DUUP8kgHl08P3pGKGEcuETjU5Ww48iIjzUHtsBg1tDAh9JH5XgOvqSGcC48+UyRrT2VAmfbAxWhF7TeAEt7MX8mbWNajotDz2teWaU+9K/5Icf5aDDL43TJMyEixhIIO4U/CkKcX0JAy2ZG92S+P2YMqdlkdxMHVZ8K3CVRNbs8ftyJtJOFLCdeRMfCJXHuoUPMe80agoW1Te1zBcjB5QlHW/nyPfXf5sSivDtn31k1C9k2s519R0n0fSM5IJgxJ6NZbht7zQhhDsS0e2cKw5dOB5vH+Z/s=;QlGQewbVRL8STw3F2WUFXg=="
+secured: "MW4qnieohxm33ui/Ij6PlQ2SGjWEatJ+1wfcdDXxzvd6WulEhBd3aN2kaKPP/rsRmd0U1lNQsjibWP+aCGUgxKR0FJPj7m1Z61/LkgxfIHS1nxt7+nYFepV1yUh5dAO7Y62de9QzZo5m2kMI11XMakOUFH2X2FvadPwwviryDs1MuMarDqb7uOYMglrkenPRHwiTpLeb6Xf8RZRKN2vs57ss2444owfmr9t5/cofDYEqNWouHuj8ZIU8ubKW2EVlTTdLSoSeT76IGHXBt2o4sSx7DK+/USTmbcT6chGZLRFwRL/ZArt5GMSu0U5VgQ5ODL3LXnpfY799yYc/WdHa+vqJue7TeIJD5xRuN9xAv7E8JsnY+hpYJK8y2xlLi1cUa3V6LAKu/HcjmyDI+MkvbiXdYzbkEGJxxEv/KJDGWtDaeWVbCVJyBPbc96tb9gyzhdGcw8YfrbfEl0z2ZGxAeRziuboE4vNnKUcuMNoRi7882+ai/2XiKzkdWBZP1p/cNwEMnGVYqJCYiB1ZrdUSzA==;OWyqI/r0H9rM2IMXvsaPlg=="
 ---
 

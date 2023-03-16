@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "MLOps platform Seldon raises £20M Series B to improve the productions of AI models"
+    excerpt: "The rise of ChatGPT has fuelled growth in the public awareness of AI, as well as the growing discourse around AI ethics. How should AI be used? What are its implications for society, not just business? The inherent bias within AI applications — remember ..."
+    publishedDateTime: 2023-03-16T08:16:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/Seldon-Team-Photo-1.png?w=734"
+        width: 734
+        height: 490
+        isCached: true
 
 secured: "LmJFAFRsoXuivHLHw/Vu2lOU3pyYbD9ync5uuDMr48XZD+NlcKFeZHjNeyTg3Y2nstQXq7Cnp5sdVwci8dJb3Gnbpi1Qr0XidUqf/I7zdyJMuLAFwlt37j8QhCaRFiFKyo6ZB3gAjzlMwjC4CZYCBtylthb5CAjMa2ihX2h0FzLxbicvjAG44XmGT9NF3/pfVT/jyE5lN+PFwfK70Hsz+FtnY28QufLHEdDT+Ye2Cy6qTYmztLhqFA/Ilr8yi3NXnE6HUg9RA1y49uP4SaVDSIJCS8i1fquZHhve8oLu64lwT9gXpLD1SbUSOpqtJl6B6dj+8yQyaJe715JdGvGOam5MnrhMyOkzy/FlEYRrZj0=;31G0AwkyvWPx5C+xJWpfxw=="
 ---

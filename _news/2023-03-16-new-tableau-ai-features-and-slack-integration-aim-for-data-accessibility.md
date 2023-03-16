@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Inference Processes Data And Augments Human Abilities"
-    excerpt: "Artificial Intelligence (AI ... The second-generation device also supports Vision Transformers (ViT acceleration, a neural network that is capable of many computer vision tasks, such as image classification, object detection, and semantic segmentation ..."
-    publishedDateTime: 2023-03-11T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/"
+  - title: "DVT hosts webinar on AI, accessibility"
+    excerpt: "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter."
+    publishedDateTime: 2023-03-13T06:33:00Z
+    webUrl: "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640ccf931512cebf767aa26b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.itweb.co.za/static/pictures/2023/03/Rory-Preddy-13March2023.jpg"
         width: 1200
         height: 675
         isCached: true

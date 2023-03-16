@@ -39,6 +39,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
+    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
+    publishedDateTime: 2023-03-16T08:00:00Z
+    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
+    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    type: article
+    provider:
+      name: Speaking Tree
+      domain: speakingtree.in
+    quality: 59
+    images:
+      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
+        width: 959
+        height: 420
+        isCached: true
   - title: "3 Factors Driving AI Surge in Health Care"
     excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
     publishedDateTime: 2023-03-14T12:49:00Z

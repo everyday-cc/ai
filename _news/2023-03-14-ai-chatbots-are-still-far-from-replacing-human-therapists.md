@@ -32,6 +32,20 @@ related:
         width: 1024
         height: 913
         isCached: true
+  - title: "China’s AI Chatbots Clam Up When Asked About Xi Jinping’s Leadership"
+    excerpt: "For companies trying to ride the ChatGPT wave, there is an added layer of headaches if their chatbots are in China: how to weed out any talk of politics."
+    publishedDateTime: 2023-03-16T01:52:00Z
+    webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-742011/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Opinion: AI chatbots are still far from replacing human therapists"
     excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ..."
     publishedDateTime: 2023-03-14T16:39:00Z

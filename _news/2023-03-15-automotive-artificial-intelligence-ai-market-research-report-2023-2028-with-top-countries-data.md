@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ..."
+    publishedDateTime: 2023-03-16T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
     excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
     publishedDateTime: 2023-03-13T03:36:00Z
@@ -144,6 +158,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Industrial Market\" Report New Research Report 2023 gives A detailed market analysis on business plan ..."
     publishedDateTime: 2023-03-15T22:00:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-industrial-market-assessment-report-by-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market Foreseen To Grow Exponentially Over 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market 2023 with 127 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
+    publishedDateTime: 2023-03-16T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-foreseen-to-grow-exponentially-over-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch

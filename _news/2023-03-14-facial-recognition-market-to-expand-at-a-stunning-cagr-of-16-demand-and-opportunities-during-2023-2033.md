@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Courses for C-suite Executives Market Is Booming Globally Forecast 2023-2029"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- Artificial Intelligence Courses for C-suite Executives Market 2023 with 107 Pages Report and enhance with extents shares..."
+    publishedDateTime: 2023-03-16T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-courses-for-c-suite-executives-market-is-booming-globally-forecast-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market (New Report) to Observe An Articulate Development During 2023-2029"
     excerpt: "Cloud Natural Language Processing Market Size 2023-2029 | New Report (126 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-03-13T04:14:00Z

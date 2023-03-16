@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can make marketing more effective"
+    excerpt: "Once you’ve used AI to optimize existing marketing content, it’s time to start generating new materials. Here are a few of the best AI tools to help you create new marketing content. In a word: no. Conversational AI is a tool that can provide new ..."
+    publishedDateTime: 2023-03-16T08:47:00Z
+    webUrl: "https://www.fastcompany.com/90866508/marketing-ai-tools"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 34
   - title: "AI-powered reminders help Penn Medicine doctors improve end-of-life care for cancer patients"
     excerpt: "The AI-based algorithm found high-risk patients who would likely ... connecting with others in their final days and outlining their goals. Kumar and her colleagues start a relationship with a patient by asking for information preferences, such as whether ..."
     publishedDateTime: 2023-03-16T03:48:00Z
