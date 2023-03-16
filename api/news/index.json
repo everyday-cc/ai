@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
+      "title": "After year of downsizing, DataRobot unveils new AI platform",
+      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "publishedDateTime": "2023-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
+      "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
+      "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307599ad3c88f6036653b55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 905,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
+      "publishedDateTime": "2023-03-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance.md",
+      "title": "Fairmatic raises $46M to bring AI to commercial auto insurance",
+      "excerpt": "The startup raised $46 million in a funding round led by Battery ... A and this new capital will be used to accelerate our lead in bringing the full power of AI to commercial auto insurance. Fairmatic is making strategic hires across the globe and we ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-993491068.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/",
+      "publishedDateTime": "2023-03-16T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-artificial-intelligence-will-replace-work-jerks-people-skills-will-become-more-important.md",
       "title": "Artificial intelligence will replace work jerks. People skills will become more important.",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. It's almost the weekend, pals. I'm Diamond Naga Siu, and I watch about one movie per year. Last year was \"Bullet Train.\" This year, it was \"Everything Everywhere, All ...",
@@ -61,7 +218,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -164,7 +321,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-and-forecast-till-2029-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 498,
+      "heat": 508,
       "tags": null,
       "images": [
         {
@@ -374,7 +531,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -614,7 +771,7 @@
       "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -914,7 +1071,7 @@
       "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -969,7 +1126,7 @@
       "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1113,162 +1270,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
-      "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
-      "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411db2e9106984023d501fc/0x0.jpg?format=jpg&crop=2144,1206,x0,y235,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "publishedDateTime": "2023-03-15T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
-      "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
-      "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y21,safe&width=1200",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-tesla-full-self-driving-beta-v11-is-coming-this-weekend-if-you-believe-elon-musk.md",
-      "title": "Tesla Full Self-Driving Beta v11 is coming this weekend, if you believe Elon Musk",
-      "excerpt": "After months of waiting, Tesla Full Self-Driving Beta v11 is going to a wide release this weekend, if you believe Elon Musk. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "originalUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

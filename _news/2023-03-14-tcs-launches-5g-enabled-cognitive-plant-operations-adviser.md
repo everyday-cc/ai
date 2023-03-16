@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "TCS launches 5G-enabled ‘Cognitive Plant Operations Adviser’ for industrial cos"
+    excerpt: "The ‘TCS Cognitive Plant Operations Adviser’ for the Microsoft Azure PMEC will enable companies in these industries to leverage AI and machine learning (ML) to build intelligence, agility, and resiliency, the IT services firm said in a statement Tuesday."
+    publishedDateTime: 2023-03-16T11:57:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/enterprise-services/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-industrial-cos/98626269"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "kFCEyOIOQMQrietQlgkHvyD+ofpyDmJaIjg0xHMH7osOfnbQdAo29hZ9S2mti9YBg9b+zZ30WO4IPkidF4lQWTaetkDd6mBiLYfCaqqvdSkC+XljiXGfFNRzliTAwY94DeeqtlMgQ9u+0uLIBa9Pe1NJg8zSvQCgK/d4foOBCQTqE+9Zf/tN2PwUIypaEF81QGQWJPz6LuCMTfaZnixnobXhTssbEdjgSAaH9vmp1Vo2rG/lJeOvdAOU5qPalp0QuZejTZRSy5xdxgFwzrkxqT2hYI4c/P+FostvWNQlr83JBro2qRDvchIxHvUHavnQ9RAT3/9jNGS3BBi4g5KGHyQdvbsGc3xt8D57VUUXRgM=;6ncWq97U7xQAujNlzMSPJQ=="
 ---

@@ -16,6 +16,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "zHAsG+pTxT7Icv8/OyqrEmbVL/wyFDbu7vbUcHksfFWrMTinHukzLdYc32XKoHlEb0LCXVIjx0o1Ykvj30EzHDON91smfU3RdE5p6EX69I3lnHwXT37zPKcQlHs9epDBRWghtO7f9E9aB8u35Gb3nmuqknM7s8XAE/GifXeBe21+XMPao+9Mtg0d9u1kAcJsfv/PFfZeesD5OE8bSwuGXRrRq1UgGWp1h9fz8CFk84iBYIk3tYgOB58z4tZ7Ow0yqUa3EVKJLCfeIcb2mSwGg6AQeFFmzNE6z7ZxaJ3qFdQ1A6oeBDuv9lKMlNl7ijawzlqsmwC88atXpEsuFyRfCZ8rbbPYojDK2hBhQFkvlDE=;VwWCrGir/S1UGZ7GfEK4xQ=="
+images:
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
+    isCached: true
+
+secured: "q6UAF+BzMGR/km6AIFIUB6P4bmr6RyLdxFHNMhlQ1mXxX8F9XQ+oxn27yCMpx1HwBqJjQyMLCnsDmQweNl057xQ0G4KPzd5Q8DqChB+Mza/Lpwa0wLVEW1Ja1fBO25d5moSYH+HS7nQWxdKTGsSUrn/+YmIaO99NkEvF3G0gJZQZHN6dZpC4+4gdFCtYR8M7jkSJeqxrZNoN+e3/odnOjtgFQfwvqMKiqXY38224br7SGAuvEKwN8qrPhg/D23g5oOl5QOyj53wpqULBeiD53nwQe7HtynZIz1CHPYCKUj/iA3tFUaNYIpwgJA7cDfG5VtU15KQbGgKxdBL0n750m0e8t+awlfUje39uhtr8ZRU=;Pf9fGeqKYpAzn0ddG3qHcw=="
 ---
 

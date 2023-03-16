@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T17:59:00Z
 originalUrl: "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
 webUrl: "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ABC 10 News

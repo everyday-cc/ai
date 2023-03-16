@@ -359,17 +359,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
-    excerpt: "The company behind the ChatGPT chatbot has rolled out its latest artificial intelligence model, called GPT-4, in the next step for a technology that’s caught the world’s attention."
-    publishedDateTime: 2023-03-16T10:21:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article273173795.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article273173795.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article273173795.html"
+  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
+    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
+    publishedDateTime: 2023-03-16T12:36:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 23
   - title: "OpenAI's GPT-4 Model Can Ace The SAT, Pass The Bar, And Explain Memes"
     excerpt: "GPT-4 was just released by OpenAI today, and the company describes it as \"the latest milestone\" in deep learning. As a large AI model, it's essentially similar to GPT-3—it accepts text and images as input, and it can give text outputs in response."
     publishedDateTime: 2023-03-15T12:59:00Z
@@ -379,6 +377,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 19
+  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
+    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
+    publishedDateTime: 2023-03-16T13:35:00Z
+    webUrl: "https://mynorthwest.com/3858278/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 17
   - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
     excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
     publishedDateTime: 2023-03-14T19:41:00Z

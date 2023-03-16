@@ -9,7 +9,7 @@ ampWebUrl: "https://mybroadband.co.za/news/smartphones/483631-samsung-galaxys-mo
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/smartphones/483631-samsung-galaxys-moon-photos-are-fake-report.html/amp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Samsung busted faking 'space zoom' photographs of the Moon with AI"
+    excerpt: "Samsung has seemingly been busted using deceptive marketing tactics of not informing consumers that an AI is upgrading their shots of the moon."
+    publishedDateTime: 2023-03-14T10:45:00Z
+    webUrl: "https://www.tweaktown.com/news/90717/samsung-busted-faking-space-zoom-photographs-of-the-moon-with-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 37
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90717_8987_samsung-busted-faking-space-zoom-photographs-of-the-moon-with-ai.jpg"
+        width: 620
+        height: 310
+        isCached: true
 
 secured: "VsRZr0qwjCNQhY2x+ZEaSqm8wg9LuBiwXza+v79GKQJgDroziL1j3IjQ3MhFx1ND3EyZ4x1bKVWDTyNTRWcJqWEIafLl/I+sUNeIpKRFFWsqzfvh8nog4By54LADaITY+ZIN55+ajjpEdws2CU84f7O74232uHraqX38gNKSJKVV8xOIouBzpJwVmkP3K2wjRoGXKOywA3rixXGxJ47jo0tpmF3oRmjVi+5BzLG6CxBnBkyXsaP0WovGYSI9Tpt4bRClHVtGlnVUvrg3mjF+SEtNlbrBKC6Ugi8S3giHAEu+iz3ghjOUwp+IZelkmFozOiSpdVka8ym4Zct/EEDtrlINI5VvG+f/kNkyG13lvNaG8ejdVGyaQmTePyEx1yF5xWAjNu7TNQMcuPollk7IavDh7zzZazd1sD5g2+tHaOUGrpH1xHTMv0ZjizgJE/KsdBCRlW6/vO7aiaOGBmlxnJFOcAGFCnlTVbWC+ggiW/aUOINjNLKHawy5pp/jPRs8vSWUCP7xlDY4WQ6QGLtftw==;PkrR1Btev9zyweRQghaHkg=="
 ---

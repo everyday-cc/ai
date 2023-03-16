@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165109829933"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678761361048_now_staytuned_gsc_ai_voice_230313_1920x1080-blmx8n.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Google’s AI healthcare tools take center stage, raising ethical concerns"
+    excerpt: "Google popped the hood on a variety of healthcare tools built with artificial intelligence (AI) this week, from consumer-facing search and symptom-checking features to apps designed to help doctors screen for tuberculosis and plan cancer treatment."
+    publishedDateTime: 2023-03-16T14:15:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 70
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1235961216.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "K/dOnTFd3XvkYlxbeWCdEyhOx2agL/ST+Zh4rVK3V5bQ1QWTPwicUYKnNl/X7/YPLzmiT1NajAmtP05IeS4pkI5BhTWGCFN/GaR7JTtVs3nGjEp+qUDYoJpY3Tp3qSWtokLXwHUXhRmPdJPO7IZIf7RznTNftiFMjpqIxduuqZpiiOJ8Jp+twIFETQ2mwN67FM0ykloF7MNwl55ZMp1VHE1Xj6w25QmsTmAzTXnPKZDJ+5YbVSlrrI5oMRr4HcFEsRIo4GXT/pq7h/238v9/VAfWUQYvZaIT6B9Cp+lz0Bj/ysS6vtBOeOl9Ssd2aVImEW4NrsuwndOlSRhR3lIq1I2/S+vXJnIENtHCV5jOSz1R78XmYVy/h2S3KpWTV0na08LngAmiT532ltnBGMuahfGb8X7gnJGgbwds/YEVwqNPooZHHMxLbxP6VrL6LH+akT65/WHYI90YAQTxtbTIf2LL5pjYyK0DxGGVwqw6JJkvoOMeqTPCq3HHXacRe8ZOkgoHVWD+Miw+9hoLVF4jvw==;qL8fSVBC8lnqV+PJHV7Bfg=="

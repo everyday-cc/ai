@@ -2,6 +2,85 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-06-generative-ai-drives-an-explosion-in-compute-the-looming-need-for-sustainable-ai.md",
+      "title": "Generative AI drives an explosion in compute: The looming need for sustainable AI",
+      "excerpt": "There’s one problem with this generative AI explosion, though: Every time DALL-E creates an image or GPT-3 predicts the next word, this requires multiple inference calculations that add up to significant electrical demand.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
+      "originalUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-excessive-screen-time-during-infancy-may-be-linked-to-lower-cognitive-skills-later-in-childhood.md",
+      "title": "Excessive screen time during infancy may be linked to lower cognitive skills later in childhood",
+      "excerpt": "The amount of time babies spend watching computer, TV and phone screens in their first year of life may be indirectly linked to lower cognitive skills later in life, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "originalUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/screen-time-gty-bb-230201_1675259672781_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "publishedDateTime": "2023-02-04T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
       "title": "A quicker return to school may help kids with concussions, study says",
       "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
@@ -1383,93 +1462,6 @@
       "provider": {
         "name": "CRN",
         "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
-      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
-      "excerpt": "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-ai-chatgpt-is-helping-ceos-think-will-it-also-take-your-job.md",
-      "title": "AI ChatGPT is helping CEOs think. Will it also take your job?",
-      "excerpt": "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "originalUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
-      "publishedDateTime": "2023-01-23T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

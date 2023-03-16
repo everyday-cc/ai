@@ -22,6 +22,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Is Artificial Intelligence the Next Frontier for This Crypto?"
+    excerpt: "Ever so quietly, Cardano appears to be making a push into artificial intelligence (AI), and this could give it a huge competitive advantage against other blockchain networks that have yet to embrace the future of blockchain-based AI. A new move into AI ..."
+    publishedDateTime: 2023-03-16T12:06:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/16/artificial-intelligence-next-frontier-for-crypto/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
+
 secured: "SdrFMWXDU3kVcxR35u7g0MxhbnCrCW/lZxsoV1RO4OZhswnTNrqbwg2D4r/gXNBNmMQ1G8DRvDSLHOjMBf4lZWIDPfgnCQa0NQTGgz4DcRVLpk2efgo2HvchjaNx+J5Pw0yxFDfJlh235lOf3Ko1ZokcYwQaQcJdKrq3Her38XG1w7+ZSwRHhAZaHFjzzc6n0ZBMtpMxQP8u+bCEW05gSrVLc/VOzRIHp0mRRDBseUwSHw5dfFNUcQMP2zANeIlkFyk4t+i7554Eh7Jymlslpl9SebXB+B95f+8TtVxSoZlcxmRcQJQNKPBf5NJBsXgv0JhHG3RqGPr6O/9NaUWab9EqPn2GnzczwoUrKQa7DNU=;maQit3Y911ubd2+TAz3UXg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T13:18:00Z
 originalUrl: "https://www.popsci.com/sponsored-content/translating-wireless-earbuds-deal/"
 webUrl: "https://www.popsci.com/sponsored-content/translating-wireless-earbuds-deal/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Popular Science

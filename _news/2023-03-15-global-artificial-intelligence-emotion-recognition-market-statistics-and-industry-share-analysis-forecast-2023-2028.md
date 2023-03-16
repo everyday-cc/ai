@@ -566,6 +566,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market Top Players and Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Speech Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-16T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-top-players-and-forecast-till-2028-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Global \"Artificial Intelligence (AI) Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
     excerpt: "Global “Artificial Intelligence (AI) Market” [Latest Research Report] 2023 provides a comprehensive analysis of"
     publishedDateTime: 2023-03-15T11:05:00Z

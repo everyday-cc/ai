@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
+      "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
+      "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/N8oH5-YytfIMlpB4TZfnbaWyL0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMPAA4VKZJKEBEQQG3QVAB4P4E.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
       "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
       "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
@@ -1381,40 +1434,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability.md",
-      "title": "AWS announces AWS Space Accelerator 2023 to promote global space sustainability",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-aws-space-accelerator-2023-to-promote-global-space-sustainability-sg2nmcra?amp=1",
-      "publishedDateTime": "2023-02-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

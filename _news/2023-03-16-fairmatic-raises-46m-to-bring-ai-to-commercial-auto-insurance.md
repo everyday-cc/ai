@@ -5,7 +5,12 @@ excerpt: "The startup raised $46 million in a funding round led by Battery ... A
 publishedDateTime: 2023-03-16T12:04:00Z
 originalUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/"
 webUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/"
+ampWebUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
 type: article
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,32 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
-secured: "a03fpY05PUZMdWyJO6nYPdBKyuAhU9yp0Y04HdQm4L+mI3D8NG670FK8ZOi1P54kQQsb652Qkeovzn30tFXgmG4quDlBbf1uu6NoK+AOaVT39aT1lVNaX0rjSiAtWM2OcKoLo65//J5ObSIZK2KThPonHbsUSSQhXm6SlKxMm2JJuqhGQafN3doy+l3lxTIlBrLjzWbn0og2EorSNvqc2DUYjxhA6Lt4gvL4RnvILnhFQ28IYD6lesWkGm5k0pp56h6Te6PQeH/padU3F/zxI1Rmgy66FWRNPliaE2/era8ejHOPJ0PL/+2X39UyvOuVFFdlZPlm30Q1mhoFhZADV+ZEW6Of6C7Mwybdej9BNFHFe+NFxccKFbmzPbwkOiqPdfC1UDBCT5/69aS9+tJFUUJo1xfwIY++3qp17LsJFg+pEE/NX1HdAnVFAtGFl8Yf4hbYJ8FjB/ftDJEenq+KddR3oQnKUE0xpyBXSqcaHUlKmS86YS6DaMeOnD98zevBJtr9AXyVZfc2QHc3Ze1mpg==;BSh1XBT59efClz3fX+A0pQ=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-993491068.jpg?resize=1200,800"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Cast AI raises $20M to help companies reduce cloud spend"
+    excerpt: "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ..."
+    publishedDateTime: 2023-03-16T15:04:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/"
+    ampWebUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
+        width: 1200
+        height: 804
+        isCached: true
+
+secured: "IJd1jW7ela07YPeTAAfVgLdeaePGgBDZQwCqC3u7+2goK7Cyar1xURvCYfFuW2GcgWjXGWcCL4x1+oVn1wSQI3/mj7VVofRdA8SQeoIvQQfZ3ccZlpppBQMBpN6ZoYwSMexCuf/6peTBfPEA8vH3CJZ5LwUvrPfhfA76o17Hvcg/v4ffmhxdgkN4ZoWlyswBUvVpEzTWKHhYI6MlVBXQMhNdqeDPd2r+T6YsUimURnS0AI7HeiCuUk5PGr2fkGMgQi3a4jyN4upnDhUpMpKWlVHiVpVAfKp4wGGWK0V4JQLq/BS85677/8H3UiT+T6Sop84FoBg8AQnt2jFDlOfu9yBneBVySCa4S5GMmbOtySo=;Bua+d9WRBEP8RmoCuKnG4Q=="
 ---
 

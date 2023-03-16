@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all"
         width: 1200
         height: 598
+        isCached: true
+  - title: "How AI Is Changing Artistic Creation and Challenging IP Laws"
+    excerpt: "The use of artificial intelligence (AI) is gaining notoriety among traditional and Web3 artists alike. While some creatives worry that AI will one day replace their jobs or steal their work, other artists have welcomed the technical experimentation and ..."
+    publishedDateTime: 2023-03-16T15:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://www.coindesk.com/resizer/hWylKqpm_gM9JyGcJpKuf8__ROo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FP3Q3PWCCVFCBMOI6Q4CJIGBDE.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "How AI changes the investing game"
     excerpt: "What happens when computers start running the show? Here are a few observations ... And the latter feels like it is 100 times faster than the former.” 2. AI thinks quickly, but not deeply. Generative language models look and act smart, but they can ..."

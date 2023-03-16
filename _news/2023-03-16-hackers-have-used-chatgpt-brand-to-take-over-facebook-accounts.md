@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T12:10:00Z
 originalUrl: "https://www.consumeraffairs.com/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
 webUrl: "https://www.consumeraffairs.com/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: ConsumerAffairs

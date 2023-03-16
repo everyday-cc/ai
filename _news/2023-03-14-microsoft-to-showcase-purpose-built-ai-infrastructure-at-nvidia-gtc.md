@@ -87,6 +87,36 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
+    excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
+    publishedDateTime: 2023-03-16T15:07:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/elon-musk-questions-microsofts-recent-ai-ethics-layoffs/447740"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 101
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678977683-GettyImages-1241429377.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The AI-run Microsoft 365 Copilot is supposed to make people work smarter and not harder"
+    excerpt: "Our efforts are guided by our AI principles and Responsible AI Standard and build on decades of research on grounding and privacy-preserving machine learning. Microsoft’s work on AI is reviewed for potential harms and mitigations by a multidisciplinary ..."
+    publishedDateTime: 2023-03-16T15:32:00Z
+    webUrl: "https://www.neowin.net/news/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    ampWebUrl: "https://www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678979472_microsoft-365-copilot_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft Cuts AI Ethics and Society Team as Part of Layoffs"
     excerpt: "The move has caused questions about whether Microsoft is prioritizing its competition with Google over long-term responsible AI practices. In its most recent round of layoffs in January, Microsoft let go of its ethics and society team, which was dedicated ..."
     publishedDateTime: 2023-03-14T15:03:00Z
@@ -167,6 +197,22 @@ related:
         width: 1999
         height: 1125
         isCached: true
+  - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
+    excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
+    publishedDateTime: 2023-03-16T15:15:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 90
+    images:
+      - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
     excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
     publishedDateTime: 2023-03-13T14:51:00Z
@@ -211,6 +257,20 @@ related:
         width: 2309
         height: 1299
         isCached: true
+  - title: "Microsoft 365 Copilot uses AI superpowers to eliminate work drudgery"
+    excerpt: "AI has simply exploded across the Internet ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-03-16T15:56:00Z
+    webUrl: "https://www.pcworld.com/article/1661514/microsoft-365-copilot-is-microsofts-ai-powers-applied-to-work.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/microsoft-copilot.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft lays off an ethical AI team as it doubles down on OpenAI"
     excerpt: "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes."
     publishedDateTime: 2023-03-14T16:41:00Z
@@ -233,6 +293,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/03/NVIDIA-Microsoft-logos-source-Nvidia-0323.jpg"
         width: 600
         height: 300
+        isCached: true
+  - title: "Microsoft unveils AI for its office suite in increased competition with Google"
+    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
+    publishedDateTime: 2023-03-16T15:48:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-unveils-ai-its-office-suite-increased-competition-with-google-2023-03-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
+    images:
+      - url: "https://www.reuters.com/resizer/_NQbA-VH5pj-ejAXzvVqYEdNpmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IP3JX4KXTRPF5KXX6KBRGYQUB4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Microsoft unveils an AI virtual machine powered by Azure and NVIDIA"
     excerpt: "Microsoft has announced details of its latest VM destined for artificial intelligence workloads as the company continues to develop and release AI products following a substantial investment in OpenAI,"
@@ -373,6 +447,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
+    excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
+    publishedDateTime: 2023-03-16T13:25:00Z
+    webUrl: "https://www.techradar.com/news/gpt-4s-smash-success-could-hamper-ai-usage-for-microsofts-b2b-customers"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
   - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
     excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"
     publishedDateTime: 2023-03-14T13:52:00Z

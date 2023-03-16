@@ -358,17 +358,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
-    excerpt: "The company behind the ChatGPT chatbot has rolled out its latest artificial intelligence model, called GPT-4, in the next step for a technology that’s caught the world’s attention."
-    publishedDateTime: 2023-03-16T10:21:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article273173795.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article273173795.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article273173795.html"
+  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
+    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
+    publishedDateTime: 2023-03-16T12:36:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 23
   - title: "GPT-4 unveiled: OpenAI’s latest language model takes creative leap"
     excerpt: "OpenAI made their latest language model, GPT-4, available to Plus subscribers on Wednesday. Here's what it could be used for."
     publishedDateTime: 2023-03-15T12:31:00Z
@@ -387,6 +385,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 19
+  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
+    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
+    publishedDateTime: 2023-03-16T13:35:00Z
+    webUrl: "https://mynorthwest.com/3858278/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 17
 
 secured: "rft99oluwzhacHg7GKJv4XzGB4nFJaDA/HaY19YIabrXbflXCR7EnNTVNwPtiAvUv2nREmGkxLuPQoQJ6DVfbcSDknHTzJmF9owzIY+aZnj9fhY034sJFmY4YzIyrgLFPBap+cq6iBRp0liTG8Ln92ZZ4pKAv4xFPYNbqs5T76SgSRBmDiiH81GUK+RL+5DGOPPKwax1YyRJ/NTWzfYEkpcZ/k3sjJ4Vd0wrqVKxkC8r6pMsdRYDhfVS9OdyscYuxf/Aut5TE+WlKhnYSBr0GvO2WAC4Zf+UOQ+GEEVxSPQKcjUnZcrxibLNIrkfGvW7Hu3sR/TCRWPmBCk9tnN3Y1rkmLnjAYFLAt9T46dRTa9zaIIjLhj0LicKdzAXTrY7b6Wy6C+WJJlogrkf0R443c2E3QxcBdgPOrdy9vTYc+HTqbn0uw7qv0DxLaKOuvLzOuu/6zMVLDB6wqDQdBiAd7RpCHn4Yl2rR3Hc+Vr2qrLF5F6+Cd5zWW1hKg6rUVqf+tNtKeGWjL2GJf/t/TGlwg==;HnQ5QoUQKECJm2di7dVDJA=="
 ---

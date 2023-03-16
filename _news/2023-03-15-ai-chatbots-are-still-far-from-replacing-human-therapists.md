@@ -95,6 +95,20 @@ related:
         width: 345
         height: 238
         isCached: true
+  - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
+    excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
+    publishedDateTime: 2023-03-16T14:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/03/16/the-tech-behind-those-amazing-flawed-new-chatbots-quicktake/7fe87cf0-c408-11ed-82a7-6a87555c1878_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5HYGBWEBAI63AVHNKDVKXAYPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Snapchat’s AI could be the creepiest chatbot yet"
     excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
     publishedDateTime: 2023-03-14T23:47:00Z

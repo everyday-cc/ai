@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T09:00:00Z
 originalUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d?mod=latest_headlines"
 webUrl: "https://www.wsj.com/articles/ai-food-startup-notco-hires-activisions-fernando-machado-as-cmo-dbc4dd8d?mod=latest_headlines"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

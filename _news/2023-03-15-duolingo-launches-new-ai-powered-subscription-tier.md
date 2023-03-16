@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T15:55:00Z
 originalUrl: "https://www.cnet.com/tech/services-and-software/duolingo-launches-new-ai-powered-subscription-tier/"
 webUrl: "https://www.cnet.com/tech/services-and-software/duolingo-launches-new-ai-powered-subscription-tier/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: CNET

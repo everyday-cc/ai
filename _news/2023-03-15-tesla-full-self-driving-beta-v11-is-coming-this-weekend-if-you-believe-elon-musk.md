@@ -7,8 +7,8 @@ originalUrl: "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is
 webUrl: "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Electrek
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "GM’s Ultra Cruise Chief Engineer Deftly Jabs At Tesla And Full Self-Driving"
-    excerpt: "For all intents and purposes, Ultra Cruise is a step above GM’s already impressive Super Cruise technology. While Super Cruise only works on highways, Ultra Cruise aims to expan"
-    publishedDateTime: 2023-03-11T22:44:00Z
-    webUrl: "https://www.carscoops.com/2023/03/gms-ultra-cruise-chief-engineer-deftly-jabs-at-tesla-and-full-self-driving/"
-    ampWebUrl: "https://www.carscoops.com/2023/03/gms-ultra-cruise-chief-engineer-deftly-jabs-at-tesla-and-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/03/gms-ultra-cruise-chief-engineer-deftly-jabs-at-tesla-and-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 37
 
 secured: "XSoAN7i2WFqlUazXicUuWup6zyBSJ0257Qsc0NRtdaCj+E2ncFQqXiu71KTIdn/abOXe+/vHWcHWN+WN4DI0V78PvzsoENbXJ/LSSjHjor+C8x4QKEMUbHz07vQtJK6UgxwsKI+l6xQRKI7nyhDi7UdLWBoga39l99fRdt4r4BhJWE5pI8Ywk7+AAq7XkBAPPsbCAmouqxpSoGzAx3S7RrOlfib2riCgo/bVJWPImS4KgoewjpqYLLF+/NthNOCqpxlH1hpEdnoazNJkAddAdJutpW/eurj6xEsd1/zIuJZoWEcHct7y7+KU8MKYS0byeXpCQhwu/5N7GT7cWQGRTpWE72ygok7g4H2Z07KhnGjda8X1dVjJb+KJxCxoIrrhtze94GUWelem39U97wI6tU1Yb7wx/EFtIfKuMNosjRHIPLploD2qwDmvK4nOizShlpxi+oCjA9hm8KPIzF2u9tiY2Balny0LbKX/HRTpBw6dS8HTnLeGp/n4dIGgSteEotlNYBt/kyxVODgeSFIztw==;RVq32dpPpMCHWRWamk4/7w=="
 ---

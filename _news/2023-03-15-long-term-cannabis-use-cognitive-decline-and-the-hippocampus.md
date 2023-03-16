@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T04:36:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus"
 webUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Psychology Today

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T13:40:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575576-simplyrfid-launches-ai-kick-start-to-transform-retail-inventory-accuracy-from-70-to-99-with-rfid-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575576-simplyrfid-launches-ai-kick-start-to-transform-retail-inventory-accuracy-from-70-to-99-with-rfid-200.htm"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Finanznachrichten

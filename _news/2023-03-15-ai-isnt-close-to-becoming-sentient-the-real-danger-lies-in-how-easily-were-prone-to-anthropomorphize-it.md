@@ -7,7 +7,7 @@ originalUrl: "https://www.seattlepi.com/news/article/ai-isn-t-close-to-becoming-
 webUrl: "https://www.seattlepi.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence isn't close to becoming sentient"
+    excerpt: "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ..."
+    publishedDateTime: 2023-03-16T12:23:00Z
+    webUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 19
   - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
     excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions – from queries about the best Italian res"
     publishedDateTime: 2023-03-15T18:03:00Z

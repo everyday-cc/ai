@@ -5,7 +5,12 @@ excerpt: "Generative AI, a type of artificial intelligence that can create new c
 publishedDateTime: 2023-03-16T13:40:00Z
 originalUrl: "https://www.jpost.com/business-and-innovation/article-734545"
 webUrl: "https://www.jpost.com/business-and-innovation/article-734545"
+ampWebUrl: "https://m.jpost.com/business-and-innovation/article-734545/amp"
+cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/article-734545/amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -15,6 +20,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "J3SqQpxkmVo+4rouHhbtRiesI4W2sdPnQ8DBzgYrqYSBBLJ1+lTyTifZ+zq29W22PP7gKiiZOlprGxyeUNXLOR3ajzvInMXiowxii+HvEJrksKXOmFRQ/b4yXRU+RGz/TpYpy0zJQD5LKEo1iclRzmibV6TcEAyTcCzQ6xlia/lFerV42F4o7Z8tNLWjWz8Hi2LZ6kq08jhJhdu5srBC4aIwEE/KNjS4NxgTwqo2UByZniabt4ns/SsyJJzEAVNV9yM7n23ObIkccILUqrs1w8PTbX/oycD9p8QQmP/TujDPXJP7MeI3mAHZq+92sZizSPSXIzh9ePkcXoLyakhgtYeYGsmjlb0t+8denOAceGk=;nX0UtsnfSybOFqfPq+gzXw=="
+images:
+  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/512230"
+    width: 640
+    height: 428
+    isCached: true
+
+secured: "jveoIar1XCWYAgVSjPsmtTX2qWoJapfYzfG+/kOGrY6/ZNZeeBPXwrF7qSPEQlp1ubpfGxCZtM2PqjunH4e98tWhBmPNXZi6dZbJT1Ey0j0Ax3Z1nzKCssnYk5966HYPZ6vjNXBjzr34e3UIRgeEb5BaN6O8eEh5fZQ4GPT2yPamMvFHbpqC4g+dcZzTLeW4xny/hkNOXSYmomyXaK5O8+3R+g3mpXtP9ugH47O6ZTvAzdqUK3CdJ/ZMx5TGCa3CRowMe412/heh6sO34TIoa2Kputq4DsE9H2cjXjAQRsSq6UVokQoeu3BfvvR46p5NOTXvCyr0TANZc0isHA7WvVa4FRbbN/e5ZQphI5WmmuY=;bY3dbaA+AMA5OLLIgtbbpg=="
 ---
 

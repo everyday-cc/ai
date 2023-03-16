@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Cars Market 2023 : Geographic Expansions, Technological Innovations In The Market"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Self-driving Cars Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market Research."
+    publishedDateTime: 2023-03-16T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
   - title: "Artificial Intelligence in Medical Software Market (Size and Share) 2023-2029 with Forecast Analysis | Survey by Absolute Reports"
     excerpt: "The purpose of the “Artificial Intelligence in Medical Software Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding ..."
     publishedDateTime: 2023-03-15T18:28:00Z

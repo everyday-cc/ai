@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
+      "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
+      "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "publishedDateTime": "2023-03-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-gm-plans-to-develop-an-azure-powered-in-car-ai-assistant.md",
+      "title": "GM plans to develop an Azure-powered in-car AI assistant",
+      "excerpt": "General Motors recently said that it's developing an in-car AI assistant based on Microsoft's Azure cloud service and OpenAI, according to Semafor. The company compares its",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
+      "originalUrl": "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-13-image-20.jpg",
+          "width": 2560,
+          "height": 1662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south.md",
       "title": "FEATURE-AI boom is dream and nightmare for workers in Global South",
       "excerpt": "Workers in poorer nations deal with low pay, few protections By Rina Chandran, Adam Smith and Mariejo Ramos March 14 (Thomson Reuters Foundation) - Dinesh Raj, who lives in the south Indian city of Salem,",
@@ -545,7 +648,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -638,7 +741,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 521,
       "tags": null,
       "images": [
         {
@@ -794,7 +897,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1128,111 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-a-face-recognition-site-crawled-the-web-for-dead-peoples-photos.md",
-      "title": "A Face Recognition Site Crawled the Web for Dead People’s Photos",
-      "excerpt": "PimEyes appears to have scraped a major ancestry website for photos, without permission. Experts fear they could be used to identify living relatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/",
-      "originalUrl": "https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/640bb41be17cbf57d8ee380a/master/pass/PimEyes-Took-Faces-Of-The-Dead-To-Identify-The-Living-Business-2-1346323278.jpg",
-          "width": 2400,
-          "height": 1760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/amp",
-      "publishedDateTime": "2023-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs.md",
-      "title": "ReelGolf’s AI Enabled Video-Capture System Creates Cinematic Souvenirs",
-      "excerpt": "Austin based autonomous videography startup creates tee-to-green footage of golfers as they play clients signature holes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640e675fb0a10bbe63b50059/0x0.png?format=png&width=1200",
-          "width": 977,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "publishedDateTime": "2023-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

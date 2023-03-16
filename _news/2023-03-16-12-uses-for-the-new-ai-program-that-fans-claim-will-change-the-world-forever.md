@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI Take Over The World?"
-    excerpt: "As my limited vision can perceive, will attempt a classification that says there are at least two aspects of this megatrend – the risks that machines take over our (human) world (AI), and the risks that machine led worlds start to exist outside the human ..."
-    publishedDateTime: 2023-03-11T22:03:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
+  - title: "What the AI Boom Means for Carbon Emissions"
+    excerpt: "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,"
+    publishedDateTime: 2023-03-15T18:13:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640cf70c750aeccba86beda5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artificial intelligence is booming – so is its carbon footprint"
+    excerpt: "Artificial intelligence has become the tech industry’s shiny new toy, but the creation of every new chatbot and image generator requires a lot of electricity, which means the technology may be responsible for a massive and growing amount of planet-warming carbon emissions."
+    publishedDateTime: 2023-03-13T03:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-intelligence-is-booming---so-is-its-carbon-footprint"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/13/1976917.jpg"
+        width: 1240
+        height: 825
         isCached: true
 
 secured: "fPwrndcE4moiHfzvNMIKEAosf3PyYeiHLOEeA/YjGja7NFatmaaVYlCnuPzSppjjspMtK0OFGb4l90JQGDzKkGwlprgbUh/p5airsVKu/8k/xZXs9UkoVPj8pOjxjRqPedcbED1ycOd0gcCgFdMa2c8NdxvhOUiqExNLyLErlqrl4ov23vDOb6fNRHCbNPgA+26Z7fH5nj5vpSQPvhll5smW4A9igSU/+eZzbwN2uHzLKVrt6/GlVCvRhxVRqPQhVERrULfzZJaGD3UL/n/OGmXQ/7h5ebbsXM1OpuzySg3vjCBwfk3kvjs3rOCTIiJfowKKDZVkdvTEFrrQTZzjCJkwTqJtM905bNlffDUw+eU0Q6KTGXEjYvf88qoyTVT0ifaCkSoGY1x4Js+bxjl9OjG9XertUthheIkzJbj1s6fKtZRcAI8WvVyKFli8Z6p8XhcR0zr5w7+GNKDFQxG+W5qN7aca8q9AGbal0bgBtVKhkdLbnx9HKpp2qzOOK84VdCCHShEVS7X2u6l1oSXJTQ==;2BQLWYGRFQ3fuFdYBJBSTA=="

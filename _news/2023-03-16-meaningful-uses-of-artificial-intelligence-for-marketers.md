@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T13:03:00Z
 originalUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
 webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Fast Company

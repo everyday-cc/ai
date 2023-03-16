@@ -10,7 +10,7 @@
       "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 521,
       "tags": null,
       "images": [
         {
@@ -1178,20 +1178,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.france24.com/media/display/d57d7f7c-b8ef-11ed-91f4-005056bf30b7/w:1280/p:16x9/9916082fd97920064398cd05c409829f846d643c.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
-      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20230302-chips-industry-goes-all-in-on-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-02T07:08:00-08:00",
       "updatedDateTime": null,
       "provider": {

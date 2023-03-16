@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "How AI Is Changing Artistic Creation and Challenging IP Laws"
+    excerpt: "The use of artificial intelligence (AI) is gaining notoriety among traditional and Web3 artists alike. While some creatives worry that AI will one day replace their jobs or steal their work, other artists have welcomed the technical experimentation and ..."
+    publishedDateTime: 2023-03-16T15:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://www.coindesk.com/resizer/hWylKqpm_gM9JyGcJpKuf8__ROo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FP3Q3PWCCVFCBMOI6Q4CJIGBDE.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "HBtHLnwz6t3ckpBGKmGXOoQPIDDkDlKPihZ1H6pz6Cun7tg54o+DAz7AzSjKuXoko4TCmCax5MxtROeseda1d29QqRkct0EVtIb/zMQ48oqPmesVQfdfnpTMS/Y4gJl6GBxsw5+z43EOraNHE5wGbGhEtkymbkzDyKZSP6pmSRcIRX4fqlvt/RrV/1lv+xBybrjkJn1+I6m9bqQX6NbuKFqVCW47vCa8OPtIfooR6szWOqETAHsoamQrl5EYBW1f7Wu8kHTby6M8VImF0wv5oJq+3lcUM9BaVQ3FBV5enX8n8K+dWA8yrKkr10JcumebsOarT7IB7GxxhqxVDA3g365CeLraGS7scuJhVgg+gtg=;YVbrRjbzoN7IiStyfvmtwg=="
 ---

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence isn't close to becoming sentient"
+    excerpt: "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ..."
+    publishedDateTime: 2023-03-16T12:23:00Z
+    webUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 19
   - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
     excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston’s Applied Ethics ..."
     publishedDateTime: 2023-03-15T15:24:00Z

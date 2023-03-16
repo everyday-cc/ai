@@ -51,6 +51,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
+    excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
+    publishedDateTime: 2023-03-16T13:18:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/16/2-artificial-intelligence-growth-stocks-buy-soar/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
   - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
     excerpt: "Global X Robotics & Artificial Intelligence ETF To reduce the individual risks each AI stock may pose to your portfolio, you may simply buy an index exchange-traded fund (ETF) and diversify ..."
     publishedDateTime: 2023-03-13T22:12:00Z

@@ -44,6 +44,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft Stock Rallies As Next Generation ChatGPT-4 Is Released"
+    excerpt: "Just as the conversation around ChatGPT had begun to die down, the next generation of the natural language processing software, GPT4, has been released. It offers up improvements in scope and capabilities of the model, with proponents believing it to be ..."
+    publishedDateTime: 2023-03-16T15:10:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413310fff60066fd87fbf2f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report"
     excerpt: "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October."
     publishedDateTime: 2023-03-14T04:46:00Z
