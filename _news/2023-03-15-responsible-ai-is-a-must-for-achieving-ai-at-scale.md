@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "For Wells Fargo, solving for AI at scale is an iterative process"
+    excerpt: "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more."
+    publishedDateTime: 2023-03-15T22:59:00Z
+    webUrl: "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/"
+    ampWebUrl: "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "How AI changes the investing game"
     excerpt: "What happens when computers start running the show? Here are a few observations ... And the latter feels like it is 100 times faster than the former.” 2. AI thinks quickly, but not deeply. Generative language models look and act smart, but they can ..."
     publishedDateTime: 2023-03-15T15:46:00Z

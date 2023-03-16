@@ -107,6 +107,61 @@
       ]
     },
     {
+      "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
+      "title": "Can healthcare show the way forward for scaling AI?",
+      "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-the-future-smartphone-more-folds-less-phone-a-whole-lot-of-ai.md",
       "title": "The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI",
       "excerpt": "Research firm IDC said this was due to “significantly dampened ... Others said sophisticated silicon will help us identify “real” media versus fake or AI-generated facsimiles. And a few predicted that actual phone calls will fall by the wayside.",
@@ -438,6 +493,58 @@
       "ampWebUrl": "https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp",
       "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp",
       "publishedDateTime": "2023-03-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-a-unique-experiment-that-could-make-social-media-better.md",
+      "title": "A Unique Experiment That Could Make Social Media Better",
+      "excerpt": "This involves an experimental change to Facebook’s feed ranking—for users ... is Senior Scientist at the Center for Human-Compatible AI, UC Berkeley and the editor of the Better Conflict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/platforms-engagement-research-meta/",
+      "originalUrl": "https://www.wired.com/story/platforms-engagement-research-meta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/640004d10150a6d7be9f1a27/master/pass/ideas_platform_metrics_engagement_research.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/platforms-engagement-research-meta/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/platforms-engagement-research-meta/amp",
+      "publishedDateTime": "2023-03-02T17:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -1407,101 +1514,6 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-roblox-is-bringing-generative-ai-to-its-gaming-universe.md",
-      "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
-      "excerpt": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "originalUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/master/pass/Roblox-Generative-AI-Materials_science.jpg",
-          "width": 1728,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "publishedDateTime": "2023-02-17T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-meta-to-integrate-generative-ai-features-on-instagram-and-facebook.md",
-      "title": "Meta to integrate generative AI features on Instagram and Facebook",
-      "excerpt": "Facebook parent Meta plans to integrate \"generative ... it hadn't captured the public's imagination until last year when AI research lab OpenAI unveiled products such as Dall-E, which creates ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
-      "originalUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.storyboard18.com/storyboard18/2023/02/yurteasgbdr-768x432.png",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

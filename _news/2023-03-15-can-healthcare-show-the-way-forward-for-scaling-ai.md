@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scal
 ampWebUrl: "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/"
 type: article
-quality: 108
-heat: 108
+quality: 110
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Healthcare
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all"

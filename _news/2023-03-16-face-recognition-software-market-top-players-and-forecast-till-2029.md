@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market 2023: Sales Analysis, Industry Trends, and Growth Outlook"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- “2023 Artificial Intelligence (AI) in Real Estate Market Latest Trends and Consumer Preferences: A Comprehensive Research..."
+    publishedDateTime: 2023-03-16T02:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-2023-sales-analysis-industry-trends-and-growth-outlook-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Verticals Market Growth and Forecast till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) Verticals Market\" study describes how the technology industry is evolving and how major and emerging ..."
     publishedDateTime: 2023-03-16T01:25:00Z

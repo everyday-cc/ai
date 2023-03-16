@@ -199,22 +199,6 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
-  - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
-    excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
-    publishedDateTime: 2023-03-11T10:03:00Z
-    webUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.html"
-    ampWebUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 48
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/ff/4ff19888-9e44-5456-b01e-092b0379bdca/640bbb3859350.image.jpg?resize=1024%2C729"
-        width: 1024
-        height: 729
-        isCached: true
   - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
     excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
     publishedDateTime: 2023-03-13T12:27:00Z

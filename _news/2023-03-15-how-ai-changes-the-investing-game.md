@@ -66,6 +66,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "For Wells Fargo, solving for AI at scale is an iterative process"
+    excerpt: "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more."
+    publishedDateTime: 2023-03-15T22:59:00Z
+    webUrl: "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/"
+    ampWebUrl: "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
 
 secured: "HBtHLnwz6t3ckpBGKmGXOoQPIDDkDlKPihZ1H6pz6Cun7tg54o+DAz7AzSjKuXoko4TCmCax5MxtROeseda1d29QqRkct0EVtIb/zMQ48oqPmesVQfdfnpTMS/Y4gJl6GBxsw5+z43EOraNHE5wGbGhEtkymbkzDyKZSP6pmSRcIRX4fqlvt/RrV/1lv+xBybrjkJn1+I6m9bqQX6NbuKFqVCW47vCa8OPtIfooR6szWOqETAHsoamQrl5EYBW1f7Wu8kHTby6M8VImF0wv5oJq+3lcUM9BaVQ3FBV5enX8n8K+dWA8yrKkr10JcumebsOarT7IB7GxxhqxVDA3g365CeLraGS7scuJhVgg+gtg=;YVbrRjbzoN7IiStyfvmtwg=="
 ---

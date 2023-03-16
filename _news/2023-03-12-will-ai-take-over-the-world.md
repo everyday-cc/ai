@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the Impact of Artificial Intelligence on Our World"
-    excerpt: "Discover how Artificial Intelligence is changing our lives and the world around us. Learn about its use in the workplace, education and personal assistants, and its potential to revolutionize our quality of life."
-    publishedDateTime: 2023-03-11T10:37:00Z
-    webUrl: "https://www.easternherald.com/2023/03/11/exploring-the-impact-of-artificial-intelligence-on-our-world/"
-    type: article
-    provider:
-      name: The Eastern Herald
-      domain: easternherald.com
-    quality: 39
-    images:
-      - url: "https://www.easternherald.com/wp-content/uploads/2023/03/How-AI-is-changing-the-world.jpeg"
-        width: 717
-        height: 390
-        isCached: true
   - title: "12 Uses For The New AI Program That Fans Claim Will Change The World Forever"
     excerpt: "Amid dozens of controversies about AI technology stealing art and denying the Holocaust, it can be difficult to think of its genuinely cool capabilities—especially when Midjourney is constantly failing to even generate the right number of fingers on a human hand."
     publishedDateTime: 2023-03-15T19:29:00Z

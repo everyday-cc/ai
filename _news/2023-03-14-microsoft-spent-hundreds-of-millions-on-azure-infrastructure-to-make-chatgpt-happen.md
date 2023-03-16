@@ -453,6 +453,15 @@ related:
         width: 2100
         height: 1500
         isCached: true
+  - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
+    excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."
+    publishedDateTime: 2023-03-16T03:24:00Z
+    webUrl: "https://www.thestreet.com/technology/microsoft-reportedly-gets-rid-of-ai-ethics-team"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 51
   - title: "Microsoft Plans to Launch ChatGPT Via Azure"
     excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
     publishedDateTime: 2023-03-12T09:34:00Z

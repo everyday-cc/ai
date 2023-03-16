@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/23/03/n31372886/global-ai-traini
 ampWebUrl: "https://www.benzinga.com/amp/content/31372886"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31372886"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

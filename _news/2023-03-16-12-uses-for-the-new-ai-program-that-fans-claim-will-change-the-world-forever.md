@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Exploring the Impact of Artificial Intelligence on Our World"
-    excerpt: "Discover how Artificial Intelligence is changing our lives and the world around us. Learn about its use in the workplace, education and personal assistants, and its potential to revolutionize our quality of life."
-    publishedDateTime: 2023-03-11T10:37:00Z
-    webUrl: "https://www.easternherald.com/2023/03/11/exploring-the-impact-of-artificial-intelligence-on-our-world/"
-    type: article
-    provider:
-      name: The Eastern Herald
-      domain: easternherald.com
-    quality: 39
-    images:
-      - url: "https://www.easternherald.com/wp-content/uploads/2023/03/How-AI-is-changing-the-world.jpeg"
-        width: 717
-        height: 390
-        isCached: true
 
 secured: "XJYLl0sv6oUoUDyCGths+Bhh+RQHA2IJEYbhY7667en1a1DSenFnC1fFajNaSnV+5gIrMca6rYadluIN9MB5BBn9SCXXebr+uSu9D2oujkuk0ueXb/n4mHg0XyWgrrrNVcP8oiX6/bA9XOP9MiVirBbujt+4+3CruO1AxL+qG39vLRZh0NwSzvI0AbyW5WQWX6b4W6GimpjgndDMkKqVHUEgJjy2fvno+DMyum8fhobQudgV69gnYgfeKez8fa4Vs04y17dWT7SRKzKmH11LtBusSneemy3Cp2R1YGsoge50ycl8g3bauiYR9qFGB0EC/TMrkfsU75tIKPfPdczOHwsGemztXxImLm9WihvRdw4=;7DxCWhRF78qS5M7vZIlpAQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-sta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3?amp"
 type: article
 quality: 73
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,17 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Brex CEO Is Reportedly Planning to Secure $1B+ to Provide Loans to Firms Affected by Silicon Valley Bank Demise"
-    excerpt: "A Fintech firm’s Chief Executive Officer is reportedly attempting ... OpenAI Chief Executive Sam Altman has given “six-figures” to the CEO of Rad AI. This, after Silicon Valley Bank was closed by regulatory authorities. The rep added: “We are ..."
-    publishedDateTime: 2023-03-15T12:50:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203711-fintech-brex-ceo-is-reportedly-planning-to-secure-1b-to-provide-loans-to-firms-affected-by-silicon-valley-bank-demise/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203711-fintech-brex-ceo-is-reportedly-planning-to-secure-1b-to-provide-loans-to-firms-affected-by-silicon-valley-bank-demise/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203711-fintech-brex-ceo-is-reportedly-planning-to-secure-1b-to-provide-loans-to-firms-affected-by-silicon-valley-bank-demise/amp/"
+  - title: "We’re only beginning to see the impact of Silicon Valley Bank’s implosion"
+    excerpt: "AI offerings/tools, and M&A activity remaining slow through the first half of 2023.” Meanwhile, according to PitchBook, enterprise fintech startups are capturing more of the broader fintech VC pool."
+    publishedDateTime: 2023-03-12T14:30:00Z
+    webUrl: "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/"
+    ampWebUrl: "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 15
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1247968342.jpg?resize=1200,799"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "Eaf1AEY4U9T8GHwL3Qr7iv2b9W0gGwFMqGm02UM9lFnkTo3/FL/N/Wuqsl84Ortz0TfhAmegU1zNmGgiRIDLQ0MygiAwZS5ezoT5az/AVP7eiFoQQ6WnQzic2eEcErjW0JcuuiwjB2g3pZstw0hB70j8OnyJldKpTFi9aD4LxSUszpvnLD54FN0oFIMPMoiJgXGDuS8ASb2PkpPChav0jGALp7Issx7l+J1/2hYhWLnkvFE9sqGLuOVe2RK+3hhyOwJQc5W+vLvrTS63hHqSnXh1MPC9L+s+SDdAMSwMJ3aiEe4Z1+6K6dgUP8uUoIFlsbFDkl2n2IWsD7f8zZFDfjggWpiGr/lLtDiiaEcHJiAJvMj1J32fAU2+CpD8osD/TNBtDEqc28zFfHVvFFuKxY7Tdz61MYFD2NsNczRIloMOKC8juJuZAo0uW+Xm5u8MtEhS/qxxz7kbtxD3T1ZiLeQcvYFmZXujBBiuNkfpjZ85stjWEuiBtimCrMIQB0Rcp0L74Q801SsPuJgZkvXiAQ==;I8KypUggSa6mwVFaYWzVFg=="
 ---

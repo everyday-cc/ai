@@ -447,6 +447,15 @@ related:
         width: 2100
         height: 1500
         isCached: true
+  - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
+    excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."
+    publishedDateTime: 2023-03-16T03:24:00Z
+    webUrl: "https://www.thestreet.com/technology/microsoft-reportedly-gets-rid-of-ai-ethics-team"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 51
   - title: "Microsoft spent hundreds of millions on Azure infrastructure to make ChatGPT happen"
     excerpt: "Microsoft Corp. today revealed how it spent billions of dollars to enable OpenAI LLC to bring ChatGPT to life. The partnership between Microsoft and OpenAI has gotten a lot of attention recently. In January,"
     publishedDateTime: 2023-03-14T00:26:00Z

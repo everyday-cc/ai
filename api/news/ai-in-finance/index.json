@@ -289,21 +289,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-a-fintech-ceo-is-trying-to-raise-more-than-1-billion-to-fund-bridge-loans-for-startups-impacted-by-the-silicon-valley-bank-collapse.md",
-      "title": "A fintech CEO is trying to raise more than $1 billion to fund bridge loans for startups impacted by the Silicon Valley Bank collapse",
-      "excerpt": "\"We've received $1.5 billion in requests from nearly 1,000 companies,\" a Brex spokesperson said. \"We are trying to raise as much capital as we can.\"",
+      "path": "_news/2023-03-12-were-only-beginning-to-see-the-impact-of-silicon-valley-banks-implosion.md",
+      "title": "We’re only beginning to see the impact of Silicon Valley Bank’s implosion",
+      "excerpt": "AI offerings/tools, and M&A activity remaining slow through the first half of 2023.” Meanwhile, according to PitchBook, enterprise fintech startups are capturing more of the broader fintech VC pool.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3",
-      "originalUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3",
+      "webUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/",
+      "originalUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/640e25b3340fa00018fda0e7?width=1200&format=jpeg",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1247968342.jpg?resize=1200,799",
           "width": 1200,
-          "height": 600,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -311,16 +311,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3?amp",
-      "publishedDateTime": "2023-03-12T12:45:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/",
+      "publishedDateTime": "2023-03-12T07:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

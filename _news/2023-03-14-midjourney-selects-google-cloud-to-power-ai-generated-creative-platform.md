@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776674.htm"
 webUrl: "https://it.tmcnet.com/news/2023/03/14/9776674.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "How Will Generative AI Disrupt Video Platforms?"
-    excerpt: "Generative AI — AI that creates content — threatens to disrupt the big players (Netflix, TikTok, and Youtube) in video streaming because it changes the power and economics of video streaming. Content creators are able to create smarter content with its ..."
-    publishedDateTime: 2023-03-13T12:25:00Z
-    webUrl: "https://hbr.org/2023/03/how-will-generative-ai-disrupt-video-platforms"
+  - title: "AI-Image Tool Midjourney Launches Magazine"
+    excerpt: "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine."
+    publishedDateTime: 2023-03-15T20:50:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0SAmIU4W0f3h12ffdC6kL/G65Dx2FQW9vrSVOphVZiJ7rwWoeeP9aCnuuDAJIr59L3Liq0aWP+NGuPjiMJUZIsEaRsUMFIDbukVvguX+FFN7pj7OXS0rPktCJN7/o5nsK7CZ8GfdoOCgaddH9fZWRTvtB2bArStXQGD/aB/2hCjNcJVQHxQazY2rGxljaXjiRh4Lmtd2M+/ShxJhgfoWPXp97gRLppc2Wp/XnHjZF+HvhJN43FkRXTu3GCU+Mh8OQ2/3Gt8jQ/0MNWRM2d2OQeWn1DPflWe+0UC63ZeKpf/puvYob48Fa18PYbYmUCe71WzdZvi4MHUeHyWrQQwtfe+Gsmy0q7VXrK3B7BC1BNA=;8+z9prF8HX4xPj2ASQBlJg=="
 ---
