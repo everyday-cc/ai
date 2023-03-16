@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-and-forecast-till-2029-2023-03-15"
 type: article
 quality: 98
-heat: 468
+heat: 478
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
     excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Conversational AI Platform Market” Size 2023 Key players Profiled in the Report are [, Clinc, Inbenta, AmplifyReach, FIS, Nuance Communication Inc., Baidu, Interactions, Avaamo, Facebook ..."
     publishedDateTime: 2023-03-15T21:53:00Z
     webUrl: "https://www.marketwatch.com/press-release/conversational-ai-platform-market-2023-global-industry-report-forecast-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Assessment Report by 2023-2029"
+    excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" analysis [UPDATED REPORT] 2023 provides"
+    publishedDateTime: 2023-03-15T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-assessment-report-by-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch

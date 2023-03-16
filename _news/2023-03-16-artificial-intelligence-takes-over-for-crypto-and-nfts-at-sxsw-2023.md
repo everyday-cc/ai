@@ -2,17 +2,17 @@
 category: news
 title: "Artificial Intelligence takes over for crypto and NFTs at SXSW 2023"
 excerpt: "But even before then, it appeared that SXSW 2023 would turn away from the crypto space in a big way, as the cash flowed elsewhere in the tech realm. As always, follow the money. It should surprise exactly no one,"
-publishedDateTime: 2023-03-15T20:57:00Z
-originalUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
-webUrl: "https://www.chron.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+publishedDateTime: 2023-03-15T22:55:00Z
+originalUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
+webUrl: "https://www.mysanantonio.com/business/article/ai-artificial-intelligence-crypto-sxsw-2023-17838610.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Antonio Express-News
+  domain: mysanantonio.com
 
 topics:
   - AI
@@ -34,6 +34,6 @@ related:
       domain: nasdaq.com
     quality: 47
 
-secured: "riqVhOcvO4rzMvU3RagzSqq+elxdjdNKzxoZAlecz013SDNwwsxHcGvTf0ORr74wpPvj4dG1ZzdRHX73n3CEEZLulL643Lf10Sl8UrzDPZr6N08B0WWDNa0sUES9Ze9cD2VpJbFQp1SJnUTKjBaVROqXNdlcBm7f0pXLOFRpo5Kyrc9dKbu7GUnaWpdIAq9Sm4R27IEvziC77uNxRQT2WO/uOGJHkAF4XgakYT1XbeyqDZMhvku+CDuNahql9WBv7BzhZlwrXnYB6SNv3djv+fKWRcKANQxbwz3StmQkKT46bwcIx/LJ1kgwky9B1tCgU6illuw6o/JyES9++uhBXWTvygaAscTgKFIpW9q7p6o=;6NuV6kBOEhz1xT6SHPFSCw=="
+secured: "2a1fVlgwSnKPOn3W6vGAfd89fhngkCbRobO/ldy7T57OES6Z972NuHUI8ZQpul4j0EIrMADxp7eyh0xMvvEfU4t66iMfuqttRjMSBsPLecZbdlqJIbJ/MRTfsAdzzcSSoFkEHGWD6IYj6BjzPpYKJVZ9N6EODlFeYQ4KAB9vuALf+VXrwtXYn5UpaSIetSekbDsh44d5yNCAGnwx67wxKtpi6Le5TeC017h3cnGUBseL6xIHEqdDK+6N0Lrs6KjApz6Iny3A77cd0CBL8nyFycArfL48PSb0wSUNLOpbssdI3ckKb5GpRTXceUHU5hjUWHCBs0hHoVIeETJNuOWFrXvIdTAj7k36t4FTrr8fQeA=;NtDoPC1YIIS4/kkE6dMKKQ=="
 ---
 

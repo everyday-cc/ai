@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/education/2378760-feature-ai-bo
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2378760-feature-ai-boom-is-dream-and-nightmare-for-workers-in-global-south?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: devdiscourse
@@ -40,6 +40,20 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI boom is dream and nightmare for workers in Global South"
+    excerpt: "But it’s still better than nothing,” said Raj, who sometimes rents out his ID to members of a Facebook group ... are at the bottom of the AI value chain,” said Urvashi Aneja, director of Digital Futures Lab, an Indian research collective."
+    publishedDateTime: 2023-03-16T07:28:00Z
+    webUrl: "https://www.eco-business.com/news/ai-boom-is-dream-and-nightmare-for-workers-in-global-south/"
+    type: article
+    provider:
+      name: Eco-business
+      domain: eco-business.com
+    quality: 39
+    images:
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/15817790604_e70e89029a_h.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "QmbokhclRTYbdXMmqEA/jorEo8/pUKwDq/vGsABoBQUpAIJsALUh4g7JRLIbN6HKLIpJ5Y52HdumKD1RFcYmD+nyMQ1cXV3vSI15Net54xUC0HSE0klQ0/f7n/x46WVTbHkB+n+CFOxLdgKQqDztfM21P3P1Oa67ShaBl66sJNPscKIjiMmU8grC4nzUTK78ED4w9k4Fd6gsth5HfhV0M4h6MbNzrYm1Cljk+vjBzwgtn3PRlpGNuCNlyu+5MavB9GoL9auQJTguzXxbugGCVm/tMJicKw0+/bV+xelmX3M96UqVQNjAOe/i7Bvpvz/qVE16YN+FX+CZww7MshVy3CfV+g9GvMToCWDF3IQJ28c=;4/iC9YkepT3vB718EMOpJQ=="

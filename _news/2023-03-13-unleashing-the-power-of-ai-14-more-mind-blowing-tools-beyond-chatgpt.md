@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT Passes Huge Milestone as World Swept up in AI Revolution"
-    excerpt: "ChatGPT caused a worldwide sensation when it was first released to the public in November 2022. It has the ability to answer questions and craft short essays based on prompts from humans. This picture taken on January 23,"
-    publishedDateTime: 2023-03-11T15:00:00Z
-    webUrl: "https://www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101"
-    ampWebUrl: "https://www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/2207559/openai-chatgpt-logos-pictured.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
     excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
     publishedDateTime: 2023-03-15T07:41:00Z
@@ -170,6 +154,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/03/bill_of_rights_shutterstock_kmls-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "6 AI tools podcasters are using for new ideas, editing, and more — and why they're skeptical of ChatGPT"
+    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
+    publishedDateTime: 2023-03-15T12:48:00Z
+    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/6410561cf724e7001800deb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
     excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."

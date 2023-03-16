@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Gymnast Dunne’s AI spot raises questions about NIL ethics"
-excerpt: "LSU gymnast Olivia Dunne’s endorsement of an artificial intelligence essay-writing tool is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
-publishedDateTime: 2023-03-09T22:15:00Z
-originalUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
-webUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
+title: "Gymnast Dunne's AI spot raises questions about NIL ethics"
+excerpt: "LSU gymnast Olivia Dunne's endorsement of an artificial intelligence essay-writing product is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
+publishedDateTime: 2023-03-10T03:12:00Z
+originalUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
+webUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "V8O+jMfA5qVrAf579+jgWf0bj4hsbipeiNX1n1eMwpJCN8RET+kVcbZKPvkFCfIiTaQJPfgfk2D5oA/yHse6toPW07zdSafv0lwtnRSoOd/Zonz330iuEVefcs4WvX0rkcy+NL5M7Y+C+wQ3zibzOmLFb2fUiNqk0wZxWAQgd65Fp7Hqp8A8OrH3XW0HZrQ3jpZzddHbexVeiVeRlkpuGJTW8F3WQg6QLnHJ/CLKYu9Cht9zTCgt1DFdBV7rPrNsyP6kRLmo5Dq+3TCoENR2kroW7WXnrEVEcJCpmF7L7RFm6hFbYzHGYxaRXo5SpxaghrozPN6jR51kkk6Oid4AvZJBy4yLKTSSgBbruMqiGAIfk9AsUu9cin3bpV+e8Xcwzg+OLUIOIbVsnTq5P5ibXd2gxODQVj8Ae7VCOX7ZiU6D54Clf35ivLeC9ojGoC7FbYxmYsPj25KUUwV64jpu7NUl1/YKD3oPOjhZyqndxF+CeWeaNHUEWAFQ7miAcaQe4IuSJT6maq+ZWrU79czxOA==;G7+NGGWYQ/vURVMICJ3hrA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/31/66/05/23552365/3/rawImage.jpg"
+    width: 2048
+    height: 1462
+    isCached: true
+
+secured: "KJigo6hRK/RV+aQ23fBrapcb4gXZf+q4f5N1CFESoCZi/gOosuDNwfQChntwhvSv/NvzljoRsfjcCIwCQf+tBqvSxgn0+Lca8P45YoAK7Dk5IGE+fftEkn0vhTTHWf40/tfH7oDjF2vpd7OTq6SaagXSc01f79yuneJF63R3bv73WEeFK+TCE45RQso2b9pUBM2Y41r01lCvZ9dr/IRjj8/JKAQ/tvdDSLft7ePxJXd3FmqT9Fb7UYFt2E7XgB2yJjFI/EdkIKvMO7me3zRpn4czuUp+xQBRfOXM/Ehky8aQ/wXe4qhiP7PwW4L6BPgL0lyRUhXR11okxHWhgwyc5RjSU2KiT3qum3MQ2R6HyI0=;z1GqYTgF36PojLr2bi28YA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Wyoming education begins to wrestle with artificial intelligence"
-    excerpt: "An artificial intelligence arms race is underway in the U.S. And it’s raising some eyebrows in Wyoming education. The University of Wyoming has a new artificial intelligence working group that aims to guide the school as it considers how the ..."
-    publishedDateTime: 2023-03-11T16:04:00Z
-    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/education/wyoming-education-begins-to-wrestle-with-artificial-intelligence/article_3ac7ee5e-bf9d-11ed-a9d1-27a7699b0952.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/d6/0d60b8fe-bfa9-11ed-a86f-0704c4a7f187/623f45681a6e6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3 Factors Driving AI Surge in Health Care"
     excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
     publishedDateTime: 2023-03-14T12:49:00Z

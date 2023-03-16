@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fintech Stripe valued at $50 bln in latest funding round"
-excerpt: "article with image 8:58 PM UTC Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Fed's new instant payments system to launch in July, article with image 9:35 PM ..."
-publishedDateTime: 2023-03-15T22:13:00Z
-originalUrl: "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/"
-webUrl: "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/"
+excerpt: "Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive: Samsung's new Texas chip plant cost rises above $25 billion -sources, article with image 7:29 PM UTC ..."
+publishedDateTime: 2023-03-15T21:17:00Z
+originalUrl: "https://www.reuters.com/article/stripe-funding/fintech-stripe-valued-at-50-billion-in-latest-funding-round-idUSKBN2VH1YB"
+webUrl: "https://www.reuters.com/article/stripe-funding/fintech-stripe-valued-at-50-billion-in-latest-funding-round-idUSKBN2VH1YB"
 type: article
 quality: 54
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 628
         isCached: true
 
-secured: "tRjfJ1BQdo7kFxygXBn1JBgAFGRaL26VxF0pUq+mi52rVhGVFgtPg0ReHyw6A9N5/Jg3B/KlflbXg3Px7l7BS346BAVdBVuYH8J6B8i/JW+K9XZAOK6Z2WgYyG6EIfTw3T3t1FSxN7p2ITVbbLsTihk0hM3FoG24nbt418BUNfVT032NzU9OWm3RexbPncRnQHDRXpz6oWvqNYsvtRhIBr5HWnR44WWslOtDbD3b2Ol1AMDK9rqX8bTioZmYZ9ERpX2fx2IPX4fZjfRn7RQex26rpulJHim3wYZQT+l3lIq3dQV9K1TuehMHBzywalD0jRjjaJaau/kTmIKK9H/3ikFzgucs4fKf/eARxBDc0mYF+7P5yWzXaQXOmYg4ED1SFuTIf2uWrr4aIDT3kOvLGEb5wOa+GXiKZMUNf+Z2jBdeZEWs31gzvHHaN1Y2ys/tZRzE7jrRH5Dva3dWKqeJCYPO5nO+yqrAqbZU+eEH1MXl0wF3+cbGFKMCEZtozRCsZMVP92kK48LI1Rt5eovEBA==;CMQ2MAozSbmE9vdRJHL9vA=="
+secured: "pn/BhsvnapmNqR13CgDibAuoVp+o9O3AWexCipnqOUT13hJLRAPCjXwGW+Y9fWuri97CLL2TDUPWx6k+MvxDFAddkzoJx6D9snd4UpXN/GYo/iNbhon5y4SKLtEmJ6fTwep11it/Pjy+c/4phDWQlAnZpHyf93caanNpNQjt25oi4vwk0a+m6JkivqK0VnlrN81mqldiqMUD9w1fwnYB1WyyxXtwLudRzx3CEDbUu2YWuDbmfnqzBwvsTOWsvb9Qtvr6WjzvAHlA1WaoKpHL4M2loo2BStQ+X7fqx++4A81GpbCAfN6HGrX9VyK3BWeCoTeb7z+pqsZwSg+Rgb/25xltE/C2IHzaY0rlInWF4Wg=;XOjczAztgnjP8yIFoLgqqA=="
 ---
 

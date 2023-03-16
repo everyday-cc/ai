@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-in
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-intelligence-is-booming---so-is-its-carbon-footprint"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1240
     height: 825
     isCached: true
+
+related:
+  - title: "What the AI Boom Means for Carbon Emissions"
+    excerpt: "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,"
+    publishedDateTime: 2023-03-15T18:13:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "1GC5NK72ZAB/MKZpeuENdFJalaKIyLHwp2ldhvJcSbI19FXMZjF35yYsaDZrniZ0oVHnfhjmyGmUPW8+xuU+LSXnbvclSeqz2Y+oFxKNRke9I1F6qeGADyVjz95LHhi4W/dxrpgmBPC9XE5PvQq9rjCThXufyD/oCDFHHD2cKSRDcO/bRZ8Gek+9x0/jrKp2XqfHn4MkGpd5V+8PvrQD/1kEQDrOeXdoYSw7QddeKyTLoYZiQ2zBUSv5X25misbNjOEnKDQ/p576xsOn2NGlsN2oaxntekKOg0ayNkX2JoQndMmJsrJ6Z9SRE65D4rtiuHyE5jA9l5ct0kbxFoSZT+RRD2f+hQaj8KxD+Dpu+VlGIHwKI1DWVLdsPmEKC7Dljh9l1w3TlPjltSrdHEgv+zw4TJyZciUpu9dAx1RF6nMvw5kuajeWbTFXyUl8/GQa7eCTQTfr6XGLlV0cIlT7N7LGC4m6Z8CoD/gh9i7EG68kca9TKh4few4rGzv1UsXpTBAEuBptZ6hQKD1Y0upyWA==;WmMVmoJStT9IRiTT2bvcUQ=="
 ---

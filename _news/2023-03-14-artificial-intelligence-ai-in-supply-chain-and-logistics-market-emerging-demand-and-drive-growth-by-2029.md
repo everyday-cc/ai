@@ -323,6 +323,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Assessment Report by 2023-2029"
+    excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" analysis [UPDATED REPORT] 2023 provides"
+    publishedDateTime: 2023-03-15T20:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-supply-chain-and-logistics-market-assessment-report-by-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Predictive Analytics and Machine Learning Market Size and Forecast till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Predictive Analytics and Machine Learning Market\" study describes how the technology industry is evolving and how major and emerging ..."
     publishedDateTime: 2023-03-16T01:19:00Z

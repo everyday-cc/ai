@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Fintech Stripe valued at $50 bln in latest funding round"
-    excerpt: "article with image 8:58 PM UTC Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Fed's new instant payments system to launch in July, article with image 9:35 PM ..."
-    publishedDateTime: 2023-03-15T22:13:00Z
-    webUrl: "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/"
+    excerpt: "Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive: Samsung's new Texas chip plant cost rises above $25 billion -sources, article with image 7:29 PM UTC ..."
+    publishedDateTime: 2023-03-15T21:17:00Z
+    webUrl: "https://www.reuters.com/article/stripe-funding/fintech-stripe-valued-at-50-billion-in-latest-funding-round-idUSKBN2VH1YB"
     type: article
     provider:
       name: Reuters

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The human cost of distracted driving is mounting with deaths, injuries"
+    excerpt: "Neither drivers nor lawmakers understand the severity of the problems, according to the National Distracted Driving Coalition."
+    publishedDateTime: 2023-03-15T14:44:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/03/15/the-human-cost-of-distracted-driving-is-mounting/70011650007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 4
 
 secured: "/etGNgV4HEP6avWbwvEkUz0ntcqutUkF7uTc4kwJ7AuGqdOeGCTKT4hzDPWQCUOjkrBdoQmhcpwB9dB1+goRKX+8s8PYYtGQSrz+3kgK8B2Mkkp6GFTDu51WN1MxIRLfWL/hrh0JW/1alfVkw77x+9AAdclBek/0gdCvXR8jA/yJZuDGDZ5N6PzryewZloLwX1UjeMmGJcFPK17DYj67+TuTsfkzwJYTsmvfx4vVP1osRrTallrUHdK6+FFqYqhF4nh+/Wf5pKS64orQuW4kJNPQUlKhf/HQwhW6UdoX1aLK5MpRGS5UVutX2JoIJKFL/55M6fslN+RDb/3n2dBZxnDJQhvbjaA9Ca1cAsbXlh+NJHXIcm7kVcq8W+hgnm5rUl2S9VePPewmCmkW1QjXwh2mapKyy5CnaaNNPCNiVFolej5a76aCzKIBX8SimOgWwCtsH3lnM67qoj1K8fhKMmpPx0snKl9CMNv2TtbeOKB1YkhSHxBl9qgdnjb0yXjFMzhQQ3oZMyXpg05NZBefxA==;Idr6gzK5jv2cu8UJHDTWiQ=="
 ---

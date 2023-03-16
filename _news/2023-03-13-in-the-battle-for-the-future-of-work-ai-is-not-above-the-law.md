@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "AI boom is dream and nightmare for workers in Global South"
+    excerpt: "But it’s still better than nothing,” said Raj, who sometimes rents out his ID to members of a Facebook group ... are at the bottom of the AI value chain,” said Urvashi Aneja, director of Digital Futures Lab, an Indian research collective."
+    publishedDateTime: 2023-03-16T07:28:00Z
+    webUrl: "https://www.eco-business.com/news/ai-boom-is-dream-and-nightmare-for-workers-in-global-south/"
+    type: article
+    provider:
+      name: Eco-business
+      domain: eco-business.com
+    quality: 39
+    images:
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/15817790604_e70e89029a_h.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "x1zZKxDaB7wMMPre5SFjKYPB/tKydQfjFsuThG7cajrWIVikCI1Y+pKVkcTsiX9BkY7eP0Isfwib+/frPi9072R4oZt/Urad/mEBgBy+09CiCl5kN7i3Tzz+3rEMZOp6oNOMi6Qyj+EvuH7LAAco1QZJ3scnZRZYdwlNBXytPhiZ2pr5H5o/CXmnMcX+JsORk0uLp+4W/MwmhrLPYwAyCpCHbNi6bQCq9QNQBxDGMX3P2YIrQavpfDY1mg0ZFVvh07biRfqpVBuzRelf3wb6ZsO0zmgas3TRQrlgrj/HO9/GPj4Mn/OupmTqnrFi6o+1Sk82hWyOWct7rpg2WYcmTVhEg1Y4fCPNgeQEtCxYW0s=;LTkpwRQBe/tNmkIADWDoDg=="
 ---

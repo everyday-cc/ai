@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
     excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
     publishedDateTime: 2023-03-15T23:37:00Z
     webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market to 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- [121 Insights] Top “Face Recognition Technology Market” Size 2023 Key players Profiled in the Report are [, Crossmatch, NEC, Daon ..."
+    publishedDateTime: 2023-03-16T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-to-2023-2029-2023-03-15"
     type: article
     provider:
       name: MarketWatch

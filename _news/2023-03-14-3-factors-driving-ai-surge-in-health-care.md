@@ -44,20 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Wyoming education begins to wrestle with artificial intelligence"
-    excerpt: "An artificial intelligence arms race is underway in the U.S. And it’s raising some eyebrows in Wyoming education. The University of Wyoming has a new artificial intelligence working group that aims to guide the school as it considers how the ..."
-    publishedDateTime: 2023-03-11T16:04:00Z
-    webUrl: "https://trib.com/news/state-and-regional/govt-and-politics/education/wyoming-education-begins-to-wrestle-with-artificial-intelligence/article_3ac7ee5e-bf9d-11ed-a9d1-27a7699b0952.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/d6/0d60b8fe-bfa9-11ed-a86f-0704c4a7f187/623f45681a6e6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oTwR6+LBYID/HmV0K3q5DrJcQaiaQTPpWxOF4IGeA06pQvBjTLUNgcw6VijCjIK5cocY97FoNdf6HLZDs5tuvZag+Q26DzcfYBzjPHihIdIVhnOuEstIThhZGe0/LghKNUXlRR+oGMtKRePlQonNcj1zg07hQ449khEbwvYqAHZB7+SFdDrvXV8vEpESoU1ffHHg0Ftjhqu98MggzdkadclGW7L/Cl8/49kPUd/Ramuwg4r2Zf5NlqjRLlJpCkXKPQPYdWQl1PebCqszu8cD96aG4oWbIFpPQ+PcppyG2vPMjGYXB9dd0lqeVLxX7dzAJIGTH2yDBIWApmURulty1ztwYptBf8JbrWPVYfRZr6E=;5Zaxb+ud58/3JdD40rcQUQ=="
 ---
