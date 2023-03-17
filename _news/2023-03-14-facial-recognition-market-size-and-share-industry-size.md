@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: MarketWatch
@@ -29,65 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
-    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
-    publishedDateTime: 2023-03-16T21:14:00Z
-    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
-    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
+  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
+    publishedDateTime: 2023-03-14T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Here's how facial recognition is changing travel through Bay Area airports"
-    excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition-1.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
-  - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
-    excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
-    publishedDateTime: 2023-03-16T20:05:00Z
-    webUrl: "https://gizmodo.com/amazon-amazon-go-amazon-prime-facial-recognition-1850234189"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5bd7407c82f529d53af76aa31e27d299.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
-    excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
-    publishedDateTime: 2023-03-15T21:57:00Z
-    webUrl: "https://www.biometricupdate.com/202303/startup-partners-to-bring-machine-learning-facial-recognition-to-iot-developers"
+  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
+    publishedDateTime: 2023-03-15T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 53
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/15175433/useful-sensors.png"
-        width: 1198
-        height: 874
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
+    publishedDateTime: 2023-03-15T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
+    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
+    publishedDateTime: 2023-03-13T08:53:00Z
+    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 27
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "lxgV9cUUtDSV4o6UoJgRUYtukb3Gu9d4J8OIBscU4dqE9IogdiXFZc7uBQyX15NoWE+/ND/m2U4Q74zvWcDKRzQFPmzVGpA30EFLjV3w5joWZDF2Sn1LosE8Fna2IE9sqhmKikFND42KxFVp+yPP+OKQ0lC58UOL4o4zjXo5B88FRofwc3SK0Ol7opXbbz6pF7S8Yg+Eccd1ereidb8FnShKZCRg+9qjjMYli9k0TJJCkicqMUaAYgSaIphtd6UuG4FM5slwcCs+Zf0WPjmmavb7GimAteRi6zVcQPl/NziS3gFWVSxcx6MuJgLXU/ugW9mILyvQJB5SKp6WAw0VdBe+hutCpSpQl0tG+vtdS0k=;qqm0R0Av6ScdZPu1CAFhLg=="

@@ -38,11 +38,18 @@ related:
     excerpt: "Google announced research updates on its medical large language model and recent partnerships to apply artificial intelligence to cancer, tuberculosis, and maternal health."
     publishedDateTime: 2023-03-16T13:35:00Z
     webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
     type: article
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/Getty_correct_size_AI_chatbot-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
 
 secured: "3vBlL3OtP505m5VAtM/Ao1n4Kqegw6wl5xogA2cJUVNznaKHUeyEAManFzDew4RDJeHfML12B0+jJyYXHc8WYbaDjpZ1qJByXdhyDMABNFZJRIZaeaQ5GnA77byCq7ZDNlWFz9Oh95VGFa5Y0JsZ6lWIfh6b9ichSapaUuPu96y//XLt+QQmmqOYghlolIRepx13ftDnz9pp2tEbmRV5VmJYe2v4hQNKwtI+J3xAD9umU/PnDtSMxX0QwfijMlmgsICQQbFDSG2Z2s6E/BQE9Mx/iC9ry5JJTW/MMEPXRhoJ1Bi1a/A3BrVHAlVlofCrRqH7Lk9qdEd3Sy4g4QeDCKLnBe+xJuGvIi5cdNbrE+Q=;pBQQMje0fT/Xf0NCHLNdIg=="
 ---

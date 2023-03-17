@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
-    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
-    publishedDateTime: 2023-03-14T04:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
+  - title: "Global \"Artificial Intelligence (Chipsets) Market\" Size and Growing Regions 2023 | Latest Opportunities and Threats Analysis by Top Players"
+    excerpt: "Global “Artificial Intelligence (Chipsets) Market” [Latest Research Report 98 Pages] 2023 is a vital resource for"
+    publishedDateTime: 2023-03-13T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-size-and-growing-regions-2023-latest-opportunities-and-threats-analysis-by-top-players-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

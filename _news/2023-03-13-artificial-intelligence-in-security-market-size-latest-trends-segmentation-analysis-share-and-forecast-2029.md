@@ -296,6 +296,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market to 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In Military Marketinformation for each competitor includes (, General Dynamics, Harris Corporation, BAE Systems ..."
+    publishedDateTime: 2023-03-17T03:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Radiology Market to 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Artificial Intelligence in Radiology Marketinformation for each competitor includes (, EnvoyAI, AI Technologies Ltd, Gleamer Ltd ..."
+    publishedDateTime: 2023-03-17T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-radiology-market-to-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Communication Market is Booming in Near Future 2023-2029"
     excerpt: "The \"Machine Learning in Communication Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-14T00:51:00Z

@@ -560,6 +560,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
+    publishedDateTime: 2023-03-17T03:06:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
     publishedDateTime: 2023-03-13T19:58:00Z
@@ -771,6 +785,15 @@ related:
     provider:
       name: The Express Tribune
       domain: tribune.com.pk
+    quality: 34
+  - title: "Microsoft to add AI co-pilot to its Office software suite"
+    excerpt: "Microsoft has announced that its suite of productivity tools is being enhanced by artificial intelligence software, as it seeks to get ahead in a race against tech giants such as Google, Baidu and Adobe to commercialise AI technology."
+    publishedDateTime: 2023-03-16T17:56:00Z
+    webUrl: "https://www.ft.com/content/c74c7e48-d439-40d1-a42a-2cd9f1560edb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
 
 secured: "6eeTGWkucA6n31hdcgkXZ6xdnzTsdI24kCe18Kp3DyZElrcDciSB8/fRVYzfLF6NCvISMBj7R+Px0BnlgOjHy8J8pb43vmQMUBhAGa4fh6NDRq+16FZbeLwu+xGVnrsX25Vtyu7eMhCPEeuGR0dHYoLq8lFZlu0DL43JiAG6uKKBR3KInRkyLjgKBo5xwHSr8d8LGinjyWMtCZfA1lb4r8VoN3KGgJ3sJX3mmxzDZ6dmOTNgyOhlVAeaAH2D6RsRF6W3RR77kyY7zxOoLTR8w9uTXtxmkf7cJ6Pg7rIvNCK+hC9tiJVs1LUtHtYqCpNOyNTnvDxFCbnOpCM/0ST+K8dq/7IB+7XmXYmRQAm+UzlM4HtlNSnKsxChckADDtYEZnF+mfY4L7msRQEToE6QIoaPpG5bjIFIczi6gAXct2a6XWp6TqcTVIPsxOXnY31UKWTVK3GgPr4gh0QA4r8mk4cU6YAXhtkzm1ELESzOudgmQLR/pwpB9WTm4ox13GePEV3yrVRjFtG7slJSAOdLog==;oLS7J3xC3z7R0sD1S1QzIw=="

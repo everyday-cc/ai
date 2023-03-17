@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-wit
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
 type: article
 quality: 131
-heat: 671
+heat: 691
 published: true
 
 provider:
@@ -557,6 +557,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
+    publishedDateTime: 2023-03-17T03:06:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
     publishedDateTime: 2023-03-13T19:58:00Z
@@ -777,6 +791,15 @@ related:
     provider:
       name: ExtremeTech
       domain: extremetech.com
+    quality: 34
+  - title: "Microsoft to add AI co-pilot to its Office software suite"
+    excerpt: "Microsoft has announced that its suite of productivity tools is being enhanced by artificial intelligence software, as it seeks to get ahead in a race against tech giants such as Google, Baidu and Adobe to commercialise AI technology."
+    publishedDateTime: 2023-03-16T17:56:00Z
+    webUrl: "https://www.ft.com/content/c74c7e48-d439-40d1-a42a-2cd9f1560edb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
 
 secured: "LomXEm4z0D4rqLMTZwkWJTudm2ncmWfZ3/gWvf0J9NXjehnhAWLunkrZY7hnWMTFm7puK+pW0+EVM/h9mmJfdH1ygN7TBgwxHEGb9rjJlFkq1ssnHT2rhj1Sk/5/ZUNxliTH+f3272U7aKmTQMAZLKLsU+3vLJuplYtsy/er4fYEvk27T2QsnslDR0iouq2Fbqf621HxMqedqVgPQsb2c2lQSoDPUS/I1SActYGJfQIOd718YI/sSgkms95mKmqX8ZpSR3b2EIhAB+6Y5xLWmGbbahmrJkC/8eauKL/kLZXTtxPdpOuL8AANGz6XaIP13MdpPXu7RbFCXywMK7AhIdwNTa1vxG6I/NekMSnGQ0L1tBE4iV6sSfgxU2el817OEpDS2Z1Vy0UHtH7U87TkDsSMjANz2QU1Q/pgCe9uq1JAkQ3O8lBphaJ6WchHosHQYymWnzRYthhvWqot+rqcSj3dk/op5zNcv4HRdVYHT/YYNzJBX8NOE5gtbE4jOoh0sX1RBovWeAjoVtuE5NvgFA==;sI50/HHyKRXxdTplz8F60A=="

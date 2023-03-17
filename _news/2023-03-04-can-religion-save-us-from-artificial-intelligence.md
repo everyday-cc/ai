@@ -15,6 +15,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg"

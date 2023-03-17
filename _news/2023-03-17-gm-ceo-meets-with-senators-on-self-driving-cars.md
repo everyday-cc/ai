@@ -1,10 +1,10 @@
 ---
 category: news
 title: "GM CEO meets with senators on self-driving cars"
-excerpt: "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with Senate Commerce Committee ..."
-publishedDateTime: 2023-03-17T00:28:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
-webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
+excerpt: "FILE PHOTO: An attendee takes a selfie inside a Cruise Origin autonomous vehicle, a Honda and General Motors self-driving car partnership, during its unveiling in San Francisco, California, U.S. January 21, 2020. REUTERS/Stephen Lam/File Photo Thursday ..."
+publishedDateTime: 2023-03-17T02:44:00Z
+originalUrl: "https://www.reuters.com/news/picture/gm-ceo-meets-with-senators-on-self-drivi-idUSKBN2VJ00O"
+webUrl: "https://www.reuters.com/news/picture/gm-ceo-meets-with-senators-on-self-drivi-idUSKBN2VJ00O"
 type: article
 quality: 54
 heat: 54
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230317&t=2&i=1627012975&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2G00C"
+    width: 810
+    height: 539
     isCached: true
 
-secured: "X4iEPnw1A/DTb3607PB87ViXqbENgD/RdUwIufH+lX52aTKUPDhztebWK5PKiL0rVC2JW84bUIDbR5U0FwCsJesAS7aT1iMer3IbFvNQf6NQCD7c47ZpSLohLYHysyjznvSYyCHgJVnx2+E824/KBYRighqF5NynVC4swQavH3bezY2BDPsLSuk4VCmMwsP4BQynCsI/NwcSj7Uip0I36rx+w2Gkd8ZHOXDuDrStMWfRp6LIPYFraL8K9wAFaFd4iqMecmUTq9BDOY09/M0RmA6ueXIJp0Di/f8qMIh9yoXwWvvqWUwOVGG30Q2VUzOt9t3ExD3SCIkerhQpoZUYxXybhsA73l6Nl6dXOzGjvG0=;usQdI0OzuMHJNs4wbKEoJA=="
+secured: "Hw7S53HMdd5iIXCIytdRFHxXIAZY3PNyO57oTQ4KXV4DByobh119TSdyfE1nkHhN2g5P00mblADuvF8O4oMzOS9t/r9M8q6nZsHLLzDrcvj3cE/z6T+DBNy4UJ+fGLlTruFWVfeI/gcCBAO7S5eL9RLmJhMG9l7nIOMw7PgM2y0bkMc/GLeZ2HK49UvwqMRP55MCZJfGIGIPn8vXBGAV8BiGgJkxO9CTi39yGFXS+StFKHm/FETcuHzys5bffpl1MotRA6GVX+tWqXVY285ASWD13iG9l5mXtrH4NVjzYcdcp0I341T730b9SmhN9T2oxdMjkwHasegW1wwwb6asT40CYQ3/YktOug7utUWzx5E=;lZX+eEI8hV1BPbz8weeKMw=="
 ---
 

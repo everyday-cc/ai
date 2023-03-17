@@ -373,6 +373,17 @@ related:
         width: 683
         height: 512
         isCached: true
+  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
+    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
+    publishedDateTime: 2023-03-17T02:55:00Z
+    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 29
   - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
     excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
     publishedDateTime: 2023-03-13T13:02:00Z

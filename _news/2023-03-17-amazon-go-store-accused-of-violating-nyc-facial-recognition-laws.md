@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon sued for not telling New York store customers about facial recognition"
+    excerpt: "Thanks to a 2021 law, New York is the only major American city to require businesses to post signs letting customers know they’re tracking biometric information."
+    publishedDateTime: 2023-03-16T20:11:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 86
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230316-amazon-go-mjf-1143-f3ba0a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
     excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
     publishedDateTime: 2023-03-16T21:14:00Z
@@ -45,51 +61,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Here's how facial recognition is changing travel through Bay Area airports"
-    excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
+  - title: "Amazon Hit With Lawsuit For Not Disclosing Facial Recognition Use"
+    excerpt: "Just pick up your items and walk out of the store. It's no secret that Amazon Go stores peppered throughout New York City are using AI to make this possible — facial recognition technology, to be specific. And though the method is legally sound and has ..."
+    publishedDateTime: 2023-03-16T23:57:00Z
+    webUrl: "https://www.slashgear.com/1230823/amazon-hit-with-lawsuit-for-not-disclosing-facial-recognition-use/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition-1.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
-    excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
-    publishedDateTime: 2023-03-15T21:57:00Z
-    webUrl: "https://www.biometricupdate.com/202303/startup-partners-to-bring-machine-learning-facial-recognition-to-iot-developers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 53
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/15175433/useful-sensors.png"
-        width: 1198
-        height: 874
+      - url: "https://www.slashgear.com/img/gallery/amazon-hit-with-lawsuit-for-not-disclosing-facial-recognition-use/l-intro-1679010420.jpg"
+        width: 1600
+        height: 901
         isCached: true
 
-secured: "6MDgPs7/BbGx+ruEokOG/tSTH5nkQfwIPPpfWaQD6WhYSRdp68lzLQW8HeeAI/LhSvV11P4lvh4uqFQdXHfURdYMPMqLEaKPsBot/jKC1MEOk8ANWK/OcMd2ASwv0jMWOLKEAlB1fg43E80R0vBGdRqf53tSsi9qFCTdZepLQYpr+zMB+vUKCyhpL7cH/gXM3/eI4yPZxSdsrT5SjuqQOeqXl2KfrloYmBtkJSO9RZqfaUrWJh0NG++fZLpRKLvimT4YHk81rYukXv5cNnDhjMLzPx2nvQdFrrI3a895k8aUcjNh68H76d0AvPIpcb07P1Gbnz+O69QFOVpspaS3m95WuAt6au3ETSwsH4KL5JY=;Ui2uX/cUig6whgZcLphRkg=="
+secured: "UUHJQZ4Lz7JC5ab9AYx85Bg339e51UHZ2z0iJyZjMHnzJd6R5C30zMBAze/bgZXhjwCxShNJ7r7ivGB2bIBQgohSt8p6uysqJFr8ws2Y/oMZBeouW0ULC/NpYvQRoWgHJOZ/07JnvzN6ZFfY4ylTTXPwfCr3DYt3pNEDxEu1ZYa4h7SDpKiLDwWvklMUhT8WXqwuHjqI8XJRVUVQ4DVhaQ/U+zP72JnyOH38pAtEtF4swNG4mw27fXivcNhdAUP/4/n13jrBXBDY+0q7JJdIryPrKZpVjwqRcdm2KzNsGMPJj0VlVsAfhTjUiUzT+uFizkGXSdx/7rH2U5LGqZZr0pGdxtNSbyKfeWeqKrN1hhv1pEB9ZJqlbpmfBSt12EU1/21wtDsVBeOXLwyFYMlysyyGyzPI35kZFgAibaBMHXJUr5QWVTuAgy493/cqJEoaZj1lhSkPfHTmanGTDKzoYpyxSE7rssmmFRbOwkP3JTlbryRFLN5g9fdQhW05YRha+DyfZfWoxiIdMiLbBM195A==;AFoVzDnRpmGhOZSxoF5Jsg=="
 ---
 

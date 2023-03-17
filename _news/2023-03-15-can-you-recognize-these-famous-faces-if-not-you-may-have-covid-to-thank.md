@@ -30,6 +30,17 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 16
+  - title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
+    excerpt: "That’s what happened to a 28-year-old woman, who works as a part-time portrait artist drawing faces, after her COVID-19 infection, according to a new study published in the journal Cortex. A few months after getting COVID-19,"
+    publishedDateTime: 2023-03-16T21:58:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article273176320.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article273176320.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article273176320.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 16
 
 secured: "kB56H9GUW3/Zq3q4q/GRIfTTNhVzqfOhpnFQZNuo9RbH+OTEBUXkAM0ECT9lvdMnGQNrEmA3Mm2sFZmv03aCEWz8d5fsK9YOrmt/QmlTZtB6noT1xn+pmidPGWnk6HwAeWdfewDFRfIeBY7f8T9b/IXs9f4KV6C/iWvWmc/f5aicQN5hHbS2ezMd8x/D/bOxuDFOUIv2MvGtp9yYzm/biSanyJBtcPbiJpJvjF6iAEWaCpTfPV4zxFaEjJLb4PK5gH80aPqFtQbMET29khUo4HwiCR0FTKkpnr6ywk/z/9/nQUIpIM8hN6CM8jyRRWAH+3MYcDSeQLcseci/SV4hEs55BFD1FiW7im2pW0RQECUTVJGf9rubsI6UtKRfExhQemJPsZADNH39lfkhqwezwKdRdhCmtivHw+7fVM1J3FHjZw5qB6cn2Wikh1yAVMpzyZviDZJUnlc3GdsFR3N/x4qY3mb8MSMIFo0D46c/s5AzFTo7W2o0DEbjnidPMTOMTDT3msmQBl/EP3Mq2Vx+IA==;0mVE2HMXBKvbBb+Mcr9spg=="
 ---

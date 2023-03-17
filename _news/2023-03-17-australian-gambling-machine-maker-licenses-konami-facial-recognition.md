@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202303/australian-gambling-machine
 webUrl: "https://www.biometricupdate.com/202303/australian-gambling-machine-maker-licenses-konami-facial-recognition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 1367
     isCached: true
 
-secured: "4bZjvLohQcQLhCwL1dgCnPKQ3q4Lpi0xxVCZtbtBADHe0O+OCOOyqu4Ixm5s08OBsMKOF+o4fLJRdEZKYN/YMwD1YMlgCFDkvNlkrowbhvXLUxZR8tP+82HQ+94lpCbKg9c+uFDRWfeEpZHKgdrtKxDJorPYH9wrXc1IA+cNUXhK6vseZ/O62dCQjzEu2LhxAhV/Tjuw5aFFGJkX56/4gkkiFW/KCLBj8DZpZ80LfUo6MjAArcs67Q7ecNOgdNBiiWA7JU7OlnpPTvWk9D+VAQrTt3FgVfqaAQz0/L0cgXD0fifAm04NJYR8kL/wg1aeX4kAjO6ykazV/2pfgMz9aTsDGlBm2KwSgzrdy7WogE0=;xnPnaAvAjaKQna91R37QPA=="
+related:
+  - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
+    excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
+    publishedDateTime: 2023-03-15T21:57:00Z
+    webUrl: "https://www.biometricupdate.com/202303/startup-partners-to-bring-machine-learning-facial-recognition-to-iot-developers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 53
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/15175433/useful-sensors.png"
+        width: 1198
+        height: 874
+        isCached: true
+
+secured: "7oeJx4zmoTb1ljmeDwjZpIDBJQ/g7eWl/5O9HzHLR826mFweuRdJ9TlPPXh2Kwk756nKpiL3kZK/Y4MFy252UXVS6Hh0AkXD61Lo0SFFbtLQBACNxhLluWKRCUdWwFq+sLB62MI5nv4KTq0xg8/DnnFlF1EX4N08CRwQM/kLIZPGWFMu3V+WDH2Gk0KbKrs6kyEqab0pUXOxPrZXG53AGKMHBNX3MtlhjLSstLYmCro2vmoc6ssrKng4chFweZEJnfWMqqFNUMlUwODRiMGw+f7loYnpr9xQdg9Q2IB2Og5IZ/Z4blzailYLmQpWBcK90mBjZgW5o4u1zxch9HIfUeFWMcdevOy164gFlshj5R7ONT1v/EJ3L73he2GdjATzP54Yzu3hPPjpTcwUfJT38nnvwa/voBifIpya4kqE62c9TnyHqAY4NJQAezhQUVHesCMeHL80z0mRCUaKAQr6cDqCoiUmjDC1yUbvxUrbEndJAQdIaj0VndU4HcV3iTgppyvDCDHXBYyWGjX2KRvgtg==;3AZjrnGVT8UqiXSILAnJQg=="
 ---
 

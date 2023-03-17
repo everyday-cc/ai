@@ -5,8 +5,10 @@ excerpt: "Google announced research updates on its medical large language model 
 publishedDateTime: 2023-03-16T13:35:00Z
 originalUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
 webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
+ampWebUrl: "https://healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
+cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://healthitanalytics.com/images/sized/Getty_correct_size_AI_chatbot-e4b00c1efb9503a805928b101c78b499.jpg"
+    width: 480
+    height: 278
+    isCached: true
 
 related:
   - title: "Our latest health AI research updates"
@@ -45,6 +53,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "5aI6pBv+Lb2NKVYPVc6stdWrsM20Xa0wsj2BzBau291syzcoulSLfdo5qzu5yLCeU3oVsAKp0tt1fTq4PrrEDuuno5w1NknC8C6kUBgmvYVcFXLDFC1rxT84zMdnoj9abmBOxRmtOK6P/BYFXJE5E3S5aNH91ap51uTuRx0n0Q9pQyMU9UxBCU5C06j+rot2kFPnvEWrriuINQKb6KAbDFNxYwbWzIXV4B2aEyP611oXOgPefcALtFPRitqoT9cg3IwcRrGm5lBvQ7xFCRgSW4KJ7N50zLyp5kg5ujx0HIh64dAi3SsJbTYRP4v3U7FwbXu6R0Fsvh1H6Wh8ffIeMOqlR7MYZT8TQflfE9GlTw0=;5g5+Jd/RELj9E9ZeG03KiQ=="
+secured: "EVlhVaIuj1ZYrYmTsPVLPpDot0gUQEeyHE9Gg8dHssjfLWjKMZ5D3YStMj3m+TQOvIrGBD00MupPJiBjbG2d2W6BV7zHYOHy4nn9CKU1ctUkcbyc0vr1w62DrrCiu+rlgFtSnQskakHXlGCnvLxbBV2UV+J+Ycd0AD8V9HGAX+xO73MUVhTEFwD/YwlEUzMKNZ6B7TbmSETJosG68pGmo+lrhtGoremdMqfGhlxWcsbtf8qjvRLxAyORY9l4BHv3pflQEV7lgEW8TSPE8ri0dQc3PGdrzQSBp08cR9bcsEpn3KBxXWNuKwy7qC4Z4+8r18WsuDIG688X7Anf8jssmo58wicgXeFY+Yw62hvEpUg=;XAoeKennBJ+4QdQz7lyHDw=="
 ---
 

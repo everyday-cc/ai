@@ -363,6 +363,17 @@ related:
         width: 683
         height: 512
         isCached: true
+  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
+    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
+    publishedDateTime: 2023-03-17T02:55:00Z
+    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 29
   - title: "ChatGPT-4 Language Model Can Handle Text And Images"
     excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
     publishedDateTime: 2023-03-16T12:17:00Z

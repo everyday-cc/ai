@@ -35,11 +35,18 @@ related:
     excerpt: "Google announced research updates on its medical large language model and recent partnerships to apply artificial intelligence to cancer, tuberculosis, and maternal health."
     publishedDateTime: 2023-03-16T13:35:00Z
     webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
     type: article
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/Getty_correct_size_AI_chatbot-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
     excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."
     publishedDateTime: 2023-03-15T18:00:00Z
