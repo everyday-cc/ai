@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "DataRobot Unleashes 9.0 Update and Partner Integrations to Drive AI ROI"
+    excerpt: "This integration takes the power of one of the most advanced large language model technologies that exists today in Azure OpenAI Service, and through DataRobot, drives value-centric outcomes with machine learning,” DataRobot said in a blog post."
+    publishedDateTime: 2023-03-17T20:50:00Z
+    webUrl: "https://www.datanami.com/2023/03/17/datarobot-unleashes-9-0-update-and-partner-integrations-to-drive-ai-roi/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/Robot-shutterstock_1090899323.jpg"
+        width: 800
+        height: 441
+        isCached: true
   - title: "DataRobot revamps its machine learning development platform with AI accelerators and new partner integrations"
     excerpt: "Andy Thurai, principal analyst and vice president of Constellation Research Inc., told SiliconANGLE that AI and machine learning is moving rapidly from ... Google Cloud and Microsoft Azure, meaning customers with the most stringent security and compliance ..."
     publishedDateTime: 2023-03-16T16:10:00Z

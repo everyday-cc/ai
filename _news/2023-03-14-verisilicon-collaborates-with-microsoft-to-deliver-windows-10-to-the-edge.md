@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
+    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
+    publishedDateTime: 2023-03-17T18:49:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 46
 
 secured: "31J8hr/d6LxUxguW8Esk1GFbJxwyviVwEH13ya0mFu8+GHV+EjbG+5H5KlLMal/2kdvZ/53v8mPVhIZ1THz74SkbADx0NG4UJxIqUki1vqYcLGOhun478hguKPDXYRIVWq9UqUmHesVRDmpoC+pwcWB+O3vSGDSXvN06wY9jjEOslTh2KZmfmID19iKrGycouvW136OEB+fnVcaP/jakzt1xZ0S+fFZTYWhv8QAy2maqgSXXMbv8czdnmTS9c+gNa9zF3uuIKk/NkPYaCWu+l0m97Zv68hl4t4r++lJdS3z8y1E0JTxydLJZwRADgVG85yfu6PuzWta8SLLpeZsqzpg+8sQUMfSsif5RlxRQC7Y=;loyiJSSPGLMMx2hwPQCPXw=="
 ---

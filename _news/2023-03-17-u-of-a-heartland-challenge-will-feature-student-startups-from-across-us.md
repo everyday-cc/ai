@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T12:43:00Z
 originalUrl: "https://news.uark.edu/articles/63727/u-of-a-heartland-challenge-will-feature-student-startups-from-across-u-s-"
 webUrl: "https://news.uark.edu/articles/63727/u-of-a-heartland-challenge-will-feature-student-startups-from-across-u-s-"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: University of Arkansas

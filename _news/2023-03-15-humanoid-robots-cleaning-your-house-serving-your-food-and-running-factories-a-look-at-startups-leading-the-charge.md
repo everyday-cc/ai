@@ -49,6 +49,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Developing Deep Learning Systems Using Institutional Incremental Learning"
+    excerpt: "The focus of this exercise is to use the resources in the most optimized way to build a deep learning model system fast enough. This also requires that security issues around data are addressed."
+    publishedDateTime: 2023-03-15T00:00:00Z
+    webUrl: "https://www.infoq.com/articles/deep-learning-institutional-incremental-learning/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/articles/deep-learning-institutional-incremental-learning/en/headerimage/institutional-incremental-learning-header-image-1640874831613.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zeQSqN/GWkpMV5bELl/aLiH3iL17yykJleiNNs+SY2mxelIdy8hZOf87e9lUzbSubIwEBLSlFjuQjr3ynDj98TobV+WQE759TAvtH6kmcDYhVcJWZX09w2XHFWv2nXFRbe6+Ojd9EKcUvAs62ArvXceiC3oHOmEIzxi9TbSkLbKq8uxsnvkO/oG5wOkl3PWxqt1JiSbJ95lKmKZvYm4woSTKwGkemt5AV3U9pddLVx0Zfa4ZwCxECA3U8FAVcEiixDELN+SqfWOJZN3vpJ0PV8lW1N+thN9SJOvJmYP8esBXNLTu7Gxaw14vvozE3d90DMPp1KClB1+YKl0lTX2jGJZXUpxgIZNkp+07aIX9xLs=;WW6qyRFuyFOMsZhjf9su4g=="
 ---

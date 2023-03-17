@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
 type: article
 quality: 102
-heat: 382
+heat: 392
 published: true
 
 provider:
@@ -228,6 +228,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "GPT-4 Poised to Revolutionize Natural Language Processing and AI"
+    excerpt: "OpenAI's GPT-4 is poised to revolutionize natural language processing and artificial intelligence. We’ll watch the space to see how it fares."
+    publishedDateTime: 2023-03-17T17:25:00Z
+    webUrl: "https://pctechmag.com/2023/03/gpt-4-poised-to-revolutionize-natural-language-processing-and-ai/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 54
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/03/chatgpt-4.png"
+        width: 829
+        height: 552
         isCached: true
   - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
     excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."

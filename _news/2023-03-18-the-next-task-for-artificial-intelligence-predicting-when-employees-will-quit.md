@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T18:33:00Z
 originalUrl: "https://augustafreepress.com/news/the-next-task-for-artificial-intelligence-predicting-when-employees-will-quit/"
 webUrl: "https://augustafreepress.com/news/the-next-task-for-artificial-intelligence-predicting-when-employees-will-quit/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Augusta Free Press

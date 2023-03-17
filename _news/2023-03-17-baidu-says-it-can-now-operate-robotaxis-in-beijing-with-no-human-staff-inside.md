@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
+    excerpt: "Today’s news is the latest milestone in Baidu’s news from last November, in which is shared plans to scale up Apollo’s operations in 2023 with self-driving robotaxi operations in more regions of China. This strategy all remains part of a larger goal ..."
+    publishedDateTime: 2023-03-17T19:06:00Z
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
   - title: "Baidu get approval to launch driverless taxi service in Beijing"
     excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
     publishedDateTime: 2023-03-17T13:20:00Z
@@ -70,6 +79,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
+    excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"
+    publishedDateTime: 2023-03-17T19:03:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-3354326"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
 
 secured: "xf7VRQAAARfTHHAQh5BjkkO1/9qJ3KZ7+UwmbuC4CYRxkZU47efcv7jcwN5dSw8Q4Hp587xv0VPbVgnyzbW9ehGZ6jrDhR5lxUvmsfPbeMDDiSY4qJ2+uyHDb4qXT/tVwYWCHttkI7UPKMTX0h3enWcBkxugyYaSz+VWMIKuAIMBSbC6mdtmStSglDK+HAtk9EOw/dQBfsRJtn0sgKMOnv12tBY033Iikp2Hpf7D8ovOQGf5v32unJ70Dd6+cPHIczwm0UMEQCdfsWHdYa+PZEu+AHOGmA8yp7NoiAMs5gidBS41oH5SmWHAG+pA/Xi30OM8Pp36RfYc+EVaS4iP7C7eAWyGv7EbSV6Qzuz9ZVYQL5OYDL6GvVohiS7tMi45CCMtCE2KTtZCx+3KBChOMcezpVJzGWq6eL5CSdpPCqhTyAuZ71GVzo+LKDHRnrMaJJ2xdTfGjVxQds9D9uLSGar8lCHK55oGeJtOcdiQfGN8OiOqgB9tq+cHUKT6MPNhqaxRq6VoF68BUSFzaRVqBQ==;fmQVIRj/VXFy6QNqgt9B/Q=="
 ---

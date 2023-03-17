@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-driving startup Gatik to double workforce, strikes Kroger deal"
-excerpt: "Self-driving trucking startup Gatik will double its workforce by year end, a top executive said, after it announced a deal on Wednesday with grocer Kroger Co to transport goods within its Dallas, Texas network."
-publishedDateTime: 2023-03-15T20:02:00Z
-originalUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-2023-03-15/"
-webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-2023-03-15/"
+excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
+publishedDateTime: 2023-03-16T01:03:00Z
+originalUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
+webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
 type: article
 quality: 54
 heat: 84
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/lxjaB9QqWlrRzA1bs92zbK05_2I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4WOFNKNVJP2FMQXPOKREB7JJM.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230315&t=2&i=1626853125&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2E0BK"
+    width: 810
+    height: 540
     isCached: true
 
 related:
@@ -74,6 +74,6 @@ related:
         height: 800
         isCached: true
 
-secured: "l16KGjjFVoit6vdlX8eIGEIcvpSybheDmez6m2+A5FnxkYZaKVMjcgoQs9gFru9Aws7Y2npsf0/AjK+bEHHO4Jt2ImAPq6L0LI13l7CNUdOUj0dZFwOIUVZN9e3Jh3FGHo2mWRTwPROrDluFso36L4esxjxAAGUJZgBBme3ISnFswd8HpXlfhfbQ1HIAbWlKxuIqWdEA81oYRWfjwUP6f6sy5HzxGdhDJmmSqiaD+H88Oolc7/GPdQR3UiZWQl2jmsW5vaUbJI4kNN0PZl9v4FjI1VPPDmauQdz1r2FXNKRiyHxwDi+YsRUkhFdOVItbv+Lxcbd/kgBT0gRf1pAm/ahV4aC9jtVpeXROJYgnTjqnbgd+2O6hndPdfBddYVOUc4GbbM0irLCOTYi0Ay/wNXMBo2TRVztvUZp5FVbKDYtC+BXhz230grL9tYlWfrFi8b0MQCMf/NPWfbmZrQRYuir9ip2AlqNskxFhA0u21MJF9d6ogTVt4l4pDbj0Ml52N0KX4eOdM6Ii2LH9ZuTCOg==;YgyEHmiiVXIEw40Xw2c/jg=="
+secured: "U8X60amrNOPa1adscgY+mTh/oCSfAqBozHq7axUctp/lw7nAgp0JGdbmALPCe/Lzb2UjP2di4uggyppFuxjoB4oS1tCwqzE/uAAtMxdccTAw6q/asu5X7opxSR9ZQtgUuoW2pA7reoOK9P7phl7KNWyXQQyGqKT/qffD2JFpCtkyKmSR7O1s4mIBAlP6Cogf7iNUYFkN12qGVGblyKxIQzHc+iHtC0hUW+taJg3xWIQzBmILRgPsmil0ISUfUV8BHFzFesUJScbSROTC3GYKn+gcQ10yriCqv3J3fuuTFyDbfm8du4dPn7Cgo8/A1APduic1rfh3O6caDMgz1dkstLRDHzpGY7uW1EHGmsnjx+o=;WL7jZjYX5Lk2+I3kZk9EqA=="
 ---
 

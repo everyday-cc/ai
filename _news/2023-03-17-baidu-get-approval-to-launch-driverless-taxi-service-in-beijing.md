@@ -66,6 +66,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
+    excerpt: "Today’s news is the latest milestone in Baidu’s news from last November, in which is shared plans to scale up Apollo’s operations in 2023 with self-driving robotaxi operations in more regions of China. This strategy all remains part of a larger goal ..."
+    publishedDateTime: 2023-03-17T19:06:00Z
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
+  - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
+    excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"
+    publishedDateTime: 2023-03-17T19:03:00Z
+    webUrl: "https://www.channelnewsasia.com/business/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-3354326"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
 
 secured: "pv2c+D6ArOAxlv/NJRcBJaHRJRYmlrFylMGdw50JHjzVXn0pH5ld4zWFbZIG2uEJWA0KPUt5bjw0GENzVbzUI39xYCCLOBsY42ci4wzIoby+cw/LdXpJ6kI2SIpjfeLcoEgEesVAasbHSKYO5EJajuzjRdbDOLZjEHiOX8uWjQfGSFmXdZdZE7wNnjK1ekewdp7Pa7XvmA7/ACuFZTyE6O2Wn2dnY6zMcP0fMQx66EC4w9EpNUNG3YeOHLqXyFUrDUH/hbcQhv0jL/ahEVFUUaF+BDCCHGUoZ6AaUJV61cqVtguwl0E0Xe0rfu9g2U/fhl84P/7Pku0KaaQheIqC6te2DUMPFDcj1A0Z3A/DROQ=;wir8jrP0J48PJ5RplVSLZg=="
 ---

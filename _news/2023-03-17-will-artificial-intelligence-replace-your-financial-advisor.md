@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-17T15:01:00Z
 originalUrl: "https://www.fool.com/the-ascent/personal-finance/articles/will-artificial-intelligence-replace-your-financial-advisor/"
 webUrl: "https://www.fool.com/the-ascent/personal-finance/articles/will-artificial-intelligence-replace-your-financial-advisor/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://m.foolcdn.com/media/affiliates/original_images/Couple_holding_a_document_and_looking_at_a_computer_screen_together_oH4cFyz.jpg?width=1200"

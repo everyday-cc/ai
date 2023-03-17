@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Is Testing 'Natural Language Generation' AI to Improve Siri: Report"
+    excerpt: "Now it seems Apple might finally be doing something about this. Apple has become the latest of many companies to start toying with adding generative AI to its products, starting with Siri. Word of Cupertino's plans comes from 9to5Mac, which says the ..."
+    publishedDateTime: 2023-03-17T19:55:00Z
+    webUrl: "https://www.extremetech.com/computing/report-apple-is-testing-natural-language-generation-ai-to-improve-siri"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 16
 
 secured: "qne6nUZ3QGYvWXMxL+S+6lLfCB1DTL9o/7aer4DPRD/cuUmygQy4CxRId5lRKfSeNiYC4Oh1tkeVI3tRVUZkiaU/srxQ76liClZSBJa8FbpGmP4iSEB90/ehj1zPeBDSqzCgKaWoA6lqWcy9Nm2L/d/IbpK5YJFhXKj/Ez9vs8+8mHoYPCkTQDeqCetTrD9Q7XyFA8As41Qeb25WL54iIOBMziIC5QSzL0a1FbIlqb4fsmmAayHyFKN+wEVRiMCxXXGUJ3fqqcrDuDdD3FbR2ZFBiDVU4AB4nyiPHDB+STWAzrNQaK0RWZHHhpTCVv2F44pYYOLblqGUNMtACLnoI7Ls6TR3efQ/a7VqvknreNg=;bz1I9PpksXOfCVwvrTzZhg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T17:50:00Z
 originalUrl: "https://phys.org/news/2023-03-machine-learning-approach-molecule-billion-graphene.html"
 webUrl: "https://phys.org/news/2023-03-machine-learning-approach-molecule-billion-graphene.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Phys.org

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3690828/using-hugging-face-machine
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Developing Deep Learning Systems Using Institutional Incremental Learning"
+    excerpt: "The focus of this exercise is to use the resources in the most optimized way to build a deep learning model system fast enough. This also requires that security issues around data are addressed."
+    publishedDateTime: 2023-03-15T00:00:00Z
+    webUrl: "https://www.infoq.com/articles/deep-learning-institutional-incremental-learning/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 38
+    images:
+      - url: "https://res.infoq.com/articles/deep-learning-institutional-incremental-learning/en/headerimage/institutional-incremental-learning-header-image-1640874831613.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Humanoid Robots Cleaning Your House, Serving Your Food and Running Factories – A Look at Startups Leading the Charge"
     excerpt: "And it’s happening faster than most expect. Figure Is Leading The Way AI robotics startup Figure is developing the world’s first commercially viable autonomous humanoid robot, known as Figure 01. If recently released images are any indication ..."

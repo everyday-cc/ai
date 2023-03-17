@@ -42,38 +42,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029"
-    excerpt: "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,"
-    publishedDateTime: 2023-03-13T03:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2023 (The Expresswire) -- Machine Learning as a Service (MLaaS) Marketinformation for each competitor includes (, MonkeyLearn, Google, BigML, IBM, Microsoft ..."
-    publishedDateTime: 2023-03-13T03:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-2023-2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "From 2023 to 2028 Report on the AI in Computer Vision market"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ..."
     publishedDateTime: 2023-03-15T21:40:00Z
     webUrl: "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market to 2023-2029"
+    excerpt: "Focal Systems Inc., IBM Watson Group, Walmart Inc., Amazon Web Services, Inc., ViSenze Pte Ltd] most important, influential, or successful companies, brands, or individuals within a Artificial Intelligence in Retail market 2023 to 2028. Complete Overview ..."
+    publishedDateTime: 2023-03-17T18:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16"
     type: article
     provider:
       name: MarketWatch
@@ -797,6 +783,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "Artificial Intelligence In RegTech Market to 2023-2029"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In RegTech Marketinformation ... End Users (, IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others,), and regions), recent status, development trendsa and competitor landscape."
+    publishedDateTime: 2023-03-17T18:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-to-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
   - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
     excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
     publishedDateTime: 2023-03-13T10:27:00Z
@@ -825,20 +820,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Law Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2028"
-    excerpt: "Artificial Intelligence in Law Market Size 2023-2028 | New Report (112 Pages) | In This Reports Artificial Intelligence"
-    publishedDateTime: 2023-03-13T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-to-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence-Emotion Recognition Market Statistics and Industry Share Analysis Forecast 2023-2028"
     excerpt: "Global Artificial Intelligence-Emotion Recognition Market Report (121 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
     publishedDateTime: 2023-03-15T05:45:00Z
@@ -853,6 +834,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market Size Report Analysis, 2023-2029"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- [113 Insights] Top “Enterprise Artificial Intelligence Market” Size 2023 Key players Profiled in the Report are [, IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP,] most important ..."
+    publishedDateTime: 2023-03-17T03:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-size-report-analysis-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "Face Recognition Thermometer Market : Share, Top Players Analysis, Size, Demand, Growth Strategy, Trends, Supply, Revenue and 2028"
     excerpt: "The \"Face Recognition Thermometer Market\" Study Describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-14T04:54:00Z

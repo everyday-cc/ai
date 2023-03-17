@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
-    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
-    publishedDateTime: 2023-03-13T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
     excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
     publishedDateTime: 2023-03-14T15:26:00Z

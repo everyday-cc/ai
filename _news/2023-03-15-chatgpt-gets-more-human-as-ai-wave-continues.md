@@ -168,6 +168,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right"
+    excerpt: "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ..."
+    publishedDateTime: 2023-03-17T21:08:00Z
+    webUrl: "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/641358ec0308e00018551731?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
     excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
     publishedDateTime: 2023-03-16T09:11:00Z

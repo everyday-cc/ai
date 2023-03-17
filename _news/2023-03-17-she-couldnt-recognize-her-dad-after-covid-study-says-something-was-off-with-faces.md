@@ -2,19 +2,19 @@
 category: news
 title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
 excerpt: "That’s what happened to a 28-year-old woman, who works as a part-time portrait artist drawing faces, after her COVID-19 infection, according to a new study published in the journal Cortex. A few months after getting COVID-19,"
-publishedDateTime: 2023-03-16T21:58:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article273176320.html"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article273176320.html"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article273176320.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article273176320.html"
+publishedDateTime: 2023-03-17T08:38:00Z
+originalUrl: "https://www.kentucky.com/news/nation-world/national/article273176320.html"
+webUrl: "https://www.kentucky.com/news/nation-world/national/article273176320.html"
+ampWebUrl: "https://amp.kentucky.com/news/nation-world/national/article273176320.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/nation-world/national/article273176320.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Computer Vision
@@ -42,6 +42,6 @@ related:
       domain: dailymail.co.uk
     quality: 3
 
-secured: "jMkbiXPMUNX0C1YeetfmOto76fn33j9mJauxgmcx3nyzLD7OZCshK+ZUQ1QMHOoPB8CqO7/k1th2Z85GcjJS4EuZpOMXCmv0ZHqe5ab/Iwzc3pS27jMG/Qjtc8N1CkeV9BN/Dg8pCnxW1AA6mD4AHSTEgQ+b2vU7pOb/75s75zi2Npc/ZnkkEUK0233bvQ3CNa9omv2GLySodUFBrDxdyBiYP+Ac3iHnvXRl+fShXp4f/xbeMO3yYU8nZ5qDCvPnRG/LvAhppny7BfNdmFAK2LRyAYBWQi9drA+LJMdoP0+kJUFdInvkUb8MaQ/DTjgbbzg1LRzt4yWQJ465i5E15yiY9Ajn7CBYkAoCjJ6IYKTv2leoDLZdOJC8Lda2XqE/B5occ6wzg70cUdfq2cLOyDLa5ISqQSRF54rgA1H5j/4/lOqrx0YYljLFII78uDaw9U4oT2+WwJ8RiZVcMIC0flvA2ktQQHCLi2AsvKnhF9HnaXZXEUL4syGzj/WYch/rkDR45H8Qihep2onAsqQaIw==;AeEqHf96E9iKJ9bIggzTRA=="
+secured: "znrRiT+6qigzRgcCPXddP4x0gFEDBDXlXr6mZMfdNyUGFmTjhkklZe70esxIFhjj3YrM16SQGH+V7rk/ZGTYzcevKBPSp5YouGep0MFm/rH/r3ljtQUMDuP/UvhhJ3d1Cq5TSnG0i1+MD4TzLcx1N2SV44xnk1NG4TZCTEJsIWhEm8N2nMKFS7Nc6btTrAT9+Gh7XK6EpIrheLtJVQK7+emhLZCRRpXyFCGj+Hiw4tq3f5kraUiqhQ3vHSS8zdgbVsTxzJgvfkX9sBiV2BA72FMdkQ0J1AlOs2GxIyRu7E+J4ufxbL9/pkd1tJJs+WrO0crmwzsI+YXk9ek4Mt8+o9Pbbn4ECcScnaJ67Sdvdr5n5sK5vNLtl6J0nFaE0AfjOAPnelZGWLTgCG9PgKsFRp6uMbzeXQeuk/xW5L2zFpxNy/FeHMAA/tvTubNpeK7B+stBisiTw9QT1YM3Z5R2mAbPqPh/0jKFSzSWS4h+0e96IHRHTwaGqXtIcYdwlz22evOm1fgq4uZ97CAU9MVVyQ==;m9FttGqaGE5aCEH6JXBA2Q=="
 ---
 

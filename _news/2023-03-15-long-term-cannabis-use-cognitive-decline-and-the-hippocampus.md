@@ -33,6 +33,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Study: Diabetes and tooth loss together worsen cognitive decline"
+    excerpt: "Having both diabetes and tooth loss contributes to worse cognitive function and faster cognitive decline in older adults, according to a new study published in a special issue of the Journal of ..."
+    publishedDateTime: 2023-03-13T14:41:00Z
+    webUrl: "https://medicalxpress.com/news/2023-03-diabetes-tooth-loss-worsen-cognitive.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 4
 
 secured: "lEVxAaOMqBaGrqwCYZ0oE6JAoOX3+dD2y6qI0mkGFNa26mmERmyl+GDTfLFP7C7AsU0y8s7YYBYOf/sAenU3ROvudNa4cwLtR2RyIt4VKbRqjeB7N6g9Ar1GFkHiUHSGu5W/f3sjvu1VVS456/HBGdURAwaFgQ+eD3OgRJL3DI8hsr390vv038RjbI7pS2W8njthcQZybIK846dN//z9gpR698lzYnkY60XvLfhqvAZSVsTLXvL0w3XzLaotRxJiHBgmqh+d8iAQNZE3nj+B6SZuItMXu2T7ejWBgauNhJhI+rFaO249Tg/t2u9YZrhXWG27L1P+Px54K5k21kkClmX+dsQSoGIlA5TCkWgz5O4=;VL0EgVoMq/knLIXxT0k3sA=="
 ---

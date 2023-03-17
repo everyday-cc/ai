@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T18:21:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-video-artificial-intelligence-massage-therapy.html"
 webUrl: "https://medicalxpress.com/news/2023-03-video-artificial-intelligence-massage-therapy.html"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Medical Xpress

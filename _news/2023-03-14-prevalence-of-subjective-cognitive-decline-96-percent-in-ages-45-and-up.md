@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Study: Diabetes and tooth loss together worsen cognitive decline"
+    excerpt: "Having both diabetes and tooth loss contributes to worse cognitive function and faster cognitive decline in older adults, according to a new study published in a special issue of the Journal of ..."
+    publishedDateTime: 2023-03-13T14:41:00Z
+    webUrl: "https://medicalxpress.com/news/2023-03-diabetes-tooth-loss-worsen-cognitive.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 4
   - title: "Long-Term Cannabis Use, Cognitive Decline, and the Hippocampus"
     excerpt: "[3] Multiple studies have shown that decreased hippocampal volume is associated with cognitive decrements. Cognitive impact on long-term cannabis users at age 45 With this introduction, I want to ..."
     publishedDateTime: 2023-03-15T04:36:00Z

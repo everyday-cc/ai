@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-
 webUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is booming – so is its carbon footprint"
-    excerpt: "Artificial intelligence has become the tech industry’s shiny new toy, but the creation of every new chatbot and image generator requires a lot of electricity, which means the technology may be responsible for a massive and growing amount of planet-warming carbon emissions."
-    publishedDateTime: 2023-03-13T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-intelligence-is-booming---so-is-its-carbon-footprint"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/13/1976917.jpg"
-        width: 1240
-        height: 825
-        isCached: true
   - title: "12 Uses For The New AI Program That Fans Claim Will Change The World Forever"
     excerpt: "Amid dozens of controversies about AI technology stealing art and denying the Holocaust, it can be difficult to think of its genuinely cool capabilities—especially when Midjourney is constantly failing to even generate the right number of fingers on a human hand."
     publishedDateTime: 2023-03-15T19:29:00Z

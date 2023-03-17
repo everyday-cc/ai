@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market: Recent Growing Trends 2029"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Machine Learning and Big Data Analytics Education Market in ICT Industry. The Global Machine Learning and Big Data Analytics ..."
+    publishedDateTime: 2023-03-17T19:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-recent-growing-trends-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Robots Market Share, Size, Industry Trends, Competitor Analysis and Forecast 2023-2028"
     excerpt: "The \"Artificial Intelligence (AI) Robots Market\" study describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-14T02:50:00Z
@@ -155,6 +169,34 @@ related:
     excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
     publishedDateTime: 2023-03-15T10:51:00Z
     webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In RegTech Market: Recent Growing Trends 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- Recent Updated Report 2023-2029 of Artificial Intelligence In RegTech Market | TOP KEY PLAYERS in Artificial Intelligence In RegTech Market ..."
+    publishedDateTime: 2023-03-17T20:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-recent-growing-trends-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market: Recent Growing Trends 2029"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition Software Market in ICT Industry. The Global Face Recognition Software market is valued at Multimillion USD ..."
+    publishedDateTime: 2023-03-17T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-recent-growing-trends-2029-2023-03-17"
     type: article
     provider:
       name: MarketWatch
@@ -294,6 +336,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "2023 Artificial Intelligence Chips Market: Thorough breakdown for industry leaders Prognosis by 2027"
+    excerpt: "The Salt Therapy Market sees the quick introduction of new goods and innovations. For companies who are active in the market, this offers both chances and difficulties. A dynamic and ever-changing sector of the economy, with new products and technologies ..."
+    publishedDateTime: 2023-03-17T20:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-chips-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Accelerator Chip Market Expected to Grow"
+    excerpt: "The global AI accelerator chip market is expected to grow primarily due to the growing use in healthcare industry. Cloud sub-segment is expected to flourish immensely. The market in the North America region is predicted to grow with a high CAGR by 2031."
+    publishedDateTime: 2023-03-17T21:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Size & Share to Surpass $64.5 Billion by 2028 | Vantage Market Research"
     excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"

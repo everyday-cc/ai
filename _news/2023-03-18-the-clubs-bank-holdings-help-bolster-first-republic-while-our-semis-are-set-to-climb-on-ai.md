@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T19:23:00Z
 originalUrl: "https://www.cnbc.com/2023/03/17/the-clubs-bank-holdings-help-to-bolster-first-republic.html"
 webUrl: "https://www.cnbc.com/2023/03/17/the-clubs-bank-holdings-help-to-bolster-first-republic.html"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: CNBC

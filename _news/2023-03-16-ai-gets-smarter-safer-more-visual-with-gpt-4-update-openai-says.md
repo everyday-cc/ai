@@ -241,6 +241,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "GPT-4 Poised to Revolutionize Natural Language Processing and AI"
+    excerpt: "OpenAI's GPT-4 is poised to revolutionize natural language processing and artificial intelligence. We’ll watch the space to see how it fares."
+    publishedDateTime: 2023-03-17T17:25:00Z
+    webUrl: "https://pctechmag.com/2023/03/gpt-4-poised-to-revolutionize-natural-language-processing-and-ai/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 54
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/03/chatgpt-4.png"
+        width: 829
+        height: 552
+        isCached: true
   - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
     excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
     publishedDateTime: 2023-03-14T19:16:00Z

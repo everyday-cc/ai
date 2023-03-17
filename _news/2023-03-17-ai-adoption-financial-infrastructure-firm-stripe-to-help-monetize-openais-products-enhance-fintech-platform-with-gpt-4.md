@@ -27,49 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029"
-    excerpt: "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO"
-    publishedDateTime: 2023-03-13T03:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
+  - title: "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?"
+    excerpt: "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture."
+    publishedDateTime: 2023-03-15T15:42:00Z
+    webUrl: "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/"
+    ampWebUrl: "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
-    excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
-    publishedDateTime: 2023-03-13T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-to-2023-2029-2023-03-12"
+  - title: "The future of FinTech: 4 key practices that will drive growth"
+    excerpt: "FinTech has already had a significant impact on how people and ... This growth is being driven by rapid adoption of emerging technologies, including Artificial intelligence (AI), Cloud computing, the Internet of Things (IoT) etc. Moreover, the availability ..."
+    publishedDateTime: 2023-03-17T09:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-4-key-practices-that-will-drive-growth/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-4-key-practices-that-will-drive-growth/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-4-key-practices-that-will-drive-growth/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meet the women shaping the booming fintech sector in India"
-    excerpt: "Equity funding into Indian Fintech has grown at a CAGR of 26% over the last four ... The adoption of data-based, AI/ML-led decision models has improved risk assessment, enabling us to analyze customer data and predict potential risks, as in the case ..."
-    publishedDateTime: 2023-03-13T05:52:00Z
-    webUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india-11678683601833.html"
-    ampWebUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 44
     images:
-      - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
-        width: 600
-        height: 337
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mukundan-Sreenivasan-CFO-Fulcrum-Digital.jpg"
+        width: 413
+        height: 531
         isCached: true
   - title: "3 High-Growth Fintech Stocks to Buy for 2023"
     excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
@@ -80,31 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
-    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
-    publishedDateTime: 2023-03-14T22:57:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "13/03 – Weekly Fintech Recap"
-    excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
-    publishedDateTime: 2023-03-13T12:58:00Z
-    webUrl: "https://financialit.net/news/open-banking/1303-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
 
 secured: "vQ3t+z3aLYcgRODF6iAxUoy7xyC8oFXvYN91Xk4XkmnwS+xrRJz/QXub/tWJdo2Ec/WJZ1TQe/e4BO7o+EwQ6OqSAAdBx8D/XrGSgYNeIlXuRFc4GtJDHJcOEEs7OYrDk+V+hDTVozsPeEjO6U+UItoCJr/r2vD0W7TDnEji05hDNuSoQ5r7CN1eGJA/ge9qsqk3aPqmXHbSEU3cWEx2pRBz0yxKJG9da+Gxe4t2GwIePbqf9+L6kz9E04pfofMtUlBvZvlS6jFPOVPA6iz/YSbja2/GLyQw1mjDAfjl9+oQMENmGgIHUQWFpXtXoN6BhjDz2fb6R/QVCeq9945/ZWWu3Y+DLIs8NGp38OEZ02JrneO9PI0RD6aZkXp5fBIg9XJyjN4mQrEbp7kaAReF+aJfrXcFgaeVHPp0UzqqPyU/ttzZ+PaqytQRNZ2xO7vA45MD4dHZIlz8WYUZE3jR/oPQj00ajAMJuKD/nT0/06AYKDJPX3/Du8z3mR8mfSuUTdxXa/ZeuBCx/V58h05X+g==;c7vgSj/3ap5JnA3hELVWVA=="
 ---

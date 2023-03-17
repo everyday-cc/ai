@@ -87,6 +87,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
+  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
+    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
+    publishedDateTime: 2023-03-17T17:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 17
 
 secured: "l0szPF646MBlaQ/44Cvk4A8E6Uq1s5GnkGnATLCM4iiTulmVOmZZNEpBnmUOWrc1vYtjWEd3Lj82J6ggnFBWPLrt0fI+RtEkeV2JgxjKMS+aWppHv2GJkxghRA36RjJdTiX9fsnvkT8TXIbG22/2O7o8sONlW17/uBHP2hAnGzdbNkrbJNYEBkZoPXRxXju0RaMpwWY0GzfkbQ5Q6DhIoL9yaLqnJiIoS7B1Vk/hHnGN2HAU9ao9m0hVrB4k7S9g50ihyYV9LwBXtdLbdl2qjGB2RAb6/5ClNvWqvzZCLxEiJO9V72TjCqdYFJ6Q5hs1/LXkUKKBWGhhZ8Vl0qlW4UH7fR0RLal3Ix/B5EoyMaI=;dRDYx7mBDPzN5xB5P/X5SQ=="
 ---

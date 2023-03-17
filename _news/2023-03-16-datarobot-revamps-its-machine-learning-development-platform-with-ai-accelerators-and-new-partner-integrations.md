@@ -52,6 +52,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "DataRobot Unleashes 9.0 Update and Partner Integrations to Drive AI ROI"
+    excerpt: "This integration takes the power of one of the most advanced large language model technologies that exists today in Azure OpenAI Service, and through DataRobot, drives value-centric outcomes with machine learning,” DataRobot said in a blog post."
+    publishedDateTime: 2023-03-17T20:50:00Z
+    webUrl: "https://www.datanami.com/2023/03/17/datarobot-unleashes-9-0-update-and-partner-integrations-to-drive-ai-roi/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/Robot-shutterstock_1090899323.jpg"
+        width: 800
+        height: 441
+        isCached: true
 
 secured: "1wAciEjgGnNIlgtU0oLFkvxit9pP0R/PwJk2qh1UpsLBAFpSGhVdeLtzCefG42L6I7e9yHzYSW3+NdXC71u7XvUsd8Kij9u22nK5xu4Qdc4G+A0fdtt4vFBTSsXB2N6vFzowlwAZAbkerxKm91rICLKerORqEC+3qS+uRyUMkNB4CbitR8y+Lku+UvOnofb3bp56DeBJk8dGCSytyeyGk5iYmkKtNCumuNpUSUxHDtXD4Ip955gA1IBhYl+CVHBRzDUK3bYOjTDWjG9B9barRYqKrIuLsrcGYeyCpSrZlvt2KKnGzo7vZwbmIwZv9rmMZd3+kL2G1e+0vQwLuEfhtg5ncN4RlmdJJArk7JsLOTzyrjQnfA2MwCM7Yfb4rVEKVD+ARCr+HRLEdjrpLuYoyaT+c9iZ8srbRD0A/S5QoVflOE9Tth9J7CDPG6mxi6aqH+SI8dpmJ1yX8g0F4UPdobgRfPZZboXZCaCe6yn+9RinD9Bczygrw67MUyZBNU1Anb9y37esVm8mdKRfk3VZsg==;ItV5xCCNoPMgsn4oJp852Q=="
 ---

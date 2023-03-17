@@ -206,6 +206,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Microsoft announces generative AI-powered Copilot 365 to ‘change work as we know it’"
+    excerpt: "Capping an epic week in generative AI, Microsoft released Copilot 365, combining LLMs like GPT-4 with Microsoft 365 apps and Graph data."
+    publishedDateTime: 2023-03-16T23:36:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/m365copilot_business.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The AI-run Microsoft 365 Copilot is supposed to make people work smarter and not harder"
     excerpt: "Our efforts are guided by our AI principles and Responsible AI Standard and build on decades of research on grounding and privacy-preserving machine learning. Microsoft’s work on AI is reviewed for potential harms and mitigations by a multidisciplinary ..."
     publishedDateTime: 2023-03-16T15:32:00Z
@@ -335,13 +351,13 @@ related:
   - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
     excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
     publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
     type: article
     provider:
-      name: WKBW
-      domain: wkbw.com
+      name: WCPO Cincinnati
+      domain: wcpo.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"

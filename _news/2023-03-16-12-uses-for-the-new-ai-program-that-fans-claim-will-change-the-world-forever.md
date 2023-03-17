@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence is booming – so is its carbon footprint"
-    excerpt: "Artificial intelligence has become the tech industry’s shiny new toy, but the creation of every new chatbot and image generator requires a lot of electricity, which means the technology may be responsible for a massive and growing amount of planet-warming carbon emissions."
-    publishedDateTime: 2023-03-13T03:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-intelligence-is-booming---so-is-its-carbon-footprint"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/13/1976917.jpg"
-        width: 1240
-        height: 825
-        isCached: true
 
 secured: "fPwrndcE4moiHfzvNMIKEAosf3PyYeiHLOEeA/YjGja7NFatmaaVYlCnuPzSppjjspMtK0OFGb4l90JQGDzKkGwlprgbUh/p5airsVKu/8k/xZXs9UkoVPj8pOjxjRqPedcbED1ycOd0gcCgFdMa2c8NdxvhOUiqExNLyLErlqrl4ov23vDOb6fNRHCbNPgA+26Z7fH5nj5vpSQPvhll5smW4A9igSU/+eZzbwN2uHzLKVrt6/GlVCvRhxVRqPQhVERrULfzZJaGD3UL/n/OGmXQ/7h5ebbsXM1OpuzySg3vjCBwfk3kvjs3rOCTIiJfowKKDZVkdvTEFrrQTZzjCJkwTqJtM905bNlffDUw+eU0Q6KTGXEjYvf88qoyTVT0ifaCkSoGY1x4Js+bxjl9OjG9XertUthheIkzJbj1s6fKtZRcAI8WvVyKFli8Z6p8XhcR0zr5w7+GNKDFQxG+W5qN7aca8q9AGbal0bgBtVKhkdLbnx9HKpp2qzOOK84VdCCHShEVS7X2u6l1oSXJTQ==;2BQLWYGRFQ3fuFdYBJBSTA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
 webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: InfoQ
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
+    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
+    publishedDateTime: 2023-03-17T18:49:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 46
   - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
     excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
     publishedDateTime: 2023-03-14T07:04:00Z

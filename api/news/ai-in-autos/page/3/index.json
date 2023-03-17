@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
+      "title": "5 of the best online artificial intelligence courses available for free this week",
+      "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "originalUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00Wht1AXFtkt7aWPDRqCK1t/hero-image.fill.size_1200x675.v1676893321.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc.md",
       "title": "YouLianCloud Officially Accesses Baidu ERNIE Bot, Driving the Development of Financial AIGC",
       "excerpt": "SHANGHAI, Feb. 20, 2023 /PRNewswire/ -- On February 14, 2023, YouLianCloud announced to be the first batch of early experience officers of ERNIE Bot. Subsequently, YouLianCloud will fully ...",
@@ -1404,50 +1447,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-heres-how-artificial-intelligence-becomes-biased.md",
-      "title": "Here’s how artificial intelligence becomes biased",
-      "excerpt": "ChatGPT, OpenAI’s newest artificial-intelligence tool, is capable of many things: summarizing books, filling out forms, composing plays and writing news stories. There’s one thing this multibillion-dollar artificial secretary struggles with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/",
-      "originalUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/chau-ai-index.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/",
-      "publishedDateTime": "2023-02-15T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

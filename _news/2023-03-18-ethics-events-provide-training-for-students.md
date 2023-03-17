@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T18:02:00Z
 originalUrl: "https://ung.edu/news/articles/2023/03/ethics-events-provide-students-training.php"
 webUrl: "https://ung.edu/news/articles/2023/03/ethics-events-provide-students-training.php"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ung.edu
