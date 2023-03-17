@@ -2,6 +2,188 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-12-09-ai21-jurassic-1-foundation-model-now-available-on-amazon-sagemaker.md",
+      "title": "AI21 Jurassic-1 Foundation Model Now Available on Amazon SageMaker",
+      "excerpt": "AI21 Labs, an Israeli startup aiming to fundamentally change the way people read and write using Generative AI, announced today that its Jurassic-1 Foundation Model used to power chatbots, answer questions,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/08/9727397.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-ibm-india-md-says-country-can-become-ai-innovation-garage.md",
+      "title": "IBM India MD says country can become AI innovation garage",
+      "excerpt": "Over the past two years, AI has helped businesses ease the strain of workforce dislocation, supply chain challenges, IT incidents and customer service interruptions, etc. According to IBM's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/ibm-india-md-says-country-can-become-ai-innovation-garage",
+      "originalUrl": "https://www.freepressjournal.in/business/ibm-india-md-says-country-can-become-ai-innovation-garage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2020-10/850ea9d3-dbd3-4933-a999-875393ddfd53/AI_pinterest.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 760,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-india-md-says-country-can-become-ai-innovation-garage",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-india-md-says-country-can-become-ai-innovation-garage",
+      "publishedDateTime": "2022-12-08T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022.md",
+      "title": "AWS Advances Financial Services In The Cloud: News From Re:Invent 2022",
+      "excerpt": "Principal Analyst, Fintech and Retail Tech Melody Brue dives in as last week, 50,000 people convened in Las Vegas, and another 300,000 gathered virtually around the world for AWS re: Invent, one of the most anticipated tech events of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63921db02060714e1b08ccfe/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/12/08/aws-advances-financial-services-in-the-cloud-news-from-reinvent-2022/amp/",
+      "publishedDateTime": "2022-12-08T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti.md",
+      "title": "GPU Vendor Colorful Accidentally Leaks Nvidia's RTX 4070 Ti",
+      "excerpt": "The product matches the specs of the canceled RTX 4080 12GB. So the upcoming RTX 4070 Ti will probably just be a rebrand of the unlaunched card. I've been with PCMag since October 2017, covering a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti",
+      "originalUrl": "https://www.pcmag.com/news/gpu-vendor-colorful-accidentally-leaks-nvidias-rtx-4070-ti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03Nkq6nopZxnwQAiYa6WYgR-1.fit_lim.size_1200x630.v1670504293.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-ibm-acquires-reston-it-contractor-octo.md",
       "title": "IBM acquires Reston IT contractor Octo",
       "excerpt": "Most acquisitions have bolstered IBM’s artificial intelligence and cloud businesses. As part of the acquisition, IBM will gain Octo’s 14,000-square-foot innovation center, expanding IBM’s ...",
@@ -947,197 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis.md",
-      "title": "AI Sweeping Robot Market 2022-2028 Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits & Analysis",
-      "excerpt": "AI Sweeping Robot Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2021, at unexpected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-sweeping-robot-market-2022-2028-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-analysis-2022-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-self-driving-wheelchair-market-2022-regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028.md",
-      "title": "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028",
-      "excerpt": "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T18:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-uber-launches-robotaxis-but-driverless-fleet-is-long-time-away.md",
-      "title": "Uber Launches Robotaxis but Driverless Fleet Is ‘Long Time’ Away",
-      "excerpt": "The partnership began testing driverless food deliveries on Uber Eats in Santa Monica, Calif., in May. People in Las Vegas can be paired with a Motional autonomous vehicle through the Uber app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ttnews.com/articles/uber-launches-robotaxis-driverless-fleet-long-time-away",
-      "originalUrl": "https://www.ttnews.com/articles/uber-launches-robotaxis-driverless-fleet-long-time-away",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2022-12/Uber-EV-1200.jpg",
-          "width": 470,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Transport Topics",
-        "domain": "ttnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-startup-datarobot-sued-for-alleged-discrimination-and-retaliation.md",
-      "title": "AI startup DataRobot sued for alleged discrimination and retaliation",
-      "excerpt": "A former employee of Boston AI startup DataRobot is suing the company, saying she was fired after complaining about alleged financial mismanagement and resisting committing potential accounting fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/12/07/business/ai-startup-datarobot-sued-alleged-discrimination-retaliation/",
-      "originalUrl": "https://www.bostonglobe.com/2022/12/07/business/ai-startup-datarobot-sued-alleged-discrimination-retaliation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rAyaVnh5me-9KWT5xOm5I6cafZM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/56YUYDFAUVCWRMJRMHVDVUHOAM.jpeg",
-          "width": 506,
-          "height": 379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

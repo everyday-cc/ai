@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://i0.wp.com/www.thisdaylive.com/wp-content/uploads/IMG-20230309-WA0003.jpg?w=800&ssl=1&mrf-size=m"

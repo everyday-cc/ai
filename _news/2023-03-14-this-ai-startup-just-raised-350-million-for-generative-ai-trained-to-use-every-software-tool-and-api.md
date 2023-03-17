@@ -30,101 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "Adept, a startup training AI to use existing software and APIs, raises $350M"
-    excerpt: "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ..."
-    publishedDateTime: 2023-03-15T21:03:00Z
-    webUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/"
-    ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
+  - title: "How to navigate today’s conversational AI and text generative landscape"
+    excerpt: "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ..."
+    publishedDateTime: 2023-03-17T17:07:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/"
+    ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 599
         isCached: true
-  - title: "AI startup Adept raises $350 mln in fresh funding"
-    excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI's ChatGPT."
-    publishedDateTime: 2023-03-16T08:53:00Z
-    webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
+  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
+    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
+    publishedDateTime: 2023-03-13T06:00:08Z
+    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
-    excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "The next generation of AI for developers and Google Workspace"
+    excerpt: "Introducing new generative AI capabilities in Google Cloud and Google Workspace, plus PaLM API and MakerSuite for developers."
     publishedDateTime: 2023-03-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/03/14/adept-ai-startup-raises-350-million-series-b/"
+    webUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-  - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-    publishedDateTime: 2023-03-14T18:35:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
+    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
+    publishedDateTime: 2023-03-15T09:13:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3314427"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 33
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
+        width: 404
+        height: 404
         isCached: true
-  - title: "AI startup Adept raises US$350 million in fresh funding"
-    excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
-    publishedDateTime: 2023-03-14T20:59:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-adept-raises-us350-million-fresh-funding-3347151"
+  - title: "Google Workspace is about to put generative AI to work"
+    excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.fastcompany.com/90865094/google-workspace-docs-gmail-generative-ai"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "AI startup Adept raises $350M in fresh funding"
-    excerpt: "Artificial intelligence (AI) startup Adept raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, the startup said earlier this week. The company plans to use the new funds to launch its initial products, train models ..."
-    publishedDateTime: 2023-03-17T05:04:00Z
-    webUrl: "https://yourstory.com/2023/03/ai-startup-adept-raises-350-million-fresh-funding"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/800X400shutterstock2033669528-1673607094424.png?fm=png&auto=format"
-        width: 2222
-        height: 1111
-        isCached: true
-  - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
-    excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
-    publishedDateTime: 2023-03-15T02:31:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/adept-creator-ai-assistant-automates-software-tasks-raises-350m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Adept-Raises-350M-in-Series-B-to-Build-AI-Assistant-That-Can-Automate-Software-Processes-994x559.jpg"
-        width: 994
-        height: 559
-        isCached: true
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "nOaW0eImWHjbI/OjKZhKRUxpLSnawLGoWhJ6wAbXpctkorsNpRJ7dm4cJfAlgRajuSAPO/Bv3so1on6cyLG+XbminPd7Pa4AtDCKpcCouxDc6fLFwvPgJ8XsQz3t6GwWvvAyRA3yTCmiVjoOTr736RLMJF+TdzliVP5pvztdckPVbNMhFqrN+Gbnko3KVQCC8EBSh+Av0sSACRjp7t2YFf+aq8vJyoB6XjXtdaEHxBBp8NQnxMNETT+IYxcd5dchnDccxYzPtHV3oHyEGn8Zc80YrdzYbPdGJxLREc+QTlBjiPOZJEqnIGAyxvjMdA5OC9G8qRZfr6ZIkzbw8jg2siE+a4C4zjs809ZOX6Ct+//Vpm7F3f63Pytai5dPeeEM6oK+Abs1NAoYVL34zLYH0dwvzn2SO38xyPBDtvG5C2dROFe16p8FhXL8ArJwzCxx/LE1PJUyDVxzr9M4tC56crO8gmLFF/l6WzUP/ew7eEySLZtYEdJGWp0tU//yESk8JzBKplbDAwvVQbo5xNQgvg==;tiwVveLNH+rzxXuWzCrtww=="
 ---

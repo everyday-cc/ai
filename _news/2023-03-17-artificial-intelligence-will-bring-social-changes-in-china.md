@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-17T13:49:00Z
 originalUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
 webUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
@@ -56,6 +57,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Q&A: How can artificial intelligence help journalists?"
+    excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
+    publishedDateTime: 2023-03-17T16:26:00Z
+    webUrl: "https://www.cjr.org/tow_center/tow-center-newsletter/ai-journalism-qa.php"
+    type: article
+    provider:
+      name: cjr.org
+      domain: cjr.org
+    quality: 39
+    images:
+      - url: "https://www.cjr.org/wp-content/uploads/2023/03/image0-800x419.jpeg?122376"
+        width: 800
+        height: 419
+        isCached: true
   - title: "The AI doctor will charge you now"
     excerpt: "“AI means a brilliant doctor on your phone,” Srinivasan wrote ... A notable example of this was the laboratory startup Theranos, which successfully lobbied state governments to allow patients to order their own tests, then offered them at rock-bottom ..."
     publishedDateTime: 2023-03-16T07:03:00Z
@@ -80,6 +95,6 @@ related:
       domain: design-reuse.com
     quality: 34
 
-secured: "+atCGtZ4T+IIgn3rYIZWm9ELR6QG+EGFq96/ij8mSD4a878SQm0qIJTS7f3od1dz6uMnidEBjS/X2IDxiXfXETeVC3GpjCpGlqsbq+BvnIHecy/sgTQ1I7tf+P+iC3guz0goYXmem30XRufXto+5rKZ5S8apgmnU6mseOH4s6am3qpp+jTmKPWUvUdw8rA6A2pBsG4D5IikLxzgGrS02NU6pcW5lB1mYzGK9yVUmkjBDH9LamHTbcqzotz4qVibAgN5ui5Xw2AZLK2qcHDfYlObV51Hx9/duXLFK+4LCPU89WTVimWaA2XagO+HXGeDy+IOwePTeYLsarzlMmCPqOs8smThNUD7qofPCt0j3+gY=;gERJnYIaqfVqLSUJxQ8EaQ=="
+secured: "sqeouCR+CtwLLu2Cmg7VRLOVe1BiGs4UvT6gaQRf6NvcGCAn4kIioXyIiURThhI0HIpEV/Je+O1zXdk8dpw/q0Y7TnL0VC5Tt4jm5taFhjPGXesb8YJLhquug51A57lnwbUi/X+tgFysd45hdR35RVRv2GhLFqCAEbFLM6RSBT9GfFr/LhmgU0iGMmnrboUdE0cSq+vtunJ51I5ZTFis2piv+0G/94dRyR2IxDcwgMcfUEvJHvTt5mrOMOmoXdEMI1RGRgMdEwHOZlgk4b14dGHQ+jRImuLHDoNFjsiHlKmD20+hiMFmZuty51FSegUxOV1eVY9I1H8P+w56unxQJn4PsbXZngB/i/Btabiq+bmNM3FP5x79sWozZtF307v3xTiuaex5p5LgNfssrOt4PU94pl/gsRuEuqgbGqB1+AK28hV71UwPwH5CnT+BpWyuq4jMsGOw0Q8QfsK0EACzZJC7luDmz0oDJCynzA7d0tkmeNdoeX2CmLUM5ciy2lwFAIoYlUSunh+WGsuaxjnolQ==;ZbZsbHwkILDx4pS/CnmcyQ=="
 ---
 

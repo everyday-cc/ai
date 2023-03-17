@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-we-need-to-make-machine-learning-sustainable-heres-how.md",
+      "title": "We Need To Make Machine Learning Sustainable. Here’s How",
+      "excerpt": "Moreover, large, intricate models based on complex architectures, such as those of deep learning, can be opaque and difficult to understand. This lack of transparency can have a two-fold effect. On the one hand, it can lead to mistrust and lack of adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64132abc2efe9ea45c018393/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esade/2023/03/17/we-need-to-make-machine-learning-sustainable-heres-how/amp/",
+      "publishedDateTime": "2023-03-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
       "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
       "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
@@ -409,6 +461,58 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit.md",
+      "title": "Generative AI Is Just A Wake-Up Call To What Was Always Inevitable. Including Incalculable Profit.",
+      "excerpt": "AI and machine learning (AI/ML) will unleash the greatest profit engine in history as expensive human-managed processes are replaced by cheaper and more efficient digital ones. What we’ve seen to date is just the beginning of how AI/ML will transform and reinvent business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "publishedDateTime": "2023-03-14T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1409,83 +1513,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
-      "title": "Study examines potential use of machine learning for sustainable development of biomass",
-      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-artificial-intelligence-can-now-simultaneously-detect-up-to-nine-pathologies-in-one-image.md",
-      "title": "Artificial intelligence can now simultaneously detect up to nine pathologies in one image",
-      "excerpt": "For almost three years, the service has been helping Moscow doctors to find slightest abnormalities in images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/120700073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/120700073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/120700073/",
-      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/120700073/",
-      "publishedDateTime": "2023-03-06T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

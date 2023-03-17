@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Is Making Breakthroughs Much Bigger Than AI"
+    excerpt: "Generative AI is great, but what’s more impressive is the continued march toward quantum supremacy. Hype surrounding the rise of ChatGPT and the supposed ground Google is losing to Microsoft Corp. and OpenAI in the search wars has overshadowed more important developments in computing,"
+    publishedDateTime: 2023-03-16T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOpTLXoKSzEQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here's what you need to know as Google expands its health care AI"
     excerpt: "The AI often answered medical questions on par with how a doctor did. Google is expanding use of its health care artificial intelligence, including helping detect diseases, such as cancer, earlier and answering medical questions. During the technology ..."
     publishedDateTime: 2023-03-15T19:06:00Z
@@ -60,20 +74,6 @@ related:
       - url: "https://i.ytimg.com/vi/TSEXVjr6m8w/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Google Is Making Breakthroughs Much Bigger Than AI"
-    excerpt: "US Chip Curbs Highlight Cracks in China AI Strategy: Tim Culpan (1) Feasible is a nebulous term, but generally means completion in a reasonable amount of time such as minutes or days, instead of years. This column does not necessarily reflect the opinion ..."
-    publishedDateTime: 2023-03-16T20:25:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai/0abd8698-c438-11ed-82a7-6a87555c1878_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BIZJ6TGEHAI63AVHNKDVKXAYPA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "FBEyeGks+ZCBJtl37rxrJBHHXeJd1kEFunsI9UJMeCCKfbxnMewoJB18FunnFMhoaDebgRxmrsP9zyI0VdLjGU9FLPNPpfJHfBhrcMUfOMZmi4i94EEAdrdGknwflSQ6eabJ3L8NB0qC+JcLiZhbeeCqoONZTNnMePry4+F2ujxbWZJWWnJ9TUweWvijfuiG9IAR8peOGYvx6dMd8ei81d3+ycsGSw9HKkHGdB55ey5itRkqWcSwIbUeEMRelzdjCROgdyZwGbz4GksxsJ6ILb5Erh6EpaV1ZDJIxX22/Re0kVIkzXwVOHXrpP46njrNvVvtqxJ4w6RtCEqZeqtR0CrZcHlzUlFHEkEWLMldLDE=;P7uN+HTvGQ/fjyqpR0aoiA=="

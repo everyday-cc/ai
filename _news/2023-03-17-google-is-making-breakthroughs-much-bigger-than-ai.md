@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Google Is Making Breakthroughs Much Bigger Than AI"
-excerpt: "US Chip Curbs Highlight Cracks in China AI Strategy: Tim Culpan (1) Feasible is a nebulous term, but generally means completion in a reasonable amount of time such as minutes or days, instead of years. This column does not necessarily reflect the opinion ..."
-publishedDateTime: 2023-03-16T20:25:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/03/16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai/0abd8698-c438-11ed-82a7-6a87555c1878_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/03/16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai/0abd8698-c438-11ed-82a7-6a87555c1878_story.html"
+excerpt: "Generative AI is great, but what’s more impressive is the continued march toward quantum supremacy. Hype surrounding the rise of ChatGPT and the supposed ground Google is losing to Microsoft Corp. and OpenAI in the search wars has overshadowed more important developments in computing,"
+publishedDateTime: 2023-03-16T20:00:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai"
+webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BIZJ6TGEHAI63AVHNKDVKXAYPA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOpTLXoKSzEQ/v1/1200x800.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -72,6 +75,6 @@ related:
         height: 360
         isCached: true
 
-secured: "w5GuoSfUixaBhYlFAC7KrzpXcNDq3zM2hu9lQuHjvZ6p/o7ROQw9ejuCH3L3vUrpXx7aqotJEUwQBU8G6Q99zk5OMEgiI24PS7qeCg2A0CioaivjqliR9T6uInJssEtWxD+G05G0FQjyYs9i1FICe+rZBOY1UbePYdwkxmnloEdETSWrNNuBid0D615cdmSAylji2IekrHkNyEE4Is0C5nb2GoLc8lx86teGnc1sMEWGXEbSv1tiAMUSpVj33w9iwFjGF50Zoyzr/cuikC/gjk7FZm+XoZAyGWioQIDasc2+k73+h6oBJA0Xt1IF5pFnfpFffqx/6E/ep7StfB8GtkmpyaQOP9LyXv/Lg7e8MBCpdGfVl0oHOdwci8i1Q/qskiN4P4xj81FdWdKaz7M+XQ/t+sW02tsBd9pspVMNLcgF8yqeLt+w2GnfPrPNf387cwEPH1F2/8L/CSRaFoodSceLFTpfp2ZfH+46uwnMkYcsdS4rHwrusuS3LBrgsPdwd4OIxKNsJKL2rf9RUoznuQ==;nOQUMnVE55Q4u5+mipn85A=="
+secured: "6JDvcfTdvMfKXs9gF+ZEf3Nt+V33ylW9lWTW5zYCh996K6WrtDcesgyr9cEOLGnTOp+djXrp3e5p+IJpEAlptHj7pK7isQbvemb5RiNA++QTyUAFKBKMqX15YfsgHpbSxIXS05IIOGvmEhH4SHdwODDrer/BKftjcbBwH7nWasTniSK8huyTmPIF4rLdRIhVpQioPhQcKzYzaRKbsjrnpHj5QD04ZV/dgpXnjNGWC24eOrQ2XAuLFfYPAPZtrXUDs/cjpb3LqJOWwqBVSkOD0/YigNW6+e/F0w6U7yzgoabTNRVGhbCmet5+QY5LJMLPmkHmaa6GQh/e8j34LQ0mNETLj7na+NNkjW4j5HDBipQ=;JdnQtXD7ZGRn9hzy/a49fQ=="
 ---
 

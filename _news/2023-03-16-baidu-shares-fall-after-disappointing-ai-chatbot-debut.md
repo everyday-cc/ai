@@ -43,6 +43,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Baidu Unveils New AI Chatbot, Stock Goes On A Rollercoaster Ride"
+    excerpt: "Q.ai’s Emerging Tech Kit uses AI technology to sift through ... Microsoft, which made a $10bn investment in OpenAI at the start of the year, has said its Bing search engine runs on GPT-4 technology. The tech giant’s share price has risen 9.94% in ..."
+    publishedDateTime: 2023-03-17T16:42:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641495b9fc447d96d77ffb6c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 787
+        isCached: true
   - title: "Chinese search giant launches AI chatbot with prerecorded demo"
     excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
     publishedDateTime: 2023-03-16T13:22:00Z

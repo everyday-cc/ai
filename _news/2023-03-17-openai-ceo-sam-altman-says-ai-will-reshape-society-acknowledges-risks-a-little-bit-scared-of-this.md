@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-resha
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO Sam Altman Funds Longevity Startup With Goal To Increase Human Lifespan By 10 Years"
-    excerpt: "A startup firm backed by an artificial intelligence (AI) industry leader aims to expand human lifespan by 10 years. Sam Altman is the CEO of OpenAI, the company behind the now-famous ChatGPT, a breakthrough language AI. He used $180 million of his ..."
-    publishedDateTime: 2023-03-14T18:37:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31347122/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years"
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4 Sam Altman, CEO of OpenAI, the company that developed the controversial consumer-facing artificial intelligence application ChatGPT ..."
+    publishedDateTime: 2023-03-17T17:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: The Guardian
+      domain: theguardian.com
+    quality: 66
+    images:
+      - url: "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "JWWiASBJhbvOaaoYSAy58bwnHdcrxks/ZXgEnvaaE2hPawsF/xDeuI2XsFP8l2K/bi1ySs8+BSWagtewmxoDSiu2SR5FwqVh9EfHn18dv/Ii8FKrp5bFM2NKUREwE5hmlacK1r8CKWyPLti2hytLnHj3/nVqwTXGXinXwNbblKe1xYsyWeH5HFamBh392lxTKas4cD72r53ALiL+MZ3SmDa2ubHHmiCYvSyQRsz0cTg0f7a7QgtL7lwCshMXC/EwXDMnX9vfSQZqbpmjghEL5cODD7uq4UN2vG8dhiy7K50Bka4A6Xx9gRsChVEK3tWb3bfDroyEkMYB2yn7EUZWPJwAoyaVvjxsAxjLSjKitRk=;ZHscgTNtBC2e7VzCuS6RzQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-searc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Unveils New AI Chatbot, Stock Goes On A Rollercoaster Ride"
+    excerpt: "Q.ai’s Emerging Tech Kit uses AI technology to sift through ... Microsoft, which made a $10bn investment in OpenAI at the start of the year, has said its Bing search engine runs on GPT-4 technology. The tech giant’s share price has risen 9.94% in ..."
+    publishedDateTime: 2023-03-17T16:42:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641495b9fc447d96d77ffb6c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 787
+        isCached: true
   - title: "Baidu shares fall after disappointing AI chatbot debut"
     excerpt: "But China's strict censorship and US restrictions on chip sales could limit Baidu and other Chinese companies' AI ambitions. ChatGPT is blocked in China, but the American software is gaining a base of Chinese users who use virtual private networks to get ..."
     publishedDateTime: 2023-03-16T07:55:00Z

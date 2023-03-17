@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Apple may update Siri as it struggles with ChatGPT"
+    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
+    publishedDateTime: 2023-03-17T16:30:00Z
+    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
+        width: 580
+        height: 363
+        isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
     publishedDateTime: 2023-03-17T01:03:00Z
@@ -209,6 +225,6 @@ related:
       domain: business-standard.com
     quality: 2
 
-secured: "j/V2eCbyy0WjuLAiGwuP1PxZZJSM45l8khC82dqIauIJ9uA2/1/MrDXzVRaRLRA15qNKL5rZDCHRszNngSdKWQxpnT4XWGtNUb6I/YZOK2Cex3N6TrmKC7jMG3stk+outfCqJk4+3hu+9W2+yt8DJZXhXGkqUipuWqDOJ2yibn/pQ7VnaAULLT44LifffRwal6syTglVYl/BkCazZzjNAZXf+4taZrDTSIzVK1ZAb98xeOYmfRHUO6WpHWfKTtOXJurDtlXx/FA3R+ONMA9m9D/2KthH5HqLXNu5HrXGxHbxCORDzFUbodxi0d2Wh1j7gdaszA7N3rl0J6WQ1Vi/3txo7aGk0he4Hm6xwYNYQL4=;nZ+KYYdD8BncOzTXtWgGKw=="
+secured: "Bdax7+4raGNbS8EwMWXu5e3rJEvQqlp85kzS6oHQUj7qvgYoo3myU8TCP7tmTiWHtanX+7JS8s15Cqa1vQkt9LrHI78Lywnc8IdCUkjkMjwoDXKNwZzJUDPJA3ef8CFgr/sE51Hn2RIdXYVaM0tkU+XVVe9iF5TGhiVEyfgPljFM/DkesDkmxa8b2m8GBu+V3ehZjDUOHuHgharcsbrx9rx56/J3mVRvbJ3CV8cVcZVmCvNsfTcfHeBpwJp74vqiKF6L4i5LvhjjCXcBdUQh3tuyNBIW7FN6CftVBSetX2Q62CwgJl1ysCeHCy5FFbagEasHGykxZ854VtUoP+avWxsIU4IkK9JJjOanglxAvyGiqkqrRirVTKI8JTunliByq+lyhG4vRAdfU4JAaVuPdnqKtnqoHgZxZORRjfN5pFBg/PxlGDRtoGsT7jkt8D5I0Ph6T0MAv/Huhik7Z5vIckewIS3olSv08RbhPcV67boTpIaQd2w6wNB1HC+sZlhvDho8oHbNXXYqc3eJh9t4QQ==;q6DUbpPd97+3yh2h5QaMIQ=="
 ---
 

@@ -133,6 +133,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Apple may update Siri as it struggles with ChatGPT"
+    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
+    publishedDateTime: 2023-03-17T16:30:00Z
+    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
+        width: 580
+        height: 363
+        isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
     publishedDateTime: 2023-03-17T01:03:00Z

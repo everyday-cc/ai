@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI isn't close to becoming sentient—the real danger lies in how easily we're prone to anthropomorphize it"
+    excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions—from queries about the best Italian restaurant in town to explaining competing theories about the nature of evil."
+    publishedDateTime: 2023-03-15T18:20:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "Artificial intelligence isn't close to becoming sentient"
     excerpt: "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ..."
     publishedDateTime: 2023-03-16T12:23:00Z

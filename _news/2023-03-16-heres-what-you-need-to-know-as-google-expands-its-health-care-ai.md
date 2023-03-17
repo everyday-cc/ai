@@ -41,6 +41,20 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google Is Making Breakthroughs Much Bigger Than AI"
+    excerpt: "Generative AI is great, but what’s more impressive is the continued march toward quantum supremacy. Hype surrounding the rise of ChatGPT and the supposed ground Google is losing to Microsoft Corp. and OpenAI in the search wars has overshadowed more important developments in computing,"
+    publishedDateTime: 2023-03-16T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOpTLXoKSzEQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google’s AI doctor appears to be getting better"
     excerpt: "From a more accurate AI clinician, to added vitals features on Fitbit and Android, here are some of the key announcements."
     publishedDateTime: 2023-03-16T22:00:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://i.ytimg.com/vi/TSEXVjr6m8w/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Google Is Making Breakthroughs Much Bigger Than AI"
-    excerpt: "US Chip Curbs Highlight Cracks in China AI Strategy: Tim Culpan (1) Feasible is a nebulous term, but generally means completion in a reasonable amount of time such as minutes or days, instead of years. This column does not necessarily reflect the opinion ..."
-    publishedDateTime: 2023-03-16T20:25:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/16/chatgpt-google-s-breakthroughs-are-much-bigger-than-ai/0abd8698-c438-11ed-82a7-6a87555c1878_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BIZJ6TGEHAI63AVHNKDVKXAYPA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "oQKmnO99EcO7CsvDEX8ujksN4xOGVhlaptU6tcbMcqJLPomVRpA9EgWMBocnRQwRwFXMa9QS3j4WniUo6xhnG0/B3HT8sU7VjAxZwwXS5KTP/KEyyQeXqOYWdqGw0qcLRj/dHOnNMLr0kHukrx7hWch8Y3IoC8wJQfEYky+RjTlIhyZfSwdhZxmHiHzuIW1PYiX2zH/w48mjTWzs+qHSaH2nIeFt9+SeUQgcTmFDbL0oqrwu2bHtc8LjJ/PwNZSip/GrqoiZHVLEdg63ulk1hde+EIydiXBvmKRJ1yRMXEzPOFTvS1/tZHrPlPbYh7oow2TLE/cR3D8ZtuDZqmkHEhqBHvZnlITJd64epK8rgQw=;Z1lIZyfFRPK/nMhZ0dOAQg=="

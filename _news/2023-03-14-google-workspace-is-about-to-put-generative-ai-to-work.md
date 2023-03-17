@@ -19,19 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "Google is working on AI for ultrasound diagnosis and cancer therapy"
-    excerpt: "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field."
-    publishedDateTime: 2023-03-14T17:07:00Z
-    webUrl: "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html"
+  - title: "How to navigate today’s conversational AI and text generative landscape"
+    excerpt: "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ..."
+    publishedDateTime: 2023-03-17T17:07:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/"
+    ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 599
+        isCached: true
+  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
+    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
+    publishedDateTime: 2023-03-13T06:00:08Z
+    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "This AI startup just raised $350 million for generative AI trained to use every software tool and API"
+    excerpt: "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?"
+    publishedDateTime: 2023-03-14T16:33:00Z
+    webUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/"
+    ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/8-The-future-of-enterprise-integration-and-APIs-e1674681044191.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
         isCached: true
   - title: "The next generation of AI for developers and Google Workspace"
     excerpt: "Introducing new generative AI capabilities in Google Cloud and Google Workspace, plus PaLM API and MakerSuite for developers."
@@ -42,6 +69,20 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
+    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
+    publishedDateTime: 2023-03-15T09:13:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3314427"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 33
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
+        width: 404
+        height: 404
+        isCached: true
 
 secured: "8M4q26U5t4wbtjeZfxhJX0JyYXVP4yZfXGlDITMNSgEbOGfbjjZOLSBCzwJHjSboHAHbmmG6bhxersLLNlFGQo1/hyEcjXXrSbyz/B0c5bIHWzDzv0UURQJLuC2JeDpg4DqkD+MkJdsOL3RHJJSvmXBfk4Tdpx9LgRZX7WFN971oiBQ7z884T3kY93WMlN8DFfdZzhGldTWk+agsoBsg8796kdza1Nl1DOCChRQkpr0VxL1tZ2AaZp3Uwc0ffnHoJTHeAUZUg7YzEBdI4qwiruFmJ4UDSWATrZSE+tT6vDjGcrSsOmvchoDtCeCY0Imp6jaLIycxzVr3BdiDunjAKd8DYsBXAvD6MUEXtKmOBgJzk9dSjen/J2RKLLTMSiexlNhibUnc1FRR7Arl3OLef4TgnhH+0vx+Bkf5rxeC7r0An+oEg3xUXd2zRLARIINy1sGXSKq/41oQS27t0T356THju10k1xaiN/9a6O39fqDnR2JEBhw3/Rjb0rtPPUHzPhFAriUlvAG5gm6W/B4XjA==;vmFEmtFUaig/tir1SSjf1A=="
 ---

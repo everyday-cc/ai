@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Slog AM: Amazon Faces Facial Recognition Suit, More Train Wrecks, Trump's Back on YouTube"
+    excerpt: "New Yorkers sue Amazon: Our least favorite local bookseller faces a lawsuit from New Yorkers because it didn't disclose facial recognition technology in a NYC Amazon Go store. \"New York is the only major city which requires businesses to post signs if they ..."
+    publishedDateTime: 2023-03-17T15:33:00Z
+    webUrl: "https://www.thestranger.com/slog-am/2023/03/17/78906465/slog-am-amazon-faces-facial-recognition-suit-more-train-wrecks-trumps-back-on-youtube"
+    type: article
+    provider:
+      name: The Stranger
+      domain: thestranger.com
+    quality: 45
+    images:
+      - url: "https://media2.fdncms.com/stranger/imager/u/large/78906610/gettyimages-1147596821.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "GESQgAwrk4LF7YQnCwz/LlTQJ1tmtE7+zYmP/bjChSUAFdOkguoclROAG85PxtR56v5IxgfRDSOi/OR1IvzNzb5YPCQ8bfuqqKCsFQ835Mjageb95x9gA56SijehVaWLQXYUqIxx3nKcEmIvZjo8aSou997fHAfQ8iLc1g8nAGk6IudNhDOpvYKaxDMdhjRaOhdYQNpIo/f/h9JUC47biYGRWkGcavf5R0umVy/UBX6newMT9fbqu0kmGi4xYQPN/Xfun0gl5DgvsCAgXbIU6G5LnXmFtRXvqk0Y/G1JOp66mgrvxOjhYtOdlGfSVeNnuv7S1/n//zxeyq9g54kdDyktEhzw1NpqwntG6Fyl2Uaipf+aHcPpA0LLBH4drxumDDnf54qUkv6bjhM3yOFfZetxpjIgANxXqdOlXiRwcnoVJnsWDKjfxT9nbi/FV6JsPyYwaaVh5njpveeC5xJcg0168Pu3PIVqir2tg1wjXf9Bo5p5PG2rl4Xernu0rVW5LBk9QBeU6/7qj8kUJBI3bQ==;X/c7dUKroBiZQHr61mGiyg=="
 ---

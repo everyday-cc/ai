@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu Gets Permit To Roll Out Fully Driverless Robotaxi Service In Beijing"
+    excerpt: "Chinese artificial intelligence company Baidu Inc. BIDU has received permit to provide fully driverless robotaxi services in Beijing. What Happened: With the permit, Baidu has become the first provider of fully driverless robotaxi services in the capital ..."
+    publishedDateTime: 2023-03-17T12:19:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31396225/baidu-gets-permit-to-roll-out-fully-driverless-robotaxi-service-in-beijing"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31396225"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31396225"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Baidu_Photo_by_testing_on_Shutterstock.jpeg?width=1200&height=800&fit=crop"
+        width: 902
+        height: 601
+        isCached: true
   - title: "Baidu Wins Permit to Offer Driverless Robotaxi Service in Beijing City"
     excerpt: "Baidu will now operate driverless robotaxi services in three Chinese cities including Wuhan and Chongqing. The Beijing-headquartered company, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies ..."
     publishedDateTime: 2023-03-17T07:03:00Z

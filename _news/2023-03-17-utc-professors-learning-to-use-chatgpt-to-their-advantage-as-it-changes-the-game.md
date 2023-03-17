@@ -135,6 +135,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Apple may update Siri as it struggles with ChatGPT"
+    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
+    publishedDateTime: 2023-03-17T16:30:00Z
+    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
+        width: 580
+        height: 363
+        isCached: true
   - title: "Apple Engineers Reportedly Working on ChatGPT-Like AI Despite Siri Design Flaws"
     excerpt: "Apple is testing generative AI concepts that could one day be destined for Siri, despite fundamental issues with the way the virtual assistant"
     publishedDateTime: 2023-03-15T13:24:00Z

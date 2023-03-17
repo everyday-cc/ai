@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This AI startup just raised $350 million for generative AI trained to use every software tool and API"
-    excerpt: "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?"
-    publishedDateTime: 2023-03-14T16:33:00Z
-    webUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/"
-    ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/8-The-future-of-enterprise-integration-and-APIs-e1674681044191.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
     excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
     publishedDateTime: 2023-03-14T13:00:00Z

@@ -856,6 +856,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
+    excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
+    publishedDateTime: 2023-03-17T15:59:00Z
+    webUrl: "https://www.shine.cn/biz/tech/2303177395/"
+    type: article
+    provider:
+      name: SHINE
+      domain: shine.cn
+    quality: 54
+    images:
+      - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
     excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
     publishedDateTime: 2023-03-16T20:37:00Z
@@ -907,6 +921,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
+    excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
+    publishedDateTime: 2023-03-17T16:53:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/17/semantic-kernel.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 41
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
     excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
     publishedDateTime: 2023-03-15T13:40:00Z
@@ -935,6 +963,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "Ua9ESEWAFwHRGmi2Toof9ZkPuO27DzCnSmheAvIs99Z0tKTHF7MH76er98d3EJnYXJ7s/1IyfBI0zMvSLlZuFmZE5j1x3ZrSKnsKuRSqpYoo9Q6Fi/wMmKD0eVc/tvq3koadAQF/qk2fz7vVkI8grZw/pNXdWSPm5Mv3V8mgNwlp1N/YJvkNgvRaOzfV1VUCObm35p9aGtn0UHOIe6Ov5HRS/X/Igs7eCasED93nlb/mEebdAwqUiQw1i7qOBC0kqam8/P1g9/xVNulrGxsAGMKsQ11Ru7rQ4dY7a2ArU6sscjsQaMzcNbXkZr50M229uZevdRiYDlOFGDo/+wVXnR2/4x59camQrMsreLxnQ/I=;wQwVydvpq8e9/lnNK9udyg=="
+secured: "sr5NG58z4+0RMCXaipcjjeC2gi0CTZs6Kh/lZrYKxUxhpZjxQh/eHloWMrft+u9jVAcI0OmCPsjTVoKF6OKkPAmltMiTxrzXXQ0oKFN9323v5abEyT0cNve5tqsqNQ0syU1wJLk8Hh/euaR+SyPgLxf3ImjVI2z1LI8tEd8k5RAJvoKlQGZR34S53rwFlk7Y4GzmgK2QyijGah6ekEsindOA4mlE++pEq0CWMk/4SxICsQBiY9zz3rPXOyVPtDP5uuMD8o9mv/KgGhQMdxFWHzZgWzRHy/Ob88MPtdNx7gxIt6SPHU8yVtnM4LuqfKGp77iG/DypEAT7qDcYf6Hu4e6BXgHXccdYXSMlGqsZKT/CLV+nlHYzZgz90hQD+d+qnS+CrmNo0Lg9Hx8C9v/DhvmlmFuhihYlnS4p/jiBJXHnlVSe5tlw8wat6pQMyNsRAXdnG9wRa00rcZ5nE7EcGVZouBelXSxqstwKZUBc5eLB6ZczgLIIKYW7O6XFn0qjPgzTHFshpUJV+X7ObIvBaA==;pScE5kTHa7mdEZIqcJzZGQ=="
 ---
 

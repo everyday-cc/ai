@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-23-warren-buffetts-5-top-ai-stocks-heres-why-you-should-own-them-too.md",
-      "title": "Warren Buffett's 5 Top AI Stocks -- Here's Why You Should Own Them, Too",
-      "excerpt": "Microsoft has been at the center of the conversation about AI in recent weeks because of its integration of OpenAI's ChatGPT with the Bing search engine. Its Azure cloud-hosting services, like AWS, feature lots of AI options for customers. Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721380/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
       "title": "Biomarker identified that helps diagnose cause of cognitive decline",
       "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
@@ -1486,6 +1433,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-much-remains-mysterious-about-cognitive-decline.md",
+      "title": "Much remains mysterious about cognitive decline",
+      "excerpt": "The shunt towards, or away from, cognitive decline may happen decades before such decline becomes clinically evident. And known risk factors explain very little of that decline. That is the conclusion reached by researchers from the Ohio State University ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/694127-much-remains-mysterious-about-cognitive-decline",
+      "originalUrl": "https://www.bioworld.com/articles/694127-much-remains-mysterious-about-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/Cognitive-Decline-dementia-aging.png?height=635&t=1676054327&width=1200",
+          "width": 847,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

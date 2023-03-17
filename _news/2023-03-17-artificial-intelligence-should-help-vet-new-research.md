@@ -2,29 +2,25 @@
 category: news
 title: "Artificial Intelligence Should Help Vet New Research"
 excerpt: "Have you ever heard that reading literature for three minutes makes people more empathetic, or that holding a heavier clipboard makes a manager more likely to hire a job candidate? The popular press has had a love affair with social science findings ..."
-publishedDateTime: 2023-03-17T13:57:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
+publishedDateTime: 2023-03-17T08:37:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/03/17/artificial-intelligence-should-help-vet-new-academic-research/ba5b548a-c4ca-11ed-82a7-6a87555c1878_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/03/17/artificial-intelligence-should-help-vet-new-academic-research/ba5b548a-c4ca-11ed-82a7-6a87555c1878_story.html"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
-    width: 1600
-    height: 1200
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -70,6 +66,6 @@ related:
       domain: benzinga.com
     quality: 9
 
-secured: "DlAu9STDlGkr9EksYsrMM1BPYH2BMqs3k3lFymFi/ceAf7Euk6glZsHdvEYyTeTFhzdsb5LDpBHGM2fWZ3vqh87C4CjtQF07umXzi05LhYTMDiGRdg3a4Lt4qFNnMXVbSZvGf/7PnW6t1Up3we0gp5qu3mqJKKCF7G5a91OuYtg1eFZIj09O9Cq9aUuPPmfEozhep61Iu36ecJZaJN9ZGzbY2pgrEW03cMAzTp/W+fRCtzbhc0o/G9bHi0otZpF5oQvhGPORys4Mo2fjuR7NLwXZEvj/dxjTj018PXDAbZI0q+3ZskA8MFbpclF7rF3JSG/D9t4Vxc1waGlM7FfqHX/sTWm0ApwoDV3PggxwUHQ=;VHjEpWoBy8QoUzK1X39FKA=="
+secured: "yKQlRfN6kZYlW4Amowgj0tRU6SUXtXG/TTljoqZNi6bua0poGs59gY2cCGexZkttvAMLpt1419eOp+8ff1Tc9yHkTwn/nAP7UMAIctOt5nrUJ9x2Xw5bzFRGSYM3ejNQzi2ut3KekpAYXpZLbluF7VH6NQD6SrgKx+vmVcmhXHHSSbh+1CRKALKLihqiWsP3jPafV5boB0YTXeVJ2R0JI+zPlVYQZ/4u8EdIQCLrWiB69HwBPq51tcPzWP7VMZcP0Bx3z0XeXkjKms7ZZ38X/d4EmUfUhBqDSabdHCF7UE0nZBIQpK8SE8igpbu3RMRH6vBlvLrwYReDQaVJw3BZgzvS0PjDnebArRrlAgwSYMw=;ZdkmKu7aT6nncUmBLGLrDw=="
 ---
 

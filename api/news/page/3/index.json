@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-15-psa-beware-of-these-ai-generated-youtube-videos-that-spread-malware.md",
+      "title": "PSA: Beware of these AI-generated YouTube videos that spread malware",
+      "excerpt": "In addition, you’ll want to be careful in general as these cybercriminals are also finding ways to take over popular YouTube channels. In order to reach as many people as possib",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/youtube-video-malware-3298682/",
+      "originalUrl": "https://www.androidauthority.com/youtube-video-malware-3298682/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2019/06/youtube-premium-inside-app-logo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon.md",
+      "title": "Spring cleaning deal: Score a new robot vacuum for 68% off on Amazon",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "originalUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/10/fcd3aa53-35d4-44cc-bd52-e1f2bd60712c/thumbnail/640x360/6720cc2b09b7072dbaca6887fd9ac8bb/screen-shot-2023-02-10-at-3-00-08-pm.png#",
+          "width": 415,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "publishedDateTime": "2023-03-15T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-grammarlys-new-ai-tool-is-more-than-a-spell-checker.md",
+      "title": "Grammarly's New AI Tool Is More Than a Spell-Checker",
+      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
+      "publishedDateTime": "2023-03-15T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-6-ways-google-ai-is-helping-you-sleep-better.md",
+      "title": "6 ways Google AI is helping you sleep better",
+      "excerpt": "Learn how features like Sleep Profiles, Smart Wake and cough and snore detection are powered by AI to help you get better sleep.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/New__revised_0312_Keyword_blog-header-animated-final_YCPcPYO.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
       "title": "Can healthcare show the way forward for scaling AI?",
       "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
@@ -757,6 +955,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-15-generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit.md",
+      "title": "Generative AI Is Just A Wake-Up Call To What Was Always Inevitable. Including Incalculable Profit.",
+      "excerpt": "AI and machine learning (AI/ML) will unleash the greatest profit engine in history as expensive human-managed processes are replaced by cheaper and more efficient digital ones. What we’ve seen to date is just the beginning of how AI/ML will transform and reinvent business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/",
+      "publishedDateTime": "2023-03-14T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
       "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
       "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
@@ -997,266 +1247,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-gpt-4-unleashed-heres-what-it-will-mean-for-ai-chatbots.md",
-      "title": "GPT-4 unleashed: Here’s what it will mean for AI chatbots",
-      "excerpt": "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
-      "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 913,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-cloud-incident-response-nets-another-45m-with-mitigas-latest-funding.md",
-      "title": "Cloud incident response nets another $45M with Mitiga’s latest funding",
-      "excerpt": "Cloud incident response provider Mitiga announces it has raised $45 million in funding for a solution designed to mitigate cloud breaches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
-      "originalUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Mitiga_team-photo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
-      "publishedDateTime": "2023-03-14T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-let-1000-flowers-bloom-ai-funding-frenzy-escalates.md",
-      "title": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
-      "excerpt": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/15/multimedia/14ai-funds-01-kczh/14ai-funds-01-kczh-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
-      "publishedDateTime": "2023-03-14T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v-ai.md",
-      "title": "Tenstorrent Opens Office In Japan To Capitalize On RISC-V + AI",
-      "excerpt": "Tenstorrent, the Toronto-based semiconductor company, now led by the super-star chip designer Jim Keller, has just opened a new office in Japan. So, as many other AI startups are struggling, Tenstorrent is doubling down. We believe this telegraphs the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410a736a86c1d3e75e9fa45/0x0.jpg?format=jpg&width=1200",
-          "width": 678,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/14/tenstorrent-opens-office-in-japan-to-capitalize-on-risc-v--ai/amp/",
-      "publishedDateTime": "2023-03-14T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy.md",
-      "title": "Google is working on AI for ultrasound diagnosis and cancer therapy",
-      "excerpt": "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "originalUrl": "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

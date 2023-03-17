@@ -64,11 +64,25 @@ related:
     provider:
       name: The Diplomat
       domain: thediplomat.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Q&A: How can artificial intelligence help journalists?"
+    excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
+    publishedDateTime: 2023-03-17T16:26:00Z
+    webUrl: "https://www.cjr.org/tow_center/tow-center-newsletter/ai-journalism-qa.php"
+    type: article
+    provider:
+      name: cjr.org
+      domain: cjr.org
+    quality: 39
+    images:
+      - url: "https://www.cjr.org/wp-content/uploads/2023/03/image0-800x419.jpeg?122376"
+        width: 800
+        height: 419
         isCached: true
   - title: "How AI Will Change Chip Design"
     excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."

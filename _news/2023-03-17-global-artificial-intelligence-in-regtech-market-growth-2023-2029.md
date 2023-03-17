@@ -225,6 +225,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market to 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Cloud Natural Language Processing Marketinformation for each competitor includes (, SAP SE, Verint Systems Inc., Apple Inc, Microsoft ..."
+    publishedDateTime: 2023-03-17T13:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-to-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market | Industry Forecast 2023 - 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “Cloud Natural Language Processing Market” information for each competitor includes [ Netbase Solution, Digital Reasoning Systems Inc ..."
     publishedDateTime: 2023-03-16T00:07:00Z
@@ -495,6 +509,20 @@ related:
     excerpt: "The \"Artificial Neural Networks Market\" study describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-14T00:51:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-detailed-analysis-of-industry-attractive-valuation-and-growth-forecast-up-to-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
+    publishedDateTime: 2023-03-17T16:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
     type: article
     provider:
       name: MarketWatch

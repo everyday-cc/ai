@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 86
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI startup just raised $350 million for generative AI trained to use every software tool and API"
-    excerpt: "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?"
-    publishedDateTime: 2023-03-14T16:33:00Z
-    webUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/"
-    ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/8-The-future-of-enterprise-integration-and-APIs-e1674681044191.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "AI startup Adept raises $350 mln in fresh funding"
     excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI's ChatGPT."
     publishedDateTime: 2023-03-16T08:53:00Z

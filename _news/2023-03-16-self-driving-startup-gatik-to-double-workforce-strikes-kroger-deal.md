@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/self-driving
 webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-2023-03-15/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1232.6413286419ef9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kroger lands deal for self-driving truck deliveries"
+    excerpt: "Get ready because the empty truck cabs in motion are coming. Gatik, which is involved in autonomous middle-mile logistics, has announced a multi-year commercial collaboration to transport customer orders within Kroger’s Dallas distribution network. The ..."
+    publishedDateTime: 2023-03-17T15:40:00Z
+    webUrl: "https://www.supermarketnews.com/retail-financial/kroger-lands-deal-self-driving-truck-deliveries"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 24
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger_Ocado7_0_1.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "l16KGjjFVoit6vdlX8eIGEIcvpSybheDmez6m2+A5FnxkYZaKVMjcgoQs9gFru9Aws7Y2npsf0/AjK+bEHHO4Jt2ImAPq6L0LI13l7CNUdOUj0dZFwOIUVZN9e3Jh3FGHo2mWRTwPROrDluFso36L4esxjxAAGUJZgBBme3ISnFswd8HpXlfhfbQ1HIAbWlKxuIqWdEA81oYRWfjwUP6f6sy5HzxGdhDJmmSqiaD+H88Oolc7/GPdQR3UiZWQl2jmsW5vaUbJI4kNN0PZl9v4FjI1VPPDmauQdz1r2FXNKRiyHxwDi+YsRUkhFdOVItbv+Lxcbd/kgBT0gRf1pAm/ahV4aC9jtVpeXROJYgnTjqnbgd+2O6hndPdfBddYVOUc4GbbM0irLCOTYi0Ay/wNXMBo2TRVztvUZp5FVbKDYtC+BXhz230grL9tYlWfrFi8b0MQCMf/NPWfbmZrQRYuir9ip2AlqNskxFhA0u21MJF9d6ogTVt4l4pDbj0Ml52N0KX4eOdM6Ii2LH9ZuTCOg==;YgyEHmiiVXIEw40Xw2c/jg=="
