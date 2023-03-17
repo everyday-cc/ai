@@ -9,7 +9,7 @@ ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-
 cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "5 Dominating Speech AI Startups To Watch In 2023"
+    excerpt: "Deepgram's speech AI platform is designed for enterprise customers, offering advanced speech recognition, natural language processing, and data analytics. Deepgram utilizes audio-based analysis to include intonation and inflection in sentiment analysis ..."
+    publishedDateTime: 2023-03-17T07:00:00Z
+    webUrl: "https://www.ibtimes.com/5-dominating-speech-ai-startups-watch-2023-3677895"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.com/en/full/4433582/speech-ai.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "VIKM4SgkXpkE9wn4Zin2FRIP2hZR9S9G/Im5mOrRjoTBwtRopB/NdI8HWOjNDdD6fjKjW1d4jm9iwxclvYkriPE4NnOR4tcqdNSjR0n2qu6skDKwvxuWVJQV3GNjmH4OPYT3Dv5eWKNgdHsxcnbgtM5MrLo5ZgPQhwefTW+sF0icpKyIBtjR2CkszG2HhqZRE4rPrLs8na8y1xTjH2zqKn68riiaKkOyp3gps5zBRgB0HXMawtiKYyLNU3+B8kni9fIPXahDW8C3MFnxgCAVvpW5oLOVP596Ueivw/821mOP/FHeE4/T1yXwBwgeSE/c8m6n4bGpUIMYV8oEwNR9itB3n6xJ5Ly1OkYIuu+XB+I=;YDJGfcmXoIx3+UuUZTADZA=="

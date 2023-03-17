@@ -57,6 +57,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "5 Dominating Speech AI Startups To Watch In 2023"
+    excerpt: "Deepgram's speech AI platform is designed for enterprise customers, offering advanced speech recognition, natural language processing, and data analytics. Deepgram utilizes audio-based analysis to include intonation and inflection in sentiment analysis ..."
+    publishedDateTime: 2023-03-17T07:00:00Z
+    webUrl: "https://www.ibtimes.com/5-dominating-speech-ai-startups-watch-2023-3677895"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.com/en/full/4433582/speech-ai.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "6wXMCm5eJQ7slXX0joThMJZxuUfOvk95PBgR2he0H/DuW05YAMpurzXgtFxs21r7fxlg8KAGSs0hEpBB8pLDpSEcuHgu2WeJXkkDgYb1OxZ1wpOHYO3taO+OPZ7qWwetng0pawL4kXxOCmdhlFn2QpAVe9lEkbWbAzHY0UOiDcXei5o9t2aPLlgvWr4WT8dx3UABW2SBt2+7T4YFN9oPpP/rYKPi4u+POEet+9GuUCxRP+u/R36s0YT8Aw0Qy9E188gJ1Jw3CqIDoOysu5dQtt0JKfro0tx9HUPSrZI7cZnpWVPqqovQ4YuNhEli44x2ijYpPVzGPynBo+fnu8A7aNNK/ZEK4o7l4pN/p9TIGjQ=;17JGo08Lf6N8B/m/ZxRVJQ=="
 ---

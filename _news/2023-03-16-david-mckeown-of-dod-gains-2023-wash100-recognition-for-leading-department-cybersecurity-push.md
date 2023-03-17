@@ -55,6 +55,17 @@ related:
         width: 500
         height: 278
         isCached: true
+  - title: "Innovations transforming the startup landscape: From Cloud, AI to Cybersecurity"
+    excerpt: "Speed: Start-ups can quickly deploy and iterate on their applications ... And that was where a short discussion on the latest craze on the AI tech front, ChatGPT happened. Key points: Smitesh Valanju, CISO, TataCLiQ said it has always been the data that ..."
+    publishedDateTime: 2023-03-17T06:38:00Z
+    webUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/"
+    ampWebUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
 
 secured: "Vo4GzFlNI3uVI+9FdYRwLugQ/lLLi4OecCN9KDPfuWHA/BQ+7TOLYYtIf+e7qah6mQqfefPsdVaulvz10MCJi/iMb7uRRkQwZZSrHgvov2K/5nVQBfnRAzqRlsdIFeryVBtoCp0uuTGXpQ2Hse1hjUaUhiplGLVi6/xvJHQ4l8OMwAPFEAM5nAWXjqaJDGMvdSb9X/nlomLdrB8ZaDIe56ImvqIhb/WF3QGz9Qh6r8+7G7NEyUe7APrTfz8veVwVtqhgSMci3dkTd9dKUBcXA/oYT3xEy/maMPDGma7ZIirw7C9RuSn2Wqt5s90yLqhXwoko5ZVsAbuUiY/WfAtHJjr8eyTopzOotcdXaq0G97k=;qRQYEpGHhY1QATsGVVP84A=="
 ---

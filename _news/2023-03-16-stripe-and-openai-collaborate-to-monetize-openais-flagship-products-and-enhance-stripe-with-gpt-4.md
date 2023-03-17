@@ -39,7 +39,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 100
+    quality: 102
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg"
         width: 2500

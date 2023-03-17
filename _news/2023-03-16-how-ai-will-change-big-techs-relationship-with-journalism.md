@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-re
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "How AI Will Change Chip Design"
+    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
+    publishedDateTime: 2023-03-17T07:22:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "AcDEpn05Minb306qaAP4dxSc/I2yTyZyIZDRWlVKuQ12PoO3K5paX9sbk0mty2ejTW+azl52xrwfOsHQK/HALqIK5pz98wf9h0D64FA02aqX0djqNX/isTIEAYX0xTEXpbNTNEy1LIXJnLUvGokLv+eGOFzYtBvTlJfsApLdwg/F8hdFlWGtNXXWM6XVcw2QX7bSJfL/UTJPr9ekPQkoWS5iKSpHWOuLqmUjEdox9Hai1GTeghqg+Trw4wK9Y23Po0v8/3rM67mZ+jO5GrxIwj6Vsmsgo7SWg2pTlD/mgvx8u0Ado12nv41gSobajg3JUGpyPb+KKFU2AsRovq/XdeAOklkv7w2JSNYepK2eytGHhBFWEOpQ3E/MfALm149LhNWwAalxSpMOoXOVB+U1tgV5gAFOX0dBHNfPoyLAO5eTLuq/TFuuBHHdSzclNXkZA3/F0m9jsTlt9GyYGR5b904D1k72WSy8jkvfZYADDGNbz4yhrFgjIoH5qcqqGvObX+lspiySymq0ptRNpXnJpw==;jxMK9+M/xhr9RAeHACD8TQ=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google’s AI doctor appears to be getting better"
+    excerpt: "From a more accurate AI clinician, to added vitals features on Fitbit and Android, here are some of the key announcements."
+    publishedDateTime: 2023-03-16T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-health-ai-doctor-update/"
+    ampWebUrl: "https://www.popsci.com/technology/google-health-ai-doctor-update/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-health-ai-doctor-update/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/TSEXVjr6m8w/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Google Is Making Breakthroughs Much Bigger Than AI"
     excerpt: "US Chip Curbs Highlight Cracks in China AI Strategy: Tim Culpan (1) Feasible is a nebulous term, but generally means completion in a reasonable amount of time such as minutes or days, instead of years. This column does not necessarily reflect the opinion ..."
     publishedDateTime: 2023-03-16T20:25:00Z

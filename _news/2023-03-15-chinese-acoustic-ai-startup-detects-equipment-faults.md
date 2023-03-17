@@ -32,6 +32,20 @@ related:
         width: 608
         height: 405
         isCached: true
+  - title: "Chinese scientists develop new method to guarantee self-driving safety"
+    excerpt: "The technology enables continuous performance improvements in cars using the data collected during autonomous driving, unlike the conventional method of training cars as much as possible in various driving scenarios in advance,"
+    publishedDateTime: 2023-03-17T04:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/17/WS64133ee7a31057c47ebb4ebd.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/17/64133ee7a31057c4b4b768c4.jpeg"
+        width: 608
+        height: 405
+        isCached: true
 
 secured: "W5UmEUmWjx5HqV/0boVmhVFHiirBJmDvHtagPuaKti6qfAen8K7WijjeyJhdnJS/NgYOtfGGxX+E/2S3IW32gj8TboGXaqfR3tErvLdZaCTuW89CYFtsaqmru78DvZr6yUZzdrmlkRjVVLHYimxSB0oKu+DkFUu/D3QMEEwgknFgjem1xmMvZ0BuuTBrORTOiAwwm9Xu+fD01C1K+a7DjU5nYMyCaR3fFHxsIPsVN8akNDRU/zYo/1URbWtJxXuDKu6JtOj3Pd98C4GCko7b2w3i7vCTNl0Wp01T/6VB2DjB5Yqflkp83EDjphsl16k6/sF6asq1qOUPuDO3+Fc/wfrfBdIqdCJHeSJYvpGE2c+Tu6Q9sUNPTpxO+/MSqAQdz3Om5pA++fOv48WG1ySsqdx0tClzqqbBwtjetY9u165AIvcwhwjOwQtrElV7f+wESNS4vm9vH36fbJ3rWRM69P+M+T5UAXWzmiadnehDEJD7GjgHwrvLXgbXYmlMIPDxNST4Dk/i6RkIbOiFkXL9lw==;WAapZqNaAKxYdWjfBXueGw=="
 ---

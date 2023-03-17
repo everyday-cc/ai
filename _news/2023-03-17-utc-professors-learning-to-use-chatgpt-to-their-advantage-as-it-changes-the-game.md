@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
+    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
+    publishedDateTime: 2023-03-16T21:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Think ChatGPT Is Smart? Ask It to Do Arithmetic"
     excerpt: "People of all ages—especially my kids—have enjoyed hours of laughs asking its artificial intelligence silly and scatalogical ... AI does using the same basic tricks as ChatGPT. Chatbot therapy is a totally different kind of problem, and a bad match ..."
     publishedDateTime: 2023-03-14T14:10:00Z
@@ -43,29 +59,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
-    excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
-    publishedDateTime: 2023-03-17T04:37:00Z
-    webUrl: "https://www.desmoinesregister.com/story/tech/2023/03/13/best-questions-ask-chatgpt-open-ai/11439179002/"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 30
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cameron Smith: ChatGPT promises not to bring about Judgment Day"
-    excerpt: "This is the unedited exchange (ChatGPT responses in bold): My purpose is to assist and provide information to users through natural language processing and machine learning algorithms. I can help with various tasks such as answering questions, generating ..."
-    publishedDateTime: 2023-03-15T18:22:00Z
-    webUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 4
 
 secured: "JmGWqIUt432ckzOTzLAUMru9pXcgISWlRjk5JT4hOnTMGjmNuPaZuczZdXqChV3N5z36R/01kNE9xJZvw98L6KHLIX3D03PX0dM3svHXpmbnyyHDT5Yxs21V4gEcBBtDpSRRJObGWAZQYZwHjw6jfq5QoTP6/H54ZC9ILXsfsdGrjeXir/tqNcO5EMbKhZOBJv+mXOWH7gqXQ0jqeSRMMPcJrPSgSKJj8YPadxPtsbRn38PvMt29ptfBt2yfXMWEFYTPWiXqwwrr6dgkcSN91wweJdeIuLbJHrGY5XNt3Vq99bkGBkTRCHpvHh5hCq6KB5GxrxiEx5DRQwdaLp0YiYniLYjKMy5uye4d79PIRArzIGkYoHDpAKLvVgHbsHxrA9O5WrfHA/zM8vp37pJDlOK24npiY4c14NGBssu+XLYtJojH8lbwaagWTYuRS8s3yVRMGm7NLPGghEhDFfRabHRNYV9GdZlwqwiq8qBtX+Z/06wQPD7QdDNHOgOwMWtiUYJbq0maCBn5aVjDim5Xog==;Yl30+ITdtubTN9vNzEn1qg=="
 ---

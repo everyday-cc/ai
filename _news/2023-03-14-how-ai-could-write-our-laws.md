@@ -77,6 +77,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
+    publishedDateTime: 2023-03-16T19:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "n/+pgg/sXM7o3swhzzEP+4gy+i6gE96Gh22WtbaiqAHR5xPe5TiqGVM2zepeOZC7G/rqgPSk7WbZTKcx5TaXgg0SvkA+suEdaRNptn6SdCfLZImH5lXmdim5NZvlCU4ARhP2iDdDSttNQFXPujwLtEAz9uhMGh/U+Y98+7vshuC6mEXj/qFiulfKm/Wc7PpOmveX+bmD5IB6hBy2ENyZiWPc7TnFKJCJYB4kZuqw+D1WHr4eYXDt/vzqRSXpC6jMmxCJoZFGk6vqHO6XJGQPYrx/4l6NNkRwBisa5jT9+XGWIKwt4ov8oYHvAcI+0ft1gjWb6VBnjWkB0ofuVbKj2sbLjrqD+IIwxWLSVaR++NnFmLavtda1nbVHn5ma8GSluyiQzWNi5a1GnGpy0oymV4HXAT40AxWzkWfrdxbsFZWe8hrabl9HMHxDCVFcDZzDybhn+NR48mA1HL2tQoUebtIGMqiUlISWyw6vScdpgGNvuoFgrXqComB7zJg8rw2+YWhNdMEmMoPcrmSwloGPZQ==;Kq5WVn8gkV3tl1+xixhbDw=="
 ---

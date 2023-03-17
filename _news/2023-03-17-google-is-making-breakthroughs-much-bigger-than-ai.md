@@ -55,6 +55,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Google’s AI doctor appears to be getting better"
+    excerpt: "From a more accurate AI clinician, to added vitals features on Fitbit and Android, here are some of the key announcements."
+    publishedDateTime: 2023-03-16T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/google-health-ai-doctor-update/"
+    ampWebUrl: "https://www.popsci.com/technology/google-health-ai-doctor-update/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-health-ai-doctor-update/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/TSEXVjr6m8w/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
 
 secured: "sUmERIGLEni5EilO0K7zQbr1aXhlgjO/BWjwN/LR4sP46jQqlvYDxy8XjBRTeoVbYemhAQJOadE/9HSLyzMA5twQPHjpm6HsCk7++gKgWez8LKnrv1TcxPKk8ocX+qtp3oxVAFgRoWbe0OQ7O6f+pNEl8Ssunp0INcnwB6E10efGARY6GBtW0WSZfs2lUO+PJ8m4vtgvypQxDHSMozk1matHoOlC29eZ4KbmV6Yfb4Yl4HmzjhtepPA9mExeZTp0vBtRh0N0DVVKofCcjbc7xWJeqJhHeZZ5+S3YZURVGWPXLbqXNCQGif/2gG3G3dy/9y0R13s4rHdtf0aCtUutyTVMre/PKNYA515FDS4+yis=;Ffg8aBN8uHUfftO7Vns0xA=="
 ---

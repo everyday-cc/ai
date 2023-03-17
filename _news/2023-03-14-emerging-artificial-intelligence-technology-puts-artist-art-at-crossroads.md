@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-14T09:35:00Z
 originalUrl: "https://www.victoriaadvocate.com/premium/emerging-artificial-intelligence-technology-puts-artist-art-at-crossroads/article_9183db4c-c1e9-11ed-bbc2-efefb244c758.html"
 webUrl: "https://www.victoriaadvocate.com/premium/emerging-artificial-intelligence-technology-puts-artist-art-at-crossroads/article_9183db4c-c1e9-11ed-bbc2-efefb244c758.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/7/57/757f9186-c1b0-11ed-a617-874de63de6ca/640f3baac565f.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"

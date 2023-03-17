@@ -57,6 +57,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "General Motors looking to weave artificial intelligence into the driving experience"
+    excerpt: "General Motors is looking to enhance the driving experience by integrating artificial intelligence into the auto industry. According to reports, the Detroit, Michigan-based automaker plans to ..."
+    publishedDateTime: 2023-03-15T05:25:00Z
+    webUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience"
+    ampWebUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 53
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f4c753b4-6786-41e7-913b-39cc648dd74b/fa73622b-5215-40b7-ab04-1567c6873b34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "qne6nUZ3QGYvWXMxL+S+6lLfCB1DTL9o/7aer4DPRD/cuUmygQy4CxRId5lRKfSeNiYC4Oh1tkeVI3tRVUZkiaU/srxQ76liClZSBJa8FbpGmP4iSEB90/ehj1zPeBDSqzCgKaWoA6lqWcy9Nm2L/d/IbpK5YJFhXKj/Ez9vs8+8mHoYPCkTQDeqCetTrD9Q7XyFA8As41Qeb25WL54iIOBMziIC5QSzL0a1FbIlqb4fsmmAayHyFKN+wEVRiMCxXXGUJ3fqqcrDuDdD3FbR2ZFBiDVU4AB4nyiPHDB+STWAzrNQaK0RWZHHhpTCVv2F44pYYOLblqGUNMtACLnoI7Ls6TR3efQ/a7VqvknreNg=;bz1I9PpksXOfCVwvrTzZhg=="
 ---

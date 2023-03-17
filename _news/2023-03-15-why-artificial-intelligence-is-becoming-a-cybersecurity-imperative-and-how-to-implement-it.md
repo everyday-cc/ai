@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 500
         height: 278
         isCached: true
+  - title: "Innovations transforming the startup landscape: From Cloud, AI to Cybersecurity"
+    excerpt: "Speed: Start-ups can quickly deploy and iterate on their applications ... And that was where a short discussion on the latest craze on the AI tech front, ChatGPT happened. Key points: Smitesh Valanju, CISO, TataCLiQ said it has always been the data that ..."
+    publishedDateTime: 2023-03-17T06:38:00Z
+    webUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/"
+    ampWebUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
   - title: "David McKeown of DOD Gains 2023 Wash100 Recognition for Leading Department Cybersecurity Push"
     excerpt: "Executive Mosaic congratulates David McKeown on his first selection to the Wash100. Hear more insights from McKeown during his keynote speech at ExecutiveBiz’s Cloud Security Forum on March 22. Register here. David McKeown, senior information security ..."
     publishedDateTime: 2023-03-16T09:56:00Z

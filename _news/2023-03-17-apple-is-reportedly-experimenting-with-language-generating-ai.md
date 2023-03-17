@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "General Motors looking to weave artificial intelligence into the driving experience"
+    excerpt: "General Motors is looking to enhance the driving experience by integrating artificial intelligence into the auto industry. According to reports, the Detroit, Michigan-based automaker plans to ..."
+    publishedDateTime: 2023-03-15T05:25:00Z
+    webUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience"
+    ampWebUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 53
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f4c753b4-6786-41e7-913b-39cc648dd74b/fa73622b-5215-40b7-ab04-1567c6873b34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-03-14T04:24:00Z
@@ -61,6 +77,6 @@ related:
         height: 633
         isCached: true
 
-secured: "YBL7cBgO5z7nFAYCfjFxsNA9ClXvuC2EUHr7Zzh/R5ZIv9yZKdjAC4audfl/bj28G15E9lhAKr8BESMPnW89x7GP4U2mF5yuFlHgrAnoJCaTYUD6ipj9tgZeSS6TDijDr4fpazp0agGc1DVBwsPJMSn0tM/w3HtG7gC4ujxxuSjXPadRqUp7pSpJFdWTg+F6CnlG6pMXXHCDoIjDSjkWR5h8qNFRdiM0eg6gQ8mxiBwJ/47ak2HY7iBMN+9DKTih1utLVMqrvmpU3yTKMXh4oCIcLspHGwKE+wGSD3/ZE0Snyhbgm7jN6LnAkDb0Ti/8VzDNSvePj/wtz2av5vvQe4Vc2kiY8GgnDjPx2QPLbsE=;va6FtYWnCeiGIC86Pf28og=="
+secured: "zNFge4yN+4ZLTOwm1fzjcVAYDllje3nEpevqY0i+GOkP5D8F7hu9K/slkKopgvgbZyO8a+eAM8xomxTg3KAim9aUvIbi79ThIuwM2UJdwDGdrI7UAaAW6h8jWhv0wGC+Q9nLeM6JGUsySS09eGfACPURm1hN2fJbBuXuOKfIWPrd7CpIxgLeTgHyIBdQgCFpI17laEKFqxgklcZC/DKIfABm5pwFE27SEOZ2rPB+weyCjTxu0L4lPNAVIOaeXoOc+2OEA2JLv+WpqJhhIaLv9jYsyv3fz7bOrrFJpLNPp3hT64NISufoR9JWhATc1KGGPB7WsKZZLpGXonTkHCgEmRoIXX0b2tMIKyxmziIlFz8AJP1Rh9amUhsd9zgpf59f/XKMdsg7BoN+z2YpypZg2ylTXgtV6hWkWX4uKzOUCCkO2v7sQ7pJ2jcjHlVJtvlqttBo8R17FLQ+fR9KPO6ldkl+Ota7KPQ8t+fhFgO+iyZM+P1TIuVd22WS0C+N/qxDtYrXV+diLaLMsB3Vb55+/w==;+pd1vcfZfT/WP4bLdUx3sQ=="
 ---
 

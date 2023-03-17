@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

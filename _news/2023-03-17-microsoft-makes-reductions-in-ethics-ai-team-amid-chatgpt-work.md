@@ -2,19 +2,19 @@
 category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
-publishedDateTime: 2023-03-17T03:06:00Z
-originalUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+publishedDateTime: 2023-03-17T02:58:00Z
+originalUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
 quality: 91
 heat: -1
 published: false
 
 provider:
-  name: kristv
-  domain: kristv.com
+  name: WKBW
+  domain: wkbw.com
 
 topics:
   - AI Ethics
@@ -155,6 +155,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/7d6f8ad93058dc76124df00bd4b321756f9d8701/hub/2022/04/22/7248d0ba-a255-4cc6-9adc-1b3816f88f4d/microsoft-logo-2022-638.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Your Microsoft apps are getting an AI revamp. Here's what we know"
+    excerpt: "Generative AI is coming to Microsoft 365 apps, too. Here's how it might improve your workflows. Just days after Google announced the generative AI makeover of Google Workspace, Microsoft made a similar announcement."
+    publishedDateTime: 2023-03-16T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5b1c5979c558457dddab43f541689748a20bbc60/2023/03/16/9ef2e04c-36d3-4796-8c24-172aa213ee95/screenshot-2023-03-16-at-3-27-42-pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
     excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
@@ -751,6 +767,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Microsoft adds AI tools to Office apps like Outlook, Word"
+    excerpt: "- In this July 3, 2014,  the Microsoft Corp. logo is displayed outside the Microsoft Visitor Center in Redmond, Wash. Microsoft is infusing generative AI tools into its Office software, including Word,"
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.chron.com/business/article/microsoft-adds-ai-tools-to-office-apps-like-17843927.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/74/25/23577944/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
     excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
     publishedDateTime: 2023-03-16T20:37:00Z
@@ -830,6 +860,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "CmP81p2ZfQqeF6CwzJf4FZ/xvgWuFOSbkbNCe9Ig7XZBrSiy4KFV15deR1uoOLYST9NputIOT1CVw8He873IYrQTnsXl7AAYkCNtzn2OFK7cwb5GurBB8y+Fdy/D5SkAnpMeQsGvUvsa5FYTxkRMo8gxu8eCwMz7J65rV5FsD3s+tJJzBrAlE18uhyBD0e/0PvK2A62Tufqc8HO0dY/6cq7HUxrUtRerfUo8kPqWu7GdOIGpuPURfgPdO5rEk9bXbSRYbUKXVO/eUNFqzyN6HihW+bv5vIY3ccri3kSnt+jWPMDjF8PaVPUHdSIcia3LMYCmpM1bfzzDnN82ACmUS3HbuUdskuqXXN4Bl4YT5vA=;syPWJXudPghzhUKywNXDsw=="
+secured: "nbkYBR93sH3ZsWa4KQ5ByBk+151+ckhzRDRNHrqi5g4AGFKhQ0V3MNCltzJK2jR1cmXhab6QTZ0TSTjt/qBXxpLJgbsnPAzGNGRz+uMCA08Drv4j8B3ldzFhBWjJEMe5hbsF/77bpfB4zXEmOBGZO2nW16h2iEiF4V7qBG+T+yLc35RL3OnOGksead5+kbr4flY0mywHjvCc3jlXCgu2LptTbA2RxLzvGzuM/pY1RydlloQnTohOTn/okGPbVBCQo4+S3KIpurFXasjW1MXDnvegiM88It8jtdrd/GpUeEdKrMKsf8G1nggNCxc9jv/xOPFZXrCNfFI9dk/aKdFrTZQfyLtlUV54Qt+IZ+Qv1ik=;Dv0aP0GLrX8f2RAdtZw39g=="
 ---
 

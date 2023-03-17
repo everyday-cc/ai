@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning"
-excerpt: "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint ..."
-publishedDateTime: 2023-03-09T09:30:00Z
-originalUrl: "https://itwire.com/guest-articles/company-news/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.html"
-webUrl: "https://itwire.com/guest-articles/company-news/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.html"
+excerpt: "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint customers across industries can realize the benefits from the ..."
+publishedDateTime: 2023-03-08T17:10:00Z
+originalUrl: "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a"
+webUrl: "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a"
 type: article
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: PharmiWeb
+  domain: pharmiweb.com
 
 topics:
   - Microsoft AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://itwire.com/media/k2/items/cache/8ecafceb36e2461370d0ea3870ea9bfe_M.jpg"
-    width: 375
-    height: 375
+  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+    width: 1200
+    height: 448
     isCached: true
 
-secured: "cSHcSROcCRxXTW2tNK1sB5TezIo/1useGWJmhockoUguqZu935nhR5urPvguN1y1zKnjXXmGkCjuLnn+A5+oPtCHIiLgys6/Dpwz3EZhj2Z+z+DQZhiS8DEb+/d10yCcPHJwzYp50ZOmps7pjqpFRqe72fDIP8rd9Fj88qI44DNcSykfB+b/qHS/rEdomkSEebi0K/hGQF15leIPs9wSeutgyfrnG8aDoVcaLIumzWA6+aNlP673khIZOPiQdpKtqm255/NxzzDVbe5H3lwnzk7PdsQ6d9n6YZHDgL1SWpU7z+kpaoHXq9QfrOwHqKsNKzGxEqyPgfkgtg+JIt94JAvtWLZ4YHHQFNo3Ovl77Ls=;zGSA+CczJ5jKPqyM1y5dLQ=="
+secured: "kziZ9FnVJzeL79M0G4QuGtbEC/UMfdW9pFQtZ9knbfPL15dw3QnSTLxjX3HV+zCAovzUx/kpxfIZcujdPsD21V5a/iqSIWOW3+y+i3X/FqbCG/cnZQo8vGp55DGRKi6M1AR1uBOd1dkakADU2JcyGFUZPfWXLdFlS/Ij5InhKbxvXjD1UjfgEu1gHKOoZAyhxzHC5fCl6+nMbiQTqv5K8SDSjs9699mV1EBbzjryRr/hFH64w5lkaCzeBcS/Ytd6xOBAzQpllqQ50Yx8lLR6/ayZUr1eKvdLwgLa4baOTYL19P9e8Iu082A7tmX1dGiz2NpFbElsqsQK53N8OOmK+vYWX/WafQa76zcov3ynvj4=;0Oe+88tMESHlfOyEORLwVg=="
 ---
 
