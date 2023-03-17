@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market 2023 | Global Industry Report Forecast 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Marketing Market” Size 2023 Key players Profiled in the Report are [Baidu, Xilinx, Oculus360, Facebook, Amazon, IBM, Oracle, Insidesales, Samsung Electronics ..."
+    publishedDateTime: 2023-03-17T06:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-2023-global-industry-report-forecast-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI (Artificial Intelligence) Image Recognition Market Size, Trends and Forecast 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- AI (Artificial Intelligence) Image Recognition Market Insights 2023 by Types (Hardware, Software, Services) , Applications (Automotive ..."
     publishedDateTime: 2023-03-15T05:59:00Z
@@ -755,6 +769,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chips Market 2023 : New Recent Developments, Trade Regulations, Import Export Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Artificial Intelligence Chips Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin ..."
+    publishedDateTime: 2023-03-17T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-2023-new-recent-developments-trade-regulations-import-export-analysis-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Law Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2028"
     excerpt: "Artificial Intelligence in Law Market Size 2023-2028 | New Report (112 Pages) | In This Reports Artificial Intelligence"
     publishedDateTime: 2023-03-13T04:02:00Z
@@ -810,6 +838,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "2D Animation Software Market | Evolving Role Of AI And Machine Learning To Be A Major Trend (2023-2033)"
+    excerpt: "2D animation software is a digital tool that allows artists and designers to create two-dimensional animations for various applications, such as entertainment, advertising, gaming, and e-learning. Which region is the largest market for 2D animation software?"
+    publishedDateTime: 2023-03-17T09:00:00Z
+    webUrl: "https://menafn.com/1105800669/2D-Animation-Software-Market-Evolving-Role-Of-AI-And-Machine-Learning-To-Be-A-Major-Trend-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/17/EP_ed8d2image_story.png"
+        width: 778
+        height: 407
         isCached: true
   - title: "Self-driving Cars Market 2023 | Global Industry Report Forecast 2029"
     excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."

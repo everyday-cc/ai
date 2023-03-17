@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-17T07:14:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273637251/artificial-intelligence-robotics-market-to-show-impressive-growth-of-during-the-forecast-period-2023-2028"
 webUrl: "https://www.bignewsnetwork.com/news/273637251/artificial-intelligence-robotics-market-to-show-impressive-growth-of-during-the-forecast-period-2023-2028"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.bignewsnetwork.com/cus1678939553048.jpg"

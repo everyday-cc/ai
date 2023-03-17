@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midj
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI imager Midjourney v5 stuns with photorealistic images—and 5-fingered hands"
+    excerpt: "Midjourney announced version 5 of its commercial AI image synthesis service, which can produce photorealistic images at a quality level that some AI art fans are calling creepy and \"too perfect.\" Midjourney v5 is available now as an alpha test for customers who subscribe to the Midjourney service,"
+    publishedDateTime: 2023-03-16T20:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/midjourney_v5_hero_2-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Midjourney Selects Google Cloud to Power AI-Generated Creative Platform"
     excerpt: "Google Cloud today announced a new partnership with Midjourney, an independent research lab that provides a platform for AI-powered creative tools for creating visual imagery with natural language interfaces."
     publishedDateTime: 2023-03-14T16:28:00Z

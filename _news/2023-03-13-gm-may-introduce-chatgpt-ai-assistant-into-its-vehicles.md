@@ -298,20 +298,6 @@ related:
         width: 564
         height: 376
         isCached: true
-  - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
-    excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
-    publishedDateTime: 2023-03-12T15:19:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/12/chatgpt-bing-ai-benefits-harms-hype/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 915
-        isCached: true
   - title: "General Motors Wants To Use ChatGPT Artificial Intelligence In Its Vehicles"
     excerpt: "Is this the next big thing in vehicle technology? General Motors is exploring the feasibility of introducing ChatGPT, an artificial intelligence chatbot, into its vehicles, reports Semafor."
     publishedDateTime: 2023-03-13T21:53:00Z

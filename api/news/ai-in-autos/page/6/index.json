@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-06-teslas-infamous-full-self-driving-beta-v11-is-coming-this-week-if-you-believe-elon-musk.md",
+      "title": "Tesla’s infamous Full Self-Driving Beta v11 is coming this week if you believe Elon Musk",
+      "excerpt": "Tesla’s infamous Full Self-Driving Beta v11 update has been supposed to be here since November of last year, but",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/02/06/tesla-full-self-driving-beta-v11-coming-this-week-believe-elon-musk/",
+      "originalUrl": "https://electrek.co/2023/02/06/tesla-full-self-driving-beta-v11-coming-this-week-believe-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-this-chicago-startup-is-making-self-driving-tractors-a-reality.md",
+      "title": "This Chicago startup is making self-driving tractors a reality",
+      "excerpt": "Sabanto, with just 28 employees, is rolling out a hardware-software kit to retrofit most modern tractors. “This is life-changing. It stands to be the biggest advance in agriculture since tractors replaced the horse and plow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
+      "originalUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crain's Chicago Business",
+        "domain": "chicagobusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028.md",
       "title": "Self-service Shared Coffee Machines Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2028",
       "excerpt": "New research published as the “Self-service Shared Coffee Machines Market” research report provides an in-depth review",
@@ -1189,101 +1266,6 @@
       "provider": {
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
-      "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
-      "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
-      "publishedDateTime": "2023-01-31T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-future-of-the-900-billion-us-trucking-industry-could-be-decided-in-california.md",
-      "title": "The future of the $900-billion U.S. trucking industry could be decided in California",
-      "excerpt": "As California regulators explore new rules to put self-driving semi-trucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "originalUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/1356161/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F03%2F5d92cb284b151fc96928b901d3a4%2F422909ceb5124913a7d5f0932967d6fb",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null

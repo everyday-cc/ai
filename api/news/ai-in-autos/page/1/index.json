@@ -1017,6 +1017,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-03-experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10.md",
+      "title": "Experts ranked the leading self-driving companies. Tesla didn't even crack the top 10.",
+      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "originalUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/98373239/Master.jpg",
+          "width": 1003,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "publishedDateTime": "2023-03-02T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-chinese-automakers-to-participate-in-baidu-ernie-bot-ecosystem.md",
       "title": "Chinese automakers to participate in Baidu Ernie Bot ecosystem",
       "excerpt": "Several Chinese automakers, including Jidu Auto, Geely Auto, and Great Wall Motor, have joined Baidu's ChatGPT-style Ernie Bot ecosystem.",
@@ -1251,6 +1294,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-02-firm-ranks-leading-self-driving-companies-tesla-came-in-last.md",
+      "title": "Firm ranks leading self-driving companies: Tesla came in last",
+      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "originalUrl": "https://www.autoblog.com/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/7b7bbc9f44dfc78f4a81536d86d99709",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/03/02/experts-ranked-the-leading-self-driving-companies-tesla-didn-t-even-crack-the-top-10/",
+      "publishedDateTime": "2023-03-01T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
       "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
       "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
@@ -1290,101 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai.md",
-      "title": "Waymo Cuts Jobs as Parent Company Alphabet Focuses on AI",
-      "excerpt": "Waymo, Alphabet Inc.’s driverless-vehicle unit, cut dozens of jobs as its parent company moves to control spending and focus more tightly on artificial intelligence. Waymo confirmed the staff ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/waymo-cuts-jobs-as-parent-company-alphabet-focuses-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4su8sJ8f2ho/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
-      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
-      "excerpt": "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
-      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.baystreet.ca/images/articlegroups/original/7/private/Alibaba.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BayStreet",
-        "domain": "baystreet.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

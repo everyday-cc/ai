@@ -3,18 +3,18 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
 publishedDateTime: 2023-03-17T02:58:00Z
-originalUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
 quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WKBW
-  domain: wkbw.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI Ethics
@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
+    excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"
+    publishedDateTime: 2023-03-17T08:13:00Z
+    webUrl: "https://www.engadget.com/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 102
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
     excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
     publishedDateTime: 2023-03-16T15:07:00Z
@@ -201,6 +217,20 @@ related:
       - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678979472_microsoft-365-copilot_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter"
+    excerpt: "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ..."
+    publishedDateTime: 2023-03-17T09:05:00Z
+    webUrl: "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 92
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/03rEPLuRYTk95zyZUp24ARf/hero-image.fill.size_1200x675.v1679002828.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Cuts AI Ethics and Society Team as Part of Layoffs"
     excerpt: "The move has caused questions about whether Microsoft is prioritizing its competition with Google over long-term responsible AI practices. In its most recent round of layoffs in January, Microsoft let go of its ethics and society team, which was dedicated ..."
@@ -528,6 +558,22 @@ related:
       - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/microsoft-new-bing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft adds AI tools to office apps like Outlook, Word"
+    excerpt: "Microsoft is infusing artificial intelligence tools into its suite of office software, including Word, Excel and Outlook emails"
+    publishedDateTime: 2023-03-16T16:19:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_5a399068c29272b6841047535d9fd1c2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Microsoft says new AI program will work in conjunction with its apps"
     excerpt: "Microsoft on Thursday announced a new AI program that will help users generate documents, presentations, and emails."
@@ -860,6 +906,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "nbkYBR93sH3ZsWa4KQ5ByBk+151+ckhzRDRNHrqi5g4AGFKhQ0V3MNCltzJK2jR1cmXhab6QTZ0TSTjt/qBXxpLJgbsnPAzGNGRz+uMCA08Drv4j8B3ldzFhBWjJEMe5hbsF/77bpfB4zXEmOBGZO2nW16h2iEiF4V7qBG+T+yLc35RL3OnOGksead5+kbr4flY0mywHjvCc3jlXCgu2LptTbA2RxLzvGzuM/pY1RydlloQnTohOTn/okGPbVBCQo4+S3KIpurFXasjW1MXDnvegiM88It8jtdrd/GpUeEdKrMKsf8G1nggNCxc9jv/xOPFZXrCNfFI9dk/aKdFrTZQfyLtlUV54Qt+IZ+Qv1ik=;Dv0aP0GLrX8f2RAdtZw39g=="
+secured: "gGKN3fep9igv22zlmxQofyZGRcUJjA+FszwsG49xRi0y7eItJP84ZY6iPtKyDTqNdDmt4h19YUYmUfL3D+BK0F18gjmwt+kBMRS1lTS3ERq+re2GJp1gdQyZ/EddGE1MVgTdPZMsOgRw0jJiVEffF6R/xsIqGArL3V8L25SnShKB2rZ6lYJ7UB+nH+RQ7wT6nPDGJLHJMMfybEV/EQyTL12WtO4M7sGQPrf1YSBgYFP6Iaq6m1aBwIEvenm6kg2fw3OYTjNVkOBSRt2+WTE93Zt8siZTtNMZ3S8SmOhHdOgmhp/j73gRqW7JoW8R1ywSxE2/3P4cutDm5kXG6/Ncv9MHzFBjE9gR0FobyxgQ2Q8=;NSQDlItybMwxOsvs/4p2sA=="
 ---
 

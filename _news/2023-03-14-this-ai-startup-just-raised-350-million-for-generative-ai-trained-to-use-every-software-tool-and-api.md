@@ -49,12 +49,12 @@ related:
   - title: "AI startup Adept raises $350 mln in fresh funding"
     excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI's ChatGPT."
     publishedDateTime: 2023-03-16T08:53:00Z
-    webUrl: "https://www.reuters.com/article/adept-funding/update-3-ai-startup-adept-raises-350-mln-in-fresh-funding-idUSL1N35O09X"
+    webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 67
     images:
       - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
         width: 1200

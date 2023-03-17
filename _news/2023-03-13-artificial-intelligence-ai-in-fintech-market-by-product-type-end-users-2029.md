@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
+    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
+    publishedDateTime: 2023-03-16T23:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
         isCached: true
   - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
     excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."

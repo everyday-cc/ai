@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
-excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI)."
-publishedDateTime: 2023-03-16T14:02:00Z
-originalUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
-webUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
-ampWebUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
+excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
+publishedDateTime: 2023-03-15T18:50:00Z
+originalUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"
-    width: 600
-    height: 420
+  - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
+    width: 320
+    height: 224
     isCached: true
 
 related:
@@ -152,6 +153,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "YyvRNtH9DmiXqSZUmFPUknVw11oESInim22PqdQ66aHCHOdvDlTjQH+o7S8x1V8/tuwZSexvXwf8MbWxhMPdEyomqcB2eZCuD8OmYB2tzASXkUIul2aXsBPgrXwjwAPNugfgdcNoNjgDNPkTPB2DK79E37QcIbzrCEya7w6swIlP0HtChJ0UdmvDibpucuBPgddw8dh2q5/kBFj5an/F/ZeIX3vrXdJCquwzheoIB4vckzGm0lriChvSKYf/zAQLfdEn+bYz7MPzOEyWvvDNPx0poc8MH5rWbtGP68hXsnBciwDOKZaMB569RY4vmStiSTDvNIIE/e2lcH3FaoQhwZdJ4RYL/RzaoBQU1mFnL+M=;4pAPi29u6nZ9AEBfFGqDVg=="
+secured: "Xmx2yrBHAcrAWCUa0KbC+YitsmPaKEso8gY87/IkgWf80wmAgoPMwLO0WTBkj7sXTu6U8higsfAQm7ufADpVcVJL7lcw6NmNo4KF/HPenD23njpPRtNT0lrHPsVohm+HnMoSmMZD6vzPFVcQH50XIcfqkTt+KCC7SjLLGmNAlx5dxoCY6uhFWBzuTRteQep/LkRQwStVPXaiXYte3onlPlz6i9hYn0He9HIfVu4tE+rObiDZ4yUEAkEVh85bsB89L4TDDrfyJKFp1rLjA2ppbJoT2NOvuupYqkfY5jdE5EBay4YQj/lTIgE+xIN9hhUrjLTDdQFgU48nD0RFMXJYfQOwIMoJnOhHcWuk0hJf2aU=;FYly2sklujURFJnMUgGbmw=="
 ---
 

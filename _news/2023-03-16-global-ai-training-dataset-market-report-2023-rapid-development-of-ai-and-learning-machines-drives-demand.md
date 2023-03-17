@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth"
-    excerpt: "The progress of artificial intelligence can be attributed to machine learning, a field of study imparting computers with the ability to think without being explicitly programmed. Deep learning is a complex machine learning algorithm that uses a neural ..."
-    publishedDateTime: 2023-03-16T18:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d"
+  - title: "Global Deep Learning In Drug Discovery And Diagnostics Market To 2035: Ongoing Pace Of Innovation Drives Growth"
+    excerpt: "PRNewswire/ --<br />The 'deep learning market in drug discovery and diagnostics: distribution by therapeutic areas and key g"
+    publishedDateTime: 2023-03-17T09:18:00Z
+    webUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?989169"
+        width: 364
+        height: 250
+        isCached: true
 
 secured: "Pf9KSIgXM+olsIGu4vSDdcVLNePNZy7FKXmbO7+2a9b2UmqoofsWlrdehvY6dvWDtqElEifzsQnmvieDB/zYBvEYBrJ2hByoiozAx0j5RBJRY2UJgmzAySixpmqTyw2jvQGBkDWkScGTfIc/g+7XireJyfBIIu8cx2JTooHR76WXiAGZA+eClwJxuBjlb0/jaqc71tDSKue94uATzJ3zlrDJWZwvsp80srS+217fC4Hykmk7+lzlKzT8OBzLF3/sx1wmRtTzxISNSmxwI1Uqma8OiuntEx6U9mHjldywfgTNlS+h0g0KJORawYKQbYTN9nRwC/E1oOQmB94eoBe6oIidtAY5qypPffxB/3hwl8g=;bKY5q6vJRb3zo0UMTEN0Mw=="
 ---

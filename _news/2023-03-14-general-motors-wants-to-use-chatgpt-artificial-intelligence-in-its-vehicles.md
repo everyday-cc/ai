@@ -303,20 +303,6 @@ related:
         width: 564
         height: 376
         isCached: true
-  - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
-    excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
-    publishedDateTime: 2023-03-12T15:19:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/12/chatgpt-bing-ai-benefits-harms-hype/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 915
-        isCached: true
   - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
     excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
     publishedDateTime: 2023-03-14T00:59:00Z

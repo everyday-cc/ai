@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-02-the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail.md",
+      "title": "The Merging of Artificial Intelligence and Robotics: What Risks Does It Entail?",
+      "excerpt": "Artificial intelligence and robotics are two technologies that are rapidly changing the world as we know it. Together, these technologies have the potential to revolutionize the way we do business and live our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.merca20.com/the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail/",
+      "originalUrl": "https://www.merca20.com/the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.merca20.com/uploads/2023/01/open-ai-chatGPT-Microsoft.jpg",
+          "width": 1280,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "promocionar",
+        "domain": "merca20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
       "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
       "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
@@ -1275,49 +1318,6 @@
       "provider": {
         "name": "MSNBC",
         "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-roin-acquisition-strengthens-built-robotics-offering-and-unicontrol-steps-up-us-distribution.md",
-      "title": "Roin Acquisition Strengthens Built Robotics Offering and Unicontrol Steps up US Distribution",
-      "excerpt": "New developments at construction robotics organizations suggest 2023 ... They may be afraid of machine control.” While Unicontrol does not automate production, it does automate data collection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
-      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/01/shotcrete_robot.jpg.63d024156c3d0.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "For Construction Pros",
-        "domain": "forconstructionpros.com",
         "images": null,
         "publishers": null,
         "authors": null

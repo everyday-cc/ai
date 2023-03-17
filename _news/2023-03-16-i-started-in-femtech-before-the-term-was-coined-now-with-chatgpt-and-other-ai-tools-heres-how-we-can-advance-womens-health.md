@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Forbes
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
-    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
-    publishedDateTime: 2023-03-14T23:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How podcasters use ChatGPT and other AI tools in their workflows — and what listeners think the rules should be"
     excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
     publishedDateTime: 2023-03-14T12:46:00Z

@@ -71,6 +71,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
+    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
+    publishedDateTime: 2023-03-16T23:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
+        isCached: true
   - title: "13/03 – Weekly Fintech Recap"
     excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
     publishedDateTime: 2023-03-13T12:58:00Z

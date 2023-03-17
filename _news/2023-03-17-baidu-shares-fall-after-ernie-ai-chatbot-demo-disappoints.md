@@ -2,11 +2,11 @@
 category: news
 title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
 excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
-publishedDateTime: 2023-03-16T17:01:00Z
-originalUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com"
-webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com"
-ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp"
-cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp"
+publishedDateTime: 2023-03-17T09:37:00Z
+originalUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1"
+webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1"
+ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
 heat: 179
@@ -125,6 +125,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "q2xszxzWPbDazH1HGXyzYgcyQlyuKtM9qRFpYuIOHbFyOeLbKsRrJDMt/dUFrs0Uu0nQkLcxo/odslUbsBfFrVTStfJm995oqAvbn80QPeOkSd6uo4VFk/bR5dxTfEmcn8OCCud8k67MMMFeRuFzIJMaRQNkicKbK7D5dNtZcxGA6TtqyRQrQz6SSkUVFrQIDqr4EtUHpCBFwRNq/okxPcBMt/NvY/CL+6iOahEnPQUxnTHNQIW4vbCDFlHLsBLNMkHxF4BsFUNvPMcQeRzlXc05FuhZF+MEtZUKPasc74QMwx7Mhg23fEd8b7hOvCV1c9BP7JfbcpmTCD2Q89tehb7cOrkofiutsNdXDSXl/xE=;PbXrxX/WdQnhg6tAHlbApw=="
+secured: "iHohkMAjSfZ+lwqdHN/LrbPlCcmgVunIIMQZyteVD0AcwPggAblMQ7/MnZ2EDDwfqnEOrb6PaHipyK/UvynUhydXMBA2+aZizVJeuTBYuMRl9KG+Ggw2Ipl1f3GE8xJ1U4ia9v0puE3fx/qQotktJvL+cpSwXgzv9u5K0Y5ef3MxZPblPeHsjwb4+r7TjVlRcBvICMe6y7x+S81QizwGnAjb8lFmLqJYdv8VqHr+4buG5Muw55Yc+qyG4sF+XmeccJtKloYHcNujgzaVtRI9pgd0yVI5zpOAdPuhI/N/37zmbRLbGM5K4LtYCZ8z21VKYx0mimQn0XJJovQCH9BOeySiPJ4uMKvCV74fYZwXhmc=;w6HhgRMi0Szg4y/ZKnUlLA=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
+      "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
+      "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5b05f17d495a4f8a8d52e7118734048460c09c39/hub/2022/09/30/fb452108-55bb-4ac9-a2e2-4ea9f76d929e/20220929-tesla-fsd-beta-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-faces-justice-department-probe-over-self-driving-tech/",
+      "publishedDateTime": "2023-01-31T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-the-future-of-the-900-billion-us-trucking-industry-could-be-decided-in-california.md",
+      "title": "The future of the $900-billion U.S. trucking industry could be decided in California",
+      "excerpt": "As California regulators explore new rules to put self-driving semi-trucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
+      "originalUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/1356161/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F03%2F5d92cb284b151fc96928b901d3a4%2F422909ceb5124913a7d5f0932967d6fb",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
       "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
       "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
@@ -1339,104 +1434,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.md",
-      "title": "An Oregon school district turns to artificial intelligence to beef up campus security",
-      "excerpt": "A Klamath Falls school district is using artificial intelligence to try to prevent future school shootings. Klamath Falls City Schools is partnering with Pennsylvania-based ZeroEyes, whose AI technology will be linked with the district’s existing network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
-      "originalUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XWUW53UBSZCWTILTHPC3NLOC64.png",
-          "width": 1554,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/education/2023/01/an-oregon-school-district-turns-to-artificial-intelligence-to-beef-up-campus-security.html?outputType=amp",
-      "publishedDateTime": "2023-01-26T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-robot-cars-are-causing-911-false-alarms-in-san-francisco.md",
-      "title": "Robot Cars Are Causing 911 False Alarms in San Francisco",
-      "excerpt": "Ride-hailing services from GM subsidiary Cruise and Alphabet company Waymo allow them to summon a driverless ride with an app. But some riders have become perhaps too comfortable with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
-      "originalUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63d1e157e86be50408c465bb/master/pass/Self-driving-Car-Chaos-in-San-Francisco-Business-GettyImages-1238159533.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-cars-are-causing-911-false-alarms-in-san-francisco/amp",
-      "publishedDateTime": "2023-01-26T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

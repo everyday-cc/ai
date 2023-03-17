@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
+      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
+      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "publishedDateTime": "2023-03-17T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027.md",
       "title": "Edge Artificial Intelligence (AI) Chip Market: The Growing Trend 2027",
       "excerpt": "“Global Edge Artificial Intelligence (AI) Chip market size was USD million and it is expected to reach USD million by the end of 2027, with a CAGR of between 2021 and 2027”Ask for Sample Report Edge Artificial Intelligence (AI) Chip Market Report ...",
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
-      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
-      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?ref=upstract.com&amp",
-      "publishedDateTime": "2023-03-16T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -409,7 +409,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 731,
+      "heat": 761,
       "tags": null,
       "images": [
         {
@@ -514,7 +514,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 361,
       "tags": null,
       "images": [
         {
