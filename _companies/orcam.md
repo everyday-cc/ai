@@ -2,7 +2,7 @@
 name: "OrCam Technologies"
 overview: "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.orcam.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OrCam"
   url: "https://twitter.com/OrCam"
-  followers: 10605
+  followers: 10606
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=jx2zOrCTvcA"
 
-secured: "bXej26E2Upws1qE6ji6blFY2T5kxwTT3+1W58uZSx05Oy1rabG6tHK8mJ1mTeFFBe8f5N91ZSpucHlWawe414gLHGutiD6gby/xV9yr8IE7huoMk16sZbS46vWggFkTHYBl2DRqBrPXSmIRnckq3Wj9NSe7f9oO2ZT+GXUQXHUiUUcBPh69lUgoxPoEDta5jUwDxyVYp0s0lir8VGhjmDkMNqy9V4N7YOL+vAKOVHKl/vRY/LEX6O+VUjWe6ebRVYNTTdXq5DktSSOJBuX1UMCXkGVhavaHKSw2p3RXCYKLAWdxgQXPXGQHxk1NFufYavY7Eih5csXu30q1Af7tcuaVDH5xRCYauHxAaTEEkRUzqi5z2q0jX3paaGwXCPLJeR/Vws+MWcr4WDNH6ux0hCkxOK/UH5Zdta3z62v81NyQ=;PWYXGRx9cx9Vm16P/uMViA=="
+secured: "Sfswabuxafl2QQXBtLUcOEgWAKIgewiIN3+z52eeqwjg62D1zeb7/1VEXD3BS06at8TpJp1DIxPt03/RK/x7fdGC5Aayva+4gDpcgBag3gD9MsGQN5RFwUMjLyhoUzZNYBo1NRmX46QfLcbIISJ2SB6ngh86BRlbjuiUtxt3DQORVxnpmpoqpi6hLCCO0pHKGMQzlV5UO/baVhX+HEmoHFAvMBxonQPgpVIhPOqsaiU1+fmV/6IqwktqLQEJE1e75bA57ILhphbjr0Gt6LNhTFuDXN5W2Ykq0dawslixrjgWBfCuqlAvSH6LkR9iVOVK8tm4ivSLV/RWqDJh0gYSp3wP732DRPZNuB4lP5tK2q+SVbBK9x+WHEuVYX276pbOc8tEIAnr0CWuPcGNhmlhKrPTHSPf8OQPQeN1dVAR4lI=;ior7uA6DDonDQHEjOcDe7Q=="
 ---
 

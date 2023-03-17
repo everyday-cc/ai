@@ -2,7 +2,7 @@
 name: "Anduril Industries"
 overview: "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever."
 type: "profile"
-heat: 115
+heat: 125
 
 website: https://www.anduril.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "CWqAcUHuTLvuPJQpaiymSoJ71E8+BpsWGnt3s9qP9Eh56LAnCUS1G54rAfsX972Ml7sabsj/oCuBw8rsy9uWII6dg++T/Z+I+Kf3nx9HYCHxwD3OEnDPH1vxOhVGY8cZjS+IzoiTrI19CZisB2ENUFCPxmKw3Ph+v5Fxc3gcZdAo8rAmZsf9sCOF2njBDAfJPl6gqIKzk4cGJJo/DH6bnRpz0I1T8K0e2ztpwBIqRW5kPTQK3/1SECxFjmqgSEDe7bfbyNBx7pSf+8ayoTNSFjgewoxwJwxR9kcUWsCP9z+Gs3skT9B9UIbp1its+IqRunWVHfhQwfkuIJA7qLxDHJCrtYlvDl+1j4MGvdFKoVGpYlH+Vr1E8vxhrBQ5KWk3QrhdpGIY2Gf25Cy4zH7YeiISAloq6HwIoopnezy6v34=;BymwInzoD8KpapziWXBF9A=="
+secured: "ux+SsyilK2uiNXT+aiNhaoVDBtchbVZnl1XIjQFeODetZo9h1qKdESYKbmlSuo4kwAoMEuGSOWfytBuYdMt3YjJ6fhAJzmiplkZj9vkaLxZCRW3blF2AssVg102WKk9Ya9GlSPgCb4pVfM4qmzyPZbndXcJ1p7Kl+wttjLXTUxVx+ZsFOgIqst6ThtuAgaZOxfJ1rgUDySDyfAfgZbtH/eD8TJz1uswKqLdi3ovKvg8mfjAbRNWPNX32daaoyyklV5etqZh1ezelXd7LaIauLLCY8T8dv3M5W5KQpiwVOWL6uqnGihbBX3HhoOl+RXjUR5AjTNjxyIp6j2wXlL3VCN4Qpxp/dKGlbRVt3whg8q6ib6cDYI5Tz4BKDaxOCU67kfn2M5/rSnvm7JYEgMmK/pZFRMzEZATpn4UP47amImw=;sEtMetDplBxJFtZCaZOYWA=="
 ---
 

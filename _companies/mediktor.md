@@ -2,7 +2,7 @@
 name: "Mediktor"
 overview: "Free face detection and recogniton API provider. Leading Face Recognition on Cloud."
 type: "profile"
-heat: 42
+heat: 64
 
 website: https://www.mediktor.com
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VrnosHhMfgA"
 
-secured: "8f+pcrlLzxziIAS7OMfdSRzRBs8YUxhL2/yz1efAzIPgBacrn6d9iIXW1yvCMDe5Jq338kfrNJ+G8cAk6Oa8kYaZ7Clv3B0JFb3Y4sC8+dr/NlKnAinT7VPZJRG+WSl8Sq6sMMWmnU4gmJr4IaJD125wUENPQ+/UY0ZEhHP+dw6hxd3hYTt8qmoEyNpCbbWAcQPtRCSVZQ4ItvGLoZVZarEbhBeAk7sdjNj22D4ymj4vdJVi87Q7uVWczaiLxeWyg9VA0Fz3pWCnUX6CPizrjOCgiwB0eppedrTn7TwtznItnI7lzGRrSKom+PT85hO5+kIkZZTdSCmAntiD+P5OigukmBlRiLZvIP0B4LtUy+yClthRDwzRXvxxAO1yZIqmx2GgcCqRDe0gc+Qv3BqNx0h+/Hx9BkiDW8r3SA2BkcI=;6NSresEM6tt91aJyMuSqzw=="
+secured: "FZCmLNlGJqXfLteKTW+9ztlk4fi2htSjnOZEwd3Rjfy5Zuy+igdj1Vr3fqr3q1W8NyLXCsEsLwduHp8nkJfSposa6NmIJQGgQTpF2UNz8fghCO4jy3rTB8TfQG31MBxUoUbKvrbr+nAfPgYFG0BWWQ/w6LoLeZHflzs0meMVhzTPXHATT6bjsIXMjaPD9cZGB5KFt/BKdhBzwers2yMsGDFXPdQqQV1jDbybyssoVsA3VG74h2mZEAU8aw2lPlcGl/cpAtOFzsqSodzS+k+UF+HriF+oapvbzR0UHf4IC3cGP4KJqrBWxlXaE56BZ/cFUCYFMMSiP/zVE2teDikILX9FM67QeysYewoJ9Fgx5at+9QwtoupooCU/hyAfECp4nntDGyCrRssXSrKAJXQ8ZQXbazk3JlxJs5DGOiLGbGE=;WjwC6+prz+Tza+fx+GACaQ=="
 ---
 
