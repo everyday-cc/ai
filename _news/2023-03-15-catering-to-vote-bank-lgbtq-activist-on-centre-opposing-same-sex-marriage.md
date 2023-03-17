@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 920
         height: 690
         isCached: true
-  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
-    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
-    publishedDateTime: 2023-03-12T11:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
   - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
     excerpt: "This comes after the Centre, in its affidavit, had opposed the plea seeking legal recognition of same-sex marriage, saying that living together as partners by same-sex individuals, which is decriminalised now,"
     publishedDateTime: 2023-03-15T03:35:00Z

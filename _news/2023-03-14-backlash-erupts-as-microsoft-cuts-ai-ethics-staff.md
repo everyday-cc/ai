@@ -280,6 +280,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
+    publishedDateTime: 2023-03-17T03:06:00Z
+    webUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    type: article
+    provider:
+      name: kristv
+      domain: kristv.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -391,6 +407,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft lays off team that taught employees how to make AI tools responsibly"
+    excerpt: "Microsoft laid off its entire ethics and society team within the artificial intelligence organization as part of recent layoffs that affected 10,000 employees across the company, Platformer has ..."
+    publishedDateTime: 2023-03-14T00:15:00Z
+    webUrl: "https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
     excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
     publishedDateTime: 2023-03-16T20:13:00Z
@@ -497,6 +527,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft says new AI program will work in conjunction with its apps"
+    excerpt: "Microsoft on Thursday announced a new AI program that will help users generate documents, presentations, and emails."
+    publishedDateTime: 2023-03-16T19:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5761678988079/2023/1/5571e72bbc340737f4d56b9cd8f6dd91/v1.5/Microsoft-says-new-AI-program-will-work-in-conjunction-with-its-apps.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Microsoft debuts new AI-optimized Azure instances"
     excerpt: "Microsoft Corp. is extending its Azure cloud platform with the addition of a new instance family designed to run artificial intelligence models. The instance family, known as the ND H100 v5 series, made its debut today."
     publishedDateTime: 2023-03-13T23:49:00Z
@@ -552,20 +598,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/REDSchwartz0613BlogBalance.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
-    publishedDateTime: 2023-03-17T03:06:00Z
-    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 71
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."

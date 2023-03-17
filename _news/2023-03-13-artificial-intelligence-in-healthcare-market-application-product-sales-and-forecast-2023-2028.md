@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
 type: article
 quality: 89
-heat: 689
+heat: 699
 published: true
 
 provider:
@@ -575,6 +575,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI and Its Implications on the Indian Healthcare Sector"
+    excerpt: "Artificial Intelligence (AI) is transforming the healthcare industry in ways that were unimaginable just a few years ago. From disease diagnosis to drug discovery, AI is making significant strides ..."
+    publishedDateTime: 2023-03-14T06:20:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/ai-and-its-implications-on-the-indian-healthcare-sector.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/ai-and-its-implications-on-the-indian-healthcare-sector-2023-03-14.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Voice Recognition Biometrics Market Growing Demand and Trends 2023 to 2029"
     excerpt: "The \"Voice Recognition Biometrics Market\" study describes how the technology industry is evolving and how major"

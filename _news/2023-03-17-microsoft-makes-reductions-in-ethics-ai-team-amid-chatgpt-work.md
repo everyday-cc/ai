@@ -3,16 +3,18 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
 publishedDateTime: 2023-03-17T03:06:00Z
-originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+originalUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: kristv
+  domain: kristv.com
 
 topics:
   - AI Ethics
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -391,6 +393,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft lays off team that taught employees how to make AI tools responsibly"
+    excerpt: "Microsoft laid off its entire ethics and society team within the artificial intelligence organization as part of recent layoffs that affected 10,000 employees across the company, Platformer has ..."
+    publishedDateTime: 2023-03-14T00:15:00Z
+    webUrl: "https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
     excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
     publishedDateTime: 2023-03-16T20:13:00Z
@@ -496,6 +512,22 @@ related:
       - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/microsoft-new-bing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft says new AI program will work in conjunction with its apps"
+    excerpt: "Microsoft on Thursday announced a new AI program that will help users generate documents, presentations, and emails."
+    publishedDateTime: 2023-03-16T19:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5761678988079/2023/1/5571e72bbc340737f4d56b9cd8f6dd91/v1.5/Microsoft-says-new-AI-program-will-work-in-conjunction-with-its-apps.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Backlash erupts as Microsoft cuts AI ethics staff"
     excerpt: "Most of the team had already reportedly been moved to other parts of Microsoft, but the remaining employees on the ethics team were laid off on March 6, 2023. “Microsoft is committed to developing AI products and experiences safely and responsibly ..."
@@ -798,6 +830,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "2hD1vLMcmE/xzFnG34G39kiPxZV3ywsGIx6kqP1JfJc+QnMGqWCw+mgjlwe+tOHXZGwxHTndNykg3O1TLhBN29y8GW/OeCxylQ6jKwOakMcfAAhYPW4vAR2pA778R+dmkBHR6hPY+3A285ETfEcxqzmGLxytleA8Fx9WVRtl+erCLY2q8kcmBmtxCVwFo1n/LUY7C+vCAy4+YmJFMfdJvJZsWn8Cu7Ek/D1hKilxS5XSD4RsjVdzUNCuRSPUD97t1rQuMUmQ0PnJPzOcohcbhxLamAu+PyHMLFfIm9AcsBCisqqHcNq1Hj+lBuazADNrwU2Qra1c9jc8V3SUaGLdIWWEbmwsuchnynvcqWkxAgQ=;ip2Ec0VNAoeJdkLaRZwY5A=="
+secured: "CmP81p2ZfQqeF6CwzJf4FZ/xvgWuFOSbkbNCe9Ig7XZBrSiy4KFV15deR1uoOLYST9NputIOT1CVw8He873IYrQTnsXl7AAYkCNtzn2OFK7cwb5GurBB8y+Fdy/D5SkAnpMeQsGvUvsa5FYTxkRMo8gxu8eCwMz7J65rV5FsD3s+tJJzBrAlE18uhyBD0e/0PvK2A62Tufqc8HO0dY/6cq7HUxrUtRerfUo8kPqWu7GdOIGpuPURfgPdO5rEk9bXbSRYbUKXVO/eUNFqzyN6HihW+bv5vIY3ccri3kSnt+jWPMDjF8PaVPUHdSIcia3LMYCmpM1bfzzDnN82ACmUS3HbuUdskuqXXN4Bl4YT5vA=;syPWJXudPghzhUKywNXDsw=="
 ---
 

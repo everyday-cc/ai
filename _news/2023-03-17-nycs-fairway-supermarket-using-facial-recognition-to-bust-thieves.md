@@ -44,6 +44,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Amazon faces class action lawsuit over facial recognition technology in New York stores"
+    excerpt: "The suit alleges that Amazon Go stores in New York failed to comply with a law that requires businesses let people know when their biometric information is being tracked. NBC News' Kevin Collier and Danny Cevallos have more details."
+    publishedDateTime: 2023-03-16T20:11:00Z
+    webUrl: "https://www.nbcnews.com/now/video/amazon-faces-lawsuit-over-facial-recognition-technology-in-new-york-stores-165442629767"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165442629767"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165442629767"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678997434946_now_daily_b_collier_amazongo_230316_1920x1080-2lft9o.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
     excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
     publishedDateTime: 2023-03-16T20:05:00Z

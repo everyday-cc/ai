@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Crypto Long & Short: Finding Alpha in AI-Related Crypto"
-excerpt: "You’re reading Crypto Long & Short, our weekly newsletter featuring insights, news and analysis for the professional investor. Sign up here to get it in your inbox every Wednesday. What is to become of the opportunistic investor in the digital asset space?"
+excerpt: "Artificial Intelligence may be a theme worth exploring – potentially transformative in the way that cryptocurrencies have been."
 publishedDateTime: 2023-03-15T15:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/crypto-long-short%3A-finding-alpha-in-ai-related-crypto"
-webUrl: "https://www.nasdaq.com/articles/crypto-long-short%3A-finding-alpha-in-ai-related-crypto"
+originalUrl: "https://www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/"
+webUrl: "https://www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/"
+ampWebUrl: "https://www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/?outputType=amp"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/03/15/crypto-long-short-finding-alpha-in-ai-related-crypto/?outputType=amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.coindesk.com/resizer/RkBGhbYTOTnLFM3wDbHeesrf6sA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R3OH5GO43VDINCEWAP3JKM77QY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "At SXSW, Artificial Intelligence Fills Crypto Void"
@@ -34,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9Unm/9gMnnSX2U3T8DaqOX0TocaPl6eU3EeO3JpWasYLRQ56Xt5h1+Jd0uP3jvoVjRg1gvY8EaDNhVBdHNugcwWAI7NmraGYletbd5cKG5KNNOV9GA4rFppPLVxQzUry7gucXHRq2qCNEzBySGOVZSlCppnIqyFO4KhKPG7v2jwgyKG8x1kYHS1rrnAB5Zj0Di8N4UubTef1t8deSJx2U4jC6f0ljojy2M3k80gnIseDGY+B/HJCySxTW5zJ5igLUcvs6UjGFH3Stlq5Vq9JcZOHcCkMfYsDDwgIxoygbRF7rgg0F6dhHMTzotcD7QYA5wAxS4Rm8ecqBCDbhs8PYQ+DiW6WqGZVdWjTBbs1CyM=;fgv6fP14RlEZycuvghhEHw=="
+secured: "CQG+m0gC75oqtSiU9SgZG5WrmnL3gtRkXR1YYeFrHdUTJPXQiVZ4TF2HfGVyZJrPv0YmJ7ehW8Y3W6s3pIh/sP1GYU09B2GwAFN+W3Ta1LjVL386bOBimfu51V8c4OD3zfAgey1D3eR9OD0vDmIUNPzDOcEhVMDFdc8ZIO9KycvUcOYPcU/APGjaiYE01Mt6BGcG04s8C9LcwdFF+k9ssIFhV1OQzXG5nNBGtXaDFWAmPubr1b8P7myeomxNNv/SQhjM9bWGYCmSULb7P0FXz5UER41hBBhOMoc5sXuDpDUEMVuYHdQAit9ATiGrrcWRykA9T/APCE8YNMmqlFfCfGLuDnMywS3UavmMx4Jheg4=;oUO2NJ2C6RL4QErXxEaFwA=="
 ---
 

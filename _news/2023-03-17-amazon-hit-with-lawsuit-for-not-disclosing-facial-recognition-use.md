@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Amazon faces class action lawsuit over facial recognition technology in New York stores"
+    excerpt: "The suit alleges that Amazon Go stores in New York failed to comply with a law that requires businesses let people know when their biometric information is being tracked. NBC News' Kevin Collier and Danny Cevallos have more details."
+    publishedDateTime: 2023-03-16T20:11:00Z
+    webUrl: "https://www.nbcnews.com/now/video/amazon-faces-lawsuit-over-facial-recognition-technology-in-new-york-stores-165442629767"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165442629767"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165442629767"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678997434946_now_daily_b_collier_amazongo_230316_1920x1080-2lft9o.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
     excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
     publishedDateTime: 2023-03-16T21:14:00Z
@@ -76,6 +92,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+LA2fGoxoerS70NgJ2d1d1+01tDRQrbU3dEGgsU8kjSs1L1hvJrIxupju4WsTexUdAdIh7uThviFvpi9fWF6x0MdFG1pGldjpJtz2BHNqLrTVfXWjfIbg2V1bGR8HbIjLQLabADP8wxR3vRjG4vbDsnkiizvTSoHHnJi0sYd/Rzu8LMDNQU7m0ScDsF0kif7/G97QJEK3HbtMox2Wclran77AMMLDY5QhBpoMhxrALdHksAYVS0UhMsh8p2M1u0mA78d/WuS8xGhgEz7+DQJM7l6qHWLgwULMT5XRnVsgigMh6Qhm/cVZg7bvSYInPwEVzqvHReR+dBI2QlBZouzs8P6XWe3kTzX2sI7M+eoLis=;uQ7IDyLlvzTv54RsHWZC1w=="
+secured: "/X6q5cyom+iPCVwpz+vy6CCQF0rfssEHw//9OAdHfMN54k0veQxkUqnztOZ0mhDcfTvIpYeGqVYFPtIrKKxVDfugTDZNpKs7pvPK2eD7/RBBvyjLeyug1hpyLnKbma+71/XJzErFP776tC+FPfy8ERCBixMKx0+xwzvWAZvJc8Z/y3rmRicAIUBzwY+A7r+tnSHJsqE0D1CNHJO+U+es3Bm1DF4b37bGhJfQ8oYO+h85b8BFsR1EGTBPyS96oCWVbYJb6tIfIUDrfyBp08Kx7IwwZMqUYUit6SmsWHL0TsSTXyRhH4RtQTrmFlXnemaHFYo/ibQWaRFgkiKGS5u5M2YdYQKa7bsvdDqK9uz7oSBJ6suvQSyupaaw0wsqiYMrxmtAqrEGeIyZYg3dS/lAIvzZ0wf9qgU3I/DDpDl1yGqQxtq4vNCAHfZWod59z196BKbBJ1Il8xREutsBt2Um/5irjiIP4HBZBuIClGSiHR9Lw56RUYQ5safM4dthMIm2w5VjTixgXDS6njCneHXQsQ==;LzTQqa//NiKwkZjZIEkwZg=="
 ---
 

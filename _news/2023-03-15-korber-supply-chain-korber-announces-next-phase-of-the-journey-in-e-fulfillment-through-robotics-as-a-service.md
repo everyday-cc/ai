@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-15T13:10:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58562695-koerber-supply-chain-koerber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58562695-koerber-supply-chain-koerber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-008.htm"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg"
+    width: 400
+    height: 276
+    isCached: true
 
 related:
   - title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
@@ -47,6 +53,6 @@ related:
       domain: webindia123.com
     quality: 24
 
-secured: "879C6hjncK0rJjw5Vc9RwHKE4Y4anEq7v94iAkaXfOlAl5+ASJ9fqkHaRoUW3CndiH2x1/IWYYxRCQcfI4RU/5qLcwD4urQXTrGyOTCibFr4p9bM64lt9ZKGVBecuxwHnAWsiLDKs1sAJYWTk90kXXxsyzt5skg85tN+IK+dldgB73Kajw9Olu6XYfSgJpAyhbm1CMtgcmyKAbi///pcVo4SqhcrLsvz0yNORk4Ltb7FpzbWEzSOpdud5auGPHf5LL1CxKQGWw8y6TZt6VkJkoVGpDZKqTRw7mzu9W544vIt29Ra/1zs6RuC7bC6dOv23oy+2Vs0OivRI7oQ6OWqPZWiwUMKPD/g2BB1oNP03C8=;5LkOB/cxvGwJ0QGZ0qy59w=="
+secured: "fcZpauYnNfrwU98rld/hffoiwTqdMlhTF7xAxnDJLjMTmuPVAVmcx94Mp50HDAl1b5+9k4KzUxvqm6IeF45LRuFBFF4/kt610GJj5uGqupUbCCVM43/YSGzSK+EwYU66A5cE9yfa3Mm1/8DXWpMIr6GC2kP7xWIXPTy5sd7qv1nMUjo3b8ljcSmNOP27jRkieFgvE98BpyG2AGA/C6lOJllWijwpkrphrrf0ZSjn2ak/m/17NUqKVM+XVivtjLNnXNZgHKXU10AOD+18GFRvjRXJP07hru2C5uO4fuCyHRV/Ze14Ou2MnSsoZPWDcZezdp/HwjumTUN0QluMttb2q0pvUUtnvXnb2PvpK3O3LSI=;7+8JDnY4kJYO9D+0RNROeQ=="
 ---
 

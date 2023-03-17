@@ -2,11 +2,11 @@
 category: news
 title: "Can ChatGPT Get Bored?"
 excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
-publishedDateTime: 2023-03-16T20:35:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-webUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+publishedDateTime: 2023-03-16T20:48:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
 type: article
 quality: 44
 heat: -1
@@ -403,6 +403,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "y7LVt7/0pEny+tU7EQ+6Vxcl3m2LJxjYB/9nrqRL97iXAN3qtLBq7zzVOOPSeh/ZIr+X5iKM5klmdeVd7047ExVGgkImpoglqpUaxUGlb3c3l2BaRFF+6CCDU6lZY+O50VEM03XED2noS589tEM610Gu1CAbEoeN33uOnRMYDdbDHHNUSL7IXJHpoIOA+/u5aJgR7mPnArGLHlqJWVQDUoGsXhpmfFur3UpjOyei+hBFPWu1Mz7RoyqR0AH8m9vWyuXARXglkP6MvA3AHyXjLji9AG4Szz88/rgKs4kxCO7DHGOvxN7jl5J8XBcThMfXUwL4AACm4c9teaCISiDZHg8+K9XdbziRinSYGfMptR5FBvkc0Zl2mYkIBaMhJwxDQj2uflqIxcAnN0EJJ/nywvPllcDYti9x6UULTQySx8JnH2hL76wZ60dT6IOiE3qvTpxad6yUJ6aW+OBcTgGJa6uvJWRMv9erN0GLKeKHnF1/m8O/xllI6b+w5+/jHAhY3rzfjyqUK9kjskn9P9bKyQ==;NTJyZUxv0A8pJFJuI30SVw=="
+secured: "rqkTuFOZhKWzidIh4urGVSdpOqeDnWFkL0IA2JdG50GCzBRvrGP8lDqPiFcovb6IN+Yi5HGtsxqznZ7OSXUoT2wZNpf7GldCEomFgPr+BIF9U3oBp2drn/7Upcz782dA6RWDC4wxaV03t4e8WhXHvYJ4zTb0yaluq8Ok8yNDp8rdBhZB9vHttUo4XMXDVBDQyugm2F3M27tppVRrfCSDqCyue0ch1AgCB5+bnfJq2YW0yNMdx8VBPF/gcFckgrFoNx6tQF6q+1FkqM2qs98+ckR98qFXyFj3657OyoZFe/YECb0aBEO7Max9RyhClbfTihYuzsi7fJFf+egCsxbaD9zVjDr5pQ4pw9v1jI+mYXI=;biq4QcZH0F6BklhCRleMHg=="
 ---
 

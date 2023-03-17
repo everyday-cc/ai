@@ -51,6 +51,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
+    excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
+    publishedDateTime: 2023-03-17T04:37:00Z
+    webUrl: "https://www.desmoinesregister.com/story/tech/2023/03/13/best-questions-ask-chatgpt-open-ai/11439179002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 30
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0wNjzMRMYRHWfQFcnms6XDFZhnP22KICt4gbGFTOBU7LU2vgy8a3JumubfZHLzAwvYt40zjpxkWGpmMlXsfm66Q60LTr6qnQLNsmKnOucNlExkeyQR8Jz5a1yTCCzQ6aQ/Bg3yWx6A8eDCPSAmfPKBkecphfJY82TwJaRkQbvTkR+zCPf4T6OGsjW9CYF4LaQ5GjXJdttR5xTGbfS4gEZf251rNV1vjVerIzkvEVzyfdtJkZQvvtmCDSzSwpZ6kbDwgqhbq8N2HaT6hdgnyE9srCM5PNB2Hq6F94ES2KMfv6kHi7GIw28t5RcwCgCohMQcpdfhxCqs57wiKjgUMAXJjUjvtekjvxPBT/doiqKCjEYb7ytoZw74XXul2AymfX4RwTpC2Ksj85KYE9vUg5yNZJhzTMt5RcPZzBQcu8182B2g3kbJy74wzLqFvfTf9YCDPx++Gw3D2AS51/s9KxTiwYFR6zRMm5NzMyhHoEVi0euqsyKRf6NI8G9XgoYutqLNUNrxMWrz/Z23TDX7Pa6w==;0O/rw6CNdCAWGPcafY52sA=="
 ---

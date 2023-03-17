@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How a Toronto-made AI therapist could bridge the gap in Canada’s mental health-care system"
-    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
-    publishedDateTime: 2023-03-12T12:00:00Z
-    webUrl: "https://www.ctvnews.ca/health/how-a-toronto-made-ai-therapist-could-bridge-the-gap-in-canada-s-mental-health-care-system-1.6304944"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 49
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
-        width: 960
-        height: 539
-        isCached: true
   - title: "Google to weave AI technology into its health-care offerings"
     excerpt: "Alphabet Inc.'s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research,"
     publishedDateTime: 2023-03-15T00:02:00Z

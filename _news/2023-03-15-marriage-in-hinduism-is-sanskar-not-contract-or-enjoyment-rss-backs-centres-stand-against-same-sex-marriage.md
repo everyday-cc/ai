@@ -81,15 +81,6 @@ related:
         width: 920
         height: 690
         isCached: true
-  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
-    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
-    publishedDateTime: 2023-03-12T11:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
 
 secured: "zYUa9phO1ZiTsfrwvdBVnMpeHIRksZsQv3BHSjBKJdgpUoKka9MtV5oElvrVjL8Yu1L9oZ4C2Bdl/BqeKDX5m65uS9SKpmELdIinEoHB2s9GHPvo5DP7xsQJI2crnO2z+luIxeJJblNXF3nW/94DYaaye+J02cLSDhzE0ooOGvH8d5LqCawYlqvsMdk7OuqBUW7/+EkON3vANiFbwud8dNBwf6ixPE3UCI1Vtf0xij9OIfUDUAWIOaQszpp+CXbv2ahgJnZNCwVext4fw5+py9xWcRs+0kRx/k9DgEUndEeImvICJ91tSIjugVjlczJX3Po5Bqq3RzFBzIZwaSJfM5OvfHZQtkcEzELPuImzwI0=;Fw4pw8pz1VO5cDdoqcKybg=="
 ---

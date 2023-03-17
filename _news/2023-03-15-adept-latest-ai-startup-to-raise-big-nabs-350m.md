@@ -94,6 +94,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI startup Adept raises $350M in fresh funding"
+    excerpt: "Artificial intelligence (AI) startup Adept raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, the startup said earlier this week. The company plans to use the new funds to launch its initial products, train models ..."
+    publishedDateTime: 2023-03-17T05:04:00Z
+    webUrl: "https://yourstory.com/2023/03/ai-startup-adept-raises-350-million-fresh-funding"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/800X400shutterstock2033669528-1673607094424.png?fm=png&auto=format"
+        width: 2222
+        height: 1111
+        isCached: true
   - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
     excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
     publishedDateTime: 2023-03-15T02:31:00Z

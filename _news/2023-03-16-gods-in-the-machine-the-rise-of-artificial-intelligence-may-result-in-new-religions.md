@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
-excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
-publishedDateTime: 2023-03-15T18:50:00Z
-originalUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI)."
+publishedDateTime: 2023-03-16T14:02:00Z
+originalUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
+webUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
+ampWebUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
 type: article
-quality: 52
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
-    width: 320
-    height: 224
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"
+    width: 600
+    height: 420
     isCached: true
 
 related:
@@ -153,6 +152,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "j1oBkWKkNvc6L87o9lxy91EybmN+P9jwmeqjX+acPzUxC2NQi3kWb9EU9pejyDZWNVV2n6Q8qrSMc8AzukNbMpMnrUhvaIdX9jDUn5GsY46+EZI0wbW1QGDiOsJSBx5IWUmhTETSfk9Ck2FX9kfRQ+af4i93edCuTMIC28nEn9/NZQ0K9GLLiWqgd9/g5JNqPlDHaUhFCAcIKdEA59TZWyAoS+z0GROy8hyEflblZI4deEnBHSjuiuqYN7C5SpT661+gYgKq0+f3DiXPQnm3qH6BLj1lXt7yJGsjEzSoOnGHOQ9aOWIXngeEhO6GlS1kkrgmNryCKKIRBgo19bAyL6E3hnK/gKleawk8dOTm7QA=;j5G7oBzT4O/HeUa7STGdVA=="
+secured: "YyvRNtH9DmiXqSZUmFPUknVw11oESInim22PqdQ66aHCHOdvDlTjQH+o7S8x1V8/tuwZSexvXwf8MbWxhMPdEyomqcB2eZCuD8OmYB2tzASXkUIul2aXsBPgrXwjwAPNugfgdcNoNjgDNPkTPB2DK79E37QcIbzrCEya7w6swIlP0HtChJ0UdmvDibpucuBPgddw8dh2q5/kBFj5an/F/ZeIX3vrXdJCquwzheoIB4vckzGm0lriChvSKYf/zAQLfdEn+bYz7MPzOEyWvvDNPx0poc8MH5rWbtGP68hXsnBciwDOKZaMB569RY4vmStiSTDvNIIE/e2lcH3FaoQhwZdJ4RYL/RzaoBQU1mFnL+M=;4pAPi29u6nZ9AEBfFGqDVg=="
 ---
 

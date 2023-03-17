@@ -27,7 +27,12 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 29
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg"
+        width: 400
+        height: 276
+        isCached: true
   - title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
     excerpt: "HAMBURG, Germany, March 15, 2023 /PRNewswire/ -- Ever-increasing consumer demand and labor challenges are top of mind ... warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service ..."
     publishedDateTime: 2023-03-15T13:37:00Z

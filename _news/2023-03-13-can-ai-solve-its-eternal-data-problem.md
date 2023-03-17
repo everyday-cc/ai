@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence helps solve networking problems"
-    excerpt: "With the public release of ChatGPT and Microsoft’s $10-billion investment into OpenAI, artificial intelligence (AI) is quickly gaining mainstream acceptance. For enterprise networking professionals, this means there is a very real possibility that AI ..."
-    publishedDateTime: 2023-03-12T11:59:00Z
-    webUrl: "https://www.reseller.co.nz/article/706095/artificial-intelligence-helps-solve-networking-problems/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-orig-100935023-orig_1.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
   - title: "Can Artificial Intelligence solve the problems of the Indian justice system?"
     excerpt: "There is much to learn from the faster adoption of AI by other countries. Trials and real-world usage have flagged both benefits and concerns. But in the long run, human judges and lawyers currently d"
     publishedDateTime: 2023-03-13T11:48:00Z

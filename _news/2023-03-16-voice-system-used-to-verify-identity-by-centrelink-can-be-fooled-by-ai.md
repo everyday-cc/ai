@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 secured: "6bQkpczdBmUXB8NuDPZak7yBBf4+QwEqdKRJ11KDg6ouXoyqoTQYiVwEDwLcJ2l1HXiX79wxshD6Oe6I8DZCOSvyLexCVvteqsvZu2PuDMCeoyanti8a7JT6/LufOIAq7YXc8ecW3CYYb8R+MNb2h0x/bp0U2NCFh+a06iPPy2TjxIfZxHOV993rN7hIrxpZLaSO8Up2ujMUA3HnGAnm+Ky4kuYwfauvC9QHvgx0EfDiIlf7RUV3b23hpc1aKC8wmFq67aNzX13q1jxC4QGtxdyIXF6btd9tN9ViNsAJMNjbvPvCUfwq14n7e5e53A3jjjQK6XYTpPPxOwaCwhwivt1y7y+1452b3EqRYnFCc8hhpHGhOs1J2qsUCP3DpodLwmdQoP65ew5SSO8BZcmKrmtmoN/PY5gFVW46TmOMKkTIbds+Jwr/K3QbEdnPkUcT1I3sHXHMkAaRCfxcXd6SoJRKWUUBUbp2Hg3ThifRv7QPu2eAKwLRxV2l2BnvAF3r/QGr+anD+69GkxYv6bymqA==;ksHiRmUzw+uGX4bZ4cdCFQ=="
 ---
