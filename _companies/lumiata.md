@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1071
+  followers: 1070
 
 size: 11-50 employees
 yearFounded: 2013
