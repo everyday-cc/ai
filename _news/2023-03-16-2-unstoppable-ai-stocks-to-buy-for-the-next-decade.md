@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Bank Stocks to Buy That Are Crushing It With AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If you’re looking for bank stocks to buy, I can safely say that you can"
+    publishedDateTime: 2023-03-13T23:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-bank-stocks-to-buy-that-are-crushing-it-with-ai-1032164492"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "2 Growth Stocks to Hold for the Next 10 Years"
     excerpt: "Microsoft’s businesses are always in demand, but its deeper move into artificial intelligence could be a game changer. As long as the world wants newer, faster, and better computing technology, Applied Materials will have a market in which to sell its wares."
     publishedDateTime: 2023-03-15T11:39:00Z

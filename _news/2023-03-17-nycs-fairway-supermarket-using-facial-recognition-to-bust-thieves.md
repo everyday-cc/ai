@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recogn
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
+    excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
+    publishedDateTime: 2023-03-16T20:05:00Z
+    webUrl: "https://gizmodo.com/amazon-amazon-go-amazon-prime-facial-recognition-1850234189"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5bd7407c82f529d53af76aa31e27d299.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
     excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
     publishedDateTime: 2023-03-15T21:57:00Z
@@ -73,6 +87,6 @@ related:
         height: 874
         isCached: true
 
-secured: "L9Ex+/6/WAO5nhEj2KbpFkZurQkSTzWZE5M/NT3j9uiA1o07nXRsS0Ygi6wVyuq98zQU2Rt3Crm2+GdcBagu6dtIkX25z/YqYHuVnTZLd1P+HADUU16RWlZcMw8r21Uy1lhTAJbFj2ORvInTgktyvGKcjsDIKghV8QbqN0enpstbxGLCzDDxrQ1pov6kRevWBV6+cexUiT7yvGboLfD1YVRxP7bRqhcNwUjgdVt+hjFvW4KV/B4HXAD3iLEr647txkAWtJWiQqbYQamfQPDxCTQKNI3qg9SWWVBkxK73/1cpeF3XApzMODE2qWSghjSgJQNtl+EM+axsZyfP6xG+5PHoR1A4UI3Ke251es7mZis=;oE7A0KwHM6Ffzn1jrVJXfw=="
+secured: "BMy8+S5f+/a29OgXuq3VLEJMaB7n0GuIJj87xUV1nyCGz/byQtzYrlTeR/qWWC4RksV/IiVbAD2PsPdt+AtMY68BNmOndyyMOHeAvUvvcJv9vG/ABihq+znDxo6iZw8E5uzplawlg5FCvC6p9SGQWM9qfVydMwaGr2mTpfYKpx5M1HLtVZVHQ5dlQTejKqmLnoUnyixgQgPhszKFUPrg9ibjUqW1jLiGudBuAui7m2riI6L1dh+YoCbiZgmn2j9KYB9jNFglX9VLEjKqLSt5rMR0rBEZ2vPqpFzaq20+zB715o/BdtFDRzJOjgdd+VmmiLjpvgw49YgkEJDJj7Dqf1ERetgVGEQSnlj7SNjtD2ZJJZYiocikV7MhmzuypTt/uD7JG08Awq+LFJ9y/g2mQ+LjZrcNKcTa292gBuGRHVvlKB2MBVI/80V94GYoXhVVvaINpFTWpMDN5Lac3djUUDiI+c4Sn3lTEIb7LEYeYkE6NoLzvqhq15nqXIuhMxx+tU104NEIL3JLGxTmgdbGTQ==;MsxCQxU8kp1XUMSoFEPL4A=="
 ---
 

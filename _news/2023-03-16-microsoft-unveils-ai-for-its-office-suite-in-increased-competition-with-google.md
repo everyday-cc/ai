@@ -141,6 +141,22 @@ related:
         width: 800
         height: 489
         isCached: true
+  - title: "Microsoft Introduces AI-Powered 'Copilot' for Word, Outlook and More"
+    excerpt: "Microsoft 365 Copilot will work in apps like Word, Excel, PowerPoint, Outlook, Teams and more. Just a month after announcing artificial intelligence integration with its search engine Bing and browser Edge,"
+    publishedDateTime: 2023-03-16T18:36:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/7d6f8ad93058dc76124df00bd4b321756f9d8701/hub/2022/04/22/7248d0ba-a255-4cc6-9adc-1b3816f88f4d/microsoft-logo-2022-638.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
     excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
     publishedDateTime: 2023-03-16T15:07:00Z
@@ -251,6 +267,22 @@ related:
         width: 1999
         height: 1125
         isCached: true
+  - title: "Microsoft laid off an AI ethics team"
+    excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
+    publishedDateTime: 2023-03-16T23:36:00Z
+    webUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 91
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/microsoft-openai-chatgpt.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -359,6 +391,20 @@ related:
     quality: 84
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
+    excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
+    publishedDateTime: 2023-03-16T20:13:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642832/microsoft-virtual-ai-assistant-business-chat-microsoft-365"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/rLC0dOkozsbBDSAnlJoUMRqkcAM=/0x0:1115x609/1200x628/filters:focal(558x305:559x306)/cdn.vox-cdn.com/uploads/chorus_asset/file/24513069/business_chat_teams.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -713,15 +759,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
-    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
-    publishedDateTime: 2023-03-12T09:34:00Z
-    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
     excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
     publishedDateTime: 2023-03-15T13:40:00Z
@@ -741,6 +778,6 @@ related:
       domain: extremetech.com
     quality: 34
 
-secured: "0JPqoZ9xDQ4yQbk87za5xlbxG0h81H5qs8jKTyle4ryb+twNSMD3fI6n1zdvsFWtsCnBhu8bjh8wHuEGoGzbxZSozcr7eD5A13TuTTMeGF9u7iksfelYA/L45nFFf8URXbsT6+crAPDAj2+/r24Zt3bWx/4ZHPPfkIKB2v5uUgxbtyih7cBCQxPretakT9lNWmSF4FwUWeTY+OCh7+Ih5oOwazo503Lwq+0xony5GS33oXhj5tl6V0GBoQZS6wusjsvmWc4WNyJqIaAn2xg0pIGHvM2XjfMn9vLyN4Iqi4oYmGwZIjoOaw3iaMWikfev4myLf/184NrBxkbOUX4aaHRMobq3FmNhDJbBhtbLSCQ=;HlpM+l8EBF2GzrhsUZpNGw=="
+secured: "MKyxQWxoBCyvAnd13jQG2T6EpUKQ1RiH7hRSoF+RE/SQgUst8LmjrBdcKdVLrn3+KLN3nyiMODLchABoV4taoypDCpjSkvobJn/kZl6IxRwqvHqDzhELNkuiLc0apvQmX7KYAb0gmNPxkPg/fBBfQqr5mJe2JFTZ55VSvIyXqmbCdQYzO/UpeECx50bMxZEPO9uISh4fHhhEkxlu23mbaTcD1xEq5cKweofP+t7xXONMrdggi90sUpf0R8tmDvyRl8Pkrvd2cYXpxT7TekLDqwihtOCJIXBuQAi5LI8m3a/7DO9B6kN/v+pcGlZTSaY1h6s+3/x7pvhX+5WAf/V5I/aAxnutbIDwxBJhvKtnqGga2eo0UV+SDyN4PQuTf31bMFRl9bMUYSCa7I13fv+9si7ebTCm6U+KbJGSpSn3H1HAeBTJQUodh6UjBEOWAz/7YQxHGHLA/7ovhKP2vuwuW1sJcwANg4R6GxW+1MjF3Z1t/tHex79vHzrWUgLUtwi33FCh78oGyVj5R/v3vccR9A==;0ykrwniOvQcI4Zov3uZDPw=="
 ---
 

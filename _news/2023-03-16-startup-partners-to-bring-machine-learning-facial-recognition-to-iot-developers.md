@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
+    excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
+    publishedDateTime: 2023-03-16T20:05:00Z
+    webUrl: "https://gizmodo.com/amazon-amazon-go-amazon-prime-facial-recognition-1850234189"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5bd7407c82f529d53af76aa31e27d299.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QGmCFHwZ422NAUkhMBoLBQjYatGzvpsggL7ahRNhr7xcxenha0N8OVm9Q/JdbN9kjFSDxHrKpcZHJ31dPo/G2f8nEPCScIStZZi9b/5J5JamqWj64hCm1L0wbCcj+IR/dhd2Lo3wP2AqnknJeCpmGsVwWd4ifvOYY+59WrswxHJVaccqD3e13ySSFEcu6jgwFltFPoAkDeucG5qeWPsD4cirP+00zYMdd1WenKMFM4OSQhS4TykH6rqdG7FXqRpjK1IUtaN3MiQxaHztOJsJPUiHJtyROz1wXKobiMQIhoswlIOo8NCYZhJyuPziou+TLW0eyp7oetY87LnivRMg0vyLL6HLH+eiiIBIgr/rb86Kig4zCVZSrBIWoq04P9vDnYpO88npdobfHBgs7Cdw+EpjAiD+D66E0bLM+DOqPs/3etKIMOyw5Tf59p/9xtb8jgtpEdUFxWFS9axjQ98COrzNoCV0R4saUpUIAF11G8InRGULP1EiuT3zJaADuuWv0gf6uvjT1diPMMtJOKFcEA==;7GPIfuJbFREnFCAIy7GB6A=="
 ---

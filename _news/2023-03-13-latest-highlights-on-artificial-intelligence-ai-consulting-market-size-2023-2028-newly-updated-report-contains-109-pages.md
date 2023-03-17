@@ -279,6 +279,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+  - title: "Artificial Intelligence for Healthcare Applications Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (Prime PR Wire via Comtex) -- This \"Artificial Intelligence for Healthcare Applications Market\" report offers details on the size, scope, and potential of the ..."
+    publishedDateTime: 2023-03-16T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-prospects-trends-analysis-market-size-and-forecasts-up-to-2030-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Future of Artificial Intelligence Market: Growth Projections and Industry Insights 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence Market\" research report offers a thorough analysis of the most recent developments, new fashions, rate of ..."
     publishedDateTime: 2023-03-15T17:20:00Z

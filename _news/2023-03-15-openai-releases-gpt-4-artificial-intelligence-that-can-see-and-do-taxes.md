@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
 type: article
 quality: 100
-heat: 370
+heat: 380
 published: true
 
 provider:
@@ -197,6 +197,22 @@ related:
       - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
+    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
+    publishedDateTime: 2023-03-16T16:01:00Z
+    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
     excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."

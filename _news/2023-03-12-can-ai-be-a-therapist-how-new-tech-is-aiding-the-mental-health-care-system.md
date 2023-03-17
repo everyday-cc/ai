@@ -44,6 +44,15 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "3 Factors Driving AI Surge in Health Care"
+    excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
+    publishedDateTime: 2023-03-14T12:49:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-03-14-3-factors-driving-ai-surge-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
   - title: "Albany health care leaders see promise in AI"
     excerpt: "Dr. Steven Hanks, president and CEO of St. Peter's Health Partners, on the potential of AI assisting in health care: \"Things like that are real now. They're real in radiology. And we're just seeing more and more growth of these sorts of opportunities."
     publishedDateTime: 2023-03-13T18:51:00Z

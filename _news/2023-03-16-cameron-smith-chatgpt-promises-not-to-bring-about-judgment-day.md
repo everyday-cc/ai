@@ -35,6 +35,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
+    excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
+    publishedDateTime: 2023-03-17T01:03:00Z
+    webUrl: "https://www.wbir.com/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 39
+    images:
+      - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "0wNjzMRMYRHWfQFcnms6XDFZhnP22KICt4gbGFTOBU7LU2vgy8a3JumubfZHLzAwvYt40zjpxkWGpmMlXsfm66Q60LTr6qnQLNsmKnOucNlExkeyQR8Jz5a1yTCCzQ6aQ/Bg3yWx6A8eDCPSAmfPKBkecphfJY82TwJaRkQbvTkR+zCPf4T6OGsjW9CYF4LaQ5GjXJdttR5xTGbfS4gEZf251rNV1vjVerIzkvEVzyfdtJkZQvvtmCDSzSwpZ6kbDwgqhbq8N2HaT6hdgnyE9srCM5PNB2Hq6F94ES2KMfv6kHi7GIw28t5RcwCgCohMQcpdfhxCqs57wiKjgUMAXJjUjvtekjvxPBT/doiqKCjEYb7ytoZw74XXul2AymfX4RwTpC2Ksj85KYE9vUg5yNZJhzTMt5RcPZzBQcu8182B2g3kbJy74wzLqFvfTf9YCDPx++Gw3D2AS51/s9KxTiwYFR6zRMm5NzMyhHoEVi0euqsyKRf6NI8G9XgoYutqLNUNrxMWrz/Z23TDX7Pa6w==;0O/rw6CNdCAWGPcafY52sA=="
 ---

@@ -109,7 +109,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"
         width: 600

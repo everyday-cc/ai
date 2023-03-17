@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligenc
 ampWebUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"

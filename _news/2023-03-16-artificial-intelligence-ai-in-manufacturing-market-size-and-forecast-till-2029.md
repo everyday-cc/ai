@@ -264,6 +264,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (Prime PR Wire via Comtex) -- This \"Artificial Intelligence for Healthcare Applications Market\" report offers details on the size, scope, and potential of the ..."
+    publishedDateTime: 2023-03-16T23:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-prospects-trends-analysis-market-size-and-forecasts-up-to-2030-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
     excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
     publishedDateTime: 2023-03-13T14:51:00Z

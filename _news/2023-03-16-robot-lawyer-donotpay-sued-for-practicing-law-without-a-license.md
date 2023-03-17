@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "'Robot lawyer' DoNotPay is being sued by a law firm because it 'does not have a law degree'"
-    excerpt: "DoNotPay, which uses AI to provide legal services, is facing a class action lawsuit filed by Chicago-based law firm Edelson."
-    publishedDateTime: 2023-03-12T09:45:00Z
-    webUrl: "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/640c58258b8d9b0018cacd71?width=1200&format=jpeg"
-        width: 1084
-        height: 542
-        isCached: true
   - title: "DoNotPay, the 'Robot Lawyer,' Is Being Sued"
     excerpt: "The startup behind the “world’s first robot lawyer,” DoNotPay ... DoNotPay claimed it was taking a pilot version of an AI-powered “robot lawyer” into the court room, to fight a speeding ticket charge before a judge. The company’s founder ..."
     publishedDateTime: 2023-03-13T16:05:00Z
@@ -49,22 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "\"Robot Lawyer\" Faces Lawsuit For Practicing Law Without A License In US"
-    excerpt: "DoNotPay Inc, which uses AI to provide legal services is facing a new lawsuit from a Chicago-based law firm. The company has claimed that DoNotPay has been practising law poorly and lacks a license, Reuters reported."
-    publishedDateTime: 2023-03-12T16:09:00Z
-    webUrl: "https://www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043"
-    ampWebUrl: "https://www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043/amp/1"
+  - title: "Robot Lawyer sued for practising without license in US"
+    excerpt: "The world's first robot lawyer, developed by a startup, DoNotPay, has been sued over allegations of fraud by appearing in the courtroom without a law license to practise in the United States."
+    publishedDateTime: 2023-03-14T10:28:00Z
+    webUrl: "https://www.vanguardngr.com/2023/03/robot-lawyer-sued-for-practising-without-license-in-us/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-01/mt3n5fro_robot-lawyer_625x300_07_January_23.jpg"
-        width: 650
-        height: 400
-        isCached: true
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 19
 
 secured: "ECgrUdGw8JbnvDnqFWFzMJOJWt8mYC69XRDzGexeXc45+S0h2rvQjGcEdsvusTMmppsEOGB+bjusv/YD9pXMJpv5BPBnanf7bu97W8w62/L+buTihojFXl+m2wjw51Wq/BTi7Q0IeyFkhxZsCH3SPonC0kxDAUlIYZtylgQ73oXoNWJ/XQB6W7ls1xWnwFqjlo2GypDKDuWBaPKkgAioTdm2cQqdpBeEjikHblz1Bhnmve1XljFKEQZYGu4CH6Ij1vT9BmLcdNIA8lkvT3FNjYxg3MxHyCXmldWO8noHznX8cUv/dp7kQjulAXK8gvgmelXOBykgxNnn/8bpk9CYC1JX+k2+8BUod3Ap6qr8x3JZPQ2JG0YLMAkfIiM2t6AFO0kAIX40UUsINaY2cj+q1fQ9Oh/O+STKWqquRZpTb44HOrj/UEoEb/pTpO0zqy3sIn+Iw0cUZ+ucbqLWkxZ6lErfRRgTxVA6GJZZISrvWWaJpiPaMZKpLj+ONDmbjWO8IP0M6o+W6Pmo/ee4FE34bw==;wN7e6Tmk8n0yoS4lLiCwFw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healt
 cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "3 Factors Driving AI Surge in Health Care"
+    excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
+    publishedDateTime: 2023-03-14T12:49:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-03-14-3-factors-driving-ai-surge-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
   - title: "Albany health care leaders see promise in AI"
     excerpt: "Dr. Steven Hanks, president and CEO of St. Peter's Health Partners, on the potential of AI assisting in health care: \"Things like that are real now. They're real in radiology. And we're just seeing more and more growth of these sorts of opportunities."
     publishedDateTime: 2023-03-13T18:51:00Z
@@ -53,6 +62,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "sUMJYwGQm3a0/QuZMOvG6141MbMKMoVyIbMeDMYNHCipMg5d+CEgRMmdqLE47d4v3ieYLWiFjOFOf3Vq+0dEx+2NIsEqitgmm9bcOSkxKWDrD+lgGTzrfr0D/5nrVcc6GRUfVpkCB47bvykb4nlQhltz469G84yXfNxOm1g3F5aRjy9BDfcBcFmN2Z1XiKOJfam+h5vinDqQLwSYEzSWJ77nMwPsmOOZO5aybuEzWcmAH7vadaJra1d0M+TgWfhlv8QGsKAiecbdhHcfrtPnoZSzIZaUFrrKMYvhqh1uH/Z1Nb9mW4qFCR2hZeq+znedWpv+0lEwreSyWwDV/Y4O149v1dK+xADIJPaWW6QD/Bg=;ZKeN9QrXsE4pcUb5doDjnA=="
+secured: "4YW33yKPsvPWpkkCb62l3JK24OOZbuGJfmncjNUuY4YEUOAR6n9LGdSc0DtJomgc0rzgGCHHMLggK1AY/gvBHwq+Y5wiPw1PjUzxTs2TNjwdbD+4hOmxMVcF/Y3HrH9m1PyWe0QMA5yh+xY92e9qk9yfFJA8VpHwDLf1HdnqfnLa1RELcwJTJ0ULON81K9Zq5tCBmce/tkR/nkM9gb0ZqJBwPDZdRCYKtstwe+pbaH9fp+Zn2R5vKTVj0HUyR2sEyD13tCaue+k3l/xwsFBObmeZznoKeVHhOrcUcoYgk70EqNjWdoIvhbDIfBmablym1ZIc7DjvqHVlVNjCY3hmtAebKGpRqbyBUOvpXdnOJuFWO2NnHYSlO+FLIWILWBtVCob8kV4SmJ1v9IBLvhx54yvVRwhAEUguuRQySXweM1myVFPVg08TiCK0+iIWUjj39nZkJyO9VV8vApR5YtpoppGO9E/yMsYLsUoBtfVtQ5ADvJ1P8gtZaD4yLbQ+iCa//kLiyBSmBMNZIvLXFsaeoA==;rlFZhsb2ugBiZPEyujj+Cw=="
 ---
 

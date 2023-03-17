@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-bo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
 type: article
 quality: 91
-heat: 371
+heat: 361
 published: true
 
 provider:
@@ -251,22 +251,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
         width: 1528
         height: 800
-        isCached: true
-  - title: "du showcases Generative AI like ChatGPT capabilities at an exclusive governmental entities padel tournament"
-    excerpt: "Emirates Integrated Telecommunications Company (EITC), has successfully concluded its participation at an exclusive padel tournament organised"
-    publishedDateTime: 2023-03-12T08:25:00Z
-    webUrl: "https://www.albawaba.com/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 41
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/du%20ChatGPT%20-2.jpeg?itok=4zUAKmea"
-        width: 1599
-        height: 1200
         isCached: true
   - title: "ChatGPT and Bing AI to sit as panellists at fintech conference."
     excerpt: "Artificial intelligence chatbots will be used as panellists for the first time as part of a conference hosted by the Gillmore Centre for Financial Technology this week."

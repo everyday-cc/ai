@@ -59,38 +59,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Breaking news live: Centre files affidavit before SC, opposes legal recognition of same-sex marriage"
-    excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss Centre files affidavit before Supreme Court, opposes the legal recognition of same-sex marriage. Centre tells SC that same-sex relationships & heterosexual relationships are clearly distinct classes which cannot be treated identically."
-    publishedDateTime: 2023-03-12T08:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/liveblog/98573226.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/india/breaking-news-live-updates-03-12-2023/amp_liveblog/98573226.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 29
-    images:
-      - url: "https://static.toiimg.com/photo/msid-98573226/98573226.jpg?pl=753347"
-        width: 293
-        height: 224
-        isCached: true
-  - title: "'Heterosexual Marriages The Norm' : Centre Opposes Pleas In Supreme Court Seeking Recognition For Same-Sex Marriages"
-    excerpt: "The notion of marriage itself necessarily presupposes a union between two persons of the opposite sex, said the Central Government in its counter-affidavit filed in the Supreme Court opposing a bunch of petitions which seek legal recognition for same-sex marriage."
-    publishedDateTime: 2023-03-12T09:43:00Z
-    webUrl: "https://www.livelaw.in/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    ampWebUrl: "https://www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/top-stories/same-sex-marriage-supreme-court-heterosexual-marriage-homosexual-centre-opposes-223558"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 21
-    images:
-      - url: "https://www.livelaw.in/h-upload/2023/03/12/500x300_463050-20233largeimg263218209.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
     excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
     publishedDateTime: 2023-03-14T15:11:00Z

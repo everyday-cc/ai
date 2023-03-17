@@ -19,47 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Dealing with shortage of AI talent in banking"
-    excerpt: "Banks have continually invested in new technologies to improve their operational efficiencies and customer experiences. Cash withdrawals from cashier windows in branches gave away to ATMs. And paper-based passbook printing took a backseat when"
-    publishedDateTime: 2023-03-13T17:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
+  - title: "How AI is altering healthcare in Michigan"
+    excerpt: "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain."
+    publishedDateTime: 2023-03-16T16:00:00Z
+    webUrl: "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan"
+    ampWebUrl: "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp"
+    cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Bridge Magazine
+      domain: bridgemi.com
     quality: 74
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73"
+        width: 480
+        height: 320
         isCached: true
-  - title: "3 Bank Stocks to Buy That Are Crushing It With AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If you’re looking for bank stocks to buy, I can safely say that you can"
-    publishedDateTime: 2023-03-13T23:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-bank-stocks-to-buy-that-are-crushing-it-with-ai-1032164492"
+  - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
+    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
+    publishedDateTime: 2023-03-12T12:00:00Z
+    webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
+    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
-    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
-    publishedDateTime: 2023-03-16T08:00:00Z
-    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
-    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
-    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
-    type: article
-    provider:
-      name: Speaking Tree
-      domain: speakingtree.in
-    quality: 61
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
     images:
-      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
-        width: 959
-        height: 420
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
+        width: 960
+        height: 539
         isCached: true
+  - title: "Albany health care leaders see promise in AI"
+    excerpt: "Dr. Steven Hanks, president and CEO of St. Peter's Health Partners, on the potential of AI assisting in health care: \"Things like that are real now. They're real in radiology. And we're just seeing more and more growth of these sorts of opportunities."
+    publishedDateTime: 2023-03-13T18:51:00Z
+    webUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-capital-region-executives.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "oTwR6+LBYID/HmV0K3q5DrJcQaiaQTPpWxOF4IGeA06pQvBjTLUNgcw6VijCjIK5cocY97FoNdf6HLZDs5tuvZag+Q26DzcfYBzjPHihIdIVhnOuEstIThhZGe0/LghKNUXlRR+oGMtKRePlQonNcj1zg07hQ449khEbwvYqAHZB7+SFdDrvXV8vEpESoU1ffHHg0Ftjhqu98MggzdkadclGW7L/Cl8/49kPUd/Ramuwg4r2Zf5NlqjRLlJpCkXKPQPYdWQl1PebCqszu8cD96aG4oWbIFpPQ+PcppyG2vPMjGYXB9dd0lqeVLxX7dzAJIGTH2yDBIWApmURulty1ztwYptBf8JbrWPVYfRZr6E=;5Zaxb+ud58/3JdD40rcQUQ=="
 ---

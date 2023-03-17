@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/looking-ahead-trends-in-ai-f
 webUrl: "https://www.beckershospitalreview.com/looking-ahead-trends-in-ai-for-radiology.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
+    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
+    publishedDateTime: 2023-03-16T08:00:00Z
+    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
+    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    type: article
+    provider:
+      name: Speaking Tree
+      domain: speakingtree.in
+    quality: 61
+    images:
+      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
+        width: 959
+        height: 420
+        isCached: true
+  - title: "The stupidity of AI"
+    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
+    publishedDateTime: 2023-03-16T13:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "6wXMCm5eJQ7slXX0joThMJZxuUfOvk95PBgR2he0H/DuW05YAMpurzXgtFxs21r7fxlg8KAGSs0hEpBB8pLDpSEcuHgu2WeJXkkDgYb1OxZ1wpOHYO3taO+OPZ7qWwetng0pawL4kXxOCmdhlFn2QpAVe9lEkbWbAzHY0UOiDcXei5o9t2aPLlgvWr4WT8dx3UABW2SBt2+7T4YFN9oPpP/rYKPi4u+POEet+9GuUCxRP+u/R36s0YT8Aw0Qy9E188gJ1Jw3CqIDoOysu5dQtt0JKfro0tx9HUPSrZI7cZnpWVPqqovQ4YuNhEli44x2ijYpPVzGPynBo+fnu8A7aNNK/ZEK4o7l4pN/p9TIGjQ=;17JGo08Lf6N8B/m/ZxRVJQ=="
 ---

@@ -1,0 +1,28 @@
+---
+category: news
+title: "The Turing Test for AI Is Far Beyond Obsolete"
+excerpt: "For more than 70 years, the Turing Test has been a popular benchmark for analyzing the intelligence of computers. For nearly a decade, programmers have created AI reportedly beating the Turing Test while experts argue that test is an imperfect benchmark of \"true\" intelligence."
+publishedDateTime: 2023-03-17T00:09:00Z
+originalUrl: "https://www.popularmechanics.com/technology/robots/a43328241/turing-test-for-artificial-intelligence-is-obsolete/"
+webUrl: "https://www.popularmechanics.com/technology/robots/a43328241/turing-test-for-artificial-intelligence-is-obsolete/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: YAHOO!News
+  domain: popularmechanics.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://hips.hearstapps.com/hmg-prod/images/man-with-robotic-features-royalty-free-image-1678926476.jpg?crop=1.00xw:0.536xh;0,0.257xh&resize=1200:*"
+    width: 1200
+    height: 602
+    isCached: true
+
+secured: "+K1ky0U0aGrnTd6hDnYn/aDl4L4ZOGAA2gJJEuw+RnIWjEYyJbdKVJ0azHlDfM+3YYAFD33gnqyZ3MgdvF/4wWFYwm94DbmRE7X2eHyXZNbxk27Bm4ywgYIiCevfiSL/+6mWBe3d/bhJtnC/kY8Dsi0Ou0io3F88oPUeu18jz96/dYLLw1IJ4KATPZADIpNmelKsBTLYhpckl9LSWZ2ZKhZW9BdkTGfxnCku7pCkOSetxCvktD+J2fVIJ7PotCjeu87URe6o5PUAXR08HxioPYueXYPxylDNjufCodvYth7yh76AhI0FxtXkuwMTnyEteYuZkbtHjyvLxJeS8ybFUmcq4PyUkwQmqYJGOqDgBxw=;mWjqazdinhGrPljU9f7hDg=="
+---
+
