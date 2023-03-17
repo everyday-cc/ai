@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
+    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
+    publishedDateTime: 2023-03-16T21:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "AI News roundup: Big ChatGPT update around the corner, Koo integrates AI and more"
     excerpt: "Can AI help with climate change? Machine Learning might help solve the biggest problem on the planet. The shifting climate will significantly impact global environmental, social, and economic systems."
     publishedDateTime: 2023-03-13T13:31:00Z

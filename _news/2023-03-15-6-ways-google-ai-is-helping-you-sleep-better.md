@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/pixel/health-ai-better-sleep/"
 webUrl: "https://blog.google/products/pixel/health-ai-better-sleep/"
 type: article
 quality: 89
-heat: 110
+heat: 111
 published: true
 
 provider:

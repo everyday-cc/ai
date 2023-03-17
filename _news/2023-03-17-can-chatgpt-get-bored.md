@@ -133,7 +133,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
@@ -408,6 +408,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "D+bVRSQYYcWp+DgEwYnrLW7SNApjVLMN8uXUVQGaw5GCh62OV2q4/XvEgmq5kY8cimkKMyvVhwLrTeuS/+JfJopK0mbI08Rxiro5M34DFSq8DDJ4WB2GgqGjjOVmp8u6c0w7tQmgF9XbCxZPpKVtZMy51NTi/TnXteO/72thbeS0k18cSjtldPtOmQ/UnwNg7ABNWfjwghP/OqOSm4gUZEDZpTe+sl4aTEIKG9dpTVAfdVsXdGmWYTckxbHDehgjkxEJVysdW9btmvkyBLXhgtcrjATDQqobH1VeC8SUmMZld8b1aIW+ZylTT/zecQ+/CcjxzLjL+KXoWWmZcS0Up6zRcbMNNnm+rAw6EXfZB7c=;anbnUMbcuFl1mageKfhAiA=="
+secured: "y7LVt7/0pEny+tU7EQ+6Vxcl3m2LJxjYB/9nrqRL97iXAN3qtLBq7zzVOOPSeh/ZIr+X5iKM5klmdeVd7047ExVGgkImpoglqpUaxUGlb3c3l2BaRFF+6CCDU6lZY+O50VEM03XED2noS589tEM610Gu1CAbEoeN33uOnRMYDdbDHHNUSL7IXJHpoIOA+/u5aJgR7mPnArGLHlqJWVQDUoGsXhpmfFur3UpjOyei+hBFPWu1Mz7RoyqR0AH8m9vWyuXARXglkP6MvA3AHyXjLji9AG4Szz88/rgKs4kxCO7DHGOvxN7jl5J8XBcThMfXUwL4AACm4c9teaCISiDZHg8+K9XdbziRinSYGfMptR5FBvkc0Zl2mYkIBaMhJwxDQj2uflqIxcAnN0EJJ/nywvPllcDYti9x6UULTQySx8JnH2hL76wZ60dT6IOiE3qvTpxad6yUJ6aW+OBcTgGJa6uvJWRMv9erN0GLKeKHnF1/m8O/xllI6b+w5+/jHAhY3rzfjyqUK9kjskn9P9bKyQ==;NTJyZUxv0A8pJFJuI30SVw=="
 ---
 

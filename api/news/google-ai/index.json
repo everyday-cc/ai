@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-large-language-models-also-work-for-protein-structures.md",
+      "title": "Large language models also work for protein structures",
+      "excerpt": "Predicting protein structures was a challenge that flustered generations of scientists until this decade, when Google's AI group DeepMind announced a system that, for most practical definitions of \"solved,\" solved the problem. Google's system was quickly ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "originalUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1402266486-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "publishedDateTime": "2023-03-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery.md",
+      "title": "Meta AI Unlocks Hundreds of Millions of Proteins to Aid Drug Discovery",
+      "excerpt": "Facebook parent company Meta Platforms Inc. has created ... and perhaps speed the discovery of new drugs. Meta’s research arm, Meta AI, used the new AI-based computer program known as ESMFold to create a public database of 617 million predicted proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
+      "originalUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-743974/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m.md",
+      "title": "Adept, a startup training AI to use existing software and APIs, raises $350M",
+      "excerpt": "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "publishedDateTime": "2023-03-15T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-6-ways-google-ai-is-helping-you-sleep-better.md",
       "title": "6 ways Google AI is helping you sleep better",
       "excerpt": "Learn how features like Sleep Profiles, Smart Wake and cough and snore detection are powered by AI to help you get better sleep.",
@@ -10,7 +167,7 @@
       "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -51,6 +208,58 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-let-1000-flowers-bloom-ai-funding-frenzy-escalates.md",
+      "title": "‘Let 1,000 Flowers Bloom’: A.I. Funding Frenzy Escalates",
+      "excerpt": "When four leading artificial intelligence researchers left Google this year to create a start-up called Mobius AI, they weren’t sure what their product might be — just that it would involve A.I. technology that could generate its own photos and videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/15/multimedia/14ai-funds-01-kczh/14ai-funds-01-kczh-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/14/technology/ai-funding-boom.amp.html",
+      "publishedDateTime": "2023-03-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -102,6 +311,60 @@
       ],
       "topics": [
         "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes.md",
+      "title": "Nvidia’s GTC online event will feature 70 talks on generative AI | Greg Estes",
+      "excerpt": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. The 14th annual Nvidia GTC online event will have more than 650 sessions, including 70 alone on generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "publishedDateTime": "2023-03-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics",
         "Google AI"
       ]
     },
@@ -1121,231 +1384,6 @@
       "provider": {
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.md",
-      "title": "Alphabet to close Edmonton office of AI subsidiary DeepMind",
-      "excerpt": "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
-      "originalUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2023/01/24/bendable-solar-panels-could-be-just-around-the-corner/solaires_co_founder_sahar_sam.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
-      "publishedDateTime": "2023-01-24T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-alphabets-deepmind-lays-off-staff-closes-edmonton-office.md",
-      "title": "Alphabet's DeepMind lays off staff, closes Edmonton office",
-      "excerpt": "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off.",
-      "sourceUrl": null,
-      "webUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0",
-      "originalUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/01/google-vw0124.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0/amp/",
-      "cdnAmpWebUrl": "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0/amp/",
-      "publishedDateTime": "2023-01-24T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edmonton Journal",
-        "domain": "edmontonjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-9-ways-we-use-ai-in-our-products.md",
-      "title": "9 ways we use AI in our products",
-      "excerpt": "Here are nine ways we use AI today to make our products even more helpful.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "originalUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_products_hero_1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-deepminds-ai-chatbot-can-do-things-that-chatgpt-cannot-ceo-claims.md",
-      "title": "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims",
-      "excerpt": "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp",
-      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

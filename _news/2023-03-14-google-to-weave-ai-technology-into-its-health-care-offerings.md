@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integ
 webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
-    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
-    publishedDateTime: 2023-03-12T12:00:00Z
-    webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
-        width: 960
-        height: 539
-        isCached: true
   - title: "Google to weave AI technology into its healthcare offerings"
     excerpt: "The company has assimilated health AI efforts in search and made strides in integrating its AI model into medical research."
     publishedDateTime: 2023-03-15T00:57:00Z

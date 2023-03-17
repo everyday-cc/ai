@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-21-study-shows-machine-learning-can-predict-development-of-brain-tumours.md",
+      "title": "Study shows machine learning can predict development of brain tumours",
+      "excerpt": "Researchers at the University of Waterloo have created a computational model that can better predict the formation of deadly brain tumours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
+      "originalUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_01_2023_15_18_49_4370102.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
+      "publishedDateTime": "2023-01-21T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-the-chatbots-cant-outsmart-you-yet.md",
       "title": "The Chatbots Can’t Outsmart You. Yet.",
       "excerpt": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.",
@@ -1413,58 +1456,6 @@
         "name": "Directions Magazine",
         "domain": "directionsmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-how-to-put-learners-at-the-center-of-learning.md",
-      "title": "How To Put Learners At The Center Of Learning",
-      "excerpt": "Learning personalization is in order, and as I’ll discuss, it’s easier than you probably think. So, why don’t more companies put individual learners at the center of learning? Typically, it’s not because they don’t want to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62a38dfdc25c1a78a8876076/0x0.jpg?format=jpg&width=1200",
-          "width": 839,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
-      "publishedDateTime": "2023-01-10T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Noda Chooses ThetaRay AI Solution to Monitor Open Banking Services"
     excerpt: "Headquartered in the UK, Noda is helping online merchants in Europe receive direct bank payments from eCustomers via a secure and instant one-stop open banking payment solution, as an alternative to cards,"
-    publishedDateTime: 2023-03-14T09:47:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
+    publishedDateTime: 2023-03-14T09:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-noda-chooses-thetaray-ai-solution-monitor-open-banking-/2023/03/14/9776120.htm"
     type: article
     provider:
       name: TMCnet

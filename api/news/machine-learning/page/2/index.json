@@ -934,6 +934,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-28-global-automated-machine-learning-market-report-2023-surge-in-application-of-satellite-imagery-in-various-sectors-bolsters-growth.md",
+      "title": "Global Automated Machine Learning Market Report 2023: Surge in Application of Satellite Imagery in Various Sectors Bolsters Growth",
+      "excerpt": "In 2022, the automated machine learning market size stood at USD 631 million, which is projected to witness a 49.2% CAGR during 2022-2030, reaching USD 15,499.3 million by 2030 as per the report. The major factors accountable for the development of the market include the growing demand for effective fraud-finding solutions and the rising need for personalized product recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
       "title": "This week in data: The ML, AI and data landscape with Matt Turck",
       "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
@@ -1320,60 +1354,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-artificial-intelligence-applications-in-investing.md",
-      "title": "Artificial Intelligence Applications In Investing",
-      "excerpt": "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200",
-          "width": 1188,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
-      "publishedDateTime": "2023-02-24T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

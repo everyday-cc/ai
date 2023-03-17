@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Medical Artificial Intelligence Market Analysis: Understanding the Current State and Future Trends 2023-2028"
+    excerpt: "The Medical Artificial Intelligence Market is an exciting and dynamic industry that promises growth and innovation for players looking to capitalize on its potential. As highlighted in the Medical Artificial Intelligence Market Research Forecast 2028 ..."
+    publishedDateTime: 2023-03-16T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

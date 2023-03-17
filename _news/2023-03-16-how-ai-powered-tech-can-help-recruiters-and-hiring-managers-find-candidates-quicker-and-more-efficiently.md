@@ -89,20 +89,20 @@ related:
         height: 1333
         isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
-    excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI). The latest generation of AI-powered chatbots, trained on ..."
-    publishedDateTime: 2023-03-15T18:50:00Z
-    webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-    ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+    excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI)."
+    publishedDateTime: 2023-03-16T14:02:00Z
+    webUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
     images:
-      - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
-        width: 320
-        height: 224
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"
+        width: 600
+        height: 420
         isCached: true
   - title: "In the battle for the future of work, AI is not above the law"
     excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"

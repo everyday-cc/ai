@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-17-ai-generated-images-from-text-cant-be-copyrighted-us-government-rules.md",
+      "title": "AI-generated images from text can't be copyrighted, US government rules",
+      "excerpt": "The US Copyright office has issued new guidance on the copyrightability of works that contain AI-generated elements..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "originalUrl": "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/z0DrGfDE2hCafrbAOi3u2g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bf3954c0-c41b-11ed-bffd-8307d83a5179.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html",
+      "publishedDateTime": "2023-03-16T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-nycs-fairway-supermarket-using-facial-recognition-to-bust-thieves.md",
       "title": "NYC’s Fairway supermarket using facial recognition to bust thieves",
       "excerpt": "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ...",
@@ -226,6 +277,111 @@
       ]
     },
     {
+      "path": "_news/2023-03-17-large-language-models-also-work-for-protein-structures.md",
+      "title": "Large language models also work for protein structures",
+      "excerpt": "Predicting protein structures was a challenge that flustered generations of scientists until this decade, when Google's AI group DeepMind announced a system that, for most practical definitions of \"solved,\" solved the problem. Google's system was quickly ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "originalUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1402266486-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "publishedDateTime": "2023-03-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery.md",
+      "title": "Meta AI Unlocks Hundreds of Millions of Proteins to Aid Drug Discovery",
+      "excerpt": "Facebook parent company Meta Platforms Inc. has created ... and perhaps speed the discovery of new drugs. Meta’s research arm, Meta AI, used the new AI-based computer program known as ESMFold to create a public database of 617 million predicted proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
+      "originalUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-743974/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027.md",
       "title": "Edge Artificial Intelligence (AI) Chip Market: The Growing Trend 2027",
       "excerpt": "“Global Edge Artificial Intelligence (AI) Chip market size was USD million and it is expected to reach USD million by the end of 2027, with a CAGR of between 2021 and 2027”Ask for Sample Report Edge Artificial Intelligence (AI) Chip Market Report ...",
@@ -327,6 +483,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings.md",
+      "title": "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings",
+      "excerpt": "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
+      "originalUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -486,6 +694,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-how-ai-is-altering-healthcare-in-michigan.md",
+      "title": "How AI is altering healthcare in Michigan",
+      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
+      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
+      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
+      "publishedDateTime": "2023-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bridge Magazine",
+        "domain": "bridgemi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
       "title": "Cast AI raises $20M to help companies reduce cloud spend",
       "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
@@ -641,6 +892,57 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ai-will-make-human-art-more-valuable.md",
+      "title": "AI Will Make Human Art More Valuable",
+      "excerpt": "And if history is any indication, our tastes will evolve in a way that rigs the game in favor of human artists. It’s not surprising that in conceiving of a new world awash with AI art, we haven’t accounted for a society-wide change in taste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/art-artificial-intelligence-history/",
+      "originalUrl": "https://www.wired.com/story/art-artificial-intelligence-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641266a357db3e0d5a2fa8ea/master/pass/ideas_art_ai_human_history.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/art-artificial-intelligence-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/art-artificial-intelligence-history/amp",
+      "publishedDateTime": "2023-03-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -948,308 +1250,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-deep-learning-software-market-latest-trend-and-future-scope-2023-2029.md",
-      "title": "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]",
-      "excerpt": "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
-      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
-      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-pytorch-20-brings-new-fire-to-open-source-machine-learning.md",
-      "title": "PyTorch 2.0 brings new fire to open-source machine learning",
-      "excerpt": "The open source PyTorch project is among the most widely used technologies for machine learning (ML) training. Originally started by Facebook (now Meta), PyTorch 1.0 came out in 2018 and benefitted from years of incremental improvements. >>Don’t miss our ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
-      "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
-      "publishedDateTime": "2023-03-15T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m.md",
-      "title": "Adept, a startup training AI to use existing software and APIs, raises $350M",
-      "excerpt": "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
-      "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
-      "publishedDateTime": "2023-03-15T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
-      "title": "AI-Image Tool Midjourney Launches Magazine",
-      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "publishedDateTime": "2023-03-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
-      "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head blight, or scab disease, the crop's top ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
-      "originalUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/could-ai-powered-objec-1.jpg",
-          "width": 1067,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
-      "publishedDateTime": "2023-03-15T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,350 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-14-you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi.md",
+      "title": "You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi",
+      "excerpt": "Things are moving at lighting speed in AI Land. On Friday, a software developer named Georgi Gerganov created a tool called \"llama.cpp\" that can run Meta's new GPT-3-class AI large language model, LLaMA,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/llama_laptop_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "publishedDateTime": "2023-03-13T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns.md",
+      "title": "Artificial intelligence can realistically replicate voices, raising new tech concerns",
+      "excerpt": "New artificial intelligence technology can replicate voices, giving users the ability to manufacture content involving celebrities, politicians or just about anyone. NBC News’ Gadi Schwartz shares more on the groundbreaking AI technology and the ethical implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678748553630_nn_gsc_ai_voice_cloning_230313_1920x1080-cex58r.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo165109829933",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933",
+      "publishedDateTime": "2023-03-13T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future.md",
+      "title": "Spotify’s new ‘DJ’ feature is the first step into the streamer’s AI-powered future",
+      "excerpt": "Spotify has bigger plans for the technology behind its new AI DJ feature after seeing positive consumer reaction to the new feature.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/13/spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future/",
+      "originalUrl": "https://techcrunch.com/2023/03/13/spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/ai-dj-stage-demo.jpg?resize=1200,854",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/13/spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/13/spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future/amp/",
+      "publishedDateTime": "2023-03-13T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
+      "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
+      "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 651,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg",
+          "width": 760,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "publishedDateTime": "2023-03-13T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that.md",
+      "title": "Manufacturing A Specialized New, Infused Pre-Roll? There’s A Robot For That",
+      "excerpt": "Cannabis manufacturers have an increasing need for product customization which this entrepreneur says only robotics can solve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "originalUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f36260963e482477aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "publishedDateTime": "2023-03-13T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-while-svb-takeover-saves-ai-startups-big-tech-continues-ai-power-consolidation-the-ai-beat.md",
+      "title": "While SVB takeover saves AI startups, Big Tech continues AI power consolidation | The AI Beat",
+      "excerpt": "He also pointed out that he was seeing “the best of the AI and startup world,” with “people helping each other, sharing tips and even wiring funds on trust and without docs so someone else ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-24.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
+      "publishedDateTime": "2023-03-13T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-dealing-with-shortage-of-ai-talent-in-banking.md",
+      "title": "Dealing with shortage of AI talent in banking",
+      "excerpt": "Banks have continually invested in new technologies to improve their operational efficiencies and customer experiences. Cash withdrawals from cashier windows in branches gave away to ATMs. And paper-based passbook printing took a backseat when",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/",
+      "publishedDateTime": "2023-03-13T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-how-to-explain-the-machine-learning-life-cycle-to-business-execs.md",
       "title": "How to explain the machine learning life cycle to business execs",
       "excerpt": "If you’re a data scientist or you work with machine learning (ML) models, you have tools to label data, technology environments to train models, and a fundamental understanding of MLops and ...",
@@ -62,7 +406,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -103,7 +447,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Google AI"
       ]
     },
     {
@@ -807,7 +1152,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -891,340 +1236,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
-      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
-      "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
-      "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "originalUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/03/12/600x338/jitendrasingh_1678629341268_1678629341570_1678629341570.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "publishedDateTime": "2023-03-12T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-grammarlys-new-ai-tool-can-do-more-than-check-your-spelling.md",
-      "title": "Grammarly's New AI Tool Can Do More Than Check Your Spelling",
-      "excerpt": "Grammarly can check your spelling and grammar in real-time, but it'll soon be able to do more than that. The company is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo that the company says is intended to improve communication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
-      "publishedDateTime": "2023-03-12T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-how-ai-and-machine-learning-are-revolutionising-business-intelligence.md",
-      "title": "How AI and Machine Learning are revolutionising Business Intelligence",
-      "excerpt": "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg",
-          "width": 2074,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
-      "publishedDateTime": "2023-03-12T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks.md",
-      "title": "TikTok Has A New ‘Bold Glamour’ AI-Powered Filter, Here Are The Risks",
-      "excerpt": "TikTok has released its new Bold Glamour filter that can remodel your face in an unreal way that looks very real. And it's already garnered real interest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
-      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640d230a750aeccba86bedbf/0x0.jpg?format=jpg&crop=357,267,x10,y0,safe&width=1200",
-          "width": 357,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
-      "publishedDateTime": "2023-03-12T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more.md",
-      "title": "Weekend AI News Roundup: AI in BPOs, Chinese students accessing ChatGPT, Inker Robotics secures million dollar funding, more",
-      "excerpt": "The companies recognise this. The ubiquitousness of AI will therefore force a rethink for business process outsourcing companies on their staff composition. Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/artificial-intelligence-rep.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp",
-      "publishedDateTime": "2023-03-12T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-were-only-beginning-to-see-the-impact-of-silicon-valley-banks-implosion.md",
-      "title": "We’re only beginning to see the impact of Silicon Valley Bank’s implosion",
-      "excerpt": "AI offerings/tools, and M&A activity remaining slow through the first half of 2023.” Meanwhile, according to PitchBook, enterprise fintech startups are capturing more of the broader fintech VC pool.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/",
-      "originalUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1247968342.jpg?resize=1200,799",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/12/fintech-interchange-svb-implosion-impact/amp/",
-      "publishedDateTime": "2023-03-12T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

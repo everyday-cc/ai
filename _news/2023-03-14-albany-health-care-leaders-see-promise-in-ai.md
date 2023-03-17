@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-
 webUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-capital-region-executives.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,40 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "How AI is altering healthcare in Michigan"
+    excerpt: "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain."
+    publishedDateTime: 2023-03-16T16:00:00Z
+    webUrl: "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan"
+    ampWebUrl: "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp"
+    cdnAmpWebUrl: "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp"
+    type: article
+    provider:
+      name: Bridge Magazine
+      domain: bridgemi.com
+    quality: 74
+    images:
+      - url: "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
+    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
+    publishedDateTime: 2023-03-12T12:00:00Z
+    webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
+    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
+        width: 960
+        height: 539
+        isCached: true
 
 secured: "dNUaYXmQdXOBYE6PuWicEdlAGSEPupfBcUJ1TWoONnC8YxV98e8JGilC7p9P6BbcOUvXliOmDYrHQ9dGUb47oPDtGORlwir/YO4DVgCb/az8g86ErqNOT1Hv/EW4IqNqONoSQ1HG39/X7V+DFN3XBHTRpTwMuXRLHN8a/Xs0ofMIcwNJLmErBUMh3i0o/vqkA5jGiLgywWqizD8b+mofCHpFqnQk0q7QsG0qS49WWA/rTEvN6AgAH80AIsVRe9p8t4XICPjgUmRgXc1qXhARi9KxmvVyjCWa3bUoHQAGguO8PNMyvNKR3ZZw/ucrbqa8ipyMyNecvmrV6hMVvzgOaUVSQGNeaAH3uhTtDoiuoy4os0U6krpiJvgEQVIW8xfbhLyxmBKlwjQiOLDATK6xPpOA56DhMJHuvVyT92g+wItACXF2bupF3vjeRZdRiOU2hEiaHZ7774NtlzU6H5z6nk+msdpKasZejgSrQMmkN0IKs2SjsIMR7c8GtRXQmneR+lRnE/kdxvg0jJc4xqFFig==;ExdssKh0EoYXI/y9yEm3SQ=="
 ---

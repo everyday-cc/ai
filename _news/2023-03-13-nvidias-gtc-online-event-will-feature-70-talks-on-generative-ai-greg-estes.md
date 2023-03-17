@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-tal
 ampWebUrl: "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Robotics
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all"

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Startup Seeks to Double Workforce"
+    excerpt: "Layoffs are impacting automakers and transportation technology companies across the industry but at least one firm in the space is looking to expand its workforce instead of scale back. According to Reuters,"
+    publishedDateTime: 2023-03-16T15:29:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22766595/selfdriving-startup-seeks-to-double-workforce"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1232.6413286419ef9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Wd+seI2kiK/CmNKK6e43BW8wGfGc6c/nOxDKqyQNHXJmT3i33xwZY0WRRNdfcW/166ErdQGhRve2Er5hga6DXBH65oxDTtX81L/r1GP+/mF+cPb8RodGs4Kf5tBFyFbVzgu6TLw41CueemzYcx3iQlGZ23Z7WSA2zB90K1AGc5pPSGrqhcMz5s/OLxUFDcV+9auoTUWM06xJbPNg4jTVZhN2BInA82bKWleK06rRjEVggIZdhNS+CVi2Y6RrTaGrmlH7W8VXEBqWDP8amks88nHk5BIr8TKplmRXJYVR2Xqik5XyIa8nXcr5SB1PBqDTBFe7HcFYQgzLnT+2zd36zEFfOMtcZWA/9BRuAev2Snt6ow4+7Bi+PFnnUesag6VZjWBaTPTgwiuNvj9oR5nyoLFcpyqDMBuv2Xx86huRHpOA7iLxo9lnK9Sa0VMN5mmMtEdQGEDIau5RzssCMw3ax4DyQVCyF1581jm4pIkVyciQWFFv3PERlFFRl6RS9U+j0CEXd8uYdSdhwp7E5HIBXQ==;+CCB9S9niPanQw/7GtbD7A=="
 ---

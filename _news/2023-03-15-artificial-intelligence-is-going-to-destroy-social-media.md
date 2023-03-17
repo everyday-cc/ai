@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/03/14/artificial-intelligence-is-going-to-destroy-social-media/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

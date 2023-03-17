@@ -2,6 +2,532 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-28-elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt.md",
+      "title": "Elon Musk and former Google employee may join forces to take on OpenAI's ChatGPT",
+      "excerpt": "The Information reported that Musk has been in talks with Babuschkin, who recently left Alphabet's DeepMind AI unit, to form a new research lab. Elon Musk is looking for AI researchers to build a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "originalUrl": "https://www.businesstoday.in/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/elon-11-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/elon-musk-and-former-google-employee-may-join-forces-to-take-on-openais-chatgpt-371677-2023-02-28",
+      "publishedDateTime": "2023-02-28T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
+      "title": "KT showcases self-driving delivery robot at MWC",
+      "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202302/753af40588424714809aeaaaa074b7d4.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
+      "publishedDateTime": "2023-02-28T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-central-banks-split-on-machine-learning-ai-technologies.md",
+      "title": "Central banks split on machine learning, AI technologies",
+      "excerpt": "Central bank respondents use a number of forms of machine learning (ML) and artificial intelligence (AI) tools, the Fintech Benchmarks 2023 reveal. The technologies are not without their challenges, however.",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralbanking.com/benchmarking/fintech/7954616/central-banks-split-on-machine-learning-ai-technologies",
+      "originalUrl": "https://www.centralbanking.com/benchmarking/fintech/7954616/central-banks-split-on-machine-learning-ai-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2022-09/benchmark-banner-FINTECH-2023.jpg?h=77c6f3fe&itok=k3gW3p0e",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Banking",
+        "domain": "centralbanking.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-chatgpt-use-could-spark-a-new-market-for-chipmakers-worth-tens-of-billions-annually-bernstein-calculates.md",
+      "title": "ChatGPT use could spark a new market for chipmakers worth 'tens of billions' annually, Bernstein calculates",
+      "excerpt": "Chip stocks driving AI queries could mark a multi-billion dollar annual market opportunity for the industry in the years ahead, and Nvidia is one of the best names to play the burgeoning trend ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/28/ai-is-a-multi-billion-dollar-opportunity-for-chipmakers-bernstein-says.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/28/ai-is-a-multi-billion-dollar-opportunity-for-chipmakers-bernstein-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1677567578&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
+      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
+      "excerpt": "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "publishedDateTime": "2023-02-27T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-2-ways-that-artificial-intelligence-could-reshape-the-cannabis-industry.md",
+      "title": "2 Ways That Artificial Intelligence Could Reshape the Cannabis Industry",
+      "excerpt": "Artificial intelligence tools are likely to disrupt most types of economic activity. Labor costs will probably fall as dispensary operations are streamlined. Selling, general, and administrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/27/2-ways-that-artificial-intelligence-could-reshape/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/27/2-ways-that-artificial-intelligence-could-reshape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721628/cannabis-seller-weighs-cannabis.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-elon-musk-recruits-team-to-develop-openai-rival.md",
+      "title": "Elon Musk recruits team to develop OpenAI rival",
+      "excerpt": "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/pjimage-50.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp",
+      "publishedDateTime": "2023-02-27T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-ai-in-computer-vision-market-research-report-forecast-2023-to-2029.md",
+      "title": "AI in Computer Vision Market Research Report-Forecast 2023 to 2029",
+      "excerpt": "Top “ AI in Computer Vision Market ” Size 2023 Key players Profiled in the Report are [, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 484,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-the-purpose-and-impact-of-creative-ai.md",
+      "title": "The purpose and impact of creative AI",
+      "excerpt": "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/",
+      "publishedDateTime": "2023-02-27T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-ftc-warns-tech-keep-your-ai-claims-in-check.md",
+      "title": "FTC warns tech: ‘Keep your AI claims in check’",
+      "excerpt": "The FTC has sent another shot across the bows of the over-eager industry with a sassy warning to \"keep your AI claims in check.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/",
+      "originalUrl": "https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?resize=1200,836",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/ftc-warns-tech-keep-your-ai-claims-in-check/amp/",
+      "publishedDateTime": "2023-02-27T17:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-computer-vision-market-2023-demonstrates-a-signify-growth-by-2029.md",
+      "title": "Computer Vision Market 2023 Demonstrates A signify Growth By 2029",
+      "excerpt": "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-falls-risk-climbs-when-frailty-and-cognitive-impairment-emerge-together-study.md",
       "title": "Falls risk climbs when frailty and cognitive impairment emerge together: study",
       "excerpt": "Older adults are more likely to sustain repeated falls if they develop frailty and cognitive impairment simultaneously, according to a new study. Clinicians should take note when screening seniors ...",
@@ -32,6 +558,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-global-automated-machine-learning-market-report-2023-surge-in-application-of-satellite-imagery-in-various-sectors-bolsters-growth.md",
+      "title": "Global Automated Machine Learning Market Report 2023: Surge in Application of Satellite Imagery in Various Sectors Bolsters Growth",
+      "excerpt": "In 2022, the automated machine learning market size stood at USD 631 million, which is projected to witness a 49.2% CAGR during 2022-2030, reaching USD 15,499.3 million by 2030 as per the report. The major factors accountable for the development of the market include the growing demand for effective fraud-finding solutions and the rising need for personalized product recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/28/9768634.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -586,585 +1146,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-in-computer-vision-market-worth-457-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
-      "title": "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-just-how-big-is-this-new-generative-ai-think-internet-level-disruption.md",
-      "title": "Just how big is this new generative AI? Think internet-level disruption",
-      "excerpt": "If I was in a new city and there was a big bookstore, I had to go. That's because books were only available in libraries and certain bookstores. But then, the early Amazon hit the internets. Suddenly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "originalUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/920c25a582497b6ce1460737db9ed82450a8a16d/2023/02/27/483408f4-2a36-4d23-a7c8-e8b0e1274884/gettyimages-1247345740.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "publishedDateTime": "2023-02-27T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
-      "title": "This week in data: The ML, AI and data landscape with Matt Turck",
-      "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Feb-27.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
-      "publishedDateTime": "2023-02-27T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
-      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
-      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "publishedDateTime": "2023-02-27T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-snap-debuts-my-ai-chatbot-powered-by-openais-gpt-technology.md",
-      "title": "Snap Debuts ‘My AI’ Chatbot Powered By OpenAI’s GPT Technology",
-      "excerpt": "Snap Inc., maker of the photo-sharing app Snapchat, has released an AI-enabled chatbot, becoming the latest major tech company to roll out features powered by OpenAI’s GPT technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivCtDmk3INvI/v1/1200x686.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028.md",
-      "title": "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028",
-      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-learns-to-outsmart-humans-in-video-games-and-real-life.md",
-      "title": "AI learns to outsmart humans in video games - and real life",
-      "excerpt": "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/wirestory_89a1b6359a3f4343807ab849958d10b8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "publishedDateTime": "2023-02-27T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
-      "title": "AI-Driven Medical Care? A Health Data Reality Check",
-      "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fcd9130c056943e7dc82c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "publishedDateTime": "2023-02-27T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat.md",
-      "title": "OpenAI has grand ‘plans’ for AGI. Here’s another way to read its manifesto | The AI Beat",
-      "excerpt": "In this week's AI Beat, senior writer Sharon Goldman suggests an alternate reading of OpenAI's prophecy (oops, 'plan') for AGI and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Your-paragraph-text-7.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/",
-      "publishedDateTime": "2023-02-27T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-how-language-ai-could-revolutionize-marketing.md",
-      "title": "How Language AI Could Revolutionize Marketing",
-      "excerpt": "With artificial intelligence (AI) tools like this in the fold ... like ChatGPT, can translate into other languages in real time. This is just another way this tech can assist content creators ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f8d57ddea4f7c5078ba852/0x0.jpg?format=jpg&crop=3345,2230,x0,y287,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/",
-      "publishedDateTime": "2023-02-27T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-japan-deep-learning-markets-competition-forecast-and-opportunities-2027.md",
-      "title": "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027",
-      "excerpt": "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/27/9766584.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/27/9766584.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-the-future-of-data-and-ai-in-the-financial-services-industry.md",
-      "title": "The Future Of Data And AI In The Financial Services Industry",
-      "excerpt": "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/",
-      "publishedDateTime": "2023-02-27T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

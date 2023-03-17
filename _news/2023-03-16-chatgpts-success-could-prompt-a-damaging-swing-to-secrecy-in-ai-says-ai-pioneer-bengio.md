@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
 type: article
-quality: 80
+quality: 82
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"

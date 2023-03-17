@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-30-ai-and-the-disruption-of-healthcare.md",
+      "title": "AI And The Disruption Of Healthcare",
+      "excerpt": "While the promise of AI in this field is just starting to be realized, we are already seeing it have a real impact on patients' lives right now. Here are three ways AI is disrupting the practice of healthcare today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62dedd21a8d68dc8012ace2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/",
+      "publishedDateTime": "2023-01-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-kettering-students-training-artificial-intelligence-models-for-school-bus-safety.md",
       "title": "Kettering students training artificial intelligence models for school bus safety",
       "excerpt": "A group of undergraduate computer science students at Kettering University are developing a system to implement cheap, reliable artificial intelligence models on school buses.",
@@ -1423,59 +1475,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
-      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
-      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb84748d623fc3b06e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "publishedDateTime": "2023-01-21T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

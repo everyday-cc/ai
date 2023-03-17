@@ -2,6 +2,309 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-16-deep-learning-software-market-latest-trend-and-future-scope-2023-2029.md",
+      "title": "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]",
+      "excerpt": "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
+      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-pytorch-20-brings-new-fire-to-open-source-machine-learning.md",
+      "title": "PyTorch 2.0 brings new fire to open-source machine learning",
+      "excerpt": "The open source PyTorch project is among the most widely used technologies for machine learning (ML) training. Originally started by Facebook (now Meta), PyTorch 1.0 came out in 2018 and benefitted from years of incremental improvements. >>Don’t miss our ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "publishedDateTime": "2023-03-15T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m.md",
+      "title": "Adept, a startup training AI to use existing software and APIs, raises $350M",
+      "excerpt": "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "publishedDateTime": "2023-03-15T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
+      "title": "AI-Image Tool Midjourney Launches Magazine",
+      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
+      "publishedDateTime": "2023-03-15T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
+      "title": "Could AI-powered object recognition technology help solve wheat disease?",
+      "excerpt": "A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head blight, or scab disease, the crop's top ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
+      "originalUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/could-ai-powered-objec-1.jpg",
+          "width": 1067,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
+      "publishedDateTime": "2023-03-15T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
       "title": "What the AI Boom Means for Carbon Emissions",
       "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
@@ -207,7 +510,7 @@
       "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -927,7 +1230,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -958,293 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-mobile-world-congress-2023-showcases-the-latest-tech-from-robotics-to-ai.md",
-      "title": "Mobile World Congress 2023 showcases the latest tech, from robotics to AI",
-      "excerpt": "The Mobile World Congress 2023 in Barcelona, Spain, showcased some of the newest tech and inventions, including robotics, AI and 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
-      "originalUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/03/14/USAT/6d20ce67-ac7a-41a3-b4a1-0b75ced1323b-Sequence_02.00_00_00_00.Still001.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence.md",
-      "title": "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?",
-      "excerpt": "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
-      "publishedDateTime": "2023-03-14T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage.md",
-      "title": "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage",
-      "excerpt": "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said in its affidavit. It said statutory recognition of marriage as a union between a \"man\" and a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
-      "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/lgbt-generic_625x300_1530517472943.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1",
-      "publishedDateTime": "2023-03-14T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-could-covid-cause-face-blindness-study-suggests-its-possible.md",
-      "title": "Could COVID cause ‘face blindness'? Study suggests it’s possible",
-      "excerpt": "\"It was like my dad’s voice came out of a stranger’s face.\" \"This one describes face recognition as one of the main deficits in the case study patient, but goes through to describe several tests used in determining different neurocognitive deficits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94323c47-a69d-4157-ae67-20daa50a2109/3880628a-7d07-4d7e-a9b6-c8b85b25080c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "publishedDateTime": "2023-03-14T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes.md",
-      "title": "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes",
-      "excerpt": "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 372,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna74916",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916",
-      "publishedDateTime": "2023-03-14T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker.md",
-      "title": "Maximize performance and reduce your deep learning training cost with AWS Trainium and Amazon SageMaker",
-      "excerpt": "Today, tens of thousands of customers are building, training, and deploying machine learning (ML) models using Amazon SageMaker to power applications that have the potential to reinvent their businesses and customer experiences. These ML models have been increasing in size and complexity over the last",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/14/maximize-performance.jpg",
-          "width": 1563,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T13:27:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

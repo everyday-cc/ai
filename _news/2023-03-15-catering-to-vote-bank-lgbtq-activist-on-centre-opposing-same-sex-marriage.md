@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
 type: article
 quality: 58
-heat: 129
+heat: 128
 published: true
 
 provider:

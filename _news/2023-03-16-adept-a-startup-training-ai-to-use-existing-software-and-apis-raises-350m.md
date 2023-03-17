@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-ex
 ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
-quality: 84
-heat: 145
+quality: 86
+heat: 147
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800"

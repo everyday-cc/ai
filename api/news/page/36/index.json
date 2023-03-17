@@ -2,6 +2,540 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-09-global-speech-and-voice-recognition-market-to-hit-281-billion-by-2027-growing-at-a-cagr-of-244.md",
+      "title": "Global Speech and Voice Recognition Market to Hit $28.1 billion by 2027, Growing At a CAGR of 24.4%",
+      "excerpt": "Chicago, Feb. 09, 2023 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30831028/global-speech-and-voice-recognition-market-to-hit-28-1-billion-by-2027-growing-at-a-cagr-of-24-4",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30831028/global-speech-and-voice-recognition-market-to-hit-28-1-billion-by-2027-growing-at-a-cagr-of-24-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30831028",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30831028",
+      "publishedDateTime": "2023-02-09T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-is-apple-letting-another-ai-opportunity-slip-away.md",
+      "title": "Is Apple letting another AI opportunity slip away?",
+      "excerpt": "AI that lets you select the text in any image. Apple does all this stuff. It’s so important to the company that they build a Neural Engine into all their chips, specialized hardware that accelerates machine learning tasks like these. Apple’s even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "originalUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025.md",
+      "title": "Artificial Intelligence In Military Market 2023 to Shows Impressive Growth in Regional Areas Forecasts up to 2025",
+      "excerpt": "Feb 09, 2023 (The Expresswire) -- The Artificial Intelligence In Military Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Software, Hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-driverless-car-market-2023-emerging-trends-various-perspectives-cost-analysis-consumer-behavior-with-top-countries-data.md",
+      "title": "Driverless Car Market 2023 : Emerging Trends, Various Perspectives, Cost Analysis, Consumer Behavior with Top Countries Data",
+      "excerpt": "Feb 09, 2023 (The Expresswire) -- \"Driverless Car Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (Commerical, Individual),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2023-emerging-trends-various-perspectives-cost-analysis-consumer-behavior-with-top-countries-data-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2023-emerging-trends-various-perspectives-cost-analysis-consumer-behavior-with-top-countries-data-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-nvidia-geforce-rtx-4070-ti-review-the-first-rtx-40-series-gpu-worth-buying.md",
+      "title": "Nvidia GeForce RTX 4070 Ti review: the first RTX 40 series GPU worth buying",
+      "excerpt": "\"Unlaunching\" this GPU, rebranding it, and releasing it for £100 / $100 less ... 59fps with upscaling on Quality will look good, but one of the catches to these free, AI-generated frames is that you don’t 'feel' them; unlike a rise in traditionally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-review",
+      "originalUrl": "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.rockpapershotgun.com/Nvidia-GeForce-RTX-4070-Ti-MSI-Suprim-X-12G-(3).JPG/BROK/thumbnail/1200x630/Nvidia-GeForce-RTX-4070-Ti-MSI-Suprim-X-12G-(3).JPG",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-google-translate-for-ios-gets-a-redesign-ai-features-contextual-translation-and-more-details.md",
+      "title": "Google Translate for iOS Gets a Redesign, AI Features, Contextual Translation and More: Details",
+      "excerpt": "Google Translate will let users select a language with fewer taps A dynamic font will automatically adjust in size as text is added Google Translate has been updated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/apps/news/google-translate-ios-redesign-ai-features-contextual-translation-3767610",
+      "originalUrl": "https://www.gadgets360.com/apps/news/google-translate-ios-redesign-ai-features-contextual-translation-3767610",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/Google_Translate_main_1675939884486.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-artificial-intelligence-in-content-creation.md",
+      "title": "Artificial Intelligence in Content Creation",
+      "excerpt": "Neural networks work best with the English language, and I think that robots already write in English better than non-English speaking people. Artificial intelligence knows how to use idioms, metaphors, and adjectives; and services are able to follow the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lbbonline.com/news/artificial-intelligence-in-content-creation",
+      "originalUrl": "https://www.lbbonline.com/news/artificial-intelligence-in-content-creation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actual-final-dall-e-cosmo-cover-1655775574.png?resize=980:*",
+          "width": 980,
+          "height": 1225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "lbbonline",
+        "domain": "lbbonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-the-best-dictation-software.md",
+      "title": "The Best Dictation Software",
+      "excerpt": "But the technology behind dictation software (also called speech-to-text or voice-recognition software) has some faults. These apps have difficult learning curves, and the inherent bias that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2023/02/dictationsoftware-2048px-09273-3x2-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "publishedDateTime": "2023-02-09T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-is-artificial-intelligence-helping-q-c-students-cheat.md",
+      "title": "Is artificial intelligence helping Q-C students cheat?",
+      "excerpt": "Once text or data is fed into the program, it uses an \"artificial neural network\" to generate a response. Dr. Forrest Stonedahl, an Augustana computer science and math professor, dubs the ...",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/news/local/education/is-artificial-intelligence-helping-q-c-students-cheat/article_e708cee8-e5de-5ac0-83f8-60448781b958.html",
+      "originalUrl": "https://qctimes.com/news/local/education/is-artificial-intelligence-helping-q-c-students-cheat/article_e708cee8-e5de-5ac0-83f8-60448781b958.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/70/e708cee8-e5de-5ac0-83f8-60448781b958/63e2ae099742a.preview.jpg?crop=1848%2C970%2C0%2C75&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-ai-and-computer-vision-offers-real-time-data-rich-hdr-video.md",
+      "title": "AI and computer vision offers real-time data-rich HDR video",
+      "excerpt": "Xfuse, LLC now offers its Phoenix HDR ISP for the AMD Kria K26 SOM and KV260 Vision AI Starter Kit. For AI developers and computer vision engineers requiring to capture real-time, data-rich imaging streams,",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/2023/02/ai-and-computer-vision-offers-real-time-data-rich-hdr-video",
+      "originalUrl": "https://www.electropages.com/2023/02/ai-and-computer-vision-offers-real-time-data-rich-hdr-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/Opengraph/v2b.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
+      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
+      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
+      "title": "How AI and Facial Recognition Can Chill Access to Justice",
+      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
       "title": "Taking sleeping pills could have disastrous cognitive side effects",
       "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
@@ -539,514 +1073,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-how-to-detect-ai-generated-text-according-to-researchers.md",
-      "title": "How to Detect AI-Generated Text, According to Researchers",
-      "excerpt": "Musser contributed to a paper studying mitigation tactics to counteract AI-fueled propaganda. OpenAI and the Stanford Internet Observatory were also part of the research, laying out key examples ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/",
-      "originalUrl": "https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-spot-generative-ai-text-chatgpt/amp",
-      "publishedDateTime": "2023-02-08T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
-      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
-      "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
-      "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... Many people are familiar with the concept of driverless cars, which travel autonomously from Point A to Point B while detecting and avoiding obstacles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
-      "originalUrl": "https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2018/04/016/_jcr_content/teaser.img.512.auto.jpg/1555958190888.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-whats-the-difference-between-machine-learning-and-artificial-intelligence-anyway.md",
-      "title": "What’s The Difference Between Machine Learning And Artificial Intelligence, Anyway?",
-      "excerpt": "Artificial intelligence is the ability of a computer to handle complex tasks such as learning and problem-solving Machine learning is a computer application using artificial intelligence to find ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5a689ae31cef5499d9cc3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/09/machine-learning-vs-artificial-intelligence-how-they-differ-and-how-they-will-disrupt-the-technological-landscape/amp/",
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-what-happens-when-you-mash-generative-ai-with-robotics-carnegie-mellon-scientists-dream-up-an-answer.md",
-      "title": "What happens when you mash generative AI with robotics? Carnegie Mellon scientists dream up an answer",
-      "excerpt": "It’s a question that’s roiled industry stakeholders and armchair intellectuals for the past few years, ever since generative AI splashed onto ... But they start with some semantic goals.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
-      "originalUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-is-adding-contextual-translations-for-words-with-multiple-meanings.md",
-      "title": "Google Translate is adding contextual translations for words with multiple meanings",
-      "excerpt": "At today's AI-focused event in Paris ... In fact, if you ever tried to use Translate to complete your language homework in high school, you know poorly this sort of thing can turn out. With this contextual upgrade, Google will provide multiple meanings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "originalUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-translate-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-as-big-techs-growth-and-innovation-slow-its-market-dominance-endures.md",
-      "title": "As big tech’s growth and innovation slow, its market dominance endures",
-      "excerpt": "Google parent Alphabet and its cohort still innovate, but with incremental enhancements to existing products. Tech hoping AI will allow it to disrupt like the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures",
-      "originalUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/3a870c4c-034e-49a9-b362-8aba72345f3a/5a970391-6531-41df-85a4-ebabb5a24de1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures.amp",
-      "publishedDateTime": "2023-02-08T15:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics.md",
-      "title": "Can Autoregressive Language Model In Power BI Enhance Efficiency In Data Analytics?",
-      "excerpt": "This is a Guest Blog by Mr Piyush Goel, Founder & CEO of Beyond Key In today’s world, where everything is centered around data manipulation and meeting customer demands precisely, using natural language to search through your data is the quickest approach to finding an answer from it.",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "originalUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/stories/wp-content/uploads/2023/02/AI-And-Chatbots-Opt-1-1280x720-1-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
-      "title": "Investigation Finds AI Algorithms Objectify Women’s Bodies",
-      "excerpt": "AI tools rate photos of women as more sexually suggestive than those of men, especially if nipples, pregnant bellies or exercise is involved Images posted on social media are analyzed by",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "originalUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-there-is-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
-      "title": "‘There is no Standard’: Investigation Finds AI Algorithms Objectify Women’s Bodies",
-      "excerpt": "However, “Amazon Rekognition is able to recognize a wide variety of content, but it does not determine the appropriateness of that content,” an Amazon spokesperson said. “The service simply returns labels for items it detects for further evaluation ...",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/there-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "originalUrl": "https://pulitzercenter.org/stories/there-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029.md",
-      "title": "Data and AI Ethics Market Future Trends Demand 2023 and Forecast to 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Data and AI Ethics Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Government and Defense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran.md",
-      "title": "Bret Taylor, Former Co-CEO of Salesforce, to Create AI Startup With Google Veteran",
-      "excerpt": "Bret Taylor, the former co-chief executive of Salesforce Inc., is launching an artificial-intelligence startup with a longtime veteran of Google, becoming the latest big name to dive into the race to try to cash in on AI. Mr. Taylor—who has backed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
-      "originalUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-720709/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

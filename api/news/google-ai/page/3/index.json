@@ -2,6 +2,265 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-16-implementing-ai-during-a-worldwide-talent-shortage.md",
+      "title": "Implementing AI during a worldwide talent shortage",
+      "excerpt": "Upskilling and investing in education are two ways to address the IT talent shortage, which is exacerbated by rapidly evolving AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
+      "originalUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
+      "publishedDateTime": "2022-12-15T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-deepmind-launches-dramatron-script-writing-software.md",
+      "title": "DeepMind Launches Dramatron Script Writing Software",
+      "excerpt": "Alphabet’s DeepMind has developed a new AI tool that could have a big impact on the creative fields. Dramatron relies on existing, pre-trained large language models to generate long and coherent text that could help co-write theater scripts and screenplays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "originalUrl": "https://www.unite.ai/deepminds-new-dramatron-tool-helps-write-scripts-and-screenplays/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2022/12/dramatron-animation-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
+      "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
+      "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Facebook AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-migrate-sessionrunhook-to-keras-callbacks.md",
+      "title": "Migrate SessionRunHook to Keras callbacks",
+      "excerpt": "Start with imports and a simple dataset for demonstration purposes: import tensorflow as tf import tensorflow.compat.v1 as tf1 import time from datetime import datetime from absl import flags 2022-12-14 03&colon;29&colon;50.223888&colon; W tensorflow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-deepminds-alphacode-is-the-best-example-of-ai-gearing-up-to-snatch-your-white-collar-jobs.md",
       "title": "DeepMind's AlphaCode is the best example of AI gearing up to snatch your white-collar jobs",
       "excerpt": "Researchers from DeepMind, which is a subsidiary of Alphabet, believe that this system will someday assist coders, but might not replace them. “It’s very impressive, the performance they’re ...",

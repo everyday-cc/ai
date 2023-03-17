@@ -35,6 +35,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
+    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
+    publishedDateTime: 2023-03-16T21:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
 
 secured: "58GwHNCJ9zACYMP7rNZnnPiFa1l3P0cvClaG8gfMpi+H1yieFYMqfO6rNkZthTso44VuotIX9v58LnWR4GY5KTIJUME64BFl5Cs+zyiVWXGvyvsdF36gQnsfiQIfCDwPSsnRAN7yKsiBWVkR5XxfK8UPeJqJrhtLLQKMK9Q/+rutchgiPieVuMZSEAwNNiIqyebUm4cQ4MNHs5sSeliTqUH29kgXHdM6AniS2WwHXCgtLWiUPYy2psp5AdZ8FkWPrsY3A4yZbURunc17O6drbq81hjAHjrQy+jI8YsXDO7NlzcjeNFXZctbnOjQ7TJAklCQFpBz14wHpUqNVYMeHGSaa6mRynn5++qtXfiiITURq/UQMrmtTkeqM8OuWGtV77uo5NJWimzxl7IJ6OnkXuGkQeOMGgm2H3pVxBN9HucrJkM3EbWZm1lbaJRCKP5NWupUh7fd5KNYNCMfdgLFATUUK03OCa4sHIWe5kplWZ+8Rfk7rHcdVA5JWH+hiITduRvnSV0Z4qi3lTuDU5fEhfw==;TFZ+OiP3VubeqGd4PPWQFA=="
 ---

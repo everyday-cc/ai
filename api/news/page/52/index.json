@@ -2,6 +2,493 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-02-05-artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age.md",
+      "title": "Artificial intelligence uncovers lost work by titan of Spain’s ‘Golden Age’",
+      "excerpt": "Discovery of Lope de Vega play could lead to other important finds, researchers say",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
+      "originalUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
+      "publishedDateTime": "2023-02-04T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-google-partners-with-ai-company-anthropic-reportedly-makes-financial-investment.md",
+      "title": "Google Partners With AI Company Anthropic, Reportedly Makes Financial Investment",
+      "excerpt": "Google's partnership with AI firm Anthropic as a preferred cloud provider includes a financial investment, very similar to Microsoft's investment in OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029.md",
+      "title": "Machine Learning in Communication Market 2023 Size, Upcoming Trends, Major Players, Revenue, Share, And Forecast To 2029",
+      "excerpt": "In 2023] The Global Machine Learning in Communication Market Size (128 Report Pages) is estimated to be worth USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029-2023-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2023-size-upcoming-trends-major-players-revenue-share-and-forecast-to-2029-2023-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T18:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029.md",
+      "title": "Artificial Intelligence Chipset Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029",
+      "excerpt": "In 2023] The Global Artificial Intelligence Chipset Market Size (105 Report Pages) is estimated to be worth USD million",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T18:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-nhl-doesnt-have-issue-with-facial-recognition-system-at-rangers-games.md",
+      "title": "NHL doesn't have issue with facial recognition system at Rangers games",
+      "excerpt": "Rangers owner James Dolan is said to use the technology to bar certain ticket holders from the facility that are in business or legal battles with Dolan's companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi",
+      "originalUrl": "https://www.newsday.com/sports/hockey/rangers/nhl-all-star-game-c8lvuvfi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-coming-ai-regulation-may-not-protect-us-from-dangerous-ai.md",
+      "title": "Coming AI regulation may not protect us from dangerous AI",
+      "excerpt": "Until we have adequately responsible AI, here's how we can protect ourselves from opaque and thus dangerous AI already affecting our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
+      "originalUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coming-ai-regulation-may-not-protect-us-from-dangerous-ai/amp/",
+      "publishedDateTime": "2023-02-04T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-high-tech-hospital-uses-artificial-intelligence-in-patient-care.md",
+      "title": "High-tech hospital uses artificial intelligence in patient care",
+      "excerpt": "Doctors at the University of Florida Health Center are using artificial intelligence to help monitor their patients. The findings will help them develop algorithms that will soon provide real-time health care recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/high-tech-hospital-uses-artificial-intelligence-in-patient-care-162645573527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1675554878286_nn_jto_hospitals_using_ai_230204_1920x1080-g4e58v.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo162645573527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo162645573527",
+      "publishedDateTime": "2023-02-04T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-excessive-screen-time-during-infancy-may-be-linked-to-lower-cognitive-skills-later-in-childhood.md",
+      "title": "Excessive screen time during infancy may be linked to lower cognitive skills later in childhood",
+      "excerpt": "The amount of time babies spend watching computer, TV and phone screens in their first year of life may be indirectly linked to lower cognitive skills later in life, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "originalUrl": "https://abcnews.go.com/GMA/Wellness/new-study-babies-screen-time/story?id=96814576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/screen-time-gty-bb-230201_1675259672781_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/new-study-babies-screen-time-96814576",
+      "publishedDateTime": "2023-02-04T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-artificial-intelligence-a-technological-revolution-that-is-changing-our-lives.md",
+      "title": "Artificial intelligence, a technological revolution that is changing our lives",
+      "excerpt": "Artificial Intelligence (AI) is changing our lives significantly. Machine learning algorithms and robots can now perform tasks that were once considered only for humans. Businesses are rapidly adopting this technology to improve their productivity and market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
+      "originalUrl": "https://237online.com/en/lintelligence-artificielle-une-revolution-technologique-qui-change-notre-vie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "237online",
+        "domain": "237online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs.md",
+      "title": "Alphabet's DeepMind forms AI drug discovery unit Isomorphic Labs",
+      "excerpt": "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that it calls Isomorphic Labs. The UK-registered company will be able to tap into ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-05-warn-your-children-robots-and-ai-are-coming-for-their-careers.md",
+      "title": "Warn your children: Robots and AI are coming for their careers",
+      "excerpt": "Science is making exponential advancements in the field of robotics and artificial intelligence. Surely, sooner or later, these advancements will impact most careers. The companies that produce or utilize such advancements might not be the sinister ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
+      "originalUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/06/CA_robots_workers.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3841832-warn-your-children-robots-and-ai-are-coming-for-their-careers/amp/",
+      "publishedDateTime": "2023-02-04T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
+      "title": "A quicker return to school may help kids with concussions, study says",
+      "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
+      "originalUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5KA7BEY3FS6IAHEYND2J6IC6M.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-03T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
       "title": "Flexiv Launches 'Revolutionary' Force-Controlled Parallel Robot",
       "excerpt": "Flexiv says Moonlight is the world's first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate ...",
@@ -598,546 +1085,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-new-ai-tool-lets-you-replace-pictures-of-your-ex-with-images-of-red-flags-and-snakes.md",
-      "title": "New AI tool lets you replace pictures of your ex with images of red flags and snakes",
-      "excerpt": "Picsart, a photo and video editing company, debuted the tool as a way to help the broken-hearted purge their social media feeds of former flames.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-app-lets-you-replace-ex-with-red-flags-snakes-2023-2",
-      "originalUrl": "https://www.businessinsider.com/ai-app-lets-you-replace-ex-with-red-flags-snakes-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63dd3a990a08ae0018a6aaf2?width=1200&format=jpeg",
-          "width": 780,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-app-lets-you-replace-ex-with-red-flags-snakes-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-app-lets-you-replace-ex-with-red-flags-snakes-2023-2?amp",
-      "publishedDateTime": "2023-02-03T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-gms-driverless-car-snafus-jeopardize-san-francisco-expansion.md",
-      "title": "GM’s Driverless Car Snafus Jeopardize San Francisco Expansion",
-      "excerpt": "Stay on top of the auto industry’s transformation by signing up for Bloomberg’s Hyperdrive newsletter here. In its push to get to $1 billion in robotaxi revenue by 2025 and as much as $50 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-02-03/gm-s-driverless-car-snafus-jeopardize-san-francisco-expansion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-02-03/gm-s-driverless-car-snafus-jeopardize-san-francisco-expansion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDYouBGro.j8/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-t-mobile-sets-industry-leading-2040-net-zero-commitment.md",
-      "title": "T-Mobile Sets Industry-Leading 2040 Net-Zero Commitment",
-      "excerpt": "Vice President and Principal Analyst, Melody Brue, dives into T-Mobile's announcement to achieve net-zero emissions across the company's entire carbon footprint by 2040.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd47ce21711884479afecc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
-      "publishedDateTime": "2023-02-03T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-replika-a-virtual-friendship-ai-chatbot-hit-with-data-ban-in-italy-over-child-safety.md",
-      "title": "Replika, a ‘virtual friendship’ AI chatbot, hit with data ban in Italy over child safety",
-      "excerpt": "AI chatbot maker Replika has been ordered to stop processing user data in Italy over child safety and data protection concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
-      "originalUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/child-tablet-touch-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/replika-italy-data-processing-ban/amp/",
-      "publishedDateTime": "2023-02-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-google-invests-300mn-in-artificial-intelligence-start-up-anthropic.md",
-      "title": "Google invests $300mn in artificial intelligence start-up Anthropic",
-      "excerpt": "Cash-for-computing deal shows how large tech groups are investing in companies at the vanguard of generative AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c",
-      "originalUrl": "https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-robots-and-ai-team-up-to-discover-highly-selective-catalysts.md",
-      "title": "Robots and AI team up to discover highly selective catalysts",
-      "excerpt": "Researchers used a chemical synthesis robot and computationally cost-effective AI model to successfully predict and validate highly selective catalysts. Their results are published in the journal Angewandte Chemie International Edition.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
-      "originalUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/robots-and-ai-team-up.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
-      "publishedDateTime": "2023-02-03T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023.md",
-      "title": "5 Growing Retail Tech Trends That Will Dominate Asia And Beyond In 2023",
-      "excerpt": "As technology and consumer trends continue to evolve, businesses in the retail industry must stay up-to-date with the latest innovations. In 2023, we will see retailers leverage AI and other cutting-edge technologies to stay ahead of the competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd2393f11e7bf50e0e06df/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiffanylung/2023/02/03/5-growing-retail-tech-trends-that-will-dominate-asia-and-beyond-in-2023/amp/",
-      "publishedDateTime": "2023-02-03T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-the-worldwide-ai-in-computer-vision-industry-is-expected-to-reach-836-billion-by-2028.md",
-      "title": "The Worldwide AI in Computer Vision Industry is Expected to Reach $83.6 Billion by 2028",
-      "excerpt": "This report assesses the application of AI in computer vision systems used in conjunction with connected devices, hardware components, embedded software, AI platforms, and analytics. The report analyzes machine learning models and APIs used in computer vision systems along with the application of neural networks in AI analytics systems.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/03/9754717.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/03/9754717.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethics.md",
-      "title": "Netflix's Labour Shortage Claim For Using AI Raises Age-Old Questions About Industry's Declining Ethics",
-      "excerpt": "It did not take long for the clip to spread like wildfire and for more people to call out the studio for using AI tools when artists in the industry already have been suffering in the industry. In the tweet,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic",
-      "originalUrl": "https://in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/netflix-ai-copy_wshk.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/46558/netflixs-labour-shortage-claim-for-using-ai-raises-age-old-questions-about-industrys-declining-ethic?amp=1",
-      "publishedDateTime": "2023-02-03T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety.md",
-      "title": "Driverless buses may sound like the future, but I can't see them taking off – Susan Dalgety",
-      "excerpt": "I don’t drive. No, let me amend that, I can’t drive. I have never had the inclination to learn, and given my impatient and sometimes reckless personality, it’s probably a good thing that I have been a passenger all my life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
-      "originalUrl": "https://www.edinburghnews.scotsman.com/news/opinion/columnists/driverless-buses-may-sound-like-the-future-but-i-cant-see-them-taking-off-susan-dalgety-4013181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edinburghnews.scotsman.com",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-mystery-portrait-may-be-a-raphael-artificial-intelligence-suggests.md",
-      "title": "Mystery Portrait May Be a Raphael, Artificial Intelligence Suggests",
-      "excerpt": "A mysterious portrait of the Virgin Mary and Jesus may have been painted by the master Raphael, facial recognition finds. But many art historians reject the claim",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/",
-      "originalUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/7CB65A67-DC9C-445A-9506CBCD7703B968.jpeg",
-          "width": 790,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/?amp=true",
-      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/mystery-portrait-is-likely-raphael-masterpiece-according-to-artificial-intelligence/?amp=true",
-      "publishedDateTime": "2023-02-03T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-chatgpt-just-became-the-fastest-growing-app-of-all-time.md",
-      "title": "ChatGPT just became the fastest-growing 'app' of all time",
-      "excerpt": "\"No, OpenAI's GPT-3 language model, which powers ChatGPT, is not an app, it's a machine learning model designed to generate human ... Microsoft has also launched: the Azure OpenAI Service to provide developers access to GPT-3.5; DALL•E 2, the AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea66b908cc583f45fc75034683d42807a63cc563/2023/02/03/105ba195-9733-419a-85be-d90a2aeb898f/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "publishedDateTime": "2023-02-03T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

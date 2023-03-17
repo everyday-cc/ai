@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-26-not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know.md",
+      "title": "Not Everything We Call AI Is Artificial Intelligence. All You Need To Know",
+      "excerpt": "In August 1955, a group of scientists made a funding request for US$13,500 to host a summer workshop at Dartmouth College, New Hampshire. The field they proposed to explore was artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
+      "originalUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
+      "publishedDateTime": "2022-12-26T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-26-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know.md",
       "title": "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know",
       "excerpt": "Read more about Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know on Devdiscourse",
@@ -1410,58 +1455,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-is-learning-code-still-necessary-for-businesses.md",
-      "title": "Is Learning Code Still Necessary For Businesses?",
-      "excerpt": "Whether you rent a storefront or operate fully online, you’ll be in need of the software development know-how required to thrive in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fb2b1a203edc9665484d31e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/is-learning-code-still-necessary-for-businesses/amp/",
-      "publishedDateTime": "2022-12-13T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-16-how-ai-is-altering-healthcare-in-michigan.md",
+      "title": "How AI is altering healthcare in Michigan",
+      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
+      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
+      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan?amp",
+      "publishedDateTime": "2023-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bridge Magazine",
+        "domain": "bridgemi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-three-ways-digitalization-is-powering-the-future-of-healthcare.md",
       "title": "Three Ways Digitalization Is Powering The Future Of Healthcare",
       "excerpt": "1. AI helps make medical systems smarter. Today, 59% of U.S. healthcare executives believe that artificial intelligence (AI) is either “very effective” or “often effective” at improving clinical outcomes. AI can be used in a variety of ways in ...",
@@ -222,7 +265,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1376,49 +1419,6 @@
       "provider": {
         "name": "The Victoria Advocate",
         "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-a-mobile-artificial-intelligencepowered-acceptance-commitment-therapy-tool.md",
-      "title": "A mobile artificial intelligence–powered acceptance commitment therapy tool",
-      "excerpt": "New research shows the potential for using mobile-based conversational agents to deliver engaging and effective Acceptance Commitment Therapy ... used a digital artificial intelligence–powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-mobile-artificial-intelligencepowered-commitment-therapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-mobile-artificial-intelligencepowered-commitment-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-mobile-artificial-in.jpg",
-          "width": 1188,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
