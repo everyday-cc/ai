@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c
 webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Role of Psychology in Cognitive Aging and Dementia Prevention"
-    excerpt: "Although age is the most powerful risk factor for cognitive decline, dementia is not a natural or unavoidable result of aging Behavioral dementia prevention strategies, as well as new therapeutic ..."
-    publishedDateTime: 2023-03-12T21:56:00Z
-    webUrl: "https://www.medindia.net/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/healthwatch/role-of-psychology-in-cognitive-aging-and-dementia-prevention-210870-1.htm"
+  - title: "Long-Term Cannabis Use, Cognitive Decline, and the Hippocampus"
+    excerpt: "[3] Multiple studies have shown that decreased hippocampal volume is associated with cognitive decrements. Cognitive impact on long-term cannabis users at age 45 With this introduction, I want to ..."
+    publishedDateTime: 2023-03-15T04:36:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 44
-    images:
-      - url: "https://www.medindia.net/images/common/news/950_400/psychology-can-help-with-cognitive-aging.jpg"
-        width: 735
-        height: 400
-        isCached: true
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 4
 
 secured: "LvyxdJB2Duj56bgmDOGGUmh/dBmdz26ts+YS7GFFpJZH1y7fYPEJjh1aywnVYCYHS2Me/DdKGXJmX6Z5E4HXOTxiCdWVNWk82sUQHudckU3EulmHM4J6oZLfpy0CdNjZChln3zEZJ95+pRHICV9YB5WR+tuNh6MXe88jX5Gfu6/Z6k89TrZv51jLxQrzYefysZAUW3ZvTPaAxD77FqGCQrAQhzSnNm2fSVj1lTuWzlDrk6Fgc+hQxaLAULatbU13+snbDo7yvM3fPaJNabP+O2UaCT6iG68LXvXEHDCjFBKbD2PyomizL0bBFjcJnkQ72gfIDCoS3u6YRqDmWNw9Zltiw8yjqU2XIN57/mAcCxk=;/me7no69M8AQg6LZ/TZQtQ=="
 ---

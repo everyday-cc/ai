@@ -56,6 +56,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Will Bring Social Changes in China"
+    excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."
+    publishedDateTime: 2023-03-17T13:49:00Z
+    webUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 37
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "How AI Will Change Chip Design"
     excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
     publishedDateTime: 2023-03-17T07:22:00Z

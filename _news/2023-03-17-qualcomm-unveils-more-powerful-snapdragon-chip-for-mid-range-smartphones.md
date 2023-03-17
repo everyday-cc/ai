@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Qualcomm launches Snapdragon 7+ Gen 2 chip with AI-enhanced experience"
+    excerpt: "The chipset offers an AI-enhanced experience with high-speed 5G and Wi-Fi connectivity. The Snapdragon 7+ Gen 2 provides an exceptional CPU and GPU performance which fuels swift, dynamic low-light photography, nonstop gaming and 4K HDR videography ..."
+    publishedDateTime: 2023-03-17T13:19:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/qualcomm-snapdragon-pixabay-1679058726.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm announces Snapdragon 7+ Gen 2: 50% faster CPU, 2x GPU"
     excerpt: "Taking care of the graphics is an unnamed Adreno GPU, which as per Qualcomm ... Snapdragon 7+ Gen 2’s Qualcomm AI engine promises to offer twice the AI performance of its predecessor, with 40 percent performance per Watt gains. There is also AI Super ..."
     publishedDateTime: 2023-03-17T10:56:00Z
@@ -34,6 +50,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-98732671,width-1070,height-580,imgsize-201234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1068
         height: 580
+        isCached: true
+  - title: "Qualcomm Unveils New Snapdragon 7+ Gen 2 Chipset With AI-Enhanced Experience"
+    excerpt: "a chipset that offers AI-enhanced experiences, high-speed 5G, and Wi-Fi connectivity. Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, according to the ..."
+    publishedDateTime: 2023-03-17T12:32:00Z
+    webUrl: "https://menafn.com/1105803077/Qualcomm-Unveils-New-Snapdragon-7-Gen-2-Chipset-With-AI-Enhanced-Experience"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?149420"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "QxfBoYLb9ifMYii7vsLgbNBTbsVcnoVh6O6ncHEnhWb4kl4Z3t3x92DXn/axuIfqly6yed30uA3q8tv3Vy6Q2l9joukRPObt+uJAnqtc09pm/S0LTpipEsEaQNoQQpuzhwCBiyFE5zdxHlpX8zPsDX+Z6s8x6FWZ05RoXMBxDSc8tYfvFAQv5EYAlTWHpmO0ui3wpFkevXDvx+QDuHQHueXZckXVRQ1yqxf0S2Awam8eyukNjl8xlbFPftxfbLfJgL3T/qdUnsMkzDUczGwCA3fia75mg1ZQtE+asawPl2T1BlCz1VwnGGqLdV7ctssrqkCqG5EpMNmeSCSkM2L+PAG7al2nHHB6sHK3V2uekhFnSGBL6H4VHQ6mEYXsnkas9z0lpdp21hrRl0oRHDTqu5J6A6iPCZEO3AXzg3odyF80KWpCSzUqLz51iUsvQIa+ThbN+NgvKap74hgrYR7uSxahd12k5Ds0XIfFK4kIWiaGOQk4pKSGsHbMUmBvnXtwM57NEO39BjnBsG21I7PJdg==;LjDjgXYvTw0rWG2qg6WjLA=="

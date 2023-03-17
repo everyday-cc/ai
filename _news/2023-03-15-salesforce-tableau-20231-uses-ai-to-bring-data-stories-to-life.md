@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-brin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce’s AI solution for Air India to improve customer experience"
-    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
-    publishedDateTime: 2023-03-14T16:27:00Z
-    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
+  - title: "On-device AI is transforming computing for hybrid workforces"
+    excerpt: "Presented by Qualcomm Technologies Inc. Traditionally, laptop performance has been measured by CPU and GPU, but on-device AI processing is now a critical third measure. And that’s especially crucial for enterprise PCs as hybrid work challenges crystalize ..."
+    publishedDateTime: 2023-03-17T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/"
+    ampWebUrl: "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 687
         isCached: true
 
 secured: "Py2rWcWd294xv/u0Bm0F4lG7TSQQbqOD4fbtKE6hBsE6kx9iHH9UXXy9YpuDwlM1shzxnUQe+k1OfMz6C8Lxlx4TRSklezsBM59HfnJLnKhUvx/B5RfXMHg3YGUvGbhcsbMVbXiXGaay2uJhF+uqFP8iE+nvDjyadYCCZ/WXigMGsIXMXTCYRsODc0NnGvgTe2NCeVjRFv0qFxN2cwx8/Ce7MpS79ZN5bMIDINaFvT3PY7YO8JAq2Av6lCs+nnNGVZ89mogtBhOpGl2uxloXpbx2f+0B8kr3OlPQFo0lUTIalUdu2vQbzlw8zek5lV7aE7yWxqhobkDeMkeSjFgMU1FpBTGVBWBEwAOUpYWrhCjGcpM8uaIlJ1Xh/iEOnDVegTntdRTgbAjMa3WX9YrbQAfBu5EVOCvxJhMoGqRu4WUR5HlWiEpcZkR/ZJ+ghvOLkvYt8N7NXyRbawQpn1kGOVqPgaWCL1QSBELE5RWosVUTJ40p0Lid/w3d3u5E6rYa5CjHk0iOKdzXcwmo1Z6Txw==;GUdBcQPgc7pFbHYfz4CnoQ=="

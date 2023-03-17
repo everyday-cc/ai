@@ -293,6 +293,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "China's tech giant Baidu unveils \"Ernie,\" the Chinese answer to AI chatbot technology like ChatGPT and GPT4"
+    excerpt: "Beijing — Days after popular artificial intelligence tool ChatGPT's developer OpenAI released its latest version, GPT4, Chinese tech giant Baidu, best known for its search engine and map services in the country, revealed its AI answer to the world."
+    publishedDateTime: 2023-03-17T15:48:00Z
+    webUrl: "https://www.cbsnews.com/news/china-chatgpt-ernie-ai-chatbot-technology/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/china-chatgpt-ernie-ai-chatbot-technology/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/china-chatgpt-ernie-ai-chatbot-technology/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 41
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/17/0a4488c1-b704-47b1-9fb6-efb5e6460e79/thumbnail/1200x630g8/81b64df0fbbe8daf717cc5b9825c988b/gettyimages-1248446799.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT and Bing AI to sit as panellists at fintech conference."
     excerpt: "Artificial intelligence chatbots will be used as panellists for the first time as part of a conference hosted by the Gillmore Centre for Financial Technology this week."
     publishedDateTime: 2023-03-15T11:38:00Z

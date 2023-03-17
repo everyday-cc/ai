@@ -1,0 +1,56 @@
+---
+category: news
+title: "Baidu get approval to launch driverless taxi service in Beijing"
+excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
+publishedDateTime: 2023-03-17T13:20:00Z
+originalUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
+webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: IET
+  domain: theiet.org
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
+    width: 1200
+    height: 450
+    isCached: true
+
+related:
+  - title: "Baidu says it can now operate robotaxis in Beijing with no human staff inside"
+    excerpt: "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ..."
+    publishedDateTime: 2023-03-17T06:51:00Z
+    webUrl: "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 86
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1679035563"
+        width: 1919
+        height: 1279
+        isCached: true
+  - title: "Baidu Wins Permit to Offer Driverless Robotaxi Service in Beijing City"
+    excerpt: "Baidu will now operate driverless robotaxi services in three Chinese cities including Wuhan and Chongqing. The Beijing-headquartered company, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies ..."
+    publishedDateTime: 2023-03-17T07:03:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-17/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+
+secured: "pv2c+D6ArOAxlv/NJRcBJaHRJRYmlrFylMGdw50JHjzVXn0pH5ld4zWFbZIG2uEJWA0KPUt5bjw0GENzVbzUI39xYCCLOBsY42ci4wzIoby+cw/LdXpJ6kI2SIpjfeLcoEgEesVAasbHSKYO5EJajuzjRdbDOLZjEHiOX8uWjQfGSFmXdZdZE7wNnjK1ekewdp7Pa7XvmA7/ACuFZTyE6O2Wn2dnY6zMcP0fMQx66EC4w9EpNUNG3YeOHLqXyFUrDUH/hbcQhv0jL/ahEVFUUaF+BDCCHGUoZ6AaUJV61cqVtguwl0E0Xe0rfu9g2U/fhl84P/7Pku0KaaQheIqC6te2DUMPFDcj1A0Z3A/DROQ=;wir8jrP0J48PJ5RplVSLZg=="
+---
+

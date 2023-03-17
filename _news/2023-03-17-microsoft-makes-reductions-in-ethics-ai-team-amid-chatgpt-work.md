@@ -140,6 +140,22 @@ related:
         width: 800
         height: 489
         isCached: true
+  - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
+    excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-adds-ai-tools-office-apps-outlook-word-rcna75373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/200327-microsoft-logo-ew-448p-acdab6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Microsoft Introduces AI-Powered 'Copilot' for Word, Outlook and More"
     excerpt: "Microsoft 365 Copilot will work in apps like Word, Excel, PowerPoint, Outlook, Teams and more. Just a month after announcing artificial intelligence integration with its search engine Bing and browser Edge,"
     publishedDateTime: 2023-03-16T18:36:00Z
@@ -920,6 +936,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "xFIIo8plkNv83DJCqrNecv4M2TbouAqP25nlxkl/5qupPrTI1cuBZd87/BpgVowvDrkrpDRE2rsCUnO0ALwOs8Zl1AFOyOKrXjmVNIWq46fvzZrEkO18xRiHVVERGFhhfA0mn+3of0DnZd9xesxmqyQMLndsqELI5We/SQB5rs5f4JwaKWYZJvr49dOlhmCXr0SaR2XY/IL30Jwk2sKSxMOT9Hz4icWovmxBjW+NRtqvGi2dDRPPfjWp3xOuc+S+n4+J0deAGOsY9ykvSjXYsKu1BfsF8+Qt95SlKAk7UXiAUQX6Wd021kIyQyhtcjwUwqyFIVqgDxfnKAUzS95XBLjqe7T/rIyDdcU0dh88FEQ=;RXGkYW7lnKg8UHD+zie1HQ=="
+secured: "PHuM2OkoIZVlkzqQIzYtnbjCCXdntzXeJlwVfxNlk3FYAC9LJf5O+r5iWmpeieBUEH08RlhCqOGcQZsTNLuXzh4rJJGaTqpQqhyklxsi+mGHOA5AspEX9RGdY1RsrrC3oJH9AKhwTgqkvQK7Cms9Kj9I1gdnm8G26ne/9RY4vSVkUOw8MPqTe4TdxuSJjhRZgeF4bImheKcYB9pRKnllJwzfC4b/gCgaVfP60MrR/ykpAX9uHJhjP+mYFvbM3Qz4azduySZWQ5+W2dE/M5HFRXVeTIj3ybRQqrKK7NF5DEOTgqQEiO4DXc3fteJqgvWLqiLYYL5Mud12dK82ejrC0aX3fN6St6yUJK3+2Sd+briQOEzSYuuDt8+wsvS8YS9ozuyft5yVTEBrdxmchqG/A9SnumD0jEOh3Uu2c7ZNf7ryjxf0VZwLDQZ7pz+MpmdpSbon8Ss7eIENNSFEceg+/XpKKxViLVz04+gmpid94pc0k3Sl2POoubkl3y7B/f+szhNRdFfh+PTbBnyZ78Yvgg==;N9xskB2G3pghYuKM0nQ9GA=="
 ---
 

@@ -71,6 +71,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "3 High-Growth Fintech Stocks to Buy for 2023"
+    excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
+    publishedDateTime: 2023-03-17T14:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shop-pypl-upst-3-high-growth-fintech-stocks-to-buy-for-2023-1032175898"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
     excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
     publishedDateTime: 2023-03-16T23:33:00Z
@@ -97,6 +106,6 @@ related:
       domain: financialit.net
     quality: 4
 
-secured: "HF5GocxeDIFy4R7Ty3Wbk6x17YDLQ1GwbhmHUzAwhQXE2VTHwjhpo4DhmtHiFChbWPFiz0/3XU0fcCw/6Zk7cRsolZHIEucz8DGuqcRs6EoHPQ/Zf0wz3FhvakS8d/MCkFA5EdrdSghVoUue6cSELDQl2P77Y1WdHB1n2RXvpGSDajAo/idvM6zZbMugC2jz8JDY+1b32JOtsXjvaAcRBc3D2qZXbiwzD5R2i/3Dd1X9R+0W6fCc7Eaj+jvBaMTlb5M8eV8X/2Nt/qV9VLtd4tzOIK/CIKVVjL89HhUS9T97sqYVwPtzaN/XNz1pZ2VzTm6ClGrw9CIjVa/zjGNG7DUGTrNuyeyp8SUPtzkiSTY=;AwnvRJN9R+ZsrHHweRl2Hw=="
+secured: "NWf0rha1nrCMzO12pq6a+XHbgHG6v2/GR7N5Ldtw8tdliZUNHmBiqcuW0ODuTyDTboXBTHIqRSFnkosvvcodmNXEjTlsHG2ZjeO1IEiFRA7TitOOze8cQIvltsAkiseEIbUdac7hXbjXDAdnn7sm+y/azrqfvBGbSoONZI0r/iAQc2F2mS5dLRDLfRHrpFRgLz4VuNw6pM6kvjlL+2KTpkhzq0bDziptCkE1/iqf97KqE4Ksx6ByTFHv8GJvZKVsA3/LSwxdV8MC9yQRbacAGL+wrgkI2FU5X9Zf8o/XkXngFJWb/QwSMWaJhCDKmloPFvNMjazJJN6+mPZpPBrsmDBZs3Ri6ong1Jq10J8qp0j/OmGxWueIWJ0Fq2prdvJExnsJu14QeLq99Hr9nkEuckwIqkOphXHqidcaY79p9z99s7BuYswm4txFobs9VQKoqkDf1X7d0RDuQSRFP7WbCzdKDppIkrdY3c+PmhDyJFuE74QwlJSZkVCcks73pTwz1cPcnJuA5Uyq3S517Uv8SA==;TFM+NQ1AFjRfkoUTa7Ig8A=="
 ---
 

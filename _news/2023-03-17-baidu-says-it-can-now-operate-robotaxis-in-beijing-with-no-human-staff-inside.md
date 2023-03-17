@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Baidu get approval to launch driverless taxi service in Beijing"
+    excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
+    publishedDateTime: 2023-03-17T13:20:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "xf7VRQAAARfTHHAQh5BjkkO1/9qJ3KZ7+UwmbuC4CYRxkZU47efcv7jcwN5dSw8Q4Hp587xv0VPbVgnyzbW9ehGZ6jrDhR5lxUvmsfPbeMDDiSY4qJ2+uyHDb4qXT/tVwYWCHttkI7UPKMTX0h3enWcBkxugyYaSz+VWMIKuAIMBSbC6mdtmStSglDK+HAtk9EOw/dQBfsRJtn0sgKMOnv12tBY033Iikp2Hpf7D8ovOQGf5v32unJ70Dd6+cPHIczwm0UMEQCdfsWHdYa+PZEu+AHOGmA8yp7NoiAMs5gidBS41oH5SmWHAG+pA/Xi30OM8Pp36RfYc+EVaS4iP7C7eAWyGv7EbSV6Qzuz9ZVYQL5OYDL6GvVohiS7tMi45CCMtCE2KTtZCx+3KBChOMcezpVJzGWq6eL5CSdpPCqhTyAuZ71GVzo+LKDHRnrMaJJ2xdTfGjVxQds9D9uLSGar8lCHK55oGeJtOcdiQfGN8OiOqgB9tq+cHUKT6MPNhqaxRq6VoF68BUSFzaRVqBQ==;fmQVIRj/VXFy6QNqgt9B/Q=="
 ---

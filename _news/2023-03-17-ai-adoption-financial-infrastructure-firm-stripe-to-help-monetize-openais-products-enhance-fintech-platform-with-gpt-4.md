@@ -71,6 +71,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "3 High-Growth Fintech Stocks to Buy for 2023"
+    excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
+    publishedDateTime: 2023-03-17T14:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shop-pypl-upst-3-high-growth-fintech-stocks-to-buy-for-2023-1032175898"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
     excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
     publishedDateTime: 2023-03-14T22:57:00Z

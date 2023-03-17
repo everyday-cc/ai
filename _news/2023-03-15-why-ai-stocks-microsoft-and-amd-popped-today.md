@@ -142,6 +142,22 @@ related:
         width: 800
         height: 489
         isCached: true
+  - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
+    excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-adds-ai-tools-office-apps-outlook-word-rcna75373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/200327-microsoft-logo-ew-448p-acdab6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Microsoft Introduces AI-Powered 'Copilot' for Word, Outlook and More"
     excerpt: "Microsoft 365 Copilot will work in apps like Word, Excel, PowerPoint, Outlook, Teams and more. Just a month after announcing artificial intelligence integration with its search engine Bing and browser Edge,"
     publishedDateTime: 2023-03-16T18:36:00Z

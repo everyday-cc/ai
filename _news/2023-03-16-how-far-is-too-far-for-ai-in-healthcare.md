@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Is Congress prepared for the rapid emergence of AI?"
+    excerpt: "ABC News' Jay O'Brien reports on the promise and peril of ChatGPT and AI, as Congress weighs how to tackle the complex technology."
+    publishedDateTime: 2023-03-17T13:08:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/congress-prepared-rapid-emergence-ai-97928908"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230316_abcnl_prime_artificial_intelligence8_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "AewpXQ002EEydqzRfxGW/SzJhLKC39vWb+nvCJYKqy9qPIpfA+wAjqXwag+2VQxAEb0MKCBOJvcUWBAIfBk1+BkuvA92An/ykZNoAt/X7yitXGoZZ/8MezSKAKWbmekmVC1upKVD7o0lBS5JLXFIEi7x0Vp0pDINHUjGIF+WwKiwRbFSylwsjnxGt79HsgjAak6c9FHCKmbjIbrf4m5Rjkyei027SVsG1620aLOizTDDr/fIcdx4NDwI3hMM3oQjaQQdObVcYpQksNgHvhg3ZNb7i/YXsw8mu6ODAtpVjRp6E03xYQQyTnaDm5iWKKQI37zj3itOm/QrZ2KKqUoC+LWHGNnhGcm5BWxmQFlU+yo=;FquYTbYEMKv+H5PE3KNxZA=="
 ---

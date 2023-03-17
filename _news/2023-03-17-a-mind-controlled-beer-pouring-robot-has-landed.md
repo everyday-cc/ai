@@ -1,22 +1,18 @@
 ---
 category: news
 title: "A mind-controlled beer-pouring robot has landed"
-excerpt: "Its inventor says they hope it inspires more young people to become engineers. Video produced by Alex Howick and Emma Hallett A mind-controlled beer-pouring robot has landed. Video, 00:01:25A mind-controlled beer-pouring robot has landed Up Next."
+excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
 publishedDateTime: 2023-03-17T11:55:00Z
-originalUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
-webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
+originalUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
+webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Robotics
@@ -28,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "n7skQtOCYDTXRAudO416IhuAOF66EuNKDTbxbIjmw5S/vZVwXXQgWge59wAb4BxtH98SIOKMsEeQFOuMJfefyoAG4gI33taE4g7sy3YuGCtHaFEuI/YPGNSb6qsY8hW3QVXXtVUrrfcnyTp1yQiWfeQFp7Oi1IaWJWmf+7TtmLaYIKJJO9HReeK85xc6u3E4U/P83lE+Tkbzs+2lYE84gZGeDnlYxTZVMIi6+1Ng7Uqs4md4sITISqPf99taXB6b/GwT4ZG+0ahoJTyDujje8xUUOioKDoVIBiNCkQKWTnlEJL6wQCGGjaQqChQ4N6723Ocw4+PhOSxPFgBMNgjMVyR58eX9uAdavWqRy052gfs=;HYAAL23/Mm3v9u3l00mEww=="
+secured: "j2IloftF5agugIPFlkkeCSyVsfqGL5oQ9acaAQfaLaUm1sC/kpw2UNeopvW/QXlKcJs6VlBU64/FWtEqETFMg1Q96cnRV32w1EYOUTJu+NeGMFXe7Ex2JLiiSJn3beTFF2sF5ZC+2FBZNstVEko0sWuLx2CVsyJ4u/gKrc4aQWARWQlvDEPyrPb7ICiLQn+Nm36+nqldAafu+G0bgg4MmK6pPnv03kMKLfJfth/CUk5rp4CFiZmy8YIejziTQ7nsXQ2jNZwkdCuL64sC4jwoYphqi6SHLIcYh8KvvvjEfE/172hEtSLVFIc1Bbg6OwRKuhVRuScFmzHYTuxIthRimQ1u+VASJevHNX6Ftbhx3cQ=;4fF6MjQva8SW2a5W35GTAw=="
 ---
 

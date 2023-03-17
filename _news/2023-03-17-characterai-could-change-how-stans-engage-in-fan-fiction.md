@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74715"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74715"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "From AI challenge to AI success: How Managed AI is changing the game in AI adoption"
+    excerpt: "The core value of Managed AI for startup businesses is the enhancement of products with AI solutions, to ensure best-in-class customer experience and quickly gain a competitive edge without large capital investment. Managed MLOps is another essential ..."
+    publishedDateTime: 2023-03-17T15:10:00Z
+    webUrl: "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_570790936.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 689
+        isCached: true
   - title: "GM studying artificial intelligence assistant that could answer driver questions"
     excerpt: "General Motors is studying the possibility of an artificial intelligence voice assistant in future vehicles, according to the company. GM Chair and CEO Mary Barra, who was asked for details Tuesday by Fox Business channel anchor Liz Claman, referenced the ..."
     publishedDateTime: 2023-03-15T13:33:00Z

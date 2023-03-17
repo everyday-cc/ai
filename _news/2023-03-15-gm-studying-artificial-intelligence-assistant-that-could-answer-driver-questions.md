@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "From AI challenge to AI success: How Managed AI is changing the game in AI adoption"
+    excerpt: "The core value of Managed AI for startup businesses is the enhancement of products with AI solutions, to ensure best-in-class customer experience and quickly gain a competitive edge without large capital investment. Managed MLOps is another essential ..."
+    publishedDateTime: 2023-03-17T15:10:00Z
+    webUrl: "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_570790936.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 689
+        isCached: true
 
 secured: "tMRlvGvp31TIZyhAKEss+Khc6NGmFY2Jl/E20irLV14ARjeoq4QlclMk0BTnhbGcHYPJkxALZ3SHwD7f4Hlx9cjdmG3t4YbRrD9vh3bq2xjYhhG0f48ItxrfYJL2aQFVkx/mC+EgmmM+cW4S+2yq7a8a5G1XCv2DymAzCBY9OfEAMz5XVhlbmaqiTj/4vWVzqKL1sbF821o5ff2a/xLZ7fny/lNv5aihgoR0werR/8ix02/NI+DmK28cUCeEBdhhEEqXT0SXuScfUnMwCdfEtBOP9zfKbLCsmm3b1HHHGMD4JUssxVsRTXSNhlcxERLDrNdDRu1LWYP9bwsoeCk30W8vXlHqOphO/qJkMFAxbee4UB99N07QwHVeOWEA8L1tr9Aga8hoj1JLwU7vFcqOhqGTsokd/qruxOXcjlQxlc91gXa1Y8Ov3pdSAsvFQb1U8SYIHhFRW2jj/Wa82uIy1wL2jhvUd7P+CvkWE6PtfZochwqhYnvjzz8ArBZsfezQk5ySbrvvUy42qsKszkVBnQ==;ytHL2zEikKsJ0iFGkZhIgw=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 2880
         height: 1200
         isCached: true
+  - title: "Artificial Intelligence Should Help Vet New Research"
+    excerpt: "Have you ever heard that reading literature for three minutes makes people more empathetic, or that holding a heavier clipboard makes a manager more likely to hire a job candidate? The popular press has had a love affair with social science findings ..."
+    publishedDateTime: 2023-03-17T13:57:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
     excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."
     publishedDateTime: 2023-03-15T18:00:00Z

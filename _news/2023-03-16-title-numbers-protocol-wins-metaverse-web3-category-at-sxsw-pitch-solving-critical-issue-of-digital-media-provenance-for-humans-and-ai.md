@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 819
         isCached: true
+  - title: "Zuckerberg Now Says AI Is Meta's Focus"
+    excerpt: "It's been a tough week for Meta, formerly known as Facebook. This comes on top of a rough year for ... remains central to defining the future of social connection.\" Meta's AI Research SuperCluster will eventually connect over 16,000 Nvidia GPUs."
+    publishedDateTime: 2023-03-17T12:08:00Z
+    webUrl: "https://www.extremetech.com/internet/zuckerberg-now-says-ai-is-metas-focus"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "VgNocZfWirJoiLab8QZvhNe64yIWNBveNdwjT2ZTkvu97g/lewMK3guAfB8qA4sYO/nCOZi3VUwELSwRXoh50adEs1cLmmRuX3QqsOJ41csO9rOB5QYZ678SNqLk/0cu6F/W8z/i2s8BYgHwfxBtTju8XLiHwFD6HTDnV2CngfdSQMEC6LPH5bn4nbhLicNcXuquxarG4Sco3TtVbuAF3l8kJkMQwK52YLUQvcO6EuW+uJwLtr5GwM2GoAPTjAOD2z+DNmWPqTrwWSr750CLklXOYfYGWyJ6MXZxK+DfFDSjebYch57CFQiAcGDPbqAkOo8co4Q6rkmjFw8AvnDYABGUeIAz14rxCQ96tmuw3No=;cau/80q3qmOFD6Gr6E5WLA=="
 ---

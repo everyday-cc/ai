@@ -39,6 +39,20 @@ related:
         width: 1919
         height: 1279
         isCached: true
+  - title: "Baidu get approval to launch driverless taxi service in Beijing"
+    excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
+    publishedDateTime: 2023-03-17T13:20:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "rK+P6xYqDkb5KuTSx9+9WGrhWjSAjalZ7U+p26UtnjmcUnGQeHpckEc2sBYROWAfjp1TtX+bLqa2lC6D2XCw5qTPRYMtn7Hw+fW4+JzGJeYp500M9h9HayJ8cr2Ef/6w8XGhTpjisxfshGQhQJvNzQfUdcQYn3lmQTYsYy22O6a/A7WyS/rDkmaj3dtLA3JpVQzAdm8TIkg5HEnAZpOjRjxCQqiWGcqJufyxZeCLOYGWPrCXOyWY5HZC4l9PHtqKjFjKcno86yK13aT595sBb+aglNyiFZRGNXcmsPulJ/s82Hb3wLIIASzUkIdmG11vmPcoztXgzqa3Vnhi9Cdbgz0C5JbBl5uA8yJRZM73sqUCnZbqc36ra2LXUQaj5QIkwVm3b1M6qad/W1puqnf6vnisiXAROD5O0hbSPbxkw6gZD8bmTEhoYK1UOJdcX7iy5swHkvWuNbu6muCKaMx/RPuCBkK7XkwlXIodnWvoUOqDZg/nFl8FO/1ut72WStr91wdb0PkO4Zx+uCqggnIvTA==;rdPzDH7yCxOhNFnfBKZYrw=="
 ---

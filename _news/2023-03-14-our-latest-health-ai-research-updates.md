@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-theche
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Should Help Vet New Research"
+    excerpt: "Have you ever heard that reading literature for three minutes makes people more empathetic, or that holding a heavier clipboard makes a manager more likely to hire a job candidate? The popular press has had a love affair with social science findings ..."
+    publishedDateTime: 2023-03-17T13:57:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Google Shares Health AI, Large Language Model Research Updates"
     excerpt: "Google announced research updates on its medical large language model and recent partnerships to apply artificial intelligence to cancer, tuberculosis, and maternal health."
     publishedDateTime: 2023-03-16T13:35:00Z

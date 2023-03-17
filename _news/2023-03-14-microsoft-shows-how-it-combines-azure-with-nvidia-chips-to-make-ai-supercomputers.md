@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-wit
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
 type: article
 quality: 131
-heat: 771
+heat: 781
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg"
         width: 800
         height: 489
+        isCached: true
+  - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
+    excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-adds-ai-tools-office-apps-outlook-word-rcna75373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/200327-microsoft-logo-ew-448p-acdab6.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Microsoft Introduces AI-Powered 'Copilot' for Word, Outlook and More"
     excerpt: "Microsoft 365 Copilot will work in apps like Word, Excel, PowerPoint, Outlook, Teams and more. Just a month after announcing artificial intelligence integration with its search engine Bing and browser Edge,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-
 webUrl: "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 2000
     height: 1010
     isCached: true
+
+related:
+  - title: "Real challenge to build ethics into artificial intelligence"
+    excerpt: "“When we talk about AI ethics or AI values, the natural question to ask is, whose ethics and values?” he tells Inquirer. Australia to develop safe and ethical AI network At Flinders University’s College of Science and Engineering in ..."
+    publishedDateTime: 2023-03-17T13:06:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 54
 
 secured: "zCSuK6nHFJ2D0ed0uONHPnV2ZvD5vH/WDnCXQaZ0sER9I1VyjXHmV1oC3/AUbY874R2QAjqAaJHMl3DXkuCp+eFtCexi1HaBZo1bouhoRLAlwgQLSewju7EnGGd6ToWVq/dqZcDcQP0UQRa81mBaR72LuYJ7kwJCmhK0sHp1qzeu+CIfkAAjIyFrZ1BoCg0h5zuvihuDsGrF7lAj4D6VBRxXbnsbvPeqZqtB8HH9szkknkXod7Fv7uA4k+ftG9eanZZmeyLEu8WlXzYIKGgLhB97EzS1YLS9D3bMkOjRndkJALr5A+ex9IjykPENUPBgJqE8BYf3RijUsDvRxKjMC97O2tJTsIvmmizs1liHhmxghXMD7CFtxuuoR3d0oMoROVFumMCKyOwdUfvT5Q0RjsYaj19OE+aLAIENZ/vYEfmarbSCbldKbLOCPeZyH0F2AVv7GFPG6V02zbiOEiqc+RWz9BdNCCfehichYbnuVFGb2hHCaWStIkX1L399KMN3L2AEwQnbraPL6pydLPCKAA==;wEocSMfchvbE6HIKEKHXRQ=="
 ---

@@ -65,6 +65,20 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Will Bring Social Changes in China"
+    excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."
+    publishedDateTime: 2023-03-17T13:49:00Z
+    webUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 37
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "d+XiTLX3oD4vYNfK8O+QaoHhkM39jN9ceBUdShewE3MCsYXP11KxsV5MkwxFndqtOx3LPPOLALp54pBspWwlbE6swK/gz8GG/LB2QD2mX4ZWAFDWOVLnOkCP3k5pBiFxoXxeKxCUcKQwJqeaRrH+dFyHMwj8j1H7YLX8mNsr1dKcK7vdbwfNI910IriSpXfT8ru2As5idfICVF5GEV4kY7Sp0KIL3KAkP9ho0c6d8Cj/2WtL6fkg2odx4cHC4TlAld72jlc+FS/807sCInWzue6Q0ajV6hS8BE/+fqlBxtn0SYM6IazjzjmsHrhEv6rCccfE8ChlVdpSJpR7TZ9LFcOTryhvnisJXLmgDbsjy0E=;305Cy2O18KpxQ4HAhL5nuQ=="
 ---

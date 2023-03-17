@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Is Congress prepared for the rapid emergence of AI?"
+    excerpt: "ABC News' Jay O'Brien reports on the promise and peril of ChatGPT and AI, as Congress weighs how to tackle the complex technology."
+    publishedDateTime: 2023-03-17T13:08:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/congress-prepared-rapid-emergence-ai-97928908"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230316_abcnl_prime_artificial_intelligence8_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
 
 secured: "7xubWjLl5bC/Mnilo8/LqKO3Nx8cVXby3r/f2hSjGvN1LKOibt4EEn9jWuuAWP34El+7ZP3LRgwOOofnT2Vz+qSXghkTnP+R3kETuKqg+3R8oQXGscOh0jBNcRKn1RTCXkLzdrvUPIYLI8i8O3AUTTgrDpUsnOfpMUvgGWWqsk6dDbRdH1NnVdUlUtaBsfE4in3+sw0rTyTOzSIkLwPBTEsrVCkPQH2E4FaXtIUnerHoZxKx4rALdT+sI5UNTn8OQelYRj9FaqY9FT6atOtR7orLNjjcdQIY9Gil4VFZK1D5fqJcI19VUGscZoVd/lLiA4IbpCXHUDJZ4tgGdVpUjs2hVi8tJWXKyQRKnar0IAHhyBqQBI8aKyjdkFPUteVrHt3/jzrkAlzk7t1ebnc2c8pFpMmur0cxzkQYLOKdzZjt4nOMhMX/3WLNbU006asM5EqUxXBeGBCzv2tD8YSCXIPmQjPjXuipStiluPA0d8bcsSC43sXvSrkrmRrdpZ/+kyYfDSy8Ol/HbD4B9QdPBQ==;CI+OucdT0jey3RDx/jTtcg=="
