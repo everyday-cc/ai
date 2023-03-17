@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31372886"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31372886"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning In Drug Discovery And Diagnostics Market To 2035: Ongoing Pace Of Innovation Drives Growth"
-    excerpt: "PRNewswire/ --<br />The 'deep learning market in drug discovery and diagnostics: distribution by therapeutic areas and key g"
-    publishedDateTime: 2023-03-17T09:18:00Z
-    webUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
+  - title: "Best practices for leveraging artificial intelligence and machine learning in 2023"
+    excerpt: "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ..."
+    publishedDateTime: 2023-03-17T11:05:00Z
+    webUrl: "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?989169"
-        width: 364
-        height: 250
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1464427023-1.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Pf9KSIgXM+olsIGu4vSDdcVLNePNZy7FKXmbO7+2a9b2UmqoofsWlrdehvY6dvWDtqElEifzsQnmvieDB/zYBvEYBrJ2hByoiozAx0j5RBJRY2UJgmzAySixpmqTyw2jvQGBkDWkScGTfIc/g+7XireJyfBIIu8cx2JTooHR76WXiAGZA+eClwJxuBjlb0/jaqc71tDSKue94uATzJ3zlrDJWZwvsp80srS+217fC4Hykmk7+lzlKzT8OBzLF3/sx1wmRtTzxISNSmxwI1Uqma8OiuntEx6U9mHjldywfgTNlS+h0g0KJORawYKQbYTN9nRwC/E1oOQmB94eoBe6oIidtAY5qypPffxB/3hwl8g=;bKY5q6vJRb3zo0UMTEN0Mw=="

@@ -82,7 +82,7 @@ related:
     provider:
       name: AgWeb
       domain: agweb.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
         width: 345
@@ -125,6 +125,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "iHohkMAjSfZ+lwqdHN/LrbPlCcmgVunIIMQZyteVD0AcwPggAblMQ7/MnZ2EDDwfqnEOrb6PaHipyK/UvynUhydXMBA2+aZizVJeuTBYuMRl9KG+Ggw2Ipl1f3GE8xJ1U4ia9v0puE3fx/qQotktJvL+cpSwXgzv9u5K0Y5ef3MxZPblPeHsjwb4+r7TjVlRcBvICMe6y7x+S81QizwGnAjb8lFmLqJYdv8VqHr+4buG5Muw55Yc+qyG4sF+XmeccJtKloYHcNujgzaVtRI9pgd0yVI5zpOAdPuhI/N/37zmbRLbGM5K4LtYCZ8z21VKYx0mimQn0XJJovQCH9BOeySiPJ4uMKvCV74fYZwXhmc=;w6HhgRMi0Szg4y/ZKnUlLA=="
+secured: "SN2pig65q5DR54d//M+Iw8J9v+OaQkd+/pRpml8GDDonJc4hCP/fDZwC0Teq89RNTDQvsByMP9Jou2UAzn1aL+Ed/vQDnEIctLn0gSKnMxO8jNYOA4XEvlTpyxMbp8xCfQBqGE9y7P5tWpDuarkDbMYFJG4fdHNKFJOigrCbyS1EiT5UJZWDPUde+mySaJXas5KAm5rwlHfbWb7FkWXB3R+hAiKW/NTDDS+kkxhCkUxFwCuBfwxd7DDLCtGobz0HCV8y2cz6D7fsP3P1sitR31Mrz/xkCTcZYEWrf7sQG8m9W3clRtGcvt/mR9+GC66PCwy+vR7KTJChOuDDEwMYCdw7RjN6S0HUhgIV7KSBCwkR/SS/vU2R+8DCQPgq/7qajeQ7Z9rf19dKgoZ7bDvKGec8ROdN0sCf5/KQQhmUXMghgjdIEeSCiX9qDdue+AVIpvV3T7fWfPFCfNbVzPikgzVRg8L/C7Wh3+gyiEiwAcEjgwtMaBFLLLth61FUl/XzBrbIOr3+AVVSVQ5t0FzaXg==;L/G2u2zvP3pXy11yS7OW9w=="
 ---
 

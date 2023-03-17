@@ -88,6 +88,20 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Amazon sued for installing facial recognition ID"
+    excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
+    publishedDateTime: 2023-03-17T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/56544-amazon-sued-for-installing-facial-recognition-id"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ee019b5f98d7cef91d2bfeeeb8abc00c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "BMy8+S5f+/a29OgXuq3VLEJMaB7n0GuIJj87xUV1nyCGz/byQtzYrlTeR/qWWC4RksV/IiVbAD2PsPdt+AtMY68BNmOndyyMOHeAvUvvcJv9vG/ABihq+znDxo6iZw8E5uzplawlg5FCvC6p9SGQWM9qfVydMwaGr2mTpfYKpx5M1HLtVZVHQ5dlQTejKqmLnoUnyixgQgPhszKFUPrg9ibjUqW1jLiGudBuAui7m2riI6L1dh+YoCbiZgmn2j9KYB9jNFglX9VLEjKqLSt5rMR0rBEZ2vPqpFzaq20+zB715o/BdtFDRzJOjgdd+VmmiLjpvgw49YgkEJDJj7Dqf1ERetgVGEQSnlj7SNjtD2ZJJZYiocikV7MhmzuypTt/uD7JG08Awq+LFJ9y/g2mQ+LjZrcNKcTa292gBuGRHVvlKB2MBVI/80V94GYoXhVVvaINpFTWpMDN5Lac3djUUDiI+c4Sn3lTEIb7LEYeYkE6NoLzvqhq15nqXIuhMxx+tU104NEIL3JLGxTmgdbGTQ==;MsxCQxU8kp1XUMSoFEPL4A=="
 ---

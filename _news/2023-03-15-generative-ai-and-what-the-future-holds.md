@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT broke the EU plan to regulate AI"
+    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+    publishedDateTime: 2023-03-16T17:27:00Z
+    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
     excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
     publishedDateTime: 2023-03-16T09:11:00Z
@@ -204,6 +220,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
+  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
+    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
+    publishedDateTime: 2023-03-17T11:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 50
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Exploring The Ins And Outs Of The Generative AI Boom"
     excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
     publishedDateTime: 2023-03-14T13:48:00Z
@@ -330,6 +362,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2023/03/27ba2d82fe7d991f094faa4e79da3632479d657f.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "John Oliver is wrong to worry about ChatGPT. AI can help us solve complex problems."
+    excerpt: "And not just because we both hail from the land of fish and chips, Morrissey and Monty Python ... specifically the Microsoft-financed chatbot ChatGPT. “The problem with AI right now,” Oliver said, “isn’t that it’s smart. It’s that it ..."
+    publishedDateTime: 2023-03-17T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2023/03/17/hbo-john-oliver-gets-wrong-artificial-intelligence-chatgpt/11464792002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/12/06/USAT/d5f3a6cd-84fe-4999-8ff5-416379eeae0d-john-oliver_1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘Artificial intelligence without great data is just artificial’: Generative AI that predicts what and how we eat unveiled"
     excerpt: "Tastewise already incorporates generative AI to help users at companies such as Nestlé, Campbell’s, Mars, Givaudan and PepsiCo, discover dish concepts, validate new product ideas, and generate market research reports. The AI-powered market intelligence ..."

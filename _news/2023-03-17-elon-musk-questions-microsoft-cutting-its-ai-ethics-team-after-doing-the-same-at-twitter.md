@@ -313,15 +313,15 @@ related:
         height: 540
         isCached: true
   - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
-    publishedDateTime: 2023-03-17T02:58:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: WKBW
+      domain: wkbw.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
@@ -827,6 +827,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft pimps Office with AI"
+    excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
+    publishedDateTime: 2023-03-17T10:16:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56546-microsoft-pimps-office-with-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4bf657d3d4c3bd5f6177382bcc993a64_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
     excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
     publishedDateTime: 2023-03-16T20:37:00Z
@@ -906,6 +920,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "uaQB0DX+U2LEEmSvD+cs4LyXA5CZf31+foZsg7DtQ+NXXKOJtQiG1QNUkInIQ29vYJc11XKKxXsaGL57SN4ur3UU0ja8SVSBEA6IEFHCH9yMGYq0C+iACOlYJl3fVaEnIxQ0Ugwh4VDBE6X0TOyqyJ/vnDo83rbAvgy56GxFxf7+WanYQQ2jNNCu2uGi9rNtIQ4++mINyqO2jRtv06LMmFBLMCUXYAjvSY51r77AbxXAhRhxMqhrItBQuMTe+1AsYdMfudnwuF7B8EVTwKS53GftPFRgxQPnjwpkRZk6ds6WCX5du9b1BJ2B01LGTe/dzhvH+skPDdv153qQsbqgXOQalsX7NMKuw0ZoTG/7gYM=;0QjEPbqtkoYpQv19rxanVw=="
+secured: "+/H0gIqRhbpCtpaqGVlh6fMZxYzsV1fGA0PX4wmieqmZQZfCJdlgCpiyKn+sW4H2ZWg3JjmCxbyBaUXxj0dxhPv5+yxFHOmy9ZS9dU2AWmDi2uf+IG3O8u3TawLKAF0cqZsKgyXl2X1DJ6hC/1TtVosoylvFw0kT0d20wYJwnU1cuGYpmUaZQLSIrZvTMkTV714ad61wV2RUl/spLO3xUx/PgGk+sw5wXX4TvLGWFslt5RtkcLy8g5C/q46rH4eSA8rw3RDnNCFmIscRPH6ducKQCU22nxIPQEXqxgZ3uAJE/2B9rlrAGT84AmtqdyZxmKHoq3ry5bfotcnWj0EAJSr9AodOXiPaXDfBsepnvhh0D7vUCVZjj+IZy+ja5/pjdWdzysbi7drHsquQikG4GDjrg/R29+jLHHDVEN+XDNneOBAPZuQkvorZ7LSdr9Pu8gns68Irz3iKPzB9qmuKj/4L7P2mIhG1X44pL/vDSWnhWjVhxWyE6lChMOsArWzunLkxNBwge0+ojvaxXP4PEw==;hjukH4yoO+RG5tBTrPDdZw=="
 ---
 

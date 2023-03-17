@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-14T17:07:00Z
 originalUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
 webUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/art-artificial-intelligence-history/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/art-artificial-intelligence-history/amp"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

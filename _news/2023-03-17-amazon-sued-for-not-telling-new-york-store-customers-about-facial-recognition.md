@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.slashgear.com/img/gallery/amazon-hit-with-lawsuit-for-not-disclosing-facial-recognition-use/l-intro-1679010420.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "Amazon sued for installing facial recognition ID"
+    excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
+    publishedDateTime: 2023-03-17T09:46:00Z
+    webUrl: "https://www.fudzilla.com/news/56544-amazon-sued-for-installing-facial-recognition-id"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/ee019b5f98d7cef91d2bfeeeb8abc00c_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "4XRkphOPtmWUMf9TwmqZJH6RERHD/72ITHrobRjeBuNFY9Q7a7kSeSPHyzcAKqsfzcFAP/Wvy6GWtcaCn5kQSNy/sSfKwe4Oaw3FcYALuMLGqHzgaZDv/e9G0QKlOEHFK3hVrBSibi3tNaU8NOguaBmEE9tlHOQukeYnW22CX4wquIlIQvC4wAMEUn3vf9Ij/NRMB/ry2FpNv8cGzCma4kM/TboQroKQ6MyMYPkuy4XIZ1ynWdDQPKoxWS8H/nklPaiEp80OdY31LK0iC9AybPm8FOQWj4zOvpO7lu/PmXXnzjDsW+iTXsIQFBeRsQIk1Op7oHeI3qPujMr7hMimGkIAMKR6PRRGg1y+1jCJhzivwX9ZEg/Q7flhn560+qIaM1WNj6X2uZ+rog44lO8K4lG9FuJO9ofXRSFNfVbzz6CZe/gjn1Ij5sKlRY/O+y7gO+B/eFZFrF+4ciUZPAA7lsOaT83NMaacVIJZni6TbOutiXqSeXhnLgPf2JdbOMKrlyhNmPsJ/J36Opbz77t9Tw==;MwOLzIjclBD5NDRWU3ppqg=="

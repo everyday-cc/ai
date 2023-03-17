@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-excerpt: "The outlet Platformer, which focuses on Silicon Valley's place in the country and how it works within the framework of U.S. legislation, reported that as Microsoft continues to build up its ChatGPT AI project, it made its \"entire ethics and society team ..."
-publishedDateTime: 2023-03-17T02:58:00Z
-originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+publishedDateTime: 2023-03-17T05:54:00Z
+originalUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
 quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: WKBW
+  domain: wkbw.com
 
 topics:
   - AI Ethics
@@ -827,6 +827,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft pimps Office with AI"
+    excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
+    publishedDateTime: 2023-03-17T10:16:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56546-microsoft-pimps-office-with-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4bf657d3d4c3bd5f6177382bcc993a64_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
     excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
     publishedDateTime: 2023-03-16T20:37:00Z
@@ -906,6 +920,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "gGKN3fep9igv22zlmxQofyZGRcUJjA+FszwsG49xRi0y7eItJP84ZY6iPtKyDTqNdDmt4h19YUYmUfL3D+BK0F18gjmwt+kBMRS1lTS3ERq+re2GJp1gdQyZ/EddGE1MVgTdPZMsOgRw0jJiVEffF6R/xsIqGArL3V8L25SnShKB2rZ6lYJ7UB+nH+RQ7wT6nPDGJLHJMMfybEV/EQyTL12WtO4M7sGQPrf1YSBgYFP6Iaq6m1aBwIEvenm6kg2fw3OYTjNVkOBSRt2+WTE93Zt8siZTtNMZ3S8SmOhHdOgmhp/j73gRqW7JoW8R1ywSxE2/3P4cutDm5kXG6/Ncv9MHzFBjE9gR0FobyxgQ2Q8=;NSQDlItybMwxOsvs/4p2sA=="
+secured: "xFIIo8plkNv83DJCqrNecv4M2TbouAqP25nlxkl/5qupPrTI1cuBZd87/BpgVowvDrkrpDRE2rsCUnO0ALwOs8Zl1AFOyOKrXjmVNIWq46fvzZrEkO18xRiHVVERGFhhfA0mn+3of0DnZd9xesxmqyQMLndsqELI5We/SQB5rs5f4JwaKWYZJvr49dOlhmCXr0SaR2XY/IL30Jwk2sKSxMOT9Hz4icWovmxBjW+NRtqvGi2dDRPPfjWp3xOuc+S+n4+J0deAGOsY9ykvSjXYsKu1BfsF8+Qt95SlKAk7UXiAUQX6Wd021kIyQyhtcjwUwqyFIVqgDxfnKAUzS95XBLjqe7T/rIyDdcU0dh88FEQ=;RXGkYW7lnKg8UHD+zie1HQ=="
 ---
 

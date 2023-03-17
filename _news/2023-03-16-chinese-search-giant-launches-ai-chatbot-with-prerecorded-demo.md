@@ -81,7 +81,7 @@ related:
     provider:
       name: AgWeb
       domain: agweb.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
         width: 345

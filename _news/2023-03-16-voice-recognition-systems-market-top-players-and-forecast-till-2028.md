@@ -239,20 +239,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
-    publishedDateTime: 2023-03-12T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market | Industry Forecast 2023 - 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “Cloud Natural Language Processing Market” information for each competitor includes [ Netbase Solution, Digital Reasoning Systems Inc ..."
     publishedDateTime: 2023-03-16T00:07:00Z
@@ -635,6 +621,20 @@ related:
     excerpt: "Mar 15, 2023 (The Expresswire) -- Artificial Intelligence Courses for C-suite Executives Market 2023 with 107 Pages Report and enhance with extents shares..."
     publishedDateTime: 2023-03-16T08:05:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-courses-for-c-suite-executives-market-is-booming-globally-forecast-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market 2023 : Geographic Expansions, Technological Innovations In The Market"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market ..."
+    publishedDateTime: 2023-03-17T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
     type: article
     provider:
       name: MarketWatch

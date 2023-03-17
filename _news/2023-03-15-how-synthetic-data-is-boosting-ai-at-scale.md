@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/3-Scaling-AI-responsibly.jpg?w=1200&strip=all"
         width: 1200
         height: 598
+        isCached: true
+  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
+    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
+    publishedDateTime: 2023-03-17T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
+        width: 1200
+        height: 799
         isCached: true
   - title: "How the quest for AI at scale is gaining momentum in the enterprise"
     excerpt: "With the latest technology, increased computing power and advanced data solutions, the quest for AI at scale can be tackled as never before."

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Reliable Robotics and Aswin Sarang Driving the Future of Robotics in Dubai"
-excerpt: "Aswin Sarang's passion for robotics and AI began early in his career, and he pursued a career in robotics that eventually led him to start his own robotics startup. Aswin's expertise in robotics and AI, combined with his experience as a life coach ..."
-publishedDateTime: 2023-03-16T20:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/ab31388811/reliable-robotics-and-aswin-sarang-driving-the-future-of-robotics-in-dubai"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31388811/reliable-robotics-and-aswin-sarang-driving-the-future-of-robotics-in-dubai"
-ampWebUrl: "https://www.benzinga.com/amp/content/31388811"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388811"
+title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
+excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"
+publishedDateTime: 2023-03-17T10:56:00Z
+originalUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
+webUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
+    width: 375
+    height: 249
     isCached: true
 
-secured: "aGKQZ97N90q06mXsUw8yTJ6qkd2i5CeXwvU73qQDCWmuqLsjeW4oeHRX75RAQTTr7FX5lqAk2sDAq+iKZgUBf0kYKi70X3q2KSq+dwe+Sk+RVXj8D34VnNoQ3dxlQRW8Srx8s68YGdbRXzIabxrp3h5rlsbcpNNpAvGbJgGfajeOqrbU9oirodRdrr0APDudA9mxIS0/598oMK5MnytHmpYXHbgDfcXUmHgg0uxhear5BNWJUuX2EfzUAC2fuLGrnA5kTcKPRzzRCZ2JcxC+H8zrWnspAAAQDMqI8cQ8RL5WpoxNpjrHuCZXSyOCikxVQc4mmQiVuvJzVY3m+VEMnbNCMOIRsd2Jd/FzOoPlqaU=;W2C4xM7uGw+U1oaGKFI1nQ=="
+secured: "Qrja2G+A+cXCAv+CSWN6ZQgiltXfjWkTBtBVDoEzsAPg5uENy73N4EqmFHeoP7zl4GPd9WojtVokeFi8AltNKDG7zHNY+xv2jb6Im48c8F6yAVEvjNxAeaqTHcGYESj0b+J3s6p9V1Nws6g5Ivxe1MuSOZlkjirydwFa6ajfS322chDsIPBeueiK2Ix36gyiACbb4eQFC3AuOgRDh7nTlDJ8OQl9nP0nBLkmU2WNjkcr+HHg5l1R4TzfR8I2tfnMyTqeEGk+d20IJSFYp6AxtNfHxX692ja4MH6lw50ZqhuOnbn1Dmwh88bu4SIoWOo6e5lQn7c9AXizzxOx8oR8JqpYbJMwIhhByrQ11FXPKts=;ccoHotBWgoEv1SauXbIl1w=="
 ---
 
