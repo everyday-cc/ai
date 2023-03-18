@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
         width: 3000
         height: 1687
-        isCached: true
-  - title: "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants"
-    excerpt: "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT."
-    publishedDateTime: 2023-03-13T07:13:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/84ddc0c0-c116-11ed-adef-395fc59ecfdd.cf_.jpg"
-        width: 875
-        height: 584
         isCached: true
   - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
     excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."

@@ -43,6 +43,20 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI and Its Implications on the Indian Healthcare Sector"
+    excerpt: "Artificial Intelligence (AI) is transforming the healthcare industry in ways that were unimaginable just a few years ago. From disease diagnosis to drug discovery, AI is making significant strides ..."
+    publishedDateTime: 2023-03-14T06:20:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/ai-and-its-implications-on-the-indian-healthcare-sector.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/ai-and-its-implications-on-the-indian-healthcare-sector-2023-03-14.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "XQ8xdhWb2tANKllE0mjaAFAaZfuP6Ivkd+KPpiTgsN9m7KHAtqkdoj3bCM+DV8+c1kd93PMHlKjg/p1zjzLxfJi2bbn1kng8btc93npj25nm4QfbEdHYHNoFYAYIg7T/OL0XrJWVukCkirMPkV7F1PUza4VuHmHnWSmj3VeiscGHc5e06lzIJSMlxhiOj/dbc8v3olgFqkPU9QFvxx0AP+rx7hqwz41HeMIqmHE0rI50mfIMsmUfBitsFzR7Sm9BIM2V6qLFu5t8E5Q+gm/pWDwxSeGg2CCoy7SI7qZA2sVxRjkHHD8sdJjttsAPAazGi7iWvUu1xAQz5+E2PFHIIAZxM7xIiw6oN7yuPkQSxJ0=;nqw7iNUriGMAFpLpifyKiQ=="
 ---

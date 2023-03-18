@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-08-why-amazon-web-services-is-going-to-space.md",
+      "title": "Why Amazon Web Services Is Going To Space",
+      "excerpt": "Credit: Blue Origin Back on Earth, AWS already provides cloud-computing services to the space industry—for example, to satellite companies such as HawkEye 360, a radio-frequency-sniffing satellite operator that used the Amazon SageMaker Autopilot ...",
+      "sourceUrl": null,
+      "webUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
+      "originalUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2023-02/aws-1_d-orbit_promo.jpg?itok=DJnXFHYI",
+          "width": 595,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aviation Week",
+        "domain": "aviationweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-there-is-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
       "title": "‘There is no standard’: investigation finds AI algorithms objectify women’s bodies",
       "excerpt": "AI tools rate photos of women as more sexually suggestive than those of men, especially if nipples, pregnant bellies or exercise is involved",
@@ -1170,58 +1214,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-01T09:52:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask.md",
-      "title": "Amazon SageMaker built-in LightGBM now offers distributed training using Dask",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-built-in-lightgbm-now-offers-distributed-training-using-dask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/30/sagemaker-lightgbm.jpg",
-          "width": 1564,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T10:10:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

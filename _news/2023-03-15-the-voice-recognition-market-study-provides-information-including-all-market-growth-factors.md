@@ -57,29 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
-    publishedDateTime: 2023-03-14T15:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
-    publishedDateTime: 2023-03-15T20:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Dlr/yNrmqN5+jSGX2CpVMnen7QDZwqeYPgCaalCb064mwkqKZfkd0G1PsP/vUzHOTS8Ygk0Wg7IIDRN0eWcdNiH+l1m3mk+/G8dylOJpdNPXyEIpE6WzK4vI4lx96ow/l7Ea0wK76wZQFxWQS9JldH+8tMs3MnuEKQN8FvdYdbT86qUJuPQGxgUAbzVu5lQlHHBGgPGpZLhwBucC1zdZ3+4zX2tjy96DmCVt++6RmH+TKhT8/ZaDYiC1kGv4KSYaR6aEccSX+eE46Yh2V+K4C/iIjDy2DRvZ9OqF5GJHpGMZ3TXMf/fRFRrsty9tT6/N6aytM9ShbBU60vOMFdjWxdTm7jiJp1XsnhmZ9JooEnI=;2qKSQW0qoRJntublG0wg1A=="
 ---

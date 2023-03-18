@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -29,76 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
+  - title: "Automotive Voice Recognition Market : Regulations, Strategic Industry Growth Analysis, Market Size Between 2023 to 2030"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- \"Automotive Voice Recognition Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market"
+    publishedDateTime: 2023-03-14T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-regulations-strategic-industry-growth-analysis-market-size-between-2023-to-2030-2023-03-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
-    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
-    publishedDateTime: 2023-03-14T03:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
+  - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
+    excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's Five Forces analysis, and competitive environment are all dissected in detail in the research."
+    publishedDateTime: 2023-03-13T19:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-x-ray-inspection-systems-market-set-witness-unprecedented-/2023/03/13/9775872.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
-    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
-    publishedDateTime: 2023-03-15T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
-    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
-    publishedDateTime: 2023-03-15T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
-    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
-    publishedDateTime: 2023-03-13T08:53:00Z
-    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 27
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "SJW0wR+C8HAi43bJIE2RVr5QOv7VPdv//+tPpxwUGmGbsvThnpvROe8OoTXLzgH/kkZ3UG9aWtkfhF1q2VMLA/qnNdY7s/cjo6bpVHFPXuoRJKkZgMWtZGcDud5JQS0hPXc+lTwXE60LPWZ1gvobFPc+GC0YB5GXlJOn5MZNjezo4kWr36p6Q/ommRw6cd6oMi70zjx40ZmUe/F39b/hVAaeD4C2cDlbDKh5oCrG6h3TxMruyV+3bORHkHRony+5rrQ2pr8Uk282l2IHA3c0xSTBhtgfpnBe4aoKg2rDhWxWkkO8CydPxTdvBrRHavVJfs8UZ4rF0AygBd8tpRo5K2jgelcVcWLyc3mIxgUVFrs=;VV0PfB1P9nBD06YJr3nzOg=="
 ---

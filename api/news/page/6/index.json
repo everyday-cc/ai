@@ -2,6 +2,151 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-13-grammarlys-new-ai-tool-can-do-more-than-check-your-spelling.md",
+      "title": "Grammarly's New AI Tool Can Do More Than Check Your Spelling",
+      "excerpt": "Grammarly can check your spelling and grammar in real-time, but it'll soon be able to do more than that. The company is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo that the company says is intended to improve communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "publishedDateTime": "2023-03-12T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-12-how-ai-and-machine-learning-are-revolutionising-business-intelligence.md",
+      "title": "How AI and Machine Learning are revolutionising Business Intelligence",
+      "excerpt": "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg",
+          "width": 2074,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/",
+      "publishedDateTime": "2023-03-12T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-12-tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks.md",
+      "title": "TikTok Has A New ‘Bold Glamour’ AI-Powered Filter, Here Are The Risks",
+      "excerpt": "TikTok has released its new Bold Glamour filter that can remodel your face in an unreal way that looks very real. And it's already garnered real interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640d230a750aeccba86bedbf/0x0.jpg?format=jpg&crop=357,267,x10,y0,safe&width=1200",
+          "width": 357,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/12/tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks/amp/",
+      "publishedDateTime": "2023-03-12T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more.md",
       "title": "Weekend AI News Roundup: AI in BPOs, Chinese students accessing ChatGPT, Inker Robotics secures million dollar funding, more",
       "excerpt": "The companies recognise this. The ubiquitousness of AI will therefore force a rethink for business process outsourcing companies on their staff composition. Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and ...",
@@ -1069,153 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-on-asphyxiation-from-trains-and-other-inaccurate-predictions.md",
-      "title": "On Asphyxiation From Trains and Other Inaccurate Predictions",
-      "excerpt": "“I think there is a world market for maybe five computers,” said the head of IBM in 1943. And “What use could ... Rather than announcing that artificial intelligence will become sentient and rule us all, we should examine the various applications ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/technology-predictions-history/",
-      "originalUrl": "https://www.wired.com/story/technology-predictions-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/640a4ab0d6703b9a3671a876/master/pass/ideas_history_tech_predictions.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/technology-predictions-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technology-predictions-history/amp",
-      "publishedDateTime": "2023-03-10T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-which-stores-are-scanning-your-face-no-one-knows.md",
-      "title": "Which Stores Are Scanning Your Face? No One Knows.",
-      "excerpt": "Our reporter took a five-mile walk around Manhattan to find businesses that are using facial recognition technology. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/12/multimedia/00face-walk-msg-fbcl/00face-walk-msg-fbcl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
-      "publishedDateTime": "2023-03-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-artificial-intelligence-ai-in-healthcare-market-size-to-surpass-usd-2585-bn-cagr-of-3873.md",
-      "title": "Artificial Intelligence Ai In Healthcare Market Size To Surpass USD 258.5 Bn | CAGR Of 38.73%",
-      "excerpt": "Artificial Intelligence (AI) in Healthcare Market refers to the use of AI technologies, such as machine learning, natural language processing, and computer vision, in the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
-      "originalUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-03/10/EP_5573cimage_story.jpeg",
-          "width": 764,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

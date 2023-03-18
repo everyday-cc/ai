@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/uiyehb/article65913134.ece/alternates/FREE_1200/26EPBS_DIGITAL%20LITERACY.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI and Its Implications on the Indian Healthcare Sector"
+    excerpt: "Artificial Intelligence (AI) is transforming the healthcare industry in ways that were unimaginable just a few years ago. From disease diagnosis to drug discovery, AI is making significant strides ..."
+    publishedDateTime: 2023-03-14T06:20:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/ai-and-its-implications-on-the-indian-healthcare-sector.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/ai-and-its-implications-on-the-indian-healthcare-sector-2023-03-14.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "iDVHd7GTCGP/xTLrhTQE4Qw82wsxvoFGzx63yGy3yDzMf2rB7pJ6L83i9ItmyRes1XXlvce+JUnfXkSh/I2eYlNIsyoDsV9h/+BkfEazgyRqF2KWQkGcFqSI7j3iOBP8KDskkpzhNJj1wXVXKc4XS1ciOdFIGVUYe///pEDKc2CaNxI816x4aSErYtTxAJZkeyw8yj/+/Wcq1YBJTHaoBob/NkO2nZq5fj1Y3rNfblzpsdyJuyz9pdqfAg1n7XDTty+QdVrpXmBmXkMG30Q6xqTtZ/i0ChnTYEmtryNhwwE+kX128vPolfXsxwoAANKLOfF9FdrPiQssZ7yeKzVNV8h6jN0kl7A+e6kWtdBIq4Y=;ZhQeMBJoZf2drr9Du1XihA=="

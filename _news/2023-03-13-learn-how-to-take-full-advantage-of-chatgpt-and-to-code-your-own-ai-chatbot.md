@@ -209,6 +209,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
+    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
+    publishedDateTime: 2023-03-17T23:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        width: 2250
+        height: 1500
+        isCached: true
   - title: "6 AI tools podcasters are using for new ideas, editing, and more — and why they're skeptical of ChatGPT"
     excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
     publishedDateTime: 2023-03-15T12:48:00Z
@@ -434,6 +448,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
         width: 678
         height: 452
+        isCached: true
+  - title: "ChatGPT has some thoughts about Aspen"
+    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
+    publishedDateTime: 2023-03-18T01:27:00Z
+    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
+    type: article
+    provider:
+      name: The Aspen Times
+      domain: aspentimes.com
+    quality: 24
+    images:
+      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
+        width: 612
+        height: 408
         isCached: true
   - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
     excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."

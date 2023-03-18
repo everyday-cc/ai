@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/cag-bats-for-responsible-arti
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/cag-bats-for-responsible-artificial-intelligence-use-flags-privacy-concerns/amp_articleshow/98606410.cms"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Don’t overlook independence in Responsible AI"
+    excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"
+    publishedDateTime: 2023-03-17T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in-responsible-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "abKwIUyWGhWEB3bHLnJ4NEBdafIt25U2acliqizCfRPcel2elkZCegMYpxxAC7pV2BRD3bIopk0H+72aWO6shSuUpzo9EUHZSVhCDPgb4t2BS+CB6XYnfxkfXpOFCp2UeyKhyec+gB901v/w8r3MzVyrNPv9YSioPw/JdpZkqceAhkvijWJL8iP9rOtIvRmUR9l8v3DLL9+dAgFn5AXHMvCTjxGYtVFEsSGtwH+FqoSjvljAtZfeBTSUdAvhbT3iSSmH4iGu090agrvRha+mQlAFAWOUZccIMyCTOF5wpvzdUyXaYeLbNi3KZWFaN5gJDRzhhq0cPRMjCp/Vfq3SZtIxg26p65tGyk8JctX9oXw=;iTfM7h58qyvWxRn927CraA=="
 ---

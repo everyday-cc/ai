@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15"
 type: article
 quality: 99
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -363,22 +363,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share to Surpass $64.5 Billion by 2028 | Vantage Market Research"
-    excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"
-    publishedDateTime: 2023-03-13T07:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31313781"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31313781"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Global \"Artificial Intelligence (AI) in BFSI Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Global “Artificial Intelligence (AI) in BFSI Market” [Latest Research Report] 2023 provides a comprehensive analysis of the industry ..."

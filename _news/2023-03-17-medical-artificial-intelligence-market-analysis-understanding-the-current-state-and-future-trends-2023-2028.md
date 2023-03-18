@@ -28,24 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]"
-    excerpt: "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ..."
-    publishedDateTime: 2023-03-15T22:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15"
+  - title: "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ..."
+    publishedDateTime: 2023-03-16T08:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision System Market [2023-2026] | Growing Industry | Latest Report with Top Countries Data"
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market [2023-2026] | Transform Business with Our Proven Visionary Data"
     excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-13T10:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2026-growing-industry-latest-report-with-top-countries-data-2023-03-13"
+    publishedDateTime: 2023-03-13T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2026-transform-business-with-our-proven-visionary-data-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Make Informed Decisions with Our Detailed Mobile Speech Recognition Software Market Analysis and Forecast [2023-2026]"
+    excerpt: "Pages Report] Global “ Mobile Speech Recognition Software Market ” [2023-2026] latest research report provides size, share, growth, developments, new technology, trends, and forecasts for 2026. Also,"
+    publishedDateTime: 2023-03-13T11:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/make-informed-decisions-with-our-detailed-mobile-speech-recognition-software-market-analysis-and-forecast-2023-2026-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-14T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
     type: article
     provider:
       name: MarketWatch
@@ -56,15 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031"
-    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include ..."
-    publishedDateTime: 2023-03-13T11:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-03-13"
+  - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
+    publishedDateTime: 2023-03-13T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/exploring-the-natural-language-processing-nlp-software-market-2023-2028-a-comprehensive-analysis-of-emerging-trends-and-untapped-opportunities-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 20
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aPncV1M9/gw/wHmuUIKKBDlMysocqi2cl5lGk6szRFuyouInEi9Xg0+/EoJkZxspWnwxXeamfK+kiqqTnk6AfTMNe8m9HX7VqYkjy02jhBAhXbeHhrUH+LUQ71KvLMpjbWJt29kQTv5+xpJJ46p8YMUAwKlpF7xPKH9fpzXRshz0hX1xbj5iz8GjCLt7Mi/PkB16j3kmJ7NJsPtnKxzTkb/ZbrMb0ITaUae6fkWQgY8tGRTWaGAPc9cu60wlE/I9ZWSCsoVzB6iiUdjDDv/PNKwm9UaDLl/MDJrOkBsobItful9TZ9BRhUXRTNpWgR/V5VkAVeuwz1/yhVqvcwY3/3CV/kxVnwPsJJAqSm50n6E=;C2qDj5zZ3Ocxc11Z4DwEnA=="
 ---

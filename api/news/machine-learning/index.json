@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -158,15 +158,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-16-deep-learning-software-market-latest-trend-and-future-scope-2023-2029.md",
-      "title": "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]",
-      "excerpt": "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ...",
+      "path": "_news/2023-03-16-global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis.md",
+      "title": "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis",
+      "excerpt": "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15",
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -182,7 +182,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T15:00:00-07:00",
+      "publishedDateTime": "2023-03-16T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -610,6 +610,59 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
+      "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
+      "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1358,6 +1411,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-08-teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.md",
+      "title": "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning",
+      "excerpt": "SAN DIEGO, (BUSINESS WIRE) -- Teradata (NYSE: TDC) today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and data platform, with Microsoft Azure Machine Learning (Azure ML). VantageCloud’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning-2023-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning-2023-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
       "title": "Study examines potential use of machine learning for sustainable development of biomass",
       "excerpt": "Biomass is widely considered a renewable alternative to fossil fuels, and many experts say it can play a critical role in combating climate change. Biomass stores carbon and can be turned into bio-based products and energy that can be used to improve soil,",
@@ -1398,112 +1504,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand.md",
-      "title": "Automated Machine Learning (AutoML) Market to Grow Exponentially Due to Rising Demand",
-      "excerpt": "The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-empowering-micro-entrepreneurs-through-machine-learning.md",
-      "title": "Empowering Micro Entrepreneurs Through Machine Learning",
-      "excerpt": "Brazil-based Zippi's mission is to provide affordable and accessible financial services to over 30 million micro entrepreneurs, many of whom face unique challenges accessing credit from traditional banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64075c41741e252b45817110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
-      "publishedDateTime": "2023-03-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

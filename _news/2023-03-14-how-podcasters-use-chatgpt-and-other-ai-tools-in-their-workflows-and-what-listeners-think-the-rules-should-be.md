@@ -87,20 +87,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants"
-    excerpt: "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT."
-    publishedDateTime: 2023-03-13T07:13:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/84ddc0c0-c116-11ed-adef-395fc59ecfdd.cf_.jpg"
-        width: 875
-        height: 584
-        isCached: true
   - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
     excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
     publishedDateTime: 2023-03-14T23:09:00Z

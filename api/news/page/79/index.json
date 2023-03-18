@@ -2,6 +2,293 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-01-13-speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook.md",
+      "title": "Speech Recognition Market Growth Rate, Comprehensive Analysis of Profitable Key Business Trends, and Outlook",
+      "excerpt": "The analysis tracks the impact of key Speech Recognition market dynamics on the major challenges and the strategies",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-growth-rate-comprehensive-analysis-of-profitable-key-business-trends-and-outlook-2023-01-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-a-tech-news-site-has-been-using-ai-to-write-articles-so-we-did-the-same-thing-here.md",
+      "title": "A Tech News Site Has Been Using AI To Write Articles, So We Did The Same Thing Here",
+      "excerpt": "Technology news outlet CNET has been found to be using Artificial Intelligence (AI) to write articles about personal finance without any prior announcement or explanation. The articles, which numbered at 73,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "originalUrl": "https://www.buzzfeednews.com/article/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-08/27/18/campaign_images/94e109154f62/the-co-founder-of-snopes-wrote-dozens-of-plagiari-2-529-1630089961-23_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/katienotopoulos/cnet-articles-written-by-ai-chatgpt-article",
+      "publishedDateTime": "2023-01-12T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-infosys-strong-growth-of-137-per-cent-in-constant-currency-in-a-seasonally-weak-quarter.md",
+      "title": "Infosys: Strong growth of 13.7 per cent in constant currency in a seasonally weak quarter",
+      "excerpt": "Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in next-generation digital services and consulting, reported strong Q3 performance with year-on-year growth at 13.7 per cent and sequential growth at 2.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20230112/4026024.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Business/20230112/4026024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-quantum-machine-learning-qml-poised-to-make-a-leap-in-2023.md",
+      "title": "Quantum machine learning (QML) poised to make a leap in 2023",
+      "excerpt": "Quantum machine learning (QML) combines quantum computing's power with ML's predictive capabilities to overcome classical algorithms' limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-605383559-e1646346568847.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantum-machine-learning-qml-poised-to-make-a-leap-in-2023/amp/",
+      "publishedDateTime": "2023-01-12T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-aws-opens-first-australian-local-zone-in-perth.md",
+      "title": "AWS opens first Australian Local Zone in Perth",
+      "excerpt": "AWS’s first Local Zone in Australia will bring low-latency performance to companies such as Woodside Energy and Nearmaps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "originalUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/cloud-migration-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529170/AWS-opens-first-Australian-Local-Zone-in-Perth?amp=1",
+      "publishedDateTime": "2023-01-12T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-a-director-posted-ai-generated-stills-from-a-fake-80s-sci-fi-horror-movie-and-people-are-pissed.md",
+      "title": "A Director Posted AI-Generated Stills From A Fake ’80s Sci-Fi Horror Movie And People Are Pissed",
+      "excerpt": "BuzzFeed Contributor An AI-generated still from the made-up movie Galaxy of Flesh Los Angeles–based Keith Schofield is an accomplished director, having helmed music videos for the likes of Beck, Charlotte Gainsbourg,",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/16/14/campaign_images/948c073cbd4b/this-artist-used-ai-to-turn-the-met-gala-coachell-2-2274-1655390594-2_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/ai-david-cronenberg-movie-galaxy-of-flesh-twitter",
+      "publishedDateTime": "2023-01-12T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-ferrum-health-raises-6-million-to-bring-artificial-intelligence-into-healthcare.md",
       "title": "Ferrum Health Raises $6 Million to Bring Artificial Intelligence into Healthcare",
       "excerpt": "Ferrum Health, a healthcare artificial intelligence (AI) platform developer, announced that it has recently raised $6 million in a funding round led by Urban Innovation Fund, Cercano Management, and Singtel Innov8.",
@@ -827,295 +1114,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-deepl-targets-ai-translation-for-enterprises-with-fresh-100-million.md",
-      "title": "DeepL targets AI translation for enterprises with fresh $100 million",
-      "excerpt": "Seeking to target enterprise customers with AI language translation, DeepL announced a funding raise estimated at well over $100 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deepl-targets-ai-translation-for-enterprises-with-fresh-100-million/",
-      "originalUrl": "https://venturebeat.com/ai/deepl-targets-ai-translation-for-enterprises-with-fresh-100-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deepl-targets-ai-translation-for-enterprises-with-fresh-100-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepl-targets-ai-translation-for-enterprises-with-fresh-100-million/amp/",
-      "publishedDateTime": "2023-01-11T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028.md",
-      "title": "Voice And Speech Recognition Software Market : Overview, Industry Trends, Analysis Key Players, Share, Size and Report 2023 to 2028",
-      "excerpt": "Voice And Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-how-human-language-accelerated-robotic-learning.md",
-      "title": "How human language accelerated robotic learning",
-      "excerpt": "Researchers developed a suite of policies using machine learning training approaches with and without language information, and then compared the policies’ performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/how-human-language-accelerated-robotic-learning/",
-      "originalUrl": "https://www.therobotreport.com/how-human-language-accelerated-robotic-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-11-at-3.05.13-PM.png",
-          "width": 949,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T17:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-automated-optical-inspection-of-fasts-reflector-surface-using-drones-and-computer-vision.md",
-      "title": "Automated optical inspection of FAST’s reflector surface using drones and computer vision",
-      "excerpt": "FAST is the world's largest single-dish radio telescope. Its large reflecting surface achieves unprecedented sensitivity but is prone to damage, such as dents and holes, caused by naturally-occurring falling objects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976551",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/89a7767e-0e7c-4b04-973c-113e019c2392/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations.md",
-      "title": "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations",
-      "excerpt": "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
-      "publishedDateTime": "2023-01-11T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
-      "title": "4 AI and ML job hunting tips from Chip Huyen",
-      "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
-      "originalUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/chip-huyen-1-1-e1673449558562.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/4-ai-and-ml-job-hunting-tips-from-chip-huyen/amp/",
-      "publishedDateTime": "2023-01-11T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

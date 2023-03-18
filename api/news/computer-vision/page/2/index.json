@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
+      "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
+      "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-face-recognition-software-led-to-his-arrest-it-was-dead-wrong.md",
       "title": "Face Recognition Software Led to His Arrest. It Was Dead Wrong",
       "excerpt": "But an intelligence analyst using face recognition software had labeled him a possible match with the suspect seen on CCTV footage from the bus, police records show, and an officer had confirmed it. At a police station and in a meeting with her husband’s ...",
@@ -1334,49 +1368,6 @@
       "provider": {
         "name": "sbcnews.co.uk",
         "domain": "sbcnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-another-high-altitude-object-shot-down-over-northern-canada.md",
-      "title": "Another high altitude object shot down over Northern Canada",
-      "excerpt": "Ryder said the object did not appear to have propulsion ... A nearly 60-year wait for the highest level of recognition is nearly over for Col. Paris Davis, one of the first Black Green Berets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/6201676154475/2023/1/ffc12f6d0b9493af61a9666a0428fe0d/v1.5/Another-high-altitude-object-shot-down-over-Northern-Canada.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "publishedDateTime": "2023-02-11T15:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

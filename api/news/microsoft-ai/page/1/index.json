@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
+      "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
+      "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings.md",
       "title": "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings",
       "excerpt": "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet.",
@@ -677,7 +729,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 401,
+      "heat": 421,
       "tags": null,
       "images": [
         {
@@ -1374,50 +1426,6 @@
       "provider": {
         "name": "datanami.com",
         "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.md",
-      "title": "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning",
-      "excerpt": "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint customers across industries can realize the benefits from the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
         "images": null,
         "publishers": null,
         "authors": null

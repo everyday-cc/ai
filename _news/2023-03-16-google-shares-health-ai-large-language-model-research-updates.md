@@ -44,18 +44,18 @@ related:
         height: 1200
         isCached: true
   - title: "Artificial Intelligence Should Help Vet New Research"
-    excerpt: "Have you ever heard that reading literature for three minutes makes people more empathetic, or that holding a heavier clipboard makes a manager more likely to hire a job candidate? The popular press has had a love affair with social science findings ..."
-    publishedDateTime: 2023-03-17T08:37:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/17/artificial-intelligence-should-help-vet-new-academic-research/ba5b548a-c4ca-11ed-82a7-6a87555c1878_story.html"
+    excerpt: "Peer review is the gold standard for scientific papers, but maybe there’s a better system just around the corner."
+    publishedDateTime: 2023-03-17T13:30:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
+        width: 1600
+        height: 1200
         isCached: true
   - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
     excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."

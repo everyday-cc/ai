@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-03-rapid-robotics-and-universal-robots-team-up-to-fight-labor-shortages-with-swift-cobot-deployments.md",
+      "title": "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments",
+      "excerpt": "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb",
+      "originalUrl": "https://apnews.com/aaeb5e6abc8d4206a6dfee6384838edb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail.md",
       "title": "The Merging of Artificial Intelligence and Robotics: What Risks Does It Entail?",
       "excerpt": "Artificial intelligence and robotics are two technologies that are rapidly changing the world as we know it. Together, these technologies have the potential to revolutionize the way we do business and live our lives.",
@@ -1275,49 +1309,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-ted-lieu-and-a-robot-make-great-points-about-the-dangers-of-ai.md",
-      "title": "Ted Lieu and a robot make great points about the dangers of AI",
-      "excerpt": "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
-      "publishedDateTime": "2023-01-24T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
         "images": null,
         "publishers": null,
         "authors": null

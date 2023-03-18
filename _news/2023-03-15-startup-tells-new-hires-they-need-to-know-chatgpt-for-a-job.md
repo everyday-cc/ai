@@ -92,20 +92,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants"
-    excerpt: "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT."
-    publishedDateTime: 2023-03-13T07:13:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/84ddc0c0-c116-11ed-adef-395fc59ecfdd.cf_.jpg"
-        width: 875
-        height: 584
-        isCached: true
   - title: "Think ChatGPT Is Smart? Ask It to Do Arithmetic"
     excerpt: "People of all ages—especially my kids—have enjoyed hours of laughs asking its artificial intelligence silly and scatalogical ... AI does using the same basic tricks as ChatGPT. Chatbot therapy is a totally different kind of problem, and a bad match ..."
     publishedDateTime: 2023-03-14T14:10:00Z
