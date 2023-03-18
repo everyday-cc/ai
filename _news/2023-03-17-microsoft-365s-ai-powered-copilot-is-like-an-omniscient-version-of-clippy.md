@@ -905,6 +905,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
+    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
+    publishedDateTime: 2023-03-17T22:33:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
     publishedDateTime: 2023-03-16T16:50:00Z

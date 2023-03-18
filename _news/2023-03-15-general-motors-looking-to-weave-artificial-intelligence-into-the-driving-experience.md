@@ -59,6 +59,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "An AI tutor who teaches foreign language reading"
+    excerpt: "The Electronics and Telecommunications Research Institute (ETRI) has developed a reading comprehension education AI technology that allows you to learn foreign language listening, speaking, and reading by talking to an artificial intelligence (AI) tutor."
+    publishedDateTime: 2023-03-17T18:00:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-foreign-language.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/etri-introduces-ai-tut.jpg"
+        width: 2880
+        height: 1915
+        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-03-14T04:24:00Z

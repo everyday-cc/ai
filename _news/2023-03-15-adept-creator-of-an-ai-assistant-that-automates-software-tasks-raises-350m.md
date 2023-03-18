@@ -65,13 +65,13 @@ related:
     quality: 44
   - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
     excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-    publishedDateTime: 2023-03-14T18:35:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
+    publishedDateTime: 2023-03-14T18:37:00Z
+    webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
     type: article
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
         width: 900

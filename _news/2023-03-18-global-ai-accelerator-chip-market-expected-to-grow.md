@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-17T21:47:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"

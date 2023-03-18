@@ -321,6 +321,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Accelerator Chip Market Expected to Grow"
+    excerpt: "The global AI accelerator chip market is expected to grow primarily due to the growing use in healthcare industry. Cloud sub-segment is expected to flourish immensely. The market in the North America region is predicted to grow with a high CAGR by 2031."
+    publishedDateTime: 2023-03-17T21:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "The Future of Artificial Intelligence Market: Growth Projections and Industry Insights 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence Market\" research report offers a thorough analysis of the most recent developments, new fashions, rate of ..."
     publishedDateTime: 2023-03-15T17:20:00Z
@@ -348,20 +362,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI Accelerator Chip Market Expected to Grow"
-    excerpt: "The global AI accelerator chip market is expected to grow primarily due to the growing use in healthcare industry. Cloud sub-segment is expected to flourish immensely. The market in the North America region is predicted to grow with a high CAGR by 2031."
-    publishedDateTime: 2023-03-17T21:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Size & Share to Surpass $64.5 Billion by 2028 | Vantage Market Research"
     excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"

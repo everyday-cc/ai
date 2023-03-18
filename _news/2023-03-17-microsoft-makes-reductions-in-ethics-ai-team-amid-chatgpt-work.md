@@ -901,6 +901,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
+    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
+    publishedDateTime: 2023-03-17T22:33:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
     publishedDateTime: 2023-03-16T16:50:00Z
@@ -980,6 +994,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "2d8dJYaVtQqgGUpY6RhpZfzGD4MD0u4YgkCdZBRYZFpxZcNkeRwCiPZfyqyT+OcEgLB4RSYPV+1ApdvDQRfxtBgoGEmd7TZHSdQUcuagN9n6sw2859AWw1nZz3eCe8sRkl+1AaCkCrlDqIjTWig0VLvhwElA9hd7fmnLvgzayvqrrIuOvUA/wte1M9vYEKPN0p/u2QQusLNBJoyeipU/iHaq1RlD3rP6wONy/MrQg5Qz3xnArwWVMcrUeEmuUgbN6d7aGHVtnAZ0dwRs6zXTymXUI2QCx62hwhmWYpojdRlTwLKD8BnwLC4bSORUwPqjufPXPUPtwhlF70pQ38xh/NLqYEJ/3n5k0gOXssSxms4=;QZpuSld7arQXJ9oIBSiXTw=="
+secured: "Uuk+oP0n4jYhNILXfivZwxOs3yHiU1GSABbuuqqreA+mFL14IxEzcSPDybFKNhaeHNuMmZ9IVUdUfddENMIf18VCMPj3Iil5UD4GjNOt1bXMpJExwQqQt/jy9IuiwK6Eps+xU2g6Zxjnf5NsxLIZB9QWwuszW/c3F88tWeJ4yP7VeT3ZSw3+CKZm9LZdJ4BAe+3u5UXh4IQ5EdU23NSVzieOSlWABHrTLG14ekcPBUVkgAXM7CwuJMjuhjqn4ztK8HpJx2Mjzsj+Q3L/Bra8M6ozRA56fFEgOlsboyc7y15tLNnVddV/7XxW7wLZpjg/a+PeY86yFRO0tfV76UixK943XmhpS7ffCg1lkAS/rPGZXUzJE1tAz2THN72nnQrWTqg7CoGbo5UUY7aeHeoGYO7/CfvwRPF6lnrTJd/FBiLgYMePP/gPValnuBXJ0pPhNTaXx3Wc32GaLFSL9zttW5b5NHYRX8PdjlZyT3VWnH+e4y5ubPh11DBYQIoepfDZvum9DP5KgtU6cDWLTqjTfg==;Ii4OtplH8laakRghoco+Ww=="
 ---
 

@@ -37,6 +37,15 @@ related:
       name: The Future of Autonomy
       domain: insideunmannedsystems.com
     quality: 0
+  - title: "Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
+    excerpt: "LIVERMORE, Calif.- Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company’s compact solutions portfolio,"
+    publishedDateTime: 2023-03-17T20:48:00Z
+    webUrl: "https://sensorsandsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 0
 
 secured: "+Ulm+yKFWJxOnhRDAiQnU9yloPsXzX6pKnBJ6i9j1F/jnaGqIJyUDM5shl+9IRbkZq94bZsx4KUauKCApMXkaqDvE+WJouIiqX/2T6zgg6tPv/sOnaZ4DP/2VmEjUCqQC5h+/aEGmS/+NB8CsTBxaHFBDorZCslgeBbj3RGqzWoilkuqeJniE4/1BdVJK8a9g3xI3tvgzLbUA2TfRHhh+rBEXA+iL8vuUTmY1flZoShx1Q1SDY+ermn34Gak8rwJgo8knTIWMpEbo3ZmQmKS5lkc48Uzza92sBFlCw6rIlyC4WZGDP6J+BD1HZ+9VTBw3DJ1ZVVSinBRt+6AR1BjZ2rGaJqyJX1Tb7y6JIvwwnQ=;iqh+jC2XHUJneU/Y5lUfpQ=="
 ---

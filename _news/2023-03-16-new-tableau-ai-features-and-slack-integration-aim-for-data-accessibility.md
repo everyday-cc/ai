@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/706240/new-tableau-ai-features-s
 webUrl: "https://www.arnnet.com.au/article/706240/new-tableau-ai-features-slack-integration-aim-data-accessibility/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DVT hosts webinar on AI, accessibility"
-    excerpt: "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter."
-    publishedDateTime: 2023-03-13T06:33:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/03/Rory-Preddy-13March2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New Tableau AI features and Slack integration aim for data accessibility"
     excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
     publishedDateTime: 2023-03-15T12:01:00Z
@@ -50,6 +34,15 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 18
+  - title: "JS Operating Co: Jungle Scout Introduces AI Integration for Instant Amazon Listing Creation"
+    excerpt: "Jungle Scout's Listing Builder leverages Open AI's model to generate high-performing Amazon product listing copy with the click of a buttonAUSTIN, TX / ACCESSWIRE / March 14, 2023 / Jungle Scout, the"
+    publishedDateTime: 2023-03-14T13:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 9
 
 secured: "X31CzqJYcAfMey/nKlWhgmdhFgY1EdL2dCduXpbhAjGFWw1Hov4boG7dbFv6CQ9fEHYRGmS/3YScrrT2MLr2zsTkdMvlkqkuzbG2btm3dHfeXSxLsibgufRM0wTxq8y8jXu92M0wj9EDndrUpTSwLtWb7A7i+rtVa4F4RerDotlqv5VZ/zu/hyrXcQ9fJsu3XNe3Hm6x3UktZHdmuNRpa1vX3p05zU8mnr0w6u8UbSx4qXb2KLgqjsTY+iAHU0Fvz4X1a30CMqzAw0/YBVr2046gucKz0kVJTrd64YlKqrzx2a3CiTuMzxjTNTl7R+m+lsHRe1JD7nRtj5glA8xnm9m+eL9yNOgBgQ+1SjawEtI=;YXfNVcnu/ludLUhLoO3LdQ=="
 ---

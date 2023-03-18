@@ -37,6 +37,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
+    excerpt: "LIVERMORE, Calif.- Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company’s compact solutions portfolio,"
+    publishedDateTime: 2023-03-17T20:48:00Z
+    webUrl: "https://sensorsandsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 0
 
 secured: "xTOl/4K3VOK4utP7DEWQFxUkiLUkPU2rZmT+Dr6CN+4iujA47zuryIwfy03u7BS1ZjLmYGKQrso34ZAuQeoGdfvvhtugSvLmGGB1D3rC5lzuvjDQj4hAsSoBxlgsnejD17a/JfZuiYxERNxRxjzXujH1Lj8xwVfWMOhxPCQunW2vb6TAqh0uOB7PKpOKrxkn9N9+UpD8MFLpdMgFwCjy/u4fbQkACxZa0TmTU+u9BID/Y9GykGvf0He5wjy8kHVHvhKSHJAP44yS4hpC8E0w7prhQ6+I5OsGugAD/SKAEdMlwi0p9OXmZg/pPIty5CUfjc6OK97rKzvH0CuL6Rt12LRf3iyiVxFAeHcgq5wwRRA=;p3ioY4QATAa02eYo5on7oA=="
 ---

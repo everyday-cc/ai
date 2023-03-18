@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-18-a-mind-controlled-beer-pouring-robot-has-landed.md",
+      "title": "A mind-controlled beer-pouring robot has landed",
+      "excerpt": "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
+      "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw.md",
       "title": "Strangeworks might be the first startup to rely on AI to create everything it brought to SXSW",
       "excerpt": "It took nine weeks for whurley — a staple of the Austin tech scene — to create and prepare for a keynote at SXSW 2018, where he would debut Strangeworks, a quantum computing startup he co-founded and runs. Five years later, generative AI would complete ...",
@@ -61,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -113,7 +165,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -156,6 +208,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-17-your-next-negotiating-partner-artificial-intelligence.md",
+      "title": "Your Next Negotiating Partner: Artificial Intelligence",
+      "excerpt": "Now, it appears that chatbots, powered by artificial intelligence, may be entering mainstream usage. The question is, can they recognize a good deal when they see one? Perhaps not. But for people on the front lines of negotiation, AI-powered chatbots may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64148cdad249225dc8ac663b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-03-17T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
       "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
       "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
@@ -164,7 +267,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -562,7 +665,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1002,7 +1105,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1145,110 +1248,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings.md",
-      "title": "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings",
-      "excerpt": "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
-      "originalUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsoft-tries-to-justify-ais-tendency-to-give-wrong-answers-by-saying-theyre-usefully-wrong.md",
-      "title": "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'",
-      "excerpt": "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1678992124",
-          "width": 4000,
-          "height": 2668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "publishedDateTime": "2023-03-16T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

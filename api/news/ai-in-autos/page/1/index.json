@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -965,6 +965,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-03-ford-launches-new-in-house-driverless-car-division.md",
+      "title": "Ford launches new in-house driverless-car division",
+      "excerpt": "Ford Motor Co. said Thursday it has launched an artificial-intelligence unit focusing on driverless cars, hiring people who used to work at the shuttered Argo AI startup. The division, named ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
+      "originalUrl": "https://www.marketwatch.com/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-732595/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-launches-new-in-house-driverless-car-division-1682ae97",
+      "publishedDateTime": "2023-03-03T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
       "title": "Robotaxi tech improves but can they make money?",
       "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
@@ -1324,58 +1376,6 @@
         "name": "Autoblog",
         "domain": "autoblog.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
-      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
-      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "publishedDateTime": "2023-03-01T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

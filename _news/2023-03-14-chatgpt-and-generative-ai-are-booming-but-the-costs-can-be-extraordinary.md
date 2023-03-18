@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Unleashing The Power Of AI: 14 More Mind-Blowing Tools Beyond ChatGPT"
-    excerpt: "This article introduces 14 AI tools that go beyond ChatGPT and can help revolutionize the way we work. The article aims to provide readers with an overview of the potential of AI and how it can transform our workflows."
-    publishedDateTime: 2023-03-13T06:46:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640ec6a319bd9fdfea7aa26f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
     excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
     publishedDateTime: 2023-03-15T07:41:00Z

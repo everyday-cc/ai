@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-16-microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings.md",
+      "title": "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings",
+      "excerpt": "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
+      "originalUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-microsoft-tries-to-justify-ais-tendency-to-give-wrong-answers-by-saying-theyre-usefully-wrong.md",
+      "title": "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'",
+      "excerpt": "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1678992124",
+          "width": 4000,
+          "height": 2668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
+      "publishedDateTime": "2023-03-16T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-linkedin-introduces-ai-tool-to-make-curating-your-profile-easier.md",
       "title": "LinkedIn introduces AI tool to make curating your profile easier",
       "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
@@ -977,7 +1081,7 @@
       "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1030,7 +1134,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1166,100 +1270,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
-      "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head blight, or scab disease, the crop's top ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
-      "originalUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/could-ai-powered-objec-1.jpg",
-          "width": 1067,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
-      "publishedDateTime": "2023-03-15T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
-      "title": "What the AI Boom Means for Carbon Emissions",
-      "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

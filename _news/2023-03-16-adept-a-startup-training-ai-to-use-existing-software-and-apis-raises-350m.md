@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 86
-heat: 147
+heat: 146
 published: true
 
 provider:
@@ -56,13 +56,13 @@ related:
     quality: 44
   - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
     excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-    publishedDateTime: 2023-03-14T18:35:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
+    publishedDateTime: 2023-03-14T18:37:00Z
+    webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
     type: article
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
         width: 900

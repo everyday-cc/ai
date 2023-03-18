@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-09-artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025.md",
+      "title": "Artificial Intelligence In Military Market 2023 to Shows Impressive Growth in Regional Areas Forecasts up to 2025",
+      "excerpt": "Feb 09, 2023 (The Expresswire) -- The Artificial Intelligence In Military Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Software, Hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-driverless-car-market-2023-emerging-trends-various-perspectives-cost-analysis-consumer-behavior-with-top-countries-data.md",
       "title": "Driverless Car Market 2023 : Emerging Trends, Various Perspectives, Cost Analysis, Consumer Behavior with Top Countries Data",
       "excerpt": "Feb 09, 2023 (The Expresswire) -- \"Driverless Car Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (Commerical, Individual),",
@@ -1249,41 +1301,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-using-self-driving-robot-ai-powered-monitoring-system-as-lifeguards-on-its-beaches.md",
-      "title": "Goa Using Self-Driving Robot, AI-Powered Monitoring System as Lifeguards on Its Beaches",
-      "excerpt": "Both the AI-monitored camera-based systems can monitor the surroundings, assess and detect risks, share real-time information with on-duty lifeguards so they may respond faster to avoid tragic incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
-      "originalUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
-      "publishedDateTime": "2023-02-06T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,135 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-02-09-former-salesforce-co-ceo-bret-taylor-to-launch-new-ai-startup-with-google-veteran-clay-bavor.md",
+      "title": "Former Salesforce co-CEO Bret Taylor to launch new AI startup with Google veteran Clay Bavor",
+      "excerpt": "Former Salesforce Inc. co-Chief Executive Officer Bret Taylor (pictured) is teaming up with outgoing Google LLC Vice President Clay Bavor to create a new artificial intelligence startup. The unnamed company will seek to apply AI to “some of the most important problems in business,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "originalUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/brettaylor.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup.md",
+      "title": "Former Salesforce co-CEO and outgoing VP of Google launch AI startup",
+      "excerpt": "The yet-to-be-named company aims to use AI to tackle \"significant business problems,\" as stated by former Salesforce co-CEO Bret Taylor in a LinkedIn",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/applications/101704/former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup/",
+      "originalUrl": "https://www.techzine.eu/news/applications/101704/former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/02/Bret-and-Clay.png",
+          "width": 1092,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
+      "title": "Investing in ChatGPT's AI revolution: Where to begin",
+      "excerpt": "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change.md",
       "title": "OpenAI rival Cohere AI has flown under the radar. That may be about to change.",
       "excerpt": "It is available through API as a managed service, via cloud machine learning (ML) platforms like Amazon Sagemaker and Google Vertex AI. For enterprise customers with the highest data-protection and latency demands, Cohere’s platform is available as ...",
@@ -971,135 +1100,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-waymo-provides-driverless-rides-for-super-bowl-visitors.md",
-      "title": "Waymo provides driverless rides for Super Bowl visitors",
-      "excerpt": "But there’s another option if they need a ride around Phoenix. Waymo has been offering driverless rides around the city for a few years. But thousands of people will be in town this week seeing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "originalUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/9I89BgMQniIZb6zM7Vz5ltjHhiY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HAIM3WSFBZGXRD2TH34GE47PR4.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "publishedDateTime": "2023-02-08T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu.md",
-      "title": "Asus ROG Strix SCAR 18 redefines portable gaming with RTX 4000 series GPU",
-      "excerpt": "Hi-Res audio support ensures you hear music in the same quality it was recorded whereas Two-Way AI Noise Cancellation ... on a gaming laptop with the latest GPU in the market that gives you ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/02/08/-_1863040ab7b_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-road-to-new-recognition-for-lift-every-voice-and-sing.md",
-      "title": "The road to new recognition for ‘Lift Every Voice and Sing’",
-      "excerpt": "W. Bush’s presidential inauguration to Super Bowl Sunday. Now, the hymn, “Lift Every Voice and Sing,” known as the Black National Anthem is on the road to new recognition. First performed by a group of school children, it should come as no surprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
-      "originalUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/02/snapshot-3.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
-      "publishedDateTime": "2023-02-08T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

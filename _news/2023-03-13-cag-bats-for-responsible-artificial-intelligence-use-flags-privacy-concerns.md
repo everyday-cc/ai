@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/cag-bats-for-responsible-arti
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/cag-bats-for-responsible-artificial-intelligence-use-flags-privacy-concerns/amp_articleshow/98606410.cms"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Addressing privacy fears, CAG says ethics a must for AI in audit"
-    excerpt: "Girish Chandra Murmu said, \"While AI offers many opportunities, it also raises concerns related to transparency and fairness. These issues include the impact of AI on privacy, bias and discrimination in AI systems,"
-    publishedDateTime: 2023-03-13T06:37:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2377305-addressing-privacy-fears-cag-says-ethics-a-must-for-ai-in-audit"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 34
 
 secured: "abKwIUyWGhWEB3bHLnJ4NEBdafIt25U2acliqizCfRPcel2elkZCegMYpxxAC7pV2BRD3bIopk0H+72aWO6shSuUpzo9EUHZSVhCDPgb4t2BS+CB6XYnfxkfXpOFCp2UeyKhyec+gB901v/w8r3MzVyrNPv9YSioPw/JdpZkqceAhkvijWJL8iP9rOtIvRmUR9l8v3DLL9+dAgFn5AXHMvCTjxGYtVFEsSGtwH+FqoSjvljAtZfeBTSUdAvhbT3iSSmH4iGu090agrvRha+mQlAFAWOUZccIMyCTOF5wpvzdUyXaYeLbNi3KZWFaN5gJDRzhhq0cPRMjCp/Vfq3SZtIxg26p65tGyk8JctX9oXw=;iTfM7h58qyvWxRn927CraA=="
 ---

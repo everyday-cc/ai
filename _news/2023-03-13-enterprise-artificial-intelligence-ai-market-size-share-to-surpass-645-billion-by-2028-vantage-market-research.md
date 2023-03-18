@@ -320,6 +320,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Accelerator Chip Market Expected to Grow"
+    excerpt: "The global AI accelerator chip market is expected to grow primarily due to the growing use in healthcare industry. Cloud sub-segment is expected to flourish immensely. The market in the North America region is predicted to grow with a high CAGR by 2031."
+    publishedDateTime: 2023-03-17T21:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
     excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
     publishedDateTime: 2023-03-13T14:51:00Z
@@ -361,20 +375,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI Accelerator Chip Market Expected to Grow"
-    excerpt: "The global AI accelerator chip market is expected to grow primarily due to the growing use in healthcare industry. Cloud sub-segment is expected to flourish immensely. The market in the North America region is predicted to grow with a high CAGR by 2031."
-    publishedDateTime: 2023-03-17T21:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-accelerator-chip-market-expected-grow-substantially-/2023/03/17/9779025.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Global \"Artificial Intelligence (AI) in BFSI Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Global “Artificial Intelligence (AI) in BFSI Market” [Latest Research Report] 2023 provides a comprehensive analysis of the industry ..."

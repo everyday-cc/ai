@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-sourc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/"
 type: article
 quality: 106
-heat: 138
+heat: 136
 published: true
 
 provider:

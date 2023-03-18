@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
-    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
-    publishedDateTime: 2023-03-13T06:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "This AI startup just raised $350 million for generative AI trained to use every software tool and API"
     excerpt: "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?"
     publishedDateTime: 2023-03-14T16:33:00Z

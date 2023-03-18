@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105764210/Presight-AI-Announces-Start-Of-Subsc
 webUrl: "https://menafn.com/1105764210/Presight-AI-Announces-Start-Of-Subscription-Period-For-IPO"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,19 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Presight AI, a G42 Company, announces start of subscription period for Initial Public Offering"
-    excerpt: "Presight AI Holding PLC confirms its intention to offer 1,359,680,000 shares representing 24.24% of its share capital as at the listing date"
-    publishedDateTime: 2023-03-13T05:56:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/presight-ai-a-g42-company-announces-start-of-subscription-period-for-initial-public-offering-mp7jpqxp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/presight-ai-a-g42-company-announces-start-of-subscription-period-for-initial-public-offering-mp7jpqxp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/presight-ai-a-g42-company-announces-start-of-subscription-period-for-initial-public-offering-mp7jpqxp?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 25
 
 secured: "pvrIf/Y/hWwwKb2O1Ly4aPgN2xfrCCTfK0Lmtr2fRqtdkMuWwirnBfdbPeP2YuCFFnNVf7Ja0lEgMtrEn8pq7PIyOxYEAKdZwkzzv3x4LuFMKMxB0GqbS+0Fk1RAloKm7MQiPI8zH3ZTRNfGOJo9q0kL8lCfZ8gZzcpxIbF/mR+wMkVeXyJOU8O0AnC7zsVm42lp68tH4WdxyznZJ/f3ySVnNnptqsZd1heqjKGf5gK7Xi4Bv/8HJlvklg9LodnHzpcx0PlaQ6vA/jQFaSzvvUMvmOhHgFqn3KtIDoXL2GK5fjZj3Uu2FCzs5b3rzMnQUJaTpJACRtivyJrE7RP3EHFlIfEjqwTBTMQ1gWc1/kQ=;KiG4DjbLBYL7Ci2BgcZdpg=="
 ---

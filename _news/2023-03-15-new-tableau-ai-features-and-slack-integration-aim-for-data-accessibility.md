@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DVT hosts webinar on AI, accessibility"
-    excerpt: "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter."
-    publishedDateTime: 2023-03-13T06:33:00Z
-    webUrl: "https://www.itweb.co.za/content/lwrKxv3YAgbMmg1o"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/lwrKxv3YAgbMmg1o"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/03/Rory-Preddy-13March2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New Tableau AI features and Slack integration aim for data accessibility"
     excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
     publishedDateTime: 2023-03-16T05:19:00Z
@@ -49,6 +33,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "JS Operating Co: Jungle Scout Introduces AI Integration for Instant Amazon Listing Creation"
+    excerpt: "Jungle Scout's Listing Builder leverages Open AI's model to generate high-performing Amazon product listing copy with the click of a buttonAUSTIN, TX / ACCESSWIRE / March 14, 2023 / Jungle Scout, the"
+    publishedDateTime: 2023-03-14T13:42:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 9
 
 secured: "OfB5XNmtPWbvfV65UZwhnc5Hb3zR6A7pdkaylIOyROU57l7+IduqiNKuyKmdg9SkEosX2juJCyDiGi3ee0rn98yNGNaQ3O6SF2gwTxUcghzA3ETMiTDDspBnqzz6oPElff2qq73mLGl3QZlylk+gx7bdqDW+jc8ZNh9YfRL65luKvSGMaNbk/1FC+07WgS8ur8fp3jQO/iCuMO0XtreBhKQ0oVXHxBQ9dNIUWaxusYdRkG8JomDwY1EAu4d1n9dOTsmCoEBHfW/zIL57MrKcZD87QUiZ4Ln/3mYozQpvQIR0HBonIntAqtCiki5pXOHugOIyh3hbFzvmBdVop6NPgVpjzybiO0CW1kaxwCjDMRlMKNVKKyHliBiuerpBywH1n1YB4/SPn2RcymvW3BdMUau40OaxmgumS1X96VNWVDCp/JDuFmCwDV71zGczzAZdrIUoYSP2dojZfntLgKKUH68RKtfFIJg+glckueOxFgI/C9+I+jQ61vFTCDqsqS3uH4k52EEJkFd24D8NS3WIaA==;EIFIk4sC46Q2PDojfaW3CQ=="
 ---

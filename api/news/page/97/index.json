@@ -2,6 +2,165 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-12-22-ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic.md",
+      "title": "AI In Big Pharma: The First Antibody Designed Using AI In The Clinic",
+      "excerpt": "In recent years, a hand full of AI startup companies that managed to utilize AI/ML to discover novel targets and/or design therapeutics reached human clinical trials and received massive media attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
+      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fd78cc45940bdc9d411/0x0.jpg?format=jpg&crop=1502,1002,x0,y41,safe&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/12/21/ai-in-big-pharma-the-first-antibody-designed-using-ai-in-the-clinic/amp/",
+      "publishedDateTime": "2022-12-21T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence.md",
+      "title": "Is There A ChatGPT Stock? Can You Invest In ChatGPT And Other Types Of Artificial Intelligence?",
+      "excerpt": "Can you invest in ChatGPT? We look at this new, revolutionary product that OpenAI released and other readily available AI investment strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32f86ff6366182c36e6f0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 728,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/21/is-there-a-chatgpt-stock-can-you-invest-in-chatgpt-and-other-types-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-12-21T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-best-gpu-deals-for-december-2022.md",
+      "title": "Best GPU deals for December 2022",
+      "excerpt": "GPU clock speeds are rated at 1,785 MHz ... you can grab this 12GB GDDR6 card, at 192-bit, with DLSS AI acceleration and ray tracing support for hyper-realistic, fluid motion, and immersive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/05/razer-core-x-ext-gpu-openl.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
+      "publishedDateTime": "2022-12-21T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-3-ai-trends-it-must-leverage-for-innovation.md",
       "title": "3 AI Trends IT Must Leverage For Innovation",
       "excerpt": "IT leaders keen on improving operational efficiency—and innovation—should familiarize themselves with AIOps, generative AI and TuringBots in 2023.",
@@ -1033,147 +1192,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers.md",
-      "title": "How Artificial Intelligence Is Transforming Biopharma (And What It Means For Marketers)",
-      "excerpt": "Artificial intelligence has the potential to change the way the world currently approaches medicine. These developments will also change the way biopharma marketers need to approach their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a0aafac894b4f0c7e82127/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
-      "publishedDateTime": "2022-12-20T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
-      "title": "2022 - the year in AI and Robotics",
-      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
-      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
-          "width": 1536,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-20-harnessing-artificial-intelligence-technology-for-ivf-embryo-selection.md",
-      "title": "Harnessing artificial intelligence technology for IVF embryo selection",
-      "excerpt": "An artificial intelligence algorithm can determine non-invasively, with about 70 percent accuracy, if an in vitro fertilized embryo has a normal or abnormal number of chromosomes, according to a new study from researchers at Weill Cornell Medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/harnessing-artificial.jpg",
-          "width": 1500,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-harnessing-artificial-intelligence-technology-ivf.amp",
-      "publishedDateTime": "2022-12-20T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

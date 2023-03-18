@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
-    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
-    publishedDateTime: 2023-03-13T06:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "The next generation of AI for developers and Google Workspace"
     excerpt: "Introducing new generative AI capabilities in Google Cloud and Google Workspace, plus PaLM API and MakerSuite for developers."
     publishedDateTime: 2023-03-14T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 136
+heat: 137
 published: true
 
 provider:

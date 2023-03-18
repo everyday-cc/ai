@@ -914,6 +914,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
+    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
+    publishedDateTime: 2023-03-17T22:33:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
     excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."
     publishedDateTime: 2023-03-16T03:24:00Z
