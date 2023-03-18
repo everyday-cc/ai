@@ -157,6 +157,43 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:41:00Z
+    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 36
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:34:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 31
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Amazon Sued Over Facial Recognition Technology"
+    excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
+    publishedDateTime: 2023-03-17T15:41:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 19
 
 secured: "UercU2Xp1UkkWLwAd/dttPOc8Sp1iIf99eRgQmOKZ53aKzZ/G45x/xJKA5NpbxQGl8qyYwzSdKaCFWH1ez9/K5gaehiWUyfdFOQ6vTz2R80zu00u1Y/scxYEgQm6afTBmqc6LgdFNtv5ZHPq/CQGRik+ZrARM391iX8n+jIY5Uwiwk4lvHu+tsQAEaDfZz7TLmRDnZyt5bdIrGkryXMLme56yQv0hftv9V9WJ4Ogub7e/3PrJwD4oy0VLjTx+Mbmt+/TNc+Mahe7BXXOk+R8ubZmDeBklgOv2e1u1oQZBoTzs7WSB+d3lVuf23JMkNAKGZ5ZsEQ5DIkPvOOgE8rfv+Q8fqdRbnSTUdPHTeSH57APZpYSTwLtNz2d2XLnGaXbZ9ccIIalETUpvOQg0NU5t4zrdPhb6tzG6eZ8qWrkk3Ws25KkgfXhsF2inUfKTmT07Qa6MP2IHfhOVS/cfKhBtsNb7HKkRg7PkBaBCOR3DxokdLYQM89PjxGujHhqPm1eJh5WyY1dzP05haaXjRaqEg==;o0N/YFNzCmJP6pMGYnmCUQ=="
 ---

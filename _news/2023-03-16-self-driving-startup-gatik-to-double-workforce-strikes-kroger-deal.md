@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to
 webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger_Ocado7_0_1.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "Kroger set to use self-driving trucks for deliveries"
+    excerpt: "Self-driving trucks will soon start making deliveries at some Kroger stores in the Dallas area, the company announced. Kroger has partnered with Gatik to use its midsize trucks to carry goods between a Kroger fulfillment center and the nation’s largest ..."
+    publishedDateTime: 2023-03-18T14:24:00Z
+    webUrl: "https://www.daytondailynews.com/local/kroger-set-to-use-driverless-trucks-for-deliveries/A44KIVHVIRHCXCTSOL5MFX4VKM/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 24
+    images:
+      - url: "https://www.daytondailynews.com/resizer/NJ6qoD08jXjGqtNMaCOCccoi-4M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/HRMXSHOVSDT2SH43YAG37QGSQE.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "SEnOb3GoI43eUKDDieOy6ycNqDDE0ZK+5V0iW5vqp98nkAyGPHqwI9CS7U8wXDKNNgpD3EpFX85nybDAiRS/adUuTyoiQY7ESRhjQmlJfbSn7KqM/5Ia1AyzZ7LHjjZg8jg0L4mNGyAi5qbBVBfCLH2bXiifYHJ2473wDPld5S42l578npG6OwmXhex+MlXjJRgF+RTIMbjs6bT3+fK+z+AYwZLd4JiJtbthWY+n9vdOjut4vqw6J+Hu4sCbYKdQ8p4WHeKYJUYXA64ktIGYr+g2mlN2Q+rSJqK6BjNdlTBoVIPEZ4AzbL9XG0lm7i5R92KepLksNnKTSmzPLRVF8dHl704c3nFyhqjBMhAYvQOSZrGdsgUJvAxhNuNTrrBbPnYurDqTayrX44WagIEgy5Yfo8Y++q6Bo+1pNHKGW8P7YqY8mpTX8Q7yMejp4ZQxFHnsNyhEdtuPKZxWpIKpU9U/YRfY5PEqnlaK9CJv15wkR/rwApshhoRpal0m657n1dLLnljAfGuOSHm6/yS4jg==;wA36+bDdwNsq93G4QL+M/g=="

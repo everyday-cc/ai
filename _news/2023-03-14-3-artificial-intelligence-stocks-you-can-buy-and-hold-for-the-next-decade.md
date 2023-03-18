@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/14/artificial-intelligence-
 webUrl: "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/"
 type: article
 quality: 68
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -57,24 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "3 AI Stocks That Can Make You a Millionaire by 2025"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With  AI beginning to transform just about everything, the potential $1.8"
-    publishedDateTime: 2023-03-13T19:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soun-robt-ai-3-ai-stocks-that-can-make-you-a-millionaire-by-2025-1032164252"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI Stocks That Have Warren Buffett’s Buy-In"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors looking for Warren Buffett AI stocks should note that the"
-    publishedDateTime: 2023-03-13T19:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai-stocks-that-have-warren-buffetts-buy-in-1032164253"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "cram6WgI4Bc6CVhOecVAWzF5rEGRJgh1dJbtMRibzfSWkb9P4mn5DDentuap3iEryfLq9YF+DvQjLZAeOy5rAdosn26Lkn8W9o9GwQekQ8Wq00EWW4Scy5x+Xeh7O1HJfeM2+XsYgsrhKXGcd/KlEs4t3kgcVEtliFo6N6ya7SmTLYqjSH19urd7kUeFxDM69IlBP36fNUfRPa8I4d9gQ/iCsqmE2Qsa43A8CtkzlfiTt2rJEM3qTU6iqr1z13bdd4HPmyFsLK+r6YYLVgfwslUW/KDvGR7V+dWqM6W0qKncsWGVw1Kmw/iEjTlX2XENcl/WYtJJ93n1fzU6UoaD+dkfoKBakReiTLpoFZaPhkY=;SLFQ+AVTCRroA3DDRAZ+yw=="
 ---

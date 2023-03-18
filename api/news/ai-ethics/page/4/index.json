@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
+      "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
+      "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "publishedDateTime": "2022-12-15T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-building-transparent-ethics-into-artificial-intelligence.md",
       "title": "Building transparent ethics into artificial intelligence",
       "excerpt": "Eliminating data bias is crucial, as AI-based discrimination can have dire regulatory, reputational and revenue repercussions.",

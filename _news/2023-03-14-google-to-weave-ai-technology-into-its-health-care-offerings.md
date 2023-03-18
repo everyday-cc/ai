@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integ
 webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s AI healthcare tools take center stage, raising ethical concerns"
+    excerpt: "Google popped the hood on a variety of healthcare tools built with artificial intelligence (AI) this week, from consumer-facing search and symptom-checking features to apps designed to help doctors screen for tuberculosis and plan cancer treatment."
+    publishedDateTime: 2023-03-16T14:15:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 70
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/01/GettyImages-1235961216.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Google to weave AI technology into its healthcare offerings"
     excerpt: "The company has assimilated health AI efforts in search and made strides in integrating its AI model into medical research."
     publishedDateTime: 2023-03-15T00:57:00Z

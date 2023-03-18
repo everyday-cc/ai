@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers"
-    excerpt: "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ..."
-    publishedDateTime: 2023-03-13T21:59:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 131
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg"
-        width: 760
-        height: 485
-        isCached: true
   - title: "Microsoft Cuts Team Focused on AI Ethics, Report Says"
     excerpt: "Among the 10,000 Microsoft employees laid off in January, the entire ethics and society team within the AI section of the company was cut, according to a Monday report by Platformer. Microsoft still has an Office of Responsible AI to create rules and ..."
     publishedDateTime: 2023-03-14T20:35:00Z
@@ -268,6 +252,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report"
+    excerpt: "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ..."
+    publishedDateTime: 2023-03-14T15:07:00Z
+    webUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft fires ethics and society team with AI division"
     excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
     publishedDateTime: 2023-03-14T05:40:00Z
@@ -332,6 +332,38 @@ related:
         width: 1999
         height: 1125
         isCached: true
+  - title: "Microsoft Stock Rallies As Next Generation ChatGPT-4 Is Released"
+    excerpt: "Just as the conversation around ChatGPT had begun to die down, the next generation of the natural language processing software, GPT4, has been released. It offers up improvements in scope and capabilities of the model, with proponents believing it to be ..."
+    publishedDateTime: 2023-03-16T15:10:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413310fff60066fd87fbf2f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'"
+    excerpt: "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products."
+    publishedDateTime: 2023-03-16T16:41:00Z
+    webUrl: "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1678992124"
+        width: 4000
+        height: 2668
+        isCached: true
   - title: "Microsoft laid off an AI ethics team"
     excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
     publishedDateTime: 2023-03-16T23:36:00Z
@@ -348,21 +380,21 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+  - title: "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report"
+    excerpt: "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October."
+    publishedDateTime: 2023-03-14T04:46:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 91
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d.ibtimes.com/en/full/4415341/microsoft-logo-seen-day-after-microsoft-corps-msfto-262-billion-purchase-linkedin-corp.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
@@ -436,6 +468,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ethics or Profit? Microsoft's Layoffs Reportedly Target AI Team Amid Google Rivalry"
+    excerpt: "The Satya Nadella -led company has slashed its Ethics and Society team within the artificial intelligence organization. The decision is part of recent layoffs that impacts 10,000 employees across the company,"
+    publishedDateTime: 2023-03-14T04:54:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31333533/ethics-or-profit-microsofts-layoffs-reportedly-target-ai-team-amid-google-rivalry"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31333533"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31333533"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
     excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
     publishedDateTime: 2023-03-14T09:00:03Z
@@ -496,19 +544,19 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 81
-  - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
-    excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"
-    publishedDateTime: 2023-03-13T19:49:00Z
-    webUrl: "https://insidehpc.com/2023/03/microsoft-introduces-generative-ai-vm-on-azure-with-scaling-up-to-thousands-of-gpus/"
+  - title: "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings"
+    excerpt: "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet."
+    publishedDateTime: 2023-03-16T16:48:00Z
+    webUrl: "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 80
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 81
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/03/NVIDIA-Microsoft-logos-source-Nvidia-0323.jpg"
-        width: 600
-        height: 300
+      - url: "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Microsoft unveils AI for its office suite in increased competition with Google"
     excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
@@ -563,21 +611,19 @@ related:
         width: 978
         height: 628
         isCached: true
-  - title: "Microsoft Bing now has 100 million daily active users, thanks to AI"
-    excerpt: "Microsoft Bing has surpassed 100 million daily active users, thanks to AI pushing the search engine over the milestone."
-    publishedDateTime: 2023-03-13T22:45:00Z
-    webUrl: "https://9to5google.com/2023/03/13/microsoft-bing-users/"
-    ampWebUrl: "https://9to5google.com/2023/03/13/microsoft-bing-users/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2023/03/13/microsoft-bing-users/amp/"
+  - title: "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts"
+    excerpt: "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps."
+    publishedDateTime: 2023-03-17T18:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553"
     type: article
     provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/microsoft-new-bing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft adds AI tools to office apps like Outlook, Word"
     excerpt: "Microsoft is infusing artificial intelligence tools into its suite of office software, including Word, Excel and Outlook emails"
@@ -681,17 +727,31 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
-    excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
-    publishedDateTime: 2023-03-13T19:58:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/how-microsofts-bet-on-azure-unlocked-an-ai-revolution/"
+  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
+    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
+    publishedDateTime: 2023-03-16T00:25:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
+      name: Futurism
+      domain: futurism.com
+    quality: 71
     images:
-      - url: "https://news.microsoft.com/source/wp-content/uploads/2023/03/How-Microsoft-bet-on-Azure-unlocked-an-AI-revolution-1200x630-1.jpg"
+      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -711,19 +771,19 @@ related:
         width: 708
         height: 402
         isCached: true
-  - title: "Microsoft spent hundreds of millions of dollars on a ChatGPT supercomputer"
-    excerpt: "Microsoft’s already working to make Azure’s AI capabilities even more powerful Microsoft’s already working to make Azure’s AI capabilities even more powerful with the launch of its new ..."
-    publishedDateTime: 2023-03-13T22:59:00Z
-    webUrl: "https://www.theverge.com/2023/3/13/23637675/microsoft-chatgpt-bing-millions-dollars-supercomputer-openai"
+  - title: "‘Ethics and society’ team responsible for AI moderation laid off by Microsoft"
+    excerpt: "Tech giant Microsoft has laid off an entire team of ‘ethics and society’ responsible for Artificial Intelligence (AI) moderation"
+    publishedDateTime: 2023-03-14T04:18:00Z
+    webUrl: "https://theshillongtimes.com/2023/03/14/ethics-and-society-team-responsible-for-ai-moderation-laid-off-by-microsoft/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 68
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
-        width: 1200
-        height: 628
+      - url: "https://theshillongtimes.com/wp-content/uploads/2022/12/microsoft.jpg"
+        width: 400
+        height: 332
         isCached: true
   - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
     excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
@@ -773,20 +833,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
-    excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
-    publishedDateTime: 2023-03-13T20:17:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 62
-    images:
-      - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Copilot leak shows AI automatically creating a PowerPoint presentation"
     excerpt: "Microsoft is holding a big AI event later today, but one of the announcements appears to have just leaked. Twitter user h0x0d has published details of a PowerPoint Copilot feature, which appears to include ChatGPT-like AI that will create presentations for you."
     publishedDateTime: 2023-03-16T16:51:00Z
@@ -805,6 +851,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX"
+    excerpt: "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks."
+    publishedDateTime: 2023-03-14T14:42:00Z
+    webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft unveils new AI-powered instance family"
     excerpt: "The tech giant continues to leverage its investment in OpenAI. Microsoft announced this week that it is extending its Azure cloud platform thanks to a new"
     publishedDateTime: 2023-03-14T09:46:00Z
@@ -903,6 +963,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "TCS launches 5G-enabled cognitive plant operations adviser for a Microsoft platform"
+    excerpt: "Tata Consultancy Services (TCS) announced the launch of its 5G-enabled solution, TCS Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform ..."
+    publishedDateTime: 2023-03-14T05:45:00Z
+    webUrl: "https://www.freepressjournal.in/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 53
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/c1c84af3-5e1c-4fb3-ab48-760957537d02/Untitled_design__38_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 675
+        height: 380
+        isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
     publishedDateTime: 2023-03-16T16:50:00Z
@@ -940,6 +1016,15 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
+    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
+    publishedDateTime: 2023-03-17T18:49:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 46
   - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
     excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
     publishedDateTime: 2023-03-17T16:53:00Z
@@ -954,6 +1039,29 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Introducing Microsoft 365 Copilot—A whole new way to work"
+    excerpt: "Copilot combines the power of language models with your data in the Microsoft 365 apps and Microsoft Graph to turn your words into the most powerful productivity tool on the planet."
+    publishedDateTime: 2023-03-16T17:06:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/03/M365Copilot_HeroBanner_Apps_BLOG-FEATURE.jpg"
+        width: 1105
+        height: 675
+        isCached: true
+  - title: "Microsoft Layoffs: Ethics and Society Team Fired"
+    excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
+    publishedDateTime: 2023-03-14T09:17:00Z
+    webUrl: "https://techreport.com/news/3493451/microsoft-layoffs-ethics-and-society-team-fired/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 36
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
     excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
     publishedDateTime: 2023-03-15T13:40:00Z

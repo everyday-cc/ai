@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-ga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Artificial Intelligence accelerates the fourth industrial revolution"
+    excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
+    publishedDateTime: 2023-03-18T13:36:00Z
+    webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
+    type: article
+    provider:
+      name: The Tico Times
+      domain: ticotimes.net
+    quality: 37
+    images:
+      - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "DiqsNlfrAQ2ORVBc9elZSO0VAlfr7qsYaRhW1jig7jXnIInEwbFlWRTqg+4M1xMsaKBwr3HYFykoCw/oP2vo3jGtZPkiH+zfZJffCKCPltD/jkRgX3zVkgG3oj4eb9h1rtu6SeETgqoJhch+gQgbPHBEnQjfo+rTV8e0ULPsNKmdQ8tSm/L420lyBAwAYnf+64LwQ2ayw1dyBM39wVj7bgsuXKtB2n1W5ol8kOu475rI5GDeKQEZPP+l160QALH1mLhdE/Vlbva9HEyOaC5L3hg2f1qAIJP/N1g1ydiXOTTs6yC+b1pL3HPj64/M3bvFHAcOGu7ahJV4CEffwm/p11VO0bCNTI0am+n8uPSMTiQ=;sG3uQLzL1GeogNFmTDJAWw=="
 ---

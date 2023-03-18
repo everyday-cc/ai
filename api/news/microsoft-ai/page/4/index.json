@@ -2,111 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-02-13-warren-buffetts-secret-portfolio-owns-3-brand-name-ai-stocks.md",
-      "title": "Warren Buffett's Secret Portfolio Owns 3 Brand-Name AI Stocks",
-      "excerpt": "The other key growth driver for IBM is AI. Although supercomputer Watson is perhaps the best example of IBM's AI and analytics in action, it's far from the most practical. Instead, IBM offers an abundance of services incorporating AI and machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/720055/warren-buffett-berkshire-hathaway-brka-brkb-motley-fool.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T02:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-cognitive-bias-the-elephant-in-every-room.md",
-      "title": "Cognitive bias: The elephant in every room",
-      "excerpt": "This growth is the product of the trade-off between complexity and cognitive bias. Human cognition isn’t fundamentally scalable, as the human brain can’t just spin up new hardware to apply ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/",
-      "originalUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/DALL·E-2022-12-01-07.41.55-an-AI-sitting-on-a-throne.png?w=1200&strip=all",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cognitive-bias-the-elephant-in-every-room/amp/",
-      "publishedDateTime": "2023-02-12T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-11-top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google.md",
       "title": "Top AI startup news of the week: There’s more to AI than just Microsoft and Google",
       "excerpt": "It indicates a way to close an interaction, or dismiss a notification. SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News Indices Commodities Currencies Stocks",
@@ -1395,6 +1290,102 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
+      "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
+      "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107179799-1674054065249-107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpg?v=1675811778&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-ai-designed-chips-reach-scale-with-first-100-commercial-tape-outs-using-synopsys-technology.md",
+      "title": "AI-designed chips reach scale with first 100 commercial tape-outs using Synopsys technology",
+      "excerpt": "Synopsys, Inc. reaches scale for AI-driven chip designs as major semiconductor customers register the first 100 commercial tape-outs with the company's Synopsys DSO.ai (Design Space Optimization AI) autonomous design system. Recent customers, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230208PR200/eda-synopsys.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230208PR200/eda-synopsys.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230208pr200_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

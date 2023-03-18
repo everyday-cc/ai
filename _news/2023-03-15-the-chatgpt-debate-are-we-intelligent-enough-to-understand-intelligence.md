@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 455
     isCached: true
+
+related:
+  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
+    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
+    publishedDateTime: 2023-03-18T12:27:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 58
+    images:
+      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nfHJ53iVOL6pzrLyDB/u5/S6gN+QDrPaQStyes5A2NHm+EZbmoqkKhUD4c3Fsk62IWfdvYlbJoFmcYuSZ/a5DSFBXux0a66p847NeY7b1PDTK90O/F8D0BNRZ/P1ienU0OUz4qwRvIFlSgs4i/eOHze7aCy8FOM0/dlC8kSxtG6gNRxWIAhgN0pp909LeyquWzzzvTfuZA983ZFo3xHa0YYPo9yojzY1yn1dglUQh3qNQ0MBO3LV7rHfua79FUWR8cuRHgVvRDL4ocY+2SC4r+j0MPK5jUCGmpkSvykREZrkaF1uAloFbok3cXBfEn1fUHymAss0HSRIjoU31iSKlrcQteOrpUm7T5rDXj2tF/F3oYM0+AyvB9BdPE3FSPGujhIouKkJD/XfBV9BtncjUdseoSZKcg3YP8fYuFo9HPPNMkPKRaB5L3gSmjJsMJ1yuX6OouQLZ+VqFuIitUWhijsxDVdE+nUsFT7YFDkhcCZwwNOiEHpKjn+j1KJq6oRCteAIE4vmXZiQIhrtIhCsMA==;RgFm8nBrnw++bQCllnhn+Q=="
 ---

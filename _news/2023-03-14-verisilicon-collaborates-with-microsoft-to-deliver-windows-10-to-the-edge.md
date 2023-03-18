@@ -19,45 +19,26 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX"
-    excerpt: "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks."
-    publishedDateTime: 2023-03-14T14:42:00Z
-    webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
+  - title: "HPE's Aruba is Collaborating with reelyActive and Microsoft Azure to Enhance IoT Workload Migrations"
+    excerpt: "Aruba Networks (a Hewlett Packard Enterprise company) and reelyActive have created an in-tandem IoT solution for workload migrations to Microsoft Azure without the need for custom engineering."
+    publishedDateTime: 2023-03-14T17:44:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/455248-hpes-aruba-collaborating-with-reelyactive-microsoft-azure-enhance.htm"
+    ampWebUrl: "https://www.iotevolutionworld.com/iot/articles/455248-hpes-aruba-collaborating-with-reelyactive-microsoft-azure-enhance.htm/amp"
+    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/s/www.iotevolutionworld.com/iot/articles/455248-hpes-aruba-collaborating-with-reelyactive-microsoft-azure-enhance.htm/amp"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "TCS launches 5G-enabled cognitive plant operations adviser for a Microsoft platform"
-    excerpt: "Tata Consultancy Services (TCS) announced the launch of its 5G-enabled solution, TCS Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform ..."
-    publishedDateTime: 2023-03-14T05:45:00Z
-    webUrl: "https://www.freepressjournal.in/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 39
+  - title: "Aruba Collaborates with Microsoft and reelyActive to Speed the Migration of IoT Workloads to Microsoft Azure without Custom Engineering"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), and reelyActive today announced a new open-source data converter for Microsoft Azure that enables IoT device data that is securely streamed from Aruba Wi-Fi access points (APs) to be used by Microsoft Power BI and other Azure applications."
+    publishedDateTime: 2023-03-14T14:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/14/9776412.htm"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 53
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/c1c84af3-5e1c-4fb3-ab48-760957537d02/Untitled_design__38_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 675
-        height: 380
-        isCached: true
-  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
-    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
-    publishedDateTime: 2023-03-17T18:49:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 46
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "31J8hr/d6LxUxguW8Esk1GFbJxwyviVwEH13ya0mFu8+GHV+EjbG+5H5KlLMal/2kdvZ/53v8mPVhIZ1THz74SkbADx0NG4UJxIqUki1vqYcLGOhun478hguKPDXYRIVWq9UqUmHesVRDmpoC+pwcWB+O3vSGDSXvN06wY9jjEOslTh2KZmfmID19iKrGycouvW136OEB+fnVcaP/jakzt1xZ0S+fFZTYWhv8QAy2maqgSXXMbv8czdnmTS9c+gNa9zF3uuIKk/NkPYaCWu+l0m97Zv68hl4t4r++lJdS3z8y1E0JTxydLJZwRADgVG85yfu6PuzWta8SLLpeZsqzpg+8sQUMfSsif5RlxRQC7Y=;loyiJSSPGLMMx2hwPQCPXw=="
 ---

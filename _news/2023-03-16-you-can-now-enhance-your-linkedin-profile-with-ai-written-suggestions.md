@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-15T17:42:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "LinkedIn expands its generative AI assistant to recruitment ads and writing profiles"
     excerpt: "Earlier this month, when LinkedIn started seeding “AI-powered conversation starters” in people’s news feeds to boost engagement on its platform, the move saw more than little engagement of its own, none of it too positive."
     publishedDateTime: 2023-03-15T16:56:00Z

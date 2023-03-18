@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-03-16-global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis.md",
-      "title": "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis",
-      "excerpt": "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-16-self-driving-startup-gatik-to-double-workforce-strikes-kroger-deal.md",
       "title": "Self-driving startup Gatik to double workforce, strikes Kroger deal",
       "excerpt": "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS",
@@ -62,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -323,7 +271,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -537,57 +485,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-psa-beware-of-these-ai-generated-youtube-videos-that-spread-malware.md",
-      "title": "PSA: Beware of these AI-generated YouTube videos that spread malware",
-      "excerpt": "In addition, you’ll want to be careful in general as these cybercriminals are also finding ways to take over popular YouTube channels. In order to reach as many people as possib",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/youtube-video-malware-3298682/",
-      "originalUrl": "https://www.androidauthority.com/youtube-video-malware-3298682/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2019/06/youtube-premium-inside-app-logo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1232,7 +1129,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1271,6 +1168,102 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-using-hugging-face-machine-learning-models-in-azure.md",
+      "title": "Using Hugging Face machine learning models in Azure",
+      "excerpt": "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "publishedDateTime": "2023-03-15T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
+      "title": "AI, machine learning necessary to run a modern network",
+      "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
+      "originalUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
+      "publishedDateTime": "2023-03-14T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

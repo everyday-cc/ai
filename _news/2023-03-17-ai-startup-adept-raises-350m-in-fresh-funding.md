@@ -63,6 +63,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "AI Startup Adept Raises $350 Million in Fresh Funding"
+    excerpt: "AI Startup Adept Raises $350 Million in Fresh Funding By Ananya Mariam Rajesh and Krystal Hu (Reuters) -Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a ..."
+    publishedDateTime: 2023-03-14T20:13:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-14/adept-raises-350-million-in-series-b-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
     excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
     publishedDateTime: 2023-03-14T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
 type: article
 quality: 86
-heat: 176
+heat: 206
 published: true
 
 provider:
@@ -158,6 +158,43 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:41:00Z
+    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 36
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:34:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 31
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Amazon Sued Over Facial Recognition Technology"
+    excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
+    publishedDateTime: 2023-03-17T15:41:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 19
 
 secured: "4XRkphOPtmWUMf9TwmqZJH6RERHD/72ITHrobRjeBuNFY9Q7a7kSeSPHyzcAKqsfzcFAP/Wvy6GWtcaCn5kQSNy/sSfKwe4Oaw3FcYALuMLGqHzgaZDv/e9G0QKlOEHFK3hVrBSibi3tNaU8NOguaBmEE9tlHOQukeYnW22CX4wquIlIQvC4wAMEUn3vf9Ij/NRMB/ry2FpNv8cGzCma4kM/TboQroKQ6MyMYPkuy4XIZ1ynWdDQPKoxWS8H/nklPaiEp80OdY31LK0iC9AybPm8FOQWj4zOvpO7lu/PmXXnzjDsW+iTXsIQFBeRsQIk1Op7oHeI3qPujMr7hMimGkIAMKR6PRRGg1y+1jCJhzivwX9ZEg/Q7flhn560+qIaM1WNj6X2uZ+rog44lO8K4lG9FuJO9ofXRSFNfVbzz6CZe/gjn1Ij5sKlRY/O+y7gO+B/eFZFrF+4ciUZPAA7lsOaT83NMaacVIJZni6TbOutiXqSeXhnLgPf2JdbOMKrlyhNmPsJ/J36Opbz77t9Tw==;MwOLzIjclBD5NDRWU3ppqg=="
 ---

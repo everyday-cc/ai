@@ -54,20 +54,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-    excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
-    publishedDateTime: 2023-03-13T22:52:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "jWOt3GeGPhOV3SHph3zJsgqGuxWiow+ZiYcK1rY74iD95cm6dOuR4R3F058OdRWdvmj4b9ahUFhgcXuSwU3ExteyvfVPV2bpRgDwPaqgspzHmRvOPyoRQnRflso/tG1+R+bRQhHqV979gIDmMyvWMbwP+OWeCKNnaBew8N637WD09C56w3o0F8YPuuWHxrYttnyAdaHfOoFmeujE5L1DE38cHJjx4VHWvJ6xddHmXZDWCyzUhKymVivlBLX77WzyqBhFzwfAL4yGAySFimt3SUYy4Z3Amh7f/9uCNw1ff0u2pyCi7DdzDjK2HZDAAibqJrRG3IlYlRwsQXrHW8F8brijp90LJzlVQNJLObxcGphAey2GLTCN2aq/knblFZvLLbn3/SDv5Y7kION9PL4I7pA14ywb6n5v1Trtuw+H3CK19STxb+kbf5uTaKGyPe1aKj01nsfBzJYGVII3xZffLlowLgLWskEASbrBtiAg41Kgyrrzytc+aLjy0S9xJpDhNgq4C8aoZzvQLPfzU+OThg==;OspqUExCL61IO25+BxJcEw=="
 ---

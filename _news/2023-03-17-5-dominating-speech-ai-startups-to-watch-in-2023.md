@@ -66,20 +66,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF To reduce the individual risks each AI stock may pose to your portfolio, you may simply buy an index exchange-traded fund (ETF) and diversify ..."
-    publishedDateTime: 2023-03-13T22:12:00Z
-    webUrl: "https://www.fool.ca/2023/03/13/3-top-artificial-intelligence-stocks-to-buy-right-now-2/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 39
-    images:
-      - url: "https://www.fool.ca/wp-content/uploads/2019/05/WirelessTech.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "So Your Clients Want to Invest in AI? Here's What to Know"
     excerpt: "Other ways to invest in the coming AI boom include via adjacent industries, such as companies that specialize in cybersecurity, data processing or chip manufacturing, Loukas says, noting that AI needs all three in order to continue to grow. To that end ..."
     publishedDateTime: 2023-03-14T18:08:00Z

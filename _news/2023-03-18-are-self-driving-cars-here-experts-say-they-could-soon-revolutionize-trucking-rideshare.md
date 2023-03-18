@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-18T12:23:00Z
 originalUrl: "https://www.statesman.com/story/business/technology/2023/03/18/are-self-driving-cars-here-sxsw-experts-say-autonomous-vehicles-could-change-trucking-rideshare/70018102007/"
 webUrl: "https://www.statesman.com/story/business/technology/2023/03/18/are-self-driving-cars-here-sxsw-experts-say-autonomous-vehicles-could-change-trucking-rideshare/70018102007/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Austin American-Statesman

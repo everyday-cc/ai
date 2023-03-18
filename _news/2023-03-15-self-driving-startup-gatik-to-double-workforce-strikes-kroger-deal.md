@@ -69,6 +69,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Kroger set to use self-driving trucks for deliveries"
+    excerpt: "Self-driving trucks will soon start making deliveries at some Kroger stores in the Dallas area, the company announced. Kroger has partnered with Gatik to use its midsize trucks to carry goods between a Kroger fulfillment center and the nation’s largest ..."
+    publishedDateTime: 2023-03-18T14:24:00Z
+    webUrl: "https://www.daytondailynews.com/local/kroger-set-to-use-driverless-trucks-for-deliveries/A44KIVHVIRHCXCTSOL5MFX4VKM/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 24
+    images:
+      - url: "https://www.daytondailynews.com/resizer/NJ6qoD08jXjGqtNMaCOCccoi-4M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/HRMXSHOVSDT2SH43YAG37QGSQE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0jInFvgvfkG6T9cxMew6+dgFOD1+jcXanyf1g3uquK38AvGYlQ61eLRO2PqdZcgqaMa9koeNg/jiyIXt4MtaDCK2nXd+aY29msa2vtN2f1mS6Z5XkPqBDDqmxjAtUZHTsPzaqn8pqsq8QC+oVNkRmArYT+oUHo3bVhOavE3HliZ8OR+Vgq+F9oDHcSvw/S6GCpH4BKHz5OOhLvdMo8ZNSRXg1g0SZbf9QOV7QGdtGH6bXUOe00geJG0q3rrUhY2JQGJscT9XQftEoOa3pg0JpuE4nlwPYP1Xv5a/od87FFPKq2Dbqw92Vy7whmw9KTbg0bpKr/jMgCCL1T+5xk6N0Yqd/3pU+myPdsATONFBDQjdCdPmt1ezJM8b71Shev6LnXZuPy0Y2vZ+I4eXwNjJDXnyibrwWtjjChoaroLtHChVHeocEr6Tw3ngFWGGZ6tPzwMebefiMkyr16J0y5tm9DZhfWZoC7EKDDiHPHic3+j8XPbpMMe6Uc6sqbUWWubDEkVBVhnbyORY8mGa2NrGPA==;gYLRxIqdgWCYuM7POk/TkQ=="
 ---

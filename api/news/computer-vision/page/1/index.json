@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -332,7 +332,7 @@
       "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -401,58 +401,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-14T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033.md",
-      "title": "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033",
-      "excerpt": "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T21:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1409,6 +1357,49 @@
       "provider": {
         "name": "Security",
         "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
+      "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
+      "excerpt": "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona 2023. These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

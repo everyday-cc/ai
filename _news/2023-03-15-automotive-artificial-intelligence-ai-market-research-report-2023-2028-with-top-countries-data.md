@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Computer Vision Market Highlights 2023-2028, With New Report"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- Report Highlights with 116 pages:-\"The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast period, reaching USD 14367.51 ..."
+    publishedDateTime: 2023-03-17T13:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-highlights-2023-2028-with-new-report-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Real Estate Market 2023: Sales Analysis, Industry Trends, and Growth Outlook"
     excerpt: "Mar 15, 2023 (The Expresswire) -- “2023 Artificial Intelligence (AI) in Real Estate Market Latest Trends and Consumer Preferences: A Comprehensive Research..."
     publishedDateTime: 2023-03-16T02:57:00Z
@@ -149,20 +163,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
-  - title: "Artificial Intelligence (AI) Market Worldwide Business Growth and Consumption Status by 2029"
-    excerpt: "The \"Artificial Intelligence (AI) Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-13T20:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-business-growth-and-consumption-status-by-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
     excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
     publishedDateTime: 2023-03-15T10:51:00Z
@@ -422,6 +422,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
+    excerpt: "The global Healthcare AI Market at a CAGR of 42%, and it is expected to reach USD 169.7 billion by 2029, over the forecast period The healthcare ai market is a rapidly growing segment of the healthcare industry,"
+    publishedDateTime: 2023-03-18T14:46:00Z
+    webUrl: "https://menafn.com/1105807041/Healthcare-AI-Market-Trends-Demand-Growth-And-Future-Scope-2023-To-2029-Welltok-Inc-Intel-Corporation-Nvidia-Corporation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?478964"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "rD/7NGLuTOLLPgsUdTxOCirx4dQpBWTS5ifvr+d/WF+zJCq6DvrdcImZGsta2SYKuBmtJbEunFZ8ez/k9WDkRxsohvk51zVWHu5K/avQOwEjZANGN4/GJQuWqalPypwEMjJXEKt+awfFrUQZ8FfjIMzlFXqd32BGqFBtFYqUcTdKMwTEwtA2C068YJUe7nqYlQXK2hQT9B0/swklAaR9euGBer0gV87AV67EBsVoM5sheQ1wt7XLsBZIQ2yFI3Jb+wjz+vlT4XdFiO2bZTlk4WJBmCwPaWOjvFrIJPhGJ8W9HO/mu4ePz/cq8B29hRLvvQOXyErANEZxpU5tDup9dzp6rCAnf29x7pDp14Au/MU=;Wz0I2uH2uFCOFTtxz6h5Kw=="

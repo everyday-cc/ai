@@ -1,24 +1,31 @@
 ---
 category: news
 title: "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers"
-excerpt: "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers Mar (PRNewswire via"
-publishedDateTime: 2023-03-14T13:15:00Z
-originalUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
-webUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
+excerpt: "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ..."
+publishedDateTime: 2023-03-14T13:17:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
+ampWebUrl: "https://www.benzinga.com/amp/content/31340022"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31340022"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "iDqdSvWil5qQ9nOd4cRJ2ZUk16Kj398hZdqtvFHEBWwtfZApcUkEklx9uuOZSXTh5TPOUkv2tzgXGssHbADx6+itC6gKttZjgxhIUqOiyFN2g69reFUA71X01vC1OYKrxvbxNbRjw6e0Dd27BMjpz4TDZ7GXvdjOD01DjqTEJ1+4eff1giy7zqxVTH1qx9BCd4Bn3sOlyKvbu2Q2qZMpAD2soJnHNCrRcXKRxLP6BkaogC1F+ILixQ3U455UXWNTJS+pLJgO4ZmVyHomCOohADwM9wb2OH0d6ipjilUtD9NcpLQx0GtzXQPhjX5iEJxzRnlVhTWkx/ziUmyiMIa16G7nCWxi1hf+vjP1Nua+E+k=;TsMQjiC5CeSzlhQDGeQYWQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "jpKgkIb5/zcyPN1q7qVLiseVT0vcwRVf3LKZBTcljZTVARJ8xBgiOYlmfEHlD13050BFzWBqXyZhrhWJWjID6LvU1FtWZ5gZZS2+/2qIUhWb+hv8H97gJT3SgCadghtv6TNUdgviBPU+y8pMTJAl5IuVM+ieV8o77SlC/dpgvkneETjGeDs4QNvCoYxFD76zWt4/pTxH1lh7B9GIrlM6oaloLc8g4Zgwd+g2qldj2zXMMmuE1iOdg07Mk2zot/AFC5VZbST75fJrKu0lpbVqMRE5+Ie7qouwJ5dvz6mVo+r0kmRYM8pCb/t8qcERxSGhMYxSAHy4JacGB/JygkCbu7CpCIRL3izZES4LLjHeDOs=;jtvb56cfLLAyO0W+3d0L1Q=="
 ---
 

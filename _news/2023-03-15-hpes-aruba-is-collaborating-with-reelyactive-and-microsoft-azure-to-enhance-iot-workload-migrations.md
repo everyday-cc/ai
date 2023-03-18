@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
+    excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
+    publishedDateTime: 2023-03-14T07:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776072.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
   - title: "Aruba Collaborates with Microsoft and reelyActive to Speed the Migration of IoT Workloads to Microsoft Azure without Custom Engineering"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), and reelyActive today announced a new open-source data converter for Microsoft Azure that enables IoT device data that is securely streamed from Aruba Wi-Fi access points (APs) to be used by Microsoft Power BI and other Azure applications."
     publishedDateTime: 2023-03-14T14:30:00Z

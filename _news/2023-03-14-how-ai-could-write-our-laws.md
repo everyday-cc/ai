@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-wri
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-    excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
-    publishedDateTime: 2023-03-13T22:52:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "n/+pgg/sXM7o3swhzzEP+4gy+i6gE96Gh22WtbaiqAHR5xPe5TiqGVM2zepeOZC7G/rqgPSk7WbZTKcx5TaXgg0SvkA+suEdaRNptn6SdCfLZImH5lXmdim5NZvlCU4ARhP2iDdDSttNQFXPujwLtEAz9uhMGh/U+Y98+7vshuC6mEXj/qFiulfKm/Wc7PpOmveX+bmD5IB6hBy2ENyZiWPc7TnFKJCJYB4kZuqw+D1WHr4eYXDt/vzqRSXpC6jMmxCJoZFGk6vqHO6XJGQPYrx/4l6NNkRwBisa5jT9+XGWIKwt4ov8oYHvAcI+0ft1gjWb6VBnjWkB0ofuVbKj2sbLjrqD+IIwxWLSVaR++NnFmLavtda1nbVHn5ma8GSluyiQzWNi5a1GnGpy0oymV4HXAT40AxWzkWfrdxbsFZWe8hrabl9HMHxDCVFcDZzDybhn+NR48mA1HL2tQoUebtIGMqiUlISWyw6vScdpgGNvuoFgrXqComB7zJg8rw2+YWhNdMEmMoPcrmSwloGPZQ==;Kq5WVn8gkV3tl1+xixhbDw=="
 ---

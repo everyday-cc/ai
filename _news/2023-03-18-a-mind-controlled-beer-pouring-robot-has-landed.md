@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

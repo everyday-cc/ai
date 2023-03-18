@@ -2,118 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-02-07-healthcare-crm-market-to-surpass-usd-3154-billion-by-2028-owing-to-key-technological-breakthroughs-brandessence-market-research.md",
-      "title": "Healthcare CRM Market to Surpass USD 31.54 billion by 2028 owing to Key Technological Breakthroughs | Brandessence Market Research",
-      "excerpt": "The Healthcare CRM Market is anticipated to reach a valuation of USD 31.54 Billion by 2028 from USD 12.53 Billion in 2021, registering a CAGR of 14.1% over the forecast duration of 2022-2028. The healthcare industry is anticipated to experience a surge in the demand for Customer Relationship Management (CRM) solutions due to the growing requirement for structured data and automation within healthcare organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-healthcare-crm-market-surpass-usd-3154-billion-2028-/2023/02/06/9755426.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-healthcare-crm-market-surpass-usd-3154-billion-2028-/2023/02/06/9755426.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-latent-technology-raises-21m-to-blend-ai-and-game-animations.md",
-      "title": "Latent Technology raises $2.1M to blend AI and game animations",
-      "excerpt": "Latent Technology has raised $2.1 million to build the next-generation animation technology for virtual worlds and game characters.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/",
-      "originalUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/amp/",
-      "publishedDateTime": "2023-02-06T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-pinecone-now-available-on-aws-marketplace-and-gcp-marketplace.md",
-      "title": "Pinecone now available on AWS Marketplace and GCP Marketplace",
-      "excerpt": "Pinecone Systems Inc., a machine learning (ML) infrastructure company, today announced that it is now available on the Amazon Web Services (AWS) Marketplace, as well as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30735121/pinecone-now-available-on-aws-marketplace-and-gcp-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30735121/pinecone-now-available-on-aws-marketplace-and-gcp-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-us6-billion-plus-valuation-report.md",
       "title": "AI startup Cohere in talks to raise funding at US$6 billion plus valuation: Report",
       "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than US$6 billion,",
@@ -916,6 +804,108 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-search-wars-reignited-by-artificial-intelligence-breakthroughs.md",
+      "title": "Search wars reignited by artificial intelligence breakthroughs",
+      "excerpt": "Google, Microsoft and some start-ups plan to embed AI into their services in ways that may transform the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6 billion plus valuation",
+      "excerpt": "Toronto-based Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google, investors said.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "publishedDateTime": "2023-02-06T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
+      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
+      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -30,6 +30,15 @@ related:
       name: iotevolutionworld.com
       domain: iotevolutionworld.com
     quality: 39
+  - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
+    excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
+    publishedDateTime: 2023-03-14T07:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776072.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "LQZqgMLlHjp8Rp1guXZTbr9cUocvvashTXZrM0CHW76UZyyg/ZZ/Y3SRxF/ALl3AS+33llf07ZBliz4P5lr6cX0lcJfNZ1Wk7lVzicUxt+K1fsjfvksX5XBkzt7xFK8HWQoJFXqqZY5sOf386rjSfYxXSCr4VSfj49wGVYnTU+gfkfpVx53tqY3fq0Iiaq8w3EjcUkusB+kfsyB32aaegA3V9QIwSTklVJP2K8ZsbaWGeQm1ijp1J5epEFs3hUkeh00bVkBabBeaQ0ZHdMo0uV5NSlhcjCQEnv4q9yzYIlVwOPj6qzqevLE8m5LXZ7cQamo5PUPsjSG+I9gTrUf7fR2F58taTxJ2VnHNSemgXyYRgBKdWq4lCUQpl78k6s30mPSFMdUYAnxWunLHsbt/OZxSn4FDnzk04zdBi6JCPig4YcCYhfknQ2zWKzjrYckv++Dak+v9lM7DpIcD01KvX2IvqtqUrup+Zh2eRNY5IVYNYULMw4r1loN7pGKsN3t3Z3DZy9Cv61cTF/cAKdpXiQ==;JYIC0STVFdDRd6q53rbkqg=="
 ---

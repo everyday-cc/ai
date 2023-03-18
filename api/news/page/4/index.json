@@ -2,102 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-15-using-hugging-face-machine-learning-models-in-azure.md",
-      "title": "Using Hugging Face machine learning models in Azure",
-      "excerpt": "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
-      "publishedDateTime": "2023-03-15T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
-      "title": "AI, machine learning necessary to run a modern network",
-      "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "originalUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "publishedDateTime": "2023-03-14T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-15-india-must-think-hard-on-artificial-intelligence-guardrails.md",
       "title": "India must think hard on Artificial Intelligence guardrails",
       "excerpt": "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ...",
@@ -191,7 +95,7 @@
       "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -340,7 +244,7 @@
       "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -424,6 +328,59 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-microsoft-cuts-team-focused-on-ai-ethics-report-says.md",
+      "title": "Microsoft Cuts Team Focused on AI Ethics, Report Says",
+      "excerpt": "Among the 10,000 Microsoft employees laid off in January, the entire ethics and society team within the AI section of the company was cut, according to a Monday report by Platformer. Microsoft still has an Office of Responsible AI to create rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "originalUrl": "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 881,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/33cf84a347e0c3d2235eaafe11802a3edb769c2b/hub/2023/03/14/939fff55-4d96-439d-ad57-4a253cf75239/gettyimages-1246747435.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "publishedDateTime": "2023-03-14T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -539,7 +496,7 @@
       "originalUrl": "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -887,102 +844,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report.md",
-      "title": "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report",
-      "excerpt": "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "publishedDateTime": "2023-03-14T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-google-to-weave-ai-technology-into-its-health-care-offerings.md",
-      "title": "Google to Weave AI Technology Into Its Health-Care Offerings",
-      "excerpt": "Alphabet Inc.’s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research, ways to help consumers find ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQYiEad1ecc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-our-latest-health-ai-research-updates.md",
       "title": "Our latest health AI research updates",
       "excerpt": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
@@ -1035,50 +896,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-microsoft-open-sources-weather-forecasting-deep-learning-model-climax.md",
-      "title": "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX",
-      "excerpt": "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
       "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
       "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
@@ -1127,6 +944,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
+      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
+      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "publishedDateTime": "2023-03-14T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1182,6 +1052,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-14-agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable.md",
+      "title": "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable",
+      "excerpt": "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "originalUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "publishedDateTime": "2023-03-14T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-the-philosopher-a-conversation-with-grady-booch.md",
       "title": "The philosopher: A conversation with Grady Booch",
       "excerpt": "Our recent conversation touched on both practical and philosophical aspects of human-computer interaction and co-evolution, artificial intelligence ... the world in its ability to carry out Rogerian therapy … or at least a fair illusion of it.",
@@ -1230,6 +1143,101 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
+      "title": "How AI could write our laws",
+      "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
+      "originalUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/",
+      "publishedDateTime": "2023-03-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-face-recognition-device-market-with-data-research-source-2028.md",
+      "title": "Face Recognition Device Market with Data Research Source 2028",
+      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

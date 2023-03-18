@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10 stocks that are gaining market share for their disruptive innovations like AI, according to a portfolio manager"
+    excerpt: "Artificial intelligence has dominated the conversation when it comes ... They are a service and product supplier specifically for cell and gene therapy-based companies. IDEXX Laboratories (IDXX) is dominating the veterinary healthcare space by continually ..."
+    publishedDateTime: 2023-03-18T12:52:00Z
+    webUrl: "https://www.businessinsider.com/stocks-gaining-rapid-market-share-ai-disruptive-technology-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/6414ab320308e0001855448f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand"
     excerpt: "Artificial Intelligence (AI) is becoming increasingly important to ... retail e-commerce, and other segments. In therapy areas such as lifestyle and wellness management, diagnostics, virtual assistants, and wearables, AI in healthcare offers numerous ..."
     publishedDateTime: 2023-03-16T00:15:00Z

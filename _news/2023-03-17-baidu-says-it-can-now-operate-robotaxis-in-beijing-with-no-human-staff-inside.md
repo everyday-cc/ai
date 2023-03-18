@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Beijing Makes Baidu City’s First Fully Driverless Ride-Hailing Service Provider"
+    excerpt: "Beijing has granted internet giant Baidu the Chinese capital city's first license for fully driverless ride-hailing service providers. Apollo Go, Baidu Apollo's robotaxi mobile platform, will deploy 10 fully driverless vehicles in Beijing's Yizhuang Economic Development Zone,"
+    publishedDateTime: 2023-03-17T09:04:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 50
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider/38960022216389.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
     excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"

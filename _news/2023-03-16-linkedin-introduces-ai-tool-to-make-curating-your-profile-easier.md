@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
 type: article
 quality: 89
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-15T17:42:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "You can now ‘enhance’ your LinkedIn Profile with AI-written 'suggestions'"
     excerpt: "LinkedIn is adding AI-powered “writing suggestions” and job descriptions to its service as it looks for new ways to infuse AI into its platform.."
     publishedDateTime: 2023-03-15T20:15:00Z

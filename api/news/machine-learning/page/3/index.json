@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-27-how-machine-learning-will-transform-your-industry.md",
-      "title": "How Machine Learning Will Transform Your Industry",
-      "excerpt": "While ML and associated technologies like natural language processing are gaining traction in current workflows, it's important to pay close attention to ethical standards that differentiate humans from machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631b3e240f6280e0b3d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
-      "publishedDateTime": "2023-02-27T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-27-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029",
       "excerpt": "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends.",
@@ -1403,6 +1351,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-wekaio-launches-channel-program-enlists-partners-for-expansion-into-aiml.md",
+      "title": "WekaIO Launches Channel Program, Enlists Partners For Expansion Into AI/ML",
+      "excerpt": "WekaIO launched the new Weka X Partner Program to expand sales of the Weka Data Platform for AI and machine learning tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/channel-programs/wekaio-launches-channel-program-enlists-partners-for-expansion-into-ai-ml",
+      "originalUrl": "https://www.crn.com/news/channel-programs/wekaio-launches-channel-program-enlists-partners-for-expansion-into-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/027e-175480d8f4be-1ed267b69742-1000/jonathanmartin_22-02-16_0619.jpeg",
+          "width": 600,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

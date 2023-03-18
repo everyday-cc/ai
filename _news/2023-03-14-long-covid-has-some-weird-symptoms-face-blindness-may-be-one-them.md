@@ -73,34 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "COVID-19 can cause 'face blindness,' according to new study"
-    excerpt: "COVID-19 can cause difficulty recognizing faces and navigational problems, according to a new Dartmouth study in Cortex."
-    publishedDateTime: 2023-03-13T21:21:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-covid-.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/covid-19-can-cause-fac.jpg"
-        width: 2194
-        height: 1254
-        isCached: true
-  - title: "COVID-19 Can Cause Face Blindness"
-    excerpt: "Navigational problems and an increased risk of developing prosopagnosia, or face blindness, have been associated with COVID-19 infection."
-    publishedDateTime: 2023-03-13T21:16:00Z
-    webUrl: "https://neurosciencenews.com/face-blindness-covid-22781/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 24
-    images:
-      - url: "https://neurosciencenews.com/files/2023/03/covid-face-blindness-neurosicences-public-1.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "cGfC2V4Cf+y2T/IvFX/jfQjOHrMfx4XvIbZNJQpg1UjHySOueqYKqlC1MfZmQqlBFvoXrUZ8Jif1mhUMsziCELoQm59V12EylemijwOBt8jFWSEWaFVa2wP5n3k2KO7C6xNkuG7LWbQR/xmhphXG0K1XD7yWjihWHsNaYmMoWFkz+Dt5VwIquBIUMuu+iP+xZ+q4DjyZwsT8krl+vNE4Ocu66MDebbAMV6Uh8gAn+BTNZ7atVtg8CJDgPIxFxgFynq5Vta5bG3tyI+VamVOmh8jv+tOuT/2lAX49ghWl+UrIyYJB0JUAywArjZEDUdFuiFg9aOoRW0CiyN8nknZ9wgD7kDuE7hWC+2idONXyIAo=;8voVu9fFfJV2fFVzSsrJTA=="
 ---

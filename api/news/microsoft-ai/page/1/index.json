@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
-      "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
-      "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
+      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
+      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
+      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
+      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg",
-          "width": 1024,
-          "height": 768,
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+          "width": 960,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,118 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T11:37:00-07:00",
+      "publishedDateTime": "2023-03-18T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings.md",
-      "title": "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings",
-      "excerpt": "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
-      "originalUrl": "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-microsoft-tries-to-justify-ais-tendency-to-give-wrong-answers-by-saying-theyre-usefully-wrong.md",
-      "title": "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'",
-      "excerpt": "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1678992124",
-          "width": 4000,
-          "height": 2668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html",
-      "publishedDateTime": "2023-03-16T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -528,6 +424,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-15-microsoft-cuts-team-focused-on-ai-ethics-report-says.md",
+      "title": "Microsoft Cuts Team Focused on AI Ethics, Report Says",
+      "excerpt": "Among the 10,000 Microsoft employees laid off in January, the entire ethics and society team within the AI section of the company was cut, according to a Monday report by Platformer. Microsoft still has an Office of Responsible AI to create rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "originalUrl": "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 881,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/33cf84a347e0c3d2235eaafe11802a3edb769c2b/hub/2023/03/14/939fff55-4d96-439d-ad57-4a253cf75239/gettyimages-1246747435.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
+      "publishedDateTime": "2023-03-14T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-cloud-incident-response-nets-another-45m-with-mitigas-latest-funding.md",
       "title": "Cloud incident response nets another $45M with Mitiga’s latest funding",
       "excerpt": "Cloud incident response provider Mitiga announces it has raised $45 million in funding for a solution designed to mitigate cloud breaches.",
@@ -632,65 +581,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report.md",
-      "title": "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report",
-      "excerpt": "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ...",
+      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
+      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
+      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html",
+      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 500,
       "tags": null,
       "images": [
         {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html",
-      "publishedDateTime": "2023-03-14T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-open-sources-weather-forecasting-deep-learning-model-climax.md",
-      "title": "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX",
-      "excerpt": "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg",
+          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -698,14 +603,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:42:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "publishedDateTime": "2023-03-14T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -714,7 +628,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI Hardware",
         "AI",
         "Microsoft AI"
       ]
@@ -1458,6 +1372,84 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-legal-expert-proposes-cognitive-liberty-to-avoid-corporate-brain-spying.md",
+      "title": "Legal Expert Proposes \"Cognitive Liberty\" to Avoid Corporate Brain Spying",
+      "excerpt": "To avoid the most Orwellian of outcomes, the professor proposes the creation of a new civil right, or \"cognitive liberty,\" that should be accompanied by updates to other integral freedoms like ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/legal-expert-brain-computer-interface-spying",
+      "originalUrl": "https://futurism.com/the-byte/legal-expert-brain-computer-interface-spying",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml.md",
+      "title": "Teradata Announces General Availability of Teradata VantageCloud, Integration with Azure ML",
+      "excerpt": "Teradata today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
+      "originalUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

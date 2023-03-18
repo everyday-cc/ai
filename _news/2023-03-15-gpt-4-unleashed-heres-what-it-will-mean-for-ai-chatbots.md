@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
-    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
     excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
     publishedDateTime: 2023-03-15T19:10:00Z

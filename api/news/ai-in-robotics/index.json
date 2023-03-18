@@ -10,7 +10,7 @@
       "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -374,6 +374,49 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable.md",
+      "title": "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable",
+      "excerpt": "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "originalUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "publishedDateTime": "2023-03-14T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1343,58 +1386,6 @@
         "name": "Fox 13",
         "domain": "fox13news.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-artificial-intelligence-is-going-to-replace-all-but-the-best-stock-picking-pros.md",
-      "title": "Artificial intelligence is going to replace all but the best stock-picking pros",
-      "excerpt": "Artificial intelligence poses a major threat to the worst stock pickers on Wall Street. Even the mediocre ones might want to start looking for another line of work. But the jobs of the best stock pickers are secure — for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
-      "originalUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-354454/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "publishedDateTime": "2023-03-07T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

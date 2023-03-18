@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Beijing Makes Baidu City’s First Fully Driverless Ride-Hailing Service Provider"
+    excerpt: "Beijing has granted internet giant Baidu the Chinese capital city's first license for fully driverless ride-hailing service providers. Apollo Go, Baidu Apollo's robotaxi mobile platform, will deploy 10 fully driverless vehicles in Beijing's Yizhuang Economic Development Zone,"
+    publishedDateTime: 2023-03-17T09:04:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 50
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider/38960022216389.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "w4CsyAP049ZFVCDGf8GVrt/wfAH9lWhlnxEQoQYc2z2CA266ajWiGy8yeZOgAL4Dktna/HWKzcW8K2k7cBbX4HVhACBe135EBiDSnw2dMNUTiaQWRBItmDWbHMgSo4UD1U7uN7nuJZ6f3ks0p8hPhLNQS3+hkomApTLM3wLZnF38pxfU7EfWBKFcF5wnpaNlFZo98sx4XJUwTn/475pqspt9jucpH09dAdfdx2rnrcC7AADFjMNjKGU/633c6VoJ9wYfTQvBvtzRFhI2Wd+2+z7no0EiDSoGMATQ2uo5GmOT57ncy93k219bDOnIIu3GCwMxDHx34+hjElNlgx6W5Tp5Fu0TU36q4Gpw0H6kcH89jsWwOv6uWFwaIPgkoUuwici5wZZdw9+wzQyQXet9UnXrrDOIJg6c8U7sPWDBI9yyVEEuM5mLjkc1/6JecVRLzY2HhIMdHOyABPJ3YG3JAbCXDoQxIP5qS9lUwDejNsH4rL3DcGdr1gOgNRVGl9yK8BWj9nbv8NsjhX+g2Nr9pQ==;W/4LpSiZT5NP5dwfmDXelQ=="
 ---

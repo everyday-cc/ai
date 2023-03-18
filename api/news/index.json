@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
+      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
+      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-18T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-ai-can-be-racist-sexist-and-creepy-what-should-we-do-about-it.md",
+      "title": "AI can be racist, sexist and creepy. What should we do about it?",
+      "excerpt": "I talked to Reid Blackman, who has advised companies and governments on digital ethics and wrote the book “Ethical Machines.” Our conversation focuses on the flaws in AI but also recognizes how it will change people’s lives in remarkable ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301111817-03-chatgpt-openai-stock-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "publishedDateTime": "2023-03-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-where-to-invest-in-artificial-intelligence-stocks-today.md",
       "title": "Where to Invest in Artificial Intelligence Stocks Today",
       "excerpt": "Artificial intelligence is improving by leaps and bounds, and there are some clear leaders emerging today. But will they stay leaders, or will some surprising companies emerge? Travis Hoium discusses why it may not be Microsoft (MSFT 1.17%) and Google ...",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artificial-intelligence-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -104,7 +208,7 @@
       "originalUrl": "https://venturebeat.com/ai/streamlining-ai-production-with-unified-data-stacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -206,7 +310,7 @@
       "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -302,58 +406,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-18-the-tech-boss-at-a-global-pr-firm-says-using-ai-tools-like-chatgpt-can-inspire-creativity-and-transform-businesses-if-you-do-it-right.md",
-      "title": "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right",
-      "excerpt": "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3",
-      "originalUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/641358ec0308e00018551731?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp",
-      "publishedDateTime": "2023-03-17T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-the-truth-about-artificial-intelligence-and-creativity.md",
       "title": "The Truth About Artificial Intelligence and Creativity",
       "excerpt": "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by",
@@ -402,58 +454,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts.md",
-      "title": "Microsoft Has Significant Monetization Opportunity From AI-driven Productivity: Analysts",
-      "excerpt": "Mizuho analyst Gregg Moskowitz maintains Microsoft Corp (NASDAQ:MSFT) with a Buy and raises the price target from $300 to $315. On March 16, MSFT announced Microsoft 365 Copilot, a generative AI tool combining large language models (LLMs) with data resident in Microsoft Graph and Microsoft 365 apps.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-has-significant-monetization-opportunity-from-ai-driven-productivity-analysts-1032176553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/microsoft_buildings_eu.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -516,7 +516,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -611,58 +611,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-17-i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply.md",
-      "title": "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply.",
-      "excerpt": "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
-      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
-      "publishedDateTime": "2023-03-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-17-we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence.md",
       "title": "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence",
       "excerpt": "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4",
@@ -711,6 +659,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-will-chatgpt-ai-replace-the-need-for-formal-education.md",
+      "title": "Will ChatGPT& AI replace the need for formal education?",
+      "excerpt": "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-5.png",
+          "width": 401,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes",
+      "publishedDateTime": "2023-03-17T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1015,7 +1007,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1102,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {

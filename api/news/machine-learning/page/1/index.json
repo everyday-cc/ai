@@ -419,7 +419,7 @@
       "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -569,50 +569,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-microsoft-open-sources-weather-forecasting-deep-learning-model-climax.md",
-      "title": "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX",
-      "excerpt": "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-climate-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
       "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
       "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
@@ -621,7 +577,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 281,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1504,6 +1460,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand.md",
+      "title": "Automated Machine Learning (AutoML) Market to Grow Exponentially Due to Rising Demand",
+      "excerpt": "The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand-2023-03-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

@@ -381,6 +381,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market- Industry Fluctuation till 2029"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Automotive, Consumer, Banking, Financial Services"
+    publishedDateTime: 2023-03-15T16:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market--industry-fluctuation-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Systems Market Top Players and Forecast till 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Voice Recognition Systems Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
     publishedDateTime: 2023-03-16T07:57:00Z
@@ -548,22 +562,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
-    excerpt: "therapy planning, and monitoring. With this, the company has accelerated its healthcare innovation with artificial intelligence (AI) and digital solutions. In October 2022, Google Inc announced the launch of its new Medical Imaging Suite, which helps in ..."
-    publishedDateTime: 2023-03-18T07:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31409020/healthcare-ai-market-trends-demand-growth-and-future-scope-2023-to-2029-welltok-inc-intel-corporat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31409020"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31409020"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence Market Size Report Analysis, 2023-2029"
     excerpt: "Mar 16, 2023 (The Expresswire) -- [113 Insights] Top “Enterprise Artificial Intelligence Market” Size 2023 Key players Profiled in the Report are [, IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP,] most important ..."
     publishedDateTime: 2023-03-17T03:08:00Z
@@ -587,15 +585,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market 2023 | Global Industry Report Forecast 2029"
-    excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."
-    publishedDateTime: 2023-03-13T19:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-global-industry-report-forecast-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Self-driving Cars Market 2023 : Geographic Expansions, Technological Innovations In The Market"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Self-driving Cars Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market Research."
     publishedDateTime: 2023-03-16T11:55:00Z
@@ -605,6 +594,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Why AI Fails To Reproduce Human Vision"
+    excerpt: "These findings suggest that deep neural networks and humans may in part rely on different object features for visual recognition and provide guidelines for model improvement,' said Mur. The study shows deep neural networks cannot fully account for neural ..."
+    publishedDateTime: 2023-03-18T12:02:00Z
+    webUrl: "https://menafn.com/1105807570/Why-AI-Fails-To-Reproduce-Human-Vision"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "Artificial Intelligence in Medical Software Market (Size and Share) 2023-2029 with Forecast Analysis | Survey by Absolute Reports"
     excerpt: "The purpose of the “Artificial Intelligence in Medical Software Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding ..."
     publishedDateTime: 2023-03-15T18:28:00Z

@@ -24,22 +24,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Why It Matters: ABA House of Delegates Adopts Guidelines for Developers and Users of Artificial Intelligence"
-    excerpt: "At the recent ABA mid-year meeting in New Orleans, the House of Delegates discussed and adopted by a unanimous vote Resolution 604 that proposes guidelines for counsel and clients involved in the development and use of artificial intelligence (“AI”)."
-    publishedDateTime: 2023-03-13T21:29:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/03/13/why-it-matters-aba-house-of-delegates-adopts-guidelines-for-developers-and-users-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 18
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/Trope-Thomson-Cwik-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
 secured: "zmqTe+xhGZXk6oTZnxJgwBRwS/XP6b+DGVFEwVX3SYa448sb8hJMY90LGkBRMPU1iHKNX74xwU0eDteGG+mxR/0igv3fCKEFdPNJhC9qx+S6lqKPsc5/nMz7goBSrlnnZAu8FyQICv/FOXDHxeJscNIFxGG4+pQI+9L3/MMXdQyyO6FhO0o8DiTJFxI0ns3iE7G2hPNZ7LLXtbGIef/5oqk7jcVO8pHnkAcBmwnxyd5zAss4u/KZ21wdvvf6srRSqgDpWBepKMkvOiAtB/Aa7nDPK441x0c7cVvH8Jy0TyBXyDIZLEO1zAzRVsfOgFl56X9vMJtL5RS83izxZc+TXzsUO1kGRiLv5MnAmoHYZuAkFCf7sTCnk7IxeAYS0bOlWavyFkr7tQelAyBhB9noccggNudWtJCU/H73fhfT40sdHALuZzPjNlRRovolBsqAKnCE190crd91Yx9tNdCpiPvqrTQEBDBWAkSULkdoGcL8PtQYjhJJ/FmbVxNHMTipvW83Mq1ePj3YV8Vf1kE8+g==;tqk4EgoJbu12M33v+Iwn3g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-a
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: India Education Diary
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AgTech startup TartanSense rebrands as Niqo Robotics to commercialise AI robotics for sustainable farming"
+    excerpt: "AgTech startup TartanSense, has rebranded as Niqo Robotics. As per the company, the rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in ..."
+    publishedDateTime: 2023-03-15T09:57:00Z
+    webUrl: "https://www.financialexpress.com/brandwagon/agtech-startup-tartansense-rebrands-as-niqo-robotics-to-commercialise-ai-robotics-for-sustainable-farming/3010422/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 32
 
 secured: "D85OFyCVCckl7Crsv5c0YeYCoTqHzqJz0PJFrPBd7RVxMy6qxpK5uWd6rfqawpLoBXPf9J7tivpyvlWsIwgpkPJAhi8D4K21/Kx9iss1ILWVQ9pbbNcgDu0q30u7kfdKR09RwDfcARQgBkmhg0OC4AZvZofdyWphKaSCe2UEDdiTuW7St3YrlI0lH8hhjRAZV7+eTdZpc+bbEI5ZvmHWQUyATooNIcXXhoDIc7S346KNYVO1FtL4kXZpQWedP4Y3bV3tBUT4OgcYcZ5kg8hPCykaMrxv6BKvM0mtFb9RYyx4NoKtT0uGdh3RrVDFWdz31IkP1QyTLBTiE1EHG5uM+G7zYY6CIlUk0/rah0Jph8s=;GBQpIxqEJke/TN4eQpyiiw=="
 ---

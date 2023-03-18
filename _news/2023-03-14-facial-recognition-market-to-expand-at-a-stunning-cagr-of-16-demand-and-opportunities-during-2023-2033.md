@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
-    excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's Five Forces analysis, and competitive environment are all dissected in detail in the research."
-    publishedDateTime: 2023-03-13T19:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-x-ray-inspection-systems-market-set-witness-unprecedented-/2023/03/13/9775872.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "SJW0wR+C8HAi43bJIE2RVr5QOv7VPdv//+tPpxwUGmGbsvThnpvROe8OoTXLzgH/kkZ3UG9aWtkfhF1q2VMLA/qnNdY7s/cjo6bpVHFPXuoRJKkZgMWtZGcDud5JQS0hPXc+lTwXE60LPWZ1gvobFPc+GC0YB5GXlJOn5MZNjezo4kWr36p6Q/ommRw6cd6oMi70zjx40ZmUe/F39b/hVAaeD4C2cDlbDKh5oCrG6h3TxMruyV+3bORHkHRony+5rrQ2pr8Uk282l2IHA3c0xSTBhtgfpnBe4aoKg2rDhWxWkkO8CydPxTdvBrRHavVJfs8UZ4rF0AygBd8tpRo5K2jgelcVcWLyc3mIxgUVFrs=;VV0PfB1P9nBD06YJr3nzOg=="
 ---

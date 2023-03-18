@@ -59,34 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "COVID-19 can cause 'face blindness,' according to new study"
-    excerpt: "COVID-19 can cause difficulty recognizing faces and navigational problems, according to a new Dartmouth study in Cortex."
-    publishedDateTime: 2023-03-13T21:21:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-covid-.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/covid-19-can-cause-fac.jpg"
-        width: 2194
-        height: 1254
-        isCached: true
-  - title: "COVID-19 Can Cause Face Blindness"
-    excerpt: "Navigational problems and an increased risk of developing prosopagnosia, or face blindness, have been associated with COVID-19 infection."
-    publishedDateTime: 2023-03-13T21:16:00Z
-    webUrl: "https://neurosciencenews.com/face-blindness-covid-22781/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 24
-    images:
-      - url: "https://neurosciencenews.com/files/2023/03/covid-face-blindness-neurosicences-public-1.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Long COVID has some weird symptoms. Face blindness may be one them."
     excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme ..."
     publishedDateTime: 2023-03-14T12:47:00Z

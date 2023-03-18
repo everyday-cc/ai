@@ -60,20 +60,6 @@ related:
         width: 1050
         height: 590
         isCached: true
-  - title: "GM plans to develop an Azure-powered in-car AI assistant"
-    excerpt: "General Motors recently said that it's developing an in-car AI assistant based on Microsoft's Azure cloud service and OpenAI, according to Semafor. The company compares its"
-    publishedDateTime: 2023-03-14T12:36:00Z
-    webUrl: "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-13-image-20.jpg"
-        width: 2560
-        height: 1662
-        isCached: true
   - title: "How AI-Powered Tech Can Help Recruiters And Hiring Managers Find Candidates Quicker And More Efficiently"
     excerpt: "The platform plans to unveil new ways to integrate generative AI to better help recruiters and job seekers succeed. The rollout will start with a limited number of LinkedIn members in the United States, India, the U.K., Canada and Australia on Wednesday ..."
     publishedDateTime: 2023-03-15T17:03:00Z
@@ -119,6 +105,22 @@ related:
       - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
         width: 320
         height: 224
+        isCached: true
+  - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
+    excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."
+    publishedDateTime: 2023-03-18T06:09:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 52
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_14_40_27_9076784.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Gods In The Machine? The Rise Of Artificial Intelligence May Result In New Religions"
     excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devot"
