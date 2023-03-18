@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Intellect Launches eMACH.ai, the World’s Largest Open Finance Platform to..."
-    excerpt: "Intellect Design Arena, a multi-product FinTech company launched eMACH.ai, a revolutionary cloud-native and future-ready open finance platform with embedded artificial intelligence, powered by AWS. With 285 pre-built microservices available on the cloud,"
-    publishedDateTime: 2023-03-13T09:46:00Z
-    webUrl: "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 51
-    images:
-      - url: "https://financialit.net/sites/default/files/emach.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Intellect launches eMACH.ai for banks to use cloud services with embedded AI"
     excerpt: "The platform will provide cloud services with embedded artificial intelligence, powered by Amazon Web Services (AWS), to financial institutions."
     publishedDateTime: 2023-03-13T11:36:00Z

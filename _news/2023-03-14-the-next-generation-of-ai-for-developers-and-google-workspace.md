@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
+    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
     excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
     publishedDateTime: 2023-03-15T09:13:00Z

@@ -178,6 +178,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
+    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
+    publishedDateTime: 2023-03-17T10:32:00Z
+    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "What can ChatGPT maker's new AI model GPT-4 do?"
     excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
     publishedDateTime: 2023-03-15T15:56:00Z

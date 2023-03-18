@@ -27,6 +27,22 @@ images:
 
 related:
   - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4"
+    publishedDateTime: 2023-03-17T15:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 66
+    images:
+      - url: "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence"
     excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4 Sam Altman, CEO of OpenAI, the company that developed the controversial consumer-facing artificial intelligence application ChatGPT ..."
     publishedDateTime: 2023-03-17T17:07:00Z
     webUrl: "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com"
@@ -43,6 +59,6 @@ related:
         height: 372
         isCached: true
 
-secured: "JWWiASBJhbvOaaoYSAy58bwnHdcrxks/ZXgEnvaaE2hPawsF/xDeuI2XsFP8l2K/bi1ySs8+BSWagtewmxoDSiu2SR5FwqVh9EfHn18dv/Ii8FKrp5bFM2NKUREwE5hmlacK1r8CKWyPLti2hytLnHj3/nVqwTXGXinXwNbblKe1xYsyWeH5HFamBh392lxTKas4cD72r53ALiL+MZ3SmDa2ubHHmiCYvSyQRsz0cTg0f7a7QgtL7lwCshMXC/EwXDMnX9vfSQZqbpmjghEL5cODD7uq4UN2vG8dhiy7K50Bka4A6Xx9gRsChVEK3tWb3bfDroyEkMYB2yn7EUZWPJwAoyaVvjxsAxjLSjKitRk=;ZHscgTNtBC2e7VzCuS6RzQ=="
+secured: "QZ6ZL0/gkJqlyY+x+MJISN5GRRxXOH4Mx6B9PGC6Gv3r/lecBZACkfFCGIr1cI0Nvo/NfeXxAiFotYP5kYHKF3yLwGYtam0wiFLIV/OXzu40LeUslD8wpLDx4FIyRrNjTUUofI6Gnteu8VQOEHAZDAnR9gZ9Uao2jU0UyhhROyFkJRlXwxUjCPXy6cRe7gyvjBmYiF4nBC5Opk99plichi1tYFLaYmfe+Cx0S7rkzB3T+DWBbsr7xJSPlNnMAvBWWEb3HOA3D4HNF3W94Iak8R7F3EhGPYb8JFnmOfQlUNIAUO+M3uXwuwIiVgz7PAqf82l1ta3KypEeW807AN7LHh4K/9uULo33UQ+m8RCdvQBiFYimwUP8Lt/ET2bH0kjdgoUaDN+wwPNlA4573tecwak3rpt/k7GkJQ50afjH91tXMoIfxJ4bqWFFi2nrO+ICMkWcdV6R6Uy8DR+bpxv1UnjAG8yDBo6/GOjkYB3nE8eVIFUvN//JSxyv7gdNEgRGKrTTMoiEerqsWOD1XDCdVA==;KlRNpfXOxZeuiqN0V2wyUw=="
 ---
 

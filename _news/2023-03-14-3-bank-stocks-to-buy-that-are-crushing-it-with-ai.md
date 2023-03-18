@@ -23,6 +23,22 @@ topics:
   - AI in Finance
 
 related:
+  - title: "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
+    excerpt: "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security."
+    publishedDateTime: 2023-03-13T15:13:00Z
+    webUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 79
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "2 Unstoppable AI Stocks to Buy for the Next Decade"
     excerpt: "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ..."
     publishedDateTime: 2023-03-16T11:00:00Z
@@ -37,29 +53,20 @@ related:
         width: 3416
         height: 2266
         isCached: true
-  - title: "2 Growth Stocks to Hold for the Next 10 Years"
-    excerpt: "Microsoft’s businesses are always in demand, but its deeper move into artificial intelligence could be a game changer. As long as the world wants newer, faster, and better computing technology, Applied Materials will have a market in which to sell its wares."
-    publishedDateTime: 2023-03-15T11:39:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/15/2-growth-stocks-to-hold-for-the-next-10-years/"
+  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
+    excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy according to analysts. If you want to see more stocks in this selection, check out 15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts."
+    publishedDateTime: 2023-03-13T15:13:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131207/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 52
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
     images:
-      - url: "https://g.foolcdn.com/editorial/images/724630/investor-reviewing-a-stock-portfolio.jpg"
-        width: 1600
-        height: 900
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg"
+        width: 584
+        height: 296
         isCached: true
-  - title: "3 AI Stocks That Have Warren Buffett’s Buy-In"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors looking for Warren Buffett AI stocks should note that the"
-    publishedDateTime: 2023-03-13T19:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai-stocks-that-have-warren-buffetts-buy-in-1032164253"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
     excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
     publishedDateTime: 2023-03-16T13:18:00Z
@@ -69,20 +76,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF To reduce the individual risks each AI stock may pose to your portfolio, you may simply buy an index exchange-traded fund (ETF) and diversify ..."
-    publishedDateTime: 2023-03-13T22:12:00Z
-    webUrl: "https://www.fool.ca/2023/03/13/3-top-artificial-intelligence-stocks-to-buy-right-now-2/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 39
-    images:
-      - url: "https://www.fool.ca/wp-content/uploads/2019/05/WirelessTech.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "ll41abyE2Mtkhx2XldqExVXS7Lj6GlvMJcclJ0kyAB8aTpx1yQOCF5l/pYpbEV6wZHwt2waBR5CJN3uv+XncMFgsIl8jm/bAoPAXaYFCDe+cx57i5pJRFljRM9UhVkD9KqhAHkX97SL7w93WbBat8o0BNN05KHjGtxrdErUrWxmPV+XCoWRpgqRqbUCAOmngwBd9xF2XgL0eN+b6CwIE3Q16U3erfG6eG89cjy9xWlKyapavLMd8dH/HrF3bVPLbBU8hGSeAbYe+6AnGEFpnMqOfoVjWKrtvZwiib7eEVdAIZtQCN8YE97i1iMYonM/0oumTKUn2/5Nhc2cbJhRkUxbQAhj1KFksOjetZ0+F/8OnpLK+C6NapJE5F37WXRc6jCUejjESyoZsCtYtF2/rZO3+hruHg5aj0jNrf/U8nblqrB6kzxK62A7g33szGPl04CwkqH+ZrYiXiRxpJOHYXWKPG2vWVqDp5fTFiYN+EQCKEg4BYRZXdNAZ0XfC57IdV+kZT5jk/l8iADwAq5rekQ==;UfM1fK8wboZmTca4MCWw0g=="
 ---

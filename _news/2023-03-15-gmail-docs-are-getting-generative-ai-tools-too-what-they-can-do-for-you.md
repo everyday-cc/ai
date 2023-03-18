@@ -22,125 +22,102 @@ topics:
   - AI
 
 related:
-  - title: "Google's New AI Tools for Gmail, Docs Can Write Drafts For You"
-    excerpt: "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process."
-    publishedDateTime: 2023-03-14T14:32:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
-    excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
-    publishedDateTime: 2023-03-15T12:36:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Gmail: Google announces that an AI will soon write your emails"
-    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 61
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google previews generative AI features for Workspace users, developers"
-    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
-    publishedDateTime: 2023-03-14T19:41:00Z
-    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
-    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google unveils AI tools to beat writer’s block amid scramble to compete with rivals"
-    excerpt: "The AI overhaul of Google’s Workspace products is starting with ... multibillion-dollar investment” in OpenAI, the artificial intelligence startup behind ChatGPT, a chatbot that generates text in response to user queries. Microsoft then said in ..."
-    publishedDateTime: 2023-03-14T15:31:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 51
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/Justice_Department_Google_92241_c0-205-4017-2548_s1200x700.jpg?4d54a915c83c799682cc4816895499e010c8deae"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Google Stock Jumps As It Unveils New AI-Powered Tools For Workspace"
-    excerpt: "The move comes as Microsoft remains aggressive in its approach to AI, with its partnership with OpenAI producing fruitful stock market gains since the start of the year. Let’s get into the details. As the AI wars heat up, you can harness the same ..."
-    publishedDateTime: 2023-03-15T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/15/google-stock-jumps-as-it-unveils-new-ai-powered-tools-for-workspace/"
+  - title: "Six Ways Retail Can Leverage Generative AI To Transform Business"
+    excerpt: "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates."
+    publishedDateTime: 2023-03-14T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "The Nightmare of AI-Powered Gmail Has Arrived"
-    excerpt: "Yesterday, it shared more details about AI-assisted Gmail and Google Docs ... Google — and Google’s customers — will start to figure out how people actually use them and which ones catch on. The most likely outcome is that such tools will reveal ..."
-    publishedDateTime: 2023-03-15T21:24:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/03/the-nightmare-of-ai-powered-gmail-has-arrived.html"
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f0daeb4496d3e0006c97aab/0x0.jpg?format=jpg&crop=5700,3800,x0,y475,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Transforms Social Media"
+    excerpt: "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online."
+    publishedDateTime: 2023-03-16T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
+    excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
+    publishedDateTime: 2023-03-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Generative AI and what the future holds"
+    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
+    publishedDateTime: 2023-03-15T09:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
+    publishedDateTime: 2023-03-15T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "How to set up an enterprise strategy for generative AI"
+    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
+    publishedDateTime: 2023-03-14T11:41:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 37
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/737/51c/eee976d5b96796972c33f1a5600dd1ea42-gmail.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
+        width: 770
+        height: 434
         isCached: true
-  - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
-    excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
-    publishedDateTime: 2023-03-14T13:37:00Z
-    webUrl: "https://www.fastcompany.com/90865521/gmail-will-write-your-emails-for-you-google-announces-generative-ai-tools-across-workspace"
+  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
+    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
+    publishedDateTime: 2023-03-14T18:30:00Z
+    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 7
-  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
-    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
-    publishedDateTime: 2023-03-14T19:14:00Z
-    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 7
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
 secured: "rjZcOYb3JM5vCvk6JATbZbhxWhnRX+Yonm/EKAV6zBMC1GgR20cEs28ugwBHI8nvgA8LgL0SUsBkADiia7xJ8Elz0a7/cPBLs8SEv5qOmO5k5GG9Js/QZiAMUA7lUCxXYScVumgvtkE1ePlI4t3OTp6f3b2HWIEsSAoPjNJf+/iwPf+iYf2l8YteEAscDRHdIzsPii67DrzGG+YJsSGE4rbJz/lrLJRK/ELIl2etgefVuoOoOk392FD3qdBlQcjja5af1Pnjg2yIKspUF2DVPoNvNmgcwTOVKTlxcP/Ra6WrfYoYKQaMrqghfr6xLT+iOhsuMvg69DItPIUNJ3P72kDsIoTTRxPmzcBuPvv+LWO15iRE8v3hS7T0e/90ETZKl8K3r8zF4RKGX61usiFmjFnaZfiCCO81wxUVv4hbz/F3CRx51AbfeDxLwR3MJT1Qq/pE90MdeqSiHyKttPqYzhFnf5I3Ug1+jSV8NHQwyeRGp7qVAZlAq+nbNAyDDwIA9yRRWqtC6dvrrOXetdaeaw==;eX5EPwIlUkBb9sRGlrTunw=="
 ---

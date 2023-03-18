@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/gm-ceo-meets-with-senators-on
 webUrl: "https://www.reuters.com/news/picture/gm-ceo-meets-with-senators-on-self-drivi-idUSKBN2VJ00O"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

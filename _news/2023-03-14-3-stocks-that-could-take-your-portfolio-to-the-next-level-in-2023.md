@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/finance/3-stocks-that-could-take-your
 webUrl: "https://www.entrepreneur.com/finance/3-stocks-that-could-take-your-portfolio-to-the-next-level/447538"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2560
     height: 2059
     isCached: true
-
-related:
-  - title: "Taking embedded software development to the next level"
-    excerpt: "In many respects the IoT runs on Arm with the Cortex-M processor family, described by many, as the de-facto industry standard for embedded compute with over 9,500 different microcontrollers from 38 different silicon vendors now available."
-    publishedDateTime: 2023-03-13T10:10:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/taking-embedded-software-development-to-the-next-level"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 24
-    images:
-      - url: "https://www.newelectronics.co.uk/media/5pddd0nz/keil-mdg-v6-blog-image-1600x900.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "JPKCM/x0PwVYVK9CAydFB1EfaTeOeghfT/xJPe9Zwt91Dd5lWFtT1HivQYO9pJg1NLSmH/IlgdK3hYeMypNUlK6uC9kWjBtE6o/TUpPKjFLiAoUK5ckKWSPWi0paOy0Vz1zHEMnmbRHQ6kGiFMWr27jcYyZx/mScF3k3N2ekdVrqB8TM9zDsV0h093blaMYZ0++8CNpUJr6x850lZtD5qszIphKsBjG4CYGhthyGCfnwjMsmKpLWFhs3sOTLaFnax3VXXm//eXHW083Hq44um9D00mILqFaYr4ASyGYoiYElMaGguYBcMgHWkHEpgSjCBAFZl6/zrxokhqBROaaCT9NmrWRueO8gXBI8CIrur4KxUH6UcgI9lfJaTOA2kxE3jfLmoZDbNQi5Y0ROylPCM9uhK5T5aZypLmlc5IuGr7vKFJW0rX80kJUBq4fTcyxIr4AN3CvfWIj9JMpqHF8GVoo4td9fBtN7Hwczf4jgnzYK3VDQttZVQ2LXuy+1Ux4yTmx58uAEk4U6hlHo5s9BUw==;KGJD2n0prAU+DQWrvuFlwg=="
 ---

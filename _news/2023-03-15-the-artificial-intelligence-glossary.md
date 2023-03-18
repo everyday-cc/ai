@@ -57,20 +57,6 @@ related:
         width: 734
         height: 490
         isCached: true
-  - title: "How to set up an enterprise strategy for generative AI"
-    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
-    publishedDateTime: 2023-03-14T11:41:00Z
-    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
-        width: 770
-        height: 434
-        isCached: true
 
 secured: "IsYx0ZFz3ogQbbEZ1d2rJEkduj2O3IcG2zDZZV+UZ+bPryAEVeBkiSS5OnaKekjnrIc4X3szV4KdMSUrvAo2EA1lZs+flRycJuGvp8dcPkopBuy+xpLPu8Mji4301BgWCtBnMZDNl3d+r0eHG6HRIl/241uTNb/iQmHVQV763c18Nyd5/Np0STs/RcB0hNxk8GX1YyjFNpAoex5BR5w2vNuEpmnbNFfElzcxu5MHVs06zJNitfNMC8MOOaYkNsISQGbCIEw9kMjbk484a3Pcn2xRYHoBZ44okDyY8m4ahSQ1+pQ0IQNkk5KjULtYgES6SjpHvheHKesUcqvqztyaoQNSyTmQ9Jkx5UjyNmctToo=;F5nThqLzNvk63h9RHGbWYw=="
 ---

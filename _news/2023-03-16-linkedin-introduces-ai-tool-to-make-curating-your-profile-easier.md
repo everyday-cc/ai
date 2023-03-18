@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-15T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You can now ‘enhance’ your LinkedIn Profile with AI-written 'suggestions'"
     excerpt: "LinkedIn is adding AI-powered “writing suggestions” and job descriptions to its service as it looks for new ways to infuse AI into its platform.."
     publishedDateTime: 2023-03-15T20:15:00Z
@@ -54,20 +70,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 40
-  - title: "LinkedIn teams up with Adapt to boost machine translation"
-    excerpt: "LinkedIn and Adapt have created a machine translation model that focuses on specific categories of information such as product details."
-    publishedDateTime: 2023-03-13T10:56:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/linkedin-adapt-sfi-research-machine-translation"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/AdobeStock_283773482_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "t0jkUDs23Ftbmqo1BcconqP46lLEIBMT4nuda6mHQmjyg+DgFo4CVuL7sqR4PqX/B/3gU53eP3MR1F1di2xHVUHXKRqtqpRnywKXGjd+qM6DrQto3tfOdhEkF4h+tvMElt/m14d5Yax4Ucqn8f25DdTk8My8tdV6mstU+Q/WrZzUujU5QUJms/x67JEZWgLxJ5eMlQYgVjIQWV2qfIXYpuzousRSoS0O65H+/EBcmJotGHOB2l8F5C4ozlslGmiJTypHH9RqEzA84cDiliWU8Gm8ahMDK76Ul47XCTet7nsQbAgi1bvskykaOQPnuOs9oNVa281rU3sfgv5mkpJHu2f0nLNkr5cdbPQIdN7AEZ5sh4Ox4kg28LY2y20BovJFyqoOXVU/1qTYFfk/jYCFTij1UNQ6kM/5nwIEzJbxrNcfnNoKD1D5KJCbuipreIIK+UNylEknyWt9fHGiQ3eJQeWNPjd13JYrEyVThXEnBpuO82TTHa9js5WJx0Oa13BD9WptMfZiI/L2DEFXnYSC3g==;9Y/UQNY9x3Nd4/CatHN6Fg=="
 ---

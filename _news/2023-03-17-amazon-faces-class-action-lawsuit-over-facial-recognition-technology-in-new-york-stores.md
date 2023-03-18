@@ -115,6 +115,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Stores are using facial recognition to help stop repeat shoplifters"
+    excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
+    publishedDateTime: 2023-03-17T22:04:00Z
+    webUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters"
+    ampWebUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
 
 secured: "Lbe7MFmvLS45/BlUgzzh/yExSo3D7Ytask1lM13I8py8s9T2/gFGj93G99unqAP4o8lZh0JdPeBcK0leCSVKX/lWmssSAWSEporIFeGNurwPUVGZTvQJfKudqw3KO2XzkqHXmB/nV5cn4Wc3tzLOytIMvx/5g/chahlL1MByFdstJT1leArDRB5iJe5k4eymmQ5K0DBHOQnC6CT94cZHOOvN5q3tGO6LApmtH8vFsc1rxW+JoOqCrBBkjufWB9chs1X+45ZCeogAQtg/rWFQig6BHrqMv+V3W2N5XZjWnievS/YGy4Su65elIZyhkrzQOnKfFOgaTy5OVZDO6ATE8G6qUsSeLSJHP1xIuHuZXQuaCMCdy882dht0iurnTNKt+leRY3LZzgJqCKVd37hL1MGPZIBbAUDHAAeyeX+tOGu1VO4vHx3hd4OAUW3kdQfH4f/WgCJlBjwwVStqj9lzBQkozPMyIcdRYM5Vk6qMG2DGRTx4j67OjBZ9TXD0NarqdjTstjQZuOngqRvAmsZ8xQ==;639ngmVcsE8cyqR1LjKtLw=="
 ---

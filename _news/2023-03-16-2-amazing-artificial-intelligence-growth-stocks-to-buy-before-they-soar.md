@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
+    excerpt: "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security."
+    publishedDateTime: 2023-03-13T15:13:00Z
+    webUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 79
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
+        isCached: true
   - title: "2 Unstoppable AI Stocks to Buy for the Next Decade"
     excerpt: "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ..."
     publishedDateTime: 2023-03-16T11:00:00Z
@@ -45,42 +61,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "2 Growth Stocks to Hold for the Next 10 Years"
-    excerpt: "Microsoft’s businesses are always in demand, but its deeper move into artificial intelligence could be a game changer. As long as the world wants newer, faster, and better computing technology, Applied Materials will have a market in which to sell its wares."
-    publishedDateTime: 2023-03-15T11:39:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/15/2-growth-stocks-to-hold-for-the-next-10-years/"
+  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
+    excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy according to analysts. If you want to see more stocks in this selection, check out 15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts."
+    publishedDateTime: 2023-03-13T15:13:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131207/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 52
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
     images:
-      - url: "https://g.foolcdn.com/editorial/images/724630/investor-reviewing-a-stock-portfolio.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "3 AI Stocks That Have Warren Buffett’s Buy-In"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors looking for Warren Buffett AI stocks should note that the"
-    publishedDateTime: 2023-03-13T19:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai-stocks-that-have-warren-buffetts-buy-in-1032164253"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF To reduce the individual risks each AI stock may pose to your portfolio, you may simply buy an index exchange-traded fund (ETF) and diversify ..."
-    publishedDateTime: 2023-03-13T22:12:00Z
-    webUrl: "https://www.fool.ca/2023/03/13/3-top-artificial-intelligence-stocks-to-buy-right-now-2/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 39
-    images:
-      - url: "https://www.fool.ca/wp-content/uploads/2019/05/WirelessTech.jpg"
-        width: 1000
-        height: 562
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg"
+        width: 584
+        height: 296
         isCached: true
 
 secured: "NmZvJbbuiYOg8ZuFTN4Du3XmCAWpuynxsCmRq4KGV05v9MCDZzTYEv7SRPFAOz/rHr0Bb9C2qEjg8J30Frl3Zd2CS0sCw5OsxeiMpWxVP56G2fV2Yh/bPZDenhyyccj5hB+xSqIM8dcI6QEZ4BVGuVsCNCHpXgTZ9vLdwVXR7sTPiPR2zJBBjUYbKtanIA53akJwcPaiLZ3pZVaIRTPIVdSfDnJvxtuMlM8N6Q38n+5aWVrNKCX9sdqZ80w4ofOBFScuJGSUXWizdGM4nQTugUk0JtbFypMQXJGBXfeWwkwBDXJkHQ3fho71wwDeYB8c2vVYib1PdgHJsFZu8gTfQCg8U8A7pkTZo+9Jh5clZBo=;7mBMcsRqVagvGJbXXDUNpg=="

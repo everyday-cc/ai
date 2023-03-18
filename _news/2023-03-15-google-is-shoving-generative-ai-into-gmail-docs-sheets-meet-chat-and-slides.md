@@ -30,457 +30,125 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT and Generative AI are booming, but at a very expensive price"
-    excerpt: "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs."
-    publishedDateTime: 2023-03-13T10:58:00Z
-    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+  - title: "Google's New AI Tools for Gmail, Docs Can Write Drafts For You"
+    excerpt: "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process."
+    publishedDateTime: 2023-03-14T14:32:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
-        width: 3600
-        height: 2400
-        isCached: true
-  - title: "The tech behind ChatGPT could power your next car's AI driving assistant"
-    excerpt: "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing"
-    publishedDateTime: 2023-03-14T12:47:00Z
-    webUrl: "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
-    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
-    publishedDateTime: 2023-03-14T03:19:00Z
-    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
-        width: 3600
-        height: 2400
-        isCached: true
-  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
-    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
-    publishedDateTime: 2023-03-15T07:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNET
+      domain: cnet.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-15T17:42:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI and what the future holds"
-    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
-    publishedDateTime: 2023-03-15T09:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-03-16T17:27:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+      - url: "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
         isCached: true
-  - title: "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right"
-    excerpt: "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ..."
-    publishedDateTime: 2023-03-17T21:08:00Z
-    webUrl: "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp"
+  - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
+    excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
+    publishedDateTime: 2023-03-15T12:36:00Z
+    webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Gmail: Google announces that an AI will soon write your emails"
+    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
+    publishedDateTime: 2023-03-15T10:51:00Z
+    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
+    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 61
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google previews generative AI features for Workspace users, developers"
+    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
+    publishedDateTime: 2023-03-14T19:41:00Z
+    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 57
     images:
-      - url: "https://i.insider.com/641358ec0308e00018551731?width=1200&format=jpeg"
+      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
-    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "14 ways new AI bot ChatGPT could be used in healthcare"
-    excerpt: "Artificial intelligence has played a larger role in most industries, including healthcare, over the last several years. A new AI tool, ChatGPT, developed by OpenAI, has several potential benefits and"
-    publishedDateTime: 2023-03-13T20:33:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/14-ways-new-ai-bot-chatgpt-could-be-used-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "ChatGPT Brings Ethical AI Questions to the Forefront"
-    excerpt: "Many companies have taken a relatively slow and methodical approach to working through AI ethics and transparency questions up to this point. Without any national regulations to adhere to, there is no hurry, after all. But the sudden rise of ChatGPT and ..."
-    publishedDateTime: 2023-03-13T20:47:00Z
-    webUrl: "https://www.datanami.com/2023/03/13/chatgpt-brings-ethical-ai-questions-to-the-forefront/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/03/bill_of_rights_shutterstock_kmls-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
-    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
-    publishedDateTime: 2023-03-17T23:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        width: 2250
-        height: 1500
-        isCached: true
-  - title: "6 AI tools podcasters are using for new ideas, editing, and more — and why they're skeptical of ChatGPT"
-    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
-    publishedDateTime: 2023-03-15T12:48:00Z
-    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/6410561cf724e7001800deb9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
-    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
-    publishedDateTime: 2023-03-14T13:48:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
-    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
-  - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
-    excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
-    publishedDateTime: 2023-03-13T12:27:00Z
-    webUrl: "https://www.techspot.com/news/97898-learn-how-take-full-advantage-chatgpt-code-own.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
-  - title: "Can ChatGPT Get Bored?"
-    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
-    publishedDateTime: 2023-03-16T20:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
-        width: 1528
         height: 800
         isCached: true
-  - title: "China's tech giant Baidu unveils \"Ernie,\" the Chinese answer to AI chatbot technology like ChatGPT and GPT4"
-    excerpt: "Beijing — Days after popular artificial intelligence tool ChatGPT's developer OpenAI released its latest version, GPT4, Chinese tech giant Baidu, best known for its search engine and map services in the country, revealed its AI answer to the world."
-    publishedDateTime: 2023-03-17T15:48:00Z
-    webUrl: "https://www.cbsnews.com/news/china-chatgpt-ernie-ai-chatbot-technology/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/china-chatgpt-ernie-ai-chatbot-technology/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/china-chatgpt-ernie-ai-chatbot-technology/"
+  - title: "Google unveils AI tools to beat writer’s block amid scramble to compete with rivals"
+    excerpt: "The AI overhaul of Google’s Workspace products is starting with ... multibillion-dollar investment” in OpenAI, the artificial intelligence startup behind ChatGPT, a chatbot that generates text in response to user queries. Microsoft then said in ..."
+    publishedDateTime: 2023-03-14T15:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 41
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 51
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/17/0a4488c1-b704-47b1-9fb6-efb5e6460e79/thumbnail/1200x630g8/81b64df0fbbe8daf717cc5b9825c988b/gettyimages-1248446799.jpg"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/Justice_Department_Google_92241_c0-205-4017-2548_s1200x700.jpg?4d54a915c83c799682cc4816895499e010c8deae"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Google Stock Jumps As It Unveils New AI-Powered Tools For Workspace"
+    excerpt: "The move comes as Microsoft remains aggressive in its approach to AI, with its partnership with OpenAI producing fruitful stock market gains since the start of the year. Let’s get into the details. As the AI wars heat up, you can harness the same ..."
+    publishedDateTime: 2023-03-15T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/15/google-stock-jumps-as-it-unveils-new-ai-powered-tools-for-workspace/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The Nightmare of AI-Powered Gmail Has Arrived"
+    excerpt: "Yesterday, it shared more details about AI-assisted Gmail and Google Docs ... Google — and Google’s customers — will start to figure out how people actually use them and which ones catch on. The most likely outcome is that such tools will reveal ..."
+    publishedDateTime: 2023-03-15T21:24:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/the-nightmare-of-ai-powered-gmail-has-arrived.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 37
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/737/51c/eee976d5b96796972c33f1a5600dd1ea42-gmail.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT and Bing AI to sit as panellists at fintech conference."
-    excerpt: "Artificial intelligence chatbots will be used as panellists for the first time as part of a conference hosted by the Gillmore Centre for Financial Technology this week."
-    publishedDateTime: 2023-03-15T11:38:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41973/chatgpt-and-bing-ai-to-sit-as-panellists-at-fintech-conference"
+  - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
+    excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
+    publishedDateTime: 2023-03-14T13:37:00Z
+    webUrl: "https://www.fastcompany.com/90865521/gmail-will-write-your-emails-for-you-google-announces-generative-ai-tools-across-workspace"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "'ChatGPT, Draft a Catchy Title:' The Risks of Using AI"
-    excerpt: "Will generative AI make lawyers obsolete? Can ChatGPT help streamline a legal practice? In considering whether to adopt generative AI tools, lawyers should consider the risks."
-    publishedDateTime: 2023-03-14T20:36:00Z
-    webUrl: "https://www.law.com/texaslawyer/2023/03/13/chatgpt-draft-a-catchy-title/"
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 7
+  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
+    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
+    publishedDateTime: 2023-03-14T19:14:00Z
+    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/06/Klevens-Clair-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "SenseTime unveils open-source AI model amid ChatGPT boom"
-    excerpt: "Photo/VCG] Chinese artificial intelligence pioneer SenseTime unveiled what it called the \"largest multimodal open-source large-language model\" on Tuesday,"
-    publishedDateTime: 2023-03-15T17:55:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/15/WS641158bba31057c47ebb49d3.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/15/64115952a31057c4b4b747f8.jpeg"
-        width: 564
-        height: 376
-        isCached: true
-  - title: "General Motors Wants To Use ChatGPT Artificial Intelligence In Its Vehicles"
-    excerpt: "Is this the next big thing in vehicle technology? General Motors is exploring the feasibility of introducing ChatGPT, an artificial intelligence chatbot, into its vehicles, reports Semafor."
-    publishedDateTime: 2023-03-13T21:53:00Z
-    webUrl: "https://carbuzz.com/news/general-motors-wants-to-use-chatgpt-artificial-intelligence-in-its-vehicles"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 37
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1117000/400/1117485.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
-  - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
-    excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
-    publishedDateTime: 2023-03-14T00:59:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3313280"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 37
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/Friendify_s_ultimate_goal_create_ground_breaking_products_utilize_power_AI_improve.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "ChatGPT gets more ‘human’ as AI wave continues"
-    excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"
-    publishedDateTime: 2023-03-15T02:29:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/chatgpt-gets-more-human-as-ai-wave-continues/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/03/27ba2d82fe7d991f094faa4e79da3632479d657f.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "John Oliver is wrong to worry about ChatGPT. AI can help us solve complex problems."
-    excerpt: "And not just because we both hail from the land of fish and chips, Morrissey and Monty Python ... specifically the Microsoft-financed chatbot ChatGPT. “The problem with AI right now,” Oliver said, “isn’t that it’s smart. It’s that it ..."
-    publishedDateTime: 2023-03-17T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2023/03/17/hbo-john-oliver-gets-wrong-artificial-intelligence-chatgpt/11464792002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/06/USAT/d5f3a6cd-84fe-4999-8ff5-416379eeae0d-john-oliver_1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Artificial intelligence without great data is just artificial’: Generative AI that predicts what and how we eat unveiled"
-    excerpt: "Tastewise already incorporates generative AI to help users at companies such as Nestlé, Campbell’s, Mars, Givaudan and PepsiCo, discover dish concepts, validate new product ideas, and generate market research reports. The AI-powered market intelligence ..."
-    publishedDateTime: 2023-03-13T10:22:00Z
-    webUrl: "https://www.foodnavigator.com/Article/2023/03/13/artificial-intelligence-without-great-data-is-just-artificial-generative-ai-that-predicts-what-and-how-we-eat-unveiled"
-    type: article
-    provider:
-      name: FoodNavigator
-      domain: foodnavigator.com
-    quality: 29
-    images:
-      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/artificial-intelligence-without-great-data-is-just-artificial-generative-ai-that-predicts-what-and-how-we-eat-unveiled/16234231-2-eng-GB/Artificial-intelligence-without-great-data-is-just-artificial-Generative-AI-that-predicts-what-and-how-we-eat-unveiled.jpg"
-        width: 683
-        height: 512
-        isCached: true
-  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
-    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
-    publishedDateTime: 2023-03-17T02:55:00Z
-    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 29
-  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
-    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
-    publishedDateTime: 2023-03-16T12:17:00Z
-    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
-        width: 678
-        height: 452
-        isCached: true
-  - title: "ChatGPT has some thoughts about Aspen"
-    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
-    publishedDateTime: 2023-03-18T01:27:00Z
-    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
-    type: article
-    provider:
-      name: The Aspen Times
-      domain: aspentimes.com
-    quality: 24
-    images:
-      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
-        width: 612
-        height: 408
-        isCached: true
-  - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
-    excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
-    publishedDateTime: 2023-03-13T13:02:00Z
-    webUrl: "https://www.carscoops.com/2023/03/gm-may-introduce-chatgpt-ai-assistant-into-its-vehicles/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 21
-  - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
-    excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"
-    publishedDateTime: 2023-03-14T23:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776949.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 7
 
 secured: "i5wnxgzGLGrfPKYFViT+K6qIOMX6r7wVJlPdFSgpldga76rNdQQsYrIX42EyMBGRyFL7Cp6Tka6iNgtbg7Cg96v/xoU3xLyyMEsaj2vppG2GsqgJeT7lsB2GNdOHLEpDTpLF6NVSz1x0PRoSOGjZFcqa/4bPRhstgHsPrTDVPpkxyiHTY+Ycuer2MLKa3hUFdZOTsx49FE1NdOITVyaGlpwfZJsElKeNg5rc3QxbvLCKGfTt59QjJd8+jL/KocDW4Ser7xJliNjuNMJHdqhdSpvAu4d5B8XXD/mBHxMFAEoU7OPachrmFuiHotg21AN7VGwwoC837dQnZfyfk1/zHYqHkeJcSPUP5BqS1Ji4YyA=;slMwmkXjYWAdlUYdMGQipg=="
 ---

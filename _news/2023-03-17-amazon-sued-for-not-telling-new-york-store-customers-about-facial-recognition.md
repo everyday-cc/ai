@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -115,6 +115,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Stores are using facial recognition to help stop repeat shoplifters"
+    excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
+    publishedDateTime: 2023-03-17T22:04:00Z
+    webUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters"
+    ampWebUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
 
 secured: "4XRkphOPtmWUMf9TwmqZJH6RERHD/72ITHrobRjeBuNFY9Q7a7kSeSPHyzcAKqsfzcFAP/Wvy6GWtcaCn5kQSNy/sSfKwe4Oaw3FcYALuMLGqHzgaZDv/e9G0QKlOEHFK3hVrBSibi3tNaU8NOguaBmEE9tlHOQukeYnW22CX4wquIlIQvC4wAMEUn3vf9Ij/NRMB/ry2FpNv8cGzCma4kM/TboQroKQ6MyMYPkuy4XIZ1ynWdDQPKoxWS8H/nklPaiEp80OdY31LK0iC9AybPm8FOQWj4zOvpO7lu/PmXXnzjDsW+iTXsIQFBeRsQIk1Op7oHeI3qPujMr7hMimGkIAMKR6PRRGg1y+1jCJhzivwX9ZEg/Q7flhn560+qIaM1WNj6X2uZ+rog44lO8K4lG9FuJO9ofXRSFNfVbzz6CZe/gjn1Ij5sKlRY/O+y7gO+B/eFZFrF+4ciUZPAA7lsOaT83NMaacVIJZni6TbOutiXqSeXhnLgPf2JdbOMKrlyhNmPsJ/J36Opbz77t9Tw==;MwOLzIjclBD5NDRWU3ppqg=="
 ---

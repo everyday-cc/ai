@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
+    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
+    publishedDateTime: 2023-03-14T03:19:00Z
+    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
+    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
+    publishedDateTime: 2023-03-15T07:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Will ChatGPT& AI replace the need for formal education?"
     excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
     publishedDateTime: 2023-03-17T15:13:00Z
@@ -74,6 +106,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64118cecf39c7d25add501ee/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
+    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
+    publishedDateTime: 2023-03-17T23:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        width: 2250
+        height: 1500
         isCached: true
   - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
     excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
@@ -120,6 +166,22 @@ related:
       - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
         width: 580
         height: 363
+        isCached: true
+  - title: "Can ChatGPT Get Bored?"
+    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
+    publishedDateTime: 2023-03-16T20:48:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
+        width: 1528
+        height: 800
         isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
@@ -174,6 +236,34 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
+    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
+    publishedDateTime: 2023-03-16T12:17:00Z
+    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
+        width: 678
+        height: 452
+        isCached: true
+  - title: "ChatGPT has some thoughts about Aspen"
+    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
+    publishedDateTime: 2023-03-18T01:27:00Z
+    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
+    type: article
+    provider:
+      name: The Aspen Times
+      domain: aspentimes.com
+    quality: 24
+    images:
+      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
+        width: 612
+        height: 408
+        isCached: true
   - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
     excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
     publishedDateTime: 2023-03-15T20:56:00Z
@@ -206,6 +296,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 2
+  - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
+    excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"
+    publishedDateTime: 2023-03-14T23:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776949.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "sPULYvhk9+pkxUWwqfqD/k6+QyXAdvRj6kOEOIip7k6Qae39ntOgs7VANznLjWp2RklTGjZSOl3lu/vHnPJ3v9JMSpesm06EzJnmswMZXXm7q7IY7dbIN67J4+EpPxu6gZJQESVA8eWvjMRMmzyoLhFKVk+W5fUgy0oOs5f1hYAU65Nv7Nz/6XIL1UuSqn9j2GgEcxuwmKNklqGDAV9xv68NdHhPKg4bIHXfvSjPjUF69C45QXolLiWRexxTkdoHlHcnFXP5HDU0iNW+K5hoXoAEBF6Uw24FNstb/y1FiU6dvDy/dEYwnTt6zSUZazAGHLt8XnMDOXKDY/dzzzIKOdMyDcVJm0ByhB3g+jA66Th/Wlxsp4YEoh80re4sSaTRr3FgcPe+KorHgS6cXNQyf8Wzc56xZuw30loNO4xN6QPD6wgHgJO45rwOBoLqLRSoTkwRVuNJGQpWbUS05LPt4Fb/9Twi2b7MvEUsbH1FHnuXzTqgKba9I+nmzgnrghOGmKR7P/P7Fqbq7vvZ8pSHWg==;yoHYpmhNJP2wG1o894l8vg=="
 ---

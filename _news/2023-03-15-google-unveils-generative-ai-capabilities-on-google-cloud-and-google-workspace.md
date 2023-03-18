@@ -65,6 +65,15 @@ related:
       name: Google
       domain: blog.google
     quality: 69
+  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
+    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Google Workspace is about to put generative AI to work"
     excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
     publishedDateTime: 2023-03-14T13:48:00Z

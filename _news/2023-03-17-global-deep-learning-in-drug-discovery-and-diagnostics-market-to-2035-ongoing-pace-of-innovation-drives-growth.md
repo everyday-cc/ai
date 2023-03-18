@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth"
-excerpt: "Distribution by Therapeutic Areas and Key Geographical Regions: Industry Trends and Global Forecasts (2nd Edition),"
-publishedDateTime: 2023-03-16T18:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d"
+title: "Global Deep Learning In Drug Discovery And Diagnostics Market To 2035: Ongoing Pace Of Innovation Drives Growth"
+excerpt: "PRNewswire/ --<br />The 'deep learning market in drug discovery and diagnostics: distribution by therapeutic areas and key g"
+publishedDateTime: 2023-03-17T09:18:00Z
+originalUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
+webUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "77KoMCmPoO8tGif0Dql+jgIAHDHcAgDvOmXxU7GcNzg73gSR3Us4hyLuHF6a4g/0xPxhiquKAyl0O7Y7XyiMXWTbVI91A9uv7Sd9XccJSMwDW7hn29A8zy94RQsptkrPG8r81C2cIRczn3gg4qaVd4Kl8fccMJVXyI8Jy18IusUfIwo9dSMUiqp3avev9xouSU1NdPjNzXZCHkYdXw3KyRxkrIEE20hAqzlJvoicnznSdS54Qe5CKZQtgta0vJFi6tkzn9WTizKrZoDT3KVyHKKi0E4j8zUAFwev2znmbWPx2rWEB7Ia26GqU6VSL1azA6LsswryyJPw+oSh/wAHGvIU4xlVcINYPQXrWgYvBes=;kDJsEbmjHODdWbgpTbxbmg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?363853"
+    width: 458
+    height: 250
+    isCached: true
+
+secured: "y2yaT/HfDZIGTCMV1fIDW0NGWeWfcth7SHNVmp7/6t6VLv0THnHh584XxPROVIhE98231QnnAZ+KHFBYdmfuz5zRljsOVmy6BHNQ1bwyrSY7sar2+/etwI3egTQeV1Cbbb3YZV8+8QuY486Too3M3hTdwPxZrsFyWh6jT2Qr28SbWKiFuequPDFz5kyTDXqOd/6wFsxv/GDYEoxzV5aWQJTwiM/U9BZP7yrMIdmLRQaaOLymagRGu7jpLjx+umMf55GR8c5RGSXIcvBr5JT4eAfI8xH9wmObGh1EeBcw5dIJRobAsXyXJfylD7l3EyRF4KGAuAS9el90A2i2UN9UkXCH5o0D1XN3/2KRHtZSCT0=;JQdvlIbzsOBTNMdNIpSPzQ=="
 ---
 

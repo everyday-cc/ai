@@ -2,9 +2,9 @@
 category: news
 title: "Noda Chooses ThetaRay AI Solution to Monitor Open Banking Services"
 excerpt: "Headquartered in the UK, Noda is helping online merchants in Europe receive direct bank payments from eCustomers via a secure and instant one-stop open banking payment solution, as an alternative to cards,"
-publishedDateTime: 2023-03-14T09:39:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-noda-chooses-thetaray-ai-solution-monitor-open-banking-/2023/03/14/9776120.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-noda-chooses-thetaray-ai-solution-monitor-open-banking-/2023/03/14/9776120.htm"
+publishedDateTime: 2023-03-14T09:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
 type: article
 quality: 34
 heat: 34
@@ -29,6 +29,6 @@ related:
       domain: ibsintelligence.com
     quality: 34
 
-secured: "gqAPwvK8rAlvQMdr2rT+KA1y2ziqYdvt7xotQgTWYxJ7Y8I/7wpMYghh0p+AYryipj10RD7gyGrA2qgMtfBi2qXXivSIcqeQe1K85VzNFMumTwAYIS1p9AHZGiRk55sKpyacg0WyJafSB4owSHNBsrReWkb0Wjor6yM5lkyobqJF4u31xcF+wo5dl8HdqiaLm8cSq3gl3q4umyM0XbVr+l8N4Jftvr7lisywcvTvuPlyU1zePcpicYGyeDNhUhF4SxbeKlql0jB1fyP0EmICxlby+R7lKrcEKplxoa6zbdXl9SUtoCRU5JgafioKBnMmwJI7cI9D2Gcyqkt4QytK22i3rZ3oVXInNlsEj0nUq0kfZlBv6P1G6fAXyuDCRuy35tyyxo/MpP5aMy1JBGRmki98mkvgXZRevc38BKIhf5IZOkVEibN0dDDQ9sW1BGKlM+vrpvo4HnI6snskDg6nTckaTvem2gBFQCxM9S+jYQy+bxgtQfVZCklMKkDb9jkDuvsTbwl5/BkJC7oTM3iFFw==;Pfw33px9VgTDuOi0+KnhAg=="
+secured: "Ub+5YpLyPmre/CTakoWLxcyFrZ14cVNL9keoDouJKQqygpDxUiAkCbOoTh/LlacqwRXwiOJl7nFfRw3fqiBwsS8gaZX9urEgqdBxGm0Fm4qp1ppovuwZA9OM3f46jge193MI4676HbkToMv4uW5xfE50T2QdNVm8w1mNP/xw/c5Vbx/UEKB3MUbqFO21BSeimM0Jt6j71KC5aHwYOPoj8fTNnWu5p5aYKJakegrlVNe/NnKTlIcdQEqpwo1Z1lVPP+k9d2GldUu89kgVyuvJzBeKY6Cy3hpc3Rxs/GUg5VGe/OoW06rfZqoAUrlUfUFGZTJttNfsKfMmTFr8hdnNJkkmTukHWXX1Gj4BYYPkfbjHLYol14Gen/OJFNPQYNn9FBhsfQ/L8EBaKSgNzxwmMebRnXHBpqFLj5Jj8PAIZU1TmGYXEE5M0lj9RSOJNBeWCrzUfehx4P7iZDeKb/wvZuNXcB26fczmnon68vYuxzkuhJWiL7EhNm8QALlZ7QTXOsxaKDoJLKR8dQ3KiDFCsQ==;LNZiWaD7wpgLgCJOQ1hc7g=="
 ---
 

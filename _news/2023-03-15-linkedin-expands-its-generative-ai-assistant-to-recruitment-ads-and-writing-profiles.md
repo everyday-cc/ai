@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT's success could prompt a damaging swing to secrecy in AI, says AI pioneer Bengio"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-15T17:42:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpts-success-could-prompt-a-damaging-swing-to-secrecy-in-ai-says-ai-pioneer-bengio/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/54ee02a9cc2358d11fd07070836ef1d249bdfaf3/2023/03/15/ca900fa0-deba-4d6c-b2bc-4fbb55d49b06/gettyimages-1246850559.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "You can now ‘enhance’ your LinkedIn Profile with AI-written 'suggestions'"
     excerpt: "LinkedIn is adding AI-powered “writing suggestions” and job descriptions to its service as it looks for new ways to infuse AI into its platform.."
     publishedDateTime: 2023-03-15T20:15:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/WIcBxSaBXd3zrPFh6Bp61Q--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/3bdfe900-c2c1-11ed-bfdd-0f7c6505ef7c.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "LinkedIn teams up with Adapt to boost machine translation"
-    excerpt: "LinkedIn and Adapt have created a machine translation model that focuses on specific categories of information such as product details."
-    publishedDateTime: 2023-03-13T10:56:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/linkedin-adapt-sfi-research-machine-translation"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/AdobeStock_283773482_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "gSfAoYOVzf8TqifwPdGvNrFSxFiqFf4et7aAv//f5Qfz5BhusL6MJjnoaOK49LMTfl7Sf/6jrdU3lJiw5LsOXq6z/3JAFSiNtJPnzsGz1xWoqS0kuA/a2b3XLC2oVtGCtBNxXnFxQyTKS2eJTC/TR21yoMXcxeTB4bMMLUX1maBzT6aortgjRxaFWR0VzsCYhPIvpgzVteagNXd+3Q4b3Uid73y1zYYxUId8AOCWq0NCswPJzQ2czRGKOzm8kOr7WpQNvMTIzT7VMM4CBRBBV8WM3fZaKT/am5megGOZdAg6IXZJSqgm1r7PlDtNh+/AmK0rC2uGUzfstipixC8hJ6/xQcjttOyLjEgKDFFP2F8qv3kSinIJD19BEZwoI8CNw6iZhi+6i98tS01FxoUESO72vC0df5/C3SdXBqtWl1lFZOI/Tx7KVeZMfryYvEkcAkEC3ezdAx2zQoDcvLcc6BXjP1XHBucRcylza953vWYYtHNnKKfx5JSlUsKEl7XyhajJ9KcU7IPRbgN4CHhORA==;ad/wgh5MJbvRm8xxdvLGRQ=="

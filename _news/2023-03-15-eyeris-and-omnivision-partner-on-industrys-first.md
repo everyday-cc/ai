@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Eyeris and indie Semiconductor Collaborate on Integration of In-cabin Monocular 3D AI Solution to Improve Vehicle Safety and Comfort"
+    excerpt: "Eyeris Technologies, Inc., a global leader for in-cabin sensing AI and sensor fusion solutions, announced today its collaboration with indie Semiconductor (Nasdaq: INDI), an Autotech solutions innovator,"
+    publishedDateTime: 2023-03-16T22:27:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/16/9778334.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "hKErSfZf8o6LzMlKSm4Fp2CdsDd3U+ikNBUxTryUS2ItLMBHsew37FDpyNO7Z5IgWrjUZX57eGQXlC482tIRXXvgggizveVWEc+1udi8S535xLCwYaMUj+13QeEqhZWZ57CzvCH1tDHuE1f+gt6RmHtt53w5q3yfcWmEUDCLYHN6XdmmDBTk2WXpl6PZHxZmFw+/biPcvjJQ04uuqLKu605BEhUauDSo97q/X1czGsjoPRguOnB17N8cA9kLEayRBn1/lN66bOSleEiIw+TBPAkfraO8IlwzFHNfG7lv36ilaJOtUKAqtPKS4h9ZpHPRDW+BENzNdSB3v+m4LC8aBYCTpczYrvgaobXO+cWdhAw=;j4ZSkJugwDoXLKCYk0i53Q=="
 ---
 

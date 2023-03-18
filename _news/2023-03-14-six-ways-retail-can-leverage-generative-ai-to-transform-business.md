@@ -5,10 +5,12 @@ excerpt: "As generative AI evolves into an even bigger, more sophisticated techn
 publishedDateTime: 2023-03-14T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 89
+heat: 159
+published: true
 
 provider:
   name: Forbes
@@ -22,7 +24,29 @@ topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/5f0daeb4496d3e0006c97aab/0x0.jpg?format=jpg&crop=5700,3800,x0,y475,safe&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
 related:
+  - title: "How AI Transforms Social Media"
+    excerpt: "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online."
+    publishedDateTime: 2023-03-16T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
     excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
     publishedDateTime: 2023-03-16T12:30:00Z
@@ -39,71 +63,64 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Generative AI output could be eligible for copyright protection. But there’s a catch."
-    excerpt: "According to a new policy statement from the U.S. Copyright Office, generative AI could be eligible for copyright protection. But, there’s a catch: Proof of human authorship (a prerequisite reaffirmed by the Copyright Office a year ago) is still required,"
-    publishedDateTime: 2023-03-16T20:37:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/"
-    ampWebUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+  - title: "Generative AI and what the future holds"
+    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
+    publishedDateTime: 2023-03-15T09:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-26.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "How AI could write our laws"
-    excerpt: "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits."
-    publishedDateTime: 2023-03-14T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
+        width: 512
+        height: 512
         isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing Retail"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
-    publishedDateTime: 2023-03-15T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
+    publishedDateTime: 2023-03-15T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
-    publishedDateTime: 2023-03-16T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
+    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
+    publishedDateTime: 2023-03-14T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Salesforce’s AI solution for Air India to improve customer experience"
-    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
-    publishedDateTime: 2023-03-14T16:27:00Z
-    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
+  - title: "How to set up an enterprise strategy for generative AI"
+    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
+    publishedDateTime: 2023-03-14T11:41:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
     images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
+        width: 770
+        height: 434
         isCached: true
+  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
+    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
+    publishedDateTime: 2023-03-14T18:30:00Z
+    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 0
 
-secured: "iOgS8d4ojtywkfy879RLwNBc4b9rhn436q49Z7EnLHaT2dpztn4k90bapQuecrv3WyWplMa3lRmicFHdI3VbSKXby2tYdt5SElw2eHG0FSvsslM+0qb2YFmr5PIPVZNyG6RMgm0wxPe+KXVz9r0mrTi5K2GzXRL5o32EUk9Z/Fa9czJsVMw3jHNcm2uHwMVoaO662zGVAL5xIjw9I3xAQIq5ek/CFAM8p6uwcOPXhWtWsSuZrQ90wyzuquqg2pEZhcrjtfADqzprCO5dPGKskBAY+p1lKAUi+c7GILjnndfW+x+eyrAgQ6a9xsmdhgVUB8NitwJl2O/k65oSZUGTuz3tPL9xpN3aeXLy3SyAGP8=;/bcime/nuxAQPhs+BpsVzg=="
+secured: "cFdpUBRcWpCCTckFPt3gjeDmwv2MnaBOGFLjIn8wuTmnx83GY8Tljl7ToES0GdkXXzadmiVCg+p+JnoXnR2GImbF1USa0856VlG2Rc+veB7SfRbY/pvy6kqo+Tv822nitx6SFGh84NTi6hziM0LlIJSxO0DKATxNGvp6hm1OTcVA/k1SXwLk2Dj9AmCGa9wQvvorEKmx3yFixlzMzm4nyTt60ISwUpGoSgdXF+OPWSWEKC6gBeBGlWnHX1x+sQ98qrh9WWaRUY1F1A7/6tquN9YwDyuqQFrFzSpxT2poXhD2v0i4Hlf3JZ3nhA4JNXFifHJSE0TxLtBKrTV0IScFMt2+K4/AKh8IeyYKz1Ny//c=;0UljVDJRb91RsrL3JLr5Fg=="
 ---
 
