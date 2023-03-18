@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TCS launches 5G-enabled cognitive plant operations adviser for a Microsoft platform"
+    excerpt: "Tata Consultancy Services (TCS) announced the launch of its 5G-enabled solution, TCS Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform ..."
+    publishedDateTime: 2023-03-14T05:45:00Z
+    webUrl: "https://www.freepressjournal.in/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 53
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/c1c84af3-5e1c-4fb3-ab48-760957537d02/Untitled_design__38_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 675
+        height: 380
+        isCached: true
   - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
     excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
     publishedDateTime: 2023-03-14T07:04:00Z

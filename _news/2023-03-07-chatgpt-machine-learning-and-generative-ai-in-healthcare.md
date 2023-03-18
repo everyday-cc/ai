@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200"

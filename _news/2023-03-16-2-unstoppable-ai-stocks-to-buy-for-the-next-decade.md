@@ -28,54 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
-    excerpt: "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security."
-    publishedDateTime: 2023-03-13T15:13:00Z
-    webUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 79
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "3 Bank Stocks to Buy That Are Crushing It With AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If you’re looking for bank stocks to buy, I can safely say that you can"
-    publishedDateTime: 2023-03-13T23:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-bank-stocks-to-buy-that-are-crushing-it-with-ai-1032164492"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
-    excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy according to analysts. If you want to see more stocks in this selection, check out 15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts."
-    publishedDateTime: 2023-03-13T15:13:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131207/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 54
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg"
-        width: 584
-        height: 296
-        isCached: true
-  - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
-    excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
-    publishedDateTime: 2023-03-16T13:18:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/16/2-artificial-intelligence-growth-stocks-buy-soar/"
+  - title: "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade"
+    excerpt: "Artificial intelligence has become integral to the operations ... Retail sales aren't highly profitable, but services (like AWS, with its 29% 2022 operating margin) are moneymakers."
+    publishedDateTime: 2023-03-14T05:49:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/14/artificial-intelligence-stocks-can-buy-hold-decade/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 47
+    quality: 68
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/724339/relaxed-person-looking-at-stock-charts.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
+  - title: "2 Growth Stocks to Hold for the Next 10 Years"
+    excerpt: "Microsoft’s businesses are always in demand, but its deeper move into artificial intelligence could be a game changer. As long as the world wants newer, faster, and better computing technology, Applied Materials will have a market in which to sell its wares."
+    publishedDateTime: 2023-03-15T11:39:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/15/2-growth-stocks-to-hold-for-the-next-10-years/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 52
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/724630/investor-reviewing-a-stock-portfolio.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "3 AI Stocks That Can Make You a Millionaire by 2025"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With  AI beginning to transform just about everything, the potential $1.8"
+    publishedDateTime: 2023-03-13T19:38:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/soun-robt-ai-3-ai-stocks-that-can-make-you-a-millionaire-by-2025-1032164252"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 AI Stocks That Have Warren Buffett’s Buy-In"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors looking for Warren Buffett AI stocks should note that the"
+    publishedDateTime: 2023-03-13T19:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai-stocks-that-have-warren-buffetts-buy-in-1032164253"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "Gd908OlSZd0LdKnwZsXSiBre0G96+L6Q/fqf86dmDxLjaKcsCsaBvWuFu7NOdmDYD9O7C87GHZxj2uljaj9UUGqnLs2i8ZPknrY0d85ybPdGqMSgh6nNQuDvDDxZzfp4SR2ME+Jv7PKdIzUwhTbQDJ23/QzeIVtqcqOIX14VHpyKOwAw93uSTbi94Ra2hIjEm3iNUi5dL0FrBmcEK75TgLIFgsu/521cNdhqhM3t1JwSEfcqiyOBZKNhrnrXCWibWNXrBn3cTJimEDeF1p8wSydUSDiGbygWidGR2vRsfujQjpSBsg+TYMk1T81MEmVI2TSqo3XuS0gvXPBaNFb/CoB8ZAqDlWUmFnMJABx/4mQ=;pZx/bUI4gIz2RgTNzlCR+w=="
 ---

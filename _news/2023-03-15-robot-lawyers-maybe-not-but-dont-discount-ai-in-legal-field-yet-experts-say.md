@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "'Robot lawyer' DoNotPay sued for practicing law without a license"
+    excerpt: "The San Francisco startup that touts itself as \"the world's first robot lawyer ... file class action lawsuits and other legal services, sometime through AI. The company has made headlines for attempting to get an AI chatbot to represent a client in ..."
+    publishedDateTime: 2023-03-15T21:05:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/15/robot-donotpay-sued.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "AI lawyers? Not likely, experts say. But don't discount AI in the legal field yet"
     excerpt: "While courtrooms are unlikely to see AI-powered judges or lawyers any time soon, the technology already has plenty of practical applications throughout the legal field."
     publishedDateTime: 2023-03-14T11:21:00Z

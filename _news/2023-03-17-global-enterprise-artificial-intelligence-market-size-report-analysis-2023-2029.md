@@ -570,6 +570,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
+    excerpt: "therapy planning, and monitoring. With this, the company has accelerated its healthcare innovation with artificial intelligence (AI) and digital solutions. In October 2022, Google Inc announced the launch of its new Medical Imaging Suite, which helps in ..."
+    publishedDateTime: 2023-03-18T07:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31409020/healthcare-ai-market-trends-demand-growth-and-future-scope-2023-to-2029-welltok-inc-intel-corporat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31409020"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31409020"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "The Global Artificial Intelligence in Accounting Market by Component, Application, Technology, Vertical & Region - Forecast to 2030"
     excerpt: "The scope of the report, which outlines the precise market segments that the Artificial Intelligence in Accounting report will focus on, is a crucial component of the study. The investigation's parameters and objectives are established by the report's scope."
     publishedDateTime: 2023-03-14T20:24:00Z

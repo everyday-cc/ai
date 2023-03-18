@@ -19,29 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "DoNotPay, the 'Robot Lawyer,' Is Being Sued"
-    excerpt: "The startup behind the “world’s first robot lawyer,” DoNotPay ... DoNotPay claimed it was taking a pilot version of an AI-powered “robot lawyer” into the court room, to fight a speeding ticket charge before a judge. The company’s founder ..."
-    publishedDateTime: 2023-03-13T16:05:00Z
-    webUrl: "https://gizmodo.com/donotpay-robot-lawyer-speeding-ticket-ai-1850218589"
+  - title: "Robot lawyers? Maybe not, but don't discount AI in legal field yet, experts say"
+    excerpt: "Though \"robot lawyers\" may not be a reality anytime soon ... he believes the law industry is standing on the cusp of an \"explosive increase\" in artificial intelligence usage. That usage might not always be obvious, he added, such as when lawyers use ..."
+    publishedDateTime: 2023-03-14T18:41:00Z
+    webUrl: "https://www.ksl.com/article/50597536/robot-lawyers-maybe-not-but-dont-discount-ai-in-legal-field-yet-experts-say"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ec120c08494eb6bc726c995f66e06d2e.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Robot Lawyer sued for practising without license in US"
-    excerpt: "The world's first robot lawyer, developed by a startup, DoNotPay, has been sued over allegations of fraud by appearing in the courtroom without a law license to practise in the United States."
-    publishedDateTime: 2023-03-14T10:28:00Z
-    webUrl: "https://www.vanguardngr.com/2023/03/robot-lawyer-sued-for-practising-without-license-in-us/"
+      name: KSL
+      domain: ksl.com
+    quality: 30
+  - title: "AI lawyers? Not likely, experts say. But don't discount AI in the legal field yet"
+    excerpt: "While courtrooms are unlikely to see AI-powered judges or lawyers any time soon, the technology already has plenty of practical applications throughout the legal field."
+    publishedDateTime: 2023-03-14T11:21:00Z
+    webUrl: "https://www.ksl.com/article/50597536/ai-lawyers-not-likely-experts-say-but-dont-discount-ai-in-the-legal-field-yet"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 19
+      name: KSL
+      domain: ksl.com
+    quality: 14
 
 secured: "ECgrUdGw8JbnvDnqFWFzMJOJWt8mYC69XRDzGexeXc45+S0h2rvQjGcEdsvusTMmppsEOGB+bjusv/YD9pXMJpv5BPBnanf7bu97W8w62/L+buTihojFXl+m2wjw51Wq/BTi7Q0IeyFkhxZsCH3SPonC0kxDAUlIYZtylgQ73oXoNWJ/XQB6W7ls1xWnwFqjlo2GypDKDuWBaPKkgAioTdm2cQqdpBeEjikHblz1Bhnmve1XljFKEQZYGu4CH6Ij1vT9BmLcdNIA8lkvT3FNjYxg3MxHyCXmldWO8noHznX8cUv/dp7kQjulAXK8gvgmelXOBykgxNnn/8bpk9CYC1JX+k2+8BUod3Ap6qr8x3JZPQ2JG0YLMAkfIiM2t6AFO0kAIX40UUsINaY2cj+q1fQ9Oh/O+STKWqquRZpTb44HOrj/UEoEb/pTpO0zqy3sIn+Iw0cUZ+ucbqLWkxZ6lErfRRgTxVA6GJZZISrvWWaJpiPaMZKpLj+ONDmbjWO8IP0M6o+W6Pmo/ee4FE34bw==;wN7e6Tmk8n0yoS4lLiCwFw=="
 ---

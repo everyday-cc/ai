@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
 type: article
 quality: 102
-heat: 402
+heat: 392
 published: true
 
 provider:
@@ -270,20 +270,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
-    excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
-    publishedDateTime: 2023-03-13T17:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/colossal-ai-releases-open-source-framework-for-chatgpt-replication/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Open-AI releases GPT-4, an even more advanced AI model than ChatGPT"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and mor"
     publishedDateTime: 2023-03-15T06:33:00Z

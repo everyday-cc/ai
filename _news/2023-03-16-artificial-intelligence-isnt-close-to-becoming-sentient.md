@@ -5,10 +5,12 @@ excerpt: "Chatbots like ChatGPT raise important new questions about how artifici
 publishedDateTime: 2023-03-16T12:23:00Z
 originalUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
 webUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+ampWebUrl: "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 61
+heat: 91
+published: true
 
 provider:
   name: UPI
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg"
+    width: 1018
+    height: 681
+    isCached: true
 
 related:
   - title: "AI isn't close to becoming sentient—the real danger lies in how easily we're prone to anthropomorphize it"
@@ -54,6 +63,6 @@ related:
       domain: houstonchronicle.com
     quality: 1
 
-secured: "wH0dbetWXOhxNhNJJe09uxYKjBUzycZ9JdVETlmMO8HHmzJ+Ijs3ulhl3j0lzR1jNrKjmAdDZaQyEy3Bb5IL+dhCgRm2GgsIRjNceCAdc82B/MQKTGdbIcY/JGcYwThY4QMhkA8bAjwqF3JpSKLOM7cQ0+Ty7QB7dI4sCmrJ3nTY6+jLC9VcwXXVnSCVgWuZq5ZKglejowemf9UH4S1Mims2lQaCw8ilQxqvL+Rl9/e2tQawnzSqlUBpqmH5KQ4kt2TTv5k/1K27o5IdFwhKDtpae4WyietigbMAIVcDfEyuIM3LhUy0gvCXEHk3Dqfg3Bh68tG2JLwI68QFOvvGv2vUrrmGdQ9AvSQ/04iDWrOWFWOqpJ5S9Iyzb0mpwyIyCDKVxGwCPa0tzDO8vgXjRbsUP/RbdX+ewrtN1VsGeEXkN5nk+PwsxSp2UkVMRr7D/vyBDp9T3uQkeePBKRd/x3CRE6WSKg8Xn37lbH203QHtQekRbEJ6j2wFEptGUzna78Zah8GptkbajdUpXXiBMA==;VGJvweassQ1tZXZMlx8O3w=="
+secured: "IVC9KWLsh+ehZpf5XRnqQyRHI5HhIKVi7PZHW2GRVFmJRr8RxYXaEkLAyG18vb6RnJ8Zg7ozopNQVNBO6VTyRrjmpQyqtkbTYfX0Vch/VTnxGHtXnagcg7ZPSofJz7IOU+CN471OVrULe1ueEjlsxZDDrDkHdcn0pCh6NyBifUPoLW4MTAx384OM64RbzMJD1YRpIid6gcagT+TaE4IauJdtxOsU5Mo3aE8CExolGoalW6jlZ85EZh/eVAtIGC4X40aUiC0AdFu7jBJ57xpI0x8iv4mo8GCSWDnXcUWznyhynAA8Z7R1iCr3TsUwxQlWhnUwoop7W4xriD19skudBr5187Kj8lT6uKHQ9ATSktY=;pUpBILHsHrLrLpFTs+hUPg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dealing with shortage of AI talent in banking"
-    excerpt: "Banks have continually invested in new technologies to improve their operational efficiencies and customer experiences. Cash withdrawals from cashier windows in branches gave away to ATMs. And paper-based passbook printing took a backseat when"
-    publishedDateTime: 2023-03-13T17:05:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "An AI tutor who teaches foreign language reading"
     excerpt: "The Electronics and Telecommunications Research Institute (ETRI) has developed a reading comprehension education AI technology that allows you to learn foreign language listening, speaking, and reading by talking to an artificial intelligence (AI) tutor."
     publishedDateTime: 2023-03-17T18:00:00Z

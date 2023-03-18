@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Chips Market Assessment Report by 2023-2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) Chips Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche ..."
+    publishedDateTime: 2023-03-16T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-assessment-report-by-2023-2029-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 95
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market 2023 Future Size And Growth of a Market"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- Computer Vision in Artificial Intelligence (AI) Market Size 2023 | New Report (101 Pages) | Information Technology | In This Reports ..."
     publishedDateTime: 2023-03-14T03:52:00Z

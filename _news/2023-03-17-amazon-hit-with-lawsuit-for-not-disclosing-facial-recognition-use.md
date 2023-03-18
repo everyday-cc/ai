@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition technology used at New York supermarkets raises some questions about privacy"
+    excerpt: "NEW YORK -- When you're grocery shopping, you may not realize what's being caught on camera. Some supermarkets are using facial recognition technology to catch thieves, but there are questions about privacy. On the front door of four Fairway supermarket ..."
+    publishedDateTime: 2023-03-18T03:47:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 62
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/18/f7e479e9-336d-4132-a70b-2d31bebc1dfa/thumbnail/1200x630/4e1d6d34ff4ea38d16f478f0c7ecf70e/keleshian-new-11p-pkg-f-wcbs6ejz-hi-res-still.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Slog AM: Amazon Faces Facial Recognition Suit, More Train Wrecks, Trump's Back on YouTube"
     excerpt: "New Yorkers sue Amazon: Our least favorite local bookseller faces a lawsuit from New Yorkers because it didn't disclose facial recognition technology in a NYC Amazon Go store. \"New York is the only major city which requires businesses to post signs if they ..."
     publishedDateTime: 2023-03-17T15:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-64967493.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64967493.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chancellor announces £1m Manchester Prize for AI"
+    excerpt: "British chip businesses have sought more government help ... \"We'll work at pace with the Intellectual Property Office to provide clarity on IP rules so that generative AI companies can access the material they need.\" And some rights holders fear this ..."
+    publishedDateTime: 2023-03-18T09:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-64967493?trk=public_post_comment-text"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-64967493.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64967493.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3939/production/_128994641_manchesterbaby.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "UK Spring Budget: Chancellor plans £1M annual AI prize, quantum investments and a new £900M ‘exascale’ computer"
     excerpt: "With the UK predicted to avoid a recession this year and next, Chancellor of the Exchequer Hunt announced funding injections into the country's tech sector."
     publishedDateTime: 2023-03-15T17:44:00Z

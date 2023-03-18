@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -31,11 +31,18 @@ related:
     excerpt: "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ..."
     publishedDateTime: 2023-03-16T12:23:00Z
     webUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    ampWebUrl: "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
     type: article
     provider:
       name: UPI
       domain: upi.com
-    quality: 19
+    quality: 61
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg"
+        width: 1018
+        height: 681
+        isCached: true
   - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
     excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston’s Applied Ethics ..."
     publishedDateTime: 2023-03-15T15:24:00Z

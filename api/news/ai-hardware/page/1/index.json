@@ -2,19 +2,62 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
-      "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
-      "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
+      "path": "_news/2023-03-18-chancellor-announces-1m-manchester-prize-for-ai.md",
+      "title": "Chancellor announces £1m Manchester Prize for AI",
+      "excerpt": "British chip businesses have sought more government help ... \"We'll work at pace with the Intellectual Property Office to provide clarity on IP rules so that generative AI companies can access the material they need.\" And some rights holders fear this ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
+      "webUrl": "https://www.bbc.co.uk/news/technology-64967493?trk=public_post_comment-text",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-64967493?trk=public_post_comment-text",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-701752/social",
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3939/production/_128994641_manchesterbaby.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-64967493.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64967493.amp",
+      "publishedDateTime": "2023-03-18T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-nvidia-gtc-event-to-showcase-generative-ai-arms-race.md",
+      "title": "Nvidia GTC event to showcase generative AI ‘arms race’",
+      "excerpt": "Read: Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore Read ... long semiconductor shortage triggered by the COVID-19 pandemic flipped to a chip glut in mid-2022, some analysts expect growth in that important data-center ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-608401/social",
           "width": 1280,
           "height": 640,
           "title": null,
@@ -24,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "publishedDateTime": "2023-03-17T08:36:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206",
+      "publishedDateTime": "2023-03-17T14:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -209,7 +252,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -1418,49 +1461,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
-      "title": "Nvidia's latest GPU drivers to upscale blurry videos via AI",
-      "excerpt": "San Francisco, March 2 (IANS) Chip-maker Nvidia has released new GPU drivers, which will upscale old blurry web videos on RTX 30 and 40-series cards. About 80 per cent of internet bandwidth today ...",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai",
-      "originalUrl": "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/03/94bb4dd5080cd84ca4fe8201db58559f.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
