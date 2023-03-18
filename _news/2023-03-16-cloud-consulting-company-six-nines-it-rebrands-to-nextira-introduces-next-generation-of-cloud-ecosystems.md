@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 related:
   - title: "Cloud Consulting Company Six Nines IT Rebrands to Nextira, Introduces Next Generation of Cloud Ecosystems"

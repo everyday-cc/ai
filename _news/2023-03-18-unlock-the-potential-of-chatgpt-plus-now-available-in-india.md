@@ -420,19 +420,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
-    excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
-    publishedDateTime: 2023-03-14T00:59:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3313280"
+  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
+    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
+    publishedDateTime: 2023-03-18T15:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 37
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/Friendify_s_ultimate_goal_create_ground_breaking_products_utilize_power_AI_improve.jpg"
-        width: 800
-        height: 450
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
+        width: 1920
+        height: 2400
         isCached: true
   - title: "ChatGPT gets more ‘human’ as AI wave continues"
     excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"
@@ -608,6 +608,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OaruKk+lEqXmPK2eu15a02MnanNe4EVgMcmF/N1umYPHsOjaZBmh/HwanS2toqXTlYPkPllvoMgGgUyoISx/12kTN1FVfHTIdbJK0ga77KFx8vnJLFOmHZoWB88+MGS0CCaPToG10aiIaLPH/1XhV6DQm1kYNThfXNN6eU9d2/cT4Qxanqu1+bMKuDol7B2WnE3jB4stAjA0ugWuibTFBbsO8HJXhpcOcONP8zErVMX7kvbu7Q2/telSb3M19dUu0vylxxEVO5Lf9kgE5oHy8t9HoaQ/Ot9ASP3QHdozitXbEZUcY2fZ2VkQWz/NdoDru6LmCiVyHXIkrV4WEbIi2OVQdz/WvEus51+yhUeK1jw=;7ANWo9bHI86D021bqVi6Rg=="
+secured: "qPOnC8LXnAV0WyqYYqXpajSQaikhQkrFPYESTfkfiI/MaycXJ906M38vV+xLkDllaIbU9QLMqOZ47kdVm8WfySZMdVVXJnJPn9yNKCiH+fIt7BBHRJNWErW1nqiH2/L3Q+eaYrm/Rtf/e4B3HPw9DrFbgAYw1RtVfIW9peKz9iQiq74LfUc/EEoBWQ6heTK9J3fai+4/3d64q/7WnqtdPekoMrkmlaKAhb+tjSbIT4RQQN0aZlDagOYBhSfnQlXbAm4R51+6EOEfXOFC+ysteg41qPVM9GHewLxm2Pc4qObbbcuEv8RzjBEgxzsY33Q3snJCNzxvq8Knt4KwKfy421qEpr3nQpV1zl+V1WnUVhehkHgu40aL2o9OtuK75wNBkkIMUTGU4CWB/YiGShrqAfc+DmZ0cwuXv0TcmjH8a6nfJ17JhlrSXuPA89N34BztAtbZwF9keIulkzXX2+Jzl2g5/9/tl+RTYaUo3wLaT5cHIMDCmc7L9GXKrQBWnpWOZS4JGr2YGUfoJbdTJp368g==;gaZmf8O7OuDwPzsLgIyyEQ=="
 ---
 

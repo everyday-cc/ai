@@ -1,0 +1,59 @@
+---
+category: news
+title: "Anthropic introduces Claude, a “more steerable” AI competitor to ChatGPT"
+excerpt: "Anthropic introduced Claude, a large language model (LLM) that can generate text, write code, and function as an AI assistant similar to ChatGPT. The model originates from core concerns about future AI safety and Anthropic has trained it using a technique it calls \"Constitutional AI."
+publishedDateTime: 2023-03-17T21:37:00Z
+originalUrl: "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/"
+webUrl: "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/"
+ampWebUrl: "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/"
+type: article
+quality: 86
+heat: 106
+published: true
+
+provider:
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/anthropic_claude_close2-800x450.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+related:
+  - title: "Anthropic's Claude AI is guided by 10 secret foundational pillars of fairness"
+    excerpt: "Claude, a new chatbot from Anthropic, is built from the ground up to be less prone to factual hallucinations than the competition.."
+    publishedDateTime: 2023-03-14T22:48:00Z
+    webUrl: "https://www.engadget.com/anthropics-claude-ai-is-guided-by-10-secret-foundational-pillars-of-fairness-193058471.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/NuREVdQhYQMHqlYbhRrkBg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/30ffe700-b813-11ed-bbcd-885cf976a4b3.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ChatGPT Gets a 'Helpful, Honest, and Harmless' AI Rival Called Claude"
+    excerpt: "AI safety and research company Anthropic just released its next-generation AI assistant called Claude (Opens in a new window). Claude is a competitor to OpenAI's ChatGPT, which ha"
+    publishedDateTime: 2023-03-14T17:53:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-gets-a-helpful-honest-and-harmless-ai-rival-called-claude"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+
+secured: "2EJEStSDI/Tew72gc5gFi8zyqmKjEnyqpgpnSEFjjuwBE9X9RNbNkJK+uA3jHM1KUPrQNR2ZAs8xOtOHMyXhjeS9BdAn/Vn2/iAqFct/9x3kA7h/mJ0JwyJdkyV2A4FknwACbMZvyo7V48U4t6+DgEEZsy7FO0l/ButW0lxjE05W3mFisWFo/zKzKVTvdb9SLreS6eJS9xLQ01tAtvQcRruS7kYsCUuUwrp1zK6aYxoCqll99OF70RxlElK99ezz5OHz4gINyE7ojOEp4aN9ZsgIWlniJvFsEGkQRrahe94uj4D7ZG4a0/VBbmoyVT6hRo42I5EOsJAqBE39QPbe/3sDDtknvSyGbYhoOjEhlJY=;igS1kG2NfWdGu7KidEei2g=="
+---
+

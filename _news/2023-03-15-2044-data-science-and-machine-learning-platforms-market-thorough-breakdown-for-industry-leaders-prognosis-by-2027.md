@@ -248,20 +248,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Emerging Demand and Drive Growth by 2029"
-    excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" study describes how the technology industry"
-    publishedDateTime: 2023-03-14T00:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-emerging-demand-and-drive-growth-by-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Growth Revenue, Trends 2023-2029"
     excerpt: "Global “Data and AI Ethics Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the latest ..."
     publishedDateTime: 2023-03-15T13:02:00Z
@@ -424,20 +410,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
-    excerpt: "The global Healthcare AI Market at a CAGR of 42%, and it is expected to reach USD 169.7 billion by 2029, over the forecast period The healthcare ai market is a rapidly growing segment of the healthcare industry,"
-    publishedDateTime: 2023-03-18T14:46:00Z
-    webUrl: "https://menafn.com/1105807041/Healthcare-AI-Market-Trends-Demand-Growth-And-Future-Scope-2023-To-2029-Welltok-Inc-Intel-Corporation-Nvidia-Corporation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?478964"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "E6LOFkXxVLKuY1XWEtf8DNy0/f7FqeklyPo97hZ9NiKFKkyYtllc/jP55tSxmejMiuFETcrmi6scnG9SY9BMu+6SgmFPFXm+/vBxpS077I0V/otQvkVYOuT1Mn/nyWT6mb5fKltzeiCEygyv62wKYcRDmh72tPFCS6vL01t5i+t35X65kKE3JXrtC61xjZJkf2ygNQp1yWFSGg+1IYsTOgEOoEegey4ykS3Af2pimXq0d+0ooBX1JRFkbifr8NdlO0IFsgw6dvH0Sgbw419hAIA0dRu9sFzu1/RJ6WrhM/jrR0qcywr4LsRymQ2Lcw139D9hAjgalGzvnI0zSYpg2Av2rJiHFwppdMH7CyK2Ji0=;y/4eyMliojUm1+DAMY6cEA=="
 ---

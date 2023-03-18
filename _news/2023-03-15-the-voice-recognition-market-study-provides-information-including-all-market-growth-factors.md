@@ -57,6 +57,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice And Speech Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Voice And Speech Recognition Software Market” Size 2023 Key players Profiled in the Report are [, Nuance Communications, Inc., Advanced Voice Recognition Systems, Inc., BioTrust ID B.V ..."
+    publishedDateTime: 2023-03-14T15:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-14T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Technology Market Top Players and Forecast till 2029"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- The \"Speech and Voice Recognition Technology Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term ..."
+    publishedDateTime: 2023-03-16T01:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-top-players-and-forecast-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Dlr/yNrmqN5+jSGX2CpVMnen7QDZwqeYPgCaalCb064mwkqKZfkd0G1PsP/vUzHOTS8Ygk0Wg7IIDRN0eWcdNiH+l1m3mk+/G8dylOJpdNPXyEIpE6WzK4vI4lx96ow/l7Ea0wK76wZQFxWQS9JldH+8tMs3MnuEKQN8FvdYdbT86qUJuPQGxgUAbzVu5lQlHHBGgPGpZLhwBucC1zdZ3+4zX2tjy96DmCVt++6RmH+TKhT8/ZaDYiC1kGv4KSYaR6aEccSX+eE46Yh2V+K4C/iIjDy2DRvZ9OqF5GJHpGMZ3TXMf/fRFRrsty9tT6/N6aytM9ShbBU60vOMFdjWxdTm7jiJp1XsnhmZ9JooEnI=;2qKSQW0qoRJntublG0wg1A=="
 ---

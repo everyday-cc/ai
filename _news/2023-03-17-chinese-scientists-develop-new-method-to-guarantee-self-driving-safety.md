@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese acoustic AI startup detects equipment faults"
+    excerpt: "BEIJING -- The Chinese acoustic AI technology service Ensound, formally known as Disheng Technology, has raised about 100 million yuan ($14.5 million) in a Series B funding round. The startup ..."
+    publishedDateTime: 2023-03-15T20:13:00Z
+    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F4%252F0%252F9%252F44789043-1-eng-GB%252Fphoto_SXM2023020700012543.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Chinese scientists develop new method to guarantee self-driving safety"
     excerpt: "BEIJING - A research team from Tsinghua University has made a breakthrough in autonomous driving, developing a technology that allows vehicles to self-learn while driving to deal with unfamiliar situations, an innovation that could resolve self-driving ..."
     publishedDateTime: 2023-03-16T16:10:00Z

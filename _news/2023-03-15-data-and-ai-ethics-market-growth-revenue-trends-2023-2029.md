@@ -243,20 +243,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Emerging Demand and Drive Growth by 2029"
-    excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" study describes how the technology industry"
-    publishedDateTime: 2023-03-14T00:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-emerging-demand-and-drive-growth-by-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Future of Natural language processing (NLP) Market: Growth Projections and Industry Insights 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" research report offers a thorough analysis of the most recent developments, new fashions ..."
     publishedDateTime: 2023-03-15T15:11:00Z
@@ -423,20 +409,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
-    excerpt: "The global Healthcare AI Market at a CAGR of 42%, and it is expected to reach USD 169.7 billion by 2029, over the forecast period The healthcare ai market is a rapidly growing segment of the healthcare industry,"
-    publishedDateTime: 2023-03-18T14:46:00Z
-    webUrl: "https://menafn.com/1105807041/Healthcare-AI-Market-Trends-Demand-Growth-And-Future-Scope-2023-To-2029-Welltok-Inc-Intel-Corporation-Nvidia-Corporation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?478964"
-        width: 444
-        height: 250
         isCached: true
 
 secured: "easghia3V7JsC0/JxM7jQDTtNV849hwwAandS6fyHFqxHV6ee3DHV7wvEC6XMRN0JNEeqUcxU5hrf2oF/PFz2phlHHFblvwewYP7hEKYy+b5yt/R/qoAHU73SavD2Tq4q+4795yYfL07n0TglgB6/hAo7SJJFrVkB5bIL41yGlvxQbIhhWczJPVA8NW7fOdNNorI+TsaN9hnxcDaX/oJj6LwcQrOYHNdtWrDylINeCvEyhukKXW8sa72P+kinpwk3hyHSB7jI/Rw+QJfbnmuEcr+u6WG5y5tvZkOyQGc+Tcbwop1LdlPmUuc9w4/NTxAuFTKw0X2x1LzwGNKzwxYQopfmWJQmnaESJ4AB6BSiT0=;z+LgYLH0f5kO3quEiFEIjg=="

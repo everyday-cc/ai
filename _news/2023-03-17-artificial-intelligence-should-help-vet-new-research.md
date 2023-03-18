@@ -60,6 +60,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "New Research Uses Popular Artificial Intelligence Technology for Materials Discovery"
+    excerpt: "With the explosive rise of popular artificial intelligence applications like ChatGPT and DALL-E, consumers are becoming more and more familiar with the world of generative models. While these fun, novel tools are helpful in our everyday lives,"
+    publishedDateTime: 2023-03-17T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/new-research-uses-popular-artificial-intelligence-technology-materials-discovery"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 30
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Victor%20Fung%20CRNCH.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "yoursearch.ai Launches World's First AI-Powered Web 3 Internet Search In The US Market"
     excerpt: "Startup Introduces New Way To Search The Web Via Open Source Web App or Messenger With AI-Generated Text Response & Configurable Algorithm, Alongside Other AI Services On yoursearch.ai, users first enter their search query in a web app or messenger."
     publishedDateTime: 2023-03-15T18:00:00Z

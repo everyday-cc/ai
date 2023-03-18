@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "What happens when your AI chatbot stops loving you back?"
+    excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
+    publishedDateTime: 2023-03-18T17:40:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
+        width: 800
+        height: 750
+        isCached: true
   - title: "Artificial intelligence expert weighs in on the rise of chatbots"
     excerpt: "What if a chatbot comes across as a friend? What if a chatbot extended what could be perceived as intimate feelings for another? Could chatbots, if used maliciously, pose a real threat to society? Santu Karmaker,"
     publishedDateTime: 2023-03-17T16:22:00Z

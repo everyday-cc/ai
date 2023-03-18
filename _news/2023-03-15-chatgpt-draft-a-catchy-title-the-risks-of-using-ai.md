@@ -420,19 +420,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
-    excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
-    publishedDateTime: 2023-03-14T00:59:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3313280"
+  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
+    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
+    publishedDateTime: 2023-03-18T15:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 37
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/Friendify_s_ultimate_goal_create_ground_breaking_products_utilize_power_AI_improve.jpg"
-        width: 800
-        height: 450
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
+        width: 1920
+        height: 2400
         isCached: true
   - title: "ChatGPT gets more ‘human’ as AI wave continues"
     excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"

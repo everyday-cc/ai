@@ -64,6 +64,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "New Research Uses Popular Artificial Intelligence Technology for Materials Discovery"
+    excerpt: "With the explosive rise of popular artificial intelligence applications like ChatGPT and DALL-E, consumers are becoming more and more familiar with the world of generative models. While these fun, novel tools are helpful in our everyday lives,"
+    publishedDateTime: 2023-03-17T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/new-research-uses-popular-artificial-intelligence-technology-materials-discovery"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 30
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Victor%20Fung%20CRNCH.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "3vBlL3OtP505m5VAtM/Ao1n4Kqegw6wl5xogA2cJUVNznaKHUeyEAManFzDew4RDJeHfML12B0+jJyYXHc8WYbaDjpZ1qJByXdhyDMABNFZJRIZaeaQ5GnA77byCq7ZDNlWFz9Oh95VGFa5Y0JsZ6lWIfh6b9ichSapaUuPu96y//XLt+QQmmqOYghlolIRepx13ftDnz9pp2tEbmRV5VmJYe2v4hQNKwtI+J3xAD9umU/PnDtSMxX0QwfijMlmgsICQQbFDSG2Z2s6E/BQE9Mx/iC9ry5JJTW/MMEPXRhoJ1Bi1a/A3BrVHAlVlofCrRqH7Lk9qdEd3Sy4g4QeDCKLnBe+xJuGvIi5cdNbrE+Q=;pBQQMje0fT/Xf0NCHLNdIg=="
 ---

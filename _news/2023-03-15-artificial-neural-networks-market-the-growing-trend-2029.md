@@ -244,20 +244,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Emerging Demand and Drive Growth by 2029"
-    excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" study describes how the technology industry"
-    publishedDateTime: 2023-03-14T00:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-emerging-demand-and-drive-growth-by-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Growth Revenue, Trends 2023-2029"
     excerpt: "Global “Data and AI Ethics Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the latest ..."
     publishedDateTime: 2023-03-15T13:02:00Z
@@ -419,20 +405,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Healthcare AI Market Trends, Demand, Growth And Future Scope 2023 To 2029 | Welltok, Inc., Intel Corporation, Nvidia Corporation"
-    excerpt: "The global Healthcare AI Market at a CAGR of 42%, and it is expected to reach USD 169.7 billion by 2029, over the forecast period The healthcare ai market is a rapidly growing segment of the healthcare industry,"
-    publishedDateTime: 2023-03-18T14:46:00Z
-    webUrl: "https://menafn.com/1105807041/Healthcare-AI-Market-Trends-Demand-Growth-And-Future-Scope-2023-To-2029-Welltok-Inc-Intel-Corporation-Nvidia-Corporation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?478964"
-        width: 444
-        height: 250
         isCached: true
 
 secured: "NNvq2mMnMNlB0HMLog+zaFhYPFE4n69rieSUstiMdHbA5tmVuoPPI61MF6XiaIqBWcVawaKtpRcwwE3vuM4milVGJ22g+Bx46K5SBIZustGYhnRzjF3uuZstYgOrZlnWbJvGUzoDfhKqdhAe4YZjG5FQxba7YXJCI4o/55MFvA5R0NM8eRGfQ19+HKHZT6J5sPjG6yTMJ3zdvvbRypG21JEGoW9BIMywKOQ/7o7IDnjASf+IzZ+UhXPAmxURMj9DJfHjL3bkmOSiZWyWYR5Vyrjsf2NSLqPVqQrpBrlIUVlL7au4W8YsZNvFgH5AfyG8U2JSW9nv+Ll6AQ1vMJIcv+qkmJFFiVflEU0x2lb9DKQ=;Na+k19yFsjirqcJmQ8lWOA=="

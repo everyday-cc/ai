@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/technology-64967493.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64967493.amp"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holl
 webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
