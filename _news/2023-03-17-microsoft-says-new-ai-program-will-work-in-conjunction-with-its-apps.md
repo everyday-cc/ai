@@ -394,34 +394,18 @@ related:
   - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
     excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
     publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    webUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: ABC 10 News
+      domain: 10news.com
     quality: 91
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report"
-    excerpt: "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October."
-    publishedDateTime: 2023-03-14T04:46:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://d.ibtimes.com/en/full/4415341/microsoft-logo-seen-day-after-microsoft-corps-msfto-262-billion-purchase-linkedin-corp.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
@@ -494,22 +478,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/MCWRZPfJKetruQ4U2vUA0NJDWho=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24512917/omb_hero_wholenewwaytowork_web.jpeg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Ethics or Profit? Microsoft's Layoffs Reportedly Target AI Team Amid Google Rivalry"
-    excerpt: "The Satya Nadella -led company has slashed its Ethics and Society team within the artificial intelligence organization. The decision is part of recent layoffs that impacts 10,000 employees across the company,"
-    publishedDateTime: 2023-03-14T04:54:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31333533/ethics-or-profit-microsofts-layoffs-reportedly-target-ai-team-amid-google-rivalry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31333533"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31333533"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
     excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
@@ -739,20 +707,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
         width: 708
         height: 402
-        isCached: true
-  - title: "‘Ethics and society’ team responsible for AI moderation laid off by Microsoft"
-    excerpt: "Tech giant Microsoft has laid off an entire team of ‘ethics and society’ responsible for Artificial Intelligence (AI) moderation"
-    publishedDateTime: 2023-03-14T04:18:00Z
-    webUrl: "https://theshillongtimes.com/2023/03/14/ethics-and-society-team-responsible-for-ai-moderation-laid-off-by-microsoft/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 68
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2022/12/microsoft.jpg"
-        width: 400
-        height: 332
         isCached: true
   - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
     excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"

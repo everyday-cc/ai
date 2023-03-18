@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Natural Language Processing NLP Market is Projected to Reach US$ 45 Billion by 2032 | Future Market Insights, Inc."
-    excerpt: "The global Natural Language Processing (NLP) market stands at US$ 14 Billion as of now and is expected to reach US$ 45 Billion at a staggering CAGR of 23% between 2022 and 2032. With growing inclination towards digital technology-based software throughout ..."
-    publishedDateTime: 2023-03-14T03:53:00Z
-    webUrl: "https://www.fmiblog.com/2023/03/14/natural-language-processing-nlp-market-is-projected-to-reach-us-45-billion-by-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
 
 secured: "ATTXha1kFPZwk9Z0GoIaNjdoJnBBqipKO7M5C7GNONrkSTDPYqkVnVD4U88saGmMfvNGv9AyVyUY42JxKnkLOKQHgmRgcyii7haK0WgfyCUN1Zbv40A3HwaTDQmj1jt2V8TXzzWbLqyzmvAkpPvmBnEbb0l5TlzvwdKIxOXsq0KrPli+2iLernqgCBvrOhmHVTv2kh4uV1xlgzKt1J7IKa8q0LDzRkBaYa3fS62muqNsdoO99hcSUWuYLrUGiHjK/KtlvaJldW/Mi7sNXy+Q9fCZ8kKPKhuo41NIhA0tf6UDFSLmzr/Adq7H+1wjHy0ZUkMd/QmukZ/e7pk67H/apUXcquY8eSMJOLt52LcYQtk=;QyIyjL0Q9mXffMiY8Tv+9A=="
 ---

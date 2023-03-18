@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-18T10:30:00Z
 originalUrl: "https://www.forbes.com/sites/arisalexander/2023/03/18/who-got-rich-and-poor-this-week-ai-optimism-boosted-google-founders-nvidia-ceo-while-gitlab-tumble-knocks-ceo-lower/"
 webUrl: "https://www.forbes.com/sites/arisalexander/2023/03/18/who-got-rich-and-poor-this-week-ai-optimism-boosted-google-founders-nvidia-ceo-while-gitlab-tumble-knocks-ceo-lower/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Forbes

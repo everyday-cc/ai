@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T08:51:00Z
 originalUrl: "https://www.theatlantic.com/technology/archive/2023/03/gpt4-arrival-human-artificial-intelligence-blur/673399/"
 webUrl: "https://www.theatlantic.com/technology/archive/2023/03/gpt4-arrival-human-artificial-intelligence-blur/673399/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Atlantic

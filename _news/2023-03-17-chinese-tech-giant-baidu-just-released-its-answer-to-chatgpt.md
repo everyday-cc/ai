@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "ChatGPT and generative AI are booming, but the costs can be extraordinary"
-    excerpt: "The cost to develop and maintain the software can be extraordinarily high. Nvidia makes most of the GPUs for the AI industry, and its primary data center workhorse chip costs $10,000. Analysts ..."
-    publishedDateTime: 2023-03-14T03:19:00Z
-    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
     excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
     publishedDateTime: 2023-03-15T07:41:00Z

@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market 2023 Future Size And Growth of a Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- Computer Vision in Artificial Intelligence (AI) Market Size 2023 | New Report (101 Pages) | Information Technology | In This Reports ..."
-    publishedDateTime: 2023-03-14T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-2023-future-size-and-growth-of-a-market-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI in Computer Vision Market Highlights 2023-2028, With New Report"
     excerpt: "Mar 17, 2023 (The Expresswire) -- Report Highlights with 116 pages:-\"The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast period, reaching USD 14367.51 ..."
     publishedDateTime: 2023-03-17T13:07:00Z
@@ -123,20 +109,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Robots Market Share, Size, Industry Trends, Competitor Analysis and Forecast 2023-2028"
-    excerpt: "The \"Artificial Intelligence (AI) Robots Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-14T02:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-share-size-industry-trends-competitor-analysis-and-forecast-2023-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

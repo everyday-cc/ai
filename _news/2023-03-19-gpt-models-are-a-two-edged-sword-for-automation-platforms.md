@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-18T17:56:00Z
 originalUrl: "https://siliconangle.com/2023/03/18/gpt-models-two-edged-sword-automation-platforms/"
 webUrl: "https://siliconangle.com/2023/03/18/gpt-models-two-edged-sword-automation-platforms/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SiliconANGLE

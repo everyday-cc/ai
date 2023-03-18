@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing NLP Market is Projected to Reach US$ 45 Billion by 2032 | Future Market Insights, Inc."
-    excerpt: "The global Natural Language Processing (NLP) market stands at US$ 14 Billion as of now and is expected to reach US$ 45 Billion at a staggering CAGR of 23% between 2022 and 2032. With growing inclination towards digital technology-based software throughout ..."
-    publishedDateTime: 2023-03-14T03:53:00Z
-    webUrl: "https://www.fmiblog.com/2023/03/14/natural-language-processing-nlp-market-is-projected-to-reach-us-45-billion-by-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
 
 secured: "NWf0rha1nrCMzO12pq6a+XHbgHG6v2/GR7N5Ldtw8tdliZUNHmBiqcuW0ODuTyDTboXBTHIqRSFnkosvvcodmNXEjTlsHG2ZjeO1IEiFRA7TitOOze8cQIvltsAkiseEIbUdac7hXbjXDAdnn7sm+y/azrqfvBGbSoONZI0r/iAQc2F2mS5dLRDLfRHrpFRgLz4VuNw6pM6kvjlL+2KTpkhzq0bDziptCkE1/iqf97KqE4Ksx6ByTFHv8GJvZKVsA3/LSwxdV8MC9yQRbacAGL+wrgkI2FU5X9Zf8o/XkXngFJWb/QwSMWaJhCDKmloPFvNMjazJJN6+mPZpPBrsmDBZs3Ri6ong1Jq10J8qp0j/OmGxWueIWJ0Fq2prdvJExnsJu14QeLq99Hr9nkEuckwIqkOphXHqidcaY79p9z99s7BuYswm4txFobs9VQKoqkDf1X7d0RDuQSRFP7WbCzdKDppIkrdY3c+PmhDyJFuE74QwlJSZkVCcks73pTwz1cPcnJuA5Uyq3S517Uv8SA==;TFM+NQ1AFjRfkoUTa7Ig8A=="
 ---

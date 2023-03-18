@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Artificial intelligence used to generate voice cloning"
-    excerpt: "New artificial intelligence technology is being used to generate imitations or clones of people’s real voices. NBC’s Gadi Schwartz tests this advanced technology and explains the implications that are sparking debate over its potential fraudulent usage."
-    publishedDateTime: 2023-03-14T02:37:00Z
-    webUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-used-to-generate-voice-cloning-165153349812"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165153349812"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165153349812"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678761361048_now_staytuned_gsc_ai_voice_230313_1920x1080-blmx8n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The next generation of AI for developers and Google Workspace"
     excerpt: "Introducing new generative AI capabilities in Google Cloud and Google Workspace, plus PaLM API and MakerSuite for developers."
     publishedDateTime: 2023-03-14T13:00:00Z

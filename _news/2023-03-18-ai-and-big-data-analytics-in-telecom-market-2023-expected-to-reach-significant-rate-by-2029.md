@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
-    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
-    publishedDateTime: 2023-03-14T03:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing in Healthcare Market (Size and Share) 2023-2029 with Manufacturing Process Analysis | Survey by Absolute Reports"
     excerpt: "Mar 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
     publishedDateTime: 2023-03-17T10:03:00Z
@@ -66,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud-based Medical Imaging Informatics Market | 84 Pages by 360 Market Updates"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- Cloud-based Medical Imaging Informatics Marketinformation for each competitor includes (Agfa-Gevaert N.V., Aidoc Medical Ltd., Arterys Inc ..."
-    publishedDateTime: 2023-03-14T04:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-based-medical-imaging-informatics-market-84-pages-by-360-market-updates-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -108,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Thermometer Market : Share, Top Players Analysis, Size, Demand, Growth Strategy, Trends, Supply, Revenue and 2028"
-    excerpt: "The \"Face Recognition Thermometer Market\" Study Describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-14T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-share-top-players-analysis-size-demand-growth-strategy-trends-supply-revenue-and-2028-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -163,6 +121,15 @@ related:
     excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
     publishedDateTime: 2023-03-16T19:36:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312466&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
+    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
+    publishedDateTime: 2023-03-18T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312743&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123

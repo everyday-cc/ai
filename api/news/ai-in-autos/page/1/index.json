@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
+      "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
+      "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "publishedDateTime": "2023-03-18T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-baidu-wins-china-capital-citys-first-ever-permit-to-provide-fully-driverless-ride-hailing-service.md",
       "title": "Baidu Wins China Capital City's First-Ever Permit to Provide Fully Driverless Ride-hailing Service",
       "excerpt": "Baidu marks a major global milestone in receiving the permit, becoming the first provider of fully driverless robotaxi services in the capital city of any country worldwide, with no human driver or sa",
@@ -1331,49 +1375,6 @@
       "provider": {
         "name": "in.mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-google-self-driving-unit-waymo-cuts-jobs-as-parent-shifts-gears-to-focus-on-ai.md",
-      "title": "Google Self-Driving Unit Waymo Cuts Jobs As Parent Shifts Gears To Focus On AI",
-      "excerpt": "Google parent Alphabet Inc’s GOOGL GOOG self-driving startup Waymo slashed dozens of jobs as its parent cuts spending and sharpens its focus on artificial intelligence. What Happened ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/03/31151648/googles-self-driving-unit-waymo-cuts-jobs-as-parent-shifts-gears-to-focus-on-ai",
-      "originalUrl": "https://www.benzinga.com/news/23/03/31151648/googles-self-driving-unit-waymo-cuts-jobs-as-parent-shifts-gears-to-focus-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/03/01/shutterstock_1671396067.jpg?width=1200&height=800&fit=crop",
-          "width": 845,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31151648",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31151648",
-      "publishedDateTime": "2023-03-02T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

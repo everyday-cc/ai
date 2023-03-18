@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-18T19:26:00Z
 originalUrl: "https://www.thehindubusinessline.com/business-tech/how-machine-learning-can-forewarn-about-disasters/article66636702.ece"
 webUrl: "https://www.thehindubusinessline.com/business-tech/how-machine-learning-can-forewarn-about-disasters/article66636702.ece"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Line
