@@ -78,6 +78,20 @@ related:
         width: 404
         height: 404
         isCached: true
+  - title: "Using Generative AI and Natural Language Question Answering for Corporate Insights - Mindbreeze"
+    excerpt: "Mindbreeze’s mission is made possible by using the most advanced machine learning methods that enable entity recognition, classification, semantic relations and processing, proactive insights, knowledge extraction, and natural language processing (NLP)."
+    publishedDateTime: 2023-03-14T18:01:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=157575"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 27
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/151963-MindbreezeVFT.jpg-ORG.jpg"
+        width: 640
+        height: 336
+        isCached: true
   - title: "Google Workspace is about to put generative AI to work"
     excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
     publishedDateTime: 2023-03-14T13:48:00Z

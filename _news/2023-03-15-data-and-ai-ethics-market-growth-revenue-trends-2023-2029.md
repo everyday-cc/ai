@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Market Trend 2023-2028, With New Survey"
+    excerpt: "Report Highlights with 104 pages: -\"The global Artificial Intelligence market size was valued at USD 59732.12 million"
+    publishedDateTime: 2023-03-17T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-trend-2023-2028-with-new-survey-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In RegTech Market: Recent Growing Trends 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- Recent Updated Report 2023-2029 of Artificial Intelligence In RegTech Market | TOP KEY PLAYERS in Artificial Intelligence In RegTech Market ..."
     publishedDateTime: 2023-03-17T20:13:00Z
@@ -210,20 +224,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry"
-    excerpt: "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,"
-    publishedDateTime: 2023-03-13T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

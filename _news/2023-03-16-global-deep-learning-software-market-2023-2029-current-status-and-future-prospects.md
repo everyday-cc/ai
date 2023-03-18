@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market [2023-2026] | Transform Business with Our Proven Visionary Data"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-13T12:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2023-2026-transform-business-with-our-proven-visionary-data-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Make Informed Decisions with Our Detailed Mobile Speech Recognition Software Market Analysis and Forecast [2023-2026]"
-    excerpt: "Pages Report] Global “ Mobile Speech Recognition Software Market ” [2023-2026] latest research report provides size, share, growth, developments, new technology, trends, and forecasts for 2026. Also,"
-    publishedDateTime: 2023-03-13T11:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/make-informed-decisions-with-our-detailed-mobile-speech-recognition-software-market-analysis-and-forecast-2023-2026-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
     excerpt: "Mar 14, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
     publishedDateTime: 2023-03-14T20:45:00Z

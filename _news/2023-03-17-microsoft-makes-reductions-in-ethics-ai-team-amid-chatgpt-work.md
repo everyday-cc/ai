@@ -3,18 +3,16 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI Ethics
@@ -22,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -994,6 +992,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "Uuk+oP0n4jYhNILXfivZwxOs3yHiU1GSABbuuqqreA+mFL14IxEzcSPDybFKNhaeHNuMmZ9IVUdUfddENMIf18VCMPj3Iil5UD4GjNOt1bXMpJExwQqQt/jy9IuiwK6Eps+xU2g6Zxjnf5NsxLIZB9QWwuszW/c3F88tWeJ4yP7VeT3ZSw3+CKZm9LZdJ4BAe+3u5UXh4IQ5EdU23NSVzieOSlWABHrTLG14ekcPBUVkgAXM7CwuJMjuhjqn4ztK8HpJx2Mjzsj+Q3L/Bra8M6ozRA56fFEgOlsboyc7y15tLNnVddV/7XxW7wLZpjg/a+PeY86yFRO0tfV76UixK943XmhpS7ffCg1lkAS/rPGZXUzJE1tAz2THN72nnQrWTqg7CoGbo5UUY7aeHeoGYO7/CfvwRPF6lnrTJd/FBiLgYMePP/gPValnuBXJ0pPhNTaXx3Wc32GaLFSL9zttW5b5NHYRX8PdjlZyT3VWnH+e4y5ubPh11DBYQIoepfDZvum9DP5KgtU6cDWLTqjTfg==;Ii4OtplH8laakRghoco+Ww=="
+secured: "DJaST7UUKIMeupJ7vXna9XMXu1r4XtM0STXYm25QbfS4zajwuJOF+8pyFHEex7KgBthuSZ2WNyN3C98UqGhLog1nQ3NB6JsZAcTpbyfGfMJv/nHhAcofN/e6h1p1ScK3lHp8VklKMIWMxuyoJNWCMKtSLLQcpULeA7ce/fBHGmfZTUecFoxo57z9+fhwSHpf0c37BBCFHhfJ57lp+dQ0XJ4uyx2ADugi5cM71F8MH5BZJHLKsHp7XFVH3kbfmlgRcjJtkjfr8QVkARO0N/iq77sO/YZAPLl6nZUk8aJ0Z9kEZXzXQ4VDaPRznAH+2ZVe73jW9IGEMlazQyvNbVKDtyNL4dwsPr1PqzfHcXiSXz4=;kVNm7UybQYCLya1T145Xjw=="
 ---
 

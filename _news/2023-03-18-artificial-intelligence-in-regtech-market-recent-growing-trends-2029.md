@@ -192,10 +192,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Software Market: Recent Growing Trends 2029"
-    excerpt: "Mar 17, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition Software Market in ICT Industry. The Global Face Recognition Software market is valued at Multimillion USD ..."
-    publishedDateTime: 2023-03-17T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-recent-growing-trends-2029-2023-03-17"
+  - title: "Global Artificial Intelligence Market Trend 2023-2028, With New Survey"
+    excerpt: "Report Highlights with 104 pages: -\"The global Artificial Intelligence market size was valued at USD 59732.12 million"
+    publishedDateTime: 2023-03-17T04:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-trend-2023-2028-with-new-survey-2023-03-17"
     type: article
     provider:
       name: MarketWatch
@@ -206,15 +206,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry"
-    excerpt: "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,"
-    publishedDateTime: 2023-03-13T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13"
+  - title: "Face Recognition Software Market: Recent Growing Trends 2029"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition Software Market in ICT Industry. The Global Face Recognition Software market is valued at Multimillion USD ..."
+    publishedDateTime: 2023-03-17T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-recent-growing-trends-2029-2023-03-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

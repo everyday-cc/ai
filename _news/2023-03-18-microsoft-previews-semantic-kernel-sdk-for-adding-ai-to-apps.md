@@ -357,22 +357,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    type: article
-    provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 91
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -706,6 +690,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
     publishedDateTime: 2023-03-13T19:58:00Z
@@ -993,6 +991,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "65NK/1pQx3R8PEtqEdrRfMszFym0TKxDhQRqYP0wkrlaGtklPj6kX1jiV7nPcLc37WCkYLfIiEtoLFgMdyFwc6aYzz8J4Ur3bw2VMH8CD3ILWGFsAFGS9YwA9vctloelvczmocsyIa0H3YLaVeffWLWamlfhntr2Gwdu6vzB4p+h29BQWHQqI6/uiEos897lPmf8tcte46WWrLuXUD+FRGcNTxUSItEm8eQil5IhILsVAPh2mMJxsQuLYSpNImSenMTHdRvvmCG1kCPnRn4K+8mS5N9TiBrOvrCqcHmY528xFOH22j8+SsqMHX36DNtYHfDrJpfiB0UZCpCptl8AoAS2nx0gkkwKsQE+ulCwK/Y=;OJnL+Q8tcSGeohEXaYssOQ=="
+secured: "6OT5s4PJffBFMpkMnwnz32P6+Bke49dwKkuvo+Sjj4V3bGPkDOTwDSj4lTSkVXfIRhYTbr4HUm2JoPqB669bwUKnmCE4cxVnwC/u14wKWKFh+JNSedhoxublrZdrqeN6mLlUiLO20JECpSjTe31tPTZPSJi4agxT3AF9AQopqIfR3GWjp0HrSrRFDiMBy1X7jAQ8tYhGShD7gFOgEruL2sffkZuoPTJlGIavNk4DtHhKJ9YJDmwqY2GZt9Eep0ny49r7QsNt+toSJfM/kZ5BduuGmoOdHoj4idtpOk/7lY60wbcXNhkvJwb/+SUXOJtH1KvwHK6zzOdF6GMfA5ggLzGx7sdYV9tMChthb2H7gLNbf75cfd1nVL+iZVFhgTc6kH4XgkkIpQVCbVyoRKDIWXgjb2olCA5aTiTpG7CaYlRa/EkXwBSAXT50sZ7pqEGAXb0FYWIPLOH1BmtyDvaz/Bkk6QZ6IuXUVeaZA5b8ZeJhVue9ZvcaXYOzwCNkbHBX0KyQXnd2wDuJOMrPvZIQxA==;vYT+3wbBRuojmVRA9S+M8w=="
 ---
 

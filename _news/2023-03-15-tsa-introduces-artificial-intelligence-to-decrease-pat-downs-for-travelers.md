@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.star-telegram.com/detour/article273074480.html"
 cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/detour/article273074480.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "ETRI introduces AI tutor who teaches foreign language reading"
+    excerpt: "ETRI has already developed AI-based conversational foreign language education technology and provided ... pronunciation evaluation technology, machine translation technology, and dialog processing technology for reading education developed by ETRI ..."
+    publishedDateTime: 2023-03-17T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/982519"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/338998e7-6d7a-4dd1-ac5d-d0f876dfe440/Rendition/low-res/Content/Public"
+        width: 700
+        height: 466
+        isCached: true
   - title: "TSA introduces artificial intelligence to decrease pat downs for travelers"
     excerpt: "To make things simpler for trans and nonbinary passengers, artificial intelligence algorithms have been implemented into body scanners."
     publishedDateTime: 2023-03-13T13:30:00Z

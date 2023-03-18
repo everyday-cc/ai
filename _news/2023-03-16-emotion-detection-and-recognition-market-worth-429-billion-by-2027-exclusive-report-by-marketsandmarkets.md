@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Education Market [2023-2029] | Booming Industry | Latest Report with Top Countries Data"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- [123 Pages] Top \"Artificial Intelligence (AI) in Education Market\" Research Report offers valuable insights on Latest Industry Trends, Rising Investments, Top Key Players (ALEKS, Microsoft, AWS, Knewton, Cognii ..."
+    publishedDateTime: 2023-03-18T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2023-2029-booming-industry-latest-report-with-top-countries-data-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market to 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- [121 Insights] Top “Face Recognition Technology Market” Size 2023 Key players Profiled in the Report are [, Crossmatch, NEC, Daon ..."
     publishedDateTime: 2023-03-16T05:51:00Z

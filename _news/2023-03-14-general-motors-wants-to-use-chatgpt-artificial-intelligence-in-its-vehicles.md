@@ -191,15 +191,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
-    excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
-    publishedDateTime: 2023-03-13T12:27:00Z
-    webUrl: "https://www.techspot.com/news/97898-learn-how-take-full-advantage-chatgpt-code-own.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
   - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
     excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
     publishedDateTime: 2023-03-14T00:59:00Z

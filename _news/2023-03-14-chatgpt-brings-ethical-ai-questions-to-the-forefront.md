@@ -177,15 +177,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
-    excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
-    publishedDateTime: 2023-03-13T12:27:00Z
-    webUrl: "https://www.techspot.com/news/97898-learn-how-take-full-advantage-chatgpt-code-own.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
   - title: "General Motors Wants To Use ChatGPT Artificial Intelligence In Its Vehicles"
     excerpt: "Is this the next big thing in vehicle technology? General Motors is exploring the feasibility of introducing ChatGPT, an artificial intelligence chatbot, into its vehicles, reports Semafor."
     publishedDateTime: 2023-03-13T21:53:00Z
