@@ -38,15 +38,6 @@ related:
         width: 1563
         height: 781
         isCached: true
-  - title: "Few-click segmentation mask labeling in Amazon SageMaker Ground Truth Plus"
-    excerpt: "Amazon SageMaker Ground Truth Plus is a managed data labeling service that makes it easy to label data for machine learning (ML) applications. One common use case is semantic segmentation, which is a computer vision ML technique that involves assigning class labels to individual pixels in an image. For"
-    publishedDateTime: 2023-03-13T18:36:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/few-click-segmentation-mask-labeling-in-amazon-sagemaker-ground-truth-plus/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 67
 
 secured: "6b1QTsivk/COHViF2m5L22LyMsixC7JXKDR/19NfZHYdVCEkdWqm/o8v9ZlVafSntBndyoJ7CxxITaTscRmzNqWsgxEstujxgeJxgdKE07G5H7c/nsEc1WA+6eRD8D7SVr2XBzQajAbrX3d4SbqXpDQH/kULsPIcC9JvqOgp6/adJz0xDVMcUm3XU8VHDg6EVCVy3DbcQDp/53/Mb1JRy1p/XS6k/peW6EjwIUeLdxIVTAcsOUr4D3KFNXNMwpjFMi6GoW2oCzAMIkvRatnIFgeA1MwCE0aYm7D+Eq+H0NG0b/QpOvFVAZBAj1PyVFhS9XDpyBOHKkiJdD13T7pvRKJAFp+7Ut3Xav8xr2doi3M=;r7WDxG1YM7CfGTECU2IBCA=="
 ---

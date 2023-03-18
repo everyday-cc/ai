@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 750
     isCached: true
-
-related:
-  - title: "Fed SVB takeover saves AI startups, while Big Tech prepares new AI power plays | The AI Beat"
-    excerpt: "AI startups that deposited in SVB are relieved by the Fed takeover. But is upcoming Big Tech news a sign of more AI power consolidation?"
-    publishedDateTime: 2023-03-13T19:03:00Z
-    webUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 36
 
 secured: "GET0h18nX0J3kON3BiX5ZoUdYf8rYQaM5+t7KJI1P05JkddKHu4ClrZg7pONYf9aZeo9p6c+rx1mhgSPt3egxdyh4bfTs8CP5vDtzx7wYPPl/y99ccsWXM5gVLixoFumo81VKay6J/qM/OiiVcrJALFuqq7UtFOuWu3xaGjzrYsdY/mq3pRQO31Z1iY6J3QPhY45dPMY9gcLj5YBounik3CMBhq81F9y0jWnHo2Gat4ZlDcP12pUBG6CJ2JOe9B3I5A1a4mR4qvwFv0STUnpfsapJU+AOureuELhxgKT9i7GiAs6/3G7CmrYT7Dtxrovz7CU64i+kdK7OvTC+RDPjhnvMilqLclXdwt1V/jlJko=;cCVpTJRHOUpMw3l1Ya0CWw=="
 ---

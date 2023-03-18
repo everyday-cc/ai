@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Medicine Software Market Share and Forecast till 2029"
     excerpt: "IBM Watson Group, Flatiron Health, Inc., Syapse, Inc.] have been looking into AI Medicine Software as a way to increase their market share and reach towards consumers. What is the AI Medicine Software market growth? AI Medicine Software Market Size is ..."
     publishedDateTime: 2023-03-15T20:05:00Z

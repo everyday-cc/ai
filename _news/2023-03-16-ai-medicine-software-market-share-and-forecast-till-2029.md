@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]"
     excerpt: "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ..."
     publishedDateTime: 2023-03-15T22:00:00Z

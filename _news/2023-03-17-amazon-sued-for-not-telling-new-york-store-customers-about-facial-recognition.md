@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -102,6 +102,22 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/18/f7e479e9-336d-4132-a70b-2d31bebc1dfa/thumbnail/1200x630/4e1d6d34ff4ea38d16f478f0c7ecf70e/keleshian-new-11p-pkg-f-wcbs6ejz-hi-res-still.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Amazon sued for using facial recognition on New Yorkers without permission"
+    excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
+    publishedDateTime: 2023-03-17T16:26:00Z
+    webUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission"
+    ampWebUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 57
+    images:
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/03/932/470/Amazon-Go.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Slog AM: Amazon Faces Facial Recognition Suit, More Train Wrecks, Trump's Back on YouTube"
     excerpt: "New Yorkers sue Amazon: Our least favorite local bookseller faces a lawsuit from New Yorkers because it didn't disclose facial recognition technology in a NYC Amazon Go store. \"New York is the only major city which requires businesses to post signs if they ..."

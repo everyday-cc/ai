@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/from-2023-to-2028-report
 webUrl: "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15"
 type: article
 quality: 84
-heat: 544
+heat: 534
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market : Geographical Analysis till 2028"
-    excerpt: "Short Description About Artificial Intelligence in Manufacturing and Supply Chain Market: Artificial Intelligence in Manufacturing and Supply Chain Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence in Manufacturing and Supply Chain market,"
-    publishedDateTime: 2023-03-13T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

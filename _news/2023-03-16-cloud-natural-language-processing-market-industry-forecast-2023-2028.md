@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market : Geographical Analysis till 2028"
-    excerpt: "Short Description About Artificial Intelligence in Manufacturing and Supply Chain Market: Artificial Intelligence in Manufacturing and Supply Chain Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence in Manufacturing and Supply Chain market,"
-    publishedDateTime: 2023-03-13T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Coverage Exposures | 2029"
     excerpt: "Artificial Intelligence in Drug Discovery Marketinformation for each competitor includes (Atomwise Inc., Accutar Biotechnology Inc., Ardigen S.A., BenevolentAI Limited, Berg LLC, Berkeley Lights Inc.,"
     publishedDateTime: 2023-03-14T04:53:00Z

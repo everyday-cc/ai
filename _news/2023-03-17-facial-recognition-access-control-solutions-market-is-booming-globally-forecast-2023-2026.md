@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market : Geographical Analysis till 2028"
-    excerpt: "Short Description About Artificial Intelligence in Manufacturing and Supply Chain Market: Artificial Intelligence in Manufacturing and Supply Chain Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence in Manufacturing and Supply Chain market,"
-    publishedDateTime: 2023-03-13T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market | Industry Forecast 2023 - 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “Cloud Natural Language Processing Market” information for each competitor includes [ Netbase Solution, Digital Reasoning Systems Inc ..."
     publishedDateTime: 2023-03-16T00:07:00Z

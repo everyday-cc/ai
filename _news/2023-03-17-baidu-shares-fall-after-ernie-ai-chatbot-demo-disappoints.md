@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-searc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "What Happens When Your AI Chatbot Stops Loving You Back"
+    excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
+    publishedDateTime: 2023-03-18T11:36:00Z
+    webUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186"
+    ampWebUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
+        width: 1200
+        height: 1125
         isCached: true
   - title: "Chinese search giant launches AI chatbot with prerecorded demo"
     excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."

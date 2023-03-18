@@ -374,6 +374,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
+    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
+    publishedDateTime: 2023-03-18T11:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
   - title: "GPT-4 unveiled: OpenAI’s latest language model takes creative leap"
     excerpt: "OpenAI made their latest language model, GPT-4, available to Plus subscribers on Wednesday. Here's what it could be used for."
     publishedDateTime: 2023-03-15T12:31:00Z

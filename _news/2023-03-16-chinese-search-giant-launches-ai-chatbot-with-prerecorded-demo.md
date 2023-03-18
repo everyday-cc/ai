@@ -103,6 +103,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "What Happens When Your AI Chatbot Stops Loving You Back"
+    excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
+    publishedDateTime: 2023-03-18T11:36:00Z
+    webUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186"
+    ampWebUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
+        width: 1200
+        height: 1125
+        isCached: true
   - title: "Baidu Plunges After Recorded Demo of AI Chatbot Disappoints"
     excerpt: "Baidu Inc. debuted its ChatGPT-equivalent but skipped a live demo of its highly anticipated AI bot Thursday, disappointing viewers who had hoped for a stronger demonstration China’s highest-profile entry in a battle with the US to dominate a potentially transformative technology."
     publishedDateTime: 2023-03-16T03:30:00Z

@@ -103,6 +103,22 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Amazon sued for using facial recognition on New Yorkers without permission"
+    excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
+    publishedDateTime: 2023-03-17T16:26:00Z
+    webUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission"
+    ampWebUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 57
+    images:
+      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/03/932/470/Amazon-Go.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Slog AM: Amazon Faces Facial Recognition Suit, More Train Wrecks, Trump's Back on YouTube"
     excerpt: "New Yorkers sue Amazon: Our least favorite local bookseller faces a lawsuit from New Yorkers because it didn't disclose facial recognition technology in a NYC Amazon Go store. \"New York is the only major city which requires businesses to post signs if they ..."
     publishedDateTime: 2023-03-17T15:33:00Z
@@ -143,6 +159,6 @@ related:
       domain: fox5ny.com
     quality: 39
 
-secured: "D6vdSHSKx52YwsQScQcGRvzFt8JRFEQDe0LgNyUsbtleu5Lx6x+IIfOMPXIdtB60/X71kXy1UquAFjvhMrDI0AibTbitG5IrdtJi5RRksu3fDV/xRZ9x1y7Ni/BM0xA727Z19uYPI1p7vnYVwROt9/U+3jte3a6+x6z7H56jv4qUgAEcgroh9EcAwl+6oNJXDKKX3nLtJhS4b1pZFexddQnfDXq3CnTYctvSAzFe7+ktfEbFTGDSm+F5/RYX8Av2WEXCwe6aa3mYzwAgIPv8HdlwQBRO5/pfnl4BegRbKmgKiie7ePmEAx+L1SoDqyxG2whcxTAKWdow3OlLdmwL27l9SCRNXi1KXyo5kzxWxLw=;zkukxyRJ2NWBWjqvh3rnDw=="
+secured: "dxUTEjmghahYLNFC/KEacD3BnaEfH5lwODr9tlHiYDRDOhdGqt+wXsukNlJnmSUj4s1Q6zEE4EIKMCY08G8Xy1Uqv0U62wW2rg08hIcNU7tVarH3IucijHCtRuUVAr3sfa4dquxc9a4zyHshwpc6W8bhXRGmpz+d5wOkL+zXK195KLeDjsUBZTJc0VHf34m4hERDTF3RKt8JUp49lfUHHtVR6KqbSFPFbSd5OKkIy7U5VuPsuJpiRlXMesOlYhl8Y3uH3pxE9IPlIpiSb3TPCfdaThPwLn0wtyKzt0DDMC0Upc6opgmtCH/OLevWHjfJpvDGM4+yxL2MdekqUcjAZMZ+MUpSocYqNfHiP+wFc+iUFpOdz60LeyB0oigY9yBSdjm+dHtrXeLLVqn0x4cbK/cNetSnPQgInvSL2nm1fd+ciR0gFQptsmuia5jvDp1R+GNnCRnumWOQnr60A9KKfHw6pg554jsfyDNdCLMnomNCT1Htx0HAbeh9MPAqF/uXAX32jrgQiOrF9gWWh4BszA==;5+IKQg/n/6lz4VjIaSViuA=="
 ---
 

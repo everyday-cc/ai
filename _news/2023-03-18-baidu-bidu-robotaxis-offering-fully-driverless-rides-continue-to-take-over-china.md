@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
+    excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
+    publishedDateTime: 2023-03-18T10:50:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/18/1600x900/baidu_1679136240916_1679136241185_1679136241185.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Baidu Wins Permit to Offer Driverless Robotaxi Service in Beijing City"
     excerpt: "Baidu will now operate driverless robotaxi services in three Chinese cities including Wuhan and Chongqing. The Beijing-headquartered company, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies ..."
     publishedDateTime: 2023-03-17T07:03:00Z
@@ -83,6 +99,20 @@ related:
   - title: "Baidu get approval to launch driverless taxi service in Beijing"
     excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
     publishedDateTime: 2023-03-17T13:20:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 54
+    images:
+      - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Baidu gets approval to launch driverless taxi service in Beijing"
+    excerpt: "Chinese tech giant Baidu has won a permit to operate a fully driverless ride-hailing service in Beijing. The firm plans to deploy 10 fully autonomous vehicles in a technology park developed by the government,"
+    publishedDateTime: 2023-03-18T10:30:00Z
     webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
     type: article
     provider:

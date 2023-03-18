@@ -35,15 +35,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Albany health care leaders see promise in AI"
-    excerpt: "Dr. Steven Hanks, president and CEO of St. Peter's Health Partners, on the potential of AI assisting in health care: \"Things like that are real now. They're real in radiology. And we're just seeing more and more growth of these sorts of opportunities."
-    publishedDateTime: 2023-03-13T18:51:00Z
-    webUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-capital-region-executives.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "oTwR6+LBYID/HmV0K3q5DrJcQaiaQTPpWxOF4IGeA06pQvBjTLUNgcw6VijCjIK5cocY97FoNdf6HLZDs5tuvZag+Q26DzcfYBzjPHihIdIVhnOuEstIThhZGe0/LghKNUXlRR+oGMtKRePlQonNcj1zg07hQ449khEbwvYqAHZB7+SFdDrvXV8vEpESoU1ffHHg0Ftjhqu98MggzdkadclGW7L/Cl8/49kPUd/Ramuwg4r2Zf5NlqjRLlJpCkXKPQPYdWQl1PebCqszu8cD96aG4oWbIFpPQ+PcppyG2vPMjGYXB9dd0lqeVLxX7dzAJIGTH2yDBIWApmURulty1ztwYptBf8JbrWPVYfRZr6E=;5Zaxb+ud58/3JdD40rcQUQ=="
 ---

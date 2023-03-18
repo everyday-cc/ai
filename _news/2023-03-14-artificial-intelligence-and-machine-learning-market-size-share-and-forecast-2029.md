@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13"
 type: article
 quality: 81
-heat: 291
+heat: 281
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

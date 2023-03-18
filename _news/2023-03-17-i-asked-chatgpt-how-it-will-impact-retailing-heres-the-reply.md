@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 290
+heat: 300
 published: true
 
 provider:
@@ -253,6 +253,20 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
         width: 678
         height: 452
+        isCached: true
+  - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
+    excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
+    publishedDateTime: 2023-03-18T11:02:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/18/gpt4-review/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DP7KNYOTBRCFNPTLXMFQVRKG4M.png&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "ChatGPT has some thoughts about Aspen"
     excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
