@@ -3,16 +3,18 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI Ethics
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -373,22 +375,6 @@ related:
       - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
         width: 640
         height: 480
-        isCached: true
-  - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
-    excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 89
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/13155526/ChatGPT.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Microsoft Edge Copilot brings AI content creation to your browser"
     excerpt: "That’s where you’ll find value in Bing, Edge Copilot, and other AI services. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
@@ -992,6 +978,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "DJaST7UUKIMeupJ7vXna9XMXu1r4XtM0STXYm25QbfS4zajwuJOF+8pyFHEex7KgBthuSZ2WNyN3C98UqGhLog1nQ3NB6JsZAcTpbyfGfMJv/nHhAcofN/e6h1p1ScK3lHp8VklKMIWMxuyoJNWCMKtSLLQcpULeA7ce/fBHGmfZTUecFoxo57z9+fhwSHpf0c37BBCFHhfJ57lp+dQ0XJ4uyx2ADugi5cM71F8MH5BZJHLKsHp7XFVH3kbfmlgRcjJtkjfr8QVkARO0N/iq77sO/YZAPLl6nZUk8aJ0Z9kEZXzXQ4VDaPRznAH+2ZVe73jW9IGEMlazQyvNbVKDtyNL4dwsPr1PqzfHcXiSXz4=;kVNm7UybQYCLya1T145Xjw=="
+secured: "QOuNJzabUFC2SgL2bsPq6QBdrkDKgB6jJ2QUK9188+FXnsbwcZiWY2nIsTu1JapIJOJCAnaL3JTwm+xiHuPA9zn0K345gOJV6QnJk1Ua5+/umAZR+Ygli6+0laliBXyQavbCf1bwKsq0q4sCTmNdFeuG0R+3Y411c2RH9Fyv9KXC8JOtLhPyYpCqwzx8HqxSzYyD0jNVz9h730/8LIVIkqCyp0qQTRuMuZFgExS2twLy7WphjnZvDwW0IWZAz/u5gj+wAS9Ui7f4bmBR0RrpAQOSxzH9+rhDaNIwpS4/fjANeBRLCxV3vfMxD1l4Lqj12TYFakKJ9QXPVlTyFm9kgjxebOOE2ep4zbp12SOLVDY=;fvQ2ipqoCpgfDr0YKNC83w=="
 ---
 

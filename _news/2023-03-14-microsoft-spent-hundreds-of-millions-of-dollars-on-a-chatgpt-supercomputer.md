@@ -361,6 +361,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    type: article
+    provider:
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -376,22 +392,6 @@ related:
       - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
         width: 640
         height: 480
-        isCached: true
-  - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
-    excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 89
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/13155526/ChatGPT.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Microsoft Edge Copilot brings AI content creation to your browser"
     excerpt: "That’s where you’ll find value in Bing, Edge Copilot, and other AI services. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
@@ -693,20 +693,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/REDSchwartz0613BlogBalance.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 71
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."

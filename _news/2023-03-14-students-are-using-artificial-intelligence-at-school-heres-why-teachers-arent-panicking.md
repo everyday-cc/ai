@@ -7,7 +7,7 @@ originalUrl: "https://www.cincinnati.com/story/news/education/2023/03/13/student
 webUrl: "https://www.cincinnati.com/story/news/education/2023/03/13/students-use-chatgpt-and-ai-but-teachers-arent-worried/69925517007/"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
-    excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
-    publishedDateTime: 2023-03-13T15:00:00Z
-    webUrl: "https://www.keranews.org/arts-culture/2023-03-13/a-fort-worth-artist-uses-painting-robots-here-are-his-thoughts-on-the-future-of-ai-art"
-    type: article
-    provider:
-      name: KERA News
-      domain: keranews.org
-    quality: 48
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vEklsvtrhUEpGBQ9auNXhOyVNYEQeOICEcTeE9Jw90MUrttTukAguK+us3dlIrOml0lVp0sGEE0LyMn9WSmBtd8MIFMuz3e0mF31aZwfctyM1MqMHFVgehtHAvabuKB89/sbD+Ra33NmUlK4FURGVH3A6G2vYo1knu8sqzeRCjRokgvZ/CROyIyU7dB18baokrqDEAVOOaLwjNQiRvnRGBLGT6baqAEcWFC7W/RAJZIx9NnYyDYfBv+4odYe9AIQG+afQbbRcXKUTN5sq0HskpGXJWWqr+z/TQr+qJKwC36nbDs9mEICb5H/fograBWpb5wzbhm/wQ33ZregHoeNiiZ31u/5cTKx5oc7bwOEZAJXnAXK22V1LGb9+hAunjkVYMGtIvBO3OswX7i4mCZa8/Tn3IVewSXb5MBeEh6xIvpd25U8sbeCXskSOnvHpBjwxWGgwc0dbf1NePouzhEoZ3B7NztRYrmp6P6DAWPaWQCzNIj25yTXhcvvkL4WQkwXGyYYbIgwqV6J95pwc0duQA==;Oq19yOT93GImdL835aAYtw=="
 ---

@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
+    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
+    publishedDateTime: 2023-03-14T19:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
     excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
     publishedDateTime: 2023-03-14T13:00:00Z
@@ -63,20 +72,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-    publishedDateTime: 2023-03-14T18:37:00Z
-    webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "AI startup Adept raises $350M in fresh funding"
     excerpt: "Artificial intelligence (AI) startup Adept raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, the startup said earlier this week. The company plans to use the new funds to launch its initial products, train models ..."
     publishedDateTime: 2023-03-17T05:04:00Z

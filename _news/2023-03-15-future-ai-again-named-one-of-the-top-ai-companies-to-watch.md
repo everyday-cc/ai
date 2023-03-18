@@ -124,20 +124,6 @@ related:
         width: 320
         height: 224
         isCached: true
-  - title: "In the battle for the future of work, AI is not above the law"
-    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
-    publishedDateTime: 2023-03-13T15:02:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gods In The Machine? The Rise Of Artificial Intelligence May Result In New Religions"
     excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devot"
     publishedDateTime: 2023-03-16T17:49:00Z

@@ -75,15 +75,6 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
-  - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
-    excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
-    publishedDateTime: 2023-03-13T13:30:00Z
-    webUrl: "https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
   - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
     excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
     publishedDateTime: 2023-03-16T14:45:00Z

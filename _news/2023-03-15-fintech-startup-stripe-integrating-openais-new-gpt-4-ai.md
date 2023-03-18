@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
-excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to integrate ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT. The Stripe move represents one of the first known integrations ..."
-publishedDateTime: 2023-03-15T15:05:00Z
-originalUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
-webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
+excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
+publishedDateTime: 2023-03-15T15:09:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
@@ -431,6 +425,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "0yiqN1FjFTu7qERxMngUVIfSGnHbCzAhy5wA2rL3hlPkrUe3wX/MGbKdQW9p5FPBUj0s/H2hBdSOEh+U3Dd7KFb7JVjkRzE3WpPKYdjqyKpP38XgqdQjlOqakCT0A3UIq6oz/7oDOjWgjr/Cy5i5U1KWwTxl3zfgeD06krl/6LGnuDTF+kUn9SUdWBL5Lekby+O+Rt55GPg7RQhOFGI/ze13T37f/ZzKkyyUpDRAURbsbpjk80xreafiYkqtCsZhw0IEupe0IIP19WXmTc1FpvpczzE7dcbJaj54CXMLc22SAlpuLVduhHPcb/wfULo/Aa4cG8VO7Bu7W+8WLCOISD1VUXiTt88ojU15gL6aJS0=;wSWJkQU5h2zWQlv2FIja6g=="
+secured: "1DFTtMHXgo565pSgtwdpT2vdmp8h5yfdR3SyndinRcWR9n0r8z7Ean4z/IJ+F836zImKAKrQ9RUkX9gIoCjPM/SdPslBtbKQJtUM0V+f3oM1SDPLSMXcLBMfO6iCwhsAfGOePG985gGcawRHi7z1vtLTY+GhwXif5lXBQHgVfoqYr70+NJfsfzDZVxZcsiDgSZAZMVEkBRgovQTE3jWZxZjBS6ovbEv3tTVehF+5jLTlsNfw/LXqbFg50x8rZnI6khSNBCg0gPW8piM4T3Kt3W1WCibNfDtjQMGrNmZydY0x7az6bRi6Q6xn9KyfkEmkhhiOeZB2iGNOYfMzkgelNvUGaRvvLkOGHwpn4+15Ucg=;q8/zR8jHaHfMYOz1Rez9nQ=="
 ---
 

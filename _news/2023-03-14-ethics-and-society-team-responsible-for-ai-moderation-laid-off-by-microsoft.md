@@ -226,15 +226,6 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 29
-  - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
-    excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
-    publishedDateTime: 2023-03-13T13:02:00Z
-    webUrl: "https://www.carscoops.com/2023/03/gm-may-introduce-chatgpt-ai-assistant-into-its-vehicles/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 21
 
 secured: "R+tECWWRVRqqikPkLpe8AOTZ73E4xYF75FFj/MB/K4875spIo827PZN37gBtAxxTrIoauYEGOhpCWGWYixhrdsnB2ToFs9tXLOe0DHEyZJIAO0uRRzygR2civD4ftTieOAGHjUYkET4Dt1UaOTtiCY5u7GmcsNY6rDri/Hs/oJNSpYClY2c+hfG2ngWXpF/J221A5vKPBsu0vFLOYaTs7TZTmPZsq34teRYyksSY0r4JQybpkA+NeoYXLYu1guC9aPbxDeQTFdoAPI/o7VJ54j8fD5K7gaY2OJsiPjYxFXzWuXfPg5K7uxdAFBoo6jpOy4iMKFmdo+wChdJj3rEYYdXqnqFw8pCZuKsf7bvL+AZLRRFNnxSYZeb1KZ1pxiBE7CFQ1+Zo7lseq87D77F5zdjSGIaEVIqDNE6vIU0Nqafn1qbFQWlCthC6Jty+9inr6FZgOz/E59vjBoFb7kHM5eWoc1pmUr3NsI61CouaqX41GjgX+2eOiIJ8oJhgtpMzftmXj8/1bmBcNbZ6GCtdIQ==;vz5h51rZFsoRC3m3jc8McA=="
 ---

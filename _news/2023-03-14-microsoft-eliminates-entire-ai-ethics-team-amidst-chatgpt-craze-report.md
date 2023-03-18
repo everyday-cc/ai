@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entir
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -226,15 +226,6 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 29
-  - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
-    excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
-    publishedDateTime: 2023-03-13T13:02:00Z
-    webUrl: "https://www.carscoops.com/2023/03/gm-may-introduce-chatgpt-ai-assistant-into-its-vehicles/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 21
 
 secured: "zZkIbIFXJIipXCZQbZ6yzQVCnB6BxVwXS4d98Ceh1eosd47r2xU4mxbd7dMz6UECoQUwvh5UXdR+DZDvLlMNDwor9hjLHGMTBfiXmxz1/2tR0Z8poT4CytPcJoHRgCRsxh6fUaW96wmwc0+Yz6sqigOnRdWFTDu6dBCg5lZdWxLksTqglc3aXmXXlG44YhG/vK2Zfi4OIbTBTKupeRVhhkNLWBuDlhsMBv+eBTCWfLC5ISqGJ/McTJO4Ma688IqXnxY9TH8ziS9SkrFCEiPgYVz1C53bC+TPIx12Ykr1vdVsZ4I4PVJQsNSJN9BYyFj9g5frN9zw4V6ecDlOy7JEiEy1P1yjWY7X1SjFilJ23jOPMe0eZMwFqFhoJdmyjL88yW1pknO7gZ4Or2j+DR8xkwXgcfgLdwwD9TA8EDrf91Kieab1qD/YyDdJP0YULOSq5B/+Rz66PemMgYcHmpsY9NDgbQHnpGSQBOZHixxWV9DoHYoEfliDgoKe7wfoAIk9VM2pKo/ZO33wNXJhmo5GcA==;yX36tS6shEfhVbdDQtI0oA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/china-self-driving-start-up-
 webUrl: "https://www.straitstimes.com/business/china-self-driving-start-up-weride-files-for-673-million-us-ipo-sources-say"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 860
     height: 573
     isCached: true
-
-related:
-  - title: "Self-Driving Startup WeRide Files for US IPO, Sources Say"
-    excerpt: "Chinese driverless technology startup Guangzhou WeRide Technology Co. has filed confidentially for an initial public offering in the U.S. and is looking to raise as much as $500 million, according to people familiar with the situation."
-    publishedDateTime: 2023-03-13T14:01:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-startup-weride-files-us-ipo-sources-say"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Tony-Han-1200.jpg"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "China self-driving startup WeRide files for $500 million U.S. IPO, sources say"
-    excerpt: "Chinese driverless technology startup Guangzhou WeRide Technology has filed confidentially for an initial public offering in the U.S., looking to raise as much as $500 million, according to people familiar with the situation."
-    publishedDateTime: 2023-03-13T13:24:00Z
-    webUrl: "https://www.autonews.com/china/china-self-driving-startup-weride-files-500-million-us-ipo"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 0
 
 secured: "3hAJYzj07MSbRhQ8Eody05yRCh+SrhxQoA2bubZA6y+utYjZoOpgTRgSoJ4MDsmJPStc0TOFzrP0SgxQifFnbSPno11xtzFXjZQ66yKQaRGbmxWXQyDC47oLhE68ITUj8LC1V9VreNrZ/4LERbnxm7Ph8rE+39IVqAtpMXKtfg0y6tRwAdNY16MeysSb/BJpxtX8Xi/sXSWzbOu+xiboN2e8dUwuoUej2dJiYtxUdv+QWMuvTS+x5ValKPoDiHGKPg4XkwOGMcDiLiQxJrQrvCdXLBIXnT6wnWXJQsN/o0/XVvMCbyQuLVR4xy2G/I02lAwrSEOqflOemvhCDYHi8LGFsoE4b/3EyDZFiUbI+xAWcX+XWJWCyWIiwxHn4kEArJ9dP5XfqZGcXBx4PpPzhjhE89I4CmN2rXgX39csyqWpRQz1N5Dj4wd14jvKEY+p3WYfBgs+TCt8n/jk9g/gq5mbFLx1/0vAX8IVjrK38uS0krreN7lwL6Qz+lfa1j8TlIydYEIErzf6vL7NkZMCXA==;+nnaaSXWlU/xAkRWUH7muw=="
 ---

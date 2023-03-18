@@ -335,20 +335,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
-    excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-highlights-on-artificial-intelligence-ai-consulting-market-size-2023-2028-newly-updated-report-contains-109-pages-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Artificial Intelligence Chips Market: Thorough breakdown for industry leaders Prognosis by 2027"
     excerpt: "The Salt Therapy Market sees the quick introduction of new goods and innovations. For companies who are active in the market, this offers both chances and difficulties. A dynamic and ever-changing sector of the economy, with new products and technologies ..."
     publishedDateTime: 2023-03-17T20:22:00Z
@@ -376,6 +362,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Neural Networks Market: The Growing Trend 2029"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Neural Networks Market in ICT Industry. artificial neural networks market Insights 2023 ..."
+    publishedDateTime: 2023-03-14T20:48:00Z
+    webUrl: "https://menafn.com/1105779217/Artificial-Neural-Networks-Market-The-Growing-Trend-2029"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?958895"
+        width: 374
+        height: 250
         isCached: true
   - title: "Global \"Artificial Intelligence (AI) Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
     excerpt: "Global “Artificial Intelligence (AI) Market” [Latest Research Report] 2023 provides a comprehensive analysis of"

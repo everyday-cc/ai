@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-au/growth-strategies/the-future-of
 webUrl: "https://www.entrepreneur.com/en-au/growth-strategies/the-future-of-human-machine-relationships-and-what-that/447609"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
-    excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
-    publishedDateTime: 2023-03-14T20:40:00Z
-    webUrl: "https://www.jsonline.com/story/tech/2023/03/13/best-questions-ask-chatgpt-open-ai/11439179002/"
+  - title: "Internship | Training neural networks with rules and relations"
+    excerpt: "The assignment is about learning Scallop (or a similar reasoning library) and using rules or reasoning together with the output of a neural network. In this simple ... final stages of your master’s degree in artificial intelligence, computer science ..."
+    publishedDateTime: 2023-03-16T16:48:00Z
+    webUrl: "https://www.tno.nl/en/careers/vacancies/2023/03/internship-training-neural-networks/"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 30
+      name: TNO
+      domain: www.tno.nl
+    quality: 54
     images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.tno.nl/publish/library/18/loopbaanontwikkeling.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "UeFUQaz7jDiSRLGMGG/HN2bunRHUZDdsCJFtugruR2dgBEAvi5bOiOLb+XTucCwI9a1UERl7z5idJRyJC8Cog1squVMehVJzIumdSjXoIy/llewREbyDWJslZ63yq3C6Ke4fSakCm9Zo4LUaBKYa2eXnOUk51eDoRmwpIm8ThdinYcWLiNgne8tYKLKiNtKdMsbC+OASRwuAZDRiYvKomgnctTjHHxBoduxppI+tC0KDcnj4Ug0EcmC2yihI8IPDdHQ/b1Z+xjZx/ut+Jh8izNyur2Pldxlh6dDON9XJWWbOOVg1yvSWKgZPBu5z8pio6RrcKOZfCi4tt20/PoA71NnELhv5UpY8t9CiL9QtANE=;KvdKH2i2v79cP0q98Uh6uA=="

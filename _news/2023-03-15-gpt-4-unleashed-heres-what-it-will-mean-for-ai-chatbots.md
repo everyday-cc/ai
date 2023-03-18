@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
-  - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
-    excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
-    publishedDateTime: 2023-03-13T13:30:00Z
-    webUrl: "https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
   - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
     excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
     publishedDateTime: 2023-03-15T19:10:00Z
