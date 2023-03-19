@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-pape
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
 type: article
 quality: 92
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "OpenAI starts release of powerful AI GPT-4"
-    excerpt: "OpenAI, a Microsoft-backed startup, announced it is releasing more a powerful artificial intelligence (AI) model known as GPT-4. OpenAI, which created the chatbot sensation ChatGPT, said in a blog post that its latest technology is “multimodal ..."
-    publishedDateTime: 2023-03-15T02:23:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/openai-starts-release-of-powerful-ai-gpt-4-77308"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 39
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/03/GPT-4.png"
-        width: 640
-        height: 423
-        isCached: true
   - title: "OpenAI unveils GPT-4, its most advanced AI language model"
     excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
     publishedDateTime: 2023-03-15T18:02:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Baidu_Photo_by_testing_on_Shutterstock.jpeg?width=1200&height=800&fit=crop"
         width: 902
         height: 601
-        isCached: true
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "Baidu's Apollo service will deploy 10 fully autonomous vehicles in a technology park developed by the government of Beijing, the Chinese ride-hailing giant said in a statement."
-    publishedDateTime: 2023-03-18T02:25:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98745677,imgsize-116038,width-1200,height-628,overlay-etauto/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
     excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
@@ -130,6 +114,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Baidu, Pony.ai won driverless robotaxi permits in Beijing"
+    excerpt: "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese."
+    publishedDateTime: 2023-03-19T18:17:00Z
+    webUrl: "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Beijing Makes Baidu City’s First Fully Driverless Ride-Hailing Service Provider"
     excerpt: "Beijing has granted internet giant Baidu the Chinese capital city's first license for fully driverless ride-hailing service providers. Apollo Go, Baidu Apollo's robotaxi mobile platform, will deploy 10 fully driverless vehicles in Beijing's Yizhuang Economic Development Zone,"
     publishedDateTime: 2023-03-17T09:04:00Z
@@ -167,6 +165,15 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 34
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
+    publishedDateTime: 2023-03-18T01:54:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 32
 
 secured: "xf7VRQAAARfTHHAQh5BjkkO1/9qJ3KZ7+UwmbuC4CYRxkZU47efcv7jcwN5dSw8Q4Hp587xv0VPbVgnyzbW9ehGZ6jrDhR5lxUvmsfPbeMDDiSY4qJ2+uyHDb4qXT/tVwYWCHttkI7UPKMTX0h3enWcBkxugyYaSz+VWMIKuAIMBSbC6mdtmStSglDK+HAtk9EOw/dQBfsRJtn0sgKMOnv12tBY033Iikp2Hpf7D8ovOQGf5v32unJ70Dd6+cPHIczwm0UMEQCdfsWHdYa+PZEu+AHOGmA8yp7NoiAMs5gidBS41oH5SmWHAG+pA/Xi30OM8Pp36RfYc+EVaS4iP7C7eAWyGv7EbSV6Qzuz9ZVYQL5OYDL6GvVohiS7tMi45CCMtCE2KTtZCx+3KBChOMcezpVJzGWq6eL5CSdpPCqhTyAuZ71GVzo+LKDHRnrMaJJ2xdTfGjVxQds9D9uLSGar8lCHK55oGeJtOcdiQfGN8OiOqgB9tq+cHUKT6MPNhqaxRq6VoF68BUSFzaRVqBQ==;fmQVIRj/VXFy6QNqgt9B/Q=="
 ---

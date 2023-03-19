@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatt
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Digit
@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?"
-    excerpt: "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?"
-    publishedDateTime: 2023-03-15T01:32:00Z
-    webUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
+  - title: "Artificial-Intelligence Powered Prostate Cancer Diagnosis Tool Launched"
+    excerpt: "An advanced artificial-intelligence-powered prostate cancer diagnosis ... The company is dedicated to empowering healthcare professionals across the globe with AI-powered solutions to operate collaboratively at the peak of their performance despite ..."
+    publishedDateTime: 2023-03-15T16:10:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Medindia
+      domain: medindia.net
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.medindia.net/amp-images/health-images/immunotherapy-in-prostate-cancer.jpg"
         width: 1200
-        height: 455
+        height: 1000
         isCached: true
   - title: "Animal Learning and Intelligence News"
     excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."

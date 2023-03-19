@@ -116,6 +116,15 @@ related:
       name: Asia One
       domain: asiaone.com
     quality: 15
+  - title: "Altair Announces Altair RapidMiner: One Converged Platform for Data Analytics and Artificial Intelligence"
+    excerpt: "TROY, Mich., March 16, 2023 /PRNewswire/ -- Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI), announced the rebrand of its entire data analytics and AI suite as Altair RapidMiner, uniting all data ..."
+    publishedDateTime: 2023-03-19T20:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312975&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "/J9uAXK8agtCv4MhS6pHDI1p+rNUjJl1WzqDiantV9U+eeUlyX8kVZPY30c7IHZW+3yIe49aBLQeLkyawnJ7FLJMGT0BAOmmXbssbSG+ceGvIn9M68DSCrFfIN04G9jDqk/oPUogjelQbJoSdo1nXHFA0nvWfcoYwvUCV5SnsxMKMdbMSPP2i2vwwO2kYzfcU98to1QaLv4WUGy/pLBZcCPZ+Ih6eTH4oPZqsOI6971JYyRVAVuNv+iEQM6nztYg/GEmDEov4w8TXr1p3VPcujVRcnkUzO1SKj7ddZ/RAicFxNEvkBzctTlW+/HHQcVHsclw33f79KfYi8qtmGRtY+vFgf6bSM7DrF/N44eck6s=;O7s5kKRYQgqdIw4gOFAnBA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/527703"
         width: 640
         height: 428
+        isCached: true
+  - title: "Madeleine McCann: Facial recognition gives verdict on Julia Wendell’s claim to be missing girl"
+    excerpt: "The Polish woman who believes she is Madeleine McCann is awaiting the results of a DNA test to prove she is the missing British girl - but the result of a facial recognition analysis has poured doubt on her claims."
+    publishedDateTime: 2023-03-19T21:08:00Z
+    webUrl: "https://www.nzherald.co.nz/world/madeleine-mccann-facial-recognition-gives-verdict-on-julia-wendells-claim-to-be-missing-girl/I2KDY6EUGFGOJGQI4UWKUEOWDI/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 42
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/Y0PrjgtEd-SvCXz69M5Jqs2EMiw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TDHRVQ3M3ND4NJNIBGBJLI3XYA.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "5j43tv2ntzpRtTrLet7bwnBVtQyMRrAi9nFMC/OfIWDvrQyz8/qA7vawtA4Xir/7J93r9oYqcvBJduO2V66fmkyC16WNBCXqyr6WG/gIyH5BZCWWrhxAzOhoJRXXq30zZrygDkAHxaM137vDzXB7FBC5dvHkrLO7ltLWUIlczPCjvHaDVqm7FtBieb1V5KLSBz3azqFaKebwqJ8F6rdmoWW2k48jkf1H0agSiv/hsW46MjTwe6K8bEFgXijqwUGRb95XdoRHLhOCwCyFCb9Zpv8CqMkhy6LkFdRBiBvlyA64oUaxfZPCTlbt/VXYVaPRVFSLfE73RELUpBXvW8VB/b/K54MOpCcUgMGbK4Gkz6w=;RJHYsk1vzbGN+GvI/inVJw=="

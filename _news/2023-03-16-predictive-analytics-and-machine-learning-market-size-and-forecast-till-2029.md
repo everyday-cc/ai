@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and
 webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-size-and-forecast-till-2029-2023-03-15"
 type: article
 quality: 66
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
     provider:
       name: Asia One
       domain: asiaone.com
+    quality: 15
+  - title: "Altair Announces Altair RapidMiner: One Converged Platform for Data Analytics and Artificial Intelligence"
+    excerpt: "TROY, Mich., March 16, 2023 /PRNewswire/ -- Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI), announced the rebrand of its entire data analytics and AI suite as Altair RapidMiner, uniting all data ..."
+    publishedDateTime: 2023-03-19T20:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312975&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 15
 
 secured: "WrhBM5BW6skwysUyM2OEQxgoEB7Xg5rcJkymCihhHhqTqPB2AzK7okXqTSTgGSBfzoj7LBCp2XL0zzUtWnLQIdP48ebQySdWnW3vhHitBH9E7UbSQL/ehPw1eRpn7xvTWAwdJiTdWkvLPbatQPQqcJC8V0+1S8pGAOeJdPMRA4xbIr3D5uFlxa6tnPiSmJI3eEgd0vVXOSRdsGWoX5Fw7xlfYwveopxx7DMhWk9c3WwNzaAu7k365OsUs/5jGqAwxTlD9lyip07UrwSIwx3/cDKEUUtGrAEV/ckYSBUsZFb3eY/fi8jSdiM2VEpCncxmI6FJ2yo/+wgfx2tMQfJkk4LLiaayK73WJusMljZ58P0=;nVq2EFlSac47lNfNHhHWMA=="

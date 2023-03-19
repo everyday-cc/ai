@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Topcon Further Expands MC-X Platform with All-New GNSS Option for Compact Equipment"
-    excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile com"
-    publishedDateTime: 2023-03-15T03:09:00Z
-    webUrl: "https://insideunmannedsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
-    type: article
-    provider:
-      name: The Future of Autonomy
-      domain: insideunmannedsystems.com
-    quality: 0
   - title: "Topcon Positioning Group: Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
     excerpt: "This expansion gives owners of skid steers, compact track loaders (CTL) and mini excavators the broadest offering of machine control ... mind,\" said Murray Lodge, executive vice president and general manager, Topcon. \"Working with a prism pole and our 3D ..."
     publishedDateTime: 2023-03-15T22:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-ni
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "India must think hard on Artificial Intelligence guardrails"
-    excerpt: "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ..."
-    publishedDateTime: 2023-03-15T03:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
+  - title: "AI boom is dream and nightmare for workers in Global South"
+    excerpt: "But it’s still better than nothing,” said Raj, who sometimes rents out his ID to members of a Facebook group ... are at the bottom of the AI value chain,” said Urvashi Aneja, director of Digital Futures Lab, an Indian research collective."
+    publishedDateTime: 2023-03-16T07:28:00Z
+    webUrl: "https://www.eco-business.com/news/ai-boom-is-dream-and-nightmare-for-workers-in-global-south/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
+      name: Eco-business
+      domain: eco-business.com
+    quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143-770x433.jpg"
-        width: 770
-        height: 433
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/15817790604_e70e89029a_h.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "We need to create guardrails for AI"
-    excerpt: "That may be the world into which AI is taking us. A group of Harvard academics and artificial intelligence experts has just launched a report aimed at putting ethical guardrails around the development of potentially dystopian technologies such Microsoft-backed OpenAI’s seemingly sentient chatbot,"
-    publishedDateTime: 2023-03-19T12:28:00Z
-    webUrl: "https://www.ft.com/content/3e27cfd6-e287-4b6f-a588-29b5b962a534"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "XQ8xdhWb2tANKllE0mjaAFAaZfuP6Ivkd+KPpiTgsN9m7KHAtqkdoj3bCM+DV8+c1kd93PMHlKjg/p1zjzLxfJi2bbn1kng8btc93npj25nm4QfbEdHYHNoFYAYIg7T/OL0XrJWVukCkirMPkV7F1PUza4VuHmHnWSmj3VeiscGHc5e06lzIJSMlxhiOj/dbc8v3olgFqkPU9QFvxx0AP+rx7hqwz41HeMIqmHE0rI50mfIMsmUfBitsFzR7Sm9BIM2V6qLFu5t8E5Q+gm/pWDwxSeGg2CCoy7SI7qZA2sVxRjkHHD8sdJjttsAPAazGi7iWvUu1xAQz5+E2PFHIIAZxM7xIiw6oN7yuPkQSxJ0=;nqw7iNUriGMAFpLpifyKiQ=="
 ---

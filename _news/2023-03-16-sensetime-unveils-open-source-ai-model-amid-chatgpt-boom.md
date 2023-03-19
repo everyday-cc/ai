@@ -24,22 +24,6 @@ images:
     height: 376
     isCached: true
 
-related:
-  - title: "ChatGPT gets more ‘human’ as AI wave continues"
-    excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"
-    publishedDateTime: 2023-03-15T02:29:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/chatgpt-gets-more-human-as-ai-wave-continues/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/03/27ba2d82fe7d991f094faa4e79da3632479d657f.jpg"
-        width: 768
-        height: 512
-        isCached: true
-
 secured: "E7WLTS/AZEhwTeAqq+17LsbtGbanEOkHeu68j/W3vh4GlICSvdloWyRTCDlFKgzU5wE/1J9XcZmBKIWmZlbqFbj24NH1VI65L5ZY2WOtohRCH32/sK+iOvTgz9Y6pBdiriZZOojSxn0tuwAAuXfpU33u8ZldJOMZElJMYEkm7sZY1xRy5xhU2qRUBq5dds1o+X7PaHJPKbM/y97emNepuZDF2BNNIOnRbd1myp34NGYfft1WeBWJ/vtMk7t5tjKi6mprOBnFnLGIdtqOD/lBuwunQUpD/xs9znJhODPDChsh3CPt3zc7A+YmAr17F2v+4ONQvArQe+RWH1II5uFHeu+iLU1FuHOfBbNJK3zhq8g=;/SqNPKfOHBHJJwYbdDeTfQ=="
 ---
 

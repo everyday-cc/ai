@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "The Truth About Artificial Intelligence and Creativity"
+    excerpt: "Artificial intelligence allows creators to be creative, but even sophisticated AIs are really just an advanced form or copying, says David Z. Morris. This feature is part of CoinDesk's Culture Week."
+    publishedDateTime: 2023-03-17T19:41:00Z
+    webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/"
+    ampWebUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
+    images:
+      - url: "https://www.coindesk.com/resizer/mxcZsOIZ4DsaqaiT5E7Jmi6MSIQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DS2WIVHO2ZHFRN2BANLRCQF37Y.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
     excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."

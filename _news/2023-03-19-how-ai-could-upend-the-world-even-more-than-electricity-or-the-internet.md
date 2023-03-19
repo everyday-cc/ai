@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T16:13:00Z
 originalUrl: "https://www.digitaljournal.com/business/how-ai-could-upend-the-world-even-more-than-electricity-or-the-internet/article"
 webUrl: "https://www.digitaljournal.com/business/how-ai-could-upend-the-world-even-more-than-electricity-or-the-internet/article"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Digital Journal

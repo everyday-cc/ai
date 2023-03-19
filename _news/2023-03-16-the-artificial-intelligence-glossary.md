@@ -57,6 +57,22 @@ related:
         width: 734
         height: 490
         isCached: true
+  - title: "Harnessing the power of AI"
+    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
+    publishedDateTime: 2023-03-17T03:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "j/X+X79V7oFIGrHqMWdl6LUTdT1cRgnv1PAmCqlS7Pq0kzVMUk86G3pOHxHXNMQMtUhAmoPmV1HHqx1kY/GVk6tUM7BEcNoozebgEoIH9WpMr6B8N2VxHz+FNDXL6s/q07nU0aeL2ov2z8iryxlHwQvoM/DcWyCXvBHZK9z5DfgsNN0KzzuW9vI2pE2167lKLJJIAWHLO7ntUyJjIdt6T1GzqgHuw+KloEpdJ3jAbupB2IbPVOA97U0d3APlsFT3IWGc9Kqg5sYLnXddwDTl0Yr9AcBPx8KEqM18MFE5bd9jLY4skM1OE6FwO4nAp4pv+h0zskUZ6dfpI8eJQpnGUi6Oeolu0bNypgjCPrqsmtY=;xmFUG3bUntgmSNRLT1Prfg=="
 ---

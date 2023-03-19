@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T19:47:00Z
 originalUrl: "https://www.horsetalk.co.nz/2023/03/20/artificial-intelligence-insights-brain-injury/"
 webUrl: "https://www.horsetalk.co.nz/2023/03/20/artificial-intelligence-insights-brain-injury/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Horse Talk

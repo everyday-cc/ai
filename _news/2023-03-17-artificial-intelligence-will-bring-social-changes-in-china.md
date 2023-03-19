@@ -71,6 +71,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "In Cancer, Patient-Empowering AI Begins To Change Care, Relationships"
+    excerpt: "Artificial intelligence is quietly giving patients the ability to find, create and act upon an unprecedented breadth and depth of authoritative information."
+    publishedDateTime: 2023-03-19T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/michaelmillenson/2023/03/19/in-cancer-patient-empowering-ai-begins-to-change-care-relationships/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Q&A: How can artificial intelligence help journalists?"
     excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
     publishedDateTime: 2023-03-17T16:26:00Z

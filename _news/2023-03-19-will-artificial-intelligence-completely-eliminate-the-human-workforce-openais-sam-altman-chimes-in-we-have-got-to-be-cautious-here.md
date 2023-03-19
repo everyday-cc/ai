@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/news/23/03/31411715/will-artificial-intelligen
 ampWebUrl: "https://www.benzinga.com/amp/content/31411715"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31411715"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:

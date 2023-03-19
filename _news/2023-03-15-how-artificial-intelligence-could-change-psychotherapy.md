@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "In Cancer, Patient-Empowering AI Begins To Change Care, Relationships"
+    excerpt: "Artificial intelligence is quietly giving patients the ability to find, create and act upon an unprecedented breadth and depth of authoritative information."
+    publishedDateTime: 2023-03-19T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/michaelmillenson/2023/03/19/in-cancer-patient-empowering-ai-begins-to-change-care-relationships/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence Will Bring Social Changes in China"
     excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."
     publishedDateTime: 2023-03-17T13:49:00Z

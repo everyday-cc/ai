@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/800X400shutterstock2033669528-1673607094424.png?fm=png&auto=format"
         width: 2222
         height: 1111
-        isCached: true
-  - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
-    excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
-    publishedDateTime: 2023-03-15T02:31:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/adept-creator-ai-assistant-automates-software-tasks-raises-350m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Adept-Raises-350M-in-Series-B-to-Build-AI-Assistant-That-Can-Automate-Software-Processes-994x559.jpg"
-        width: 994
-        height: 559
         isCached: true
 
 secured: "ArahmRHZ2Q6UpuNdV6xg2JkzSk078VoxkAM9Mypq2V4V0AU+KVEyDUcAzzxYvDwkkWzbz5j/90702IXnpKSp/nAb/7nUocxDseogVQXBzuFcbIScLN6UKWO4kiYR4HpyFtLw12M5xouyM3kLmhX9QBQb/CelQr0GF+wOHbaSjmi3TP+KVogAuu2YUCnanw9jlNM80adXrQmXxcVCoSxbV470okgXmADb2g6ilcOAvrGf84RpIJo6vO4PIT0YZWRPAtVhg19JVvVjtxYL8JDUq1FfKSJhR3YTfUTtk2JRJO0PxwfU3n3byaHHZITEEjdm5qVTlTJ5QsqJPndVj2Bijj8T5QsnRVd1CAz98x0NMh/BH+n74zJA6n97Fqu/Se0h9Gbf0hwkW2No64b+OSrv6eRIifvTcJkxOYg/7aEbomlGD6NmwSXYzYXMKAEF/cFTZNpVX3tGiTF9bTmbH2fqeswtm7Q6Jyv1iWggdTDOf158mc7xk8cwMVWEkA2Rm2h3gFVEr4wDPqvsyOwmomKM9g==;Er+4Q6LAwRvcfnNPodtYfQ=="

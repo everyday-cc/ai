@@ -105,20 +105,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 49
-  - title: "OpenAI starts release of powerful AI GPT-4"
-    excerpt: "OpenAI, a Microsoft-backed startup, announced it is releasing more a powerful artificial intelligence (AI) model known as GPT-4. OpenAI, which created the chatbot sensation ChatGPT, said in a blog post that its latest technology is “multimodal ..."
-    publishedDateTime: 2023-03-15T02:23:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/openai-starts-release-of-powerful-ai-gpt-4-77308"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 39
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/03/GPT-4.png"
-        width: 640
-        height: 423
-        isCached: true
   - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
     excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
     publishedDateTime: 2023-03-18T11:32:00Z

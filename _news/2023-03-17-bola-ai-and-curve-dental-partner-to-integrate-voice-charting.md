@@ -3,10 +3,10 @@ category: news
 title: "Bola AI and Curve Dental Partner to Integrate Voice Charting"
 excerpt: "The partnership will see the integration of the number one Voice Perio technology on the market powered by Bola AI with Curve's SuperHero™ practice management software to benefit dental professionals"
 publishedDateTime: 2023-03-16T20:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
-ampWebUrl: "https://www.benzinga.com/amp/content/31388718"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388718"
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+ampWebUrl: "https://www.benzinga.com/amp/content/31388703"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388703"
 type: article
 quality: 59
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 754
         isCached: true
 
-secured: "2d704go+J8CykrCsisTIF8RN0Z9R5Qj3V1gqbXakRv0OdnP2yEZvX9s0F/FF3mDx8Ejy0bXiFt5A0l4VjrK8d+VEFJJ1HvMxzpls36OsP+hgG4L7DKLEz1d37dR2UNSpkYphrA4RNWdJmmbDAUo5Gp4jf2arGoEE6Yobx4cYhQFu64TAtcUQfCafsbui4Py9K+V0XLB6ykp28tvZo/S4okDMltwarAHls3y1lTxVhw+63Xqy9MIodfjpsBYnZvrq+Hb5KrO96I1FKVXAnxPWMXIPHcIjVsW7UZvwGUzIxH8/e+wG77mJUXvr+lf7p+zh8e8J800qTDb3gYps+wcX82wNs0D7RFwU+8Z9daRzrr0=;B3b4pHmWDQsyDigMXcYILA=="
+secured: "nX+cBoQqk9o8k0yLdz4MJ1+vHditc2IE+lYzET09KChcGHW4nMemqPpWK0SjZLJ1B0bhiXN3HvgOgjY3vHe30k7f5+Cz3IzkiG2V6Hyyi1HTOzRWAJRHOg3u6Lm1ZPUl5z3j3CgOs5vrJP1f9DaENfQ/riCh7on+UEtD0clpfX5IQQ0URUHW+u8HYNyz3TatBFZMOv3bvZ3aYbhgNLEcuUKQ7rRwp/sFS9I+aHAncTGS7wibIDJm0cZ9CwxjhmPcDhUf4Buyk0+dfJ+OBkHH0HUrFbK9dV4frj2wfRVFdNYtwi9XlQmQACvszCltArvnn7PzFaCziy6fXknpCX1plsK5QdYxL7r+Y/7tYEoksDc=;a8YWJSF6zCIa+6XT+JaR4Q=="
 ---
 

@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?"
-    excerpt: "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?"
-    publishedDateTime: 2023-03-15T01:32:00Z
-    webUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 455
-        isCached: true
   - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
     excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
     publishedDateTime: 2023-03-18T12:27:00Z
@@ -54,6 +38,22 @@ related:
       - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Artificial-Intelligence Powered Prostate Cancer Diagnosis Tool Launched"
+    excerpt: "An advanced artificial-intelligence-powered prostate cancer diagnosis ... The company is dedicated to empowering healthcare professionals across the globe with AI-powered solutions to operate collaboratively at the peak of their performance despite ..."
+    publishedDateTime: 2023-03-15T16:10:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 44
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/immunotherapy-in-prostate-cancer.jpg"
+        width: 1200
+        height: 1000
         isCached: true
 
 secured: "fI+cNgWsv0YmDvb1WjK1C7nAunVgpHM4LqUJC4yR2BOe9d3F/5upfWHe66lSN3c9c/suvXHVvQyopa+zMD49wEQAv1tWjLsX7W7Wt6VkKakTrR+e4zmTsKEI8ESQe1rhM5LLAA0oYD9MIrLkJY/Pyg2+MVE/d55/IkX8jH0F/zrt2xukSdU4JZhP53YFETWZPto2+D1kyvHSqtrS9u9v/cZlbQWJ6g6/PtYh8avDKuS46xDdOO/TcWV9XtUQifsH5YlOdYpLako7ebv0GyDFojfehMe9i25TJgUAeYU5CpvfhNUQSxhHSDPyjMDw/E+GUXairb1qmztOaVwD/9GBOzpGYa1gVXIQgy8B4YRcSu4=;kX9v37V9HJfrBlZxiuiJFA=="

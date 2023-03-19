@@ -127,6 +127,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
+    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
+    publishedDateTime: 2023-03-17T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2023-2028: Industry Share, Size, Growth Analysis, Leading Companies, and Forecast"
+    excerpt: "Global Deep Learning Market Trends: The market is currently experiencing growth owing to the expanding applications of deep learning solutions in cybersecurity, database management and fraud detection systems. Additionally, they are employed in the ..."
+    publishedDateTime: 2023-03-16T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2023-2028-industry-share-size-growth-analysis-leading-companies-and-forecast-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
     excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
     publishedDateTime: 2023-03-17T06:28:00Z

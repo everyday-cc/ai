@@ -66,15 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
-  - title: "The Voice Recognition Market study provides information, including all market growth factors."
-    excerpt: "The Voice Recognition market is a rapidly growing industry with a wide range of applications. Over the past few years, it has witnessed significant growth due to increasing demand from various end-use industries."
-    publishedDateTime: 2023-03-15T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-voice-recognition-market-study-provides-information-including-all-market-growth-factors-2023-03-15"
+  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
+    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

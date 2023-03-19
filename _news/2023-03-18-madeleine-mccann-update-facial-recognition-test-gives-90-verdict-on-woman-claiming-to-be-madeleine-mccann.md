@@ -75,6 +75,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Madeleine McCann: Facial recognition gives verdict on Julia Wendell’s claim to be missing girl"
+    excerpt: "The Polish woman who believes she is Madeleine McCann is awaiting the results of a DNA test to prove she is the missing British girl - but the result of a facial recognition analysis has poured doubt on her claims."
+    publishedDateTime: 2023-03-19T21:08:00Z
+    webUrl: "https://www.nzherald.co.nz/world/madeleine-mccann-facial-recognition-gives-verdict-on-julia-wendells-claim-to-be-missing-girl/I2KDY6EUGFGOJGQI4UWKUEOWDI/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 42
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/Y0PrjgtEd-SvCXz69M5Jqs2EMiw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TDHRVQ3M3ND4NJNIBGBJLI3XYA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "F/Au9MAm6QUIu0CjCp8PaeO+2GmHEd9np+wugrJELPF4Tu6OnFCocvk9DE+iX8h4ZwkYM02pI/kQ1sGJQ/VTIuheGEelob3jWzF9xmPN6QwCcUsd7pB+ftbJYQNGD/ebtETW5zduzxmDGSaYzZpMbR9f3+JULT5DPdWVBCRwA2nohTgUsikk+jxMOAbDw3SV1W1fT6sf7UjWL01RaJB6ePIGWmDuBYkYfgAeifktxb+7IuAhRt4JIAFyqZKBc4ZxQK8cAecssH2rdGXVwm4tpi/FoaAU92ACVDuCVM10R5mT4FXnSYaAWtjHdskaJ5ClrjHiGNg1L7XLjGDubX9Jv/bZc7wqoea0o2g0KYCIxDQ=;jmGt9VrFKM4oCfGx88Aj5A=="
 ---

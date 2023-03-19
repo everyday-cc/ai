@@ -58,20 +58,6 @@ related:
         width: 2222
         height: 1111
         isCached: true
-  - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
-    excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
-    publishedDateTime: 2023-03-15T02:31:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/adept-creator-ai-assistant-automates-software-tasks-raises-350m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Adept-Raises-350M-in-Series-B-to-Build-AI-Assistant-That-Can-Automate-Software-Processes-994x559.jpg"
-        width: 994
-        height: 559
-        isCached: true
 
 secured: "jYcYJwHc8gDje2M48XBYON7PiWpuYtDwSuGw8ZUk2hMaeQRA790W7TG9ksKATFdonJfTMVqunfeFhv2O2g4PQzhKhJ3XiqLCj9Q+3B6sdXGpN28ceZCUDPpBXRrhYjUHiX/gRFbqC6keXLMP82oGrN7+m0WMOFkSV8nTY+GreTdWBIn/VH+f8+WmnLWBnxoje6tg5fBS6NniLPA9V0M1XX2SZ9jpeBME3p6Xn6+4986pRLUZb7zeXMbfYiY/hvVwRAY16v9LVPjq9y2arerAoH1shH7o3bXUXI6uUZgjI36FZzw9W28OGc2+8lQyaiC9ZwiLlm4if0m7O/xdhv3xmksJHJ9NtocwdWCGl6U0UI4=;xgf34SFSbqeqdM8Bhr5iIw=="
 ---

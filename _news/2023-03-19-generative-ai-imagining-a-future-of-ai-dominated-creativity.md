@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-do
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Truth About Artificial Intelligence and Creativity"
-    excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
-    publishedDateTime: 2023-03-17T19:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "sXESwPwqaynC4brGvh8/qZ4P0cvB5aTje3JyyCfMGll0+CdntXuLDOqNAXy4z3D7ZmZrq1jaFILbvxqRmFij0xQLt51xebuDFeCeVobEpUtj+EYLQw2NWt2dmE40NFSs4h4tDOhjbIOriiL805y4v7+Ydkfk6YBfsuxLUGhUHlsgwDXpbpUe8kiDrlnduIh1y58tnxvnPbW7LogLdhk0ESWbruPB4isi5CfWLp5Bo2X6+tEX7K3C/5It8ZOHSMIInt8smHJ3QpcS/+TyDR95a7zS0/04N0bDOfoINCs5aSvo05RJ/yvww5opO9SqQRET682FZ33wEqaJtAzMsuXyfDVcM8pxfrvnar7pfXsX2T1sOm2yLW7bo4n+gboOiKYnUWsvjIatOdGTm9duXRTW575owF6QbarJZQhOtUU8bWmyOIzn244BtX4YTadF4oIVAbjv3AVa7Z/GeDFhk+dpNi9TT8jNnK3mtTAXFwiORU90TFIfBr6v4Vpy1yYuFhjBiZr5MHFOXjQrgtLfZjYB8w==;6iADb48Xpya3tR3jYsA/OQ=="
 ---
