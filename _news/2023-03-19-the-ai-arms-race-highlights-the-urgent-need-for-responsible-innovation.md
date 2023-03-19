@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -42,6 +43,6 @@ related:
         height: 225
         isCached: true
 
-secured: "jo7KBnuoJhr6Xy3sWnxdToJiZ/74/dfRHjuJXeUQPJb8azO+M9ppn4kZzCEcG5CEtacOK1/lwsEXgLmLoRkLJ3NA+ElURFTiPX+l0AttCRE3B+4YmW1ZDU0tS7RqKXDIIvHTurn9r0c9iKCOzFM3/LVnQJXaIHt8knBcQY2tqqh7dYjUWkeJQ+tSUI+dos/C+yu4d3ykgtBKwko8ouwhuqG9OhoJNxPYGLN+7he/RjlQgLtnHoSJMKGvqyRWNqkZ/5p4SsH5UK9508XtFVAVbR/GIXm0GggAKOP849tuq5P/W6x/WMpt/SUyfpNpZMv/RigagbFE3brAKG/AH5d4clQhafX+Q+NseSagD8eAkUM=;l/f40Z1qamYAsTvSVjwvEQ=="
+secured: "4jBQmjOuDy6JG07Bo5TH4m2Iv0mc4qlmYxgqd01cQQLsidQ6BQk3vI0m7JQgXVqkBDnBu0kkvNRASoGzAO6AfgMPXRgXdAe2rGr/q5MyaKav2/HQrQB5SsCNZLeJT+RLsDPEKJr95RAKubbiGFnPvLWtbx2asVD52+mmAGvVB+byw5o1wbtHlesszLRLzeGhbrDMvpGHe21MiiZWTvILxdcSIIO3Gxjp+4h9Whmvp7QmH3SLXYLh/ZD+/Q+k0/enyE6ZfLgZfJO+BOEbwa/rW1ib31hPvg+ONoovhcXPBXmRYRbdMB1OO0WLIRnYJ1Sv4F6DQbnD6WsJs3qvNg/ICeQdfAJ065rSSa5c/qMLhNrOYdj1ZhjFwdefbgVC0Hrc0qvq6nZq3nPlrJPTlwUL6Fjl9UMNFV5Fwz+8l6wuvBWvz8we81H6ebgcXxI9cjd030dPlxBqJcINoua9/c+6ajTV2/M7cHESLlZtY48tDSxPdrB1NvntmkorzC30njpWsFUVw0R+cu/FMTu280Z80g==;lilD0IptERNXROoAu0eEzA=="
 ---
 
