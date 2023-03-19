@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann"
+    excerpt: "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ..."
+    publishedDateTime: 2023-03-19T07:47:00Z
+    webUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
+    ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
+    cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
+    type: article
+    provider:
+      name: Daily Record
+      domain: dailyrecord.co.uk
+    quality: 61
+    images:
+      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "F/Au9MAm6QUIu0CjCp8PaeO+2GmHEd9np+wugrJELPF4Tu6OnFCocvk9DE+iX8h4ZwkYM02pI/kQ1sGJQ/VTIuheGEelob3jWzF9xmPN6QwCcUsd7pB+ftbJYQNGD/ebtETW5zduzxmDGSaYzZpMbR9f3+JULT5DPdWVBCRwA2nohTgUsikk+jxMOAbDw3SV1W1fT6sf7UjWL01RaJB6ePIGWmDuBYkYfgAeifktxb+7IuAhRt4JIAFyqZKBc4ZxQK8cAecssH2rdGXVwm4tpi/FoaAU92ACVDuCVM10R5mT4FXnSYaAWtjHdskaJ5ClrjHiGNg1L7XLjGDubX9Jv/bZc7wqoea0o2g0KYCIxDQ=;jmGt9VrFKM4oCfGx88Aj5A=="
 ---

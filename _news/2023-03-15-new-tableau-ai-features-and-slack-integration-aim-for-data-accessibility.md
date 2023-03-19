@@ -33,15 +33,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "JS Operating Co: Jungle Scout Introduces AI Integration for Instant Amazon Listing Creation"
-    excerpt: "Jungle Scout's Listing Builder leverages Open AI's model to generate high-performing Amazon product listing copy with the click of a buttonAUSTIN, TX / ACCESSWIRE / March 14, 2023 / Jungle Scout, the"
-    publishedDateTime: 2023-03-14T13:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 9
 
 secured: "OfB5XNmtPWbvfV65UZwhnc5Hb3zR6A7pdkaylIOyROU57l7+IduqiNKuyKmdg9SkEosX2juJCyDiGi3ee0rn98yNGNaQ3O6SF2gwTxUcghzA3ETMiTDDspBnqzz6oPElff2qq73mLGl3QZlylk+gx7bdqDW+jc8ZNh9YfRL65luKvSGMaNbk/1FC+07WgS8ur8fp3jQO/iCuMO0XtreBhKQ0oVXHxBQ9dNIUWaxusYdRkG8JomDwY1EAu4d1n9dOTsmCoEBHfW/zIL57MrKcZD87QUiZ4Ln/3mYozQpvQIR0HBonIntAqtCiki5pXOHugOIyh3hbFzvmBdVop6NPgVpjzybiO0CW1kaxwCjDMRlMKNVKKyHliBiuerpBywH1n1YB4/SPn2RcymvW3BdMUau40OaxmgumS1X96VNWVDCp/JDuFmCwDV71zGczzAZdrIUoYSP2dojZfntLgKKUH68RKtfFIJg+glckueOxFgI/C9+I+jQ61vFTCDqsqS3uH4k52EEJkFd24D8NS3WIaA==;EIFIk4sC46Q2PDojfaW3CQ=="
 ---

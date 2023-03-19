@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-03-ai-powered-recognition-technology-whea
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1067
     height: 726
     isCached: true
+
+related:
+  - title: "Could AI-powered object recognition technology help solve wheat disease?"
+    excerpt: "Could AI-powered object recognition technology help solve wheat disease? Date: March 15, 2023 Source: University of Illinois College of Agricultural, Consumer and Environmental Sciences Summary: A ..."
+    publishedDateTime: 2023-03-15T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230315143839.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 63
 
 secured: "eApZMWmtHTk4lL02Dj7fGit4YbELVKSZr75xfKY7Gt7bZsRsTD8wj0wYM4hLmb7mYDegjqMzdbKW8R/YUC5nLOC4gw0bRM/1XJJsqDHniWfiLdziNa37AbJrx3EgtZ43O7RnK0NGbQyL6VBMI4DU/7ya86+3JSBoSLhbPRcGHpupR+XGvZ/qCwAnAynr7yjdeAaiA02JtmCKcsn2hJTm873PTsNOPvVJe3Wcc6Ie+jgUgCJY2i5BXzmBJM5CVOFaxIcU9f4Ku9pU9X4aUnq1kKWUbLDIXVOtgq6IuwV9Ehl+Y1iAFjQdiiYfWwtrrIn8nDvc0QPrOHu9Q/+YBO6CHx9fNwkqV/uOJQZMa92JB5DkD20C92X2ztol95AkguPHt/nd9EIkPibOHHBzFo6G1Tok2UCSaSyGvYGZlOxMpcxTRc2wSVUIyWtuq+oVlxucwrfpE3xrGdvGNtR2kzl/v0mXMreCyaUtNs21hwTWmreb5UFajsScxdX31OpImSkixVw5gtMgof58EB3saMLtDA==;5lN6KDFlmOs2UEWiUUfxvQ=="
 ---

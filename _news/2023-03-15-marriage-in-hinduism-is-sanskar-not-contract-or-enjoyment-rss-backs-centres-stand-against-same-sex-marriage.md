@@ -67,20 +67,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
-    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
-    publishedDateTime: 2023-03-14T15:11:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2379135-marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-backs-centres-stand-against-same-sex-marriage"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 18
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/14_03_2023_15_11_35_8671234.jpg?width=920&format=jpeg"
-        width: 920
-        height: 690
-        isCached: true
 
 secured: "zYUa9phO1ZiTsfrwvdBVnMpeHIRksZsQv3BHSjBKJdgpUoKka9MtV5oElvrVjL8Yu1L9oZ4C2Bdl/BqeKDX5m65uS9SKpmELdIinEoHB2s9GHPvo5DP7xsQJI2crnO2z+luIxeJJblNXF3nW/94DYaaye+J02cLSDhzE0ooOGvH8d5LqCawYlqvsMdk7OuqBUW7/+EkON3vANiFbwud8dNBwf6ixPE3UCI1Vtf0xij9OIfUDUAWIOaQszpp+CXbv2ahgJnZNCwVext4fw5+py9xWcRs+0kRx/k9DgEUndEeImvICJ91tSIjugVjlczJX3Po5Bqq3RzFBzIZwaSJfM5OvfHZQtkcEzELPuImzwI0=;Fw4pw8pz1VO5cDdoqcKybg=="
 ---

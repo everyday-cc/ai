@@ -247,38 +247,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Cuts AI Ethics and Society Team as Part of Layoffs"
-    excerpt: "The move has caused questions about whether Microsoft is prioritizing its competition with Google over long-term responsible AI practices. In its most recent round of layoffs in January, Microsoft let go of its ethics and society team, which was dedicated ..."
-    publishedDateTime: 2023-03-14T15:03:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/"
-    ampWebUrl: "https://www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 91
-    images:
-      - url: "https://www.cmswire.com/-/media/cc2d58a2650646f58a20c1f2c736677a.ashx"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report"
-    excerpt: "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ..."
-    publishedDateTime: 2023-03-14T15:07:00Z
-    webUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 91
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft lays off entire AI ethics team while going all out on ChatGPT"
     excerpt: "A new report indicates Microsoft will expand AI products, but axe the people who make them ethical. This month saw the surprise dissolution of Microsoft’s entire Ethics & Society team—the latest casualty in the company’s ongoing layoffs affecting 10,"
     publishedDateTime: 2023-03-14T17:00:00Z
@@ -358,20 +326,6 @@ related:
       - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
         width: 640
         height: 480
-        isCached: true
-  - title: "Microsoft Edge Copilot brings AI content creation to your browser"
-    excerpt: "That’s where you’ll find value in Bing, Edge Copilot, and other AI services. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T14:17:00Z
-    webUrl: "https://www.pcworld.com/article/1656353/microsoft-edge-copilot-adds-ai-content-creation-to-your-browser.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/microsoft-edge-logo-100911275-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Why AI Stocks Microsoft and AMD Popped Today"
     excerpt: "AMD is likely to enjoy strong demand for its new chips. OpenAI unveiled GPT-4, the latest generation of its large language models (LLMs), which are trained on massive amounts of data and can be used to power AI applications. OpenAI used previous versions ..."
@@ -540,20 +494,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Backlash erupts as Microsoft cuts AI ethics staff"
-    excerpt: "Most of the team had already reportedly been moved to other parts of Microsoft, but the remaining employees on the ethics team were laid off on March 6, 2023. “Microsoft is committed to developing AI products and experiences safely and responsibly ..."
-    publishedDateTime: 2023-03-14T14:37:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/backlash-erupts-as-microsoft-cuts-ai-ethics-staff"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 71
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TbCmds2wGiBRfebpbHeURK-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Cuts AI Ethics Team"
     excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
     publishedDateTime: 2023-03-14T23:53:00Z
@@ -644,22 +584,6 @@ related:
       name: YAHOO!Finance
       domain: engadget.com
     quality: 64
-  - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
-    excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"
-    publishedDateTime: 2023-03-14T13:52:00Z
-    webUrl: "https://www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/articleshow/98635554.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/amp_articleshow/98635554.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/amp_articleshow/98635554.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 63
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-98635554,imgsize-70564,width-800/98635554.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Microsoft Copilot leak shows AI automatically creating a PowerPoint presentation"
     excerpt: "Microsoft is holding a big AI event later today, but one of the announcements appears to have just leaked. Twitter user h0x0d has published details of a PowerPoint Copilot feature, which appears to include ChatGPT-like AI that will create presentations for you."
     publishedDateTime: 2023-03-16T16:51:00Z
@@ -669,20 +593,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 59
-  - title: "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX"
-    excerpt: "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks."
-    publishedDateTime: 2023-03-14T14:42:00Z
-    webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
     excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
     publishedDateTime: 2023-03-16T16:23:00Z

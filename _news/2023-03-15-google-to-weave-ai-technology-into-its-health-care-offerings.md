@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Google to Weave AI Technology Into Its Health-Care Offerings"
-    excerpt: "Alphabet Inc.’s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research, ways to help consumers find ..."
-    publishedDateTime: 2023-03-14T15:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQYiEad1ecc/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google to weave AI technology into its healthcare offerings"
     excerpt: "The company has assimilated health AI efforts in search and made strides in integrating its AI model into medical research."
     publishedDateTime: 2023-03-15T00:57:00Z

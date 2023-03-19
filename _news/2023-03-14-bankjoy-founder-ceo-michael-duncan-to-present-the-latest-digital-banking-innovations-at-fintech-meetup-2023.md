@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
+    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
+    publishedDateTime: 2023-03-14T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Uplinq Co-Founder to Present at Fintech Meetup"
     excerpt: "Patrick Reily to speak at the 'B2B Payments & Finance' sessionTORONTO, ON / ACCESSWIRE / March 16, 2023 / Uplinq Financial Technologies, the first global credit assessment and scoring platform for SMB"
     publishedDateTime: 2023-03-16T22:32:00Z

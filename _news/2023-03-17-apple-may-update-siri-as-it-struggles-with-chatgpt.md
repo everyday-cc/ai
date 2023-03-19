@@ -213,22 +213,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Think ChatGPT Is Smart? Ask It to Do Arithmetic"
-    excerpt: "People of all ages—especially my kids—have enjoyed hours of laughs asking its artificial intelligence silly and scatalogical ... AI does using the same basic tricks as ChatGPT. Chatbot therapy is a totally different kind of problem, and a bad match ..."
-    publishedDateTime: 2023-03-14T14:10:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/your-internet-brain/202303/think-chatgpt-is-smart-ask-it-to-do-arithmetic?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pexels-cottonbro-studio-5473955.jpeg.jpg?itok=mrYSeey0"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Can ChatGPT Get Bored?"
     excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
     publishedDateTime: 2023-03-16T20:48:00Z

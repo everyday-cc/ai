@@ -27,36 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Are big banks spreading misinformation about fintech?"
-    excerpt: "Also those that are kind of disrupting the credit bureau model and thinking of new ways in which to use AI and machine learning to be able to advance credit underscoring. So kind of a wide variety of the definitional terms of the FinTech industry but kind ..."
-    publishedDateTime: 2023-03-14T14:47:00Z
-    webUrl: "https://www.americanbanker.com/podcast/are-big-banks-spreading-misinformation-about-fintech"
+  - title: "Bankjoy Founder & CEO, Michael Duncan to Present the Latest Digital Banking Innovations at Fintech Meetup 2023"
+    excerpt: "Michael Duncan, founder and CEO of Bankjoy, a digital banking provider, will present at Fintech Meetup during the Solutions Spotlight session on Tuesday, March 21, at 9:15 AM in Las Vegas. The Fintech"
+    publishedDateTime: 2023-03-14T15:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31344232/bankjoy-founder-ceo-michael-duncan-to-present-the-latest-digital-banking-innovations-at-fintech-me"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31344232"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31344232"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/a114b75/2147483647/strip/true/crop/2309x1212+0+1228/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5a%2Fa3%2F763a4eb74b39ae65081275ceaf67%2F135058259-pennyleeheadshot.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "MC Insider: Fintech Jamtara, versions of Digital India Act, problem of plenty and more"
-    excerpt: "The fintech is having sleepless nights to nip this issue! AI is the flavour of the season. While startups were putting blockchain in their bio to improve their chances of securing funding some time back, the new buzzword they are milking is AI. What's ..."
-    publishedDateTime: 2023-03-15T04:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/mc-insider-fintech-jamtara-versions-of-digital-india-act-problem-of-plenty-and-more-10251781.html/amp"
+  - title: "Uplinq Co-Founder to Present at Fintech Meetup"
+    excerpt: "Patrick Reily to speak at the 'B2B Payments & Finance' sessionTORONTO, ON / ACCESSWIRE / March 16, 2023 / Uplinq Financial Technologies, the first global credit assessment and scoring platform for SMB"
+    publishedDateTime: 2023-03-16T22:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575414-uplinq-co-founder-to-present-at-fintech-meetup-200.htm"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 36
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/08/absolutvision-bSlHKWxxXak-unsplash-652x435.jpg"
-        width: 652
-        height: 435
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "NWf0rha1nrCMzO12pq6a+XHbgHG6v2/GR7N5Ldtw8tdliZUNHmBiqcuW0ODuTyDTboXBTHIqRSFnkosvvcodmNXEjTlsHG2ZjeO1IEiFRA7TitOOze8cQIvltsAkiseEIbUdac7hXbjXDAdnn7sm+y/azrqfvBGbSoONZI0r/iAQc2F2mS5dLRDLfRHrpFRgLz4VuNw6pM6kvjlL+2KTpkhzq0bDziptCkE1/iqf97KqE4Ksx6ByTFHv8GJvZKVsA3/LSwxdV8MC9yQRbacAGL+wrgkI2FU5X9Zf8o/XkXngFJWb/QwSMWaJhCDKmloPFvNMjazJJN6+mPZpPBrsmDBZs3Ri6ong1Jq10J8qp0j/OmGxWueIWJ0Fq2prdvJExnsJu14QeLq99Hr9nkEuckwIqkOphXHqidcaY79p9z99s7BuYswm4txFobs9VQKoqkDf1X7d0RDuQSRFP7WbCzdKDppIkrdY3c+PmhDyJFuE74QwlJSZkVCcks73pTwz1cPcnJuA5Uyq3S517Uv8SA==;TFM+NQ1AFjRfkoUTa7Ig8A=="
 ---

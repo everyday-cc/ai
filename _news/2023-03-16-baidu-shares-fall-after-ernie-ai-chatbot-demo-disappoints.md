@@ -144,6 +144,22 @@ related:
         width: 791
         height: 496
         isCached: true
+  - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
+    excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
+    publishedDateTime: 2023-03-19T05:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/ea83ce1a739dc69379eabf0f02e799cd3b329403/0_139_4256_2554/master/4256.jpg?width=620&quality=85&auto=format&fit=max&s=fb54023a24b30e8cb7a1163511425ae4"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Chinese search giant launches AI chatbot with prerecorded demo"
     excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
     publishedDateTime: 2023-03-16T13:22:00Z

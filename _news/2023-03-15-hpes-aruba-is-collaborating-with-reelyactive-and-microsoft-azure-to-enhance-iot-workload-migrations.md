@@ -20,17 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Aruba Collaborates with Microsoft and reelyActive to Speed the Migration of IoT Workloads to Microsoft Azure without Custom Engineering"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), and reelyActive today announced a new open-source data converter for Microsoft Azure that enables IoT device data that is securely streamed from Aruba Wi-Fi access points (APs) to be used by Microsoft Power BI and other Azure applications."
-    publishedDateTime: 2023-03-14T14:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/14/9776412.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-
 secured: "UvIu22Zek1qA3MgevSlsV6nTCEkAn1KRYWGCJd9QcppgMmrgMCRq54qR+OKGoKg3fXJNH4I+TulfHqUMknw+/kyZ18u9j7gvtgB8RiJqo5zQ/u+bx0Rpg7ytQZcLPXdb4GE2SSOKLmAi87ync62Mq88C7zNBi++heyErfv924pL2AC1plH9fWVBLH9wfHVmO3S8CsZpNqBTASHN1VPWF6BNXJoTJdCpv4QpNGDVXKhzoaAc7tzpBj6xxLcmS6MMCjPaSjJ68UCtyAhRkoFcKSvxtEfmicWwLhLUk3LWAMv3OQ+rYf/fHDol8ren6uj1LoBqNRs91zRcwP/4AP4sxZSEUmrcb6oqXdkvZKR7GdVs=;EsZHnznBNJLXo3MQXBe5cA=="
 ---
 

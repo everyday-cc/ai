@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Our latest health AI research updates"
-    excerpt: "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection."
-    publishedDateTime: 2023-03-14T15:00:00Z
-    webUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/"
-    ampWebUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg"
-        width: 2880
-        height: 1200
-        isCached: true
   - title: "Artificial Intelligence Should Help Vet New Research"
     excerpt: "Peer review is the gold standard for scientific papers, but maybe there’s a better system just around the corner."
     publishedDateTime: 2023-03-17T13:30:00Z
@@ -47,36 +31,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
         width: 1600
         height: 1200
-        isCached: true
-  - title: "Google Shares Health AI, Large Language Model Research Updates"
-    excerpt: "Google announced research updates on its medical large language model and recent partnerships to apply artificial intelligence to cancer, tuberculosis, and maternal health."
-    publishedDateTime: 2023-03-16T13:35:00Z
-    webUrl: "https://healthitanalytics.com/news/google-shares-health-ai-large-language-model-research-updates"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/google-shares-health-ai-large-language-model-research-updates"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 59
-    images:
-      - url: "https://healthitanalytics.com/images/sized/Getty_correct_size_AI_chatbot-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
-  - title: "New Research Uses Popular Artificial Intelligence Technology for Materials Discovery"
-    excerpt: "With the explosive rise of popular artificial intelligence applications like ChatGPT and DALL-E, consumers are becoming more and more familiar with the world of generative models. While these fun, novel tools are helpful in our everyday lives,"
-    publishedDateTime: 2023-03-17T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/news/new-research-uses-popular-artificial-intelligence-technology-materials-discovery"
-    type: article
-    provider:
-      name: cc.gatech.edu
-      domain: gatech.edu
-    quality: 30
-    images:
-      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2023/Victor%20Fung%20CRNCH.jpg"
-        width: 850
-        height: 478
         isCached: true
 
 secured: "3vBlL3OtP505m5VAtM/Ao1n4Kqegw6wl5xogA2cJUVNznaKHUeyEAManFzDew4RDJeHfML12B0+jJyYXHc8WYbaDjpZ1qJByXdhyDMABNFZJRIZaeaQ5GnA77byCq7ZDNlWFz9Oh95VGFa5Y0JsZ6lWIfh6b9ichSapaUuPu96y//XLt+QQmmqOYghlolIRepx13ftDnz9pp2tEbmRV5VmJYe2v4hQNKwtI+J3xAD9umU/PnDtSMxX0QwfijMlmgsICQQbFDSG2Z2s6E/BQE9Mx/iC9ry5JJTW/MMEPXRhoJ1Bi1a/A3BrVHAlVlofCrRqH7Lk9qdEd3Sy4g4QeDCKLnBe+xJuGvIi5cdNbrE+Q=;pBQQMje0fT/Xf0NCHLNdIg=="

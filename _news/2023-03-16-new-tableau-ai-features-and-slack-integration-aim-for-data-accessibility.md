@@ -34,15 +34,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 18
-  - title: "JS Operating Co: Jungle Scout Introduces AI Integration for Instant Amazon Listing Creation"
-    excerpt: "Jungle Scout's Listing Builder leverages Open AI's model to generate high-performing Amazon product listing copy with the click of a buttonAUSTIN, TX / ACCESSWIRE / March 14, 2023 / Jungle Scout, the"
-    publishedDateTime: 2023-03-14T13:42:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 9
 
 secured: "X31CzqJYcAfMey/nKlWhgmdhFgY1EdL2dCduXpbhAjGFWw1Hov4boG7dbFv6CQ9fEHYRGmS/3YScrrT2MLr2zsTkdMvlkqkuzbG2btm3dHfeXSxLsibgufRM0wTxq8y8jXu92M0wj9EDndrUpTSwLtWb7A7i+rtVa4F4RerDotlqv5VZ/zu/hyrXcQ9fJsu3XNe3Hm6x3UktZHdmuNRpa1vX3p05zU8mnr0w6u8UbSx4qXb2KLgqjsTY+iAHU0Fvz4X1a30CMqzAw0/YBVr2046gucKz0kVJTrd64YlKqrzx2a3CiTuMzxjTNTl7R+m+lsHRe1JD7nRtj5glA8xnm9m+eL9yNOgBgQ+1SjawEtI=;YXfNVcnu/ludLUhLoO3LdQ=="
 ---

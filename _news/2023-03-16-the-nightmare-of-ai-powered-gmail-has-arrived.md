@@ -24,136 +24,137 @@ images:
     isCached: true
 
 related:
-  - title: "Google's New AI Tools for Gmail, Docs Can Write Drafts For You"
-    excerpt: "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process."
-    publishedDateTime: 2023-03-14T14:32:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
+  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
+    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
+    publishedDateTime: 2023-03-16T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-music/"
+    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Wired
+      domain: wired.com
     quality: 87
     images:
-      - url: "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
-    excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
-    publishedDateTime: 2023-03-14T18:29:00Z
-    webUrl: "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 83
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
-    excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
-    publishedDateTime: 2023-03-15T12:36:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Gmail: Google announces that an AI will soon write your emails"
-    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 61
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google previews generative AI features for Workspace users, developers"
-    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
-    publishedDateTime: 2023-03-14T19:41:00Z
-    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
-    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google unveils AI tools to beat writer’s block amid scramble to compete with rivals"
-    excerpt: "The AI overhaul of Google’s Workspace products is starting with ... multibillion-dollar investment” in OpenAI, the artificial intelligence startup behind ChatGPT, a chatbot that generates text in response to user queries. Microsoft then said in ..."
-    publishedDateTime: 2023-03-14T15:31:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/14/google-unveils-ai-tools-beat-writers-block-amid-sc/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 51
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/Justice_Department_Google_92241_c0-205-4017-2548_s1200x700.jpg?4d54a915c83c799682cc4816895499e010c8deae"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Google Stock Jumps As It Unveils New AI-Powered Tools For Workspace"
-    excerpt: "The move comes as Microsoft remains aggressive in its approach to AI, with its partnership with OpenAI producing fruitful stock market gains since the start of the year. Let’s get into the details. As the AI wars heat up, you can harness the same ..."
-    publishedDateTime: 2023-03-15T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/15/google-stock-jumps-as-it-unveils-new-ai-powered-tools-for-workspace/"
+  - title: "AI And The Future Of Wealth Management"
+    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
+    publishedDateTime: 2023-03-17T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
-    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
-    publishedDateTime: 2023-03-14T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
+        width: 1050
+        height: 590
+        isCached: true
+  - title: "How AI-Powered Tech Can Help Recruiters And Hiring Managers Find Candidates Quicker And More Efficiently"
+    excerpt: "The platform plans to unveil new ways to integrate generative AI to better help recruiters and job seekers succeed. The rollout will start with a limited number of LinkedIn members in the United States, India, the U.K., Canada and Australia on Wednesday ..."
+    publishedDateTime: 2023-03-15T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
-    excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
-    publishedDateTime: 2023-03-14T13:37:00Z
-    webUrl: "https://www.fastcompany.com/90865521/gmail-will-write-your-emails-for-you-google-announces-generative-ai-tools-across-workspace"
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6411f6a89f6c645164216cc1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "This AI-Powered Transcription App is Available for the Best Price Online Here"
+    excerpt: "Voicetapp Speech-to-Text Transcription is a great example, serving as a text transcriber that embraces AI technology to ... Amazon and covers over 170 languages and accents when translating recorded audio. It also can translate 12 languages for live ..."
+    publishedDateTime: 2023-03-14T17:03:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/this-ai-powered-transcription-app-is-available-for-the-best/447291"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 7
-  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
-    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
-    publishedDateTime: 2023-03-14T19:14:00Z
-    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 66
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678390270-ENT-VoicetappSpeechtoTextTranscription-LifetimeSubscription.jpeg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps."
+    excerpt: "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ..."
+    publishedDateTime: 2023-03-16T15:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 7
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 57
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
+    excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
+    publishedDateTime: 2023-03-15T18:50:00Z
+    webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+    ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
+    images:
+      - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
+        width: 320
+        height: 224
+        isCached: true
+  - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
+    excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."
+    publishedDateTime: 2023-03-18T06:09:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 52
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_14_40_27_9076784.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gods In The Machine? The Rise Of Artificial Intelligence May Result In New Religions"
+    excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devot"
+    publishedDateTime: 2023-03-16T17:49:00Z
+    webUrl: "https://menafn.com/1105793231/Gods-In-The-Machine-The-Rise-Of-Artificial-Intelligence-May-Result-In-New-Religions"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/16/TC_30c2bimage_story.jpg"
+        width: 678
+        height: 334
+        isCached: true
+  - title: "Future AI Again Named One of the Top AI Companies to Watch"
+    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
+    publishedDateTime: 2023-03-14T17:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "5RbvYdAeT9p6PnvjgtHuoNgLhxed9BX3RS9I/eCPcPlWlRVKsd0cxZhQuYB2Ua12mJggxGPuFAq6uE2xVJTktop29i8aLLeXU83Sicrt863o1TVf2DQmeE76tVgmGvqVBzLdPQ0p2V4wdVgAHT0yUsWpVoZcjJx15FNUB4TvjyKasdK3z+bvGYLsGjejGZDVSCFj0l31XDSF3dy9b8N9T/BpxYD25MsbiQHYnfLcYiVxqIeQgftryuqUEEpMBBSToJ2D9NazuvYTX2QD0A/Jn0fthD9i+bQr2dSk1mkp2kHG3X1/zXfwbpq3pUF9weuUj8smUXFZh8yWqYj9eI+6m1cnYAd/aHz8O/63k8SFi7kA7yOfvvC2h+8jDe3C4wuyzGcemYgIDHGKNu3CUeLD0qldURMs9w6Fh/7Hq+iZT9U5b5rcav2XSoHFwA9elDXyYyAV6KUxd39LbEBa+8Pzm3ONxQW4evwfo7UGMjz0zmvDVyYqO/v328d2Hclm0jBjmLazMUEt0/1I+0lot/E84g==;F6/j6gJ+zy0I9sA7tNRW8A=="
 ---

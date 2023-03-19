@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
         width: 1200
@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "Generative AI and what the future holds"
+    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
+    publishedDateTime: 2023-03-15T09:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
     excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
     publishedDateTime: 2023-03-15T13:24:00Z
@@ -66,15 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
-    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
-    publishedDateTime: 2023-03-14T13:48:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
     excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
     publishedDateTime: 2023-03-15T09:13:00Z
@@ -89,15 +96,6 @@ related:
         width: 404
         height: 404
         isCached: true
-  - title: "Google Workspace is about to put generative AI to work"
-    excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
-    publishedDateTime: 2023-03-14T13:48:00Z
-    webUrl: "https://www.fastcompany.com/90865094/google-workspace-docs-gmail-generative-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
   - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
     excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
     publishedDateTime: 2023-03-17T17:48:00Z
