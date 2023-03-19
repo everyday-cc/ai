@@ -2,27 +2,19 @@
 category: news
 title: "From podcasts to AI: How technology can help stop problem gambling"
 excerpt: "To combat gambling addiction, AI can act as a friend who might tap someone on the shoulder at a casino and ask if they need a break."
-publishedDateTime: 2023-03-13T17:51:00Z
-originalUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-webUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-ampWebUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
+publishedDateTime: 2023-03-13T17:59:00Z
+originalUrl: "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
+webUrl: "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
 type: article
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://cdn.scrippsnews.com/images/videos/m/1678721308_AhQicn.jpeg"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "dQkpgfhpCYkfztN3wMmEfYsHVIyUIYXtqIvQwzJ4sYJk+A54g/7AS5gJr2CLqL7PF4VoJUoibBcpMNCdjOcuN0PD/7p3dmPGhYavOLd6wPb4zTD2qkSvw8WbpvU2vjEZ0uVGJC2xo2TTPLM1FMalV3dCpA1gkcxMdPmj7/K42k4lNTNG7HR6OxmfYXEQLS1Vtw5ssXzhAL8kJ086uQX/3QzU8xvMNnvVaUCrhOq4QJ3bHLQbP9LL2qm1Lx8IEijUmPMjkoeaRTs1DcbH8TD3bxR5iuTDVsnEn3hpa9WZAM5IhpnKyYj4H5qKFqpa3q8SIxDottXHCvzEcJBUvcYje7ZTpeUQ/sDj8y0062ztfTg=;b9VDL++xlEd+z98GVwDbCg=="
+secured: "SYk5QhZZtaip1YT/qTc1ZiMnxqW8D993JD1b6QKq9Vw/prCwpEE5EcUBnovkn6yfA6iJD3QG9fZRLiwuYnnMsWZYR4FXeAW+K4H2wIbCtrhtgQ16tklJwb8ZqnBeinXB37Jb2UFuPIHgG0pUuHfZZFr0zg51lmtJ3rUKNQvNUtpVr5ybWyTh+JP3SC+WLzAZjUPPTMYg38sd1CMJX+oN8Ch289+I/D+AI8+arDRYGwGjwWIqL57kn95Yx9S61KD1ioZK1FE9g68/fJQA1gQmF4Gep2Ia9RsZ13TPrX/zxifXQNfKHeZoJQg7pizWVcvHR6zr/l5r9dKrB4YkefRcYPvFvWLohJpZdwXc6lGWSUHIOzelC8Q7h7V/3Fr05iKamaaIOmcAVJcWjooCfIxg4Bug8MGTtbvu2BydcVH5LjKYTlfg7OkKP2s830mBhdY+LTBM9/LYAXIjIJMsNUS8C1BwJvjUDmirUbCOXjNumg+Lv8FbTM6yFwWYJNg35jusT+Tq8JLJhqWdgQGTnbj2nw==;XLxcJboQ1sdKGYZew0LOJA=="
 ---
 

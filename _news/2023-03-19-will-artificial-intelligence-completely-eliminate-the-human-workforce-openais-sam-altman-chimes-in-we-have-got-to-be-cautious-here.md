@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2023/03/19/artificial_intelligence.jpg?width=1200&height=800&fit=crop"
