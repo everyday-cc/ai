@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holl
 webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
 type: article
 quality: 67
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Five Things Marketers Should Know About Generative AI in Advertising"
+    excerpt: "The creative industry is slowly beginning to use the technology, captivated by its ability to spin out ideas and mop up drudge work, but leery of its sporadically kooky output."
+    publishedDateTime: 2023-03-16T19:13:00Z
+    webUrl: "https://www.wsj.com/articles/five-things-marketers-should-know-about-generative-ai-in-advertising-5381c1d0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-739027/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The stupidity of AI"
     excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
     publishedDateTime: 2023-03-16T13:13:00Z
@@ -44,6 +74,29 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "PL-AI: At the intersection of experimental theatre and Artificial Intelligence"
+    excerpt: "PL-AI Civic Theatre, Tallaght ★★★★☆ When you invite artificial intelligence to spice up your evening of theatre, you’re never quite sure where it will take you, but re"
+    publishedDateTime: 2023-03-14T11:52:00Z
+    webUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-at-the-intersection-of-experimental-theatre-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 48
+    images:
+      - url: "https://www.irishtimes.com/resizer/pKHg5x9gitdfRmv43WXiScdJcgQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JEQDDVBQEVHFNPH5FUQ3UNANVY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Media execs weigh risks, challenges of generative AI"
+    excerpt: "Six challenges that media outlets face around AI tools, from the misuse of AI to generate misinformation, errors and accuracy, to job losses."
+    publishedDateTime: 2023-03-14T11:29:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/03/14/media-execs-weigh-risks-challenges-of-generative-ai/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 19
 
 secured: "iqwyjPswgPB3roUSuVow4NEcl1U8TnrQB7vXAT0andao/yitGwdIROvQCo9LDtiF/z69w3dadInbjyzPi6gkQyzRm53gvMPFa9pC6ogcUPoIs7WMtYPfv4d3HE5HrCeouHz5CCUEzWL15jq5dSQ/JRxuPaum30Pf0WhW2gVkqu5QhEWfpKBwgwLGZkN5bZGQ+84q9urTFJxtgtqzZOaIgQDasaEqKsIGZH4CRDpHJQUqGTkgBFvUiYCTu+DxcoROFOD9TFt9kcMIsNljwnOUfN05DwzxdmAZtGD8MCMdMBfoSqlH86acKAsJw4DBiMVRQ5NYby0bIPJJeESHIvCR6M3vLww1O4ku80iqWUWBf4A244WWNCFoj5prKwfa76j0KIOtvVLuBfACGDCSpgb/1IIQVFSPJc79tGGwo6WyRR9IaQrF0J/gurDxGDSq+p6ZJgDGnnjyWZnc2b79bVe1DWPBrFU6i0jqBicF2AxWxX4CnTOEnG4nMLVeAhC3pvKEfiIg+ZwN0yBKfHNuJOmdAA==;GZWjM0Tbb3fNAs46aG/laA=="
 ---

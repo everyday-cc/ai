@@ -1,24 +1,46 @@
 ---
 category: news
 title: "Noda Chooses ThetaRay AI Solution to Monitor Open Banking Services"
-excerpt: "Headquartered in the UK, Noda is helping online merchants in Europe receive direct bank payments from eCustomers via a secure and instant one-stop open banking payment solution, as an alternative to cards,"
-publishedDateTime: 2023-03-14T09:47:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
+excerpt: "Noda, an open banking fintech, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced they will collaborate to enhance payment monitoring and compliance capabilities on Noda’s growing platform that is supporting ..."
+publishedDateTime: 2023-03-14T09:09:00Z
+originalUrl: "https://financialit.net/news/open-banking/noda-chooses-thetaray-ai-solution-monitor-open-banking-services"
+webUrl: "https://financialit.net/news/open-banking/noda-chooses-thetaray-ai-solution-monitor-open-banking-services"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 84
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://financialit.net/sites/default/files/noda.png"
+    width: 1366
+    height: 768
+    isCached: true
+
 related:
+  - title: "Plex Chooses unitQ Artificial Intelligence to Gauge Sentiment, Bolster User Experience"
+    excerpt: "PRNewswire/ -- unitQ, the leading AI platform empowering organizations to take a user-centric, real-time data-driven approach to enhance the customer experience, announced today that"
+    publishedDateTime: 2023-03-14T15:22:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31344211/plex-chooses-unitq-artificial-intelligence-to-gauge-sentiment-bolster-user-experience"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31344211"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31344211"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Noda selects ThetaRay AI solution to monitor Open Banking in Europe"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-03-14T10:17:00Z
@@ -28,7 +50,16 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 34
+  - title: "Openstream.ai® Enriches Its IP on Multimodality, Adding to Its Unique Set of Conversational AI Capabilities"
+    excerpt: "Openstream.ai, the leading provider of Conversational AI and Virtual Assistant solutions, today announced that the US Patent Office has granted Openstream.ai a patent for its unique approach to multimodality."
+    publishedDateTime: 2023-03-17T21:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/17/9779077.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
-secured: "SagaI8F2AQRTs3WAjPyJsVcQCR0XJoKg4lYggY6i8cRXtFeX6Gc+Yb65f6Pk79v5oztAVXJwKfJIovy8l8IljdLQD2fklyhHKNRkXi65gm3CmCRs+6kEt195fwfGEvwq3QqRtMP0/31lhs23kxX/jjB8pQyI25rOTix98hJ/UF3xUkkLIadyATsvpNXrA6oIOxtMoe09WsdyaBuxh7wyv7Nu8rYSWlfh3mYMkP1D0ephyXxzV50rXckc8youNf6mFoQ63wg5aqaiIPhsqm7ZRQdmD6aZw5nECZYLpNYCmVdxgcINlW5/zvsm5AFss5cZsB9Sw2UL7PcKVfxHBhG1W5vKzf+fz5jOqX+ukJZ+883UKxlpo3DCxU98h151joYu5Lbap4W2KH5+BptLrmUnHyFxv/84ybggcv5d8Lr52VznBpSKNAcK/++3eND0xKn1RdQKvp+KPHgiImZlQulQ6B+0VcMHPwqxPfRAd9efMkioImvGeqSEOaIWYByzkTvQRi+l1VvhFfoktlBDjO31HA==;nfHRp0gl3wnHekNxxw64xQ=="
+secured: "4lOU/HnMsieAyG5Hyw1aXFeXJiI3fxQWE2LyI+7KcCWeK2Tv2TvvpdAMXtWagAEmCDCcSYVcYsK4vkLfSe88XI8VgpoDoGlXMpJPSrpj444NDW0NEMYRzc0ZoPAbFQja6vACu7o4sFIbq+RGyuFpWCwtHWpy6w4tRcnbbeX/ldlE5EKosHua2xO//CzOMW3lLdHP0EJ48WEn5FrFnvaEf10uJpJ5eV2Wcq10xiJ+AMSlU2Mm/aJtsEtWZXpp9SlsUjg+alIxoJPk0WteMU523ScZmXlaD9/7SN3CG01xYJU/sakGpblNiRTx/mM1jgGWlziqvEQBH+PWW80KEmptIZTZjegNDNtwrpTRSTe/j08=;jYsz/dcz9Ft1lt9G1jWEFA=="
 ---
 

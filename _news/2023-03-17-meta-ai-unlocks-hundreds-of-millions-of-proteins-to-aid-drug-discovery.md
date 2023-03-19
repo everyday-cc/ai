@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-
 webUrl: "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

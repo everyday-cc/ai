@@ -43,20 +43,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "AI and Its Implications on the Indian Healthcare Sector"
-    excerpt: "Artificial Intelligence (AI) is transforming the healthcare industry in ways that were unimaginable just a few years ago. From disease diagnosis to drug discovery, AI is making significant strides ..."
-    publishedDateTime: 2023-03-14T06:20:00Z
-    webUrl: "https://www.dailypioneer.com/2023/technology/ai-and-its-implications-on-the-indian-healthcare-sector.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/ai-and-its-implications-on-the-indian-healthcare-sector-2023-03-14.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Salesforce’s AI solution for Air India to improve customer experience"
     excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
     publishedDateTime: 2023-03-14T16:27:00Z

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "So Your Clients Want to Invest in AI? Here's What to Know"
+    excerpt: "Other ways to invest in the coming AI boom include via adjacent industries, such as companies that specialize in cybersecurity, data processing or chip manufacturing, Loukas says, noting that AI needs all three in order to continue to grow. To that end ..."
+    publishedDateTime: 2023-03-14T18:08:00Z
+    webUrl: "https://www.thinkadvisor.com/2023/03/14/so-your-clients-want-to-invest-in-ai-heres-what-to-know/"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 19
+
 secured: "d881S7aAiKusQkjFMF8mPMSS1TA+b8x4zFclt4CQJ5Ow+c5iYTU04q42YJGIpflE7n79iSVyTZcdr3ipeTR3mMYxIf+niXEoVk/IPZs13C3KsOB30fxDI2kHOfNIPywz8AloOtKrMsWF8bui4GgCbbC/cs3yIUKvu2EC6iT9Br+cQzHd5zvRkt9DcPHBfeF/KXEF0zLM01JAA1/xpmXpF4RERVZ67PKSF48h0R8oqHbuzyNS28c2SwXlVkqqCULfIhN5CpOJPnj7nEouSP3/mGfyE6d0lGMpt/wrI49h98SBWEC/NujEW8+tyUidLmmBiwkrVvBPM+ITpwLNp3Oq8YFoeXKdjd2Aned/0Y4flYd/96ukNsyDz5EtMaHuQYbR41+ycrfRwyu5GBAxrxgiwDto69MPkLBuhaLu1InfTiDIylwQQOjCtYjtG7zBfU4wxXZptirXBXE3YiKgDbXhpNO8I1xjKKhUk9lysK3dxeRjoiug8z64Bdycd/L7H3gcVWCBM2+/dC+RKQa0rQ7dYg==;eGCCbwTO/3EQMZNaKtdgBg=="
 ---
 

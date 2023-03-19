@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Five Things Marketers Should Know About Generative AI in Advertising"
+    excerpt: "The creative industry is slowly beginning to use the technology, captivated by its ability to spin out ideas and mop up drudge work, but leery of its sporadically kooky output."
+    publishedDateTime: 2023-03-16T19:13:00Z
+    webUrl: "https://www.wsj.com/articles/five-things-marketers-should-know-about-generative-ai-in-advertising-5381c1d0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-739027/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The Truth About Artificial Intelligence and Creativity"
     excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
     publishedDateTime: 2023-03-17T19:41:00Z
@@ -45,6 +75,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "PL-AI: At the intersection of experimental theatre and Artificial Intelligence"
+    excerpt: "PL-AI Civic Theatre, Tallaght ★★★★☆ When you invite artificial intelligence to spice up your evening of theatre, you’re never quite sure where it will take you, but re"
+    publishedDateTime: 2023-03-14T11:52:00Z
+    webUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-at-the-intersection-of-experimental-theatre-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 48
+    images:
+      - url: "https://www.irishtimes.com/resizer/pKHg5x9gitdfRmv43WXiScdJcgQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JEQDDVBQEVHFNPH5FUQ3UNANVY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Media execs weigh risks, challenges of generative AI"
+    excerpt: "Six challenges that media outlets face around AI tools, from the misuse of AI to generate misinformation, errors and accuracy, to job losses."
+    publishedDateTime: 2023-03-14T11:29:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/03/14/media-execs-weigh-risks-challenges-of-generative-ai/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 19
 
 secured: "G8d855IxGSdv/tSYRd3FtkP1/oJAo0U72ppc9FtCniQ5OSz1plbUH3xzaEslNVc3U85Jgf0hS+r/b7FbP88IDl6uVrs7wnsBCp4Tv2rjtU2iuRXl/WFlNitVXfZfazVboZdz4gSACOSMn2GCAoiEyREBo5olXwCFjZsNyCDDZLrZCnH8Ri6csqWtAcvAfEkyzCXsu9RILAWE69utYHUPlsZKnOYpqee6ZWGRqAVrHtT3+ag74EwYT2wx85Wt7uM0v6Ct2fn5wIhSUHl39lHhEhHOZu01qxqSUM2olBqK6acQsnUM5q3SySPusNrCevuRPK7ujMxHAndoqoU3aWF/cpKM7VEbU0aW9vMqmt6d2t6DKFqFNiNrxWJ+3IGvmxThD1Urbvb+0LpLapbyEKqYKt4zcSLDL89NXh6hMCw61Z6mUgmtvmpq9ECiahpkSlqgkZswuMsX5TsBD6W2Ld849vs7tTNE/bBq/uMOSLZjyuXjUEXcAJYioZ/R8+zFlKwhFsOYIfQx+9JZf8iRYZjwQQ==;e9wkbyXRRhF7P5HuPXxabQ=="
 ---

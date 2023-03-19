@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
+    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
+    publishedDateTime: 2023-03-14T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "nsQvyP2kkYCEU2+qXmNf5qZ4hij9OHhgEgAfHpex3uBQ+TyNoaRUQ8Ir4iV6o5T4LyqTMbxzEHQoInSU8lS510Xi+k8g/RYLUP7FkzyY99spY3QifUkOJQ/qM5y1QNPLeMfo47DVt6BONa+jQXiQbj13E1jwcTq9OYRYra6G8LXNIcqlXGUKq+HgKJycOTskfiJKybUZB5Bjeq12F1cXl0M/aHkjbq3zVrLIc98OW8ENPBuyF4lAJ/Y2eGRQDjBwf507XsQXDzx/r4eOyXcn6wMYE8qvnVxaxQwWR8oMilxUNxYoRzw6QZV6Ktial6sbgiGppAbBQ8H0DVbGelspT/jMbLFbcA124V40KYL3qV+dmMaxZTxkR1hqCHExJ+TIJeG7oVsCCGQW2Ndool9ZFHpHAEu6LHFPF5w2/WhqCAoJ9NuIiYzcmc8qMCDD/IJCpVPGx+Pipq3D9xPX0sN8n82sZ2B3MA+o7ZZ4cKRmwYuKGk8aLOz5E3ILwzTs6WA6+qV6ZfKtovA1CNMdsCy0PA==;CtYWRFST8Q8sihcsTrSCyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

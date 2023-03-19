@@ -3,18 +3,16 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: ABC 10 News
-  domain: 10news.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI Ethics
@@ -22,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -279,22 +277,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Microsoft fires ethics and society team with AI division"
-    excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
-    publishedDateTime: 2023-03-14T05:40:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 91
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/03/14/1341603-microsoft.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Microsoft lays off AI ethics and society team"
     excerpt: "Tech giant, Microsoft has laid off its entire ethics and society team within the artificial intelligence department of the organization. According to employees affected by the layoff, the development leaves “Microsoft without a dedicated team to ensure its AI principles are closely tied to product design."
@@ -651,20 +633,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Microsoft Lays Off Ethical AI Team In Chatgpt Era"
-    excerpt: "Microsoft has laid off its entire ethics and society team dedicated to ensuring artificial intelligence (AI) innovation"
-    publishedDateTime: 2023-03-14T05:54:00Z
-    webUrl: "https://menafn.com/1105770531/Microsoft-Lays-Off-Ethical-AI-Team-In-Chatgpt-Era"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/14/I_01675image_story.jpg"
-        width: 400
-        height: 250
-        isCached: true
   - title: "Microsoft Cuts AI Ethics Team"
     excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
     publishedDateTime: 2023-03-14T23:53:00Z
@@ -887,22 +855,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "TCS launches 5G-enabled cognitive plant operations adviser for a Microsoft platform"
-    excerpt: "Tata Consultancy Services (TCS) announced the launch of its 5G-enabled solution, TCS Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform ..."
-    publishedDateTime: 2023-03-14T05:45:00Z
-    webUrl: "https://www.freepressjournal.in/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 53
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/c1c84af3-5e1c-4fb3-ab48-760957537d02/Untitled_design__38_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
     publishedDateTime: 2023-03-16T16:50:00Z
@@ -1000,6 +952,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "hmluttG50jSmcCjfckZgXPzIt3Dp211dqELlwub9yYrKKzCZlGKQZqLCYDKnmjQ8IKLr6c0lr1O0EU7yXF3gilNJsdMZNPTDYPXhewyXMEiq74+ZCzrbm78QEM0SST/tnG7up/bWD4fljTum/ypBpl1EHXQBOrdVbpnhK9qRvmSakQ3FsW6qcKRRP+aONNek6HIDTCn9KvjVnobEzF2hTsxv9hCmHzraAj118jNF6hk2dhzDMT2vXRbPzpDTWJ9vvoEm2mK4NvMrjBPsKNwkfib+QWsSv5kW4dbVktCovB0wTEQY4/L5BzVriteJsloqnDPmZJ1GkOg5d69nRNkmIsd1ybNUW6qkHedDUI5iaoc=;43TnLjQfuS6f1JyZwFykuQ=="
+secured: "uPn5OtpKXQqaXTXPT87apVrEipXVjwzhE6EzjpAR6NCZsI+ZFnQi6S/84yYDiQMs+RzvBKHFJlAmECDz3yKat/lUBkkI0/vAi9pcWE+4pgM+vh2yVRbGMSgqtW1Qx4RSLB13tNeBHbER0siERikOE68h2V9CKE2gth5kKAvGSK6PHspYtCUYpe1U4tEdbX+R+HLcvJzxnlUwmPGb5RP827/DDe0Tjpvgzi3zm6N/O9/ZmemHOtkwLk3tsoewWgVpdZvbwQI6Nhhr6BZqCRA0snhSeCxNEZvf0kk/o4dd1zYGpE58CKXN5guGB08tyQvWnSlJXmHaDPKEJPRKM85xVZ6FIaWNpK/JaQXEphcEgzw=;5fG/iUC0R2ndfu8hGNkggg=="
 ---
 

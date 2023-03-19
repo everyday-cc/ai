@@ -278,22 +278,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft fires ethics and society team with AI division"
-    excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
-    publishedDateTime: 2023-03-14T05:40:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 91
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/03/14/1341603-microsoft.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Microsoft lays off AI ethics and society team"
     excerpt: "Tech giant, Microsoft has laid off its entire ethics and society team within the artificial intelligence department of the organization. According to employees affected by the layoff, the development leaves “Microsoft without a dedicated team to ensure its AI principles are closely tied to product design."
     publishedDateTime: 2023-03-14T08:34:00Z
@@ -389,22 +373,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/microsoft-openai-chatgpt.jpg"
         width: 960
         height: 540
-        isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    type: article
-    provider:
-      name: ABC 10 News
-      domain: 10news.com
-    quality: 91
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
@@ -651,20 +619,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Lays Off Ethical AI Team In Chatgpt Era"
-    excerpt: "Microsoft has laid off its entire ethics and society team dedicated to ensuring artificial intelligence (AI) innovation"
-    publishedDateTime: 2023-03-14T05:54:00Z
-    webUrl: "https://menafn.com/1105770531/Microsoft-Lays-Off-Ethical-AI-Team-In-Chatgpt-Era"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 71
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/14/I_01675image_story.jpg"
-        width: 400
-        height: 250
-        isCached: true
   - title: "Microsoft Cuts AI Ethics Team"
     excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
     publishedDateTime: 2023-03-14T23:53:00Z
@@ -690,6 +644,20 @@ related:
     quality: 71
     images:
       - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -886,22 +854,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "TCS launches 5G-enabled cognitive plant operations adviser for a Microsoft platform"
-    excerpt: "Tata Consultancy Services (TCS) announced the launch of its 5G-enabled solution, TCS Cognitive Plant Operations Adviser for the Microsoft Azure Private Mobile Edge Computing (PMEC) platform ..."
-    publishedDateTime: 2023-03-14T05:45:00Z
-    webUrl: "https://www.freepressjournal.in/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tcs-launches-5g-enabled-cognitive-plant-operations-adviser-for-a-microsoft-platform"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 53
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2023-01/c1c84af3-5e1c-4fb3-ab48-760957537d02/Untitled_design__38_.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 675
-        height: 380
         isCached: true
   - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
     excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."

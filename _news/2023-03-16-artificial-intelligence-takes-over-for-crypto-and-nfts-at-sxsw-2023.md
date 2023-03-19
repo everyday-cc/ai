@@ -24,15 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Crypto Are Combining to Create Web3's 'Multiplayer Era'"
-    excerpt: "As AI art tools show us how to communicate ideas quickly, Web3 tools help us create projects together in more equitable ways. If you want to bring an idea to life, you can now get your first ideas created fast. If you want to start building a project for ..."
-    publishedDateTime: 2023-03-14T16:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-and-crypto-are-combining-to-create-web3s-multiplayer-era"
+  - title: "At SXSW, It Was Goodbye NFTs And Hello AI Music"
+    excerpt: "Where have all the NFT bros gone? That was the common refrain at this year’s South-by-Southwest, the super-sized music-tech-culture conference wrapping up in Austin, Texas."
+    publishedDateTime: 2023-03-18T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/"
+    ampWebUrl: "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6415f4d68056a378f176a1f0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "At SXSW, Artificial Intelligence Fills Crypto Void"
+    excerpt: "A big shift at South by Southwest this year is the buzz around artificial intelligence and the relative absence of crypto events after a bonanza last year.Last year, crypto was hard to escape at the tech and arts festival: SXSW attendees sipped on mimosas at a brunch for women in Web3 or waited"
+    publishedDateTime: 2023-03-14T22:00:00Z
+    webUrl: "https://www.theinformation.com/articles/at-sxsw-artificial-intelligence-fills-crypto-void"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/10042/5bdaad57-d38c-466d-9a9e-84b1f635f5fe-I8V0hk.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VBQOdRcEudZWZQG+gD7u/xKEDu/8lO6VJZGSV3VCChI4PzUsFCjkZafzxBFZSstR0m9+NTwE5O98H78XxjvsP7/268bX0rcE7s9rr5pfKhGYHEy63cHToZlDzb5iZtK6DLIsQdMS+i2m8GGNUqSA4twBnHVkQ2htAN5FX/WVg1OJNJpML+BprQtBNcOQEbjbeAgKsFn5nJCCXptirFC5Rej+mwAT/7vBFJT9uirMbBM2usfkVvhRI8Fwt1A3LOULNmFzdu1yUb5vdDwu1lJ10aQnXTndE76MbtyFK3FT8SD8rvishm6trZa4Z6BnL/SbRQggyts2vNaDSe+gueAhHQFdez36CO0XIht32GUgvLQ=;kkoB8UC15IVt0W4qD06tCQ=="
 ---

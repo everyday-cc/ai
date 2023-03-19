@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/stocks-gaining-rapid-market-share-
 webUrl: "https://www.businessinsider.com/stocks-gaining-rapid-market-share-ai-disruptive-technology-2023-3"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,26 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "3 AI Stocks That Are Revolutionizing Retail"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
+    publishedDateTime: 2023-03-15T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Artificial Intelligence Stocks Over $100 for Your 2023 Watch List"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Every business that uses digital technology is trying to figure out how they"
+    publishedDateTime: 2023-03-17T16:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-over-100-for-your-2023-watch-list-1032176428"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "rMdxWLm6TGaE9VCNk9sbHA/lvEKkf2dusLC1xOizpRCBduhCm8ODJkX8IMewVI4eSCuiYS1sQv7mSYV2Qb+j5FdLcPhNkTIOeluYRHFLHod+AF/JDza5kr8lmziNnSVJLYgNquVD2JcShksam2Tf+9kfasBpZgjxbZSDwcO421SoVN/F6XtPIjG973V0+VlXM4M3XNYISz4kivlwIdpFEco4Ng/zaD+hYSfdGsZm+zQVUGfwMnvLltoFWHunOhTM10Zrxpl4vTZGfCtueIwiZYiGgyWterm7Kr7d9QM3nzttHzTOw+byxPDt0X+So4PgEx/yoMb6A1OuWQpIRV2+a2N+XOocWAqL4E1SD+DVwDcamk0kvzyNCtwMrQ+QFt9FgqjdNUH8cABqqTYJluX+wwZuiox41UGwQDtwGQByKIYRU9NcTSEBCnpujrSDiiaqS2xRxbF6omkbL5GwFqOkQ9tDd9UHLhqv1mGQqDo1XI4R6O9tgdLH6VRPZpkvDS6KkUDdxYkqKCMTuQapxNNApg==;7x17HJzIqmLR42MJZJvPig=="
 ---

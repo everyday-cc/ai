@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-18T08:36:00Z
 originalUrl: "https://menafn.com/1105807038/Artificial-Intelligence-Emotional-Recognition-Market-To-Grow-By-USD-8362-Billion-By-2033-US-Crisis-Impact"
 webUrl: "https://menafn.com/1105807038/Artificial-Intelligence-Emotional-Recognition-Market-To-Grow-By-USD-8362-Billion-By-2033-US-Crisis-Impact"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://menafn.com/updates/pr/2023-03/18/EP_f127fimage_story.png"

@@ -61,6 +61,20 @@ related:
         width: 1197
         height: 673
         isCached: true
+  - title: "Startup that trains AI to do tasks for you raises $350m"
+    excerpt: "Tech startup accelerator Y Combinator said Monday it was ending ... But Adept aims to go one step further than having AI give answers to questions, by having the software actually performing the task. Adept envisions the future of computing as one where ..."
+    publishedDateTime: 2023-03-18T22:09:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/startup-that-trains-ai-to-do-tasks-for-you-raises-350m/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 37
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/03/AdobeStock_567943961-1024x576.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "uJmgXg8/v8z3WOAUwltS7vQgIHZL2PXx/ZVVR6oLJWOhs7M2NYaeeU1FQZ2g2g74TipOSgONvDjkD17jUgxPh0NLbKx8Iohe6Q8Oi5zxseQMhBWM0U23jT8D1F8Ceo8zwfcCpTJMX6zZ8v5p0wAQ+2QFvtEA1cJzpeNIo+4M4U2MOc7WI6ioXBgP9ueVDBSPbfOX2HDX5tdEZfGLwtfsd8tb1AELjrLas6UuXWr6pC363tnN307DVI2jg/p7R+tE2Qx00WgHafXbmsMNSVMdmQtwleMiqeXM8ltI1n4z3i/HikPuDsKvy4BSkigbH3nv1gzhfjWFQb3+AVbwvyh8H//0zJaQM6gqaDsQfiQYaiSQvBNXxFValpHhPRodRbnLqFKl5OJQ9JW+1+yTUPlsly3BPdlWsNAvIwTeo8zcCPStun+BJ2P1TRaNKGDTJCpPeS+3OqR0M8ih0vMGG/XTSaH1URwbfqA8D0O64U5CdAaDKllIQmemX96R3PrwCgCNGtg/6rn+dbHnZxqhLJKgxw==;FtyVmscN/uTrr74SJKA8kA=="
 ---
