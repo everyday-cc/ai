@@ -53,14 +53,19 @@ related:
         height: 628
         isCached: true
   - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
-    publishedDateTime: 2023-03-14T19:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
+    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
+    publishedDateTime: 2023-03-14T18:37:00Z
+    webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI startup Adept raises US$350 million in fresh funding"
     excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
     publishedDateTime: 2023-03-14T20:59:00Z

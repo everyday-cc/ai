@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
+    excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT."
+    publishedDateTime: 2023-03-15T15:07:00Z
+    webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
     excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
     publishedDateTime: 2023-03-14T21:49:00Z
@@ -211,6 +225,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
+    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
+    publishedDateTime: 2023-03-19T09:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
+        width: 750
+        height: 393
+        isCached: true
   - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
     excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
     publishedDateTime: 2023-03-16T16:01:00Z
@@ -255,15 +285,6 @@ related:
         width: 829
         height: 552
         isCached: true
-  - title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-    excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-    publishedDateTime: 2023-03-15T15:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
     excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
     publishedDateTime: 2023-03-14T19:16:00Z

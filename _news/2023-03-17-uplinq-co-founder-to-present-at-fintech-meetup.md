@@ -19,37 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Bankjoy Founder & CEO, Michael Duncan to Present the Latest Digital Banking Innovations at Fintech Meetup 2023"
-    excerpt: "Michael Duncan, founder and CEO of Bankjoy, a digital banking provider, will present at Fintech Meetup during the Solutions Spotlight session on Tuesday, March 21, at 9:15 AM in Las Vegas. The Fintech"
-    publishedDateTime: 2023-03-14T15:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31344232/bankjoy-founder-ceo-michael-duncan-to-present-the-latest-digital-banking-innovations-at-fintech-me"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31344232"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31344232"
+  - title: "Advanced Fintech Puts Qatar On Top Of The Region"
+    excerpt: "The Peninsula The 9th Islamic Finance Conference titled ' Islamic Finance and Challenges of Web 3.0' kicked off at the"
+    publishedDateTime: 2023-03-15T09:33:00Z
+    webUrl: "https://menafn.com/1105783440/Advanced-Fintech-Puts-Qatar-On-Top-Of-The-Region"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://menafn.com/updates/pr/2023-03/15/TP_cd180image_story.jpg"
+        width: 600
+        height: 375
         isCached: true
-  - title: "Global Fintech Market Size Expected to Reach US$ 449.1 Billion by 2028, Facilitated by Digitization in BFSI Industry"
-    excerpt: "Moreover, the escalating integration of fintech solutions with artificial intelligence or AI, machine learning (ML), and big data for detecting unusual activity, preventing fraud in digital banking channels, and improving the monitoring of financial ..."
-    publishedDateTime: 2023-03-14T22:57:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31352017/global-fintech-market-size-expected-to-reach-us-449-1-billion-by-2028-facilitated-by-digitization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31352017"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31352017"
+  - title: "Staffing Challenges, Regulation for Digital Assets and the Metaverse are Some of Fintech’s 2023 Trends"
+    excerpt: "SRM (Strategic Resource Management), an independent advisory firm serving financial institutions and other industries across North America and Europe, recently shared commentary on the trends it predicts will make the most-significant impacts in 2023."
+    publishedDateTime: 2023-03-19T07:00:00Z
+    webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 8
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aabcf7a/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa1%2F80aec323458089245d30becf9c51%2Fbusinessman-atm.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "36ktC8cHMyyQ9yMFMQUfm4qic0ZtZFpOnK5imNVqGP2aaWTSOahTpE3q0LrpBZb2XMZWy37AJATio5ltxo1+nx7roL5BuNJNmu6NN/r2uEMScUk1cBrttlEeyQkym5r5qWT+2Qq+ZgO7Mx6pC8PT+C2Ok21GkjR5mn3Glw3Nf5toGwc2ohO+XoFFFASnknBobDWndYqOZAB+/FHwdFzbVc1p/rdq+RrP0MigSr6QJf20092iAjNe0OSEA2aSZcdRcP67UIR9pK3kTnT5GVyO3T9IMJ+uEWTy0QsWCBHv/wsyerks5sGN3Ik/QMimEQdGghAMeGGCFD2ZIMKtejFxxsVJ77LBnptRwT839lJi0zM=;Kmug5iJmonBl2HBcvSKBwA=="

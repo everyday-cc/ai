@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "\"Marriage In Hinduism Is 'Sanskar', Not Contract Or Enjoyment\": RSS On Same-Sex Marriage"
-    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
-    publishedDateTime: 2023-03-14T15:36:00Z
-    webUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053"
-    ampWebUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 35
-    images:
-      - url: "https://c.ndtvimg.com/2021-10/r0bni7l8_dattatreya-hosabale-650_625x300_23_October_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
 
 secured: "zYUa9phO1ZiTsfrwvdBVnMpeHIRksZsQv3BHSjBKJdgpUoKka9MtV5oElvrVjL8Yu1L9oZ4C2Bdl/BqeKDX5m65uS9SKpmELdIinEoHB2s9GHPvo5DP7xsQJI2crnO2z+luIxeJJblNXF3nW/94DYaaye+J02cLSDhzE0ooOGvH8d5LqCawYlqvsMdk7OuqBUW7/+EkON3vANiFbwud8dNBwf6ixPE3UCI1Vtf0xij9OIfUDUAWIOaQszpp+CXbv2ahgJnZNCwVext4fw5+py9xWcRs+0kRx/k9DgEUndEeImvICJ91tSIjugVjlczJX3Po5Bqq3RzFBzIZwaSJfM5OvfHZQtkcEzELPuImzwI0=;Fw4pw8pz1VO5cDdoqcKybg=="
 ---

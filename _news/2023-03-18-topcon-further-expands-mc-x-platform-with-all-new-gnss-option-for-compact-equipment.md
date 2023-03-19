@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Topcon Further Expands MC-X Platform with All-new GNSS Option for Compact Equipment"
-    excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company’s compact solutions portfolio,"
-    publishedDateTime: 2023-03-14T16:17:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-3-14-topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
   - title: "Topcon Further Expands MC-X Platform with All-New GNSS Option for Compact Equipment"
     excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile com"
     publishedDateTime: 2023-03-15T03:09:00Z

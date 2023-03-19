@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Midjourney Selects Google Cloud to Power AI-Generated Creative Platform"
-    excerpt: "Google Cloud today announced a new partnership with Midjourney, an independent research lab that provides a platform for AI-powered creative tools for creating visual imagery with natural language interfaces."
-    publishedDateTime: 2023-03-14T16:28:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776674.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "m/4DVGcY8s9F6/T4JGdUunQqv4BSEIG6TDQSUIwf8rXSmAL3sY8Zy/i7qmpANKCCQ04pZ91z0p+v+ajxgIMYPn/vq46XEX5oOWOti29J38noL1wKke2Oso1B/tvGwjBWauYNUJennIyb9O3TgEgyFNkRTcQazRwZGjG3iBZeZY8eA8fJaL+VMRIFEkp8yEWtC7miHklsTtJQOcndnR5a9Z0DtMNqtgIedi/zooPOqshYICLz/ba+pLzCWIMuv0VNsvl4YcfRqtliNrDqIWGdKspHSTCaDH3elgqjR5v3H942Eysv57f97CyWtrc2eJvR6Kq7tkY/wmmGmsXmZgSvcn5rQ866bOGsByps0avrlNdFoL4q8tYfq9E0dcM73/EC/UDJUEYlXacKlJul49X9Oa7/5LjyWrMP3GYjlEecEWmOIl2ZVfpcr68XqLK+HV14IypmnJI2D1HTpUaT5KG9dz24yrGeN9viGOYmu2xUVwXvoZQCV/tZH40u5c4W+Pi8jSN5jwupv8rIBB3Np6CWLA==;auHdRYLY1s22CNRzxeWmFQ=="
 ---

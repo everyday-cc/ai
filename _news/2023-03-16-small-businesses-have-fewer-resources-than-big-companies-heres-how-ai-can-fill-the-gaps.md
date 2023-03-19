@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This AI-Powered Transcription App is Available for the Best Price Online Here"
-    excerpt: "Voicetapp Speech-to-Text Transcription is a great example, serving as a text transcriber that embraces AI technology to ... Amazon and covers over 170 languages and accents when translating recorded audio. It also can translate 12 languages for live ..."
-    publishedDateTime: 2023-03-14T17:03:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/this-ai-powered-transcription-app-is-available-for-the-best/447291"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 66
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678390270-ENT-VoicetappSpeechtoTextTranscription-LifetimeSubscription.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
     excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
     publishedDateTime: 2023-03-15T18:50:00Z
@@ -150,15 +136,6 @@ related:
         width: 678
         height: 334
         isCached: true
-  - title: "Future AI Again Named One of the Top AI Companies to Watch"
-    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "E/3FTr5QU9ggdPYo8c/u3UEZLziCj6TZyIWadFDbGk5aAN4P1qnDk/66H/pEBL96pElNUMZmMOkA+fFPa5nQac+z7mERDud6QiOkukJ3Bk3zQOs6sJECDwcF38nqQXu8xdpEddcjSdkaKw2ewilLwfuTmTUVsLemnrV6lWIVutuXjOXlzbvuk9gxiI1ZhNfCvHpOwK+EnTtP3RuGbIFY12+fy3+eAjP3SUbOMqwXD2d3JHloYCYs8ABKQDsH9/fH0zzgipCO9WbYtQDabPcLdlg0apsJxEBBTZPmoSErLZNc1N8Bo0348HkiommOW9D4daNU2pmPjGDku0DmyOz+uaxbyJ0vShs2QUHOIoTpsIT1tRL8RN9/Fuz1s+Hce5UXr/7ORxCTwCk8P/Fha2/rxgDcJVAJU++MXnQ8r8xrVku5wt6MchoHAkLmn5rxDS9iWJa6Kd6RlC0bpU4ulufg0Pirbpm4iPkN0fILkSAg1kMT8hOdjU+/FF0vvTSEvohrvvqVpVbMk5fSaW0B+geLYA==;fnMP0yn6thhtc5pxOr+p0Q=="
 ---

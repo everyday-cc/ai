@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-publishedDateTime: 2023-03-15T15:09:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
+excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT."
+publishedDateTime: 2023-03-15T15:07:00Z
+originalUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
@@ -210,6 +216,22 @@ related:
       - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
+    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
+    publishedDateTime: 2023-03-19T09:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
+        width: 750
+        height: 393
         isCached: true
   - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
     excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
@@ -425,6 +447,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "4jPtIkIzwjJD015EJNN6BPRDWS9KKeQfaTZJO21OMdNieHLEPFSJyZBlO0atvM4xxzKi9cG5aBJeaBltP91Rzm09cbEUPTvktdi0PYxrtUZJTcP/BbpA4aSleW7KJQK3fH8k8xb23efQN5t4u2snyD739flZFEpR2Vo3ZhMTSnJlZF/aVjL3UQjCFE2CTNUee1ZyZKR6QuB67GLBwl3EnS2Kb+ShLNLYsfrtI7IWJhJ7QFKp1daFIF0WQ7ajkkmL1HZNli7mTpl15OHkIRsmiV+2vEpx61ukB8QtMr6/wqxkH3Zbp3kkIeKZ+BaP/s+bsuSHGFrx6h78i0OwVRn3dTMvnCae33nWufNWlcNA+KU=;cEu7svIidleptNQX9KHBdQ=="
+secured: "y1wIgZ7AWxrzH1SiJnH6wiTUwxbggvivpaMQ8fJ6TyJg83t7HhI8EHBObeZyPnK7Gd1MLY7WMmBtiitb5qip2pqxHUEAPUwtafQUksIGSwIESeCcQJW7MTr5RwdYVNMZtfb6QL6tInrpMFzk/HgzAgzP9eI0XD+AY3bPJLbVIvfUADBNVcR4EheYIxiKM77xzN4wF3eSxhgl0ptj+gqWKYuFbfNoNHL//gHobECBQLvhE9H13IgarewpwbtW1DAXkRUG5t05PKm4hSxZypUz3CoTqDCVmK37vG0JH3x5hkD3QLCfgQ5dzwspPGySTst9PUmWNQUpYDPzRTOcF/Cxhsvc5EYg8zlaotxQ8WRRPL0=;14TbnVNNqao7ZkGgbtBRPw=="
 ---
 

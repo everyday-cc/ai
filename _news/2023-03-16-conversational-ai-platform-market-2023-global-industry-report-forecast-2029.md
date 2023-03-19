@@ -211,6 +211,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Insights into the 2023 Individual Artificial Intelligence Chips Market"
+    excerpt: "Topmost manufacturers/ Key player/ Economy by Business Leaders Leading Players of Artificial Intelligence Chips Market Are: Artificial Intelligence Chips Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence Chips market,"
+    publishedDateTime: 2023-03-17T12:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market 2023, Regional Status and Prospect till 2028"
     excerpt: "Mar 16, 2023 (The Expresswire) -- Recent Updated Report 2023-2028 of Artificial Intelligence Market| TOP KEY PLAYERS in Artificial Intelligence Market Contain (IBM, Intel, Nuance Communications, IFLYTEK, Microsoft, Salesforce, ZTE Corporation, Infosys ..."
     publishedDateTime: 2023-03-16T18:15:00Z

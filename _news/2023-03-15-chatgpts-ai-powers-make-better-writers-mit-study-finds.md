@@ -51,22 +51,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Opinion: AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ..."
-    publishedDateTime: 2023-03-14T16:39:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbots-are-still.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
     excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
     publishedDateTime: 2023-03-15T19:10:00Z

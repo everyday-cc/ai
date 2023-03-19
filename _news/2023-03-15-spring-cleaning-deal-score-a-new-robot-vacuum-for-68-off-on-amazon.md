@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Best spring cleaning deals at Amazon in 2023"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-03-14T16:20:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-14/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-14/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-14/"
+  - title: "Save up to $500 on robot vacuums and get a start on your spring cleaning"
+    excerpt: "What sets the JetBot AI apart is an onboard ... WiFi-enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and cleaning settings, as well as telling ..."
+    publishedDateTime: 2023-03-16T05:11:00Z
+    webUrl: "https://www.aol.com/self-emptying-lidar-equipped-robot-221118513.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
+      name: AOL
+      domain: aol.com
+    quality: 38
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/f011967d-10f7-4f2b-aac4-3ff98345da00/thumbnail/1200x630/803bae18f1735894adc8e921cbaba836/samsung-jet-bot.png"
+      - url: "https://s.yimg.com/ny/api/res/1.2/X3ds0XA9BKM2u7bGRRR0hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA-/https://media.zenfs.com/en/aol_mashable_370/418ed8745b59770fba58e0943d223754"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
 
 secured: "lm79p/G8qOYZmumB1JWGKou9Bs6t7vA6P2T6xxQI2OI415z3pJaBmmpRJKyoWlTSDur8MX1brAvsg8r7mJNh0zAHE0y1r4hTW0DsuGFob+UVYhA2ZE/vBg0mx8BsV2X4xwywMCnfnaBaNUpiQId987rWECDIzRdjEUABYHet5kejZoCo6V+ggJF2AdTrRL+sV3qiF9vMx8ylzYhqsCiOlqgDUgkhXuTXymCMIGkJN8AbtV7Vw03oR0pZ9BkcG0KD0XhToIpYDOrASnQ9imE44yLw9TSpL2OuWQ4EXXNhWRVBVqw4ZWqt0VD+y0btJ7wtCcBYANmwWt/NsJc8xk+XpnrOiDBNaAEyVYsJHvROxGNB7rABzhnN/AUSLqgJfvrG6KflG1hOhr9A9mlhr0FiIUDaF4vU+ZDDH3kz+ngdnJLefKjoEffV1yQY0tyAulID/j7BrsDM1KnYAqLXyq2OV2/udXGsXGDYm7WPuKg0gFTZCry3RhCko1IzhjAX+G7ouO1VOqRAOvYoA/65s2jKUg==;NxJ/8VqJgUnj/2i94YOhjg=="

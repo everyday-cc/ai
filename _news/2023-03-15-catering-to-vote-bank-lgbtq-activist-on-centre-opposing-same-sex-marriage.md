@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749/amp/1"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_01_02_56_5952996.jpg?width=1280"
         width: 1280
         height: 960
-        isCached: true
-  - title: "\"Marriage In Hinduism Is 'Sanskar', Not Contract Or Enjoyment\": RSS On Same-Sex Marriage"
-    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
-    publishedDateTime: 2023-03-14T15:36:00Z
-    webUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053"
-    ampWebUrl: "https://www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/marriage-in-hinduism-is-sanskar-not-contract-or-enjoyment-rss-on-same-sex-marriage-3861053/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 35
-    images:
-      - url: "https://c.ndtvimg.com/2021-10/r0bni7l8_dattatreya-hosabale-650_625x300_23_October_21.jpg"
-        width: 650
-        height: 400
         isCached: true
   - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
     excerpt: "This comes after the Centre, in its affidavit, had opposed the plea seeking legal recognition of same-sex marriage, saying that living together as partners by same-sex individuals, which is decriminalised now,"

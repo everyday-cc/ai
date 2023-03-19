@@ -39,7 +39,16 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "Uplinq Co-Founder to Present at Fintech Meetup"
+    excerpt: "Patrick Reily to speak at the 'B2B Payments & Finance' sessionTORONTO, ON / ACCESSWIRE / March 16, 2023 / Uplinq Financial Technologies, the first global credit assessment and scoring platform for SMB"
+    publishedDateTime: 2023-03-16T22:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575414-uplinq-co-founder-to-present-at-fintech-meetup-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
-secured: "Yq9SZUedhknHOO+dfS77t31i1ggb3CAlU5gBQa6nwAhkSZ0XuLr5Mbb8Vs/Uch3aJtqwDAAiE/Sr12pJ53Difqe1B/b5Yx/bcr8M5ODVWmkG0xCYfNCorhyXchOVUjB34opWfyRtP16jwUyKp9/yMg2Aofxyp6HcwiSaaeFZ5jR5UhCTM3YsOY99nrATvlrfzpcsfMFFuWJhTgvuV9zk2E0PuMuK2I62GwAMI9lMSDbhVFr8pb+oY2HfkTmG4zXxUch3CJGvVGN5nrQdOUIW9Ysg6TT4fpLBIa/22RbUCwRIpHFmJj5r6q5jRqrVoQDIkX0M0Fciyn5J7L95X0oObqLfyBRqASgPv9m82ZohkM4=;TyKVubyyvIW1OKA+ERt6EA=="
+secured: "K+E9AH7fo69F4+pLnsewNVTA9DvfFwFfrTh7BScmFdj5ZlhJOr/6iHhGs6oDsF4dQ8+Sk8CN5k5pUTjJvoX/l7nVIbYA1ND2yixXmdu4vgqJaRnRITpQ5ILM6/kTom0DEcbYVeF2yiGdDWmr/UdMXFa0fWFjk4FXgDxKMoCQ8Ui6Goc3qXnzp6Yx9oBILmk0gpi97RQJQw8JPlVtHalfvWHU/Kj7KxnVJm2TwBu8/YsmLaImmg/Wo+Ud6xG2oVympBEyU+Vl7tYY7yo0WTAn1XaJMlrtfDs8S8d+RfVYeRuFfYn9WCmRq6htnLuYS6fEZYOSDpenlZSBfvCAfUwUxM64zYLJJbv8MYR5llXZPkV0NRE9+0seZCuCFqViITqcWG2ypl3pusa3RSDAQdJZQ7IJ+fL0jUIyOm6sU1K+geU7LFEIldIhlExEW2MIVYhkWD4+s/9Txa1pqkBS+I332tnq6KRKN098He/IaNwzHc3o/EjDfjzIeW7Fd0y8qaxawsmfpc1l9oA0jvUzjIyZKQ==;cnPbGfH3xxZd1o1c1C02AA=="
 ---
 

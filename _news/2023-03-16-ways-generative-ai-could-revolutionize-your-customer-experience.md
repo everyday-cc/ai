@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Salesforce’s AI solution for Air India to improve customer experience"
-    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
-    publishedDateTime: 2023-03-14T16:27:00Z
-    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "TxzEStyoM299CV1IDBxJ2ErjAv7oavYt4rtWKGK2R6AwpI389PHQ6TQl8boY8tRBXm0lDmIbLhFsG9qZkSNhK8n7aCac9KtDfg4jOiznzPkZ3VhJjKnq6N9sbxjBUYvoyMugAvP2snMNRImhQO5mgAjv8Yr5J1WBeJP0CfoV/rjpoA7lAxosac4HO9ER3zUFOxnDpsp3yMq8fytVfQ9Z34dSB8WWw3S98ejDYhNeG3LxA/gM6Qjm8N8DEpXljngkP0fn1MQr+VV/hIjYHPZ0tdpUi7mAI2gd7m46wJdEeaivnHDFPoqUY2Iv7k9bQ/S4HDV6wMPHF3asWdSJyzHauRtaAPTQyWYgDAe1elPJrHvmXKtm38su44lBBTNp3NIuioLK7C6tlO8CrR0pCjewiycBCeM+U3CZR/kEO9GEarY66V1cc7o7g+VUNFk0xEaU9aJlvJaMS11iglwZEBjS6V5b9wVgRAX1co6IZRu6+JfBr4dERP35Ywzoq/Zoi/aa+xwooweCHxib1YVfdbVp+w==;QWyAoZbVJCqbVIvRSr3+9A=="
 ---

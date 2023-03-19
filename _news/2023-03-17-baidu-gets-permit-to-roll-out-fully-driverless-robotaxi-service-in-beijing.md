@@ -43,6 +43,20 @@ related:
         width: 1919
         height: 1279
         isCached: true
+  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
+    excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
+    publishedDateTime: 2023-03-17T17:58:00Z
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Robotaxi-china-Baidu-Apollo-Go.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
     excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
     publishedDateTime: 2023-03-18T02:30:00Z
@@ -84,15 +98,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
-    excerpt: "Today’s news is the latest milestone in Baidu’s news from last November, in which is shared plans to scale up Apollo’s operations in 2023 with self-driving robotaxi operations in more regions of China. This strategy all remains part of a larger goal ..."
-    publishedDateTime: 2023-03-17T19:06:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
   - title: "Baidu get approval to launch driverless taxi service in Beijing"
     excerpt: "Baidu is often considering to be the Chinese equivalent of ... This started in 2018 with the launch of a self-driving bus using its software. The new Beijing service has received government approval to run in the Beijing suburb of Yizhuang, which is ..."
     publishedDateTime: 2023-03-17T13:20:00Z

@@ -41,6 +41,20 @@ related:
         width: 1919
         height: 1279
         isCached: true
+  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
+    excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
+    publishedDateTime: 2023-03-17T17:58:00Z
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Robotaxi-china-Baidu-Apollo-Go.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Gets Permit To Roll Out Fully Driverless Robotaxi Service In Beijing"
     excerpt: "Chinese artificial intelligence company Baidu Inc. BIDU has received permit to provide fully driverless robotaxi services in Beijing. What Happened: With the permit, Baidu has become the first provider of fully driverless robotaxi services in the capital ..."
     publishedDateTime: 2023-03-17T12:19:00Z
@@ -98,15 +112,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
-    excerpt: "Today’s news is the latest milestone in Baidu’s news from last November, in which is shared plans to scale up Apollo’s operations in 2023 with self-driving robotaxi operations in more regions of China. This strategy all remains part of a larger goal ..."
-    publishedDateTime: 2023-03-17T19:06:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
   - title: "Baidu gets approval to launch driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu has won a permit to operate a fully driverless ride-hailing service in Beijing. The firm plans to deploy 10 fully autonomous vehicles in a technology park developed by the government,"
     publishedDateTime: 2023-03-18T10:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6411f6a89f6c645164216cc1/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "This AI-Powered Transcription App is Available for the Best Price Online Here"
-    excerpt: "Voicetapp Speech-to-Text Transcription is a great example, serving as a text transcriber that embraces AI technology to ... Amazon and covers over 170 languages and accents when translating recorded audio. It also can translate 12 languages for live ..."
-    publishedDateTime: 2023-03-14T17:03:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/this-ai-powered-transcription-app-is-available-for-the-best/447291"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 66
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678390270-ENT-VoicetappSpeechtoTextTranscription-LifetimeSubscription.jpeg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps."
     excerpt: "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ..."
@@ -150,15 +136,6 @@ related:
         width: 678
         height: 334
         isCached: true
-  - title: "Future AI Again Named One of the Top AI Companies to Watch"
-    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "RsNko1cOlWY/QNme9lF0Dp1RQw1Qv3AHCOn5Yz3roySyzN7Ci9HE7egRfTIWTNtZfLYymCN+COs+L6KR5A3uGzi47hwAnI8KCaDrYXfOPR1tk6JwB2FR6WpIULJaUHY6+U4rKC/E6BTFbkGdNQ/hP+XX+YV7tFlDDlXrKWNO12EoqQeozmxsuaH94gLWCjq+LoMRx2ZjirT1nvgoIsfd6tke0di1iy2EI71q68vYUR6LyUg33YTclwuyL7Ff8G8Fh2JBUow6TOND40pYxby3lg7qAavDgtOBbYI0dsjItmkCgk30xM/IUlk337yIZoKk83EqX7JWQgKvvTBvrBEAzLGAlszCFKlMJY0TTjQXJMM20JXhlffTC7X2qLCLoCMkY9xYgL1Q7EDSgRRniBnDFbiISdfnYki5gCz1EIRiru8tds/Rw2CvPJLIs56dgLz+GmL/bcNHywfaDmg3N9UStF27S9aF0vRfrwK2XNSKQ/YhCBwZC99A/LunJcgsUSm2CStuQUIGY6nMhoc04vGsOQ==;zr1WbtV1zJOYguEcBmPWOw=="
 ---

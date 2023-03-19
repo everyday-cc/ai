@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.wsj.net/im-742011/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Opinion: AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... and those wary of stigma around seeking therapy. The World Health Organization (WHO) has developed six key principles for the ethical use of AI ..."
-    publishedDateTime: 2023-03-14T16:39:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbots-are-still.jpg"
-        width: 1356
-        height: 668
         isCached: true
   - title: "ChatGPT’s AI powers make better writers, MIT study finds"
     excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."

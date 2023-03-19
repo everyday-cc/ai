@@ -7,7 +7,7 @@ originalUrl: "https://www.spokesman.com/stories/2023/mar/14/deaths-burns-brain-i
 webUrl: "https://www.spokesman.com/stories/2023/mar/14/deaths-burns-brain-injuries-broken-limbs-the-human/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deaths, burns, brain injuries, broken limbs: The human cost of distracted driving is mounting"
-    excerpt: "Existing old-fashioned crash data collection systems, which significantly undercount the problem, are inadequate for the digital age of distracted driving."
-    publishedDateTime: 2023-03-14T15:30:00Z
-    webUrl: "https://www.aol.com/news/deaths-burns-brain-injuries-broken-123046758.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 28
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/908a916ad10904060a99ebce286cb6d9"
-        width: 840
-        height: 560
-        isCached: true
   - title: "The human cost of distracted driving is mounting with deaths, injuries"
     excerpt: "Neither drivers nor lawmakers understand the severity of the problems, according to the National Distracted Driving Coalition."
     publishedDateTime: 2023-03-15T14:44:00Z

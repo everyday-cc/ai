@@ -246,22 +246,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft lays off entire AI ethics team while going all out on ChatGPT"
-    excerpt: "A new report indicates Microsoft will expand AI products, but axe the people who make them ethical. This month saw the surprise dissolution of Microsoft’s entire Ethics & Society team—the latest casualty in the company’s ongoing layoffs affecting 10,"
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/"
-    ampWebUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 91
-    images:
-      - url: "https://www.popsci.com/uploads/2023/03/14/Depositphotos_249538870_L.jpg?auto=webp"
-        width: 1999
-        height: 1125
-        isCached: true
   - title: "Microsoft Stock Rallies As Next Generation ChatGPT-4 Is Released"
     excerpt: "Just as the conversation around ChatGPT had begun to die down, the next generation of the natural language processing software, GPT4, has been released. It offers up improvements in scope and capabilities of the model, with proponents believing it to be ..."
     publishedDateTime: 2023-03-16T15:10:00Z
@@ -309,6 +293,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/microsoft-openai-chatgpt.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    type: article
+    provider:
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
@@ -396,15 +396,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft lays off an ethical AI team as it doubles down on OpenAI"
-    excerpt: "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes."
-    publishedDateTime: 2023-03-14T16:41:00Z
-    webUrl: "https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
   - title: "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings"
     excerpt: "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet."
     publishedDateTime: 2023-03-16T16:48:00Z
@@ -534,20 +525,6 @@ related:
     quality: 71
     images:
       - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    type: article
-    provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 71
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
         width: 1200
         height: 630
         isCached: true

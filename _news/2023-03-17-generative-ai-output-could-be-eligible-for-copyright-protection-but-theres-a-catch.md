@@ -64,20 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Salesforce’s AI solution for Air India to improve customer experience"
-    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
-    publishedDateTime: 2023-03-14T16:27:00Z
-    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "pXspt9rutAtzLOJ7jFFjwOQKqM+xGrVxYKLiWbIvL/0g/2KgxwWwQ4IdnlliEDe05alZnh92H8TPDRennujHxnm33MnWfHzWMoI4gnxK83IMD1WSih/ctpYbpyBHZwmlG5CExVGOPyR6T9lptfkVOno1F2eSOKujfZaopotBHbwxY/L5ozQ0t9xtTrm6cTVyY1CPUdMV+Gobpn4D75kphRtV3K0/nuTug2roAJ1SIDLtJJkQvdjfDUEP3czfUVFbaTL7Hx7v5IoQMzoed0SAmh514RGZiSxp+h5DeyX7/c/oDQHxZqHVJ19fUuMjd8FdqCsH272rk9NBAZ1My4GwaCklJL0kd4umnsGgwEMEr83ga51Kaap3SjKM4HgGMMCp2LNTNl3WsyewdmfGKDIw/15bylVSS2GWGa/EnFLEr20fikplDXvM0M7/KxE6dKNJ04YNtTOi5QCksGZlOAuaiGJnF0p3VmhxL6uIf+bKGwS2LyDI08B0HL3ntgxE1aU2Os8qTV1dWywrN0Yeyg1Yag==;zXoZWltmP2UQSJBR9ZtFvQ=="
 ---

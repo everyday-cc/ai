@@ -1,26 +1,26 @@
 ---
 category: news
 title: "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation"
-excerpt: "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona"
-publishedDateTime: 2023-02-28T12:40:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation-301757881.html"
+excerpt: "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona 2023. These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator,"
+publishedDateTime: 2023-02-28T13:47:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "KpkFbNwRjz0x4hnZFUksNVVlPo6LDFnmgn5WSpO/ZcDtQS6dzRlORwrUHbnA5+cbMeMB/kukkUnanvOlDJvZzU3nAmu0bNB/JTiwFQ4iMvhS9XzerFz8t5wWw3JEifB4QGIZeaFEkl7S2YVFmwPihRRZbDZ2870O2YFjL+TLsWaVKLbEy+V5XgM5y4JLiKU46rw2qyXel4D5e6jnHX5ItjA2g4Ah4tDY3zT1uxpZdzI95oVoQNtoT8dB+Eo5E2F3wTHmaOuLvT+MjEOVIt4tcKplALIyS/QPaf3fSoGGqSH+OIUcspg6/FwHzIcF5nvYT8Q9gT1Hb9i74EI1UTO9Z96ls6YQ2lrU7M0RnPbVaZc=;M63rioVHBal5RFvo23tSfQ=="
+secured: "TGBIDHbajXCMCTbOg+eH9TFJvXGLXqU5gXBB+vkVeOpc1hYn5CkuLfX4UjCcP2WKaC7bT3J5j0giASZebbWy+w2S0gwqk+lbDP3Jzm6P93c5dyjBEPExGeLrgr8pfG1BaNQkezShqpEDnIXPZOFo6DCbC/t0V9CvO3e8F3uwNakt17/tk2tmIj3kSENBG00xattApHNwnyoZg5/+E2fceUKpwwjhXZISW+VOyIVJo86TUhmkhCsRb0YW1fX+Tm2wFIVaFRhxIAiyv7HDbLQQiEaKr1A1TY5IWZjFiywtv7b0USXvAprRayZVd9+TPVDYdAGMq/Ibl9dmYnWTTw3peUwjegOtcJtXdHy6YeOwxhw=;7eoSMGq+1L5gfRQ64bqmMQ=="
 ---
 

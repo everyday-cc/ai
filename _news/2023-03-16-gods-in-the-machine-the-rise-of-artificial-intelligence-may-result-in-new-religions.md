@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This AI-Powered Transcription App is Available for the Best Price Online Here"
-    excerpt: "Voicetapp Speech-to-Text Transcription is a great example, serving as a text transcriber that embraces AI technology to ... Amazon and covers over 170 languages and accents when translating recorded audio. It also can translate 12 languages for live ..."
-    publishedDateTime: 2023-03-14T17:03:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/this-ai-powered-transcription-app-is-available-for-the-best/447291"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 66
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678390270-ENT-VoicetappSpeechtoTextTranscription-LifetimeSubscription.jpeg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps."
     excerpt: "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ..."
     publishedDateTime: 2023-03-16T15:07:00Z
@@ -147,16 +133,7 @@ related:
         width: 678
         height: 334
         isCached: true
-  - title: "Future AI Again Named One of the Top AI Companies to Watch"
-    excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."
-    publishedDateTime: 2023-03-14T17:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776602.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
-secured: "8hHW5b2Ob23pMB9j8XmwnoA2jw7S1VmJCBA80IQxf5/EJ/U4J692/W/Kde6z7fgLKdpUgVgQWJv8nECrRThoHV/e405wbDzg5dNVgInoFRUF7EpyPzGZI9d06x9wQTjhrCLeYhhE0Fe0LOTVM56NfJCdiCdK1hWq47ijSqacGqOmkw9xDaTuCjtp9awgpY3JPwseM4Zn9SEPXQHh0FnWbJSL/N4fY9SDIVzQ1VmYN9Wr7C2Ybss7a7S5x707EEQffeGBWFonKewwmud1aicX7IE5XRW99SSITpTnZTgkRfEQe7UDn3qrB149o5aWtVZa36aV270jU0O+s3wEc8iXY/ExjtuH43GV1D7QWrEBZe8=;gQd6SqlI29bGqAJDFX79rw=="
+secured: "jy0z0u4pSvUfO9sdFBwzc2Z/bVhK3S9MrfuxU3VEsW1EcCEs3FcS1cmZ4YD66R2yDMUQ5Es4nGQW2gwWs2+LfoLg+T0Id650JZkgZIPN2d0LR7IymqVfppq8VadHHXJYhXX/tfI7Bc/a/aWzLfYzWic3EdyPXhQx9MnVSdcu/903eF3ktRatTWGeGNcDYePHG7qg/F8uGbLoDcBX0JioLBlt81pQ56xsRWFg/AA0EBNax2Gogr9e9nyXktT7OdvStccwu1RJh98ZHi8Y23xVFJfqEiKlgPubUrueG9IhsQ3wFvl58I0ZmRNZDz2Bus0+U7iqGJjHfZrOuPQ1OcRqs8ENkpmSDwlwVbQezVM/dNAk41+uRmX109hkIpXfjkUOy1qXYbK6OF6tTZt4DMe7QwnVGLc5OiwZRUPiAmrwWW5Q5Y3j1+PAPBWWRP+oGxw7UmA/ShVWm+JYrEURPBJhS9FWpnGGgrfYLf2c1jZBmCLSOyGsDdq2HhRbRv3jlzHiV3UPVXSuWv83tbZloGQ/5w==;UGPz8XoQiG3i4whp/tRkTg=="
 ---
 

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
-publishedDateTime: 2023-03-14T19:05:00Z
-originalUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
-webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
+excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
+publishedDateTime: 2023-03-14T18:37:00Z
+originalUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
+webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: news.crunchbase
+  domain: crunchbase.com
 
 topics:
   - AI
+
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
+    width: 900
+    height: 506
+    isCached: true
 
 related:
   - title: "Adept, a startup training AI to use existing software and APIs, raises $350M"
@@ -100,6 +106,6 @@ related:
         height: 559
         isCached: true
 
-secured: "qCcq2bG5hpygp0M+D86ykFpI2ahZEWfbfr2SBG9zF3BzWZBfi9VaDjJfHE+eT5ZpgUYGJThH/0KNHceZKbfILX0866cThQ0UZHGFFZtDx70ecGoVWpsJhvWdjHeDKTzrv04tRkXZyUnQ4vPhCKrMXDa60SBZbh1MQOurbOTHOaMY7TTs+Xs0JmBnj4yD/+/jgvYaFNmJgJoPCIbgPUN1n2sMsQB0cKdEo8QjJG6kpZznBZ1BI5kP3/z2W8Gd1YK5KVIzQdVGZHKz11UnAY5EpcX1Yc6QQdTmSKr1DL/t40R8+YtnrRtVqkgkEtF0kbglDxHiWb4X2S83LToMdMqOO82soLM1EWli3Uhy0kwTuC4=;k5FJubAoIRvoGAfMTNphiQ=="
+secured: "S7KQaVd5D/aEBMLQLfb0bUy0tQC5Zi0vuMpcIc1fNP/2WCNhZCOtS56Zcg9XZmVHDhF/Hyibuit0rpJjwMPv9G5Ykh1vvGXdc8TaRh4591yHuB30wnVP8Oykf3ILMo4/PedYsyXc+Kxd0swijU2Ik2uvb6GyPmarr540A5SIu71Z0eLg99eDjn6ZvHc3xylSs2wvmBQ9tKnLmFX8E0h1HBKnB1B71P6wPx2v0nAjtS/r7tT/Nk8Qd8bITeYYt1A/8oUeA++iQVnizG2ynGCI7yqciFCftF1nUCJm9MOCR9c80O5hdTa/bj+5rz3TeIcN3Im2Bc4L+gTFa0qu2yxgZxcUl+5wnQeaGDqr8DN3q0U=;4dTfyLCV4d93hgocC2be1A=="
 ---
 
