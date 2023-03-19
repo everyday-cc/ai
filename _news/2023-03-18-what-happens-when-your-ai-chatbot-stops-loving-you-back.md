@@ -226,26 +226,6 @@ related:
         width: 1920
         height: 2400
         isCached: true
-  - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
-    excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
-    publishedDateTime: 2023-03-15T00:21:00Z
-    webUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/"
-    ampWebUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "Snapchat’s AI could be the creepiest chatbot yet"
-    excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
-    publishedDateTime: 2023-03-14T23:47:00Z
-    webUrl: "https://www.fastcompany.com/90865731/snapchat-ai-could-be-creepiest-chatbot-yet"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
   - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
     excerpt: "Shares of Baidu fell as much as 10 per cent on Thursday after the web search company showed only a pre-recorded video of its AI chatbot Ernie in the first public release of Chinas"
     publishedDateTime: 2023-03-16T09:11:00Z

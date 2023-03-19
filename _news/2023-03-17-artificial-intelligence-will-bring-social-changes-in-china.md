@@ -57,6 +57,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "A Venture Capitalist Imagines What Generative AI Will Change"
+    excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
+    publishedDateTime: 2023-03-19T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-744470/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Q&A: How can artificial intelligence help journalists?"
     excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
     publishedDateTime: 2023-03-17T16:26:00Z

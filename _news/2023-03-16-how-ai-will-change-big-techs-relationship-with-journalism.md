@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-re
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
         width: 1528
         height: 800
+        isCached: true
+  - title: "A Venture Capitalist Imagines What Generative AI Will Change"
+    excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
+    publishedDateTime: 2023-03-19T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-744470/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Artificial Intelligence Will Bring Social Changes in China"
     excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."

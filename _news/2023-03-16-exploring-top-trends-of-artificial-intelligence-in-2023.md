@@ -289,20 +289,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-  - title: "Mobile Artificial Intelligence Market Size, Growth | Soaring Demand | 2023 - 2029"
-    excerpt: "Mar 14, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Artificial Intelligence Market” Size 2023 Key players Profiled ..."
-    publishedDateTime: 2023-03-14T23:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-market-size-growth-soaring-demand-2023---2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Industrial Market Assessment Report by 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Industrial Market\" Report New Research Report 2023 gives A detailed market analysis on business plan ..."
     publishedDateTime: 2023-03-15T22:00:00Z

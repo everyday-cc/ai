@@ -27,6 +27,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
+    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
+    publishedDateTime: 2023-03-19T16:49:00Z
+    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
     excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
     publishedDateTime: 2023-03-16T14:45:00Z

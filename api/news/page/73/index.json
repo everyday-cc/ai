@@ -2,6 +2,59 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-01-20-ibm-and-the-grand-challenges-of-ai-and-quantum-computing.md",
+      "title": "IBM And The Grand Challenges Of AI And Quantum Computing",
+      "excerpt": "One company that has been pioneering advanced AI for longer than most is IBM. One of IBM’s most senior executives, Alessandro Curioni, joined the London Futurists Podcast to discuss IBM’s current projects in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200",
+          "width": 1023,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
+      "publishedDateTime": "2023-01-19T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-a-cartoonist-predicted-2023s-ai-drawing-machinesin-1923.md",
       "title": "A cartoonist predicted 2023’s AI drawing machines—in 1923",
       "excerpt": "The vintage cartoon carries the caption It depicts a cartoonist standing by his drawing table and making plans for soc",
@@ -1114,58 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip.md",
-      "title": "Galaxy S23 Ultra's Secret Weapon Could Be This Samsung Camera Chip",
-      "excerpt": "Exclusive: Samsung's Isocell HP2 image sensor can shoot photos at 12.5, 50 or even 200 megapixels thanks to more efficient light-gathering technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/dd94985ced203347c5fe34521806efc82cbadd80/hub/2023/01/17/94f978fc-96d2-403e-95bc-6a06c611b679/samsung-isocell-hp2-image-sensor-yellow.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/galaxy-s23-ultras-secret-weapon-could-be-this-samsung-camera-chip/",
-      "publishedDateTime": "2023-01-18T08:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

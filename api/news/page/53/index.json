@@ -2,6 +2,40 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
+      "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
+      "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
+      "originalUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban.md",
       "title": "Qualcomm expects to continue supplying chips to Huawei despite US mulling broader ban",
       "excerpt": "With the US government expected to intensify its ban on deals with Huawei by barring 4G, Wi-Fi, and AI chips, Alex Rogers, president of Qualcomm",
@@ -930,49 +964,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares.md",
-      "title": "Cloud AI Developer Services Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares",
-      "excerpt": "In 2023] The Global Cloud AI Developer Services Market Size (116 Report Pages) is estimated to be worth USD million",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

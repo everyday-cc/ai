@@ -34,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
+    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
+    publishedDateTime: 2023-03-19T16:49:00Z
+    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "PwC partners with Harvey to build AI tools to assist its lawyers"
     excerpt: "To build the technology into its legal services, PwC is partnering with Harvey, a company backed by the OpenAI LLC’s Startup Fund and founded on the company’s GPT-4 AI technology. Harvey provides artificial AI-powered capabilities that can streamline ..."
     publishedDateTime: 2023-03-15T18:21:00Z

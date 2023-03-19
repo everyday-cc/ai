@@ -2,6 +2,40 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-02-08-denodo-receives-aws-data-and-analytics-isv-competency-status.md",
+      "title": "Denodo receives AWS Data and Analytics ISV Competency Status",
+      "excerpt": "Denodo, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
+      "originalUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
+      "publishedDateTime": "2023-02-07T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-artificial-neural-networks-market-to-showcase-vigorous-demand-during-the-upcoming-years-forecast-till-2029.md",
       "title": "Artificial Neural Networks Market to Showcase Vigorous Demand During the Upcoming Years, Forecast Till 2029",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Artificial Neural Networks Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Retail and ...",
@@ -1104,49 +1138,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023.md",
-      "title": "US Hyperscalers Cloud CAPEX to Prioritize AI in 2023",
-      "excerpt": "According to a newly released report issued by founding analysts of 650 Group, US Hyperscaler Cloud IaaS market revenue will grow nearly 30% Y/Y in 2022 before",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30774891/us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30774891",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30774891",
-      "publishedDateTime": "2023-02-07T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

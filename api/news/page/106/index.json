@@ -2,6 +2,57 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-12-14-ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation.md",
+      "title": "AI and analytics platform Dataiku raises $200M at a reduced valuation",
+      "excerpt": "AI and analytics startup Dataiku has raised $200 million at a reduced valuation, bringing its total raised to around $600 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
+      "originalUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
+      "publishedDateTime": "2022-12-13T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
       "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
       "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
@@ -1073,58 +1124,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing.md",
-      "title": "What The Borg And Robocop Can Teach Marketers About The Rise Of AI In Search Marketing",
-      "excerpt": "Founder and CEO of BrightBid.com 'The AI engine revolutionising Google PPC.' When I was growing up watching Star Trek, the Borg was one of the most powerful forces in the universe: a mix of organic and technological matter that was linked in a hivemind called the “Collective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630396cd75ee12eae2f3e80b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/13/what-the-borg-and-robocop-can-teach-marketers-about-the-rise-of-ai-in-search-marketing/amp/",
-      "publishedDateTime": "2022-12-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-01-27-sanskrit-language-code-cracked-by-phd-student.md",
+      "title": "Sanskrit Language Code Cracked by PhD Student",
+      "excerpt": "A 2500 year old grammatical problem has finally been solved by PhD student Rishi Rajpopat at the University of Cambridge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.languagemagazine.com/2023/01/26/sanskrit-language-code-cracked-by-phd-student/",
+      "originalUrl": "https://www.languagemagazine.com/2023/01/26/sanskrit-language-code-cracked-by-phd-student/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.languagemagazine.com/wp-content/uploads/2023/01/GettyImages-1201079502.jpg",
+          "width": 591,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Language Magazine",
+        "domain": "languagemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing.md",
       "title": "Jurny Selects RAD AI for Creative Intelligence and Influencer Marketing",
       "excerpt": "Press Release Rad Technologies, Inc., doing business as Rad Intelligence, an artificial intelligence company that automates ROI-based creative intelligence, announced today that they have signed Jurny,",
@@ -1165,40 +1208,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-best-gpu-for-4k-gaming-our-top-picks.md",
-      "title": "Best GPU for 4K gaming – our top picks",
-      "excerpt": "Best overall GPU for 4K gaming – ASUS ROG Strix RTX 4090 OC Best GPU for 4K gaming (runner up) – AS Rock Radeon RX 7900 XT Best budget GPU for 4K gaming – MSI GeForce RTX 3080 Gaming Trio If ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-4k-gaming/",
-      "originalUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-4k-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

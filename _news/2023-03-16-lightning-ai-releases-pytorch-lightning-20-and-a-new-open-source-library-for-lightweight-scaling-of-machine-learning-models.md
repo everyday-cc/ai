@@ -64,6 +64,15 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
+    excerpt: "Lightning AI, the company accelerating the development of an AI-powered world, today announced the general availability of PyTorch Lightning 2.0, the company’s flagship open source AI framework used by more than 10,"
+    publishedDateTime: 2023-03-16T17:03:00Z
+    webUrl: "https://insidebigdata.com/2023/03/15/lightning-ai-releases-pytorch-lightning-2-0-and-a-new-open-source-library-for-lightweight-scaling-of-machine-learning-models/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 24
 
 secured: "YMTer7KcmUrwc6p1e8/gfqubtFHRTX571AwNKMu4bHAhhDFTsEjIs1HjdYq1GjS9k3+rSKFpXF/qOTSfAa29TRmA81d/4Op7ixQTiOgzrA95eAf+f0/8kwo8XP1KC2ajlPbgwtLx8AUgEOOGbHHtSRZHpLPkZcYOU//ryyrccAxpflYZqbAdiqKKd9mIWzPG8izSpAsG1tUxT4xatl7uo+AHaiSRbDH0v1WhxKwkOjmbkntZFWavkXqTENBtN+fvxKdQQ1mxh81scIWntLNAdTgkrC/RcdGzDZxg0xFtzA/RlVRk2ygcMI5c8VzMZ29yDDre7tjsM00E2riX+GiEZS9JPqPzgULjucwcyehOBoQ=;3u28caPE26Vt9UYvnhpRXw=="
 ---

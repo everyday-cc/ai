@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-17-on-device-ai-is-transforming-computing-for-hybrid-workforces.md",
+      "title": "On-device AI is transforming computing for hybrid workforces",
+      "excerpt": "Presented by Qualcomm Technologies Inc. Traditionally, laptop performance has been measured by CPU and GPU, but on-device AI processing is now a critical third measure. And that’s especially crucial for enterprise PCs as hybrid work challenges crystalize ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/",
+      "originalUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/",
+      "publishedDateTime": "2023-03-17T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience.md",
+      "title": "Qualcomm launches Snapdragon 7+ Gen 2 chip with AI-enhanced experience",
+      "excerpt": "The chipset offers an AI-enhanced experience with high-speed 5G and Wi-Fi connectivity. The Snapdragon 7+ Gen 2 provides an exceptional CPU and GPU performance which fuels swift, dynamic low-light photography, nonstop gaming and 4K HDR videography ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/qualcomm-snapdragon-pixabay-1679058726.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
+      "publishedDateTime": "2023-03-17T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-we-need-to-make-machine-learning-sustainable-heres-how.md",
       "title": "We Need To Make Machine Learning Sustainable. Here’s How",
       "excerpt": "Moreover, large, intricate models based on complex architectures, such as those of deep learning, can be opaque and difficult to understand. This lack of transparency can have a two-fold effect. On the one hand, it can lead to mistrust and lack of adoption.",
@@ -165,7 +260,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1072,7 +1167,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 576,
+      "heat": 556,
       "tags": null,
       "images": [
         {
@@ -1157,111 +1252,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
-      "title": "Cast AI raises $20M to help companies reduce cloud spend",
-      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "publishedDateTime": "2023-03-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

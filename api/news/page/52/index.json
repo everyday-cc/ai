@@ -2,6 +2,40 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-02-06-best-gpu-for-fortnite-our-top-picks.md",
+      "title": "Best GPU for Fortnite – our top picks",
+      "excerpt": "Get a leg-up in the Battle Royale with the best GPU for Fortnite. Building a PC involves many choices, perhaps chief among them is which GPU to go for. Basing your choice around a specific game ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.videogamer.com/tech/gpus/best-for-fortnite-2/",
+      "originalUrl": "https://www.videogamer.com/tech/gpus/best-for-fortnite-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VideoGamer.com",
+        "domain": "videogamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-when-my-dad-was-sick-i-started-googling-grief-then-i-couldnt-escape-it.md",
       "title": "When my dad was sick, I started Googling grief. Then I couldn’t escape it.",
       "excerpt": "Googler, coping with uncertainty by trying to learn as much as I can about whatever might be coming. That included my father’s throat cancer. Initially I focused on the purely medical. I endeavored to learn as much as I could about molecular biomarkers,",
@@ -880,40 +914,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
-      "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
-      "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "originalUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

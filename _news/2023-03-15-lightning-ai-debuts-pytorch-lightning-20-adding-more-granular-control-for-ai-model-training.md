@@ -65,6 +65,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
+    excerpt: "Lightning AI, the company accelerating the development of an AI-powered world, today announced the general availability of PyTorch Lightning 2.0, the company’s flagship open source AI framework used by more than 10,"
+    publishedDateTime: 2023-03-16T17:03:00Z
+    webUrl: "https://insidebigdata.com/2023/03/15/lightning-ai-releases-pytorch-lightning-2-0-and-a-new-open-source-library-for-lightweight-scaling-of-machine-learning-models/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 24
 
 secured: "+Rz7tvlWTai6/aCWDiFZIfjT+uRejqf4FBnOoloTPpnhwD4o3GSJ7eleQOG+kQUs6mIre4LwclPvSJ101lZcPoy4JRs7O/jTbC09CKSIKW0fZxMUYg0f86T0bKDFQd85ySjS81P1P2yqeyBG1ZcHBQZlpJkAQQjlpLsEryy5NGF12wYdJng9egH+Xs8qCkTTqs78jxUIrRSvVP0v7fTR8gvw0jYsE4I6ubYLC0luWU1AdZrQQ0vVS6no2kyyqMwF+pZIlINDgqRGRqJPzkRMY4mBq3ip4O6nYEE+qggrK8oU0pwxp4oH7mEoPsqksnoo4HKD08TGCe2TnjbKaJh5G6JihkgY0R9Fzr9A3Nu3TD0dG8x3T6oTCi9s3Jdk+hqPbBlZ5y7v2FMyWjMlnBgzxy3YXpQVIVQpuV9yDnwbG5FPDKvm+/MBUuJJgbN2OXsFWHxoGg0GJm1Iaia2Mvqa+PeWuMFSUxDy4E1oWSRzHT4yIdV+NH5QnBNM6+dpOfzxzn81/DTUQ5s0AKviUZBfsQ==;Bf7R1xC6wa2tbtoyLiJwJA=="
 ---

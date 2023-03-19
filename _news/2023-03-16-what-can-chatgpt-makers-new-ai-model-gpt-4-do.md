@@ -238,20 +238,6 @@ related:
         width: 2250
         height: 1500
         isCached: true
-  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
-    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
-    publishedDateTime: 2023-03-14T23:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 52
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple may update Siri as it struggles with ChatGPT"
     excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
     publishedDateTime: 2023-03-17T16:30:00Z
@@ -413,15 +399,6 @@ related:
       name: al.com
       domain: al.com
     quality: 4
-  - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
-    excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"
-    publishedDateTime: 2023-03-14T23:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776949.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "qY9OeErVRVCUq/u2oohL8YigpgFzViX4FyqdzzXmuCLXpHQDs76v/ytGBQOtDVa3KVffWbpinRZM49vgm/zjnqUM3q5IOE8An5c1GU/9K/W/BB798zaPCiIzwJOwmFHQU5bSDqvOlAo870Nn0NjUNHp8JYsKO+2hM1n4Xp08DeW3+4r+ddsFJIJIUZHHNZVwzZu4/TJfSK9Zt2l1PNkR9sAGWnzxyi24ogpQJtSmeLxINVsYd8r41A6oMFliPh8gnK4SLqGnk2xoAG/bqOMY3WdWIJ4u0HELZ2mBLhmVIMdtJGNIdxIGZW7Zt+7uBNQRlQ0g76uh2fEF2ZGMnpS5Y0RxMVXayOfW+dD9z4m93upPt9iW3oKLg0kdcPYQN0r2UWiBCqIx/H54UkpIgy+f2zCmea6wQYzeCmctBH4Fr+u90gdQ1K2aD7rJKTn2FJOJX8yWK7rJ5Dso48QK4ZAMcZzAGZAdKxjRVMDcRJdVortL1ChGNU2YXPcsF2ZnNJ7y9JhO9/oEV0s+5pg3St5OZA==;ZW27joPFxLp/MQsQL4MGSA=="
 ---

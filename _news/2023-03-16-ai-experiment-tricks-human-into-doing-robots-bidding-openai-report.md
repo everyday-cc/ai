@@ -105,17 +105,6 @@ related:
         width: 640
         height: 423
         isCached: true
-  - title: "OpenAI ups the ante in AI wars with GPT-4"
-    excerpt: "Inaccurate responses known as “hallucinations” have been a challenge for many AI programs. Microsoft stands to benefit ... OpenAI’s latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious businesses ..."
-    publishedDateTime: 2023-03-14T23:32:00Z
-    webUrl: "https://www.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
-    ampWebUrl: "https://amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
   - title: "OpenAI unveils GPT-4, its most advanced AI language model"
     excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
     publishedDateTime: 2023-03-15T18:02:00Z

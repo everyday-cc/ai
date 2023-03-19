@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
-publishedDateTime: 2023-03-18T01:54:00Z
-originalUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
-webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
+excerpt: "Baidu's Apollo service will deploy 10 fully autonomous vehicles in a technology park developed by the government of Beijing, the Chinese ride-hailing giant said in a statement."
+publishedDateTime: 2023-03-18T02:25:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
+webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
 type: article
-quality: 32
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Business Times
-  domain: businesstimes.com.sg
+  name: ET Auto
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-98745677,imgsize-116038,width-1200,height-628,overlay-etauto/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Baidu says it can now operate robotaxis in Beijing with no human staff inside"
@@ -156,6 +164,6 @@ related:
       domain: channelnewsasia.com
     quality: 34
 
-secured: "eLN8DrE5GiEqrBpsBui5X+LMpi91lblKmLStCy/QAnk9D2P2FvfoCj3PgmT4kVm/WME7ikzzjiPenycrWAWXjvBB/EucKlqwAN6FMTYzdO3YdYab3MEIF8UJsTAxtcwmYvyXnZBnFCls3gknXWUxLHmK4he79UwsPmPQ7egz55zw7vJ+nAfkPcWEJI1qRtovoweHmTvsHmIkWPuJQPWqEAeCBeZj0SG+U8Cxvy++vp/Z+T81HX0qVK88wiZCr9uopq/0ItNYcFGCw8NuGWaHV0qWSLC8dVFFaUAGvzXyNcYrioMXEulMI5txbtM+HaGVEeLWJGJXtGmi8E9Zop2v2mxRi9OzrVOn5wuH9drPH7oPEtu1j9LCJ/YVqI4gecJszv7sTJ1a1DTA0qyflwY2zrIn5R723y/bQjizABTvX6FttLc8G85PIi84uZk1xb00HOy4zKoPUPJQokioenC2ORWhtqYnls2Y2DGMrY8NVtSRqXMBuwIk+sz149nsfifeTokU6Y14wZOZYRCxSgyiig==;AO4y7X/pxyaJgDs+dbfxYg=="
+secured: "AkGZTsk3AHTrvXrkDjilDPwVzH6Qpi6ZtqxgJ6oDiunYXHAoZT8m99mnBHQ+RTB6gYSSN932v/xm290hWI3lloz0qh9bQEFzsevLM9/kS14kwqFfrGYa4CKxI80QPmNVZc1hA0IkPIeBh3sUh8QgyurspLNF43TG4w7nfHJLHcIoA5Wsa9d536NqkaCLLIgasFBtGJhu+ZQMswZmw0NyPMIpTxc///d2g5k1NcuOQnHt6ezG/i0eUjlwxf/UOyaMSeiF55OilrjGdXyR0uxWL7EiyjypP/WvXX5Egw51zJZgIklQofb3hFeE8nLVqOFUvwuVGcN1nuhBZ9Mzdqb9s++GIiy66q9OCl8j8QHVpuE=;o8YMGlxskTNc74FfmMyz2w=="
 ---
 

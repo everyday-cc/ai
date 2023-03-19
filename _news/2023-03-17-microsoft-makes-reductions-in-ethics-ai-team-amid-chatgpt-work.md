@@ -3,18 +3,18 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+originalUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
 quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI Ethics
@@ -264,20 +264,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Why AI Stocks Microsoft and AMD Popped Today"
-    excerpt: "AMD is likely to enjoy strong demand for its new chips. OpenAI unveiled GPT-4, the latest generation of its large language models (LLMs), which are trained on massive amounts of data and can be used to power AI applications. OpenAI used previous versions ..."
-    publishedDateTime: 2023-03-14T23:33:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/14/why-ai-stocks-microsoft-and-amd-were-up-today/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/724672/artificial-intellegence-ai-gettyimages-1345658982.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "Microsoft 365 Copilot uses AI superpowers to eliminate work drudgery"
     excerpt: "AI has simply exploded across the Internet ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
     publishedDateTime: 2023-03-16T15:56:00Z
@@ -361,6 +347,22 @@ related:
       - url: "https://www.reuters.com/resizer/_NQbA-VH5pj-ejAXzvVqYEdNpmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IP3JX4KXTRPF5KXX6KBRGYQUB4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team"
+    excerpt: "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ..."
+    publishedDateTime: 2023-03-17T00:06:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31374406"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31374406"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 79
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Twitter_Photo_by_rafapress_on_Shutterstock_4.jpeg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
         isCached: true
   - title: "Microsoft: 365 Copilot chatbot is the AI-based future of work"
     excerpt: "Through the use of a chatbot interface and natural language processing, users can ask questions of Copilot and receive human-like responses, summarize online chats, and generate business products. Copilot in Word, for example, can jump-start the creative ..."
@@ -452,20 +454,6 @@ related:
         width: 960
         height: 600
         isCached: true
-  - title: "Microsoft Cuts AI Ethics Team"
-    excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
-    publishedDateTime: 2023-03-14T23:53:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/14/microsoft-cuts-ai-ethics-team.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/REDSchwartz0613BlogBalance.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
     excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
     publishedDateTime: 2023-03-16T00:25:00Z
@@ -477,20 +465,6 @@ related:
     quality: 71
     images:
       - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
-    excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
-    publishedDateTime: 2023-03-15T00:54:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/as-openai-releases-gpt-4-microsoft-details-azure-ai-infrastructure-behind-it/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 66
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -684,6 +658,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "oHtRP5/7/UFgv+YlP9OgO1uaO9WeAiYjfTyPBjgbg4H164cgyI7Jn9uTU0ZPIgy+/5uUxs7shoKf60QFfuGwtQBxr0Dfka6TL5FGiYz+1/dF7wsQIUsgdIyUhwQ43YPlNloykicRMrrkwTlJ2g2LxjGDzl7ykWrjP2Bcovr1YeKbNfqoBbr2GkZ2XM6Z63uhDQkbiVfF3uQDMaKWmTvbqNWNQDndnVSA4+8FYYlJNW389cIAA8cWGEh3x38I34D2grEIA04uvvefjdmBgOu73adlQgRDVlNSfGiRUc0XuuOpoapkWXjMc9D7M/NC+0YWq4uurTcZXU9opGD4AC0P9ksEYbCFPWj2+WUHyqzCUIiCNAEnNfqZC7SFiNUrbCAy2bzAByntAKBxW1gl4nBJFfTvE0Z8vtFyCRtJIYcW3vnocINwEYHEncCsOMrS4Wr9o+a6vLKVnhiXD3ycDCw3lriRt1OziP3wzdo6LgigXToIt05OePW+HfKlZpaUC0giQ+RJexlI5aN43RqRtLicFQ==;1oq3Ww2h3DcZyIFG/In02A=="
+secured: "U5JN+cK0Qw+jdfP88jImgUNClN67p/pnYBKvEE+gfdFOIi2GrEfrFvAGcOCutYhoCphLCtT0dfMDT8wntEp3BNsZLvka7+uAK2VS9QrO4VjbwhbbcgqxemXyD0eIIr01QCvAJZ/wHxry2AKS/s3hUcaCCVS3tuhO7FHIQpABZG3htv0x4a4K3GhFkahjI1wuWkcq5qIWaqpi9Pl18icioMkk4i9+nl1TD7e2tIx+HIxgXSKRrQF9LVdaY4/4DkIZIFbfYD4Gcz0VgRNvaSc9fu0RnXaDKXm0xrEpppxOpHvZfYBJLM22w48LZ+NVt/SLwAmTbn8ZuHrrI2iZDOkH7YRJh+4fEvC9rL7zNWUx8Bs=;iiXPmthWY66uj19NhhM2Pw=="
 ---
 

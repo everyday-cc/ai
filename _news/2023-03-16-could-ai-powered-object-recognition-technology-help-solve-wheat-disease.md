@@ -1,42 +1,29 @@
 ---
 category: news
 title: "Could AI-powered object recognition technology help solve wheat disease?"
-excerpt: "A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head blight, or scab disease, the crop's top ..."
-publishedDateTime: 2023-03-15T20:28:00Z
-originalUrl: "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html"
-webUrl: "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html"
-ampWebUrl: "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp"
+excerpt: "URBANA, Ill. – A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make ..."
+publishedDateTime: 2023-03-15T18:56:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/982901"
+webUrl: "https://www.eurekalert.org/news-releases/982901"
 type: article
-quality: 73
-heat: 83
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/could-ai-powered-objec-1.jpg"
-    width: 1067
-    height: 726
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/676f5a93-24e3-4737-8dd4-9ab5b4ffcaca/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 225
     isCached: true
 
-related:
-  - title: "Could AI-powered object recognition technology help solve wheat disease?"
-    excerpt: "Could AI-powered object recognition technology help solve wheat disease? Date: March 15, 2023 Source: University of Illinois College of Agricultural, Consumer and Environmental Sciences Summary: A ..."
-    publishedDateTime: 2023-03-15T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230315143839.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 63
-
-secured: "eApZMWmtHTk4lL02Dj7fGit4YbELVKSZr75xfKY7Gt7bZsRsTD8wj0wYM4hLmb7mYDegjqMzdbKW8R/YUC5nLOC4gw0bRM/1XJJsqDHniWfiLdziNa37AbJrx3EgtZ43O7RnK0NGbQyL6VBMI4DU/7ya86+3JSBoSLhbPRcGHpupR+XGvZ/qCwAnAynr7yjdeAaiA02JtmCKcsn2hJTm873PTsNOPvVJe3Wcc6Ie+jgUgCJY2i5BXzmBJM5CVOFaxIcU9f4Ku9pU9X4aUnq1kKWUbLDIXVOtgq6IuwV9Ehl+Y1iAFjQdiiYfWwtrrIn8nDvc0QPrOHu9Q/+YBO6CHx9fNwkqV/uOJQZMa92JB5DkD20C92X2ztol95AkguPHt/nd9EIkPibOHHBzFo6G1Tok2UCSaSyGvYGZlOxMpcxTRc2wSVUIyWtuq+oVlxucwrfpE3xrGdvGNtR2kzl/v0mXMreCyaUtNs21hwTWmreb5UFajsScxdX31OpImSkixVw5gtMgof58EB3saMLtDA==;5lN6KDFlmOs2UEWiUUfxvQ=="
+secured: "uYkNKHFtOp4l1oECKdgFroRZevrYwF1gHhXR9uwRm8kvA+XhYWgl5CbE+UYRDM3EjT9MBEySFihJ4txN5cTwOSR1P062ZdHXkjlY3/K5/foMYLC8017nd6pcrnxzC4+S1PENmLrCkJOhMLBqXBaKy17Q8FzXcaUHkX/bO6LTV2bEbT1ek8NoX2m8Vl/36RPLjj4V1SU5xalTvxYFLRCbUtBXZw/6ySfp2s0VzjOn22Pr/obS01dDNHADDWCoCrIPVAMMHPbykujzVJFNokhkEKmIvRfAutPXCRTtCVIPNVJjBElsUi8W+ThJVaDFLbUXEptwCs5XmPrfcfnqiWNqX8nynqwW5PNJgkHFdHtk6uM=;Vz/qODAHC90P7JqeBxtG1Q=="
 ---
 

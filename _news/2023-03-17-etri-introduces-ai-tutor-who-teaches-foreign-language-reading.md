@@ -24,19 +24,6 @@ images:
     height: 466
     isCached: true
 
-related:
-  - title: "TSA introduces artificial intelligence to decrease pat downs for travelers"
-    excerpt: "To make things simpler for trans and nonbinary passengers, artificial intelligence algorithms have been implemented into body scanners."
-    publishedDateTime: 2023-03-14T23:10:00Z
-    webUrl: "https://www.star-telegram.com/detour/article273074480.html"
-    ampWebUrl: "https://amp.star-telegram.com/detour/article273074480.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/detour/article273074480.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 37
-
 secured: "fcAQa/vm03/f3GH76LsyWKoDO8oGGl+cd7FBWwCCEWYutSIKgvmoXFP9rMPb8pjilE23YoPiLP6fZFwQfYSuhF95TljQ7Jh2GPrC1ZedzT7waeyWYJy7v8iFr5jtav0uLqfrsHx4tF68D4pz7lLVAY3V6tt0Av7gAQdFHbBKDQS53pDwE6vqZxQqMS26Y7og0KhwUwLMeyXVHpZwArCk4sBBy8JTLShs3NshZMvHxfO3Nk8uxUz1d13rp+68iv9AgJvqnd/sW7QjLfy7OoHX5X/yT9fyfVJ23whz9JPkDwk0nkKHdrjtILDlJbXUyPx7VLHJDzsi4w+LyhFKUz1a9pSPDG+B1LWAoybIRW2u+PQtStFmcif5lZd1UeX79wGiY8PGJeFfl6TWG/Y44I8SB2H8esxiHILA1Wssl1BpzPy1f9RFJKfSUDrDapmnOnpUw4YsysNb3YpHKPX+spR0Wjj3D83HA+f9wa2xqhkIvw6O1y5D9dU/VuPIJib/JmL1+uMrbSVzV6WTmW0NvO8yMw==;1AgmMhUyF0ENKy9yh7TVvw=="
 ---
 

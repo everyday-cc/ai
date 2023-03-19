@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
+      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
+      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "publishedDateTime": "2023-03-01T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-nvidia-report-telco-transformation-requires-artificial-intelligence.md",
       "title": "NVIDIA Report: Telco Transformation Requires Artificial Intelligence",
       "excerpt": "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is",
@@ -1174,57 +1226,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market 2023 is Ready for Breakout Rally by Industry Share",
-      "excerpt": "The recently published Artificial Intelligence (AI) in Drug Discovery Market Report, spanning across pages, provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
