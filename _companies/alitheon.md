@@ -2,7 +2,7 @@
 name: "Alitheon"
 overview: "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.alitheon.com
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "v//sudCasQQ4MM4CFHHJz0f83vFuT/3afjNaj9xEDi85ZKG3weqFeBxkve3dixn5PA5mr2zvQ9NCZzemp5MadjaiMz8aYCefdkpUZgtA8DTceHQimZmfn3u9FQ8u6kuKSFAVlw2RF+E7fN4FpGFLJYvmQo5D8KWbgU0LuSeoNJ4qOtLvpzmNXppczCDXa5HdoEbXbgPrIpzRnpkMhwmaHooFBpHrnesMbd1nCAiMQnvKIzhsVZVXbAgePxWXi/2fDkl+9k2ORU2K5UzDmUl17x/pZCYcEmsUUsaTwI5psrSrFS0vN1LYOKUzaeuUOWG/AFngqnag955EpJAuFEXd1SWCy/5bvNWuj6ClkwI3kdKTzAb8vRoZbHfb+dy/m2bdxpBBFOpNB2t0PtZdwMmMBg==;qhTHTOx8m1HMOVYzF3hh8w=="
+secured: "7JNCW7N47ZahylAKbAuJXXCDcrCEEYur2/YWiwH4y45MuFJ7B89YV0SHKlILqswGLLeTSrrQ7awk3rDnlHRkaIvG3uCsexheqv5jkjG6vF7gyZIHjMVMo957T8xOEfiNmAS8U3VAi8jue2ls3zO49ANVMMqUDVd8BwIOOCGHbDvnFx5VKgsQ8PFO8PCYhSLASmEPa1g/tq4fvrnubYh0VHWYIlO2P/mEkfDww5ckhcPdTLRUdsOTZBh1gOccBN220Y2K8XlHcxY0i+ddTt5G1S2ukgwHjGnMqRP6oDCNmbeuQxMG0FMf9Bxvo17eH8e3Lc05iLpohQClBBsVpFmmuNbR3VZA485rl8zuhv2neOcpU2mLoQYChUzglmkUXevAbuBx1PtZgfm+rpy4PTK9+w==;MCXCEX7Q6dLEJxhCOaJJDQ=="
 ---
 

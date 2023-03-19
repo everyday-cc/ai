@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "socureme"
   url: "https://twitter.com/socureme"
-  followers: 7107
+  followers: 7106
 
 size: 51-200 employees
 yearFounded: 2012
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "R5KYrC/CKOst1+E1pb6u0uLrpEgw3LT1EMzjS2acIpvOChDzAIejHSRqyMAj/JjktuWkMOeRe0ZKdnPDKbEXDmjxCZ2KOVLcFcIU08SpVE+QL3hWnjJefuLZwEqjBi8HENSCzGe8DqU+KOw6fRm3dnK+OYpIn5TKwl3KfEoEFDSIROKp29Qq5fvAWl0i3uLRBCE2kmbQ6DFkuoUB+tFJKSVNc6vBDJuUvl8qxWGzDZJhggmU6xbj5TMvEEigCz6zqAJBgLD71WFdIkfHrzJtBlPvVKpFREPJGR23n8/xlfePZUCucq7km87w76h3/FSUQbcody7NtZJewRFJ8+xcI5vBevVHGHVCCR5BwKDkplQHy70C80Dtb1KLYuUu7z3GWcnZLjO+SxK9EcYaVsQWqy21tksAsVlTkCaMCQ9PTZQ=;bSAoWIyT39XfvKz3nbKTfg=="
+secured: "WGPJTgjCWqPaUR346YzycaYEmFXiilmqvwYSpcZ1c0cxniw1LhQfHyc4C8gtU2euHt16Uy+coM1Sof+jsuKXIilKwhRSAd+GQutic752BmU/V7HsSdpNIO86lRBFxnfBCekFW3Mplj+J4RSgxCqmetc+aQM8OqiSpQRxIcJdKZ1/xvKfAbXryZp1gako5WxUuajFhl6SxqesuPcmy8qIWT8AnarQamw+RNj3sX4qVQMRu7YvG5nqa0RUGBCDVbqB0dUzjGB2mrUh7A/EJc7WgG+huPNplyohUTKnghWtu1uj9aNtqM91RAHiE/0IRRs1Yh31ffpInDa+dxT92H5zxV+naEOEUCtH2r+FxFk38xrm3A7XAgFspKXj1qXjumbpatOxY5xTp+CCPy9Pnh1M3exfLBkVGCvKV8Cla/2MuYY=;LVGOzweCgF7nwTMI9Vnj+g=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Kairos AR"
 overview: "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide."
 type: "profile"
-heat: 57
+heat: 41
 
 website: https://www.kairos.com
 
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "4ZyffftXiA/rL+43wLe/KFS1eIV0r1LRhOqpNvHfaWGE8csdBP8X9FKvhmT/9o4rJh3VtGaEOCzvFJEDwB0XfH1s9siv8icZJ57fLc9jxVJk/3EYie9LP1bww4J555aeg8FGzV7BD0Tc6K5giLZts8eEDEoWMJIfssU1Lp5Zmoz8Aarty4oXsbVR87HZpEbSmRWrpCClnpGWGUkqRAVn3Tp5UT5e5/riVZemnB8faQjh9yxcJZUx2d3CJPbho6+wtGHMoREHLwdd8PNyN3kKZRTI4TFQu2H4qm6gKruG19HG86BBuMHVTx+mzgEXvJdcoF7rILJWq7hxBYZOLBJNLu3oJef1/RMEE+yc9xPfoymyreoSEFyvN6y4GzxjnN36BgMk7Kz6FdeCGkk+2C//QTZlV0EDZD2e4cp/AgTBzwA=;HM2vrXVIP6CDJZNO7/jMDQ=="
+secured: "Z6JuXMs0W97O0oI11BENfDl+d1YZFAIGVKJbopF2UBaYWL+oIzf/9ssJq5MClEsbxx+0bGfS6hw/9tTbKkbl6kTe9KjIeiOj+B2PG4RfJ0FUnqTtmjrDERunNl3N1l/JesdBo83jgxZA7iyHw2gzQGIFDGESkj27UHx0f0b0f95B0ItHJpRr4XH5O5UjVvgwKHwgqPYji+KEWpuwYf2w9bdKvkWelInqnZh1pyIO7PCJzIeuF//r6I103QqU2K3i4uUijbmlcn3Y4zyQwaOMlsRF8QYrPSfl1vtTMSah/aBWM8/+s7QrCt2Ih6r7+w9kJudZRgvCj3wGaDY+WvR9NZBNC9NcsaCKrcLYO4I7FB6R1GdYwcqwQ/r/0y12YdR3xODNJtJENANMQj/tU7WHQuuOVW+HCfEW3OXc1jUQcEQ=;LtKJirQBpsp4/GgKRrRl5w=="
 ---
 
