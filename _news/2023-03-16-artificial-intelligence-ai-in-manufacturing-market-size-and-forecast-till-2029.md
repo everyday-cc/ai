@@ -264,6 +264,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
+    excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
+    publishedDateTime: 2023-03-17T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Healthcare Applications Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (Prime PR Wire via Comtex) -- This \"Artificial Intelligence for Healthcare Applications Market\" report offers details on the size, scope, and potential of the ..."
     publishedDateTime: 2023-03-16T23:39:00Z

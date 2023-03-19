@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing in Life Science Market (Size and Share) 2023-2029 with Growth Analysis | Survey by Absolute Reports"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
+    publishedDateTime: 2023-03-16T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-life-science-market-size-and-share-2023-2029-with-growth-analysis-survey-by-absolute-reports-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pharmaceutical Robots Market to Notice Utmost Growth of USD 263.64 Million by 2030, Size, Share, Recent Trends, Scope and Growth Outlook"
     excerpt: "The universal Pharmaceutical Robots market analysis report will surely lend a hand in growing sales and improve return on investment (ROI). The company profiles of all the top market players and brands with moves like product launches,"
     publishedDateTime: 2023-03-17T23:10:00Z

@@ -204,6 +204,22 @@ related:
         width: 1200
         height: 1125
         isCached: true
+  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
+    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
+    publishedDateTime: 2023-03-19T03:44:00Z
+    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
+    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right"
     excerpt: "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ..."
     publishedDateTime: 2023-03-17T21:08:00Z
@@ -248,6 +264,20 @@ related:
         width: 2250
         height: 1500
         isCached: true
+  - title: "6 AI tools podcasters are using for new ideas, editing, and more — and why they're skeptical of ChatGPT"
+    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
+    publishedDateTime: 2023-03-15T12:48:00Z
+    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+    images:
+      - url: "https://i.insider.com/6410561cf724e7001800deb9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
     excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
     publishedDateTime: 2023-03-14T23:09:00Z
@@ -261,20 +291,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "6 AI tools podcasters are using for new ideas, editing, and more — and why they're skeptical of ChatGPT"
-    excerpt: "Podcasters have been testing ChatGPT and other AI tools. Here are the use cases they found, and their thoughts on the ethics of using it for podcasts."
-    publishedDateTime: 2023-03-15T12:48:00Z
-    webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/6410561cf724e7001800deb9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
     excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."

@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing in Life Science Market (Size and Share) 2023-2029 with Growth Analysis | Survey by Absolute Reports"
+    excerpt: "Mar 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
+    publishedDateTime: 2023-03-16T09:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-life-science-market-size-and-share-2023-2029-with-growth-analysis-survey-by-absolute-reports-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pAYsrFgSdmOzfWY4ZyiMKSxfG4/V0nY3G8tfQyLeMVQYyZg4HzFBcf6sCfNLbHac6fTRzcreHZsPLfXnJelD+d0S7NmqLgXByu+LK6DFuzEzk/Irr1b2EdOsZ3lAE9/Bg2ByP+iElLOJQZ1Y34vOUNCIiEedS2Ogbni0kS8EWohk0TKugu0Kf5I5YUOM1C6E6SF30icaopGAEy+s5L5RAwHw9T81jBf8IFX77Zx1aAERz0KPvkI7MMiOAPXN4I5k8s8qVVJEgJhiwTjXqqZuyqyu8X9gaVJyozjY+0U8eDXZpFUiayZcgGdbaB8Wsku1pNg+2L8IzL9+fFSW1yJLkhUY/nJaXHr1yyawguFPNtE=;baJysmMoSOYa4gDg9B9RBg=="
 ---

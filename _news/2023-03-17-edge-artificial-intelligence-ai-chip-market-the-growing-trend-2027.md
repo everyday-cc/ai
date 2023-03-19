@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15"
 type: article
 quality: 99
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -247,6 +247,20 @@ related:
     excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by ..."
     publishedDateTime: 2023-03-14T21:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
+    excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
+    publishedDateTime: 2023-03-17T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
     type: article
     provider:
       name: MarketWatch

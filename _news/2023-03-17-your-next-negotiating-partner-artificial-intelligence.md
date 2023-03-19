@@ -33,12 +33,19 @@ related:
   - title: "Bola AI and Curve Dental Partner to Integrate Voice Charting"
     excerpt: "The partnership will see the integration of the number one Voice Perio technology on the market powered by Bola AI with Curve's SuperHero™ practice management software to benefit dental professionals"
     publishedDateTime: 2023-03-16T20:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31388703"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388703"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "XtbcgN1uBS1yZMQskQxkho8E/atIlx6HrbbLOE+mRw0ERte/KtWiDw2P7uwk5ZDheA/u+XPoKYPQTc6z90ZfYsalvJ5gLKwLPWOlqkyO1X3lhOT1z4q1BKij9VFkBdOWX3XdwJXM8x6BP53348972Tfcd2PNML2/d0AiBAiUp1ViQaIoP2/8Uxf5q8Ak9/sC5gDn6pfLgisqbLeP+6brGhEF7ouE1li6zWuuQPqP3SlsYjqp8t/OLLx61s0zPfgsJCgIzcSIeHSqQTVYfpUU4CyCWsNpx4niQkEXNdQfdk3nZ58M62VWxFW6KSde4RtEzQf/N3c24iMXadnXBh96igR7xCSm9e8zvY49AljaXaaIgtSpibpYnTcOkb3X1/pM3aYdnv5/yoosJNOZGaNE6pT7TfNQJ8xBKAQ6pTIviC5RvUs1dQJoAM8OBRydYtriSv83HmSXfvr6KhNWl6vqnY8lRw6h5AXEmTUssvN/duMEsPkKc7ZSFyZq9/W69rZMXaKzbNk6t0oSLlZEbWEeNA==;0ilmF4rqJmJgqAtQdqyF4Q=="
 ---

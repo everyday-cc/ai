@@ -268,6 +268,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
+    excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
+    publishedDateTime: 2023-03-17T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size and Forecast till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) in Manufacturing Market\" study describes how the technology industry is evolving and how major and ..."
     publishedDateTime: 2023-03-15T18:59:00Z

@@ -331,6 +331,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    type: article
+    provider:
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 91
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -567,20 +583,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft fires those responsible for its AI ethics"
-    excerpt: "After all, when your terminator is just being put on the market you don't need humans to tell it what to do Software King of the World Microsoft has shown that it has its priorities right -- while it introduces the world to its new AI-powered Bing,"
-    publishedDateTime: 2023-03-14T10:01:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56512-microsoft-fires-those-responsible-for-its-ai-ethics"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 71
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bfa8bb7aa9905754d441ba14fbf07ac2_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Microsoft Cuts AI Ethics Team"
     excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
     publishedDateTime: 2023-03-14T23:53:00Z
@@ -608,20 +610,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-16T22:23:00Z
-    webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
-    type: article
-    provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 71
-    images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Microsoft Shares Inside Look At NVIDIA's Supercomputing AI Tech Powering ChatGPT"
     excerpt: "Microsoft announces new powerful and scalable virtual machines that integrate the latest NVIDIA H100 Tensor Core GPUs."
@@ -718,20 +706,6 @@ related:
       - url: "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft unveils new AI-powered instance family"
-    excerpt: "The tech giant continues to leverage its investment in OpenAI. Microsoft announced this week that it is extending its Azure cloud platform thanks to a new"
-    publishedDateTime: 2023-03-14T09:46:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/103116/microsoft-unveils-new-ai-powered-instance-family/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/06/microsoft-azure.png"
-        width: 2100
-        height: 1500
         isCached: true
   - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
     excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
@@ -877,15 +851,6 @@ related:
         width: 1105
         height: 675
         isCached: true
-  - title: "Microsoft Layoffs: Ethics and Society Team Fired"
-    excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
-    publishedDateTime: 2023-03-14T09:17:00Z
-    webUrl: "https://techreport.com/news/3493451/microsoft-layoffs-ethics-and-society-team-fired/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 36
   - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
     excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
     publishedDateTime: 2023-03-15T13:40:00Z

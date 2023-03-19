@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-03/16/TC_30c2bimage_story.jpg"
         width: 678
         height: 334
-        isCached: true
-  - title: "Danger in the Machine: The Perils of Political and Demographic Biases Embedded in AI Systems"
-    excerpt: "Recent advances in artificial intelligence (AI) are evident in a myriad of new technologies, from conversational systems (ChatGPT), gaming bots (AlphaGo), and robotics (ATLAS), to image, music, and video generators (Stable Diffusion,"
-    publishedDateTime: 2023-03-14T10:27:00Z
-    webUrl: "https://www.manhattan-institute.org/perils-of-political-and-demographic-biases-embedded-in-ai-systems"
-    type: article
-    provider:
-      name: Manhattan Institute
-      domain: manhattan-institute.org
-    quality: 28
-    images:
-      - url: "https://media4.manhattan-institute.org/sites/default/files/perils-of-political-and-demographic-biases-embedded-in-ai-systems.jpg"
-        width: 1400
-        height: 660
         isCached: true
   - title: "Future AI Again Named One of the Top AI Companies to Watch"
     excerpt: "Citing Future AI's work in pioneering implementable solutions to artificial general intelligence (AGI), AI Time Journal noted, \"A successful AGI would likely revolutionize not only AI research, but the world as we know it."

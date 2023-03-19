@@ -3,10 +3,12 @@ category: news
 title: "Bola AI and Curve Dental Partner to Integrate Voice Charting"
 excerpt: "The partnership will see the integration of the number one Voice Perio technology on the market powered by Bola AI with Curve's SuperHero™ practice management software to benefit dental professionals"
 publishedDateTime: 2023-03-16T20:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+ampWebUrl: "https://www.benzinga.com/amp/content/31388703"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388703"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Your Next Negotiating Partner: Artificial Intelligence"
@@ -36,6 +44,6 @@ related:
         height: 754
         isCached: true
 
-secured: "QX6wGGNonKJQxJHTNyNELTUwHhgYxP63sD4iHYLhSvGFQsUYTIa8vy7drPWnGhjJ9IT5uDl/mtmpPzLFRDOluTEo6DX1DE26jYFUJTCQsrSsNR/zIfA89kAyZiTY82Oeqj6CoCTYqB4DM9YN7RFsl5Fqk+p/GK2KF6zP2as9TK3nIBJ9s5690XU/RXAOrABBG8/wJBAIk+c09/gPbfUpctjg9Dl/dqwsdrUPtGQ7PhJNNUW5b6M3ZieWIJ+lqpd8rw/DHuiFGj6eGdLNfXudJleJ9NJ+6vou8HNkllrKLKMq+Np93jQUudFZ511J1+mn8rdHHX6JLYrFCWPGzUK+cJQdhh1AVBXflCECkeO8ylc=;1yrrwq/uqPdfvQGfOo4dRA=="
+secured: "0lCw8EiJXgcO0/uPGMeGabfXYNrQitlgJLdU3q6wrk+s6L2Z3nc32bvQZOycz4tDYtSBE4S2zgZe6qVEG+otyfbE8B3POYyQzGDQvElcjy4a8ADh7ktHweGhaXjnMCcHQFGNWoY0dT7TyCVOtDdYa7qtYv0ivabV2QlzoNvnCKKyllXU8U1AGy8riVfD25BVPPubj9Hf35lCiqKjKswto/tMYnt0fzmIbpnbjukwoJJBFssBfHwIVKDN5L8DsQJyfsyTQyTe1+Y0/3F+GEculgwSochvmA3RkHDsDxjjG8aKdM+mLCZt3JbZ7zi/LMP5VQsjShtjtdwaw+djBethkbfT0MHNQQbnojTPcArmuow=;Xr7gx1Nh1ze4ELkfy2d1JQ=="
 ---
 

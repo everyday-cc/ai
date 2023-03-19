@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
-excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
-publishedDateTime: 2023-03-15T10:51:00Z
-originalUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
-webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
+title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
+excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
+publishedDateTime: 2023-03-17T08:56:00Z
+originalUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
+webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
 type: article
-quality: 69
+quality: 65
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -149,6 +150,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
+    publishedDateTime: 2023-03-15T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size Report Analysis, 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Artificial intelligence (AI) in Supply Chain and Logistics Marketinformation for each competitor includes (, SAP, Microsoft Corporation, IBM ..."
     publishedDateTime: 2023-03-15T23:07:00Z
@@ -246,20 +261,6 @@ related:
     excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by ..."
     publishedDateTime: 2023-03-14T21:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-growth-soaring-demand-2023---2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
-    excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
-    publishedDateTime: 2023-03-17T08:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-delivery-robot-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-17"
     type: article
     provider:
       name: MarketWatch
@@ -396,6 +397,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mdSIKTm7x9NenHry0UPWUt942tdfIiy6XhtrQJY4rJGF5xA+9x8f3TpntU6PxlekKMGCYj6gP8YqO8a4m5HGUOSh/pWN/SdEn9J8y1XeKUfl6rQDmS/NbrTmYaiyvaj1C89C3YCqXp/BnhSM5rnz3XDTyz+zZGxw7N3tv4Ma/vOR3a8+0XuWq8YtD1CGgB4uUDUCMyYkHXaZDg3021y4vVuHciSJ+f+uZdR/WDaB+ss/ERFfBODdxhM3O+OxJeKiSoaEyKHU6q4I/YgkE7XYh6+r16bSmgTvqNwD56OTewmwJODFLO1xfz0pY6xGnCsgTKRouJciH8FWoI9fiver9k4pppnIkW1hKqX6pPZ6MJ4=;SCpcrWDyCOPix3zcXOW11g=="
+secured: "s1kPrdvpJbPJNN7E25C45QLyPP+r35HL/iFiaCleLp6lusd+ngs7i5XBA+RxR7fH5BuHAXD1D+4Y/QL0zQpNCIXW1Jk39MgNi16p/XFbKvxaQHybZnyClQbUN7JR68LiUXL2Tyhj8biVPKZ5XaMw8nZmVhVj56yxQ5xcKRedOyL5QgTTCZyUbSyfzS2wHpr25MiNkW99/pO8Huqx2lHr2fXi9QpKimMNq0nXujUJuH36PGonEMRj4k0XcJvqM6mqxXrXAnpWOG8MiblUADupeV3f78F8hYYzH6A+oUeHR66gONAjGfaNPHX+cnXqvaU2oHYGR6njF+Dn55+PVDEVmR+GEBTxpnjaRrs/TMLm+dc=;S7r47G5iVxSHNB6RVXmcrQ=="
 ---
 

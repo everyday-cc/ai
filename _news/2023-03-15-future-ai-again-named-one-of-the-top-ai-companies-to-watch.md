@@ -140,20 +140,6 @@ related:
         width: 678
         height: 334
         isCached: true
-  - title: "Danger in the Machine: The Perils of Political and Demographic Biases Embedded in AI Systems"
-    excerpt: "Recent advances in artificial intelligence (AI) are evident in a myriad of new technologies, from conversational systems (ChatGPT), gaming bots (AlphaGo), and robotics (ATLAS), to image, music, and video generators (Stable Diffusion,"
-    publishedDateTime: 2023-03-14T10:27:00Z
-    webUrl: "https://www.manhattan-institute.org/perils-of-political-and-demographic-biases-embedded-in-ai-systems"
-    type: article
-    provider:
-      name: Manhattan Institute
-      domain: manhattan-institute.org
-    quality: 28
-    images:
-      - url: "https://media4.manhattan-institute.org/sites/default/files/perils-of-political-and-demographic-biases-embedded-in-ai-systems.jpg"
-        width: 1400
-        height: 660
-        isCached: true
 
 secured: "oWEFdLwQ/QYVuoUHJ3ocCW8dXh6Gb6sELjxZjo4i1Aj/eNIPOInYBRa2HYsKBxzMAO1Uq9/nJXn0KOEDodSUSMiXrUhxpkWizvihDVg30Q6u++9M3JmGTeXuljpE/WQqBIcL47QEQ6xm+gsC9ZSYQtojE3rPJm4iMfJpCH2iHtDx64zHDFGn9T96trN0vofTLu4NutFIc30FoZ8bSehmysRF8FA+fiObPAFllZKhYS8+RJu96JJw8V+i4uEmyO9hjGCqbpIvuDXSEcvgfsjiiqqrP6P0ygpI32VfkDrOJiGI44jjnuF66mEH4TFQVm9ZrXkL821j/lsVoMKXY2++hqHPm/wr8iXaumBNsgIk60o=;4A1HQSleSdzKoRtxkTr9vA=="
 ---

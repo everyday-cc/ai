@@ -28,36 +28,20 @@ images:
 
 related:
   - title: "Amazon sued for not telling New York store customers about facial recognition"
-    excerpt: "Thanks to a 2021 law, New York is the only major American city to require businesses to post signs letting customers know they’re tracking biometric information."
-    publishedDateTime: 2023-03-16T20:11:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75290"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75290"
+    excerpt: "Amazon did not alert its New York City customers that they were being monitored by facial recognition technology, a lawsuit filed Thursday alleges. In a class-action suit, lawyers for Alfredo ..."
+    publishedDateTime: 2023-03-17T06:49:00Z
+    webUrl: "https://www.cnbc.com/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNBC
+      domain: cnbc.com
     quality: 86
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230316-amazon-go-mjf-1143-f3ba0a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
-    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
-    publishedDateTime: 2023-03-16T21:14:00Z
-    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
-    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://image.cnbcfm.com/api/v1/image/105958798-1560196431438gettyimages-1147596838.jpeg?v=1678989114"
+        width: 6720
+        height: 4480
         isCached: true
   - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
     excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
@@ -103,6 +87,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Concertgoers react to facial recognition software at Madison Square Garden"
+    excerpt: "On their way in, they passed a protest banner, alerting them to MSG Entertainment’s ongoing use of facial recognition technology inside the facility. Not surprisingly, opinions were mixed. “Do I have a problem with that? Not really. One one hand ..."
+    publishedDateTime: 2023-03-16T03:02:00Z
+    webUrl: "https://pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/"
+    ampWebUrl: "https://pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/amp/"
+    cdnAmpWebUrl: "https://pix11-com.cdn.ampproject.org/c/s/pix11.com/news/local-news/concertgoers-react-to-facial-recognition-software-at-madison-square-garden/amp/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 57
+    images:
+      - url: "https://pix11.com/wp-content/uploads/sites/25/2023/01/AP23025727473750-1.jpg?w=1280"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Amazon sued for using facial recognition on New Yorkers without permission"
     excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
     publishedDateTime: 2023-03-17T16:26:00Z
@@ -133,6 +133,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "MSG concertgoers react to facial recognition software"
+    excerpt: "MSG initially came under scrutiny a few months ago for using facial recognition technology to turn away an attorney who had a paid ticket. MSG Entertainment is still committed to its use. When scaffolding goes up in New York City, it often doesn't come ..."
+    publishedDateTime: 2023-03-16T03:00:00Z
+    webUrl: "https://pix11.com/video/msg-concertgoers-react-to-facial-recognition-software/8476396/"
+    type: article
+    provider:
+      name: pix11
+      domain: pix11.com
+    quality: 39
+    images:
+      - url: "https://pix11.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
+        width: 396
+        height: 202
+        isCached: true
   - title: "Amazon sued for installing facial recognition ID"
     excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
     publishedDateTime: 2023-03-17T09:46:00Z
@@ -158,34 +172,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:41:00Z
-    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:34:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Amazon Sued Over Facial Recognition Technology"
     excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
     publishedDateTime: 2023-03-17T15:41:00Z

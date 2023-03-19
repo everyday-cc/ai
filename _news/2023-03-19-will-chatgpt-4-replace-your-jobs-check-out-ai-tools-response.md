@@ -1,26 +1,30 @@
 ---
 category: news
-title: "ChatGPT’s AI powers make better writers, MIT study finds"
-excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-publishedDateTime: 2023-03-14T18:30:00Z
-originalUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
+title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
+excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
+publishedDateTime: 2023-03-19T03:44:00Z
+originalUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
+webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
+ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: PC World
-  domain: pcworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "The tech behind ChatGPT could power your next car's AI driving assistant"
@@ -213,22 +217,6 @@ related:
         width: 1200
         height: 1125
         isCached: true
-  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
-    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
-    publishedDateTime: 2023-03-19T03:44:00Z
-    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right"
     excerpt: "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ..."
     publishedDateTime: 2023-03-17T21:08:00Z
@@ -317,6 +305,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
+    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-03-14T18:30:00Z
+    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "Apple may update Siri as it struggles with ChatGPT"
     excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
     publishedDateTime: 2023-03-17T16:30:00Z
@@ -611,6 +608,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "WyOmAQT5p7dcsVIrNgscogrTu1H48YZngOALpdLmOPLX2sGJx8TAh86XN65bxtPnwKR+NlI5J8caKl6SqQ0Ip43ygnthCmVqlRa41pIaRXlxL4+9s1AxsYVrNSDm7+Pv3Z6qX9gKDQdcTW+dn/x8OgEDj+w0h1aDkjYzZW4QP97pBEXTOE5ayHVO75ud7VyPdqiaDRxxiUKqYfGC1/B3RlmpK/I7rFezya3aBu6YKrnocODTZWjlxkf37TzwZ/fbisLLx8qqwL9dRHaN9OGy7bH7Uc+wY+NL/9KsNvufk4gF7BVsjzdZuq00oyFvGEywoBsYqsIkow9D3S7gCal7j9nj0JmyTt3HzNeJRa3JlYCCu8mQzlnH1osb9ZeJmyVS5nZjlSaOzYsAw5l/rTipmobHY7Up4yQHVr7hlP58fhwPs0wdCaM/LowDJVM9vnYYTAktC2G8B0wlNYtJqbdtGVzfnSVO3GhS2chgPlb6/wP0O5b/TVm2gJwhdADErE8vyhNha83DYmJihzu7+dDqUg==;HnOz6bjb+csFtsTbFr1aUQ=="
+secured: "RQKjHOG+muu6LnkbWfImbIlZvmECiM2v+F6IuFORgdMzHY6m7njT4OWiF8sD7VZ+Lr2CwQU5E5jsPOaAF9OhgkbSyqB3+NgUhwG2wAzyX9bfT5YdonTA5Hr0VJVOKNXy05rf2GGqunmXuvGAp36+rdjolhzaw/28bbhrH+AV0E/EAvthWn6omY3zU0w3wmdPYZkg2rfcR7Luhxr7kHohldNdmP4k5wh3y1v5o2LtlHxmLHu233D2ZX9FO0iHqOD8sposDIMuzjF6a14IUIzi5laRVu31guRAPs2oO5GxVSrqsIk0+tve2qFSy648KMqZwZO5Jokg/HPQcl15zQmDwgL0yB8skybETreYSOiKE8g=;vqfXNdEp0mbRe4eH3w2kXw=="
 ---
 
