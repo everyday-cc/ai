@@ -44,7 +44,7 @@ related:
   - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
     excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
     publishedDateTime: 2023-03-17T17:58:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
     type: article
     provider:
       name: Electrek
@@ -139,6 +139,20 @@ related:
       - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
+    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
+    publishedDateTime: 2023-03-19T07:14:00Z
+    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
+    type: article
+    provider:
+      name: legit
+      domain: legit.ng
+    quality: 48
+    images:
+      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
     excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"

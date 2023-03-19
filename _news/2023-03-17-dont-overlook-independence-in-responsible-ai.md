@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in
 webUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in-responsible-ai/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 300
     height: 225
     isCached: true
+
+related:
+  - title: "The AI arms race highlights the urgent need for responsible innovation"
+    excerpt: "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team."
+    publishedDateTime: 2023-03-19T11:52:00Z
+    webUrl: "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
+    ampWebUrl: "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "1AQ6uzeffrf5VdcqL1hn3bOSxT0SJ3EiVaHVDPdgipjkXgxthqLQrT5qtRevZURnZy1ZYiFHvCR9UnRI+CHdOtWoxyX6gAru93SV1GE0L3LLe2eIWPrD7cTOf1N7/58mAoLzyLXjD5wXVW1cFbLmWsjx4p3FiBKk/7nd3RtJ7lhpT0Bgv8TskbT0DFH8M/tMur0m9sGT/XFXunW80LHMoTnjyNizUmGHg2sb7/rSGqgZ6bUPpPCdtOIlDX6GehIoFEKMTHS5hc6cXq4miR9QDJGPfTY8XMAD8VhQ+IDKPsfKKDo/0EFhW8YHPNce33cy3xumOy6j4aXbd3pd0YRwb+O1phPLyBYaiNgp8D8Y9bb/OBf7g5Z7xAV8ZKU6CouZCSeTzYenFsyFtoisQNRqjvSmzvAdzZ/C6dhicmNAZRCpeZNdRKIPQtaWuJM7nBD61BoMGqfNYhm6Q1N5E3S7Fg/5s5lglfRNNvl/qbR594GOMd9AIcv4FNCpfhm0k1W4ineuZ9VclumxCFGmS3lLWA==;cBv8mEC8cbdnFCbDsQWDyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and
 webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-size-and-forecast-till-2029-2023-03-15"
 type: article
 quality: 66
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
-    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
-    publishedDateTime: 2023-03-14T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312248&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
     excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
     publishedDateTime: 2023-03-15T19:36:00Z

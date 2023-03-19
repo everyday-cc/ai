@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
-    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
     excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
     publishedDateTime: 2023-03-15T19:10:00Z
@@ -75,6 +66,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
+    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
+    publishedDateTime: 2023-03-19T10:23:00Z
+    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 20
 
 secured: "NVqVZf3wxfvk1MAUyPywPpeBKhWaVCHBUqXlansOjZZ8rmobBTHzBL2F4YNWMo0+Ncexpo1GJQu4XhEwSqCpxvIal15YWgqo2r+i9WaIEnAWb91IsB3PnKzMqUFcXKX8pIGY2qvDkTQsGMG7cPTAdO3flUXMQzpctu9CxTPODTvQpqOrJbNKwndAky0Ty1UpLUd+bmbSkiPFhm3rNx/CzRry7rwUKkGwQnzXD6SCfrZ5s+sV/Xle5QCVfbRyGGBOt+egoRpbUcifL/jOuTlKursFpJ72uXCTH8mU6bkd1oz6MXXcsCvp08zDF4b0zDamrwkYU9ME97qOA3xgmI9MqvC0arN/O0KF77rMA9DGF2Y=;VJBf8a+f1Ac0N3sA3ZDjTg=="
 ---

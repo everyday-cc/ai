@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
-    excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
-    publishedDateTime: 2023-03-14T18:29:00Z
-    webUrl: "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 83
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
     excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
     publishedDateTime: 2023-03-15T12:36:00Z
@@ -64,15 +48,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
-    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
-    publishedDateTime: 2023-03-14T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+  - title: "Duolingo Launches New AI-Powered Subscription Tier"
+    excerpt: "Duolingo rolled out a new subscription plan on Tuesday that uses artificial intelligence to power a fresh set of tutoring features. In a blog post, the language-learning company said it's partnered with OpenAI to use GPT-4,"
+    publishedDateTime: 2023-03-15T15:55:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/duolingo-launches-new-ai-powered-subscription-tier/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
+      name: CNET
+      domain: cnet.com
+    quality: 47
 
 secured: "kLY/Pn5pvwNBArWC+4RHlql2jfsqL4tgs7doj7TrhPAiUlNWLUPR9Cf28vMVUzXY7LfMFNu8IAXCEUHv9XxX+IrHLTQQF1VAxxC/hJ5Yin6Vc7/nZxMIfDpT9ZpZ/dzLu0KrraUHvz7o9msD7mIEwG4uMzv/H2CMQRsy6OENx95Qph4pWKsAJP36f5vySvXI3Xb9gAc9+1/wptxcLO6hNRmSTzM96lweX42713NMngC02FXrLoaIuR+RhCLtRizKNVOMeNs3uHZT7daTjT7fdIlbVzzRKYixEedJtk36J/v47DDlnrnCWWpfrp6kJvQWtZHR2Jg8XwA0wdN/DabndewE0x0KeDRI/poYeD9nSt0=;OWoTTga4+80ASDIBbWFd2A=="
 ---

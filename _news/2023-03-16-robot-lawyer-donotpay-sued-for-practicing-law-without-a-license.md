@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/15/robot-donotpay-sued.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Robot lawyers? Maybe not, but don't discount AI in legal field yet, experts say"
-    excerpt: "Though \"robot lawyers\" may not be a reality anytime soon ... he believes the law industry is standing on the cusp of an \"explosive increase\" in artificial intelligence usage. That usage might not always be obvious, he added, such as when lawyers use ..."
-    publishedDateTime: 2023-03-14T18:41:00Z
-    webUrl: "https://www.ksl.com/article/50597536/robot-lawyers-maybe-not-but-dont-discount-ai-in-legal-field-yet-experts-say"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 30
 
 secured: "ECgrUdGw8JbnvDnqFWFzMJOJWt8mYC69XRDzGexeXc45+S0h2rvQjGcEdsvusTMmppsEOGB+bjusv/YD9pXMJpv5BPBnanf7bu97W8w62/L+buTihojFXl+m2wjw51Wq/BTi7Q0IeyFkhxZsCH3SPonC0kxDAUlIYZtylgQ73oXoNWJ/XQB6W7ls1xWnwFqjlo2GypDKDuWBaPKkgAioTdm2cQqdpBeEjikHblz1Bhnmve1XljFKEQZYGu4CH6Ij1vT9BmLcdNIA8lkvT3FNjYxg3MxHyCXmldWO8noHznX8cUv/dp7kQjulAXK8gvgmelXOBykgxNnn/8bpk9CYC1JX+k2+8BUod3Ap6qr8x3JZPQ2JG0YLMAkfIiM2t6AFO0kAIX40UUsINaY2cj+q1fQ9Oh/O+STKWqquRZpTb44HOrj/UEoEb/pTpO0zqy3sIn+Iw0cUZ+ucbqLWkxZ6lErfRRgTxVA6GJZZISrvWWaJpiPaMZKpLj+ONDmbjWO8IP0M6o+W6Pmo/ee4FE34bw==;wN7e6Tmk8n0yoS4lLiCwFw=="
 ---

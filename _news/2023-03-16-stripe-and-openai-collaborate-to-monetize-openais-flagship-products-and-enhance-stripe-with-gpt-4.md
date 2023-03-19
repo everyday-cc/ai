@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art"
-    excerpt: "After months of anticipation, OpenAI has released a powerful new image- and text-understanding AI model, GPT-4, that the company calls ... s testing it with a single partner, Be My Eyes, to start with. Powered by GPT-4, Be My Eyes’ new Virtual Volunteer ..."
-    publishedDateTime: 2023-03-14T17:25:00Z
-    webUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/"
-    ampWebUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
     excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
     publishedDateTime: 2023-03-14T20:20:00Z
@@ -156,20 +140,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/OpenAI_Logo_96005--1a5ac_c0-214-5130-3206_s1200x700.jpg?dbcd8e3378513305b03afa91bce0566484275237"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
-    excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT."
-    publishedDateTime: 2023-03-15T15:07:00Z
-    webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
     excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
@@ -277,6 +247,15 @@ related:
         width: 829
         height: 552
         isCached: true
+  - title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
+    excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
+    publishedDateTime: 2023-03-15T15:09:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
     excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
     publishedDateTime: 2023-03-15T18:28:00Z

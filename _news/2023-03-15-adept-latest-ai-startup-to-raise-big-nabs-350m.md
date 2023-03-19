@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-publishedDateTime: 2023-03-14T18:37:00Z
-originalUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
-webUrl: "https://news.crunchbase.com/news/adept-ai-anthropic-chatgpt-openai/"
+excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
+publishedDateTime: 2023-03-14T19:05:00Z
+originalUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
+webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
 type: article
-quality: 37
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: news.crunchbase
-  domain: crunchbase.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
-    width: 900
-    height: 506
-    isCached: true
 
 related:
   - title: "Adept, a startup training AI to use existing software and APIs, raises $350M"
@@ -106,6 +100,6 @@ related:
         height: 559
         isCached: true
 
-secured: "S7KQaVd5D/aEBMLQLfb0bUy0tQC5Zi0vuMpcIc1fNP/2WCNhZCOtS56Zcg9XZmVHDhF/Hyibuit0rpJjwMPv9G5Ykh1vvGXdc8TaRh4591yHuB30wnVP8Oykf3ILMo4/PedYsyXc+Kxd0swijU2Ik2uvb6GyPmarr540A5SIu71Z0eLg99eDjn6ZvHc3xylSs2wvmBQ9tKnLmFX8E0h1HBKnB1B71P6wPx2v0nAjtS/r7tT/Nk8Qd8bITeYYt1A/8oUeA++iQVnizG2ynGCI7yqciFCftF1nUCJm9MOCR9c80O5hdTa/bj+5rz3TeIcN3Im2Bc4L+gTFa0qu2yxgZxcUl+5wnQeaGDqr8DN3q0U=;4dTfyLCV4d93hgocC2be1A=="
+secured: "a30yzyuI+Bs1U8YmLsgBy7t2gAIpwkK43S1yVB1dsvJsZt79jiXD3AcOAp5hq8SD9XPe3aWnhY5G7vZLCUFzYZckppHBmhK+9WMz/ujDMIl3IjWEIjWBG4LDQEr+frhgvmJ/d0D5U+s3aRk0cDgOW4YZrutbArjWXrPpaxtS7XfLnVmSQUMRdIphWCUpyptcHbxBACORvOyksOxbBONIykunW6NJSQklntVjPymp33abAwGdI+R2nhOiBZTMYPlTum4NE8ShS419bXDHgHWwlWeEY4VTPflQZ/MfhjvvHrmix/lAdSdUzhglXNqB7fNk8GQK6A0Pz5DEDcvQecosXHGdG+bwCUIPt3nfJzmKX6o=;DxcYYs9OgQgvBaY+DaMNGw=="
 ---
 

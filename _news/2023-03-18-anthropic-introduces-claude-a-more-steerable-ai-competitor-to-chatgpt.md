@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/anthropic-int
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT Gets a 'Helpful, Honest, and Harmless' AI Rival Called Claude"
-    excerpt: "AI safety and research company Anthropic just released its next-generation AI assistant called Claude (Opens in a new window). Claude is a competitor to OpenAI's ChatGPT, which ha"
-    publishedDateTime: 2023-03-14T17:53:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-gets-a-helpful-honest-and-harmless-ai-rival-called-claude"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "osWoYvLsmnWeKk+W/3FCd1vwjKo1un8/ZGpmOC2H+0GiPNhtLuErwj/baI/M+gGNrjjS2oRv37oVyqtrkSEImsRGY5ZqQ1wjQttVthb3RzDQVZhXkWaLYq7NVLA68PdGiNm4dIbsVyDar+grW4d/1NznV0Cm/+kMb2I5icQEmDEIG0TxhE4zYcZD5XlVJgcPRNX4D410/4N7vIDiMiNPyX3fsJ1EXitmktsDJu6QXqXEtTjklCLxVEY+JKbaw447Easyulsotifmf7q0C15taROuGi/Acxd6p0fxf6CsUv9Yij2K80dyz0GwdmCzlJ2hwX15tpQNg7Sw1d+tgb1ovgfGOMRcdCInmR8IBAr3NI+UQyaQGyLQxLGqI1yr8i35XaBf1OpKKTUu/1KG690ThjeL85jQgv59x/6jH3yd2kr9YijX+RBsTSjWWhPYlZgFQHXQwYyvhp+PMn+x5Y6XSgz3zkX8PO5y3C5kl+/yzeXW0wGYm10Yq8utl0vFScQdZF8vS15sqqkqKUzCUecuJw==;boZBmvC9YzoNIvAu9WQ2VA=="
 ---

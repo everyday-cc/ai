@@ -63,15 +63,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
-    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "KpUgW3ay1HfAl3tR18o3XcWOcvsKumG1c1iX6GiCFZrPNqiIXtmYopkcDUPVA9H/nMveir8ZQSLrcrIAPWwY6Lvz+7kkljcRRCQElBOI6MO+okuFJnFiLW32VCzdM2kgAslhnNUSrvp13frtws4BevKNPJXAgsVCZeAdlr/ZTULC4+CyiskbfRSd4kA4rJudVWQzXh6x44ZkKxGeAZR9R+SU/egtr1fkgdCDnG9d9ruUaX2un23zfGXPJSlUEW4Pyf7kgKY1vvG5cWCr2KCIqzNjjfB13/CUcDwJfxADwxEHE9knxGOhoPoHcnUzh0Av/zeqGiWSIIZmcbrzjWstYN960IzHMiD3nNUPHehb+FYnJnfAHmhT62yt2zX5wC4KUaX7tKsDh4bMg23rVZ6+GSikKjPF4P565YjnT/dKRG2ixh41oTVrwEMRW8IQXnWzLJaMUjIIkektGS3gJVecm15bv21cTWDsUok0CeQNOugeOLKN9YzAlnZaKkcJEc858qjGxLlsUvIACj0scRSQAA==;IHQZflhshHQnf1IM0VymdA=="
 ---

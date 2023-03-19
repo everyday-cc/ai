@@ -59,15 +59,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
-    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "ParS7JDYepbmf2g2KxIxFNV9bctcIg2RxnhHx7fn2x++fn6gj88iYDtZXVPYT4fxDDsAm80gYPfHQhZ5zl4+E23iQ7QGPjP2pQojZG2ZQ+BSM9cFfxI1cwaF84CmYVS7wvBRP1hj/5o3hbIaU8vlMoyV8shnvHWsGw3xFC+tMq7Sv2xN4lU9Ok4P2lq3HebKWKHESy2iwvgJu5J4SYMuJO6Z1EOOdPuK7LNn5YGlUWPv7v9mHwGRwX5NE/H31TiIT95ArcUCLDuuHcrtyxeotWBOGqy5eDneSRFBpnBGc0MbVFxsU6HuXmV0S7QAV9TLNmwjtRdd31Q3jHy2QTvF7skuEAETRhHyGPmF85VhQbz5Upl3S+9mJZ0hPwPSu8/gkCdSz8CP2kAr4+Yuxmt6MXOLRsdW/nIYYkYB3ACSjxt0eWmhvRzrj2arQm+ZvkVvKd7BffY5PQuILKKxKtrDcLgJESCNfaCFMc2MrAX1hZasmLMAzqk+Nh1AjFUcBIPpHgF75Rdwg0FfJC9D8eCzng==;R2nlOLZnaozFdT5aBSYnkA=="
 ---

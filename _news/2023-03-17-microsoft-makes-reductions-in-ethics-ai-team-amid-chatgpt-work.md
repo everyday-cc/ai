@@ -514,22 +514,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Shares Inside Look At NVIDIA's Supercomputing AI Tech Powering ChatGPT"
-    excerpt: "Microsoft announces new powerful and scalable virtual machines that integrate the latest NVIDIA H100 Tensor Core GPUs."
-    publishedDateTime: 2023-03-14T17:35:00Z
-    webUrl: "https://hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
-        width: 708
-        height: 402
-        isCached: true
   - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
     excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
     publishedDateTime: 2023-03-15T00:54:00Z
@@ -743,6 +727,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "aSzgclV8URahZ75KMXbQ12rh6lPQzcUD7NOS9kDw2PIsPh6JJgxCpt1br8obllwqF+PKquEHaXP/iNcjb7462pDkNB55d79tK2ONmUUBXcJcglFyRoeQE8zANWZWB+L9Awv9kHqRRRcELpXMrcHypYER46jBfclP1AdBw5jSufLy0iRIynRyyU2t8KN53RoYNrIaSjNI7qpR+x3KA/K5LPmBPFMCP3k3ShhBuE8yhc4wz0yEpxHNSiWWY7ZaJgW+0VDu8YojddbKUss787Wo/HCsGUwGo+UcS+CpHmdhV+xHMWeuXQsqUN9AuBx6laAtOlzyG3Q9+ye14CYPt6iEAalLdOJQBzA/LuxIzofzTso=;LX6Q+G35Pf9a7bbUPivmvw=="
+secured: "oHtRP5/7/UFgv+YlP9OgO1uaO9WeAiYjfTyPBjgbg4H164cgyI7Jn9uTU0ZPIgy+/5uUxs7shoKf60QFfuGwtQBxr0Dfka6TL5FGiYz+1/dF7wsQIUsgdIyUhwQ43YPlNloykicRMrrkwTlJ2g2LxjGDzl7ykWrjP2Bcovr1YeKbNfqoBbr2GkZ2XM6Z63uhDQkbiVfF3uQDMaKWmTvbqNWNQDndnVSA4+8FYYlJNW389cIAA8cWGEh3x38I34D2grEIA04uvvefjdmBgOu73adlQgRDVlNSfGiRUc0XuuOpoapkWXjMc9D7M/NC+0YWq4uurTcZXU9opGD4AC0P9ksEYbCFPWj2+WUHyqzCUIiCNAEnNfqZC7SFiNUrbCAy2bzAByntAKBxW1gl4nBJFfTvE0Z8vtFyCRtJIYcW3vnocINwEYHEncCsOMrS4Wr9o+a6vLKVnhiXD3ycDCw3lriRt1OziP3wzdo6LgigXToIt05OePW+HfKlZpaUC0giQ+RJexlI5aN43RqRtLicFQ==;1oq3Ww2h3DcZyIFG/In02A=="
 ---
 

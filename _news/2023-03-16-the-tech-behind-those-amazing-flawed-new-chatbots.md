@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
-    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
     excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
     publishedDateTime: 2023-03-15T19:10:00Z
@@ -71,6 +62,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
+    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
+    publishedDateTime: 2023-03-19T10:23:00Z
+    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 20
 
 secured: "Ll1Dy+cpgVXjB7iHmBWJqi/3irMMFWXa0N1/pyGTxSTXBahHwIxInlBB/QtBUhLmtawvTBBYASBeKj4NVxf1fcM8QqlKTkpT8dLr1IIN1unFn1LJlOolAD5KK8DVXK4S/2Ijpbcwb5yD7olJyWcIvdrE4zPjDayzob6PDZ8suQOp8ELO3HXM5AGuKxUSpHyHtv4QMUzEOrSAVD8dvsHq8qQf987xJVnvPe8BBtdcRffrL7ljyWZrPPzY7Omhk674973kTAe1jLf2jkWxXzQ0PPcZKowOrpYlvrtkTQneTT2c9T494fHQ/lyjMZ1xMfWNj4XIKIk3yP7jxZU4BqsPL/o8Yiucr2UCblLnRBwrJwY=;z/2gRneOFu+KPlrp0D0t8w=="
 ---

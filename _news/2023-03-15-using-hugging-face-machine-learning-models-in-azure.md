@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3690828/using-hugging-face-machine
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Humanoid Robots Cleaning Your House, Serving Your Food and Running Factories – A Look at Startups Leading the Charge"
-    excerpt: "And it’s happening faster than most expect. Figure Is Leading The Way AI robotics startup Figure is developing the world’s first commercially viable autonomous humanoid robot, known as Figure 01. If recently released images are any indication ..."
-    publishedDateTime: 2023-03-14T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31347764/humanoid-robots-cleaning-your-house-serving-your-food-and-running-factories-a-look-at-startups-leadi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "kDJs1j+ZpPHWRhohMlGtb+QgjVRf5uHkLuvw6O2Fb2NsjPDLVQoGxDJiRhCQYXyVzwMHejpbxj8Q1cNj1GNndwkEW8LwGF5o3gH7rxYW86kR3QXSxfCzBE2x9NtwSJ9C2GwGADSCE29UeCnIpiY0oNeQqJCvK5xcPF06j0+2iPSdyMKHNFmVU0+Trzc0LyYAS43PI/lfHtzJ4mutBt3NC8ED8WN7q7Wv7LU2fAjiH4lJkeS1WmGWze4//TZ7jDHVYANRrGgG/IPvI7F8eDT8Wwi8sV80G+8+m8P3K2WS3/mafEVFlYmZSeUlazz852jJOjJLlQ591W1pWNsDGrFnbYAfuUYglxgxt0L0QXouNJY=;ggbNnSxoEMrlLAYfdvyxwQ=="
 ---

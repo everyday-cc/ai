@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
-excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT."
-publishedDateTime: 2023-03-15T15:07:00Z
-originalUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
-webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
+excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
+publishedDateTime: 2023-03-15T15:09:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
@@ -76,22 +70,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art"
-    excerpt: "After months of anticipation, OpenAI has released a powerful new image- and text-understanding AI model, GPT-4, that the company calls ... s testing it with a single partner, Be My Eyes, to start with. Powered by GPT-4, Be My Eyes’ new Virtual Volunteer ..."
-    publishedDateTime: 2023-03-14T17:25:00Z
-    webUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/"
-    ampWebUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800"
-        width: 1200
-        height: 800
         isCached: true
   - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
     excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
@@ -447,6 +425,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "y1wIgZ7AWxrzH1SiJnH6wiTUwxbggvivpaMQ8fJ6TyJg83t7HhI8EHBObeZyPnK7Gd1MLY7WMmBtiitb5qip2pqxHUEAPUwtafQUksIGSwIESeCcQJW7MTr5RwdYVNMZtfb6QL6tInrpMFzk/HgzAgzP9eI0XD+AY3bPJLbVIvfUADBNVcR4EheYIxiKM77xzN4wF3eSxhgl0ptj+gqWKYuFbfNoNHL//gHobECBQLvhE9H13IgarewpwbtW1DAXkRUG5t05PKm4hSxZypUz3CoTqDCVmK37vG0JH3x5hkD3QLCfgQ5dzwspPGySTst9PUmWNQUpYDPzRTOcF/Cxhsvc5EYg8zlaotxQ8WRRPL0=;14TbnVNNqao7ZkGgbtBRPw=="
+secured: "jeD+IrAWMTOrtLYTiHbFI1BsYytYaRN3xVdqVLgqfBX0DwT/hzsaFgOurZWgDrJpRMDJ8v5wLPRQc0g6mo0ZcWSS/XDvjFn3M+t4NsgPSgjcHOjjuKVzVFgyITvBKAUZYpQHI3cLpI3aYfY6H9uqy9dh8U4gfxq9QwSxfDfYgV2qkWv8n/tP6oClrl7Al3N7VEgQcd3W76cuBFVxlevJJWMCtpQQzEIlBtehJ/GpamUVqGCiwnkqpBrGSXURtgURc/5NGJTTSRe9HTjN4qPJEwGVZZ5q8OKLOmGcqLG4cDxXSFTRcpY+299OSZzIliT1yNs2Sf3iIC8C6Yl4aREScLONeUi0fRuuJFesc9gEtm0=;9xq1FoH7QjEXaVcAWUKbTw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features
 webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: PC Magazine
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
-    excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
-    publishedDateTime: 2023-03-14T18:29:00Z
-    webUrl: "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 83
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gmail: Google announces that an AI will soon write your emails"
     excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
     publishedDateTime: 2023-03-15T10:51:00Z
@@ -60,15 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
-    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
-    publishedDateTime: 2023-03-14T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+  - title: "Duolingo Launches New AI-Powered Subscription Tier"
+    excerpt: "Duolingo rolled out a new subscription plan on Tuesday that uses artificial intelligence to power a fresh set of tutoring features. In a blog post, the language-learning company said it's partnered with OpenAI to use GPT-4,"
+    publishedDateTime: 2023-03-15T15:55:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/duolingo-launches-new-ai-powered-subscription-tier/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
     excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
     publishedDateTime: 2023-03-14T19:14:00Z

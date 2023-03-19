@@ -184,20 +184,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "What Can Artificial Intelligence Chatbots Do On the Farm?"
-    excerpt: "Farmers are starting to ask what artificial intelligence bots such as ChatGPT can do for them. As a language model, ChatGPT can provide valuable assistance to farmers in various ways. Here are some examples: Providing weather forecasts: Farmers need to know the weather forecast to plan their planting and harvesting activities."
-    publishedDateTime: 2023-03-14T17:07:00Z
-    webUrl: "https://www.agweb.com/news/business/technology/what-can-artificial-intelligence-chatbots-do-farm"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 41
-    images:
-      - url: "https://fj-corp-pub.s3.us-east-2.amazonaws.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_37959.jpg"
-        width: 345
-        height: 238
-        isCached: true
   - title: "China's tech giant Baidu unveils \"Ernie,\" the Chinese answer to AI chatbot technology like ChatGPT and GPT4"
     excerpt: "Beijing — Days after popular artificial intelligence tool ChatGPT's developer OpenAI released its latest version, GPT4, Chinese tech giant Baidu, best known for its search engine and map services in the country, revealed its AI answer to the world."
     publishedDateTime: 2023-03-17T15:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-genera
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
-    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "NIflLZvXOja5soa8feoANunHXSluflXbU0+DKgWWPtn7vqBYftwXKSh4qQngEFyZjesOH7u4ap/8y/glXS6w1bMxPRntHvk2J5SRN72/PR1mb6ispFlsvIRZb1ZV1OlDwWFxR5xyyJfUsglT+olagnAdQNltNBne4LFApti+V5jV7IVy+etJV0dc2nsK/ZmhJEMpCr1xU5RONzspWTucC/91sGO99kMczgWoCQ5pqRzUIbpj8bQ7NQFLKs7mKSWy9+h8WBpyDmEZUvG2kfgCRH4DYZRITLzSS+PoBZLegYSop8YYp56Qd4Z/7u7XyCCsaP/oLUnZD+d97e45mTDQ1NEnHcufFnv4vBDuaK8PQqzYnvB13x5CRnroDChVBfuSJU9kGThmle6bTKDfUxKJAVHpw8faDEzf7Kcn8sAyGD78FpDXReIjSbnLjh0viZqSVm8c7dzBq2YXze7AnmDHk0XTNGvgDP3M6QHnkh8W7UrXk7iN/TCIFZbU1dbQYkbyMPQ/IAR15dL9ZRtdTTpdPw==;ej6k7Ymkrnh4Id197wtP7w=="
 ---

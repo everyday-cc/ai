@@ -38,7 +38,7 @@ related:
   - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
     excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
     publishedDateTime: 2023-03-17T17:58:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
     type: article
     provider:
       name: Electrek
@@ -147,6 +147,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider/38960022216389.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
+    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
+    publishedDateTime: 2023-03-19T07:14:00Z
+    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
+    type: article
+    provider:
+      name: legit
+      domain: legit.ng
+    quality: 48
+    images:
+      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "w4CsyAP049ZFVCDGf8GVrt/wfAH9lWhlnxEQoQYc2z2CA266ajWiGy8yeZOgAL4Dktna/HWKzcW8K2k7cBbX4HVhACBe135EBiDSnw2dMNUTiaQWRBItmDWbHMgSo4UD1U7uN7nuJZ6f3ks0p8hPhLNQS3+hkomApTLM3wLZnF38pxfU7EfWBKFcF5wnpaNlFZo98sx4XJUwTn/475pqspt9jucpH09dAdfdx2rnrcC7AADFjMNjKGU/633c6VoJ9wYfTQvBvtzRFhI2Wd+2+z7no0EiDSoGMATQ2uo5GmOT57ncy93k219bDOnIIu3GCwMxDHx34+hjElNlgx6W5Tp5Fu0TU36q4Gpw0H6kcH89jsWwOv6uWFwaIPgkoUuwici5wZZdw9+wzQyQXet9UnXrrDOIJg6c8U7sPWDBI9yyVEEuM5mLjkc1/6JecVRLzY2HhIMdHOyABPJ3YG3JAbCXDoQxIP5qS9lUwDejNsH4rL3DcGdr1gOgNRVGl9yK8BWj9nbv8NsjhX+g2Nr9pQ==;W/4LpSiZT5NP5dwfmDXelQ=="

@@ -74,20 +74,6 @@ related:
         width: 404
         height: 404
         isCached: true
-  - title: "Using Generative AI and Natural Language Question Answering for Corporate Insights - Mindbreeze"
-    excerpt: "Mindbreeze’s mission is made possible by using the most advanced machine learning methods that enable entity recognition, classification, semantic relations and processing, proactive insights, knowledge extraction, and natural language processing (NLP)."
-    publishedDateTime: 2023-03-14T18:01:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=157575"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 27
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/151963-MindbreezeVFT.jpg-ORG.jpg"
-        width: 640
-        height: 336
-        isCached: true
 
 secured: "tAvyKQZhTC8lbLAmWtEOalCfat/LqJww6CU9eP0VbQNlUxSQ7XHdZ8yz3f7WG+U9CBE/KvqYwEvDeqBrGfg/z+i73MeNVZmRYeUEny2MAHkSZ8rVAJQjl+OqygymUc6jHbkWzR61k5nD/KNPUFAV8JDCGcX87E3CvPse60AsZJ1df0c/kHkca3FMcne8z34kZ9qn6z0cXpzatmE0Hb0YNaAGM2It52J+O7hncYQBpOa6NqIrfa6FiomSGppWW559qgnPPZpxk97cK03YOsdCUJ+WOHddGn8TorJA+aIM4FDzTaWpCtX0Pq5AAeFKZuxLlxTE6aV+bArQHh1yFSh+2YRBIvqP8rCTvlH5zSpAkZVWB+11WHNW8/HQq5vBsI1ZzWlkEbEXQfKtX1C9nw14rjxHYOy+5Mklr7qJc4uq7GDTb9wudq36ofhagOaFwTA0N2cvnN96TZqlNuWkN4rSvaU9Q1O/CK0ZKSihj2oGVB+QIKL/dKnwUW/0WNq73xsQrn8d069n5TnAdPT+R9mapg==;A8vAlZjrNjkGqedxoO02bw=="
 ---

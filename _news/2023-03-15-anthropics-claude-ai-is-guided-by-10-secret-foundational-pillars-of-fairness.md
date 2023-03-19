@@ -45,15 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT Gets a 'Helpful, Honest, and Harmless' AI Rival Called Claude"
-    excerpt: "AI safety and research company Anthropic just released its next-generation AI assistant called Claude (Opens in a new window). Claude is a competitor to OpenAI's ChatGPT, which ha"
-    publishedDateTime: 2023-03-14T17:53:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-gets-a-helpful-honest-and-harmless-ai-rival-called-claude"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "BTlKEuqAEZI01sfFFgWuYyC536emrpam5x9xeCPl35KXm99g/bVZQxVLrJ9RZ2ztYAiNmmbbXYdJOM4jMpAmaraJbPEXZj+F+ncQOPKqUTBn99pUvZoLSrOrMYMVOah6B5nt4GKy53agj9duovgZEA4mBJ50CloeKdvTqoWYqblbaxCTrkkglR1FL+Qo0A3nyTXifM6B0VQz70rB3gHkrGixOP2IHRp6rLnrRt2aZM3a54gS/7D9+ztLqYB0ekKJT2uaJCfij1j8HdKzdqycq2mzcST3bYxTM2srdMe2eBaak39q9x8KtQD29Z9WYPZpSkloDqsja0ZS+/0UlOx2XLY7KTdmktSgADMHpNLqXAc=;WNGv7eJWhDsaJNyYLLBYcQ=="
 ---

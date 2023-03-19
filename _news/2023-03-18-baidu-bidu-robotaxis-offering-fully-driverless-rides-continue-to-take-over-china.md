@@ -3,8 +3,8 @@ category: news
 title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
 excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
 publishedDateTime: 2023-03-17T17:58:00Z
-originalUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
-webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+originalUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
+webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
 type: article
 quality: 78
 heat: -1
@@ -144,6 +144,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
+    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
+    publishedDateTime: 2023-03-19T07:14:00Z
+    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
+    type: article
+    provider:
+      name: legit
+      domain: legit.ng
+    quality: 48
+    images:
+      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
     excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"
     publishedDateTime: 2023-03-17T19:03:00Z
@@ -154,6 +168,6 @@ related:
       domain: channelnewsasia.com
     quality: 34
 
-secured: "pM0rsZIvF4ltN0fgud8AS2OjAkuXy6vUDo9w9lhpQvhiVmDafbP3w/KFwSFU9gcxGGpiYPfZYvQRAeUeDrGt3b5wUaE/0W0Aw8zSJlrHWLj0Mkq9z88JgAIWeEjaODOZnCuhTSeIjyEwnzPPLCNr8R1ncH3t9yWBnUrNQbF7wwvBrWUTctjA+Ydk2Jz2blPej97xbXuTICzN9OPMEIbSHQK/7pKnuPbBRNNd9jlZkjivjHpft8/ai1FSF6UuVHHTsKu43x+QoNcBiuZGWWXR8YDkkPNXwDrq+dfzhIBy4eq4tZ48peDv9nRLyQ7PuBznEdKFCDHv7spayf+ZD2jSIR6uahYP//CPCJNO5vL74oQ=;Dg+bpf+sMWExPSQ3XwFKlg=="
+secured: "ItDnJd5T+pHAEyd6HMzyXoDH1iQdUfFjlGDOzs4LbYLxLWqc92etPtnnssmgmWBnB9kl+ub5zTalkIruzrS4+1d2LwwlYu4Y5UzNBkt8gfBxoagIXdJp59JJAFXvP14PAnRn0/EbmgKZaw9FrkERKU/wzIg3bouVcHQE0+DFlkGveDOKkUvoydAFs9GkD7BDiapMiYKd8/OqB4+HYMrUQcdJ5hf4Lcq1nJpJRMjkrosH5iq84ajPUYp6uFQLMfbiPFXPiE6+jib0YfeNyoU3vgWnhXxBfNNsHQwbFDfvxxM1QDI023VOCOQC1jCpj4Hssdxus7AihPG4u8gKt8i62i3KG0+03HkNTOnM+oe0pCI=;c1YTyHzIQXcFVDKNIjllLQ=="
 ---
 

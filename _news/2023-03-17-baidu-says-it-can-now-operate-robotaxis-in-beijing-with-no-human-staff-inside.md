@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
     excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
     publishedDateTime: 2023-03-17T17:58:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/?extended-comments=1"
+    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
     type: article
     provider:
       name: Electrek
@@ -143,6 +143,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider/38960022216389.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
+    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
+    publishedDateTime: 2023-03-19T07:14:00Z
+    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
+    type: article
+    provider:
+      name: legit
+      domain: legit.ng
+    quality: 48
+    images:
+      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
     excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"

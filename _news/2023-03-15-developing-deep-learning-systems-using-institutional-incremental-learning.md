@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Humanoid Robots Cleaning Your House, Serving Your Food and Running Factories – A Look at Startups Leading the Charge"
-    excerpt: "And it’s happening faster than most expect. Figure Is Leading The Way AI robotics startup Figure is developing the world’s first commercially viable autonomous humanoid robot, known as Figure 01. If recently released images are any indication ..."
-    publishedDateTime: 2023-03-14T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31347764/humanoid-robots-cleaning-your-house-serving-your-food-and-running-factories-a-look-at-startups-leadi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "mZm7Y6Qp3R14j+gvuMOo2m8e8yKgDsdB1tTZhKSIQNWCwXXBO+y3RO+ctQPuDFYf4e7QvYHRXJenk1wPGGGuvWbRnXN7yp9E61z5MDwGWqCD57bdtRhBF56HJGa4B7lYywFHsCJjIUN+apdVEp8Q/UEjmFWQjTz86n0QSvxYC/q9LxaerX8L0nK6mG94zI1MrX+w4Pd2L/ZhIhwiNIculOOlZA782GCOEUZMQrXz4Hvus+cuIgov1dUMl60+0xq89TPLdgzSgvtMKINs/TEn1VUKlx8+WAHwOH0ZZllgfHWo4YokIPfFe9JRB/tLXQqTEdJS5hkqBrlxwo2oe7fbxg7aUmmhsOXjyONmK8uL+U0=;QRg5KWARUFiARxtUcdn3gg=="
 ---

@@ -518,22 +518,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Shares Inside Look At NVIDIA's Supercomputing AI Tech Powering ChatGPT"
-    excerpt: "Microsoft announces new powerful and scalable virtual machines that integrate the latest NVIDIA H100 Tensor Core GPUs."
-    publishedDateTime: 2023-03-14T17:35:00Z
-    webUrl: "https://hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
-        width: 708
-        height: 402
-        isCached: true
   - title: "As OpenAI releases GPT-4, Microsoft details Azure AI infrastructure behind it"
     excerpt: "But for those hoping that the company would live up to its original promise as an open AI organization, the announcement was a disappointment. \"Given both the competitive landscape and the safety implications of large-scale models like GPT-4,"
     publishedDateTime: 2023-03-15T00:54:00Z

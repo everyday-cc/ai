@@ -50,15 +50,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
-    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
   - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
     excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
     publishedDateTime: 2023-03-16T14:45:00Z
@@ -73,6 +64,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
+    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
+    publishedDateTime: 2023-03-19T10:23:00Z
+    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 20
 
 secured: "mN2gVDjOVhlBpXoGIL7/dXUoAtAPtuMsQ5qiBdJ2Hrz9if/qaM4payJe5xHOF8nBsEQzTknvCHcNCacFW3luAKJBt8tSM6QjCwU6YO6aoaS5uh1+6O31ULP1CQ3DQcUCeS6DC6Cn4+Uzud6YYgMMHeWGOq6erj4j7GWk669AIN00dOLVmnIFPYFsAgQW0/MlPvVGvie5rtoFMlmqE8UzEz8a2KAAlaQFvmRsFBBuIHS6RJKzALxj1mzKmyi2rcsltREO+XPr77JU/PwocF12ALiDMmUcwv2C4p5ZVLMUvpYKGeIbJaIe87k4a7ipFAn0qVqYoLHCotnHuChRBGhqV1gF0RtZJiT+4xUuW/qhj6Ow6VtzCtfX98FVTgH9Ka2lkoKoYazj3IvZ0H8Xdjq3PrsJ5BjD0nYOGjGuDInkGyos4pxBmOJIJYQYdqJyTNcNO5YTsyCvNx3UQba1x8eWjuwS9TEAYavUn1wbxL3mzHdQttzmmD6ITou0pJkXjYqGfGAnfmktbtzn+NPqE1iSEg==;RmgyxreaO9PqIlCsp4PcIw=="
 ---
