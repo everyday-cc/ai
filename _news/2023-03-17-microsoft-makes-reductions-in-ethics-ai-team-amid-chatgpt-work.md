@@ -3,18 +3,16 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
 type: article
-quality: 91
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI Ethics
@@ -22,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -481,15 +479,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft unveils an AI virtual machine powered by Azure and NVIDIA"
-    excerpt: "Microsoft has announced details of its latest VM destined for artificial intelligence workloads as the company continues to develop and release AI products following a substantial investment in OpenAI,"
-    publishedDateTime: 2023-03-14T13:00:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-unveils-an-ai-virtual-machine-powered-by-azure-and-nvidia"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 79
   - title: "Microsoft: 365 Copilot chatbot is the AI-based future of work"
     excerpt: "Through the use of a chatbot interface and natural language processing, users can ask questions of Copilot and receive human-like responses, summarize online chats, and generate business products. Copilot in Word, for example, can jump-start the creative ..."
     publishedDateTime: 2023-03-16T19:54:00Z
@@ -681,15 +670,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 59
-  - title: "Google announces new generative AI lineup in advance of Microsoft’s rumored GPT-4 debut"
-    excerpt: "Google announced a laundry list of new generative AI capabilities, both for developers and for users of Google Workspace."
-    publishedDateTime: 2023-03-14T13:01:00Z
-    webUrl: "https://venturebeat.com/ai/google-announces-new-generative-ai-lineup-in-advance-of-microsofts-rumored-gpt-4-debut/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
   - title: "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX"
     excerpt: "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks."
     publishedDateTime: 2023-03-14T14:42:00Z
@@ -876,6 +856,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "LZ54BEVllSpdhmqesYTAOvDaOfX0EJuneOWGJA6/PM/jLPC5kobAHHdkPDJt4R+ePXrmosfw75SBDiP78uATmhC1iiwXiMJBOOiUf4pl6kxSTQSqu4+WaBMYiqJIZ/q6sggzoZBiTi65iAUlOQWGolGUndrwI1TzkpolZ1GUf7AQHQEdQgnqfWNlTxbtEuzbQ6JqI/boZXy4cHQXrCJvFor3Y6QtNti/omJJFnJqSeUkbcERAUUq3/2thRfk01btxwkAJ+lXti/9gGcesHSYQ8OmseoOac96V6VSlmcsZ+OjzTPmg9E79xeFuBB+1id05pAgsUg4sWBbn7cI5eEMSwxF2EW3UHjHnho6uQvMmx0=;M+rzGKR+OWMeTjS8EdMCgA=="
+secured: "wSzdOiNvfjMyDN/pcAxNb+XbNMme0C6q6ozXO1Sj/h1VeG3je6tMLXDKzMA2A7O2zb3CeG0TZtVym1A0jJ4WuCc1dFESa6ClPZttGwuNnY1slK+D61UeOGrJuLYYr861KBoOIaslHlVSOUp50JuUvAgdLrJJEiWP0XKba11Cb5q6srLqrVmdx3BbrlVd5TP46+km505FYbQQ3dcJOFg5pdbVS3sQ2kJ9i5nvpFIYJgPHI27VJBG2OTtgbiz0sitOdgHnER7OjZrU1+1eRr8Sa6mILW7AMwZJAl6EXzVGArJQGDv5Neu03LP8M1s8CL51nJUXifxZJaFat68sIWsvHtdxpLkVPokDsOJRt8VkWWk=;IbvhMHGyT3QJ3y6aP+0wCg=="
 ---
 

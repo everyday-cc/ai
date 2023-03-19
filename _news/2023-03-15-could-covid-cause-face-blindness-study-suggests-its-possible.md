@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/could-covid-cause-face-blindness-stud
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/Long-COVID.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Long COVID has some weird symptoms. Face blindness may be one them."
-    excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme ..."
-    publishedDateTime: 2023-03-14T12:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 24
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/03/08/USAT/ad56124b-a1e4-4672-925c-26b3e63104ba-Faceblindness_advertisement.jpg?auto=webp&crop=3299,1856,x0,y230&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "omfxCzEUIvsysQd0CepqY90mh1m6onyK8y+9PLdoW81f5yIPjfJ8AHKCI1ODYGcAyMtqaUOtXoJFBMafCVplQ9/XxXCi9DrSkPgyIA8WD9px4QzARuXQLwKlQh7hno679kjiBAOssNlMetTCAxaTKZfkbH2EgVZZDF3Qwin3u8q3dyLxC9R3kEHfukKlGZHolJVizjp3rpY8A62xSOCJlwHFA3YAPHgSN64PMRR83+92eGIYk/zOo2KXIXZbolGyS1XkK6nXd/RDT5saq1RTcS2kdrKOsXGeXaLEuWAT/At55sefPFAZMHoH8nV56fLREvOYCAOfc0wrrBHJwB+H29RuldO1+38EoMTmGriLLw4qxU7wHR1jWrtlOlQvQBfel1QZW1Yhd1ktyNlelu/AJRlPiRhmUFHUQ8gXPJRdD15ZoCFF5U6wtS30mn2HuymR3ttW3cIns2XHL2zDx1wxHXUYFRtaTquICMRkwsn4GkFqegfyYRJgYviAwzKDmoZbNMsC0KehvE8YdNhBuNmsGg==;mAjT2wFkhhLtym8+ONlgeA=="

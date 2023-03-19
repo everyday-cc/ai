@@ -7,7 +7,7 @@ originalUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/ta
 webUrl: "https://brandequity.economictimes.indiatimes.com/news/marketing/tartansense-rebrands-as-niqo-robotics/98689056"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable"
-    excerpt: "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,"
-    publishedDateTime: 2023-03-14T12:25:00Z
-    webUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
-    ampWebUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 58
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
-        isCached: true
   - title: "AgTech startup TartanSense rebrands as Niqo Robotics to commercialise AI robotics for sustainable farming"
     excerpt: "AgTech startup TartanSense, has rebranded as Niqo Robotics. As per the company, the rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in ..."
     publishedDateTime: 2023-03-15T09:57:00Z

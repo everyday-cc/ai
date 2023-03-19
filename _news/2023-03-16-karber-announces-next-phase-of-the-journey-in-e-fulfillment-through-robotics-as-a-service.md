@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
+    excerpt: "KArber's Robotics-as-a-Service (RaaS) program will provide simple access to a global network of robotics service partners for every business size and industry, emphasizing KArber's value on collaboration and dedication to meeting its customer's needs."
+    publishedDateTime: 2023-03-15T13:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Körber Supply Chain: Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
     excerpt: "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, Körber has unveiled its plans to extend its robotic service partnerships to combine the technology ..."
     publishedDateTime: 2023-03-15T13:10:00Z

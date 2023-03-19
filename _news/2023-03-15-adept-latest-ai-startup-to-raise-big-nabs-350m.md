@@ -57,15 +57,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Adept Raises $350 Million To Build AI That Learns How To Use Software For You"
-    excerpt: "With new funding that values it at $1 billion, the year-old company already counts Microsoft, Nvidia and Workday as strategic partners."
-    publishedDateTime: 2023-03-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/03/14/adept-ai-startup-raises-350-million-series-b/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "AI startup Adept raises US$350 million in fresh funding"
     excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
     publishedDateTime: 2023-03-14T20:59:00Z
@@ -109,6 +100,6 @@ related:
         height: 559
         isCached: true
 
-secured: "scNFCeZremUQ7V15Jpe/zmAc/4WAHK1uwoTGeA8kiWWA1MqLpGwD0DlTIRMsg/yc4oEEKC3g196XayisaHDvRxIeJ7STETZeLxUrqs6szJ00LZrFOy2tvwAteCQXpjGyFC0/Z9btjCSetzzE+SmvJ08lJl4ssou/OAYrrbo/t57nIqZbxG/HP/MTqltd0HL2MZ+KhLKZo0F43AvHTtuyXyxGkxjc4LZPBd2T3zwr5Uk6bWrGtmEymLUGIVhIyZFQwxVEDkOstB0t1xfmET3v0ppi5xKJWTWsE8UyMHK2pAj+EwjB6gs9JSXBzGg0yFnTrcGhvEk6j0Hm+lRVhZYWDk3ia45Mvxh06iXHMc7EWAk=;QKqvcGl82j5p6cBgQI4N8A=="
+secured: "aUKv7hWEp/lvmUCWzF1A/r6KcTOKmW0CNH/pYOa/rm00AONjvOz8Dd2S3NWc+ejjVjcGA2lhmtsW43MpxXkReoMQ8r0FtypuJpN956Kdz806x9ahs1BW5qrv+N9hc7uOw9ZxnDJ/UH6OvOSlUf8fEtNEeIrXC91G4fmr9opIsx9am+jVuS1KfFaTPD11evZnVU5v50HppGFY5NLUkXg1iMOWFlhM3dXKSHrnOf5XLIKmIGtIXJM/euDdN9mfZTnlCHdY0DYonmiKy9DzUZiKiPwHL+Di3hCw0AjZrYrs3ePk7SZ4yytvl7+rMjULQQ9PPRfd+AN+ay2UDCnIbnbhYfWmyeg1UoH1rqS2J/c+x7Q=;MUko3/d627ewM2izAC3p4A=="
 ---
 

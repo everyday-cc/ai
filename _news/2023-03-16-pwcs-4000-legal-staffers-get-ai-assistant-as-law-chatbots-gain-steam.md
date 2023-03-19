@@ -66,6 +66,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
+    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-03-14T18:30:00Z
+    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
     excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
     publishedDateTime: 2023-03-16T14:45:00Z

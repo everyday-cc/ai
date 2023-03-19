@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and
 webUrl: "https://www.marketwatch.com/press-release/predictive-analytics-and-machine-learning-market-size-and-forecast-till-2029-2023-03-15"
 type: article
 quality: 66
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "KPM Analytics acquires Smart Vision Works"
-    excerpt: "KPM Analytics has announced the acquisition of Smart Vision Works, a specialised AI technology company providing computer vision systems for the agriculture and food industries. Smart Vision Works’ proprietary machine learning algorithms can overcome ..."
-    publishedDateTime: 2023-03-14T11:40:00Z
-    webUrl: "https://www.foodbev.com/news/kpm-analytics-acquires-smart-vision-works/"
-    type: article
-    provider:
-      name: FoodBev Media
-      domain: foodbev.com
-    quality: 24
-    images:
-      - url: "https://www.foodbev.com/wp-content/uploads/2023/03/Smart-Vision-Works-1024x638.jpg"
-        width: 1024
-        height: 638
         isCached: true
   - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
     excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."

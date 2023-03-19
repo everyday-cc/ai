@@ -24,102 +24,93 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Six Ways Retail Can Leverage Generative AI To Transform Business"
-    excerpt: "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates."
-    publishedDateTime: 2023-03-14T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
+  - title: "How to navigate today’s conversational AI and text generative landscape"
+    excerpt: "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ..."
+    publishedDateTime: 2023-03-17T17:07:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/"
+    ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f0daeb4496d3e0006c97aab/0x0.jpg?format=jpg&crop=5700,3800,x0,y475,safe&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 599
         isCached: true
-  - title: "How AI Transforms Social Media"
-    excerpt: "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online."
-    publishedDateTime: 2023-03-16T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
+  - title: "This AI startup just raised $350 million for generative AI trained to use every software tool and API"
+    excerpt: "Adept AI just raised $350 million to boost knowledge worker productivity. Can they stand out among Big Tech's generative AI offerings?"
+    publishedDateTime: 2023-03-14T16:33:00Z
+    webUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/"
+    ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/8-The-future-of-enterprise-integration-and-APIs-e1674681044191.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
+    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 49
+  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
+    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
+    publishedDateTime: 2023-03-15T09:13:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3314427"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 33
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
+        width: 404
+        height: 404
         isCached: true
-  - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
-    excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
-    publishedDateTime: 2023-03-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
+  - title: "Using Generative AI and Natural Language Question Answering for Corporate Insights - Mindbreeze"
+    excerpt: "Mindbreeze’s mission is made possible by using the most advanced machine learning methods that enable entity recognition, classification, semantic relations and processing, proactive insights, knowledge extraction, and natural language processing (NLP)."
+    publishedDateTime: 2023-03-14T18:01:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=157575"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 27
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 500
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/151963-MindbreezeVFT.jpg-ORG.jpg"
+        width: 640
+        height: 336
         isCached: true
-  - title: "Generative AI and what the future holds"
-    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
-    publishedDateTime: 2023-03-15T09:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+  - title: "Google Workspace is about to put generative AI to work"
+    excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.fastcompany.com/90865094/google-workspace-docs-gmail-generative-ai"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
-    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
-    publishedDateTime: 2023-03-14T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
+  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
+    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
+    publishedDateTime: 2023-03-17T17:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "How to set up an enterprise strategy for generative AI"
-    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
-    publishedDateTime: 2023-03-14T11:41:00Z
-    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
-        width: 770
-        height: 434
-        isCached: true
-  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
-    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
+      name: Jurist
+      domain: jurist.org
+    quality: 17
 
 secured: "c2lZW39Z86yMxGtY1qtzL6nIYnl+JH+cCHW2mbwSqzEckfnfUNu395aN2Ar3WqJ2fRkZQn2gum8coHX5qFVcy2sYdzBHl+oKgxHX4p27OrYJTzQh1U7L+jUAonBbqktRmTeFN0TV4Cn9mHn0TO++X1r26yvDAcFNz02ienYFOIHw9qpPbjPZC+W+7BM7r8evcpU+1CjHTVURPYolN2QEQCVtIBQau27MPBZyhB0nsHyWva30BVmToZRoQCI9dmoha3LeuM3EcMhZPTUlSkR/sTz4sEB9DfSXU1Btp06PnEt3zbW/k3vvEQq5rQ+CH6V3bBQVgRnuXPfexYbqI6gfC+JZp1hxTY9HBBVQ489GRrY=;WxVxIhAp33Bn3p7Ic2kN+g=="
 ---

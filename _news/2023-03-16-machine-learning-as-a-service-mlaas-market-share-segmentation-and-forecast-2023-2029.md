@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15"
 type: article
 quality: 78
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -143,6 +143,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
+    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
+    publishedDateTime: 2023-03-19T05:22:00Z
+    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "sROihDT3U1BjLFxPrxEhbBleVWkum/uWsuzbpfklEybiYzJoqywZXCEOQSJFeOMWx+NioymUtsaWkWoEFx452yGB0tzpZOkyr7gqYNt5oUwiV5y6YWgofv/F/0q9julhX1lS4zClRaW/+V99htoKOXgMx0QitHEegzrvw9/5NKW9TejTgN0JRTlU7TRqFDeNT4fHl7IEOuYOLUHS/gl3dmaqcE7NQcfvmhoOLAg87EL2N3yjJ5xrWWBU2QnTopST8Tmwy0jOHPC3xzmAXq6k+6arZmxiRK+ff4LhDng3wpQFQRgiZov5qz8WSD07AjPEwxymdYE3zLTR0tBEGG192YqogmM/rIOO6r4QabdT/oc=;KgCZHipYTD1ej5Wf5+0MRw=="

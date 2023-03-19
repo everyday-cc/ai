@@ -3,10 +3,10 @@ category: news
 title: "Bola AI and Curve Dental Partner to Integrate Voice Charting"
 excerpt: "The partnership will see the integration of the number one Voice Perio technology on the market powered by Bola AI with Curve's SuperHero™ practice management software to benefit dental professionals"
 publishedDateTime: 2023-03-16T20:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31388703/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
-ampWebUrl: "https://www.benzinga.com/amp/content/31388703"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388703"
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/p31388718/bola-ai-and-curve-dental-partner-to-integrate-voice-charting"
+ampWebUrl: "https://www.benzinga.com/amp/content/31388718"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31388718"
 type: article
 quality: 59
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 754
         isCached: true
 
-secured: "0lCw8EiJXgcO0/uPGMeGabfXYNrQitlgJLdU3q6wrk+s6L2Z3nc32bvQZOycz4tDYtSBE4S2zgZe6qVEG+otyfbE8B3POYyQzGDQvElcjy4a8ADh7ktHweGhaXjnMCcHQFGNWoY0dT7TyCVOtDdYa7qtYv0ivabV2QlzoNvnCKKyllXU8U1AGy8riVfD25BVPPubj9Hf35lCiqKjKswto/tMYnt0fzmIbpnbjukwoJJBFssBfHwIVKDN5L8DsQJyfsyTQyTe1+Y0/3F+GEculgwSochvmA3RkHDsDxjjG8aKdM+mLCZt3JbZ7zi/LMP5VQsjShtjtdwaw+djBethkbfT0MHNQQbnojTPcArmuow=;Xr7gx1Nh1ze4ELkfy2d1JQ=="
+secured: "2d704go+J8CykrCsisTIF8RN0Z9R5Qj3V1gqbXakRv0OdnP2yEZvX9s0F/FF3mDx8Ejy0bXiFt5A0l4VjrK8d+VEFJJ1HvMxzpls36OsP+hgG4L7DKLEz1d37dR2UNSpkYphrA4RNWdJmmbDAUo5Gp4jf2arGoEE6Yobx4cYhQFu64TAtcUQfCafsbui4Py9K+V0XLB6ykp28tvZo/S4okDMltwarAHls3y1lTxVhw+63Xqy9MIodfjpsBYnZvrq+Hb5KrO96I1FKVXAnxPWMXIPHcIjVsW7UZvwGUzIxH8/e+wG77mJUXvr+lf7p+zh8e8J800qTDb3gYps+wcX82wNs0D7RFwU+8Z9daRzrr0=;B3b4pHmWDQsyDigMXcYILA=="
 ---
 

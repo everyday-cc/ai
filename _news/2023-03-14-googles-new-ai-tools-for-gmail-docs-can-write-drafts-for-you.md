@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
+    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
+    publishedDateTime: 2023-03-14T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
   - title: "The Nightmare of AI-Powered Gmail Has Arrived"
     excerpt: "Yesterday, it shared more details about AI-assisted Gmail and Google Docs ... Google — and Google’s customers — will start to figure out how people actually use them and which ones catch on. The most likely outcome is that such tools will reveal ..."
     publishedDateTime: 2023-03-15T21:24:00Z

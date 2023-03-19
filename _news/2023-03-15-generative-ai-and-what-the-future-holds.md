@@ -27,95 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Six Ways Retail Can Leverage Generative AI To Transform Business"
-    excerpt: "As generative AI evolves into an even bigger, more sophisticated technology, it can transform how retail operates."
-    publishedDateTime: 2023-03-14T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/14/six-ways-retail-can-leverage-generative-ai-to-transform-business/amp/"
+  - title: "The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI"
+    excerpt: "Research firm IDC said this was due to “significantly dampened ... Others said sophisticated silicon will help us identify “real” media versus fake or AI-generated facsimiles. And a few predicted that actual phone calls will fall by the wayside."
+    publishedDateTime: 2023-03-15T11:27:00Z
+    webUrl: "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/"
+    ampWebUrl: "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Wired
+      domain: wired.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f0daeb4496d3e0006c97aab/0x0.jpg?format=jpg&crop=5700,3800,x0,y475,safe&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/6410cb9d50a2c32c8d5d2868/master/pass/w30_MARCH_AI-EMERG-TECH_POST-PHONE.jpg"
+        width: 2400
+        height: 1350
         isCached: true
-  - title: "How AI Transforms Social Media"
-    excerpt: "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online."
-    publishedDateTime: 2023-03-16T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
-    excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
-    publishedDateTime: 2023-03-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
-    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
-    publishedDateTime: 2023-03-14T18:17:00Z
-    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
-  - title: "How to set up an enterprise strategy for generative AI"
-    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
-    publishedDateTime: 2023-03-14T11:41:00Z
-    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 37
-    images:
-      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
-        width: 770
-        height: 434
-        isCached: true
-  - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
-    excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
-    publishedDateTime: 2023-03-14T18:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/14/google-unveils-new-generative-ai-capabilities-google-cloud-workspace-developers-business-users/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 0
 
 secured: "cYKrQU5nLo2NamrjZToYbIWNU4tAaqRhMZiJd22gb9yE4gekXvjttQT5IIdq7p2NOS2IAU/JYDlIeJ9y+wBAVmjzCgyefy6mpez+fHUdGvqdWg7NA+MVWMHPDObRo+VIlnhWm3He+1YcR+3JIhFDa/qokavfY3f1Kaz5FBc2Al7dXzkZJLBewWayuadKSImJ7/yhsO23jyxfkZwOW+rIDqb8pJz9i7FOv8qMeVJRQyD3ILbVmkzZKkBVTxnzAY0GfGDL3bPNJhDoejcG4XlZXbv2cI9Gh+UDzWMwQq/4RA5iHJfixIRQF4TJj8HPDWK8MYSKZvcY5YfqY26VSgVDZQndzc7vAjmXJwPSv0IlQFUCHbGwlZ04V1aOkzSs2ms6p18mV/9V1e1sq841Q6sp4iRHsJcMJOOELgVc3VUGYOdaNt4BB8Izo8EDtr/wKr1LvBt79ijhvkuHgLZKemtPdd1SXnwwAwQAaQr4A2ceErSdfVRaFEEaO2Z0WDmCkJJfY8xKcZLp5VAvG14iLw2N/Q==;FEThf0hxPzY1Am+SjRWq5g=="
 ---

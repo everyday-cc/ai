@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
+    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
+    publishedDateTime: 2023-03-19T05:22:00Z
+    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "nwLqRLItUjBE3ttNiMXUbOHm6Vtn2hSM2hHsRBG18+LWpqjdGrgTh0aA5VOtZfAR2jZIg5boqn6khs2gzUef6duQFs1gnyvCG+1LMKBv3Pw0YfBr0WyLIjBg9fkMBUTSUVZrMoV8FD2Ig7esZESqyvPXh3m5QGpKbyARI229bUOjxHfOQeY5k5A7U9kUTCgfilfGqHXctyPvzZeNwdCephGQcCynSevePbf/X8F1yL4btb23xx6GTbXsBsWhPEGRuIqnG+rMVo0mLOUtp9eSvYRsJrfMf/BX0cfHlscFAoKuW2Pqr1Ig/2gj6gGNc2H9jDu6RxfK4DVI/dICinvlMv0s/V4QKhfBdHJOIFsFtE4=;ERoJTrpHhabR07oHtAkrbA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/phones-of-the-future-more-folds-less-pho
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2400
     height: 1350
     isCached: true
+
+related:
+  - title: "Generative AI and what the future holds"
+    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
+    publishedDateTime: 2023-03-15T09:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "cKOY1/D7b/49XPzjpvOoLoe8JImGcAkY5mNknIj0teE0S9zhyLDODFANXpLzAKlAbNsSJguNeJZDekUnbtEXQsSDDB3eyh7t/aDmh3QkodcpPIFKPHUut5Ldze1bCPLl5YEfjcqMhwHwNuCjSgK6GOT6VhHBzlcv3ED/KgeiUdwdFN5l5XQ1HUsc7ewppjByUl9mf8hvmVlYNhof3fbqLZHsngclk4SgSmedmt7EwGE326lNcLlupnmN4e2fmOEV3pKMic6vGTjUpOXAkqF/ek6zpAWfCfGMneaoNEZtDHHWSCp3wP2WcuTEO+GtX6skUqPrbj8RcETj7TnUGVrmu7me63y+7ToD4caazMv9KtnThKY63ye0C2YBP1MZiu7p0G2s6ZcqHGWhDPv/9maBg4uKNaqYoUol6gDSFw47pZ+5iGRNKZOqpp1cvJFeeddKX2xFtNOwsa/+0k4BlgtMchyfEWwdmhgIIrnRKygio4f55SMsR6P4muE47mFt/SxOqazE7PdfRZln9SicAfC4Ag==;PQ1kU4axJImZUnGkduADmg=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
-excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devoted to the worship of artificial intelligence (AI)."
-publishedDateTime: 2023-03-16T14:02:00Z
-originalUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
-webUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.html"
-ampWebUrl: "https://techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-gods-machine-artificial-intelligence-result.amp"
+excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
+publishedDateTime: 2023-03-15T18:50:00Z
+originalUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/gods-in-the-machine-th.jpg"
-    width: 600
-    height: 420
+  - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
+    width: 320
+    height: 224
     isCached: true
 
 related:
@@ -103,6 +103,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The Truth About Artificial Intelligence and Creativity"
+    excerpt: "Artificial intelligence allows creators to be creative, but even sophisticated AIs are really just an advanced form or copying, says David Z. Morris. This feature is part of CoinDesk's Culture Week."
+    publishedDateTime: 2023-03-17T19:41:00Z
+    webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/"
+    ampWebUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
+    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
+    type: article
+    provider:
+      name: CoinDesk
+      domain: coindesk.com
+    quality: 57
+    images:
+      - url: "https://www.coindesk.com/resizer/mxcZsOIZ4DsaqaiT5E7Jmi6MSIQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DS2WIVHO2ZHFRN2BANLRCQF37Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
     excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."
     publishedDateTime: 2023-03-18T06:09:00Z
@@ -143,6 +159,6 @@ related:
       domain: tmcnet.com
     quality: 17
 
-secured: "DgY/ZL0xMeX0x3g2Tng1ElpmpcgySKA2qRkX6YhCZJ9+aglujJMCnhD4hiVALDu7k+R6i/JiLEj7TtSupYPjcZ8mtl4pXTGLHNJf7UX+BOOu6F/VglTAMS1jBUZQBw0Qvc7hWbWLZvLfBesHpga4dCCZ8vynNrrfeiMHRI/5gpv+gOtjwn/OKs5WYk8Q7JteWPSRg6TpipiKgk+Vf+Y5LIqfUxgYUW7kZKrG4ycrpDJ0//Pfe/h6W+baMoZHaagS6XdzPHN3MnBTRn/IKgynbqGBMoBi+HQqMh8Vq3iHhmwN+xTXGVeHQIbkBlqCtipBSGI4C7bFplD61wtSBFsIJ5TS/nJ8LenVsX8Og2EUuhJZF8q3m+Mf8yr7PYm74dMBe2YpyftWDAS5F6Ac7cNyNjtJN4g3IWCwIGQBoLgX27AjX0A5txecVOfdd+M238MwdONK2wVXvSVfstoSAIjXoECieRrQD+b1JBkD7zjMvZX2NTuspJAX5pltBtFpBNWGjgUc0H3TmCPXBDkYySj9QA==;XMtfUNyVLSXVUeRXswrX+g=="
+secured: "8hHW5b2Ob23pMB9j8XmwnoA2jw7S1VmJCBA80IQxf5/EJ/U4J692/W/Kde6z7fgLKdpUgVgQWJv8nECrRThoHV/e405wbDzg5dNVgInoFRUF7EpyPzGZI9d06x9wQTjhrCLeYhhE0Fe0LOTVM56NfJCdiCdK1hWq47ijSqacGqOmkw9xDaTuCjtp9awgpY3JPwseM4Zn9SEPXQHh0FnWbJSL/N4fY9SDIVzQ1VmYN9Wr7C2Ybss7a7S5x707EEQffeGBWFonKewwmud1aicX7IE5XRW99SSITpTnZTgkRfEQe7UDn3qrB149o5aWtVZa36aV270jU0O+s3wEc8iXY/ExjtuH43GV1D7QWrEBZe8=;gQd6SqlI29bGqAJDFX79rw=="
 ---
 

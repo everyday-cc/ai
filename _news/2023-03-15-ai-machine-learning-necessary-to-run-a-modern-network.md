@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 816
     height: 459
     isCached: true
-
-related:
-  - title: "Artificial intelligence and machine learning are necessary to run a modern network"
-    excerpt: "AIOps uses analytics and machine learning (ML) to monitor and analyse complex streaming data in real time, helping teams detect and react to potential issues more quickly."
-    publishedDateTime: 2023-03-14T12:50:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/672487/artificial-intelligence-and-machine-learning-are-necessary-to-run-a-modern-network/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 28
 
 secured: "N42M4aFqSYiVTi3Da2iY+SOgrI4wbJFbeRF+SsW0D94/EyYNAc1uJ3CTp4AmCKjY8knDW96gtvuFgpUinLfJ7jc+TzIAum4q8jbw6JSW80tuuav6KBjNE+f5MCVKrrEpwz6UWDY84kSVTRyu4pi1MefZPlrfdkyUpHUCuIYgswISKa2fHjuI9XGqbnLejip7zbBxppiE3QyrUIfoULbC4bXHn3VtCi+AbIfEJ6Xf8KQm/uFlCoMgbECUXW3AMBMtTwxpdrKnuTdUM803uLQRAeFzZ8QhjeOTibAmnGCdD0kHcgaH/5rRXTOINr+94AC1f+ikDi/fG80gV0WYMRF8qQLwbrVibCGEdlKVRlJmahk=;DQsmFfTaWf/OHzzm+EVB2g=="
 ---

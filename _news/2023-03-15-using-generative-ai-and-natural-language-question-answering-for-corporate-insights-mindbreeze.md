@@ -57,15 +57,15 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "The next generation of AI for developers and Google Workspace"
-    excerpt: "Introducing new generative AI capabilities in Google Cloud and Google Workspace, plus PaLM API and MakerSuite for developers."
-    publishedDateTime: 2023-03-14T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
+  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
+    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
+    publishedDateTime: 2023-03-15T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 51
   - title: "Exploring The Ins And Outs Of The Generative AI Boom"
     excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
     publishedDateTime: 2023-03-14T13:48:00Z

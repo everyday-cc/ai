@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Noda Chooses ThetaRay AI Solution to Monitor Open Banking Services"
-excerpt: "Headquartered in the UK, Noda is helping online merchants in Europe receive direct bank payments from eCustomers via a secure and instant one-stop open banking payment solution, as an alternative to cards,"
-publishedDateTime: 2023-03-14T09:47:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/14/9776120.htm"
+excerpt: "Noda, an open banking fintech, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced they will collaborate to enhance payment monitoring and compliance capabilities on Noda’s growing platform that is supporting ..."
+publishedDateTime: 2023-03-14T09:09:00Z
+originalUrl: "https://financialit.net/news/open-banking/noda-chooses-thetaray-ai-solution-monitor-open-banking-services"
+webUrl: "https://financialit.net/news/open-banking/noda-chooses-thetaray-ai-solution-monitor-open-banking-services"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
-secured: "nvjNeetjarsJNr+kM6SKPC7ivIEAW4Gk+SXiTPKVtFhQRqVRFEt/NXngpHAt5OGQ/sgTkVvYZGpy0xAm1xmMRDI5GHPOMQwHjXhCyzx8HfV+VDSeO2bTCHC2+/QzOuzOwS6GKymGUIBDPqNbnt3Cth3DrTJg8XVilx8cbcsiR4foR05D7wyV0+C4mwVFnPSlp5jX9QtG5/aWt5jQcmBao1LOH5tsEG+MOYi4G4/+mhUMbw39c8Cq47XTafk1g/t/rYTDL2CiDHjiHAzkJwz4TWin2D7LBqbJqZIM3Duu8v9Tc778FP+Bgepl0dMne94S+QdZlOpu+sdSgQht0MVomthhTDgRZf5Hc+5cD+RHjF8lLcXzYfugO68m6JHIXUfmiE2XS558B33TJqugAwHLJ1ZD43Ed/EesChKxVF08FI9JWv4EEUdduYV4W0hGa/XG1KK2Ztpf+FMWUepkFoSdbegQTvgEdtnRGFhhu2/Sz+uO+DDbaYIQivRXqsxLsvWTgqDJM2qhRnlQOky1IFekqg==;ehFCiRJ/0PCCkMOvke77Bw=="
+images:
+  - url: "https://financialit.net/sites/default/files/noda.png"
+    width: 1366
+    height: 768
+    isCached: true
+
+secured: "O7KUd+xGGP4ER0uoefK3w1GikpzyxxqgQqaQV4enLEq/yZ7nfpI7YmY57QNEE3ssfVmrTKAF8u4wLmEDXJeqZsl/qAwq2M3m+nRG/Jc5gA+fw5zEuEEYA+IZV6e/aLspcL7f5XRe6MiNygawX3ps6KwoOruNm5aIsJzxwq64tjmiIMqe45LDLPvUbK84uSxd8bxo6E6vwE0CgFl7SHFbtQjb73K/V0itE0gahAYsOgsPTr9VprRbkcH1ZuoEfmo3EdB72+GUKaumL5OpNbkyDWqlWjUi85L1u/YBVTsPB3yBAEKhRdb9N9u2Blc8bnVZqtlC4rfISzrh7VP8UtID2N1WUbZB3MC9M06dRmUsmQA=;66Bg9MXooCEaJUzQZNr1XA=="
 ---
 

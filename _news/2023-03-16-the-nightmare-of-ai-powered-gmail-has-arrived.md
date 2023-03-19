@@ -127,6 +127,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
+    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
+    publishedDateTime: 2023-03-14T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
   - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
     excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
     publishedDateTime: 2023-03-14T13:37:00Z

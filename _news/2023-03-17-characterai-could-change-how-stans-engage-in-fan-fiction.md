@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74715"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74715"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_570790936.jpeg?w=1200&strip=all"
         width: 1200
         height: 689
+        isCached: true
+  - title: "GM studying artificial intelligence assistant that could answer driver questions"
+    excerpt: "General Motors is studying the possibility of an artificial intelligence voice assistant in future vehicles, according to the company. GM Chair and CEO Mary Barra, who was asked for details Tuesday by Fox Business channel anchor Liz Claman, referenced the ..."
+    publishedDateTime: 2023-03-15T13:33:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2023/03/15/gm-vehicles-artificial-intelligence-assistant-ultifi/70010009007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/12/08/PDTF/5fa7dbed-b341-43b4-9b2c-a43ae49ad195-MaryBarra_120822_ES01.jpeg?auto=webp&crop=2399,1350,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qR97DAc/R4PzLm0ugpOswtPgsXPS4hucH6l5XgdkQ+vcTQ4N+8jxwPXCupN5g9EBi4Rcda7xCAW1tsxTOAKAAzXsrFt6LWlAZoagAC9TMsOXupxMacSoAZquijLK+D2MOThTpKUAih3/oLSYRMwX906rbQzMkYrBm+8/AN7RUlf4XzgnC2v5LD+hSfqMz+VaoQxZlcxWJsJPcAifbz68fzSjt1R4e3HfN6hHTzC9hvkYpe2aJXlU6GA5iGtiaV7RoKcNHpKfHmu8ru4Q9WjYpOPSYNoIC1G9KBcEbxNk2C434uYxNznArFykT0uvzCmcRsFcukQc/h/yP7LoVjk9j8AuKeH8446XmvYMdR+KGF4=;gS+u3zo/J/0rmDpJFK0eTg=="

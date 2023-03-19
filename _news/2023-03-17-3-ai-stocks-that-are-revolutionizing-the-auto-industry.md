@@ -23,35 +23,60 @@ topics:
   - AI
 
 related:
-  - title: "How The Games Industry Can Leverage Advances In AI To Revolutionize NPCs"
-    excerpt: "So, how can game studios prepare for more advanced video game NPCs in the future? We'll walk you through the steps you should take now to be ready for advanced AI NPCs."
-    publishedDateTime: 2023-03-15T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/"
+  - title: "Ways Generative AI Could Revolutionize Your Customer Experience"
+    excerpt: "Be aware of potential pitfalls and take steps to ensure you don’t fall into them while taking a proactive, responsible approach to leveraging this technology and minimizing the risks of unintended consequences."
+    publishedDateTime: 2023-03-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62792c6a8956d9e3f1ed076c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Artificial Intelligence accelerates the fourth industrial revolution"
-    excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
-    publishedDateTime: 2023-03-18T13:36:00Z
-    webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
+  - title: "Generative AI output could be eligible for copyright protection. But there’s a catch."
+    excerpt: "According to a new policy statement from the U.S. Copyright Office, generative AI could be eligible for copyright protection. But, there’s a catch: Proof of human authorship (a prerequisite reaffirmed by the Copyright Office a year ago) is still required,"
+    publishedDateTime: 2023-03-16T20:37:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/amp/"
     type: article
     provider:
-      name: The Tico Times
-      domain: ticotimes.net
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
     images:
-      - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
-        width: 1000
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-26.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "3 AI Stocks That Are Revolutionizing Retail"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
+    publishedDateTime: 2023-03-15T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Salesforce’s AI solution for Air India to improve customer experience"
+    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
+    publishedDateTime: 2023-03-14T16:27:00Z
+    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "uF0TJBeBQMLaDiMu6iUXEvCWby5cQ4gTdZVNc/5zQ2y8VOsh2nQgKIGxH/O/Ul9JdoxMouHYKxJcHQladeTwoPWhaGWnRnO50ZeI4j8G+V6Bo6y6wSu/d7VBX3lJQKWjf7WgTfnz4k3CNM56Ny9lTA59Uk9JYfGt47dQbbqYhbLtMsg/O3ygpv+YBkQG0KImhh6iQkZP1sa5r1Wy7O/jRa9vJsyiX8Iy+jF2USErgyycFLHYmNJu9Qk93hBdaCNSqlcJpyqjEcZdDWWFGeRPg4f0rZ9r8g6NMYkjKfOFx86vqfaYsS77Ztm6hQBWWTCBL0lEDERAZdYCr3ZBxLHrkvtl07kgXL+zEOFJ7E7JspYgQTNWBzP4Oyv50hTy7FNH/8PE91mxpsJk2hnL+3J4t8Ct32VCjeF/lj8hfYCkjwetVRdy3C6vcq8wE/iDYw3UN5XeLHITrLC2fyMEd8ZjPv9gRgLA09WlC/CU6bMLXD/7OmKhSpkomB+ziyVch4xc6qaphtmhG/j1nFeeYHEBOA==;IGukm9qEtTpTwURDr/vtKw=="

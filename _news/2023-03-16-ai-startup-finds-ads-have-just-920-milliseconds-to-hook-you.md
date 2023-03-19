@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI Startup Finds Ads Have Just 920 Milliseconds To Hook You"
-excerpt: "Fractal Analytics, a global provider of artificial intelligence (AI) for companies like Pepsi, P&G and Visa, has announced a new framework that uses neuroscience to study how people make purchasing decisions based on ads -- offering a solution for ..."
-publishedDateTime: 2023-03-16T00:00:00Z
-originalUrl: "https://www.mediapost.com/publications/article/383486/ai-startup-finds-ads-have-just-920-milliseconds-to.html"
-webUrl: "https://www.mediapost.com/publications/article/383486/ai-startup-finds-ads-have-just-920-milliseconds-to.html"
+excerpt: "According to Fractal Analytics' research, most people decide whether to buy something they see in an ad in 920 milliseconds. \"Particularly interesting is that a lot of this decision-making happens unconsciously,"
+publishedDateTime: 2023-03-16T04:00:00Z
+originalUrl: "https://www.mediapost.com/publications/article/383486/ai-startups-neural-framework-says-ads-have-920-mi.html"
+webUrl: "https://www.mediapost.com/publications/article/383486/ai-startups-neural-framework-says-ads-have-920-mi.html"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 375
     isCached: true
 
-secured: "SUz7kEBZ8UNN42yuLhRq++ZZBMCe+p+m8NNTPcNLkSzwiaOO4zmihOO/jnA1edErMh62KX92GwMJ429jG6u8EsiQSAvDnPZeUbVZh9DnTb0Hdi31omoTeJJtqFocxgOrPg9oxgGXw/OK4xzqSyZ3ARdSZLf1adkPZ0fl0eLROZnIGIZZNF1RK6/hwTsZR9MS8KN2H85owEBMw8DZi7g+gpMEDQ6Abtb+THGaR3nMa7RU2bOuVDXUwXXcqmJ62pEMXJ7aNmLhMWm6rIj7IY8wR1FRV3Nh1mhEwAMh+d94lbTr3HiYpyCfOCLyWef706Xd7hrXI+gmkGkkQ9kghlygiawPWzDx9glcm0R0nAVabdPMEQfw2pgc9drmmjdwMgf6YTCEDI3ZXCRDVcXYghal/of4VuA4Oi/083ywNU0nzRYaWeEjbTntUQC5niwPj/Z9F/cwipYsYzw0baSSFyU2u4Z0IxhnQng9Zf4Fu/g0f2zuTpG2b3l9EOjw6tIKD39xU5uQ43iku5xPTT4yAK/7wQ==;wmRpSPqc4ssznnF54zRGMA=="
+secured: "AOqmE00B8apgW1A/2dwgCFuKNWFhlHdv0XcOUlxGbOhi9M/RojZfdQonFU5aFGHFX7upldmmD+5LaNOlLKdCj8ZbO6B/GOHb8cRBeM9lGX3PMIBS/JWWkoCI2dJdbjJ8TIsAHiP5tya19n6OIR22kGFiGMOcqQw+riEg1SJfM4GVMBADyduZNUvqLm4Jpgg+YMMxqgkqg+Cug4afZuSYn7Yi1a9q+ZFF41d/usaChm/s2iOt4KuG8aZ5axJczbVKF0E3GphhY6f9/z/hnUVawjSHT2Dkgdp+nPyKsU/EI0AmKqpF7AFqGX9rKsUI0+3jbNG9zcWkA7WKS3ruHKAQqFrUJhKfCU2ghor87vT5r2U=;nJGc/rS+7ZjG1jUfbjMuFg=="
 ---
 

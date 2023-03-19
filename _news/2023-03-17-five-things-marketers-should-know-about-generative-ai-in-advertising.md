@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "The Truth About Artificial Intelligence and Creativity"
-    excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
-    publishedDateTime: 2023-03-17T19:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://www.coindesk.com/resizer/XpZJzstQjpqzDfTJfQ5GyIbkKkU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WNFD47LZ2FEI7MG4DASDKMHUWY.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "The stupidity of AI"
     excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
     publishedDateTime: 2023-03-16T13:13:00Z
@@ -74,29 +60,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "PL-AI: At the intersection of experimental theatre and Artificial Intelligence"
-    excerpt: "PL-AI Civic Theatre, Tallaght ★★★★☆ When you invite artificial intelligence to spice up your evening of theatre, you’re never quite sure where it will take you, but re"
-    publishedDateTime: 2023-03-14T11:52:00Z
-    webUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-at-the-intersection-of-experimental-theatre-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 48
-    images:
-      - url: "https://www.irishtimes.com/resizer/pKHg5x9gitdfRmv43WXiScdJcgQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JEQDDVBQEVHFNPH5FUQ3UNANVY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Media execs weigh risks, challenges of generative AI"
-    excerpt: "Six challenges that media outlets face around AI tools, from the misuse of AI to generate misinformation, errors and accuracy, to job losses."
-    publishedDateTime: 2023-03-14T11:29:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/03/14/media-execs-weigh-risks-challenges-of-generative-ai/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 19
 
 secured: "SQ7HDjewcCP0zRqq17yigqrzmqGpciPh6NJoDYo+KiyV65mJkD1fHCJiKmIhM0BG3nifnGJ3n6n3fNZxi8/b0XdJ0AKbvh8uIuo5roDQBjyhpDHav8HKrWt0uBVuVEdVq6Z5ZrDV9MMrhbvvONCbI9Tf0jUozZbsiO8OtAILS3Z3Rt5mXjcfgqhxnOoFPRMNTm4D+hSsNnGVSOZO8V2/6JzNmkVqIKOGwwOI5Tz+bKk+GtZF+QO0Ji/pq8H8ErkKXa6UkCIhqy2xkAAJUA2q3kuA9v+QC4+aqP6p40NRBE61lOqjD7qDZsQYbaSBYV3LnOTtEz/NXgdjkG4l3wUOUBh57D3vIjovYQxN6mdZ4NYa8tPbSAHwvRLlQ63jertMzi2C54WovaA2VtpmzSqGB1YkbIJUaT7PCfUTnEM5LUiSbq/ykYX5ceypxfMH/3uWiDNkBTxwXIdBvDIYyU4cL5Bp+a9zVPcpyE+64qFZdUplrTfSCVo+zoYNFH+NSc0m3dddrvKPZ3Mu9mPY9hTBNQ==;GNQlH04H34ltYJhWbwpgZw=="
 ---
