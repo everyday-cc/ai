@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Animal Learning and Intelligence News"
+    excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."
+    publishedDateTime: 2023-03-18T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "nfHJ53iVOL6pzrLyDB/u5/S6gN+QDrPaQStyes5A2NHm+EZbmoqkKhUD4c3Fsk62IWfdvYlbJoFmcYuSZ/a5DSFBXux0a66p847NeY7b1PDTK90O/F8D0BNRZ/P1ienU0OUz4qwRvIFlSgs4i/eOHze7aCy8FOM0/dlC8kSxtG6gNRxWIAhgN0pp909LeyquWzzzvTfuZA983ZFo3xHa0YYPo9yojzY1yn1dglUQh3qNQ0MBO3LV7rHfua79FUWR8cuRHgVvRDL4ocY+2SC4r+j0MPK5jUCGmpkSvykREZrkaF1uAloFbok3cXBfEn1fUHymAss0HSRIjoU31iSKlrcQteOrpUm7T5rDXj2tF/F3oYM0+AyvB9BdPE3FSPGujhIouKkJD/XfBV9BtncjUdseoSZKcg3YP8fYuFo9HPPNMkPKRaB5L3gSmjJsMJ1yuX6OouQLZ+VqFuIitUWhijsxDVdE+nUsFT7YFDkhcCZwwNOiEHpKjn+j1KJq6oRCteAIE4vmXZiQIhrtIhCsMA==;RgFm8nBrnw++bQCllnhn+Q=="
 ---

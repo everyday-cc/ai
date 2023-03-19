@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
-    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
-    publishedDateTime: 2023-03-14T19:14:00Z
-    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 7
 
 secured: "8BWkhn1aC2WZMT1rqQb6gwq50yCpzNUJFHadaVKb4v79P6XMm6hBG0gVVo7JqFiLpd5pytdUW23aiqVpZ7hDfJotAqHjTdxKV3HRcu4NYnJiBqncVBTFVbAFIPovhXi8yArFGGGV9Z0iqvcWUYQLwTxlDOdaydNmLW/N5uOp3lSyq3bZRVq/IHUOXne3tqhkd5Ee7z2T9NqOoMMgU/h3iJ/JR5Qk+Y2+MC+P1uB2OW2N6SzfQpImTfHTabnmiy268NRkKMuvLX2reb8Z2ejAJdDD2BzhNFR5a43xGXF6QgUt9j8Qhh0W3ZZxK5oq4yw0zsr5vRAXBMPXz1Wvvc7+VbhaYV9ybyejilPxe95KEUTobK0s5pxachFIfS7wlralTz1xValGk5ceJA1l1ou5zl2ja0bqALEzRaRoazjK2kcPg7uBb9rQvR0pvwMQNsm2KObtb0EVIy3OxZpW2XVhvJuLJYzWqyBTXLAMk8D/cy+EX9mk44cLv5cseIBxYNOKF7gftVr2DKcqdDrI6brAHA==;hsgyduMJPQHz1CFQDZbNyw=="
 ---

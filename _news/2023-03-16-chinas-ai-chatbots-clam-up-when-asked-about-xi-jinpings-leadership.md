@@ -28,52 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "GPT-4 unleashed: Here’s what it will mean for AI chatbots"
-    excerpt: "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ..."
-    publishedDateTime: 2023-03-14T19:31:00Z
-    webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
+  - title: "AI love: What happens when your chatbot stops loving you back"
+    excerpt: "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ..."
+    publishedDateTime: 2023-03-18T11:29:00Z
+    webUrl: "https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
+      name: Reuters
+      domain: reuters.com
     quality: 69
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 913
+      - url: "https://www.reuters.com/resizer/4q2SKSKc-8d4xCLVI3VKBitHlN4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MM2VJ67XK5L6DDVJ4QJNMGJFHU.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
-    excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
-    publishedDateTime: 2023-03-15T19:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-03-15/pwcs-4-000-legal-staffers-get-ai-assistant-as-law-chatbots-gain-steam"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
-    excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
-    publishedDateTime: 2023-03-16T14:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/16/the-tech-behind-those-amazing-flawed-new-chatbots-quicktake/7fe87cf0-c408-11ed-82a7-6a87555c1878_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5HYGBWEBAI63AVHNKDVKXAYPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
-    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
-    publishedDateTime: 2023-03-19T10:23:00Z
-    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 20
 
 secured: "abS0Ll7cloucSkzrYewLt+XyP6gONx2WZCKHIMOmIvI18NkPN/wVU9ttHwOiH6KBGkZXchfNvdR336Z2NBHF9qdHGrSAI6Et2+BcQ6VDA6TtyTgCMCVBvGP37AbzoAlt+yMuJY1VHi8HMr5K2ELWuS6nJ6dcu2rSd/wdNwQWd8hbRfTMyQcLgFIQkGhk5WbJIPP29FpmWiNn5gJylsf3Iv21RGwxtTrucjTzDbSLjkunp1p4+d8ReO+olv5E7uIBkBgGoqtyKbXb23Os7L/HjvyF80R9xi3LRFzaRNHItrdxcjJoEaJrysf9P644uOq4TD1En/JzN50W0lFMBXE7DW11JVrRkQFWjvjyw4zSqvHDGCozFzo9k8wur0cZAbYMmYO2QLvk+OJeIAZ22LIJph471pGIXlJXOP7WVBDiXv7gzhXqkvv08fdwfXt7/k8yQ/vtHabSQ7/7riEnsjAR/udXAAsTbC1z+50l4igU1NKIsCWF4gfmcqMQHA4NMDkc64kgCnMnJJk+sYZrvFHRng==;+ypUo23wZxPwT1SW5gQm/Q=="
 ---

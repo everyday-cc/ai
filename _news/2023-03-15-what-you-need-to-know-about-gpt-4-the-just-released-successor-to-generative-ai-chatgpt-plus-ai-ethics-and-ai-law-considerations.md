@@ -32,129 +32,149 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes"
-    excerpt: "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded."
-    publishedDateTime: 2023-03-14T20:54:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”"
-    excerpt: "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ..."
-    publishedDateTime: 2023-03-15T12:45:00Z
-    webUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/"
-    ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says"
-    excerpt: "The hottest AI technology foundation, OpenAI's GPT, got a big upgrade Tuesday that's now available in the premium version of the ChatGPT chatbot. The new GPT-4 can generate much longer strings of text,"
-    publishedDateTime: 2023-03-14T19:27:00Z
-    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
-    excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
-    publishedDateTime: 2023-03-14T20:20:00Z
-    webUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/"
-    ampWebUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI rolls out GPT-4 in deep learning push"
-    excerpt: "“We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning,” says the company in a blog post. It explains GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, “while less ..."
-    publishedDateTime: 2023-03-15T09:15:00Z
-    webUrl: "https://www.itweb.co.za/content/dgp45MaBkRnqX9l8"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/03/chatGPT-Mar-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI experiment tricks human into doing robot’s bidding: OpenAI report"
-    excerpt: "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ..."
-    publishedDateTime: 2023-03-15T17:20:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 74
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/OpenAI_Logo_96005--1a5ac_c0-214-5130-3206_s1200x700.jpg?dbcd8e3378513305b03afa91bce0566484275237"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
-    excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
-    publishedDateTime: 2023-03-14T21:49:00Z
-    webUrl: "https://www.forbes.com/sites/cyrusfarivar/2023/03/14/gpt-4-can-ace-standardized-tests-do-your-taxes-and-more-says-openai/"
+  - title: "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply."
+    excerpt: "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ..."
+    publishedDateTime: 2023-03-17T15:24:00Z
+    webUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/"
+    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 69
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6410ebb44fc14bff864167ff/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
+    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
+    publishedDateTime: 2023-03-15T07:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
-    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
-    publishedDateTime: 2023-03-17T10:32:00Z
-    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
+  - title: "Will ChatGPT& AI replace the need for formal education?"
+    excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
+    publishedDateTime: 2023-03-17T15:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 76
     images:
-      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-5.png"
+        width: 401
+        height: 325
+        isCached: true
+  - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
+    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
+    publishedDateTime: 2023-03-18T11:25:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
+        width: 868
+        height: 489
+        isCached: true
+  - title: "I Started In FemTech Before The Term Was Coined. Now, With ChatGPT And Other AI Tools, Here’s How We Can Advance Women’s Health"
+    excerpt: "The AI I used to handle would read a lot of data and answer a question with yes or no, or something in between This response was something completely different."
+    publishedDateTime: 2023-03-15T18:10:00Z
+    webUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/"
+    ampWebUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64118cecf39c7d25add501ee/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 628
+        height: 801
+        isCached: true
+  - title: "ChatGPT broke the EU plan to regulate AI"
+    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
+    publishedDateTime: 2023-03-16T17:27:00Z
+    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
+    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
+    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
+    publishedDateTime: 2023-03-16T21:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
+    excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."
+    publishedDateTime: 2023-03-18T14:18:00Z
+    webUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/"
+    ampWebUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/02/how-to-use-chatgpt-1200x691.png"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
+    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
+    publishedDateTime: 2023-03-19T03:44:00Z
+    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
+    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "What can ChatGPT maker's new AI model GPT-4 do?"
     excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
@@ -188,93 +208,80 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
-    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
-    publishedDateTime: 2023-03-19T09:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
-    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
-    publishedDateTime: 2023-03-16T16:01:00Z
-    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
+    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
+    publishedDateTime: 2023-03-16T09:11:00Z
+    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
     images:
-      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
-    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
-    publishedDateTime: 2023-03-16T10:49:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
+  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
+    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
+    publishedDateTime: 2023-03-17T23:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 55
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "GPT-4 Poised to Revolutionize Natural Language Processing and AI"
-    excerpt: "OpenAI's GPT-4 is poised to revolutionize natural language processing and artificial intelligence. We’ll watch the space to see how it fares."
-    publishedDateTime: 2023-03-17T17:25:00Z
-    webUrl: "https://pctechmag.com/2023/03/gpt-4-poised-to-revolutionize-natural-language-processing-and-ai/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
+      name: Finextra
+      domain: finextra.com
     quality: 54
     images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/03/chatgpt-4.png"
-        width: 829
-        height: 552
+      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        width: 2250
+        height: 1500
         isCached: true
-  - title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-    excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-    publishedDateTime: 2023-03-15T15:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
+  - title: "Startup Tells New Hires They Need To Know ChatGPT For a Job"
+    excerpt: "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI."
+    publishedDateTime: 2023-03-14T23:09:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
-    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
-    publishedDateTime: 2023-03-15T18:28:00Z
-    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 52
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRpoadoMy0Pw/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Apple may update Siri as it struggles with ChatGPT"
+    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
+    publishedDateTime: 2023-03-17T16:30:00Z
+    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 49
-  - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
-    excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
-    publishedDateTime: 2023-03-14T19:16:00Z
-    webUrl: "https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning"
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
+        width: 580
+        height: 363
+        isCached: true
+  - title: "Can ChatGPT Get Bored?"
+    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
+    publishedDateTime: 2023-03-16T20:48:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 44
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Open-AI releases GPT-4, an even more advanced AI model than ChatGPT"
     excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and mor"
     publishedDateTime: 2023-03-15T06:33:00Z
@@ -289,97 +296,88 @@ related:
         width: 1024
         height: 695
         isCached: true
-  - title: "OpenAI announces GPT-4, which was powering Bing the whole time"
-    excerpt: "OpenAI officially announced its multimodel language model GPT-4 on Tuesday, and the AI is capable of seeing images for the first time."
-    publishedDateTime: 2023-03-14T19:09:00Z
-    webUrl: "https://bgr.com/tech/openai-announces-gpt-4/"
+  - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
+    excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
+    publishedDateTime: 2023-03-17T01:03:00Z
+    webUrl: "https://www.wbir.com/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
+      name: 10 News
+      domain: wbir.com
     quality: 39
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/03/gpt-4.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1282
+      - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "OpenAI starts release of powerful AI GPT-4"
-    excerpt: "OpenAI, a Microsoft-backed startup, announced it is releasing more a powerful artificial intelligence (AI) model known as GPT-4. OpenAI, which created the chatbot sensation ChatGPT, said in a blog post that its latest technology is “multimodal ..."
-    publishedDateTime: 2023-03-15T02:23:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/openai-starts-release-of-powerful-ai-gpt-4-77308"
+  - title: "Apple Engineers Reportedly Working on ChatGPT-Like AI Despite Siri Design Flaws"
+    excerpt: "Apple is testing generative AI concepts that could one day be destined for Siri, despite fundamental issues with the way the virtual assistant"
+    publishedDateTime: 2023-03-15T13:24:00Z
+    webUrl: "https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/"
     type: article
     provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 39
+      name: MacRumors
+      domain: macrumors.com
+    quality: 33
     images:
-      - url: "https://infotechlead.com/wp-content/uploads/2023/03/GPT-4.png"
-        width: 640
-        height: 423
+      - url: "https://images.macrumors.com/t/vCqe7lzREajx3bi2wbyS8kBXh5I=/1600x/article-new/2021/10/siri-phil-schiller.jpeg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "OpenAI ups the ante in AI wars with GPT-4"
-    excerpt: "Inaccurate responses known as “hallucinations” have been a challenge for many AI programs. Microsoft stands to benefit ... OpenAI’s latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious businesses ..."
-    publishedDateTime: 2023-03-14T23:32:00Z
-    webUrl: "https://www.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
-    ampWebUrl: "https://amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/openai-ups-the-ante-in-ai-wars-with-gpt-4-20230315-p5cs5o.html"
+  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
+    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
+    publishedDateTime: 2023-03-17T02:55:00Z
+    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
     type: article
     provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
-  - title: "OpenAI unveils GPT-4, its most advanced AI language model"
-    excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
-    publishedDateTime: 2023-03-15T18:02:00Z
-    webUrl: "https://scrippsnews.com/stories/openai-unveils-ai-language-model-gpt-4/"
+      name: News 12 Networks
+      domain: news12.com
+    quality: 29
+  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
+    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
+    publishedDateTime: 2023-03-16T12:17:00Z
+    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 39
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 24
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1678890405_Lx4TRf.jpg"
-        width: 640
-        height: 360
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
+        width: 678
+        height: 452
         isCached: true
-  - title: "GPT-4: OpenAI says its AI has 'human-level performance' on tests"
-    excerpt: "An update to the AI behind ChatGPT has been released by OpenAI. The firm says other companies are already using it, including the language-learning app Duolingo, the payment service Stripe and Microso"
-    publishedDateTime: 2023-03-14T22:55:00Z
-    webUrl: "https://www.newscientist.com/article/2364375-gpt-4-openai-says-its-ai-has-human-level-performance-on-tests/"
+  - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
+    excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
+    publishedDateTime: 2023-03-18T11:02:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/18/gpt4-review/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/14203041/SEI_1482974041.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DP7KNYOTBRCFNPTLXMFQVRKG4M.png&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
-    excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
-    publishedDateTime: 2023-03-15T00:21:00Z
-    webUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/"
-    ampWebUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
+  - title: "ChatGPT has some thoughts about Aspen"
+    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
+    publishedDateTime: 2023-03-18T01:27:00Z
+    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
-    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
-    publishedDateTime: 2023-03-18T11:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
+      name: The Aspen Times
+      domain: aspentimes.com
+    quality: 24
     images:
-      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
+      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
+        width: 612
+        height: 408
         isCached: true
   - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
     excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
@@ -390,24 +388,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 23
-  - title: "GPT-4 unveiled: OpenAI’s latest language model takes creative leap"
-    excerpt: "OpenAI made their latest language model, GPT-4, available to Plus subscribers on Wednesday. Here's what it could be used for."
-    publishedDateTime: 2023-03-15T12:31:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/gpt-4-openai-creative-leap/"
+  - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
+    excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
+    publishedDateTime: 2023-03-15T20:56:00Z
+    webUrl: "https://medcitynews.com/2023/03/what-role-could-chatgpt-have-in-clinical-trials-a-bigger-one-than-you-might-think/"
     type: article
     provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 19
-  - title: "OpenAI's GPT-4 Model Can Ace The SAT, Pass The Bar, And Explain Memes"
-    excerpt: "GPT-4 was just released by OpenAI today, and the company describes it as \"the latest milestone\" in deep learning. As a large AI model, it's essentially similar to GPT-3—it accepts text and images as input, and it can give text outputs in response."
-    publishedDateTime: 2023-03-15T12:59:00Z
-    webUrl: "https://hothardware.com/news/openai-gpt-4-model"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 19
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 18
+    images:
+      - url: "https://medcitynews.com/uploads/2022/09/GettyImages-1026973286.jpg"
+        width: 591
+        height: 591
+        isCached: true
   - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
     excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
     publishedDateTime: 2023-03-16T13:35:00Z
@@ -417,15 +411,24 @@ related:
       name: MyNorthwest.com
       domain: mynorthwest.com
     quality: 17
-  - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
-    excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
-    publishedDateTime: 2023-03-14T19:41:00Z
-    webUrl: "https://www.ft.com/content/8bed5cd7-9d1e-4653-8673-f28bb8176385"
+  - title: "Cameron Smith: ChatGPT promises not to bring about Judgment Day"
+    excerpt: "This is the unedited exchange (ChatGPT responses in bold): My purpose is to assist and provide information to users through natural language processing and machine learning algorithms. I can help with various tasks such as answering questions, generating ..."
+    publishedDateTime: 2023-03-15T18:22:00Z
+    webUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 15
+      name: al.com
+      domain: al.com
+    quality: 4
+  - title: "Intercom Brings ChatGPT to Customer Service with Fin, the First AI Customer Service Bot Built with GPT-4 Technology"
+    excerpt: "Fin is specifically built to be effective and ready for customer service teams, using both GPT-4 and the ChatGPT API in parallel to optimize for accuracy and cost-effectiveness. It features built-in safeguards to increase accuracy,"
+    publishedDateTime: 2023-03-14T23:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776949.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "GssrKbBLWmBw1MR1m9bqcasqeAMyplbzqlbIVl0HNw40VAj6Ggzg2g9zMTRj26LAGBf8au2pX1rkecnvB4P7e0/odl9z2TjgpaWr3cp/oUJ6eLKevg2ANyETsyAkXeHH6OYXsKkKBTlQjnLZ46H4eElGqKDVvvPB4nylg3tT1/vmtX8m0DBV0SspQdDARY/GH5EtpCCP6xnCrUi/2KNn5wmpNug34y8Vb/7/m7F6R9j1adx0v/jmr4s4vp1krkexP0NQ2O3V9Ny9kLS/wWy8MVcF/DPOWcWyt7AcDxT8D5FbFD0hlGhqnojD0yQdjuBB8trGqYI0tlvPveZxZV0fN/FG9HglVWj5Q0D38j5oZ8AI2V9SFY1dvCBtVnnTKGHnj8ebrf2YBze1UA3vdXiRgEetl/q7jkE7qyfX3rM8DhEk8g0YQVp/iDAoe9A/d9tBhPxX5/38OISVyYz+Ct3VoEZJhV4eHHySmwiNr6WhFIXUC7t4KGJBgXi5nuXtPIPnrHNPM4YUnAVjrs4uxh68pA==;szQqyXxa/bqj0/xP8KENFA=="
 ---

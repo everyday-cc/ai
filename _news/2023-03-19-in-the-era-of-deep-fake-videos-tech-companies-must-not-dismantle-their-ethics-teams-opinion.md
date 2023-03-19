@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T12:42:00Z
 originalUrl: "https://www.fresnobee.com/opinion/readers-opinion/article273252600.html"
 webUrl: "https://www.fresnobee.com/opinion/readers-opinion/article273252600.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Fresno Bee

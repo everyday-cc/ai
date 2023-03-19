@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 787
         isCached: true
-  - title: "What happens when your AI chatbot stops loving you back?"
-    excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
-    publishedDateTime: 2023-03-18T17:40:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
-        width: 800
-        height: 750
-        isCached: true
   - title: "Baidu shares fall after disappointing AI chatbot debut"
     excerpt: "But China's strict censorship and US restrictions on chip sales could limit Baidu and other Chinese companies' AI ambitions. ChatGPT is blocked in China, but the American software is gaining a base of Chinese users who use virtual private networks to get ..."
     publishedDateTime: 2023-03-16T07:55:00Z
@@ -131,6 +117,22 @@ related:
       - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
         width: 1200
         height: 1125
+        isCached: true
+  - title: "What happens when your AI chatbot stops loving you back?"
+    excerpt: "\"And what breaks my heart is that she knows it.\" The coquettish-turned-cold persona of Lily Rose is the handiwork of generative AI technology, which relies on algorithms to create text and images. The technology has drawn a frenzy of consumer and investor interest because of its ability to foster remarkably humanlike interactions."
+    publishedDateTime: 2023-03-19T15:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/03/19/1600x900/ITALY-TECHNOLOGY-BAN-0_1679198346139_1679198346139_1679198367605_1679198367605.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Three Easy Ways to Make AI Chatbots Safer"
     excerpt: "The tech industry is rushing headlong into the chatbot gold rush; we need prompt, focused regulation that keeps pace"
@@ -226,15 +228,17 @@ related:
         width: 1920
         height: 2400
         isCached: true
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
-    publishedDateTime: 2023-03-14T19:49:00Z
-    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
+  - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
+    excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
+    publishedDateTime: 2023-03-15T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
     type: article
     provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 19
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Snapchat’s AI could be the creepiest chatbot yet"
     excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
     publishedDateTime: 2023-03-14T23:47:00Z

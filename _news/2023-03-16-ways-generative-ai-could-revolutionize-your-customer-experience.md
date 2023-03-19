@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "TxzEStyoM299CV1IDBxJ2ErjAv7oavYt4rtWKGK2R6AwpI389PHQ6TQl8boY8tRBXm0lDmIbLhFsG9qZkSNhK8n7aCac9KtDfg4jOiznzPkZ3VhJjKnq6N9sbxjBUYvoyMugAvP2snMNRImhQO5mgAjv8Yr5J1WBeJP0CfoV/rjpoA7lAxosac4HO9ER3zUFOxnDpsp3yMq8fytVfQ9Z34dSB8WWw3S98ejDYhNeG3LxA/gM6Qjm8N8DEpXljngkP0fn1MQr+VV/hIjYHPZ0tdpUi7mAI2gd7m46wJdEeaivnHDFPoqUY2Iv7k9bQ/S4HDV6wMPHF3asWdSJyzHauRtaAPTQyWYgDAe1elPJrHvmXKtm38su44lBBTNp3NIuioLK7C6tlO8CrR0pCjewiycBCeM+U3CZR/kEO9GEarY66V1cc7o7g+VUNFk0xEaU9aJlvJaMS11iglwZEBjS6V5b9wVgRAX1co6IZRu6+JfBr4dERP35Ywzoq/Zoi/aa+xwooweCHxib1YVfdbVp+w==;QWyAoZbVJCqbVIvRSr3+9A=="
 ---

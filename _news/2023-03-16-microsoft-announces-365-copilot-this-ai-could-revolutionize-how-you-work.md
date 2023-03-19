@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Cuts Team Focused on AI Ethics, Report Says"
-    excerpt: "Among the 10,000 Microsoft employees laid off in January, the entire ethics and society team within the AI section of the company was cut, according to a Monday report by Platformer. Microsoft still has an Office of Responsible AI to create rules and ..."
-    publishedDateTime: 2023-03-14T20:35:00Z
-    webUrl: "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 121
-    images:
-      - url: "https://www.cnet.com/a/img/resize/33cf84a347e0c3d2235eaafe11802a3edb769c2b/hub/2023/03/14/939fff55-4d96-439d-ad57-4a253cf75239/gettyimages-1246747435.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Report: Microsoft cut a key AI ethics team"
-    excerpt: "An entire team responsible for making sure that Microsoft’s AI products are shipped with safeguards to mitigate social harms was cut during the company’s most recently layoff of 10,000 employees, Platformer reported."
-    publishedDateTime: 2023-03-14T22:09:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 121
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1246861873-800x532.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Amid Bing Chat controversy, Microsoft cut an AI ethics team, report says"
-    excerpt: "Calling the work of the ethics and society team “trailblazing,” Microsoft said that the company had focused more over the past six years on investing in and expanding the size of its Office of Responsible AI. That office remains active, along with ..."
-    publishedDateTime: 2023-03-14T22:10:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 120
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1246861873-800x532.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Microsoft 365 gets a host of new AI-powered features"
     excerpt: "(Relatedly, OpenAI revealed yesterday that it worked with Microsoft to build a “supercomputer” in Azure to develop GPT-4.) Microsoft has reportedly been forced to ration access to the hardware for some internal teams building other AI tools to ensure ..."
     publishedDateTime: 2023-03-16T16:04:00Z
@@ -499,6 +451,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work"
+    excerpt: "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ..."
+    publishedDateTime: 2023-03-18T15:05:00Z
+    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png"
+        width: 960
+        height: 600
+        isCached: true
   - title: "Microsoft Cuts AI Ethics Team"
     excerpt: "Microsoft this month laid off its whole initial team that oversaw the ethics associated with the company's artificial intelligence (AI) software development efforts. Reporters at Platformer, focused on Silicon Valley news, broke the story, which can be ..."
     publishedDateTime: 2023-03-14T23:53:00Z
@@ -661,15 +627,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 51
-  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
-    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
-    publishedDateTime: 2023-03-17T18:49:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 46
   - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
     excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
     publishedDateTime: 2023-03-17T16:53:00Z

@@ -43,6 +43,15 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "We need to create guardrails for AI"
+    excerpt: "That may be the world into which AI is taking us. A group of Harvard academics and artificial intelligence experts has just launched a report aimed at putting ethical guardrails around the development of potentially dystopian technologies such Microsoft-backed OpenAI’s seemingly sentient chatbot,"
+    publishedDateTime: 2023-03-19T12:28:00Z
+    webUrl: "https://www.ft.com/content/3e27cfd6-e287-4b6f-a588-29b5b962a534"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "XQ8xdhWb2tANKllE0mjaAFAaZfuP6Ivkd+KPpiTgsN9m7KHAtqkdoj3bCM+DV8+c1kd93PMHlKjg/p1zjzLxfJi2bbn1kng8btc93npj25nm4QfbEdHYHNoFYAYIg7T/OL0XrJWVukCkirMPkV7F1PUza4VuHmHnWSmj3VeiscGHc5e06lzIJSMlxhiOj/dbc8v3olgFqkPU9QFvxx0AP+rx7hqwz41HeMIqmHE0rI50mfIMsmUfBitsFzR7Sm9BIM2V6qLFu5t8E5Q+gm/pWDwxSeGg2CCoy7SI7qZA2sVxRjkHHD8sdJjttsAPAazGi7iWvUu1xAQz5+E2PFHIIAZxM7xIiw6oN7yuPkQSxJ0=;nqw7iNUriGMAFpLpifyKiQ=="
 ---

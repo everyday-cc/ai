@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-g
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore"
-    excerpt: "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ..."
-    publishedDateTime: 2023-03-17T15:36:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130"
+  - title: "Nvidia GTC Highlights The Physical Side Of AI - Robotics"
+    excerpt: "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything."
+    publishedDateTime: 2023-03-19T15:23:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://images.mktw.net/im-701752/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200"
+        width: 951
+        height: 577
         isCached: true
-  - title: "Nvidia A 'Hard To Ignore' Stock As 'Arms Race' For AI Heats Up, Analyst Says"
-    excerpt: "Nvidia Corp.’s (NASDAQ:NVDA) recent stock gains are premised on the graphics chip maker’s AI opportunity, which has prompted Morgan Stanley to turn bullish on the stock. The Analyst: Joseph Moore upgraded Nvidia shares from Equal-Weight to Overweight ..."
-    publishedDateTime: 2023-03-17T13:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-a-hard-to-ignore-stock-as-arms-race-for-ai-heats-up-analyst-says-1032175763"
+  - title: "NVIDIA Canvas: creating panoramas with AI"
+    excerpt: "The newest update to NVIDIA Canvas brings another feature where AI shows its magic: create panoramas using the new Panorama mode. ProVideo Coalition mentioned in January that NVIDIA Canvas would introduce 360-degree images that can be used as environment maps in 3D apps."
+    publishedDateTime: 2023-03-17T18:54:00Z
+    webUrl: "https://www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/"
+    ampWebUrl: "https://www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 59
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/03/17/nvidia_headquarters.jpg"
-        width: 1024
-        height: 768
+      - url: "https://www.provideocoalition.com/wp-content/uploads/canvaspanorama000A.jpg"
+        width: 1420
+        height: 946
         isCached: true
 
 secured: "HRL8Vll9IH4u/wh5aXCNmsBZx7bepRnD2ca1mhckxiKtjM1MC0nQPoNeMqLPXYjHBcGr+w9wXxRQnasxhh/bUZbnaGSpBP0Vya9D7/chPOL8UWaCCLIJg/NGoAiDzDL/UjGIm9Rrujb0k25eC+89BN/R0P9HUXf5ci8uHpwULHjDnzY1znMSM9k7YWVccfU19hv2geDT77o5wBaaeujPTzH2Nt8EwVrDDS4qsOfx6nQp0kvD6PfZikL5iwAWj0ApWUi279dHWtmTwPfLFeEhHj3z5Lc1pOqLzmf4ceJ9MO/6izLRUMTLB4XOEVg6uWugO+qowsZu6ogRSPYzl8iLM7ZlBD1+o4XzZxl4VNx7iaEYxEQvXUeA004vW7cGq8rFXTdXPrZEOuIqL5exYwjf39aoJ6U7yZIbA++AasXjJbAlzIRpFbV70716sHNkPSO4Ce8zQIPKfyk2Ndj3d9RB80Zl6ZmENaABn5WbzLst8UcLMr3L1+ycHd8refVcu5a+u0IJIkTDunX5EtxG5mDedg==;nv1bBhTViistZQIjs3bgbw=="

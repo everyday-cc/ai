@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "pXspt9rutAtzLOJ7jFFjwOQKqM+xGrVxYKLiWbIvL/0g/2KgxwWwQ4IdnlliEDe05alZnh92H8TPDRennujHxnm33MnWfHzWMoI4gnxK83IMD1WSih/ctpYbpyBHZwmlG5CExVGOPyR6T9lptfkVOno1F2eSOKujfZaopotBHbwxY/L5ozQ0t9xtTrm6cTVyY1CPUdMV+Gobpn4D75kphRtV3K0/nuTug2roAJ1SIDLtJJkQvdjfDUEP3czfUVFbaTL7Hx7v5IoQMzoed0SAmh514RGZiSxp+h5DeyX7/c/oDQHxZqHVJ19fUuMjd8FdqCsH272rk9NBAZ1My4GwaCklJL0kd4umnsGgwEMEr83ga51Kaap3SjKM4HgGMMCp2LNTNl3WsyewdmfGKDIw/15bylVSS2GWGa/EnFLEr20fikplDXvM0M7/KxE6dKNJ04YNtTOi5QCksGZlOAuaiGJnF0p3VmhxL6uIf+bKGwS2LyDI08B0HL3ntgxE1aU2Os8qTV1dWywrN0Yeyg1Yag==;zXoZWltmP2UQSJBR9ZtFvQ=="
 ---

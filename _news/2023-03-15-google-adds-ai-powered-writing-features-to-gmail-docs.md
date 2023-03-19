@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features
 webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
-    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
-    publishedDateTime: 2023-03-14T19:14:00Z
-    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 7
 
 secured: "AFBsRih/+2T1umY7uEB02HMm0Ae4J9KJH9Q+AMaZvtspot1JqP213iC/pltDS4lkKE8G+9MbwPOzLM3HAlpRKKiM9k7uX5/DHSRh9Tl2jGzAE7rMkIX1VUxsTBaY9vdWDiusVSzJ3URjbLMcbaJ5P7SzNDpt0041b2AeK5WQ7lcwB4xaQiH4zX9BjoBKGeqVpZ0FcDH73jgXD7x2KxKQU8Xw/BBH3HA+/29yptM+0S/nZu2q1ILevQivyIXa9M8LFge0CfSCSQTOw6H+bBOHkJrsTEpuZMuVfetn6yxz0C1X1GlqXzRIkAnx00xUWFPvpUOFvMj3EvxE+V9jpe1YCY4UiDIzpOlKpwCaxLPHv7WHfpmg48fs5b8u1Qam7iTWzSewUYKTk54/8hzvSorwBNH/vIeCVQCX7PObmjNIHsYMDoG08O+sIKBpPZywmoueYQzdFSNdRhRv0UyY2wlp+6yaQaJtqH6Dwm2mbDMU7yDxGVoZsN4lGE68oALp0kXcdNOjN3dXhX9fk3FiwSJ5Rg==;iHJ7UEuLuaykt2aDGQL3Kw=="
 ---

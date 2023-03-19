@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Julia Wendel most likely not Madeleine McCann - facial recognition comparison"
+    excerpt: "Photos of Julia Wendel, who also goes by Julia Faustyna, failed to match photos of Madeleine McCann in a facial recognition comparison of the two. Shortly after Wendel came out with her claims that she is Madeleine McCann, Swiss company Ava-X ran photos of ..."
+    publishedDateTime: 2023-03-19T14:52:00Z
+    webUrl: "https://www.jpost.com/international/article-734784"
+    ampWebUrl: "https://m.jpost.com/international/article-734784/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/article-734784/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 56
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/527703"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "QENsHUpjCr02nduZtNk4cMMxOAlVEX3taNzPAkF2KTVRc4g5ko+yiPgiWNj+A/gj7GYiUYDHk3rcx2aIyB0PxoOyvknkki3qa503wwIbY0maUztV85QKtu9n0NCli14oJ30uKeC9V08IJ6Zx9HUaUl2Fb+RS3QBAQ0p2Qfd81b2Oa3Gpxn43xa/s156k1uIHi8qADY/uXVO2yIWH1o1c5rfF7hMnH/9DgdpYmPWJBZfuJp5xkML+kfMWxYVFnibZFqmWmT5khtk7RYXspEdqIHptBa9C81u9IbqkErp2MTrUeFrGulB3VbLksrMpzRGLLGZZ1XfGu3PJSQOwGoWzT6+89fXw3EiciGCvImpLszIYJKvZlcHoELzE+Thh8AJNIxkFJVXzhqR4yfWOkm9NBYfbcJSMFxV6Ik7iAm2TmpL/ZUJkNT4lPL7UuHSi1uUg0E0xeXWHZeJp3Vmki/OukRvhwW8wd/4M1Q3uDWVHmIqezNkyd1RAkdQ8cZdecoyMWXh1XQMC8T4VUQCiqdCFbA==;m6v3geDNOY42b/pUS0ELKw=="
 ---

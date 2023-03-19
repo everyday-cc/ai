@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "We need to create guardrails for AI"
+    excerpt: "That may be the world into which AI is taking us. A group of Harvard academics and artificial intelligence experts has just launched a report aimed at putting ethical guardrails around the development of potentially dystopian technologies such Microsoft-backed OpenAI’s seemingly sentient chatbot,"
+    publishedDateTime: 2023-03-19T12:28:00Z
+    webUrl: "https://www.ft.com/content/3e27cfd6-e287-4b6f-a588-29b5b962a534"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "iDVHd7GTCGP/xTLrhTQE4Qw82wsxvoFGzx63yGy3yDzMf2rB7pJ6L83i9ItmyRes1XXlvce+JUnfXkSh/I2eYlNIsyoDsV9h/+BkfEazgyRqF2KWQkGcFqSI7j3iOBP8KDskkpzhNJj1wXVXKc4XS1ciOdFIGVUYe///pEDKc2CaNxI816x4aSErYtTxAJZkeyw8yj/+/Wcq1YBJTHaoBob/NkO2nZq5fj1Y3rNfblzpsdyJuyz9pdqfAg1n7XDTty+QdVrpXmBmXkMG30Q6xqTtZ/i0ChnTYEmtryNhwwE+kX128vPolfXsxwoAANKLOfF9FdrPiQssZ7yeKzVNV8h6jN0kl7A+e6kWtdBIq4Y=;ZhQeMBJoZf2drr9Du1XihA=="
 ---

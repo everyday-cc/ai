@@ -51,15 +51,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 47
-  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
-    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
-    publishedDateTime: 2023-03-14T19:14:00Z
-    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 7
 
 secured: "FO0wXq7x0OVQSBrfDW5Bi5NslY1bx/Zre+BLdPHpcqn7lWuA3Y3JhR8xArehceTVMXYw8PCkUg52HjKyAjntL0t96jvFCVgPM/cPa06qWzfhRGv6FAh1ylMbptLI1Av2OrrVTcxuZj8Swd+yi5CMuq+iFu7zuTa9AYm0VwNFTDtSOYapDfGsR2hYGvf35ciLxPoKsEZjFL300LCoI03LQ0vwWVs7yNbl+h399wDAkt9p4K4i3PTsec2O2JOfzpVPO9aneUj6y3bzD6WmtR7QWpex97hItI/ONEP9dEPHIc8dW4JZt/XFdSkqNUyjSqgHz7Qvgn9D+bJ0FK0SFIWlnsT86lQTIaf+UqSDekKN/R0=;l4dvWmQ21+Apd2nhdJgfeg=="
 ---

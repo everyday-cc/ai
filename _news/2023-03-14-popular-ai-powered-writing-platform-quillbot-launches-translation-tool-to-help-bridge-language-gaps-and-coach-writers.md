@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers"
-excerpt: "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ..."
-publishedDateTime: 2023-03-14T13:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
+excerpt: "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers Mar (PRNewswire via"
+publishedDateTime: 2023-03-14T13:15:00Z
+originalUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
+webUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "5h8tNxYt3PtoAqQhfYteEyfxGNZq6fycxchebKb+g/+I88q8/66+RrkdChwgOzqGMFKbzuN0mqQHDde37lE1kNkLc9JWe1oj1XnqUu1zIODt7BpIiHgm45QCAB3YRQN5oj7Jg7Le2ve3zWtTOOJaJ3Yv0LDgTqiS0+DAVTIi/qfGYkIPD+u1Fi/J1wt/GfB8UCvEGdvwwiDyzQu9xJLiba2LT90F57oug+w32ro4tW9ITpHAHUd3Tl24amWogESLKe7gQztTmS8bGkCwsb4OuMdpNtJahm+XD7+ANkJDn6t73E5do9ytziqand6ov+eSrL/NLB9r8PqMpf19eRFBq/DzJpZ+cnn+hm9gYKtKQCY=;SdfiBjKJ4bzs+b9ZB5v+jw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "s0QVvBm6ALA8htzWBksRD3Su44jM8co/ifwKt6x7ZZqHpsUJjbILgRfkaHsWdYklpcLOuPareiTyZ5C9sapgvpIao+yujOvA3bLE5f1It5n/gztRPyMdHKJ7IB2ljqzUfchoJkl1O7mi9lR2EBjrCDYJD7lpSLW2JutzoS0kVMkhV+9C9dY6G5PqxP4a+iKSpllqKS63xdsE/Te2L7z5t4cHWNmkSc6p5GkO8yh5KisyUd7GNtk5VMoz/mSOQ0jCBWERuD2nHWFQjj2JpwNtka+JKfIp/ptZo9Cxv10FMJF+Xu7CcB/4pt13Q8Gjjln5po7bTZOfQhLmYeSyPSQrRrAiRBLa1AvDbcHqsI37o4E=;g0XqJ+ox6wHF08lwq6p8fQ=="
 ---
 

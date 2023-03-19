@@ -54,38 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
-    publishedDateTime: 2023-03-14T19:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
-  - title: "AI Startup Adept Raises $350 Million in Fresh Funding"
-    excerpt: "AI Startup Adept Raises $350 Million in Fresh Funding By Ananya Mariam Rajesh and Krystal Hu (Reuters) -Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a ..."
-    publishedDateTime: 2023-03-14T20:13:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-14/adept-raises-350-million-in-series-b-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "AI startup Adept raises US$350 million in fresh funding"
-    excerpt: "AI startup Adept said on Tuesday it had raised US$350 million in a Series B funding round led by General Catalyst and Spark Capital, as it looks to tap the chatbot craze triggered by rival OpenAI's ChatGPT. Adept had raised US$65 million in April and plans ..."
-    publishedDateTime: 2023-03-14T20:59:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-startup-adept-raises-us350-million-fresh-funding-3347151"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Adept, creator of an AI assistant that automates software tasks, raises $350M"
     excerpt: "Today it’s the turn of a company called Adept, a machine learning research and product lab focused on “general intelligence,” which said it has closed on $350 million in new funding. The Series B round was co-led by General Catalyst and Spark Capital and included participation from several unnamed investors and new financial partners."
     publishedDateTime: 2023-03-15T02:31:00Z

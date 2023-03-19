@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T04:00:00Z
 originalUrl: "https://www.mediapost.com/publications/article/383486/ai-startups-neural-framework-says-ads-have-920-mi.html"
 webUrl: "https://www.mediapost.com/publications/article/383486/ai-startups-neural-framework-says-ads-have-920-mi.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MediaPost

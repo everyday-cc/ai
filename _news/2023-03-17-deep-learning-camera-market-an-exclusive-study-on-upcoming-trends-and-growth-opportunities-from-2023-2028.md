@@ -474,20 +474,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Massive Growth Expected for “Speech and Voice Recognition Market” till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Furthermore, The Speech and Voice Recognition market research report spread across 104 pages and analyses the global and regional markets, providing an in-depth analysis of ..."
-    publishedDateTime: 2023-03-14T20:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/massive-growth-expected-for-speech-and-voice-recognition-market-till-2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision System Market expected to rise at a considerable rate during the forecast period 2023 To 2028"
     excerpt: "Mar 15, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision System Market” Size 2023 Key players Profiled in the ..."
     publishedDateTime: 2023-03-15T23:07:00Z
@@ -580,20 +566,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "The Global Artificial Intelligence in Accounting Market by Component, Application, Technology, Vertical & Region - Forecast to 2030"
-    excerpt: "The scope of the report, which outlines the precise market segments that the Artificial Intelligence in Accounting report will focus on, is a crucial component of the study. The investigation's parameters and objectives are established by the report's scope."
-    publishedDateTime: 2023-03-14T20:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-global-artificial-intelligence-in-accounting-market-by-component-application-technology-vertical-region---forecast-to-2030-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving Cars Market 2023 : Geographic Expansions, Technological Innovations In The Market"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Self-driving Cars Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market Research."
     publishedDateTime: 2023-03-16T11:55:00Z

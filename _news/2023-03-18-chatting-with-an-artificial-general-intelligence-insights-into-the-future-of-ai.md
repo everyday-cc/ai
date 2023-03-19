@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 455
         isCached: true
+  - title: "Animal Learning and Intelligence News"
+    excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."
+    publishedDateTime: 2023-03-18T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "Ko8C+9DDL8gl9iySVYJx1YXbs7GMU9q01wXl1w7juuzCRYOBIBBdkXbJlF3g+9Hdp9/rhiaJ+eTThw6kF4lcRmOScpSvaB+iMwKeNIMu9YP3NqTljilBr24d5fQZMHYvs0M/hEE7O0A7t7ktv8ngxdAdJVj5giXpheXUsIP6FEdHtx3lcaB4kn4CEuecc0L+ZuvLSwGhNpm2JkUzoeNn98JRXZ4MTIfMP3r2bpSvNrqnC+PwwwRP2NnFC/UsV7EPt3aOPo15RH1+CO+5EkEhJAGpjngETfR/VO8S4hM92DE4Mv2xns8sSzEOtwuJYswJAyT8T2tzXH8Mm3/ivLMDxgZuWBHjaCYXlPJTXLiX32pX8uiKkaEUy9J6hn9n1pwoi8HH9MM/CNOAMTWu8VI73ugF/Nj762b20Sw43ySPhtQgoKF52VYn6WnBG+aieWGmZzdYwguS6x5FDXvDThlLFseM0318QIuGCZBs5n2w4CgxKFtv0O0n5q/HVNmIciP7nb5xoPzh1ImVklgQlDb4Pw==;+Fa+Y4sp4qea8x6+N5L47A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T12:00:00Z
 originalUrl: "https://www.ladbible.com/community/mind-reading-beer-pump-thirsty-thoughts-homer-robot-207880-20230319?source=facebook"
 webUrl: "https://www.ladbible.com/community/mind-reading-beer-pump-thirsty-thoughts-homer-robot-207880-20230319?source=facebook"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: LADbible

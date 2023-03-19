@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://i2-prod.dailystar.co.uk/incoming/article29488343.ece/ALTERNATES/s1200/1_Madeleine-McCann-missing.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Julia Wendel most likely not Madeleine McCann - facial recognition comparison"
+    excerpt: "Photos of Julia Wendel, who also goes by Julia Faustyna, failed to match photos of Madeleine McCann in a facial recognition comparison of the two. Shortly after Wendel came out with her claims that she is Madeleine McCann, Swiss company Ava-X ran photos of ..."
+    publishedDateTime: 2023-03-19T14:52:00Z
+    webUrl: "https://www.jpost.com/international/article-734784"
+    ampWebUrl: "https://m.jpost.com/international/article-734784/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/article-734784/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 56
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/527703"
+        width: 640
+        height: 428
         isCached: true
 
 secured: "5j43tv2ntzpRtTrLet7bwnBVtQyMRrAi9nFMC/OfIWDvrQyz8/qA7vawtA4Xir/7J93r9oYqcvBJduO2V66fmkyC16WNBCXqyr6WG/gIyH5BZCWWrhxAzOhoJRXXq30zZrygDkAHxaM137vDzXB7FBC5dvHkrLO7ltLWUIlczPCjvHaDVqm7FtBieb1V5KLSBz3azqFaKebwqJ8F6rdmoWW2k48jkf1H0agSiv/hsW46MjTwe6K8bEFgXijqwUGRb95XdoRHLhOCwCyFCb9Zpv8CqMkhy6LkFdRBiBvlyA64oUaxfZPCTlbt/VXYVaPRVFSLfE73RELUpBXvW8VB/b/K54MOpCcUgMGbK4Gkz6w=;RJHYsk1vzbGN+GvI/inVJw=="

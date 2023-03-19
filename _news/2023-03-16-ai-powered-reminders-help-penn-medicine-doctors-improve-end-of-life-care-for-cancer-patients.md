@@ -23,6 +23,17 @@ images:
     height: 530
     isCached: true
 
+related:
+  - title: "Artificial intelligence develops cancer treatment in just 30 days - and predicts how long patients have to live by reading doctors' notes"
+    excerpt: "Artificial intelligence has developed a treatment for an aggressive form of cancer in just 30 days and demonstrated it can predict a patient's survival rate using doctors' notes. The breakthroughs were performed by separate systems, but show how the ..."
+    publishedDateTime: 2023-03-19T13:13:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11869805/AI-develops-cancer-drug-30-days-predicts-survival-rates.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+
 secured: "Pi6WEL1kcYO8235Hsc6KRMfc+t+8D4TGgoREZuifYWejdwOpTOn4ghLnYTeA5wBnaHPnmzyA7N5stQ1VlhIvPp32H/EWxH7yeo7Dy/DUo3dpUF1r0BuG/vJl1DhwVs8tjJq0OzXYLoNTMxONxp89gV2e+x90FlD0kera0dPkc1wXzy4BzZeF2RTB464imaYgPN/xyu6/oyWMZt+urI8xdnelX9fX1TuxMitqL3syTbDpT4tqI2skY/PZWfPMC4XBc+8S1ZlIfB6xk0id1NWP6CRxtDVpl2tSaf+/Zp7KOF2zCt9fD+GPFWHoysB9yVI8qlRCsKQXQOQ6N37om/ROwmx3ZSCGPZ00/tCLLbEdgZGk+O9wM5y0MSE7ilO61NaN+GYwh7d+ifQJIvRDevWLywGkhMpRtMS4445dPfG012O+mF78HGxeP8n6synywx4GoG0ZxwJwjRkO0Aw/UrMBknqONk4emB6wgmaspt4g+QQjtUHAWEUOq/hZfqsyPazPwIFMNAzDhiVnt8rtHleGzg==;bD6xp+937M+otde+VjOoKg=="
 ---
 

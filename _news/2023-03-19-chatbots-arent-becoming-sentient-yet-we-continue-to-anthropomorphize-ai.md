@@ -20,57 +20,56 @@ topics:
   - AI Ethics
 
 related:
-  - title: "GPT-4 unleashed: Here’s what it will mean for AI chatbots"
-    excerpt: "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ..."
-    publishedDateTime: 2023-03-14T19:31:00Z
-    webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
+  - title: "Artificial intelligence isn't close to becoming sentient"
+    excerpt: "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ..."
+    publishedDateTime: 2023-03-16T12:23:00Z
+    webUrl: "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    ampWebUrl: "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
+      name: UPI
+      domain: upi.com
+    quality: 61
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/GPT-4-visual-id-large.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 913
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg"
+        width: 1018
+        height: 681
         isCached: true
-  - title: "China’s AI Chatbots Clam Up When Asked About Xi Jinping’s Leadership"
-    excerpt: "For companies trying to ride the ChatGPT wave, there is an added layer of headaches if their chatbots are in China: how to weed out any talk of politics."
-    publishedDateTime: 2023-03-16T10:35:00Z
-    webUrl: "https://www.wsj.com/articles/when-chatbots-run-up-against-chinas-censorship-f7ee1cea?mod=hp_lista_pos3"
+  - title: "AI isn't close to becoming sentient—the real danger lies in how easily we're prone to anthropomorphize it"
+    excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions—from queries about the best Italian restaurant in town to explaining competing theories about the nature of evil."
+    publishedDateTime: 2023-03-15T18:20:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: techxplore
+      domain: techxplore.com
+    quality: 42
     images:
-      - url: "https://images.wsj.net/im-742011/social"
-        width: 1280
-        height: 640
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
+        width: 1920
+        height: 1200
         isCached: true
-  - title: "PwC's 4,000 Legal Staffers Get AI Assistant as Law Chatbots Gain Steam"
-    excerpt: "PwC said it partnered with AI startup Harvey for an initial 12-month contract, which the accounting and consulting firm said will help lawyers with contract analysis, regulatory compliance work, due diligence and other legal advisory and consulting services."
-    publishedDateTime: 2023-03-15T19:10:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-03-15/pwcs-4-000-legal-staffers-get-ai-assistant-as-law-chatbots-gain-steam"
+  - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
+    excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston’s Applied Ethics ..."
+    publishedDateTime: 2023-03-15T15:24:00Z
+    webUrl: "https://www.seattlepi.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "The Tech Behind Those Amazing, Flawed New Chatbots"
-    excerpt: "It’s like a child learning to pronounce a difficult word under the instruction ... on OpenAI’s future profits in exchange for the computing power of Microsoft’s Azure cloud network. In February, Microsoft integrated a cousin of ChatGPT into its ..."
-    publishedDateTime: 2023-03-16T14:45:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/16/the-tech-behind-those-amazing-flawed-new-chatbots-quicktake/7fe87cf0-c408-11ed-82a7-6a87555c1878_story.html"
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 1
+  - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
+    excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions – from queries about the best Italian res"
+    publishedDateTime: 2023-03-15T18:03:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5HYGBWEBAI63AVHNKDVKXAYPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 1
 
 secured: "B9Du2O+qPmUFIA5ry0z8Q+QFhg640stK+y8Jrv7btkuvhyw0PI/k4POsrhYwyEZz3qDZOw3UYybeYDsdT68pX+MZr4WZ2xSW4uzLkjgSZ+xfT8ogt9MPr30TvgkzbQA8lHdJ0aKmKPsHrPh7OSvLDbGh+IuAjSb4b/U+LlIWN50Tzh7FScAnx1AZLs/POwQzjoRtG9y4OhLpcn/olTyyjxLpldI4Dg9L+l25BugtRTOG3H8ZGoEzLTZQByxiu49ygpiDTKPp+HlvizkhH//ohqgtdWEGC3P9f8fadkhBBt+QxRbIg6SPpoC73GifDQ5nb33l4oZeYcRKJD2lmkjZ/fzt8GpZvI+ebG7G7THNA8V3mZOshYe5om9VxIvZftls2ibKENtbvbZ/AI5zK1jZsUN66ySaoQMSNG+OLZ0ElgVpIqeJZu4mtdDC5nEPqavwRxPFMMRB75oN1Z6qlNbG2+IMjb3Me9UUNkyWknS67m6KKDht5d7uWoifmtPqYzroXJcSuk+R2Q0kIqteHPq7aQ==;zxCaPvMWH9MQvrKSbgS55Q=="
 ---

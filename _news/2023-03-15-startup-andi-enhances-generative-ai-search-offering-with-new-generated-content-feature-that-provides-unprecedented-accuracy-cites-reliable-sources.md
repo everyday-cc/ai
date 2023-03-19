@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31361928"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31361928"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -26,40 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google previews generative AI features for Workspace users, developers"
-    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
-    publishedDateTime: 2023-03-14T19:41:00Z
-    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
-    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+  - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
+    excerpt: "Andi, which is building search for the next generation, announced today that just weeks after its initial launch it has launched a new Generated Content feature that provides the most accurate generative AI content and reliable source citation in the industry."
+    publishedDateTime: 2023-03-15T17:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-startup-andi-enhances-generative-ai-search-offering-with-/2023/03/15/9777725.htm"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Google Stock Jumps As It Unveils New AI-Powered Tools For Workspace"
-    excerpt: "The move comes as Microsoft remains aggressive in its approach to AI, with its partnership with OpenAI producing fruitful stock market gains since the start of the year. Let’s get into the details. As the AI wars heat up, you can harness the same ..."
-    publishedDateTime: 2023-03-15T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/15/google-stock-jumps-as-it-unveils-new-ai-powered-tools-for-workspace/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Meaningful uses of artificial intelligence for marketers"
-    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
-    publishedDateTime: 2023-03-16T13:03:00Z
-    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "nmR45Qu5uJ1EzO2kNlQaHvy9EM2jJ3LnIu+lC8QcXwbu/WBOVPlPob5tcnDiuqKV4tQttwvuERnUv6AvapGoSNWGSSjPmiz+d8CwCkqHx6Sq5BPKSGrW8wGIzejKBOLBS3d/W6/ysNWeV7FBh97Sf8pZakQoYBoebUwAM8tCEpRZWE1wMMoHLi3vsiee+bOHMDFutEtIw953/xbZ/safYOr6A92baSufRkzgURZ9p2KVfJSY1ICpXkN9lRYRGDLN07+Qe0L6WtXnoHymP3AX+YAUCZUOQM14h/NdnngamAVMzFCqdxXRwWtdTxCfdgqwPR8zhWV0JfRY11p4gh+jelrhK9UlEDeZP6eIxpCgQEE=;HjCPF/TokSxKK6XVYIMJ/g=="
 ---

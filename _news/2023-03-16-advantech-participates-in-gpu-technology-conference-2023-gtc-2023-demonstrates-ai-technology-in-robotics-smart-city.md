@@ -36,6 +36,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "With artificial intelligence on the rise, Congress is considering how to regulate it"
+    excerpt: "ABC News' Jay O'Brien talks with several members of Congress to hear what they are considering when it comes to the complex technology."
+    publishedDateTime: 2023-03-17T16:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/artificial-intelligence-rise-congress-regulate-97942135"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230317_abcnl_update_11am_obrien1_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "hrYPE06uuv6Z0h3iNa+Uju0PiUuRS8O6/GabE8H72E+ATL0RBPjC5i3350LptYDgwGSdx7naAhrShl/OLQyqgQEqvbgURNL8de2W9bJTbL/q7WzLi08wiwRuRagn8TNhcyhzX4trQwHSLot/d+OqRWzcHGSnwCF4CgmmXJPbzBJx1Z9EuDnIDZqis8nI+IR3HglUZ9L9GvTTtJ1kkYz5aZmyoEiEQcWw5U8LUK6DORy+oK0PpCeZxIp31Lk8yF9Fk8ipOuW856Jy0TBzp5pmbHo5o1Q4Vadeqo9lRYwkOoPGNWOljQ4upA2BP07dTc34OO3sQOy8iEU6riZBF4KfPxGCMAdYgRecCeWBeSqOukw=;YMX6S7aWSIk5b+anvCFtkQ=="
 ---

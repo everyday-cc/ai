@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
-publishedDateTime: 2023-03-18T02:30:00Z
-originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
+excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
+publishedDateTime: 2023-03-18T01:54:00Z
+originalUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
+webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
 type: article
-quality: 72
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: ET Auto
-  domain: indiatimes.com
+  name: Business Times
+  domain: businesstimes.com.sg
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-98745677,imgsize-116038,width-1200,height-628,overlay-etauto/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Baidu says it can now operate robotaxis in Beijing with no human staff inside"
@@ -164,6 +156,6 @@ related:
       domain: channelnewsasia.com
     quality: 34
 
-secured: "WmBJs+UTGxYPTfcecgP0znExcvZ/dzBMKH9RaGy7vPdQTC0u/uP+VIEtwJkGufIAvEKLE2MhsOXpEktgzb3n/KtBlElEfwaWJLU9WEEw+jnp1soLcF4zRXtZWUtKBV2bOZnCaevzM+hHDou1qL6dslyS+Fw9ibqfhk8IlwYh1xYMH8qKdTwAnK3wGYuNUCCrp7x229glGEnVEbEOFMxMmP849NDXNnpJvXs2RyfBbRc+r4mjSB484SDscwh8h76A1Bi+WkRw/b88Nlwrb2vYIGQ1FhDqYMdbzlXt/ttVThoEWP+NGTtvlMmmAYPz5jjexseIwUmaqwYUxJ7xhbodK6ld9khRFQ1NSrSn/E2s1Y9jEvaagngZJZUXFftp7S6j0qwHbdGN4lU11XumbgWmeP8+NIb/aabU1XCjjn/mJFDqA2B7vqbqG9kRu6jJ9mC8LVJGFVpi5sUJVdgABeTJZsR7zbnV7IfKq5cy2hYjHQsiuMuZ+DrjrSjQ+dJe7uXnSPVZ9VU7egWWkSIBpv2D/g==;V7NIGyIOy/impuJ6U9ydeQ=="
+secured: "eLN8DrE5GiEqrBpsBui5X+LMpi91lblKmLStCy/QAnk9D2P2FvfoCj3PgmT4kVm/WME7ikzzjiPenycrWAWXjvBB/EucKlqwAN6FMTYzdO3YdYab3MEIF8UJsTAxtcwmYvyXnZBnFCls3gknXWUxLHmK4he79UwsPmPQ7egz55zw7vJ+nAfkPcWEJI1qRtovoweHmTvsHmIkWPuJQPWqEAeCBeZj0SG+U8Cxvy++vp/Z+T81HX0qVK88wiZCr9uopq/0ItNYcFGCw8NuGWaHV0qWSLC8dVFFaUAGvzXyNcYrioMXEulMI5txbtM+HaGVEeLWJGJXtGmi8E9Zop2v2mxRi9OzrVOn5wuH9drPH7oPEtu1j9LCJ/YVqI4gecJszv7sTJ1a1DTA0qyflwY2zrIn5R723y/bQjizABTvX6FttLc8G85PIi84uZk1xb00HOy4zKoPUPJQokioenC2ORWhtqYnls2Y2DGMrY8NVtSRqXMBuwIk+sz149nsfifeTokU6Y14wZOZYRCxSgyiig==;AO4y7X/pxyaJgDs+dbfxYg=="
 ---
 

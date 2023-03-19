@@ -271,20 +271,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Growth | Soaring Demand | 2023 - 2029"
-    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by ..."
-    publishedDateTime: 2023-03-14T21:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-growth-soaring-demand-2023---2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Manufacturing Market Size and Forecast till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) in Manufacturing Market\" study describes how the technology industry is evolving and how major and ..."
     publishedDateTime: 2023-03-15T18:59:00Z
@@ -363,20 +349,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market: The Growing Trend 2029"
-    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Neural Networks Market in ICT Industry. artificial neural networks market Insights 2023 ..."
-    publishedDateTime: 2023-03-14T20:48:00Z
-    webUrl: "https://menafn.com/1105779217/Artificial-Neural-Networks-Market-The-Growing-Trend-2029"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?958895"
-        width: 374
-        height: 250
         isCached: true
   - title: "Global \"Artificial Intelligence (AI) Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
     excerpt: "Global “Artificial Intelligence (AI) Market” [Latest Research Report] 2023 provides a comprehensive analysis of"

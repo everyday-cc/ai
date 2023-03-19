@@ -51,6 +51,15 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
+    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
+    publishedDateTime: 2023-03-19T10:23:00Z
+    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 20
   - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
     excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston’s Applied Ethics ..."
     publishedDateTime: 2023-03-15T15:24:00Z

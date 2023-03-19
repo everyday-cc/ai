@@ -89,22 +89,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The Truth About Artificial Intelligence and Creativity"
-    excerpt: "Artificial intelligence allows creators to be creative, but even sophisticated AIs are really just an advanced form or copying, says David Z. Morris. This feature is part of CoinDesk's Culture Week."
-    publishedDateTime: 2023-03-17T19:41:00Z
-    webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/"
-    ampWebUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 57
-    images:
-      - url: "https://www.coindesk.com/resizer/mxcZsOIZ4DsaqaiT5E7Jmi6MSIQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DS2WIVHO2ZHFRN2BANLRCQF37Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
     excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."
     publishedDateTime: 2023-03-18T06:09:00Z

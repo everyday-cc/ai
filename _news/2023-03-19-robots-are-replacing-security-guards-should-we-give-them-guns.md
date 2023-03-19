@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-19T13:05:00Z
 originalUrl: "https://www.foxnews.com/tech/robots-replacing-security-guards-give-guns"
 webUrl: "https://www.foxnews.com/tech/robots-replacing-security-guards-give-guns"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Fox News

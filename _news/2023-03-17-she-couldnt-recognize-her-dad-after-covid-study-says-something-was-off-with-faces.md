@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article273176320.h
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article273176320.html"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -19,28 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
-    excerpt: "In other tests, such as face detection, face identity perception, scene recognition, object recognition and non-visual memory, Annie scored “normally,” the study said. Overall, she performed poorly on the face recognition tests. “It’s been known ..."
-    publishedDateTime: 2023-03-15T20:41:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article273176320.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article273176320.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article273176320.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 16
-  - title: "Can YOU recognize these famous faces? If not, you may have COVID to thank"
-    excerpt: "It sits between a person's ear, in the lower-center portion of the organ. It is responsible for object recognition, the storage and recall of memories, understanding language and processing emotional reactions. To test this, researchers gave Annie a series ..."
-    publishedDateTime: 2023-03-14T19:08:00Z
-    webUrl: "https://www.dailymail.co.uk/health/article-11859375/Can-recognize-famous-faces-not-COVID-thank.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 3
 
 secured: "ZPRQ9dczn5FqUjSq/axj7VKRO3oZI1kkUqVhLCRMsF6gMsPRe80ZR/IjHXDWygUdy4V1bFT8LzHyUZJF+DDnrjhWxU7grS1mLzoaGpsKZz5QZy137nNDSpeEySdzfq/FLgberD2S9Mk6GwDLsHcfKE1YiiMwT+gEOMz6Ba9+6JWIYLgLn4mWwVYP4gQHADTR6+VerpN1pD/hmKas/t5zmRZj6iUBAXMf1mjE/bTTXyijoN3SdtXqtNzsKI4s7UlwX/5O7fjEpjVDfyoAfudipwQiLvVyVU39XAFAa8LiPgkD8WpWRjgnmwlyKxhV3ZVQBfjiI6XFYwCetUypz3j/mcZ20JTVX6ckUILMmlTSzvXlElevZ9gZy4kLc6Z4lIlVDvo4cC8sDrEDrpEJhByMv23OyzqczAKqk82g0Bxote1XCiKDPHnntaM7+2ww5Ss6ynAobAdBD+UuOczla6D0609XPYcv/lT7QOcPUInCGZvHeN4Vg9I2Hy4AkU8gFodiPm4yqCDwH423X9J7DGCM9A==;75BtgSa/8Zjvr2Us1eguhw=="
 ---

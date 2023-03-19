@@ -60,6 +60,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Truth About Artificial Intelligence and Creativity"
+    excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
+    publishedDateTime: 2023-03-17T19:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "SQ7HDjewcCP0zRqq17yigqrzmqGpciPh6NJoDYo+KiyV65mJkD1fHCJiKmIhM0BG3nifnGJ3n6n3fNZxi8/b0XdJ0AKbvh8uIuo5roDQBjyhpDHav8HKrWt0uBVuVEdVq6Z5ZrDV9MMrhbvvONCbI9Tf0jUozZbsiO8OtAILS3Z3Rt5mXjcfgqhxnOoFPRMNTm4D+hSsNnGVSOZO8V2/6JzNmkVqIKOGwwOI5Tz+bKk+GtZF+QO0Ji/pq8H8ErkKXa6UkCIhqy2xkAAJUA2q3kuA9v+QC4+aqP6p40NRBE61lOqjD7qDZsQYbaSBYV3LnOTtEz/NXgdjkG4l3wUOUBh57D3vIjovYQxN6mdZ4NYa8tPbSAHwvRLlQ63jertMzi2C54WovaA2VtpmzSqGB1YkbIJUaT7PCfUTnEM5LUiSbq/ykYX5ceypxfMH/3uWiDNkBTxwXIdBvDIYyU4cL5Bp+a9zVPcpyE+64qFZdUplrTfSCVo+zoYNFH+NSc0m3dddrvKPZ3Mu9mPY9hTBNQ==;GNQlH04H34ltYJhWbwpgZw=="
 ---

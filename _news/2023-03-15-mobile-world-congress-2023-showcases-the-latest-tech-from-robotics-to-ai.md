@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-
 webUrl: "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 62
+  - title: "With artificial intelligence on the rise, Congress is considering how to regulate it"
+    excerpt: "ABC News' Jay O'Brien talks with several members of Congress to hear what they are considering when it comes to the complex technology."
+    publishedDateTime: 2023-03-17T16:59:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/artificial-intelligence-rise-congress-regulate-97942135"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230317_abcnl_update_11am_obrien1_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "h8e0SVLmB6Zh3XxXI327XHKdal/VnpLAEI2txZzht944ZidI+ChCfJrCkgWGVpDl6FNrtEClDX3wJbUWHxOVnTQTXrln3Wom15CRS5vE3ogezJ+YGNp9KRom7Ekxsnwxl6eCZhGAoZznOj1PvXEz8jdXWodY+GGhUElUPEvUk+FyqExOnEQpQgpKDpaGAMSgC5gy/oJVMBCppvH3UZ+wSD00+Hk5B4FITw9kgrsZxLsfijb+N/9mZM6e8OyPBHC1GkeHYVtVMhDfUGrKlNrxverlqZWbp5CBxM09rxqRzbqr2Hh2oLuCmKEp4eK8fgv/ReitSy3Sd2SNasPAUrOY83Bh6f+fXLrSgz96Y9wg0O8=;/7rGd9W7EA0qBJMTts/Wfg=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "What happens when your AI chatbot stops loving you back?"
-excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
-publishedDateTime: 2023-03-18T17:40:00Z
-originalUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
-webUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
+excerpt: "\"And what breaks my heart is that she knows it.\" The coquettish-turned-cold persona of Lily Rose is the handiwork of generative AI technology, which relies on algorithms to create text and images. The technology has drawn a frenzy of consumer and investor interest because of its ability to foster remarkably humanlike interactions."
+publishedDateTime: 2023-03-19T15:31:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
-    width: 800
-    height: 750
+  - url: "https://images.hindustantimes.com/tech/img/2023/03/19/1600x900/ITALY-TECHNOLOGY-BAN-0_1679198346139_1679198346139_1679198367605_1679198367605.JPG"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -228,15 +226,17 @@ related:
         width: 1920
         height: 2400
         isCached: true
-  - title: "AI chatbots are still far from replacing human therapists"
-    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
-    publishedDateTime: 2023-03-14T19:49:00Z
-    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
+  - title: "OpenAI plans to up the ante in tech’s AI race with another chatbot"
+    excerpt: "OpenAI unveiled new technology called GPT-4 just months after its ChatGPT stunned businesses and others. The update is an improvement, but it carries some of the same baggage."
+    publishedDateTime: 2023-03-15T00:21:00Z
+    webUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openai-plans-to-up-the-ante-in-techs-ai-race-with-another-chatbot/?amp=1"
     type: article
     provider:
-      name: Winnipeg Free Press
-      domain: winnipegfreepress.com
-    quality: 19
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Snapchat’s AI could be the creepiest chatbot yet"
     excerpt: "Given the brand’s overwhelming popularity with teens, Snapchat hoped to make its AI Chatbot a bit less hallucinogenic than Microsoft’s Bing. But Snapchat’s bot seems to be susceptible to its own disturbing conversations. The Washington Post ran an ..."
     publishedDateTime: 2023-03-14T23:47:00Z
@@ -256,6 +256,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "NrKV3tfqg/h4JpdPEo/kPKiBvSsjYO37A+WZgagcnH7Z7GPmOe42dEhB2P/2+RLfoN3uVR4sUVA1jcSkbgOw3uXTyQ4gHO0+EJpOIMnXH6av7ocqAVShOCK7ufcRW3iFDQntYe6lWmEeC5LNdhnQ9pYg8J/b5C12h7duq9GL0Q0pvqD/V0date57b9ymIOCIPrsuCb1P0TfJRcFr1bnO1n+0GQnZ2R2Q+YWkt3suF2X0AihiADCTkEFHc2WBYDQGbsWirel0lrA+c+SuLUDBC/eDMaUEpiLC+FwCoBsJBmZ8hPCraFfZ/l5rIe2BfCy5uMdRs4F0h3SNlKVZbph43dL2Mw5aQ0m/x6xYsBqO3kt9Ssr4UdsALqs3878Wh7PITRN3caAyVHhz75P/7VEte9DM58ANMvFqi7gRH1/lV+RPJXHCGTisetB5hoBvHJL240xmyr/HkpYYdM9MAXxmDOv2H4CN1+ka4jhhp6t07lB84rjmj8fv6LqmWXUahsOTiE8oJTpjvww6/puBnjItIQ==;ojcZ20llvEAWxGXieiYyOw=="
+secured: "OukDuOR4VnoGRTUR0WGh/+3r9WFw3bVa9Em6LaVJASOyAcmJfq2dbjzvpCsdvjisCFtxbW9HFzM4aCsFbjkwtA09Ka2x0+/ZNpE9SQpMgJPZa/wmFAK9+xUOl8a5/pYvteY4KpqGX8yqzbWh7pSo7AfVbG40UdvNZzsr027d8PHOEtVyTdeEJXQoFZsQSrkG842mqndIn2/uu5IL59PA1jjFaisqQCzMIFTEJfcE/oKE+eXhy7HEVfj1pmhWTGJaATVr1cCMaQUl5ybfm9TOBRu8rI6f9yFzwD6hN4kQA552/AVqfCLzif6ASraxV5mNABAQFUhc5Ja/fcM5z/Kich2xFMy69/pPbDj2l3oayC0=;4y93VXeyqNyKvHns5JQERw=="
 ---
 

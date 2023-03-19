@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What You Need To Know About GPT-4 The Just Released Successor To Generative AI ChatGPT, Plus AI Ethics And AI Law Considerations"
+    excerpt: "The considered successor to ChatGPT is the recently released GPT-4, both are made by AI maker OpenAI. Here is the inside scoop on what GPT-4 does and doesn't do, along with key AI Ethics and AI Law considerations wrapped into the informative and engaging discussion."
+    publishedDateTime: 2023-03-15T10:01:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64117de68b093e4f8128450d/0x0.jpg?format=jpg&crop=1464,824,x0,y73,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Will ChatGPT& AI replace the need for formal education?"
     excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
     publishedDateTime: 2023-03-17T15:13:00Z
@@ -162,6 +178,38 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What can ChatGPT maker's new AI model GPT-4 do?"
+    excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
+    publishedDateTime: 2023-03-15T15:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_307e867e3fe4464be9c4f884909f3977_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GPT-4 Is Here: What Can ChatGPT Maker's New AI Model Do?"
+    excerpt: "The new system can figure out tax deductions and answer questions like a Shakespearean pirate but is “still not fully reliable,\" OpenAI said."
+    publishedDateTime: 2023-03-15T22:02:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 57
+    images:
+      - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
     excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
     publishedDateTime: 2023-03-16T09:11:00Z
@@ -235,6 +283,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Open-AI releases GPT-4, an even more advanced AI model than ChatGPT"
+    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and mor"
+    publishedDateTime: 2023-03-15T06:33:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/03/15/open-ai-releases-gpt-4-an-even-more-advanced-ai-model-than-chatgpt/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 39
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Downloader.la-63b907a81dfd4-1.jpg"
+        width: 1024
+        height: 695
         isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
@@ -319,6 +381,15 @@ related:
         width: 612
         height: 408
         isCached: true
+  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
+    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
+    publishedDateTime: 2023-03-16T12:36:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 23
   - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
     excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
     publishedDateTime: 2023-03-15T20:56:00Z
@@ -333,6 +404,15 @@ related:
         width: 591
         height: 591
         isCached: true
+  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
+    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
+    publishedDateTime: 2023-03-16T13:35:00Z
+    webUrl: "https://mynorthwest.com/3858278/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 17
   - title: "Cameron Smith: ChatGPT promises not to bring about Judgment Day"
     excerpt: "This is the unedited exchange (ChatGPT responses in bold): My purpose is to assist and provide information to users through natural language processing and machine learning algorithms. I can help with various tasks such as answering questions, generating ..."
     publishedDateTime: 2023-03-15T18:22:00Z

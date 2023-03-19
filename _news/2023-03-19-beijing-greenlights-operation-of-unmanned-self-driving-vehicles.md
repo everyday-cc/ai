@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Beijing greenlights operation of unmanned self-driving vehicles"
-excerpt: "Beijing greenlighted the commercial operation of autonomous driving service without in-car safety supervisors for the first time on Friday. The first batch of two fully-driverless ride-hailing platforms,"
-publishedDateTime: 2023-03-19T00:53:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
-webUrl: "https://global.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+excerpt: "Beijing greenlighted the commercial operation of autonomous driving service without in-car safety supervisors for the first time o"
+publishedDateTime: 2023-03-18T17:04:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/273643315/beijing-greenlights-operation-of-unmanned-self-driving-vehicles"
+webUrl: "https://www.bignewsnetwork.com/news/273643315/beijing-greenlights-operation-of-unmanned-self-driving-vehicles"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: 中国日报网
-  domain: chinadaily.com.cn
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
-    width: 721
-    height: 480
+  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 743
         isCached: true
 
-secured: "5E3YtK0qrD02M+lucuMSRS3Ud559ZhvdlqpGPd0QmQO1AUOJcyLXMN8UwIniJ8DqoQ+I3Hd4r0zTmxA9HItjqpbvlfV7/T/wJtyIEpjcMwq3ZWAZlsP2L23xiMcg//4LgBiDIsaeRQuEIizsCno1JyKMt6fCL8IJNoMVeiDF28S0urjDG8KR29sxx9ZCy3vPgPl1f+eFA/knglB0BO+ZXam/eY/EAelfXyKZA6Hesv8lFoBrRQdtFpmjvtvcfw0l5tp4Obs1eWoGjt+QOfPgEDNSoB2EdK52Cu5mQQCn3sr0s3IZ3Gdi0mpGKzuNMzeUNpmSDefUVPTO1/pOY2SSeDSjWzznnsUmmKaI483BadfgAu5b5UfLOHndh/8RapTPo1vt/FxpuUejPB3u/6Wr4bK4kais237BwHVVjXk20mKgmuTa9eIIwumPcqptF74v5w00jghpM065uW77MdOmWZArSJ19dboi+pqpanBzeOEDYcXyW8WjHpOa6ozBF7ifmtNtqTrblmiE84dyMKJX4w==;4M0i6it2KjrR7mUxpdAvUA=="
+secured: "sTpRqILbZv3r9ELsKRcIneH7Sr9nnUC1l1N9Il83uAWU3yJU/EpDy27E/P7Al2EyaMOgQW8GNsbT/b9NdLmJnYRLIPJ+4e3JGfGQSB7P7S/AiCx87Dj6hLEz4+iEEv6frGDHmI/dywUlABQB4FBlZVF18kX4+d1kmcvCzzhSTx7KvUWn/FA4Qlu5lRe4o1WXNvB6v7cna4l2JFThHI8JIf/nsuqt1hDITPMIUwAVUW5m3+bU5XuKI0tVzJiLysxnZLeJOXtbHi2gPJR+c6av1UhBK98U2f1tEbrnXcTn6t0QURSbD7Izl5X/P07woIvnDhrjeggMmzh6rNe0wJAS+xdhtOITU2cJnBQowLEgK0w=;hd2uxDH8WnYf2mSRM1qvcA=="
 ---
 
