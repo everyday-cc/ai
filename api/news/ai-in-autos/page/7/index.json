@@ -2,6 +2,150 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-02-artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.md",
+      "title": "Artificial Intelligence in Healthcare Market Growth Outlook, Research Insights, Sales Statistics and Size Projection by 2030",
+      "excerpt": "Artificial Intelligence in Healthcare Market Research Report: Information By Component (Hardware, Software, Services), Application (Robot-Assisted Surgery, Virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2023/02/artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.html",
+      "originalUrl": "https://www.medgadget.com/2023/02/artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-self-driving-car-services-want-to-expand-in-san-francisco-despite-recent-hiccups.md",
+      "title": "Self-Driving Car Services Want to Expand in San Francisco Despite Recent Hiccups",
+      "excerpt": "Waymo and Cruise hope to widen their projects to include more of the city. But local officials are increasingly concerned about breakdowns causing congestion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/31/business/00selfdriving-stall-01/00selfdriving-stall-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/01/technology/self-driving-taxi-san-francisco.amp.html",
+      "publishedDateTime": "2023-02-01T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-our-pick-of-the-best-artificial-intelligence-ai-stocks-shares.md",
+      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks & Shares",
+      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opport",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-self-driving-bus-project-to-test-journeys-without-staff-on-board.md",
       "title": "Self-driving bus project to test journeys without staff on board",
       "excerpt": "A project developing what the Government believes will be the world’s first full-size self-driving bus service will test if smaller vehicles can operate without a staff member on board.",
@@ -1238,164 +1382,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-29-firefighters-smashed-the-window-of-a-driverless-cruise-taxi-to-stop-it-running-over-their-hoses.md",
-      "title": "Firefighters smashed the window of a driverless Cruise taxi to stop it running over their hoses",
-      "excerpt": "San Francisco firefighters smashed the front window of a Cruise driverless taxi to stop it from running over their hoses. A Cruise autonomous vehicle drove toward fire hoses on the ground in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
-      "originalUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d677cafc18470019553e52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
-      "publishedDateTime": "2023-01-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
-      "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
-      "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d44b0b30d078897e922e26/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
-      "publishedDateTime": "2023-01-28T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims-report-says.md",
-      "title": "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says",
-      "excerpt": "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
-      "originalUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
-      "publishedDateTime": "2023-01-27T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

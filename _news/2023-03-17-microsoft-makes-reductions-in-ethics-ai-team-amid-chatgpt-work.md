@@ -2,17 +2,17 @@
 category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+publishedDateTime: 2023-03-16T22:23:00Z
+originalUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
+webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: scrippsnews
+  domain: scrippsnews.com
 
 topics:
   - AI Ethics
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -278,38 +278,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft lays off AI ethics and society team"
-    excerpt: "Tech giant, Microsoft has laid off its entire ethics and society team within the artificial intelligence department of the organization. According to employees affected by the layoff, the development leaves “Microsoft without a dedicated team to ensure its AI principles are closely tied to product design."
-    publishedDateTime: 2023-03-14T08:34:00Z
-    webUrl: "https://www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/"
-    ampWebUrl: "https://www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/?amp"
-    cdnAmpWebUrl: "https://www-ripplesnigeria-com.cdn.ampproject.org/c/s/www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/?amp"
-    type: article
-    provider:
-      name: All protocol(s) observed
-      domain: ripplesnigeria.com
-    quality: 91
-    images:
-      - url: "https://i0.wp.com/www.ripplesnigeria.com/wp-content/uploads/2023/03/Resizer_16787827011081.jpeg?resize=650%2C350&ssl=1"
-        width: 650
-        height: 350
-        isCached: true
-  - title: "Microsoft Supercomputers Use NVIDIA H100 GPUs To Drive Generative AI"
-    excerpt: "By now, you've probably heard of OpenAI's chatbot, the aptly named ChatGPT, and how Microsoft recently incorporated it into Bing."
-    publishedDateTime: 2023-03-14T08:01:00Z
-    webUrl: "https://www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/"
-    ampWebUrl: "https://www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 91
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/Microsoft-Azure-NVIDIA-H100-stock-server-photo-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft lays off entire AI ethics team while going all out on ChatGPT"
     excerpt: "A new report indicates Microsoft will expand AI products, but axe the people who make them ethical. This month saw the surprise dissolution of Microsoft’s entire Ethics & Society team—the latest casualty in the company’s ongoing layoffs affecting 10,"
     publishedDateTime: 2023-03-14T17:00:00Z
@@ -446,15 +414,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
-    excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
-    publishedDateTime: 2023-03-14T09:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-to-showcase-purposebuilt-ai-infrastructure-at-nvidia-gtc/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "How to watch the Microsoft 365 AI event"
     excerpt: "Microsoft is holding a special “future of work with AI” event today, where the company says it’ll be “reinventing productivity with AI.” Microsoft is expected to demonstrate how its ChatGPT-like AI will work in Microsoft 365 and Office apps like Teams,"
     publishedDateTime: 2023-03-16T16:00:00Z
@@ -952,6 +911,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "uPn5OtpKXQqaXTXPT87apVrEipXVjwzhE6EzjpAR6NCZsI+ZFnQi6S/84yYDiQMs+RzvBKHFJlAmECDz3yKat/lUBkkI0/vAi9pcWE+4pgM+vh2yVRbGMSgqtW1Qx4RSLB13tNeBHbER0siERikOE68h2V9CKE2gth5kKAvGSK6PHspYtCUYpe1U4tEdbX+R+HLcvJzxnlUwmPGb5RP827/DDe0Tjpvgzi3zm6N/O9/ZmemHOtkwLk3tsoewWgVpdZvbwQI6Nhhr6BZqCRA0snhSeCxNEZvf0kk/o4dd1zYGpE58CKXN5guGB08tyQvWnSlJXmHaDPKEJPRKM85xVZ6FIaWNpK/JaQXEphcEgzw=;5fG/iUC0R2ndfu8hGNkggg=="
+secured: "Bz0AjYvZyxDeBmvJkMBlycHTppzkLFzlxwZoyWDP8h/+JX+ABXXCb8gk87n2D5J6eZ+KbSEyJDtWkLtYx+LzkZx7AwVBYFowkXLUfbawrUOe8oEFdNbFIoNR2g50ZF3DD2fHpt2NqZZEdJZHvzKRdTq3yPECQOTkCUEYHuxJUvUsurFFJbBtpXvAM798HauI+bkPDscefiuuQ/8WtbCWnUpitHSd22Hq4oF7dao5h7t3l+/gHoqZwV7Tim1caFy4s/5sRsGqjU1texqZiYaKHdB3GmcbDSpL8zP1dXTV0WXahaa/xYXS7bNN29yl46hBNX2X76QP48RWaz6WqnySo0wVYQl/rYnvzSo+yIVXKN0=;axupsqdVvcI8Nl9WkgUDjQ=="
 ---
 

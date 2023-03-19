@@ -2,6 +2,206 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-01-18-tesla-video-promoting-self-driving-was-staged-engineer-testifies.md",
+      "title": "Tesla video promoting self-driving was staged, engineer testifies",
+      "excerpt": "REUTERS/Evgenia Novozhenina/File Photo Jan 17 (Reuters) - A 2016 video that Tesla (TSLA.O) used to promote its self-driving technology ... Technologycategory China's Baidu to launch ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "originalUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3IQpcCuKtmLZDMbi4XPgVhduRYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INZHKPTCXZPSLLZHEH43ULAMQ4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data.md",
+      "title": "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year.md",
+      "title": "8 ASX and global stock ideas to add to your portfolio this year",
+      "excerpt": "This spike in inflation was driven by a culmination of factors including the continued impact of covid 19 on global supply chains, a war in Ukraine, and economic sanctions on Russia, which provides many parts of the world with much-needed energy and agricultural commodities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
+      "originalUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhsQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--46968fa7f1d978925522326ee7d201f4bc21a9ae/Chart%202%20-%20PE%20by%20region.png",
+          "width": 445,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-microsoft-wants-to-put-chat-gpt-style-ai-tools-in-every-product.md",
+      "title": "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product",
+      "excerpt": "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
+      "originalUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg",
+          "width": 2000,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026.md",
       "title": "Artificial intelligence (AI) Chips Market Size 2023 Will Touch A New Level In The Upcoming Year 2026",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -984,195 +1184,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources.md",
-      "title": "AI21 Labs intros an AI writing assistant that cites its sources",
-      "excerpt": "AI21 Labs new AI-powered writing assistant, called Wordtune Spices, cites its sources -- perhaps better than ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
-      "originalUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1094956900-e1559746431929.jpg?resize=1200,819",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/ai21-labs-intros-an-ai-writing-assistant-that-cites-its-sources/amp/",
-      "publishedDateTime": "2023-01-17T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-elon-musks-appetite-for-destruction.md",
-      "title": "Elon Musk’s Appetite for Destruction",
-      "excerpt": "A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.? Credit...Photo illustration by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
-      "publishedDateTime": "2023-01-17T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-is-expanding-access-to-its-azure-openai-service-with-chatgpt-available-soon.md",
-      "title": "Microsoft Is Expanding Access to Its Azure OpenAI Service, With ChatGPT Available 'Soon'",
-      "excerpt": "On Monday, Microsoft announced it’s widening access to its Azure OpenAI Service, a move likely to increase business uses of Open AI’s popular GPT-3.5, Codex, and DALL E 2 systems. ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "originalUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanced-data-modeling-to-its-ground-safety-operations.md",
-      "title": "Unifi collaborates with Microsoft and Artis Consulting to apply artificial intelligence and advanced data modeling to its ground safety operations",
-      "excerpt": "North America's largest aviation services company, Unifi, is leveraging an advanced safety risk analytics model created with help from Microsoft Azure and Artis Consulting for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30447527/unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanc",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30447527/unifi-collaborates-with-microsoft-and-artis-consulting-to-apply-artificial-intelligence-and-advanc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30447527",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30447527",
-      "publishedDateTime": "2023-01-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

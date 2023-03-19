@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-09-how-businesses-are-deploying-facial-recognition.md",
+      "title": "How businesses are deploying facial recognition",
+      "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.capradio.org/news/npr/story?storyid=1141616057",
+      "originalUrl": "https://www.capradio.org/news/npr/story?storyid=1141616057",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/12/08/parmy-olson-headshot-3d43263a1ecc5b7a8d8bc65de8fe77c579207b3a.jpg?s=6",
+          "width": 948,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital Public Radio",
+        "domain": "capradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-computer-vision-technology-startup-brodmann17-has-shut-down.md",
       "title": "Computer vision technology startup Brodmann17 has shut down",
       "excerpt": "Brodmann17, an Israeli computer vision technology startup that developed a novel approach to take on a marketplace dominated by Mobileye, shut down this week. Brodmann17’s co-founder and CEO Adi ...",

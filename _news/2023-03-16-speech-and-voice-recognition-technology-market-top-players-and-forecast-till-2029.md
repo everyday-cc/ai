@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Device Market with Data Research Source 2028"
-    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
-    publishedDateTime: 2023-03-14T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
     excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
     publishedDateTime: 2023-03-15T23:37:00Z
@@ -71,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
+    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
+    publishedDateTime: 2023-03-15T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
     excerpt: "Mar 14, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
     publishedDateTime: 2023-03-14T20:45:00Z
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Natural Language Processing For Healthcare And Life Sciences Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all ..."
+    publishedDateTime: 2023-03-15T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
   - title: "The Voice Recognition Market study provides information, including all market growth factors."
     excerpt: "The Voice Recognition market is a rapidly growing industry with a wide range of applications. Over the past few years, it has witnessed significant growth due to increasing demand from various end-use industries."
     publishedDateTime: 2023-03-15T04:52:00Z
@@ -99,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pharmaceutical Robots Market to Notice Utmost Growth of USD 263.64 Million by 2030, Size, Share, Recent Trends, Scope and Growth Outlook"
+    excerpt: "The universal Pharmaceutical Robots market analysis report will surely lend a hand in growing sales and improve return on investment (ROI). The company profiles of all the top market players and brands with moves like product launches,"
+    publishedDateTime: 2023-03-17T23:10:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/17/9778991.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "r+8bIpljS23J1YTlD7ZV/zFUHT85upDITy4mlxLHOXDylbbh3NUUftSoWeFjw0wMg9Jr3U8OlVsHf5wGBkgQm48gQGAvHFL7I0QPEJS+4TvaEOooEu1nft40Am2wwNjaDpMuygeXZHt993ETCXRgp2HyymKs1/6ID0KQ34cvh8E6FNo9TKr/UVCxdF2uO+J+Wqd87A0GqJEiaoBXpmDTSig0KTIjV2J2KTviDIzVgHOQTIP+06Fi6WjBYm+6c84PAyws5538UqoCrVQRCW1D8f/bBhetDRFYnvr0ClVsa0QSPjJ23tlGwq5ZV4J+RGSp0h2AugEA+TySI+Bgl5jsXCro97ppNJNdsQCFdVp3Dz4=;KinFmhiL2lIkgxQARhmneA=="
 ---

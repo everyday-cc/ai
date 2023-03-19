@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Chinese firm to launch robot taxis"
+    excerpt: "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ..."
+    publishedDateTime: 2023-03-19T00:01:00Z
+    webUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/"
+    ampWebUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 61
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg"
+        width: 561
+        height: 390
+        isCached: true
   - title: "Chinese acoustic AI startup detects equipment faults"
     excerpt: "BEIJING -- The Chinese acoustic AI technology service Ensound, formally known as Disheng Technology, has raised about 100 million yuan ($14.5 million) in a Series B funding round. The startup ..."
     publishedDateTime: 2023-03-15T20:13:00Z

@@ -104,6 +104,22 @@ related:
         width: 1920
         height: 1064
         isCached: true
+  - title: "Three Easy Ways to Make AI Chatbots Safer"
+    excerpt: "The tech industry is rushing headlong into the chatbot gold rush; we need prompt, focused regulation that keeps pace"
+    publishedDateTime: 2023-03-17T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/"
+    ampWebUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/0726CD04-630B-4606-8FC0B8FD43CC4B18.jpg"
+        width: 791
+        height: 496
+        isCached: true
   - title: "Chinese search giant launches AI chatbot with prerecorded demo"
     excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
     publishedDateTime: 2023-03-16T13:22:00Z
@@ -131,6 +147,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu unveils ChatGPT-rival Ernie Bot; 650 companies sign up"
+    excerpt: "HONG KONG (AP) — Chinese search giant Baidu unveiled its artificial intelligence ... AI cloud, autonomous driving and in smart devices. The Ernie Bot launch comes months after OpenAI’s ChatGPT ..."
+    publishedDateTime: 2023-03-16T08:58:00Z
+    webUrl: "https://www.whec.com/science-technology/baidu-unveils-chatgpt-rival-ernie-bot-650-companies-sign-up/"
+    type: article
+    provider:
+      name: news10nbc
+      domain: whec.com
+    quality: 39
+    images:
+      - url: "https://www.whec.com/wp-content/uploads/apimg/2023/03/China_Baidu_63657.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
     publishedDateTime: 2023-03-14T19:49:00Z

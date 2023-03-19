@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-acoustic-AI-s
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese firm to launch robot taxis"
+    excerpt: "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ..."
+    publishedDateTime: 2023-03-19T00:01:00Z
+    webUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/"
+    ampWebUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 61
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg"
+        width: 561
+        height: 390
+        isCached: true
   - title: "Chinese scientists develop new method to guarantee self-driving safety"
     excerpt: "BEIJING - A research team from Tsinghua University has made a breakthrough in autonomous driving, developing a technology that allows vehicles to self-learn while driving to deal with unfamiliar situations, an innovation that could resolve self-driving ..."
     publishedDateTime: 2023-03-16T16:10:00Z

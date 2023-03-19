@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
+      "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
+      "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y21,safe&width=1200",
+          "width": 875,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
+      "publishedDateTime": "2023-03-15T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-forget-the-hybrid-cloud-its-time-for-the-confidential-cloud.md",
+      "title": "Forget the hybrid cloud; it’s time for the confidential cloud",
+      "excerpt": "Speakers included Intel CTO Greg Lavender and Microsoft Azure CTO Mark Russinovich ... because as people start doing AI and machine learning processing at the edge for all kinds of reasons [such as autonomous vehicles, surveillance infrastructure ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
+      "originalUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1357404877-e1652813501466.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
+      "publishedDateTime": "2023-03-15T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it.md",
       "title": "Why Artificial Intelligence Is Becoming A Cybersecurity Imperative And How To Implement It",
       "excerpt": "One of the most often-asked questions that I receive from customers is: How do organizations plan for the adoption of AI technology in their cybersecurity strategies? In other words, how should one get started?",
@@ -589,7 +693,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 791,
+      "heat": 761,
       "tags": null,
       "images": [
         {
@@ -1143,110 +1247,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
-      "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
-      "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
-      "publishedDateTime": "2023-03-14T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
-      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
-      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 490,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "publishedDateTime": "2023-03-14T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

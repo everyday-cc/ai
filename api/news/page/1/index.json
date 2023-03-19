@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
+      "title": "Chinese firm to launch robot taxis",
+      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
+          "width": 561,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "publishedDateTime": "2023-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-generative-ai-imagining-a-future-of-ai-dominated-creativity.md",
       "title": "Generative AI: Imagining a future of AI-dominated creativity",
       "excerpt": "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years.",
@@ -1145,7 +1189,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1229,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-hashtag-trending-march17-the-future-of-robots-tiktok-spying-apple-and-ai.md",
-      "title": "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI",
-      "excerpt": "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235",
-      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
-          "width": 1500,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1",
-      "publishedDateTime": "2023-03-17T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

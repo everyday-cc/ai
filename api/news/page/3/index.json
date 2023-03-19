@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-16-2-unstoppable-ai-stocks-to-buy-for-the-next-decade.md",
+      "title": "2 Unstoppable AI Stocks to Buy for the Next Decade",
+      "excerpt": "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png",
+          "width": 3416,
+          "height": 2266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-musicians-machines-and-the-ai-powered-future-of-sound.md",
       "title": "Musicians, Machines, and the AI-Powered Future of Sound",
       "excerpt": "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively.",
@@ -308,6 +359,58 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-face-recognition-systems-market-growth-revenue-trends-2023-2029.md",
+      "title": "Face Recognition Systems Market Growth Revenue, Trends 2023-2029",
+      "excerpt": "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -624,7 +727,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1169,110 +1272,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
-      "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
-      "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y21,safe&width=1200",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-forget-the-hybrid-cloud-its-time-for-the-confidential-cloud.md",
-      "title": "Forget the hybrid cloud; it’s time for the confidential cloud",
-      "excerpt": "Speakers included Intel CTO Greg Lavender and Microsoft Azure CTO Mark Russinovich ... because as people start doing AI and machine learning processing at the edge for all kinds of reasons [such as autonomous vehicles, surveillance infrastructure ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "originalUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1357404877-e1652813501466.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forget-the-hybrid-cloud-its-time-for-the-confidential-cloud/amp/",
-      "publishedDateTime": "2023-03-15T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

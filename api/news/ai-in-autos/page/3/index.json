@@ -2,6 +2,158 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
+      "title": "Artificial Intelligence Delivers Its Latest Innovation",
+      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "IBM AI",
+        "AI in Autos",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
+      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
+      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "publishedDateTime": "2023-02-22T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-is-artificial-intelligence-a-curse-for-the-common-man.md",
+      "title": "Is artificial intelligence a curse for the common man?",
+      "excerpt": "Today we are all surrounded by artificial intelligence (AI ... One of the famous examples being the concept of self-driving cars, wherein the availability of sensors will help perceive the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-a-curse-for-the-common-man-.html",
+      "originalUrl": "https://www.dailypioneer.com/2023/columnists/is-artificial-intelligence-a-curse-for-the-common-man-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/images/logo.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-22T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-baidus-board-authorizes-share-buyback-program.md",
       "title": "Baidu's Board Authorizes Share Buyback Program",
       "excerpt": "(RTTNews) - AI company Baidu, Inc. (BIDU) announced its board of directors has authorized a new share repurchase program under which the company may repurchase up to $5 billion of its shares ...",
@@ -1282,148 +1434,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
-      "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
-      "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
-      "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjJlMjMwZDE4YTZhZmQ1N2E4MjEyM2NkMWMwNjU4Ni5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
-      "publishedDateTime": "2023-02-16T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-heres-the-bear-case-for-artificial-intelligence.md",
-      "title": "Here's the bear case for artificial intelligence",
-      "excerpt": "ChatGPT unleashed a firestorm of interest in artificial intelligence investing, but traders should take some caution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/",
-      "originalUrl": "https://www.cnbc.com/2023/02/16/heres-the-bear-case-for-artificial-intelligence.html/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106894882-1623302500315-gettyimages-1224253590-ai-robot-frame10.jpeg?v=1676564364&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-microsoft-baidu-and-google-which-ai-chatbot-stock-is-the-best-buy.md",
-      "title": "Microsoft, Baidu, And Google: Which AI Chatbot Stock Is The Best Buy?",
-      "excerpt": "Alphabet Inc. (GOOG), Baidu, Inc. (NASDAQ:BIDU), and Microsoft Corporation (NASDAQ:MSFT) have all been in the headlines with the current version of their proprietary chatbot engine. We now know ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "originalUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362322942/image_1362322942.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,164 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-29-firefighters-smashed-the-window-of-a-driverless-cruise-taxi-to-stop-it-running-over-their-hoses.md",
+      "title": "Firefighters smashed the window of a driverless Cruise taxi to stop it running over their hoses",
+      "excerpt": "San Francisco firefighters smashed the front window of a Cruise driverless taxi to stop it from running over their hoses. A Cruise autonomous vehicle drove toward fire hoses on the ground in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
+      "originalUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63d677cafc18470019553e52?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
+      "publishedDateTime": "2023-01-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
+      "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
+      "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d44b0b30d078897e922e26/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "publishedDateTime": "2023-01-28T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims-report-says.md",
+      "title": "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says",
+      "excerpt": "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
+      "originalUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 277,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/27/elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims/amp/",
+      "publishedDateTime": "2023-01-27T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
       "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
       "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
@@ -1285,129 +1443,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-ai-experts-on-whether-you-should-be-terrified-of-chatgpt.md",
-      "title": "AI experts on whether you should be \"terrified\" of ChatGPT",
-      "excerpt": "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "publishedDateTime": "2023-01-22T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-artificial-intelligence-could-surpass-that-of-humans-later-this-decade.md",
-      "title": "Artificial intelligence could surpass that of humans later this decade",
-      "excerpt": "Artificial intelligence (AI) has the potential to ... This ability can be particularly useful in fields such as finance, healthcare, and transportation, where AI is already being used to analyze ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "originalUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/01/hands-of-robot-and-human-touching-on-big-data-network-connection-background-science-and-artificial-intelligence-technology-innovation-and-futuristic-1200x639.jpeg",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "publishedDateTime": "2023-01-22T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

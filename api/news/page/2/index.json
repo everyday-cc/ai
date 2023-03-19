@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-17-hashtag-trending-march17-the-future-of-robots-tiktok-spying-apple-and-ai.md",
+      "title": "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI",
+      "excerpt": "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png",
+          "width": 1500,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1",
+      "publishedDateTime": "2023-03-17T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.md",
       "title": "Baidu says it can now operate robotaxis in Beijing with no human staff inside",
       "excerpt": "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ...",
@@ -1184,57 +1227,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-2-unstoppable-ai-stocks-to-buy-for-the-next-decade.md",
-      "title": "2 Unstoppable AI Stocks to Buy for the Next Decade",
-      "excerpt": "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png",
-          "width": 3416,
-          "height": 2266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

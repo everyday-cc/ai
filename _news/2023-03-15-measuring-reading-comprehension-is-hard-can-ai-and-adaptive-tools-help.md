@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sorting and recycling plastic is notoriously hard—but this AI could help"
-    excerpt: "Plastic recycling is notoriously ineffective and wasteful, but training AI to help sift through the material could be a game changer."
-    publishedDateTime: 2023-03-14T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/plastic-recycling-machine-learning/"
-    ampWebUrl: "https://www.popsci.com/technology/plastic-recycling-machine-learning/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/plastic-recycling-machine-learning/?amp"
+  - title: "AI Could Improve Assessments of Reading, Writing Skills"
+    excerpt: "For instance, some believe it won't be long before tools that use AI's natural language-processing capabilities to measure skills like phonemic awareness are commonplace in schools. Intelligent tutors that can coach students to demonstrate in writing an ..."
+    publishedDateTime: 2023-03-16T20:36:00Z
+    webUrl: "https://www.govtech.com/education/k-12/ai-could-improve-assessments-of-reading-writing-skills"
+    ampWebUrl: "https://www.govtech.com/education/k-12/ai-could-improve-assessments-of-reading-writing-skills?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/ai-could-improve-assessments-of-reading-writing-skills?_amp=true"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 56
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://www.popsci.com/uploads/2023/03/14/Depositphotos_40012549_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/c6302e7/2147483647/strip/true/crop/1000x521+0+36/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F65%2F15%2Fa05e721c4cd2b9d1ef8eb4053aaa%2Fai-text.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "+3YJDNSGN25F6NuDJEkKdRQ57EZCRjhjaNLb6pxraPwfUZaaRrvOKyVtWgJ6mSu5uiFckDefFWBXXeq0rWySXtwed0cZR2Dm+h8/206mbmnDyfOr0RW6J2NZ6YkMjZnLp9QGH+xgbZUIV41mtN0soeDgchojCwc5EFK/+NBZtUNi/EQMDJeFKGCcEm8lGZorZx3EvCV1BbEag4vgNetag6Oe3+djX1pxEm43T1zvflYdSrAUy1BGab6uEwqygihFDfi1dFSnAX/xb/EbSMgstCIsk95jSx2u46XusXd9XYDLvCSm/nYzSI0sPgycHuS7lOJc6e0UaqyKyWaoCIvrv7T+DEkZNfnlBR77pzrZMg4=;AchwCcxKVRbD8Umtb/92FQ=="

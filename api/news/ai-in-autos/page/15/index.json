@@ -2,6 +2,144 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-12-07-as-ai-rises-lawmakers-try-to-catch-up.md",
+      "title": "As AI rises, lawmakers try to catch up",
+      "excerpt": "artificial intelligence has burrowed its way into every arena of modern life. Its promoters reckon it is revolutionising human experience, but critics stress that the technology risks putting machines in charge of life-changing decisions. Regulators in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/business/as-ai-rises-lawmakers-try-to-catch-up/article",
+      "originalUrl": "https://www.digitaljournal.com/business/as-ai-rises-lawmakers-try-to-catch-up/article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-uber-motional-launch-robotaxi-service-in-las-vegas.md",
+      "title": "Uber, Motional launch robotaxi service in Las Vegas",
+      "excerpt": "REUTERS/Brendan McDermid/File Photo/File Photo Dec 7 (Reuters) - U.S. ride-hailing firm Uber Technologies Inc (UBER.N) and driverless tech-maker Motional said on Wednesday they launched their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
+      "originalUrl": "https://www.reuters.com/technology/uber-motional-launch-robotaxi-service-las-vegas-2022-12-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/5bI5V7Eei04IGlVxWpEN4-S1GiY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YQL5R2D73RO7HIBIGE5G5SIUGU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-uber-launches-driverless-rides-with-av-company-motional.md",
+      "title": "Uber launches driverless rides with AV company Motional",
+      "excerpt": "Uber's rival is also partnered with Motional and launched driverless rides in Las Vegas at CES in 2018. They also plan to become fully driverless in 2023. Needless to say, the race is on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "originalUrl": "https://www.aol.com/news/uber-launches-driverless-rides-av-110000428.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_mashable_370/16eb380bff4dcecc9f6f03365ad6f717",
+          "width": 1026,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-its-official-adobe-stock-sells-images-generated-by-artificial-intelligence.md",
       "title": "It's Official! Adobe Stock Sells Images Generated By Artificial Intelligence",
       "excerpt": "SEE ALSO: Sony Is Technologically Ready To Make Humanoid Robots Once The Usage Becomes Clear According to reports, producers of fine art have been cautioned by the policy not to abuse artificial intelligence and flood the galleries with comparable images.",

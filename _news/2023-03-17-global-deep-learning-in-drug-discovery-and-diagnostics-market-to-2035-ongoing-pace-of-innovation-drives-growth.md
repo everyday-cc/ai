@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth"
-excerpt: "Distribution by Therapeutic Areas and Key Geographical Regions: Industry Trends and Global Forecasts (2nd Edition),"
-publishedDateTime: 2023-03-16T18:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d"
-ampWebUrl: "https://www.benzinga.com/amp/content/31386216"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31386216"
+title: "Global Deep Learning In Drug Discovery And Diagnostics Market To 2035: Ongoing Pace Of Innovation Drives Growth"
+excerpt: "PRNewswire/ --<br />The 'deep learning market in drug discovery and diagnostics: distribution by therapeutic areas and key g"
+publishedDateTime: 2023-03-17T09:18:00Z
+originalUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
+webUrl: "https://menafn.com/1105797418/Global-Deep-Learning-In-Drug-Discovery-And-Diagnostics-Market-To-2035-Ongoing-Pace-Of-Innovation-Drives-Growth"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?838732"
+    width: 438
+    height: 250
     isCached: true
 
-secured: "XYMPvhDqmVKk0VH996WH/HYhg/8M2HlS5vVbhDi9Mv/KPvZd6N7431kVhR+6CNNog+8usLYs0UuPU0is4MNKf9gViSUkEwiud4UP3+4cysocmM4n54BWMjSo0ZaInBzvOlq+xuUehwO5Cx0op3l6gIJcPw2qLB/YDjRLI4fbk2B/QGqbrCjurW3OsaAEhxYmO+Qi/9yrq83sfYM9hUCkZBFDNZKaBefwvuFeF1rL5TfWHQndDY7BWUVQyUkcUERL5l8mEYGKK0VyDFxayFHWIoSURaRGZi6X0QijVucVw1E+nsj6PryAvWrK0CBg6+6RKYcoocmEGeTED1A3wLAE0oYM5Jmf8tZj1CUJzk9Ikvs=;X2rR1fRxxXyL2ESDLIdJaw=="
+secured: "w7qeTD/lJQBq1rL/XHHGIumYQHD3lJNM8nyf5Ktwh6h6u1bn+7xaFwpxZ4rqc1hCKg9l7wH03SAV9tIKi7+aj0ddgU1T/xeOSofP0mViAkzTmdqzDfB+hHAciW8demTjNzeFItJV4u+WvZrjvlLQchPsCZwDY9DS+kdfZ9cI31Xh2bsAGhpS5CzcpBeR37PGP+rnXKyQQhQgQP9cf6rE5PJ9ibN5xwL1pmyyARMfgDGkmMjEfNe15WJO4Huev80GljW0242GJSQezy13qgnB/rueWfeMtpyEuCK3veBQzjvGCm8CuaYGnw1EI59x3Fje4eAarL0Cs10itzlTf4wRzvzCvyGmJ1giGyn6FKUnMuo=;SQVEK091J6zeZKHU9BtqTw=="
 ---
 

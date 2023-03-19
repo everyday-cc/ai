@@ -179,7 +179,7 @@ related:
     provider:
       name: ABC 7 Chicago
       domain: abc7chicago.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
         width: 1600
