@@ -7,7 +7,7 @@ originalUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero
 webUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero-california-usa-today-women-year/69820508007/"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "California Voice: Recall of self-driving Tesla cars doesn’t go far enough"
+    excerpt: "California’s Office of Traffic Safety needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed full self-driving"
+    publishedDateTime: 2023-03-19T21:43:00Z
+    webUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/"
+    ampWebUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
+    type: article
+    provider:
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 58
+    images:
+      - url: "https://www.marinij.com/wp-content/uploads/2023/02/SJM-L-TESLAFSD-0217-1.jpg?w=1024&h=681"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "California skeptic of facial recognition use by cops now sees an opportunity"
+    excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
+    publishedDateTime: 2023-03-16T23:27:00Z
+    webUrl: "https://www.biometricupdate.com/202303/california-skeptic-of-facial-recognition-use-by-cops-now-sees-an-opportunity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
+        isCached: true
 
 secured: "3QaTYLQuHhLb8510ZgT6ujqqN1EV1CHaeTc9OkYCv/ltsD+M4TJnvmlNmyPjuI7+piYMfrjf+sQ9fmyRFrknt26hfOg/nKHNmI2HE0+C2JgZkrROnAH3wbo4HNJw32X4MKkOhve5CRbba7jkm5WtVfzHnkTG2fQXPT2sCQ9t9UgU9z5EkTopKSx8gggHOpT7kDRcDRFXIUWzejlEeRl0SLwgkvsvAAyPw4CODKZwuFnaoJMMGjn6vrdV+VPmjwy4TdiMNmKZhp00dK/AQADwvY9J90afUKoI7+LiuNwIotJe7wF78lUqx5j/xARiifYw2I9YRHeN3qRrbi7bjOEHS2+CI+/T9dSAD0X2//fwDJtAF3XG2DEdW2Zdf2Jj5D5nkROVE8tD/EHkv5iW75LZu+z2WXkmdNT1Z0qnXf8Ajme4Gtqsb/cEMw7XrdtITHpAwtPcIR+DH1zE3UXGPH9NQNadxnnOB/agWDIpPw0bEcC9K19sBSUv2JuXVue4Shd8knSW8kVc0WbFLdg+D8SsJA==;icHHf+f9S3APeeuN6amm6A=="
 ---

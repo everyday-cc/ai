@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/etri-introduces-ai-tut.jpg"
         width: 2880
         height: 1915
-        isCached: true
-  - title: "General Motors looking to weave artificial intelligence into the driving experience"
-    excerpt: "General Motors is looking to enhance the driving experience by integrating artificial intelligence into the auto industry. According to reports, the Detroit, Michigan-based automaker plans to ..."
-    publishedDateTime: 2023-03-15T05:25:00Z
-    webUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience"
-    ampWebUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 53
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f4c753b4-6786-41e7-913b-39cc648dd74b/fa73622b-5215-40b7-ab04-1567c6873b34/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
     excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."

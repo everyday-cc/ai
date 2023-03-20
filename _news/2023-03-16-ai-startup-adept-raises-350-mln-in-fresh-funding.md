@@ -1,31 +1,23 @@
 ---
 category: news
 title: "AI startup Adept raises $350 mln in fresh funding"
-excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI's ChatGPT."
-publishedDateTime: 2023-03-16T08:53:00Z
-originalUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
-webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
+excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI’s ChatGPT."
+publishedDateTime: 2023-03-16T04:57:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2"
+webUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Adept, a startup training AI to use existing software and APIs, raises $350M"
@@ -59,6 +51,6 @@ related:
         height: 1111
         isCached: true
 
-secured: "jYcYJwHc8gDje2M48XBYON7PiWpuYtDwSuGw8ZUk2hMaeQRA790W7TG9ksKATFdonJfTMVqunfeFhv2O2g4PQzhKhJ3XiqLCj9Q+3B6sdXGpN28ceZCUDPpBXRrhYjUHiX/gRFbqC6keXLMP82oGrN7+m0WMOFkSV8nTY+GreTdWBIn/VH+f8+WmnLWBnxoje6tg5fBS6NniLPA9V0M1XX2SZ9jpeBME3p6Xn6+4986pRLUZb7zeXMbfYiY/hvVwRAY16v9LVPjq9y2arerAoH1shH7o3bXUXI6uUZgjI36FZzw9W28OGc2+8lQyaiC9ZwiLlm4if0m7O/xdhv3xmksJHJ9NtocwdWCGl6U0UI4=;xgf34SFSbqeqdM8Bhr5iIw=="
+secured: "AALAAtZQHdU1rGznckbGscZ4n5j8vbeZFWc9nCQHCe821POMxuKnjER8TkBiMAUDo0FKDn52yKRi1+1KvcJI/b0beWTdYl//CrbgHnkmYDxWcUvVG+cG1OhlOjVJKxgCU5U3UKf0iKzKkL/k9Mbiqrf6uQTwoIKOub1DjdWqs/Tqzq9mIMNjbEUFELogp3xC7Uw3aSojP5UBUviUxEc0y+kjiJS3RA1ajKqqQ/f//A0jV0iOI8Npt4FyRRw/5MSp1323VcKs+ohtcK2IxzC3Mpss8wItdYsYjGlkuAJRLr0Ta1nqWlNik/dqYGAiThAuUcRCZFicQZ032ty6DDRfv30WJoPBxq9mjmFT1uWoplQ=;+gE/ctn4+ObiBdVmkmSmmw=="
 ---
 

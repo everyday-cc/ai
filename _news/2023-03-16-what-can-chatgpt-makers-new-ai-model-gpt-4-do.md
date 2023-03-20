@@ -270,20 +270,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Open-AI releases GPT-4, an even more advanced AI model than ChatGPT"
-    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and mor"
-    publishedDateTime: 2023-03-15T06:33:00Z
-    webUrl: "https://www.pakistantoday.com.pk/2023/03/15/open-ai-releases-gpt-4-an-even-more-advanced-ai-model-than-chatgpt/"
-    type: article
-    provider:
-      name: Pakistan Today
-      domain: pakistantoday.com.pk
-    quality: 39
-    images:
-      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Downloader.la-63b907a81dfd4-1.jpg"
-        width: 1024
-        height: 695
-        isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
     publishedDateTime: 2023-03-17T01:03:00Z
@@ -366,6 +352,20 @@ related:
       - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
         width: 612
         height: 408
+        isCached: true
+  - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
+    excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"
+    publishedDateTime: 2023-03-19T19:30:00Z
+    webUrl: "https://www.salon.com/2023/03/19/chatgpt-isnt-sentient-could-we-build-a-chatbot-that-is/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 24
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/artificial-intelligence-chatbot-sentient-1370249712.jpg"
+        width: 1200
+        height: 810
         isCached: true
   - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
     excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."

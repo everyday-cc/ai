@@ -59,22 +59,6 @@ related:
         width: 2880
         height: 1915
         isCached: true
-  - title: "General Motors looking to weave artificial intelligence into the driving experience"
-    excerpt: "General Motors is looking to enhance the driving experience by integrating artificial intelligence into the auto industry. According to reports, the Detroit, Michigan-based automaker plans to ..."
-    publishedDateTime: 2023-03-15T05:25:00Z
-    webUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience"
-    ampWebUrl: "https://www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/general-motors-looking-weave-artificial-intelligence-into-driving-experience.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 53
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f4c753b4-6786-41e7-913b-39cc648dd74b/fa73622b-5215-40b7-ab04-1567c6873b34/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
     publishedDateTime: 2023-03-18T02:27:00Z

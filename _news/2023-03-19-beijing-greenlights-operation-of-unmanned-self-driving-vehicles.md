@@ -2,9 +2,9 @@
 category: news
 title: "Beijing greenlights operation of unmanned self-driving vehicles"
 excerpt: "Beijing greenlighted the commercial operation of autonomous driving service without in-car safety supervisors for the first time on Friday. The first batch of two fully-driverless ride-hailing platforms,"
-publishedDateTime: 2023-03-18T23:45:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
-webUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+publishedDateTime: 2023-03-19T00:53:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+webUrl: "https://global.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
 type: article
 quality: 24
 heat: 24
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
     width: 721
     height: 480
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 743
         isCached: true
 
-secured: "IsO3fSVSj/2FZCfdgtsQAoM3PRxcIZZc0IVjk1b+rSPjy0mCZH9YgU9y8ZLUZkI3axeiOuRaSSwJjhw2ZrP91NMYleEJDkHEWyTtlYb4Yx9kUua/GP+80fJlyj7njp8IzGd6HWOZbcy7skgH7wEikK/I1aoMJm6nl5WQ+qvQojtlupashxteN9Qu/xkUUiXXoGz3MfGuE5pYLxF0tAa773enSOWQ6DOQPa3tO/wY2bblPq0MVBjjvdFgq+C1FpBL/4DfER4xxRn+s9CuX+QphnIgVxuyWNo8EmUY0XbU/FiNAargEAXoKu0mmmcUJYBW6q9mtp1g8vm/OvXQS3j72ICymHGDOTh4X7nKcerOyEg=;Lullrb3syMto0PYB5hNv0w=="
+secured: "S71h0rOYirFquOFipdPhPfcTH/pkgdmR8yxxQm9onVawnfsA+Fanl/SnenKwUKrMhiNpxvLVY2jbTL6g5WPOFTHO1JF7kfR1j2GsepOqETuX1nR+6oYe2G0XUxHIgaEzpkNzqQ8TPwyIHJOvmhx+womcnMPTMbMSTIfwN6Toq2q+J+EEDIJCNL3Ga/tnPSXu9ctI1i6Dw0WCIii7CusvOtzLpPvQMVQhTUdgiNOJ7+YY7hPrty+mvo7ogj2O3mbyXYGm59st1J1s0lq/Qx66xDzEVn7/MvB4YgEeBkCdOnrUYX75o+vxlZdl3g6rlOph5y6Gr9YnfBn/uUNfB2rLPm4mYiEE04SnOx4b/NURWtM=;tsMFsr9+CBOtVZZ+STrhEQ=="
 ---
 

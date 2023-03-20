@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Industry Size, Share, Trends, Growth Analysis and Forecast to 2028"
-    excerpt: "The \"Face Recognition Device Market\" Study Describes how the technology industry is evolving and how major and"
-    publishedDateTime: 2023-03-15T06:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-industry-size-share-trends-growth-analysis-and-forecast-to-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
     excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
     publishedDateTime: 2023-03-17T06:53:00Z

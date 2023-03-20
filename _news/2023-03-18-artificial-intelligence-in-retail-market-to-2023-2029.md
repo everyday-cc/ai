@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI (Artificial Intelligence) Image Recognition Market Size, Trends and Forecast 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- AI (Artificial Intelligence) Image Recognition Market Insights 2023 by Types (Hardware, Software, Services) , Applications (Automotive ..."
-    publishedDateTime: 2023-03-15T05:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-size-trends-and-forecast-2029-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence for Healthcare Applications Market Growth and Forecast till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence for Healthcare Applications Market\" study describes how the technology industry is evolving and how major and ..."
     publishedDateTime: 2023-03-16T01:19:00Z
@@ -538,20 +524,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence-Emotion Recognition Market Statistics and Industry Share Analysis Forecast 2023-2028"
-    excerpt: "Global Artificial Intelligence-Emotion Recognition Market Report (121 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-15T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

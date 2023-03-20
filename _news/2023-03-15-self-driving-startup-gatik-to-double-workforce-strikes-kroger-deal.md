@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Self-driving startup Gatik to double workforce, strikes Kroger deal"
-    excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
-    publishedDateTime: 2023-03-16T01:03:00Z
-    webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
+    excerpt: "SAN FRANCISCO, March 15 (Reuters) - Self-driving trucking startup Gatik will double its workforce by year end, a top executive said, after it announced a deal on Wednesday with grocer Kroger Co ..."
+    publishedDateTime: 2023-03-15T21:03:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-2023-03-15/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230315&t=2&i=1626853125&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2E0BK"
-        width: 810
-        height: 540
+      - url: "https://www.reuters.com/resizer/lxjaB9QqWlrRzA1bs92zbK05_2I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U4WOFNKNVJP2FMQXPOKREB7JJM.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Self-Driving Startup Seeks to Double Workforce"
     excerpt: "Layoffs are impacting automakers and transportation technology companies across the industry but at least one firm in the space is looking to expand its workforce instead of scale back. According to Reuters,"

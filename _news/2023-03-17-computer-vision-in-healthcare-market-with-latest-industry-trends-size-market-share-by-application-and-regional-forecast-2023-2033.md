@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Industry Size, Share, Trends, Growth Analysis and Forecast to 2028"
-    excerpt: "The \"Face Recognition Device Market\" Study Describes how the technology industry is evolving and how major and"
-    publishedDateTime: 2023-03-15T06:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-industry-size-share-trends-growth-analysis-and-forecast-to-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market 2023-2028: Industry Share, Size, Growth Analysis, Leading Companies, and Forecast"
     excerpt: "Global Deep Learning Market Trends: The market is currently experiencing growth owing to the expanding applications of deep learning solutions in cybersecurity, database management and fraud detection systems. Additionally, they are employed in the ..."
     publishedDateTime: 2023-03-16T05:13:00Z

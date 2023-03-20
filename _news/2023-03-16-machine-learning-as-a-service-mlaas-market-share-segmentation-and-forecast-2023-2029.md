@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15"
 type: article
 quality: 78
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market Industry Size, Share, Trends, Growth Analysis and Forecast to 2028"
-    excerpt: "The \"Face Recognition Device Market\" Study Describes how the technology industry is evolving and how major and"
-    publishedDateTime: 2023-03-15T06:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-industry-size-share-trends-growth-analysis-and-forecast-to-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

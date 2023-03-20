@@ -32,19 +32,16 @@ images:
 
 related:
   - title: "AI startup Adept raises $350 mln in fresh funding"
-    excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI's ChatGPT."
-    publishedDateTime: 2023-03-16T08:53:00Z
-    webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
+    excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI’s ChatGPT."
+    publishedDateTime: 2023-03-16T04:57:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Financial Post
+      domain: financialpost.com
+    quality: 37
   - title: "AI startup Adept raises $350M in fresh funding"
     excerpt: "Artificial intelligence (AI) startup Adept raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, the startup said earlier this week. The company plans to use the new funds to launch its initial products, train models ..."
     publishedDateTime: 2023-03-17T05:04:00Z

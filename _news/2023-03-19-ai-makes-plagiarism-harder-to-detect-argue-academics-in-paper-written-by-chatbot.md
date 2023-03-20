@@ -3,8 +3,8 @@ category: news
 title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
 excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
 publishedDateTime: 2023-03-19T05:59:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+webUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
 type: article
@@ -248,6 +248,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "DDQ8+S+UspXQ6kKyBmjqDw8vN6+jKJib6u0r04kF5ABEtiD1UB0Yu665n/FRavWwP2zkcvHmaCfRpsR/5sPjumeevXRDCy9KdGhg8bPk/ZSzN+01nECD91d6Q/jQfSndlO+zLlQ9DH9NWgouZDvgbulOXHyuxoSloDFNrSNKYuwvT6pUEeqn647AVkbccflb6fAIGQMWuvripdbcbDzPoRgxEqGxdLTP+DI7jOZqikxBlPNgvvFdYAJiAARqmHCzy2yMQ+5vZ9FAzzqhJs4NA6RIITROeJ14Aa0hRx4um/MuhFVVuFxlWNFbVfVsEjNYidk26BExBZ3oqMG3MO6krbvtGa9giRzSJ7OGinihdEQoEsov0TkjfdJz70ypfnqaRwSMVuFKMb95yFoHCPXLYzD0WbbuIzFayZjoBLVdQrEg6owcI9XzHAW7t781CWWfH+pMiWszbDfy8j8Sa4d+A7l7EwD7WrkaIj/wvjOmjtkX5cWgaEL5OBF4EvOn6Wblc0s0oj0AVDv0mkMxVAz/7Q==;DOawqXuony9T73N99cDBxQ=="
+secured: "SMqrCRdRmtWFlfyPoxkxBtlLAhDNrkuAm7JmNEArwkr2XkYpzh9a/tuQheIc0vedJjBt5yWXj+mmrpLkv5pncS76MX9h0fIaUxXyrcbMRgUV/zROa5imXNynfZN2OMoCGMxCyivZcUfKc3c0/syvJdPQlEsL2NQ7rCMiFoYJ6cxyBWDtPhSwKqhJXJYk+mLokh9VmGCnEnrySP/vqxX8xbtJLx/XBfs5YC+igD8L71eROmaao/nPlFkRAhifjdzwPcEyifpnwqtlbdZuAlZgVvUxJwP1fGrIDl7vAiGL/U7QI60YhhWAkazKCsHDLTk16oEdJ+0KFLFtAtuGnm9bGl2JxMzdYZG4bpGG0QEYdeo=;1Xwk/FDBTJA9NCvtR44Yog=="
 ---
 

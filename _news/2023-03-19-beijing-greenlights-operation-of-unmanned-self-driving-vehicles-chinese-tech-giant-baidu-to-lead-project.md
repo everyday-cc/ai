@@ -27,15 +27,15 @@ images:
 related:
   - title: "Beijing greenlights operation of unmanned self-driving vehicles"
     excerpt: "Beijing greenlighted the commercial operation of autonomous driving service without in-car safety supervisors for the first time on Friday. The first batch of two fully-driverless ride-hailing platforms,"
-    publishedDateTime: 2023-03-18T23:45:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+    publishedDateTime: 2023-03-19T00:53:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
+      - url: "https://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
         width: 721
         height: 480
         isCached: true
