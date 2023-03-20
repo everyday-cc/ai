@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-16-three-ways-digitalization-is-powering-the-future-of-healthcare.md",
+      "title": "Three Ways Digitalization Is Powering The Future Of Healthcare",
+      "excerpt": "1. AI helps make medical systems smarter. Today, 59% of U.S. healthcare executives believe that artificial intelligence (AI) is either “very effective” or “often effective” at improving clinical outcomes. AI can be used in a variety of ways in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ae0e237f3ed51680b90539/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "publishedDateTime": "2023-03-16T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-the-rise-of-ai-automation-in-the-workplace-is-bad-news-for-the-brilliant-jerks-of-tech.md",
+      "title": "The rise of AI automation in the workplace is bad news for the 'brilliant jerks' of tech",
+      "excerpt": "Brilliant jerks who nobody actually likes working with will have a tougher time after AI automates much of their work. The future belongs to those with people skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3",
+      "originalUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63e2947327e5db0018ee938d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3?amp",
+      "publishedDateTime": "2023-03-16T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models.md",
+      "title": "MLOps platform Seldon raises £20M Series B to improve the productions of AI models",
+      "excerpt": "The rise of ChatGPT has fuelled growth in the public awareness of AI, as well as the growing discourse around AI ethics. How should AI be used? What are its implications for society, not just business? The inherent bias within AI applications — remember ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Seldon-Team-Photo-1.png?w=734",
+          "width": 734,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
+      "publishedDateTime": "2023-03-16T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-predictive-analytics-and-machine-learning-market-size-and-forecast-till-2029.md",
       "title": "Predictive Analytics and Machine Learning Market Size and Forecast till 2029",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Predictive Analytics and Machine Learning Market\" study describes how the technology industry is evolving and how major and emerging ...",
@@ -50,58 +205,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-self-driving-startup-gatik-to-double-workforce-strikes-kroger-deal.md",
-      "title": "Self-driving startup Gatik to double workforce, strikes Kroger deal",
-      "excerpt": "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO",
-      "originalUrl": "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20230315&t=2&i=1626853125&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2E0BK",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -218,7 +321,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -262,6 +365,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process.md",
+      "title": "For Wells Fargo, solving for AI at scale is an iterative process",
+      "excerpt": "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "originalUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "publishedDateTime": "2023-03-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-from-2023-to-2028-report-on-the-ai-in-computer-vision-market.md",
       "title": "From 2023 to 2028 Report on the AI in Computer Vision market",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ...",
@@ -270,7 +424,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 494,
+      "heat": 484,
       "tags": null,
       "images": [
         {
@@ -627,7 +781,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -680,7 +834,7 @@
       "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1072,178 +1226,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-15-with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete.md",
-      "title": "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?",
-      "excerpt": "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture.",
+      "path": "_news/2023-03-15-karber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
+      "title": "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
+      "excerpt": "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service partnerships to combine the technology,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/",
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312953&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312953&cat=PR News Wire",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/",
-      "publishedDateTime": "2023-03-15T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
-      "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
-      "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6411db2e9106984023d501fc/0x0.jpg?format=jpg&crop=2144,1206,x0,y235,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/03/15/gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy/amp/",
-      "publishedDateTime": "2023-03-15T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-robotics-and-pittsburgh-what-other-regions-can-learn.md",
-      "title": "Robotics And Pittsburgh, What Other Regions Can Learn",
-      "excerpt": "I’ll start this article by admitting to a bias ... Today, Pittsburgh is home to at least one hundred companies working to create solutions around robotics and AI. One thing the region has learned over the last decade. “Any city, county or region ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=875,493,x0,y21,safe&width=1200",
-          "width": 875,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2023/03/15/robotic-and-pittsburgh-what-other-regions-can-learn/amp/",
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-tesla-full-self-driving-beta-v11-is-coming-this-weekend-if-you-believe-elon-musk.md",
-      "title": "Tesla Full Self-Driving Beta v11 is coming this weekend, if you believe Elon Musk",
-      "excerpt": "After months of waiting, Tesla Full Self-Driving Beta v11 is going to a wide release this weekend, if you believe Elon Musk. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "originalUrl": "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg",
+          "width": 400,
+          "height": 276,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1253,21 +1250,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T07:43:00-07:00",
+      "publishedDateTime": "2023-03-15T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1276,7 +1264,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

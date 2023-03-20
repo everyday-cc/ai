@@ -233,20 +233,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Future of Natural language processing (NLP) Market: Growth Projections and Industry Insights 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" research report offers a thorough analysis of the most recent developments, new fashions ..."
-    publishedDateTime: 2023-03-15T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-of-natural-language-processing-nlp-market-growth-projections-and-industry-insights-2023-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Artificial Intelligence Delivery Robot Market: Thorough breakdown for industry leaders Prognosis by 2027"
     excerpt: "Latest Research Report 2023-2028: “6G Networks Market” | Survey with 125 Pages Report The 6G Networks Market sees the"
     publishedDateTime: 2023-03-17T08:56:00Z
@@ -335,20 +321,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "2044 Data Science and Machine-Learning Platforms Market: Thorough breakdown for industry leaders Prognosis by 2027"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- A thorough study of the \"Data Science and Machine-Learning Platforms Market\" Growth for 2023 is given in the research report. There are opportunities for local expansion, business planning, product offerings, and end-user ..."
-    publishedDateTime: 2023-03-15T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2044-data-science-and-machine-learning-platforms-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D6Wx+TDUehfQ24d5DUtgdfz1Yyez3N52EUl96odhUPKVnYr4wY1XX3Jbz3ojlXnIGe2vF/u9OL0rgN3vYaMCSUgoFhHdL0hKbI+VoSrDoK7UjopLkgpzK0o+eIuhAicQJTCP4Daze8lZ2eLwma+4X3CLeLW/FPsTIjRNjii84q4oKjLdAIbB5L3M3RcKa15lbvx2psbqavTT5UgMxMYUJRcQiWFBlYAmfHf3qgCVPTBqu7NM8Erllh3RM4+/IIU5HLgzQ2Ap+HJHcDPEG/UJqSXmJKwLDojXI0boILERlQJ5I/GeZMtbD12CXmOIjyCPIstftlozEP6B27gcWnQBHH3tP1sPFT/abixhWSoLqGY=;Y17M4hhxSpz7LSju4o7rXg=="
 ---

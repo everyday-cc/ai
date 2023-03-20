@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AWS Chatbot now integrated into Microsoft Teams"
+    excerpt: "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ..."
+    publishedDateTime: 2023-03-17T11:22:00Z
+    webUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html"
+    ampWebUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 106
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
     excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
     publishedDateTime: 2023-03-17T00:22:00Z
@@ -307,22 +323,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What can ChatGPT maker's new AI model GPT-4 do?"
-    excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
-    publishedDateTime: 2023-03-15T15:56:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_307e867e3fe4464be9c4f884909f3977_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
     excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
     publishedDateTime: 2023-03-16T16:23:00Z
@@ -402,6 +402,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 51
+  - title: "UAE-owned AI language model outperforms ChatGPT"
+    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
+    publishedDateTime: 2023-03-20T08:45:00Z
+    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
+    images:
+      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Microsoft Adds AI Assistant to Its Edge Browser"
     excerpt: "Bing's AI Copilot can now write emails and blog posts for you. Credit: Josh Norem You can start using the service with those questions out of the way. Its functionality is divided into three clickable links at the top of the sidebar: Chat, Compose ..."
     publishedDateTime: 2023-03-15T18:50:00Z

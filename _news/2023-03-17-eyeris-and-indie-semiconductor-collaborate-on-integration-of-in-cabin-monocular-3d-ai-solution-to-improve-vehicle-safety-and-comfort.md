@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/03/16/9778334.htm"
 webUrl: "https://it.tmcnet.com/news/2023/03/16/9778334.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Eyeris and OMNIVISION Partner on Industry's First"
-    excerpt: "Eyeris Technologies, Inc., a global leader for automotive in-cabin sensing AI and sensor fusion solutions, today announced its partnership with OMNIVISION, a leading global developer of semiconductor solutions,"
-    publishedDateTime: 2023-03-15T16:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eyeris-omnivision-partner-industrys-first-in-cab-monocular-/2023/03/15/9777387.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "dUlxlh85t4JP9PT1tTKTFwb2ED12ug/p4sVXfqiUBYJnWSPLRzMqVHWgqwzJfp7T4drRKiPxBHe1blkX/yzHlUf86kf5hAgDQ5dnmk/VfM2UNrTDg68iSSix4nu2Xaj36+Bi9U5gDJOJZOc/p6mD4kzbc0eQZkPKrcMrD644nDaqbOHmXmpuVotrALqtHtX1sC6tQMJFuClkT6ZkJ7kGnXc6lQ8j3X+kk5PjS0wcMpzd4IUzMQn079pXRSEdqkCP1UgoU7YM4OtET1+ArqYwiO0JuOyLIjsr5MBk0rcXoGe7x/6L/nN1yLu5iJtw6DcmNzbJlK1fMPW4xIoDSFS8Jm746AubHPXB7X3TMENY5S8=;IpsHyqWd0gXvYy9NEb12Vg=="
 ---

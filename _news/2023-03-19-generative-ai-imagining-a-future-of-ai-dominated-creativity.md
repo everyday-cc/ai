@@ -68,7 +68,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
         width: 620

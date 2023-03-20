@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 401,
+      "heat": 411,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -526,7 +526,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -940,6 +940,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
+      "title": "Microsoft lays off team responsible for ethical AI development",
+      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
       "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
       "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
@@ -1275,6 +1319,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-12-piaget-stages-of-development.md",
+      "title": "Piaget Stages of Development",
+      "excerpt": "Piaget's four stages of intellectual (or cognitive) development are: Sensorimotor. Birth through ages 18-24 months Preoperational. Toddlerhood (18-24 months) through early childhood (age 7 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "originalUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-the-instabase-platform-now-available-in-microsoft-azure-marketplace.md",
       "title": "The Instabase Platform Now Available in Microsoft Azure Marketplace",
       "excerpt": "Instabase, a leader in applied AI for the enterprise, has announced the availability of its platform in the Microsoft",
@@ -1384,110 +1462,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
-      "title": "AI-first infrastructure: The key to faster time to market",
-      "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "originalUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "publishedDateTime": "2023-03-09T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-is-ai-the-perfect-ally-to-complete-digital-transformation.md",
-      "title": "Is AI the Perfect Ally to Complete Digital Transformation?",
-      "excerpt": "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

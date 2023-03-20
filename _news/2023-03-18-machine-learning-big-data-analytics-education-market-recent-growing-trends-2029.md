@@ -221,20 +221,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Future of Natural language processing (NLP) Market: Growth Projections and Industry Insights 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" research report offers a thorough analysis of the most recent developments, new fashions ..."
-    publishedDateTime: 2023-03-15T15:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-of-natural-language-processing-nlp-market-growth-projections-and-industry-insights-2023-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Assessment Report by 2023-2029"
     excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" analysis [UPDATED REPORT] 2023 provides"
     publishedDateTime: 2023-03-15T20:34:00Z
@@ -337,20 +323,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "2044 Data Science and Machine-Learning Platforms Market: Thorough breakdown for industry leaders Prognosis by 2027"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- A thorough study of the \"Data Science and Machine-Learning Platforms Market\" Growth for 2023 is given in the research report. There are opportunities for local expansion, business planning, product offerings, and end-user ..."
-    publishedDateTime: 2023-03-15T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2044-data-science-and-machine-learning-platforms-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pH65KUSYV5RXFipm8ULFePTKT/3qA8Fhi8woVUBuLWhCkDHZE0ERWm2E0eZqXELAK4WFFz252uRNBeyayUQgsFSZlRNxCX7bvevKWbdeIpkQpoF4i2U2mwL6sUmcSe9ODvr46haCpMSjsuERRIn3qeUTTBbLyseVYiuXnXa+xjAmaYUC/BPIQXJw3lFN+hhjH8oupZSmAINmXE5UAEadrrvE0QwKwHxQ+mX1a5VA1ZRuWkn8cocIW9H2j2l9OausX1BeHf2DFnz0b3zTE5w7Th4ctjB1PslpmnsSSLUTHLbG+23wj8QYsa1EsKma23NfmLU8N6dwQdLRQfNGWT8MzalS0RhNEoXzZpK5OWmoK5g=;Ho7Br0kCFxR2Ry/TjMvHgg=="
 ---

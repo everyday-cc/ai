@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Revenue, Trends 2023-2029"
     excerpt: "Global “Natural Language Processing For Healthcare And Life Sciences Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all ..."
     publishedDateTime: 2023-03-15T17:49:00Z
@@ -74,6 +88,20 @@ related:
     excerpt: "Mar 15, 2023 (The Expresswire) -- The \"Speech and Voice Recognition Technology Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term ..."
     publishedDateTime: 2023-03-16T01:09:00Z
     webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-top-players-and-forecast-till-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
+    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
+    publishedDateTime: 2023-03-17T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
     type: article
     provider:
       name: MarketWatch

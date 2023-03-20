@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-    excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-    publishedDateTime: 2023-03-15T15:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
     excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
     publishedDateTime: 2023-03-18T11:32:00Z

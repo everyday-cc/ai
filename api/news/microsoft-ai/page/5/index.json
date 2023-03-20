@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
+      "title": "The plateauing of cognitive ability among top earners",
+      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
+      "publishedDateTime": "2023-02-08T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
+      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
+      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
+      "publishedDateTime": "2023-02-08T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix.md",
       "title": "Synopsys AI Chip Design Hits Major Milestone With Azure Cloud, STMicro And SK Hynix",
       "excerpt": "on Microsoft Azure. Machine Learning Now Does The Grunt Work Of Chip Design The place and route optimization step in semiconductor chip design is a simple concept to understand. First, engineers design the circuits, logic, memory structures, etc.,",
@@ -1223,85 +1318,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
-      "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
-      "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "originalUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-chatgpt-rival-bard-and-looming-event-from-openai-backer-microsoft-swing-alphabet-stock-as-artificial-intelligence-race-heats-up.md",
-      "title": "ChatGPT rival Bard and looming event from OpenAI backer Microsoft swing Alphabet stock as artificial intelligence race heats up",
-      "excerpt": "Minutes after Google announced it is opening \"Bard\" to early testers, Microsoft teased an event that is expected to involve ChatGPT parent OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

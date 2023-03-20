@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-20-fujitsu-pushes-ai-ethics-in-small-lab-initiative.md",
+      "title": "Fujitsu pushes AI ethics in small lab initiative",
+      "excerpt": "Japan-based Fujitsu teamed with a local women's university to jointly work on AI ethics to promote gender equality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2023/02/Fujitsu.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "publishedDateTime": "2023-03-20T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
       "title": "The AI arms race highlights the urgent need for responsible innovation",
       "excerpt": "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -194,6 +237,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models.md",
+      "title": "MLOps platform Seldon raises £20M Series B to improve the productions of AI models",
+      "excerpt": "The rise of ChatGPT has fuelled growth in the public awareness of AI, as well as the growing discourse around AI ethics. How should AI be used? What are its implications for society, not just business? The inherent bias within AI applications — remember ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Seldon-Team-Photo-1.png?w=734",
+          "width": 734,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
+      "publishedDateTime": "2023-03-16T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research.md",
       "title": "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”",
       "excerpt": "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ...",
@@ -287,6 +382,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
+      "title": "Microsoft lays off team responsible for ethical AI development",
+      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1265,145 +1404,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-chatbots-got-bigand-their-ethical-red-flags-got-bigger.md",
-      "title": "Chatbots Got Big—and Their Ethical Red Flags Got Bigger",
-      "excerpt": "In the weeks following the release of OpenAI’s viral chatbot ChatGPT late last year, Google AI chief Jeff Dean expressed concern that deploying a conversational search engine too quickly might ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatbots-got-big-and-their-ethical-red-flags-got-bigger/",
-      "originalUrl": "https://www.wired.com/story/chatbots-got-big-and-their-ethical-red-flags-got-bigger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63eae23450889a622b3544b9/master/pass/AI_Effect_Race_2.png",
-          "width": 2500,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chatbots-got-big-and-their-ethical-red-flags-got-bigger/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatbots-got-big-and-their-ethical-red-flags-got-bigger/amp",
-      "publishedDateTime": "2023-02-16T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company.md",
-      "title": "Open AI: “Aligning AI Systems with Human Values Is a Top Priority for Our Company”",
-      "excerpt": "In a blog post titled “How should AI systems behave, and who should decide” published on the OpenAI’s website, the company insisted that “our mission is to ensure that artificial general intelligence (AGI) benefits all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company/",
-      "originalUrl": "https://iblnews.org/open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibleducation.com/wp-content/themes/ibl-web-ibleducation-theme/img/aws-logo-c.png",
-          "width": 3237,
-          "height": 1946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T17:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-university-of-utah-ai-machine-learning-projects-receive-research-funding.md",
-      "title": "University of Utah AI, Machine Learning Projects Receive Research Funding",
-      "excerpt": "A set of grants supported by the New One Utah Data Science Hub will support seven University of Utah artificial intelligence and machine learning projects.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
-      "originalUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-917184638-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
-      "publishedDateTime": "2023-02-16T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

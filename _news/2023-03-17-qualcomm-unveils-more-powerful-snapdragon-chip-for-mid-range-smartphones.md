@@ -65,6 +65,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Qualcomm Unveils Game-Changing Snapdragon 7-Series Mobile Platform to Bring Latest Premium Experiences to More Consumers"
+    excerpt: "Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, AI-enhanced experiences and high-speed 5G and ..."
+    publishedDateTime: 2023-03-17T14:42:00Z
+    webUrl: "https://www.hartware.de/2023/03/17/qualcomm-unveils-game-changing-snapdragon-7-series-mobile-platform-to-bring-latest-premium-experiences-to-more-consumers/"
+    type: article
+    provider:
+      name: Hartware Net
+      domain: hartware.de
+    quality: 0
+    images:
+      - url: "https://www.hartware.de/wp-content/uploads/2023/03/Qualcomm-Snapdragon-7-Gen-2-Intro-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "QxfBoYLb9ifMYii7vsLgbNBTbsVcnoVh6O6ncHEnhWb4kl4Z3t3x92DXn/axuIfqly6yed30uA3q8tv3Vy6Q2l9joukRPObt+uJAnqtc09pm/S0LTpipEsEaQNoQQpuzhwCBiyFE5zdxHlpX8zPsDX+Z6s8x6FWZ05RoXMBxDSc8tYfvFAQv5EYAlTWHpmO0ui3wpFkevXDvx+QDuHQHueXZckXVRQ1yqxf0S2Awam8eyukNjl8xlbFPftxfbLfJgL3T/qdUnsMkzDUczGwCA3fia75mg1ZQtE+asawPl2T1BlCz1VwnGGqLdV7ctssrqkCqG5EpMNmeSCSkM2L+PAG7al2nHHB6sHK3V2uekhFnSGBL6H4VHQ6mEYXsnkas9z0lpdp21hrRl0oRHDTqu5J6A6iPCZEO3AXzg3odyF80KWpCSzUqLz51iUsvQIa+ThbN+NgvKap74hgrYR7uSxahd12k5Ds0XIfFK4kIWiaGOQk4pKSGsHbMUmBvnXtwM57NEO39BjnBsG21I7PJdg==;LjDjgXYvTw0rWG2qg6WjLA=="
 ---

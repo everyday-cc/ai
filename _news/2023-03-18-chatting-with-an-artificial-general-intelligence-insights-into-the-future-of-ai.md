@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatt
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Digit
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial-Intelligence Powered Prostate Cancer Diagnosis Tool Launched"
-    excerpt: "An advanced artificial-intelligence-powered prostate cancer diagnosis ... The company is dedicated to empowering healthcare professionals across the globe with AI-powered solutions to operate collaboratively at the peak of their performance despite ..."
-    publishedDateTime: 2023-03-15T16:10:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 44
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/immunotherapy-in-prostate-cancer.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Animal Learning and Intelligence News"
     excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."
     publishedDateTime: 2023-03-18T00:00:00Z

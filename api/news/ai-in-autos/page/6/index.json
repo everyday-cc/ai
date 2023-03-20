@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-07-baidu-stock-jumps-15-as-the-chinese-internet-giant-says-its-readying-its-answer-to-chatgpt.md",
+      "title": "Baidu stock jumps 15% as the Chinese internet giant says it's readying its answer to ChatGPT",
+      "excerpt": "Shares in Baidu surged to highs unseen since 2021 after ... with the promise of further potential automation driving its share price up more than 200% at one point this month.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6116a207c040ad0018ce3837?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/china-baidu-stock-jumps-15-tech-giant-answer-to-chatgpt-2023-2?amp",
+      "publishedDateTime": "2023-02-07T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
+      "title": "The Battle for AI Supremacy Begins",
+      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
+      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
       "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
       "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
@@ -1125,102 +1212,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.md",
-      "title": "Chinese lidar maker Hesai to raise up to $171 million in U.S. IPO",
-      "excerpt": "Laser-based lidar sensors help self-driving cars detect objects ahead and around the vehicle ... Its investors include Xiaomi, Meituan, Bosch and Baidu. Hesai's IPO is the first major offering by a Chinese firm since the country scrapped most of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107188476-1675387186307-gettyimages-1242024723-AFP_32F26PH.jpeg?v=1675388157",
-          "width": 6048,
-          "height": 4024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/03/chinese-lidar-maker-hesai-to-raise-up-to-171-million-in-us-ipo.html",
-      "publishedDateTime": "2023-02-02T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "Researchers at the University of Zurich have developed a new tool that uses artificial intelligence to predict the efficacy of various genome-editing repair options. A new 'outside-the-box' method ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

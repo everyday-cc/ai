@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-finte
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-fintech-4-key-practices-that-will-drive-growth/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "With A Growth In FinTech, Will Traditional Financial Advisors Become Obsolete?"
-    excerpt: "The math is the easy part. There are AI tools, algorithms and software that are now able to fully design an investment portfolio in the time it takes to answer a questionnaire about your risk tolerance. However, that doesn’t give a full picture."
-    publishedDateTime: 2023-03-15T15:42:00Z
-    webUrl: "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/"
-    ampWebUrl: "https://www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericbrotman/2023/03/15/with-a-growth-in-fintech-will-traditional-financial-advisors-become-obsolete/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6411e6bd92269bb21de12265/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "3 High-Growth Fintech Stocks to Buy for 2023"
     excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
     publishedDateTime: 2023-03-17T14:06:00Z

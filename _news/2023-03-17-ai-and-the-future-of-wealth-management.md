@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harnessing the power of AI"
+    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
+    publishedDateTime: 2023-03-17T03:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps."
     excerpt: "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ..."
     publishedDateTime: 2023-03-16T15:07:00Z

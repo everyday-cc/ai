@@ -2,6 +2,265 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
+      "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
+      "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
+      "originalUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/drones-and-deep-learni.jpg",
+          "width": 2880,
+          "height": 1923,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
+      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
+      "excerpt": "NEW ORLEANS: Louisiana authorities’ use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant, an attorney said in a case that renews ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/01/03/1886220.jpg",
+          "width": 1240,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-friday-hack-chat-control-schemes-for-robotics.md",
+      "title": "Friday Hack Chat: Control Schemes For Robotics",
+      "excerpt": "Not coincidentally, for this week’s Hack Chat, we’re talking all about Robotics Modules. We’re taking a deep dive into actuation and control schemes for robotics, and you’re invited to ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
+      "originalUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/04/54actuationhackchatv3-01_featured.png",
+          "width": 800,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows.md",
+      "title": "Drivers not ready for fully self-driving car, recent AAA survey shows",
+      "excerpt": "While the interest in partially-automated vehicle technology grows, a recent AAA survey shows that drivers are becoming more fearful of fully self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "originalUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4145f552-7abf-4325-b52e-bef95378a236/thumbnail/1200x630/6082d81cddfe2819760ac5d2246671ee/auto.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "publishedDateTime": "2023-03-05T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
+      "title": "Could the next great author be a robot? We asked (Human) writers",
+      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "publishedDateTime": "2023-03-05T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
+      "title": "Understanding the world of artificial intelligence and its future impacts",
+      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
       "title": "Trends that are likely to characterize the Fintech industry in 2023",
       "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
@@ -881,292 +1140,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-the-top-us-consumer-watchdog-is-worried-youre-going-to-fall-for-ai-scams-or-overblown-marketing-hype.md",
-      "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
-      "excerpt": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
-      "originalUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6402378937125e0018a101cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3?amp",
-      "publishedDateTime": "2023-03-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas.md",
-      "title": "Achieve rapid time-to-value business outcomes with faster ML model training using Amazon SageMaker Canvas",
-      "excerpt": "Machine learning (ML) can help companies make better business decisions through advanced analytics. Companies across industries apply ML to use cases such as predicting customer churn, demand forecasting, credit scoring, predicting late shipments, and improving manufacturing quality. In this blog post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/03/achieve-rapid-time-to-value.jpg",
-          "width": 1566,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T09:35:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-walking-the-walk-c3ai-soars-19-after-the-ai-software-company-reports-big-quarterly-earning-beat.md",
-      "title": "'Walking the walk': C3.ai soars 19% after the AI software company reports big quarterly earning beat",
-      "excerpt": "In a note Friday, Wedbush's Dan Ives said C3.ai is now \"walking the walk\" as it gains momentum in the fast-growing AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-ai-earnings-chatgpt-artificial-intelligence-software-2023-3",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-ai-earnings-chatgpt-artificial-intelligence-software-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63dadb150a08ae0018a668fa?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/c3ai-stock-price-ai-earnings-chatgpt-artificial-intelligence-software-2023-3?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/c3ai-stock-price-ai-earnings-chatgpt-artificial-intelligence-software-2023-3?amp",
-      "publishedDateTime": "2023-03-03T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-can-facebooks-ai-dream-resolve-its-revenue-nightmare.md",
-      "title": "Can Facebook’s AI Dream Resolve Its Revenue Nightmare?",
-      "excerpt": "Facebook owner Meta is setting up a new “generative AI” product group as it strives to claw back revenues. Can its AI dream resolve its privacy nightmare?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
-      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61163cbb75226aecbb0e94e9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
-      "publishedDateTime": "2023-03-03T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-amazon-luna-every-free-game-with-prime-march-2023.md",
-      "title": "Amazon Luna: Every Free Game With Prime (March 2023)",
-      "excerpt": "Each month, Amazon Luna provides Prime subscribers with an array of free games. Here are all the titles that are currently available. Originally revealed in 2020 and made available to a select ...",
-      "sourceUrl": null,
-      "webUrl": "https://gamerant.com/amazon-luna-prime-free-games/",
-      "originalUrl": "https://gamerant.com/amazon-luna-prime-free-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/amazon-lune-free-games-march-2023.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

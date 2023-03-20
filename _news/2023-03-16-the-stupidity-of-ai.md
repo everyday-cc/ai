@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"

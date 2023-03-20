@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-17-artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030",
-      "excerpt": "Meticulous Research(R)--a leading global market research company, published a research report titled, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
       "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
       "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
@@ -1386,6 +1334,49 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-report-outlines-artificial-intelligence-cyber-risks-solutions-for-health-care.md",
+      "title": "Report outlines artificial intelligence cyber risks, solutions for health care",
+      "excerpt": "A new white paper from the Healthcare and Public Health Sector Coordinating Council (HSCC), a public-private partnership to mitigate risks to the sector, outlines nine cybersecurity concerns for artificial intelligence use in the clinical and enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
+      "originalUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aha.org/sites/default/files/2018-07/cybersecurity-hand-lock-graphic_900x400.jpg",
+          "width": 900,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "aha.org",
+        "domain": "aha.org",
         "images": null,
         "publishers": null,
         "authors": null

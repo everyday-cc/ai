@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "GM CEO meets with senators on self-driving cars"
-    excerpt: "FILE PHOTO: An attendee takes a selfie inside a Cruise Origin autonomous vehicle, a Honda and General Motors self-driving car partnership, during its unveiling in San Francisco, California, U.S. January 21, 2020. REUTERS/Stephen Lam/File Photo Thursday ..."
-    publishedDateTime: 2023-03-17T02:44:00Z
-    webUrl: "https://www.reuters.com/news/picture/gm-ceo-meets-with-senators-on-self-drivi-idUSKBN2VJ00O"
+    excerpt: "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ..."
+    publishedDateTime: 2023-03-17T00:35:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230317&t=2&i=1627012975&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2G00C"
-        width: 810
-        height: 539
+      - url: "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Cars With Self-Driving Capabilities Are Watching You"
     excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."

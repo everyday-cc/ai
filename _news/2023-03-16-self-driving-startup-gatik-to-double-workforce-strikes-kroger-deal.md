@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to
 webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Startup Seeks to Double Workforce"
-    excerpt: "Layoffs are impacting automakers and transportation technology companies across the industry but at least one firm in the space is looking to expand its workforce instead of scale back. According to Reuters,"
-    publishedDateTime: 2023-03-16T15:29:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22766595/selfdriving-startup-seeks-to-double-workforce"
+  - title: "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores"
+    excerpt: "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers."
+    publishedDateTime: 2023-03-19T04:25:00Z
+    webUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html"
+    ampWebUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 57
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1232.6413286419ef9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678"
+        width: 1024
+        height: 678
         isCached: true
   - title: "Kroger lands deal for self-driving truck deliveries"
     excerpt: "Get ready because the empty truck cabs in motion are coming. Gatik, which is involved in autonomous middle-mile logistics, has announced a multi-year commercial collaboration to transport customer orders within Kroger’s Dallas distribution network. The ..."

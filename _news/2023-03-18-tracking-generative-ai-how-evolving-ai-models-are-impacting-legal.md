@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
+    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
+    publishedDateTime: 2023-03-17T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Apple is reportedly experimenting with language-generating AI"
     excerpt: "Multiple teams under Apple are reportedly experimenting with language generating AI models, including the Siri team."
     publishedDateTime: 2023-03-16T18:36:00Z
@@ -41,47 +57,59 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "An AI tutor who teaches foreign language reading"
-    excerpt: "The Electronics and Telecommunications Research Institute (ETRI) has developed a reading comprehension education AI technology that allows you to learn foreign language listening, speaking, and reading by talking to an artificial intelligence (AI) tutor."
-    publishedDateTime: 2023-03-17T18:00:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-foreign-language.amp"
+  - title: "How AI Is Changing Artistic Creation and Challenging IP Laws"
+    excerpt: "The use of artificial intelligence (AI) is gaining notoriety among traditional and Web3 artists alike. While some creatives worry that AI will one day replace their jobs or steal their work, other artists have welcomed the technical experimentation and ..."
+    publishedDateTime: 2023-03-16T15:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/etri-introduces-ai-tut.jpg"
-        width: 2880
-        height: 1915
+      - url: "https://www.coindesk.com/resizer/hWylKqpm_gM9JyGcJpKuf8__ROo=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FP3Q3PWCCVFCBMOI6Q4CJIGBDE.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
+    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
+    publishedDateTime: 2023-03-20T09:03:00Z
+    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
+    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Apple Is Testing 'Natural Language Generation' AI to Improve Siri: Report"
-    excerpt: "Now it seems Apple might finally be doing something about this. Apple has become the latest of many companies to start toying with adding generative AI to its products, starting with Siri. Word of Cupertino's plans comes from 9to5Mac, which says the ..."
-    publishedDateTime: 2023-03-17T19:55:00Z
-    webUrl: "https://www.extremetech.com/computing/report-apple-is-testing-natural-language-generation-ai-to-improve-siri"
+  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
+    publishedDateTime: 2023-03-16T19:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 16
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Bing’s New AI Assistant Went Rogue"
+    excerpt: "All fingers point to Microsoft having cut corners to rush the launch of the new Bing. In fact, Microsoft fired its whole AI ethics and society team during its recent round of layoffs. While the consequences of the company’s lax behavior were minimal this ..."
+    publishedDateTime: 2023-03-17T02:49:00Z
+    webUrl: "https://spectator.org/bings-new-ai-assistant-went-rogue/"
+    type: article
+    provider:
+      name: The American Spectator
+      domain: spectator.org
+    quality: 39
+    images:
+      - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/03/shutterstock_2248249679-scaled-e1678993869728.jpg"
+        width: 2048
+        height: 947
+        isCached: true
 
 secured: "yV1wLPfYPiJfI/4cIi9ZYJ0jG/1EXN9my1FnvbNa3R+f5yvausc1hSw59nD7CJf9WBE4WWVz0egoXlAKJ8z1xaD7du0ZUXv7bWioGTQ7VSjUXiz8hkyk3zcxMRzeQGPmM9VFxloKAJIr7UMo+erAroLOYuqfJ+lT38MUadWL2lBffcl5M1O9vC0D61zucFxthMXtgzaBy2y8QM0HlixCMBihhNgat3Z71cY2SLXVvN7YFV0DHWM9cxdr3/ei2wxICrqJynnRydVpdmt/ak03GwtCYH/PpQcPY0v97WMl82xYorB0EHCIY73ThyqpuI2uFynkBeymUFfH0b2LYXApYKN5d65kdiBXc4aK4cZQ7x8=;LpC7QTDyuJZgFUQKSRInnw=="
 ---

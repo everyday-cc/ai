@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial-Intelligence Powered Prostate Cancer Diagnosis Tool Launched"
-    excerpt: "An advanced artificial-intelligence-powered prostate cancer diagnosis ... The company is dedicated to empowering healthcare professionals across the globe with AI-powered solutions to operate collaboratively at the peak of their performance despite ..."
-    publishedDateTime: 2023-03-15T16:10:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-powered-prostate-cancer-diagnosis-tool-launched-210918-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 44
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/immunotherapy-in-prostate-cancer.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "fI+cNgWsv0YmDvb1WjK1C7nAunVgpHM4LqUJC4yR2BOe9d3F/5upfWHe66lSN3c9c/suvXHVvQyopa+zMD49wEQAv1tWjLsX7W7Wt6VkKakTrR+e4zmTsKEI8ESQe1rhM5LLAA0oYD9MIrLkJY/Pyg2+MVE/d55/IkX8jH0F/zrt2xukSdU4JZhP53YFETWZPto2+D1kyvHSqtrS9u9v/cZlbQWJ6g6/PtYh8avDKuS46xDdOO/TcWV9XtUQifsH5YlOdYpLako7ebv0GyDFojfehMe9i25TJgUAeYU5CpvfhNUQSxhHSDPyjMDw/E+GUXairb1qmztOaVwD/9GBOzpGYa1gVXIQgy8B4YRcSu4=;kX9v37V9HJfrBlZxiuiJFA=="
 ---

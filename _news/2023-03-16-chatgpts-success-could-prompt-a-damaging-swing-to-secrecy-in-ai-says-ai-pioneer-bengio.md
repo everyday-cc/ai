@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LinkedIn expands its generative AI assistant to recruitment ads and writing profiles"
-    excerpt: "Earlier this month, when LinkedIn started seeding “AI-powered conversation starters” in people’s news feeds to boost engagement on its platform, the move saw more than little engagement of its own, none of it too positive."
-    publishedDateTime: 2023-03-15T16:56:00Z
-    webUrl: "https://techcrunch.com/2023/03/15/linkedin-expands-its-generative-ai-assistant-to-recruitment-ads-and-writing-profiles/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 40
 
 secured: "6wWfw9CYkqPtlzt17d5ktZMZGXynHrW1AdBw8PfFtO8yVcog0uF1Ad5NUMmQjXPdfhHbzxBK3Xv3yjFqFbHIEeDg+t04qLPy6AXIhPujCuEVGJhgdTzeD1CqAFqJHeLJQXDUOl39hJSOm1pV7jayBs5dQKJDAny3puHHu9VzSDDgIH5l6h7HbwL7hZC18UfOVblRSfUBg9M918JDhYUY+RncqshuTuE314teTR3SGyyOCYE0XmBGNDE9S/BgAjOWbXmwiG7vPaCyUE5n9QM0yY0hNTqJOOXB61yuSuvB0I7TdBXqrfgVaFb4qvr1qyXZLa6Td13Y/q+wEQ1/7zQPkHPsv5AaUWrSN9IRCBUMksrvAr2eKa+QCeYMFFrMm2SXK3wsEhIz+7vQ4uA4yK2iRv3CPJlOJlWBzum06WYJWHLDk9Zv/AnFfwYV00x34DpH08A9QT8PuSlndpHJWddVEMa6QjRIceFZ6yuvtp4R+tEXHgKuVOe+Q2GbP4oGGUH0snOmkWX4goXgnJ85vWIHZg==;Nom8fLTiXLKA7lK/JuaxXg=="
 ---

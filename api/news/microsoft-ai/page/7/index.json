@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-31-cognitive-performance-variability-may-predict-severity-of-viral-infection-a-umich-collaborative-study-finds.md",
+      "title": "Cognitive performance variability may predict severity of viral infection, a UMich collaborative study finds",
+      "excerpt": "The study, which was published in the journal Scientific Reports on Dec. 31, 2022, is the first study suggesting that a person’s cognitive performance at different times — including their ability to focus and their memory skills — can predict how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.michigandaily.com/research/cognitive-performance-variability-may-predict-severity-of-viral-infection-a-umich-collaborative-study-finds/",
+      "originalUrl": "https://www.michigandaily.com/research/cognitive-performance-variability-may-predict-severity-of-viral-infection-a-umich-collaborative-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.michigandaily.com/wp-content/uploads/2023/01/Untitled_Artwork-1-1.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.michigandaily.com/research/cognitive-performance-variability-may-predict-severity-of-viral-infection-a-umich-collaborative-study-finds/",
+      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/research/cognitive-performance-variability-may-predict-severity-of-viral-infection-a-umich-collaborative-study-finds/",
+      "publishedDateTime": "2023-01-30T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Michigan Daily",
+        "domain": "michigandaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-citizen-data-science-and-automation-at-att.md",
+      "title": "Citizen Data Science And Automation At AT&T",
+      "excerpt": "AT&T has dramatically improved its productivity and effectiveness at data science and automation by engaging citizen development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d82b3dad580c6ca9787f4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/01/30/citizen-data-science-and-automation-at-att/amp/",
+      "publishedDateTime": "2023-01-30T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-project-ellora-how-microsoft-is-helping-preserve-rare-indian-languages-with-ai.md",
       "title": "Project ELLORA: How Microsoft is helping preserve 'rare' Indian languages with AI",
       "excerpt": "To bring ‘rare’ Indian languages online, Microsoft launched project ELLORA or Enabling Low Resource Languages in 2015. Under the project, researchers",
@@ -1290,102 +1386,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-tech-moves-ex-lululemon-chief-joins-seattle-startup-microsoft-ai-ethics-leader-now-at-google.md",
-      "title": "Tech Moves: Ex-Lululemon chief joins Seattle startup; Microsoft AI ethics leader now at Google",
-      "excerpt": "Correll, the former chief technology officer at Lululemon Studio, joined Seattle startup Littlebird as CTO. D’Ambrosio-Correll joined home fitness startup Mirror in 2018 and led engineering. The company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-ex-lululemon-chief-joins-seattle-startup-littlebird-microsoft-ai-ethics-leader-now-at-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/kristiedc.jpeg",
-          "width": 1010,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-microsoft-announces-general-availability-of-azure-openai-service.md",
-      "title": "Microsoft announces general availability of Azure OpenAI Service",
-      "excerpt": "As part of its partnership with ChatGPT developer OpenAI, Microsoft has released its Azure OpenAI Service, allowing for AI innovation",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/",
-      "originalUrl": "https://www.information-age.com/microsoft-announces-general-availability-of-azure-openai-service-123501104/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://informationage-staging.s3.amazonaws.com/uploads/2023/01/microsoft-announces-general-availability-of-azure-openai-service.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
         "images": null,
         "publishers": null,
         "authors": null

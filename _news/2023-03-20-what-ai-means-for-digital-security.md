@@ -34,6 +34,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-03-16T02:20:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "12 Uses For The New AI Program That Fans Claim Will Change The World Forever"
     excerpt: "Amid dozens of controversies about AI technology stealing art and denying the Holocaust, it can be difficult to think of its genuinely cool capabilities—especially when Midjourney is constantly failing to even generate the right number of fingers on a human hand."
     publishedDateTime: 2023-03-15T19:29:00Z

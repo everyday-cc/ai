@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores"
+    excerpt: "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers."
+    publishedDateTime: 2023-03-19T04:25:00Z
+    webUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html"
+    ampWebUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 57
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678"
+        width: 1024
+        height: 678
+        isCached: true
   - title: "Self-driving startup Gatik to double workforce, strikes Kroger deal"
     excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
     publishedDateTime: 2023-03-16T01:03:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230315&t=2&i=1626853125&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2E0BK"
         width: 810
         height: 540
-        isCached: true
-  - title: "Self-Driving Startup Seeks to Double Workforce"
-    excerpt: "Layoffs are impacting automakers and transportation technology companies across the industry but at least one firm in the space is looking to expand its workforce instead of scale back. According to Reuters,"
-    publishedDateTime: 2023-03-16T15:29:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22766595/selfdriving-startup-seeks-to-double-workforce"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1232.6413286419ef9.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Kroger set to use self-driving trucks for deliveries"
     excerpt: "Self-driving trucks will soon start making deliveries at some Kroger stores in the Dallas area, the company announced. Kroger has partnered with Gatik to use its midsize trucks to carry goods between a Kroger fulfillment center and the nation’s largest ..."

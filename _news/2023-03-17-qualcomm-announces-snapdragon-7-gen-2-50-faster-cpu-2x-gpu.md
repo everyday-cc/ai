@@ -66,6 +66,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 18
+  - title: "Qualcomm Unveils Game-Changing Snapdragon 7-Series Mobile Platform to Bring Latest Premium Experiences to More Consumers"
+    excerpt: "Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, AI-enhanced experiences and high-speed 5G and ..."
+    publishedDateTime: 2023-03-17T14:42:00Z
+    webUrl: "https://www.hartware.de/2023/03/17/qualcomm-unveils-game-changing-snapdragon-7-series-mobile-platform-to-bring-latest-premium-experiences-to-more-consumers/"
+    type: article
+    provider:
+      name: Hartware Net
+      domain: hartware.de
+    quality: 0
+    images:
+      - url: "https://www.hartware.de/wp-content/uploads/2023/03/Qualcomm-Snapdragon-7-Gen-2-Intro-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "FFzkZE+ZFtqn8bh+bD2ZBatIjDac7qxLObMyJWCmtSMtIGDhniB6Bjuoq2BtkCX5fGRH6NOsL6OYptzmG3Cd0h8IW4xnDuVsSx5X4uNGtLuFznsw7JHyO+jkxyS4U0Ds3di8T73o8SrEr+PpFXMU6Qpl9XSzYV9F7RpgDQWB9a5CQv0h82O+MmvXGXPGCEkoNWrxu+QUa+h+9h5fKu7WkbWmcg0UMgtJO4J98gIe7JD7VyvenlFdn16iDh7jpZexGXJNWNImLzmECwLb51VLoFTXeLcv0nhpsKI/QsmNsA+xWn/XyVyasztAdB9el2G2CPWL+THeAE5lPzE7XxmbbcW5Oc9fpiJm+113sX0utwE=;2O5nEKUHsk2CbvGRJ6UEVQ=="
 ---

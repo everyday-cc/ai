@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
+    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
+    publishedDateTime: 2023-03-17T11:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 50
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+cd1M4EY/T3J9gHju80YruhFeHLAzt0hGlIJQ/Jcdd8ziZlZgecWFcVHkqM2Nt3CR71vSPgY6dKbO5hUt0+Y5aDChmsrI2nx/A5g7BaVGa88xSCVWA/P8+YcVrLWnCyKeO/0bDMNzem30I6BYrBLqSQb2QnhPzhNi4wSXJOCJuJl7YOSi/oNFlRcpdFyA0/qWcDXm/yvk5d359o4FpzDf+hafY/0uvJjKZMHiq1DvWxeckQiXpNteCjJdoiZWrsvCSvOaKiCirsKm+rgIsCNeoOq3fB3EudG0Vh/A1wWhQg4NMkJ35QCTah+t+DzFNnZdTmPI4aah9XPs9DCrf/QmvZaTEw/zpRw3v3RpOhAia/rISI/3l/ThcNkUN48bTh7LqkIL8uCfZkL+ku3g99BJHeXoVCgTvZc+dN9SLpWhe3Jww37rRzDjRW7Rjq6c3nxhuEBBMLCIffl7anK2sHLJIshdmGeT3beyiazQBPnGokaK6ZnjEAPisHmXV9sK2EFwMjL3E0M6l04545Vw+ckxA==;I1e2tvVMSbzNGgXQ8YTDBw=="
 ---

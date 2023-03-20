@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 17
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T09:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/20/9779378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
+        isCached: true
 
 secured: "mkcEPfzL2kAJntDTov5xfA3llQ0RK0UA9dpZPsBAGr9Ogjl4gFZXKkLbgtkurB1LTUJKMMCu+FMd3PnJrU8JIp3KlUV9NyJx43lWJA2gKoN0+ulLSiz7mO7jQBuGIGbT8z7vLTeVCRcwRfpIPZuCT1mfumkrF9P0ga2Z9ImhVcMrnfn719eTy2vW35HhZMyEKI6qkd9CpID1E9/OuSAyoKB2BTVNkflVkM79bZtBtaq/jkErjnyJHmtDuDT9LC0qgSD3WMWepJuulPy5EK/BsJC/z1ePCNK9gS0i6ksk3TMyxhAC5J52svlsocyT7p79PVZspG5gkrDATt4wRHDBMCzRhrHFAmK3eNJ5SZPLJ6s4XtQ9XB8AN/0excr4LJxOM7R6CChpypGlVQtnI9kxodXOR2vTcEc9d5Gtnv8o4UVx5HiEqeunqD2H71bke2l0l3Dck4KImBsXe10u98WPU8VcLOimdBswQXxR3VsO11J0LRGLq25rQzWPITfFJJpMx5w1ToFHQQ6/CcLtYHWUpQ==;kRDjVKEY5QBYcxFpiYfRnA=="
 ---

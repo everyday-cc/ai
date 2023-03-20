@@ -7,7 +7,7 @@ originalUrl: "https://www.extremetech.com/computing/report-apple-is-testing-natu
 webUrl: "https://www.extremetech.com/computing/report-apple-is-testing-natural-language-generation-ai-to-improve-siri"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -16,70 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Apple is reportedly experimenting with language-generating AI"
-    excerpt: "Multiple teams under Apple are reportedly experimenting with language generating AI models, including the Siri team."
-    publishedDateTime: 2023-03-16T18:36:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "An AI tutor who teaches foreign language reading"
-    excerpt: "The Electronics and Telecommunications Research Institute (ETRI) has developed a reading comprehension education AI technology that allows you to learn foreign language listening, speaking, and reading by talking to an artificial intelligence (AI) tutor."
-    publishedDateTime: 2023-03-17T18:00:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-foreign-language.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/etri-introduces-ai-tut.jpg"
-        width: 2880
-        height: 1915
-        isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-18T02:36:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "qbTpvcHCXlUy7YsyRPcm6K4AOAIbKLgMCPI8vIrNDIg4ZfboXLP2oJpEyJoFfS3WAr0WY8Hsr7bZkOJkDUI8yZm4JXtKo6yaeIvyGtvNuA63Nj8zQB/rcejz/xhi1Bvks/tkPxM4n2A6x92plF37WKU/HIb5sk79y8esNTfZgIE2rH2yBBHXsYtU3jc+ksxLZbTefoQ+MXy2zTyycHU/v8pjjXWz7rlZVu6MHjIrY5PbBRXTTeB+v7ZrA85C2TRJTCrdZOL0mihHSDCCtIqFvSv+coAJk3YtQKjm94zjByYvbAFamBxa3GsNppDLdmf5eA6pP5zTzt/00J5dPAZWvbBCUR9+pySXcv3lTvN9lqHernG2Y9vLPTfHrfmx4ON/ubj9d1+szjb/SVg6YnAFRsAj/EPd7RwsUsq7x4QGoOq/3WO5xq5FT+qNurWjux/LBsUooEruryuvBXL0mVahFPNmnC1MrL40IQvxo8CkmWtnTLr+lKevOQG7MMekkr9vecSu6BjzTZLAkeRslE6mUg==;sNtV4LCm6CBepEFJJr4OKw=="
 ---

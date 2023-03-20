@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-
 webUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-03-16T02:20:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "What AI means for digital security"
     excerpt: "As AI technology like ChatGPT evolves, so do the strategies and tactics used by cybercriminals. Steve Flynn, sales and marketing director at ESET Southern Africa, says ongoing awareness is crucial in understanding how to manage potential cybersecurity challenges posed by these developing tools."
     publishedDateTime: 2023-03-20T07:44:00Z

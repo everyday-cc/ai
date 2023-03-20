@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-20-fujitsu-pushes-ai-ethics-in-small-lab-initiative.md",
+      "title": "Fujitsu pushes AI ethics in small lab initiative",
+      "excerpt": "Japan-based Fujitsu teamed with a local women's university to jointly work on AI ethics to promote gender equality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2023/02/Fujitsu.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/",
+      "publishedDateTime": "2023-03-20T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-3-ways-ambitious-entrepreneurs-are-using-ai.md",
+      "title": "3 Ways Ambitious Entrepreneurs Are Using AI",
+      "excerpt": "If you’re not incorporating artificial intelligence into your work in some way, you’re behind the curve. Even the most suspicious and non-technical entrepreneurs could save time and money making use of the tools available,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe4eb9a0f2b525e607b7f9/0x0.jpg?format=jpg&crop=1892,1065,x0,y39,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
+      "publishedDateTime": "2023-03-20T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-beyond-the-hype-what-you-really-need-to-know-about-ai-in-2023.md",
       "title": "Beyond The Hype: What You Really Need To Know About AI In 2023",
       "excerpt": "AI is not the future; it's here now and embedded in our daily lives. It's important to understand its impact on jobs, businesses, and industries, and to develop ethical and explainable AI to build trust.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/20/beyond-the-hype-what-you-really-need-to-know-about-ai-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -62,7 +156,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 401,
+      "heat": 411,
       "tags": null,
       "images": [
         {
@@ -111,8 +205,8 @@
       "title": "Can Centuries-Old Math Open the Modern Black Box of AI?",
       "excerpt": "A new Rice University study uses Fourier analysis and a novel approach to understand how AI deep neural networks learn to perform functions that involve complex physics—a step towards demystifying AI’s black box problem.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -129,8 +223,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
       "publishedDateTime": "2023-03-19T15:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -435,7 +529,7 @@
       "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -468,6 +562,50 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
+      "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
+      "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "publishedDateTime": "2023-03-18T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -859,51 +997,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-18-chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai.md",
-      "title": "Chatting with an Artificial General Intelligence: Insights into the Future of AI",
-      "excerpt": "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html",
-      "originalUrl": "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai",
-      "publishedDateTime": "2023-03-18T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-ai-love-what-happens-when-your-chatbot-stops-loving-you-back.md",
       "title": "AI love: What happens when your chatbot stops loving you back",
       "excerpt": "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ...",
@@ -999,6 +1092,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-18-rules-to-follow-when-driving-a-tesla-on-autopilot.md",
+      "title": "Rules To Follow When Driving A Tesla On Autopilot",
+      "excerpt": "Activating the self-driving capability is a very simple procedure, and when it's on, the car is mostly capable of driving down highways and well-marked roads without human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/",
+      "originalUrl": "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/rules-to-follow-when-driving-a-tesla-on-autopilot/l-intro-1679000963.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-streamlining-ai-production-with-unified-data-stacks.md",
       "title": "Streamlining AI production with unified data stacks",
       "excerpt": "Fast time to deployment and high performance for AI, ML and data workloads in an enterprise are now possible with end-to-end AI platform.",
@@ -1031,160 +1176,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter.md",
-      "title": "Bing AI Chat Comes to Edge Browser, Lets You Share to Facebook and Twitter",
-      "excerpt": "Though Bing’s recently unveiled AI ChatGPT 4 integration has taken something of a back seat to the even more recent Copilot content-generation feature for Microsoft 365, the Bing story continues to evolve,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter",
-      "originalUrl": "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07rTFoQr45oy7a5ZGwS5S54-4.fit_lim.size_1200x630.v1679087042.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-a-mind-controlled-beer-pouring-robot-has-landed.md",
-      "title": "A mind-controlled beer-pouring robot has landed",
-      "excerpt": "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt.md",
-      "title": "Anthropic introduces Claude, a “more steerable” AI competitor to ChatGPT",
-      "excerpt": "Anthropic introduced Claude, a large language model (LLM) that can generate text, write code, and function as an AI assistant similar to ChatGPT. The model originates from core concerns about future AI safety and Anthropic has trained it using a technique it calls \"Constitutional AI.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/anthropic_claude_close2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/",
-      "publishedDateTime": "2023-03-17T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
-    publishedDateTime: 2023-03-16T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z

@@ -262,6 +262,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-20T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exploring Top Trends of Artificial Intelligence in 2023"
     excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
     publishedDateTime: 2023-03-16T08:00:00Z
@@ -376,20 +390,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market- Industry Fluctuation till 2029"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Automotive, Consumer, Banking, Financial Services"
-    publishedDateTime: 2023-03-15T16:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market--industry-fluctuation-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Systems Market Top Players and Forecast till 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Voice Recognition Systems Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
     publishedDateTime: 2023-03-16T07:57:00Z
@@ -496,20 +496,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Media and Entertainment Market (Size and Share) 2023-2029 with Emerging Trend Analysis | Survey by Absolute Reports"
-    excerpt: "The purpose of the “Artificial Intelligence in Media and Entertainment Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough ..."
-    publishedDateTime: 2023-03-15T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-media-and-entertainment-market-size-and-share-2023-2029-with-emerging-trend-analysis-survey-by-absolute-reports-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

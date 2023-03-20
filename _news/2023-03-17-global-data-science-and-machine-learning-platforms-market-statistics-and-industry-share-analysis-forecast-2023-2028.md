@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market 2023 Structure Along With Size, Trends, Revenue, Market segments, Forecast to 2029"
+    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | Information Technology | In This Reports Data and"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-structure-along-with-size-trends-revenue-market-segments-forecast-to-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Software Market (2023-2029)-Current Status and Future Prospects"
     excerpt: "Deep Learning Software Market Size 2023-2029 | New Report (107 Pages) | Analytics | In This Reports Deep Learning"
     publishedDateTime: 2023-03-16T06:49:00Z
@@ -155,35 +169,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market 2023-2028: Industry Share, Size, Growth Analysis, Leading Companies, and Forecast"
-    excerpt: "Global Deep Learning Market Trends: The market is currently experiencing growth owing to the expanding applications of deep learning solutions in cybersecurity, database management and fraud detection systems. Additionally, they are employed in the ..."
-    publishedDateTime: 2023-03-16T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2023-2028-industry-share-size-growth-analysis-leading-companies-and-forecast-2023-03-16"
+  - title: "Deep Learning Chipset Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Deep Learning Chipset Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-20T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand"
-    excerpt: "Artificial Intelligence (AI) is becoming increasingly important to ... retail e-commerce, and other segments. In therapy areas such as lifestyle and wellness management, diagnostics, virtual assistants, and wearables, AI in healthcare offers numerous ..."
-    publishedDateTime: 2023-03-16T00:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31372886/global-ai-training-dataset-market-report-2023-rapid-development-of-ai-and-learning-machines-drives"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31372886"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31372886"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Global Fintech Market Size Analysis 2023 Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
     excerpt: "The Global Fintech Market, which will pin its worth at approximately USD 305.7 Bn by 2023, expanding at a CAGR of 22.17% during the 2018-2023 period. Request To Download Free Sample of This Strategic Report: -  The use of mobile devices and technology-based solutions is propelling the demand for financial and banking solutions,"

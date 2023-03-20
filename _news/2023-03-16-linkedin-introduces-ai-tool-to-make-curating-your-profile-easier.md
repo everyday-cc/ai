@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LinkedIn expands its generative AI assistant to recruitment ads and writing profiles"
-    excerpt: "Earlier this month, when LinkedIn started seeding “AI-powered conversation starters” in people’s news feeds to boost engagement on its platform, the move saw more than little engagement of its own, none of it too positive."
-    publishedDateTime: 2023-03-15T16:56:00Z
-    webUrl: "https://techcrunch.com/2023/03/15/linkedin-expands-its-generative-ai-assistant-to-recruitment-ads-and-writing-profiles/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 40
 
 secured: "t0jkUDs23Ftbmqo1BcconqP46lLEIBMT4nuda6mHQmjyg+DgFo4CVuL7sqR4PqX/B/3gU53eP3MR1F1di2xHVUHXKRqtqpRnywKXGjd+qM6DrQto3tfOdhEkF4h+tvMElt/m14d5Yax4Ucqn8f25DdTk8My8tdV6mstU+Q/WrZzUujU5QUJms/x67JEZWgLxJ5eMlQYgVjIQWV2qfIXYpuzousRSoS0O65H+/EBcmJotGHOB2l8F5C4ozlslGmiJTypHH9RqEzA84cDiliWU8Gm8ahMDK76Ul47XCTet7nsQbAgi1bvskykaOQPnuOs9oNVa281rU3sfgv5mkpJHu2f0nLNkr5cdbPQIdN7AEZ5sh4Ox4kg28LY2y20BovJFyqoOXVU/1qTYFfk/jYCFTij1UNQ6kM/5nwIEzJbxrNcfnNoKD1D5KJCbuipreIIK+UNylEknyWt9fHGiQ3eJQeWNPjd13JYrEyVThXEnBpuO82TTHa9js5WJx0Oa13BD9WptMfZiI/L2DEFXnYSC3g==;9Y/UQNY9x3Nd4/CatHN6Fg=="
 ---

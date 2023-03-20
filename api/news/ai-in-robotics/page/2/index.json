@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-10-artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education.md",
+      "title": "Artificial intelligence robots invade the classroom: The rise of artificial education?",
+      "excerpt": "The future tapped me quietly on the shoulder the other day and suggested that I take a moment to learn about the writing bots.",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
+      "originalUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2021/02/ai-artificial-intelligence.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools.md",
+      "title": "Discord is going all-in on AI with a new chatbot and moderation tools",
+      "excerpt": "Discord, like everyone else, is turning to AI to entice new and existing users ... You can even have Clyde start a thread for a group of your friends to hang out. Clyde can recommend playlists ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools/",
+      "originalUrl": "https://bgr.com/tech/discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-tomahawk-robotics-adds-kxm-to-the-microsoft-azure-marketplace.md",
       "title": "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace",
       "excerpt": "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making.",
@@ -1268,102 +1346,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-kt-showcases-self-driving-delivery-robot-at-mwc.md",
-      "title": "KT showcases self-driving delivery robot at MWC",
-      "excerpt": "Chey Tae-won, chairman of SK Group, said in Barcelona, Monday (local time) that he will work on nurturing Korea's artificial intelligence (AI) industry ecosystem, saying the",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/02/133_346275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202302/753af40588424714809aeaaaa074b7d4.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346275",
-      "publishedDateTime": "2023-02-28T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real.md",
-      "title": "In The Age Of Artificial Intelligence, We Need Our Human Skills To Keep It Real",
-      "excerpt": "We're still early in the “hype cycle” of inflated expectations and fears, but in a world increasingly driven by artificial intelligence, we’ll need humans at the wheel more than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
-      "originalUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd198a82408876dac8b544/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
-      "publishedDateTime": "2023-02-27T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
