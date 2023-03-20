@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-20-accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances.md",
+      "title": "Accelerate Amazon SageMaker inference with C6i Intel-based Amazon EC2 instances",
+      "excerpt": "This is a guest post co-written with Antony Vance from Intel. Customers are always looking for ways to improve the performance and response times of their machine learning (ML) inference workloads without increasing the cost per transaction and without sacrificing the accuracy of the results. Running",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/sagemaker-intel.jpg",
+          "width": 1007,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T13:06:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
       "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
       "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
@@ -429,6 +481,49 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-augmented-intelligence-for-everyone-everywhere.md",
+      "title": "Augmented intelligence for everyone everywhere",
+      "excerpt": "Data is accelerating and accumulating by the second. Here's how every enterprise can take a data-driven approach to fuel intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/augmented-intelligence-for-everyone-everywhere/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/augmented-intelligence-for-everyone-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1352,86 +1447,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
-      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
-      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-this-alphabet-segment-has-more-potential-than-artificial-intelligence.md",
-      "title": "This Alphabet Segment Has More Potential Than Artificial Intelligence",
-      "excerpt": "As the initial rush surrounding chatbots powered by artificial intelligence (AI) wears off, investors are finally starting to come to their senses that Microsoft's Bing chatbot isn't the end of Google search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/this-alphabet-segment-has-more-potential-than-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

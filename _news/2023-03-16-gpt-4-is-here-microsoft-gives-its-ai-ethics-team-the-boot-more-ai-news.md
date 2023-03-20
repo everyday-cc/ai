@@ -156,22 +156,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "The statement said, \"The Ethics and Society team played a key role at the beginning of our responsible AI journey, incubating the culture of responsible innovation that Microsoft’s leadership is ..."
-    publishedDateTime: 2023-03-17T02:58:00Z
-    webUrl: "https://www.kshb.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.kshb.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-kshb-com.cdn.ampproject.org/c/s/www.kshb.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    type: article
-    provider:
-      name: KSHB Kansas City
-      domain: kshb.com
-    quality: 91
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How to watch the Microsoft 365 AI event"
     excerpt: "Microsoft is holding a special “future of work with AI” event today, where the company says it’ll be “reinventing productivity with AI.” Microsoft is expected to demonstrate how its ChatGPT-like AI will work in Microsoft 365 and Office apps like Teams,"
     publishedDateTime: 2023-03-16T16:00:00Z
@@ -428,14 +412,14 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
-  - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
-    excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."
-    publishedDateTime: 2023-03-16T03:24:00Z
-    webUrl: "https://www.thestreet.com/technology/microsoft-reportedly-gets-rid-of-ai-ethics-team"
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-16T22:23:00Z
+    webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: scrippsnews
+      domain: scrippsnews.com
     quality: 51
   - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
     excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."

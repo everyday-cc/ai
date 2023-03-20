@@ -5,7 +5,12 @@ excerpt: "Tavus enables companies to create \"unique\" videos tailored to a spec
 publishedDateTime: 2023-03-20T16:53:00Z
 originalUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/"
 webUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/"
+ampWebUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
 type: article
+quality: 84
+heat: 84
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "TS1Q/DbVRSdsmSbW56zFXtvTiOA6ZFOXWNbINshbMcyGErWRhBnhQtrwjUj9DSDnnDgODonVQU6JvHpQ5Cg80qgmNbL85SjSJPkSWyH80quv/Dn962QwmN4JfsAXLVudgpzCudpmS+iA67dpB8Qj4Hxlp7OIJVeLhSZ+XDySHi1o8RhnHQn8dxn51s8bKfJ+bsJOdt3dQVJgnLJ8hndvHgN2kZL+4n4AHAeUTMotv6aABFDX3CyaZTf24/oBSsQ/NCljbdLWadQc+3lE2okS6a/q5/DhaqsBtO/mYkr3DYCQhn9BoNwgCs51iIa0ffV6pcMYIedAB+Djx/jYpHFZUXJIV4TQW5TOofPRyG87jiL1zl/y9bzb4r/LOFgUIr2CjeVY5WQeXZi/mutwOV/CCIXE2N4EayEEUHyDvZg/ISkOTf/JzbWyq/n09WtXGNO39tb9YNUcgCkgsTpwEU6+Q1j29WFcUv1NPl6+5I1ULwhXRgsvY7QI8C19t8YHFcFNrw1bFJllrPe05tvVJETlbw==;QKDFMu9es6InCsA9VnWUHg=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2023/03/Raza-Favret-Landscape-Portrait-Final-e1679048302476.jpeg?resize=1200,675"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "ASoA6EyDMhAo1rZlvLdzoNK0ozgBOvbDYaJCU/pDn7YGkn9Ule9rq1P6t6xtIheaO1Mnz/q8qm6b6wN3gJhdBz8xm0C35EdZZ7WIPlx2UludPVYbaag6HXwVsMRYZnOaSAkRIsKWk1oYY7k8jr96fayMaRzrLqc/DQCJvfPymFPkI5OM5u/FuBEO0BUTN0g+oirC4P9132MrSmYtRA6rcmu6Wwj5wxjbKw5DclcwS5jeH8PfIwW4vJ8Qw1HcwmW2yROTqXveFDEd3gJ0tP3A7jznRVkTNWVGvLNrWsfj7qcA5GwANTA/DxVBrzgCD+6u7I+O5qHC6SIVjFNdr+qsMbBBLPKR/WFDY4pqXvtrsBg=;WDedo188ocAmJRzvMFoIbA=="
 ---
 

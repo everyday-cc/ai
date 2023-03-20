@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsib
 ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 

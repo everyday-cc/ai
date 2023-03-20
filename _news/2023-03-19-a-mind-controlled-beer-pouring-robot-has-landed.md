@@ -55,6 +55,15 @@ related:
         width: 871
         height: 554
         isCached: true
+  - title: "Mind-control robots a reality"
+    excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
+    publishedDateTime: 2023-03-20T18:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230320102104.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "A mind-controlled beer-pouring robot has landed"
     excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
     publishedDateTime: 2023-03-17T11:55:00Z
@@ -69,6 +78,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "This mind-controlled robot will pour you the perfect pint"
+    excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually, I’m referring to Homer- the pint pouring machine that can pour the perfect pint ..."
+    publishedDateTime: 2023-03-20T20:30:00Z
+    webUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
     excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
     publishedDateTime: 2023-03-20T13:03:00Z
@@ -79,6 +102,6 @@ related:
       domain: scotsman.com
     quality: 0
 
-secured: "Zr+IVA1yuI1WLobBhkqPQOyZJYy/ZT/Ql+0M/n9kSwDl1CQXzujnX/tjp3pwJRXDbsCWW+Zm3LMUmGHGiZczzWGRvWDdpMRb2phL7Wne50h48V/Md2waYe83tQ5a0/ZsM4RZJHJhgLbwKV8fJ4I6j4whoZQ+mEvb+1JN8JVK5HKZPrOZLnGm0cnelqK1Odo28cQVHXxzt0/2PFIAED1zxT95iCSld6kkPATVylNZyTaE4Sha0ST3abdXN5QyV+FOI8lH2pJJvw62/g72vdWCqYV98RbrYQRNFh/lyU5vnBRl9kf4MRKfk/cel767VNpHNCmciZLn82DgsQLA85YDezp6nbT4Vc5Fq8INm6QfaXc=;PfVof8Usyto5rrc0KWBoBA=="
+secured: "T3rqHtjAsNf0dTUQLzadlWh/bqsff5yHT8VDVlihXGOHRCsqIX7ZDS4Bkq3iWHQu9XeAEKXkXdgvO+uTWcsBT6Ng02yZBkJxyxdNRY9OvhLyK90l7pO1tp0mGTqt+/TcW+ICLfN6IU0a2PZjcyIgzuc+XtI6zV2d4H/PvlqTmGyAv1dhU2FEqj6559fQZC+9xeCCL6ZJkJHgIqwZrgl0QMHcVe3oKsa+d9fI0CkK3bLBa+QUFaXBjwcPIQBALncChaIkYXSuz+O1NRSkiIydgBdNx0arv/0HpNdMZHacokBdZfswvesH8L2MLHy5F51VybeX/WuBJG0CJE/NRPfK2JgIo/hfbURDFvM3VwIikx4b4jg3pGrbDZtLTovSiHp6wET1YQsAJErO3F44FHZ9c6oUJNiaUXYwI55LpuCfC3MjNgRznzNUuLfmD8x9k2/FflN4RlFJXm4rjEj8g3cD+QAhQVkEtsGdIexmjgUpA1ERURsQJFA/lDnBZezZK6AaeWxslBuiY4XLu1LNBeGtcg==;hEON4qpErfq5PAwVWz6Mfw=="
 ---
 

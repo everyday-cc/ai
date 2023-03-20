@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Face blindness identified as new Covid symptom that turns loved ones into 'strangers'"
+    excerpt: "Scholars have identified a bizarre new Covid symptom which could cause people to not recognise their own family members. Researchers of a new paper say some people who tested positive developed face blindness, which leaves them unable to pick out their ..."
+    publishedDateTime: 2023-03-20T21:47:00Z
+    webUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071"
+    ampWebUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29509075.ece/ALTERNATES/s1200/1_Sad-lonely-girl-isolated-stay-at-home-in-protective-sterile-medical-mask-on-face-looking-at-window.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Long COVID has some weird symptoms. Face blindness may be one them."
     excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme, some with the condition can't even recognize themselves ..."
     publishedDateTime: 2023-03-20T17:30:00Z

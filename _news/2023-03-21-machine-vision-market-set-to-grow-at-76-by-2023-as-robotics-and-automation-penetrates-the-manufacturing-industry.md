@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T19:34:00Z
 originalUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
 webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Mena FN

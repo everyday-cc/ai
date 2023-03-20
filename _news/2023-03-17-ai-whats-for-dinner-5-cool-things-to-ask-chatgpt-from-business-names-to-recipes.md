@@ -23,6 +23,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Is ChatGPT Plagiarism Free? Plus Essay Writing Services Alternatives"
+    excerpt: "At the same time, students have been asking online “is ChatGPT plagiarism free.” Teachers and school boards around the nation are debating whether to exercise care or embrace the possibilities of AI writing tools."
+    publishedDateTime: 2023-03-20T12:45:00Z
+    webUrl: "https://www.sacbee.com/software-business/article273324120.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 4
+
 secured: "zhDHgxpQcB+l3Bil9MUPfaC+dlwRTYrE6j1TlXlkJX8q+iU2PBHFtdkfbE4xmiX54kIvmPQAqKRcfhT20/oI2Y9QEuGgOdFeIh7KAMxKoEx0FoOWXPIHJr5X+lKUH0a97jigyA6uwKdSL/RAmsW4dGg5QAc8lPu4DEw9ykK0yN/j25tjpKRuwbWWA/zxaA1w53lXY/PUbz453M/EraJ2bSVcRtLJWLMb2n3nnJolkDTcgbKcev87tBU6R9t5QjIqCJyyjpaTTcNluNhJgDHdoFKkpks0npcQH8O89ogIME0ZNqU+Fp4ghw8l+7twKu/e26cy6EIVts4Ag4foJXHGShc/pRn/j97o9zyNLE9BROQ=;BlaIqOHpBaFem19NSGL22g=="
 ---
 

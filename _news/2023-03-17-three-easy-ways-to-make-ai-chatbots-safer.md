@@ -161,15 +161,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Baidu Plunges After Recorded Demo of AI Chatbot Disappoints"
-    excerpt: "Baidu Inc. debuted its ChatGPT-equivalent but skipped a live demo of its highly anticipated AI bot Thursday, disappointing viewers who had hoped for a stronger demonstration China’s highest-profile entry in a battle with the US to dominate a potentially transformative technology."
-    publishedDateTime: 2023-03-16T03:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-16/baidu-showcases-china-s-answer-to-chatgpt-in-high-stakes-debut"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "China’s ChatGPT rival Baidu Ernie is off to a rough start"
     excerpt: "Fangbo Tao, CEO and founder of AI startup Mindverse and a former AI scientist at Alibaba and Facebook, echoed the sentiment. “Under the pressure of models like ChatGPT, domestic large language model companies in China have indeed launched similar ..."
     publishedDateTime: 2023-03-16T19:46:00Z

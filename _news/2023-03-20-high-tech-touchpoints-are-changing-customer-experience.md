@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T12:26:00Z
 originalUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
 webUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Harvard Business Review

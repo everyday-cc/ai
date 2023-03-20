@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recogn
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
 type: article
 quality: 76
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T18:24:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 16
 
 secured: "BMy8+S5f+/a29OgXuq3VLEJMaB7n0GuIJj87xUV1nyCGz/byQtzYrlTeR/qWWC4RksV/IiVbAD2PsPdt+AtMY68BNmOndyyMOHeAvUvvcJv9vG/ABihq+znDxo6iZw8E5uzplawlg5FCvC6p9SGQWM9qfVydMwaGr2mTpfYKpx5M1HLtVZVHQ5dlQTejKqmLnoUnyixgQgPhszKFUPrg9ibjUqW1jLiGudBuAui7m2riI6L1dh+YoCbiZgmn2j9KYB9jNFglX9VLEjKqLSt5rMR0rBEZ2vPqpFzaq20+zB715o/BdtFDRzJOjgdd+VmmiLjpvgw49YgkEJDJj7Dqf1ERetgVGEQSnlj7SNjtD2ZJJZYiocikV7MhmzuypTt/uD7JG08Awq+LFJ9y/g2mQ+LjZrcNKcTa292gBuGRHVvlKB2MBVI/80V94GYoXhVVvaINpFTWpMDN5Lac3djUUDiI+c4Sn3lTEIb7LEYeYkE6NoLzvqhq15nqXIuhMxx+tU104NEIL3JLGxTmgdbGTQ==;MsxCQxU8kp1XUMSoFEPL4A=="
 ---

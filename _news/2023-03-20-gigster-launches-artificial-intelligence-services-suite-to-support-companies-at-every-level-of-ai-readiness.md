@@ -1,40 +1,30 @@
 ---
 category: news
 title: "Gigster Launches Artificial Intelligence Services Suite to Support Companies at Every Level of AI Readiness"
-excerpt: "Innovation and digital transformation firm, Gigster, today announced three new service offerings to help companies speed up their workflows and better leverage data through artificial intelligence. The new services offer specialized teams and proven development processes tailored to the clients' current business needs and level of AI maturity."
-publishedDateTime: 2023-03-20T15:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gigster-launches-artificial-intelligence-services-suite-support-companies-/2023/03/20/9779757.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gigster-launches-artificial-intelligence-services-suite-support-companies-/2023/03/20/9779757.htm"
+excerpt: "Gigster, the leading AI software development platform, announces three new services to help companies see rapid benefits from AI and machine learning no matter what their current level of AI maturity AUSTIN,"
+publishedDateTime: 2023-03-20T13:31:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31420585/gigster-launches-artificial-intelligence-services-suite-to-support-companies-at-every-level-of-ai-"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/n31420585/gigster-launches-artificial-intelligence-services-suite-to-support-companies-at-every-level-of-ai-"
+ampWebUrl: "https://www.benzinga.com/amp/content/31420585"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31420585"
 type: article
-quality: 14
-heat: -1
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-related:
-  - title: "Chancellor announces £1m Manchester Prize for AI"
-    excerpt: "British chip businesses have sought more government help ... \"We'll work at pace with the Intellectual Property Office to provide clarity on IP rules so that generative AI companies can access the material they need.\" And some rights holders fear this ..."
-    publishedDateTime: 2023-03-18T09:29:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-64967493?trk=public_post_comment-text"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-64967493.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-64967493.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3939/production/_128994641_manchesterbaby.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
-secured: "V7wjLWAONqfIYvzz7yW+WVd9mwrd7qMsFrBS4v0sIyqxGh8dlJ6GcznjBLAFrHmM0SuvLmRIY8N9+0wp+kdghADI16SqeGAOM88oRD8GRyuW3hV2LivWOpKBT+tPOejTtbUGS/tV4+26DWyDyqlpFagM4ZMiZ3N0GVhTmly2pva+yjnPqlMs+kGtEWyN8kvNJUdAS6SFv/pZQzqpWByswa+zKh2sFzlnPhg3oYZV4b4G4xoJ3HI4eO2U5hodg2/9pH/DGmF8NEzJ/PjQjbwFGHit2IQQWMz8ItEgY0QhWvsRXM0s03hHfFcsHSINhGLq1lKM+PGHqXNvmgMO9894Uc3oWAHS3qAHPNNuKa6177A=;FMsnvMdxbwpjyC37dU1iSA=="
+secured: "yBLm2kHtWfQDTc02Axkk/+U/jfPuNtSwgaX3zOV7Gnwhbxz+wTG8dhmazSfK6GCCX/6D+nUe4NqoNNXcAH6rmC9eZ3fnlwDs0dnbkxRwl0Wit886PsqpsDkqojPJQ4DEVYqHdvGX7cOLbyqou7r6+isrNQ2g5TiMyXr2NaAE7R3qXUH9Lv63MbrHiCCejsesUmw7jqLZ1sybYACkdmNrPGHOTmz06rOJLtHd6MSTbUff6qQ7XEjWREh0GrsqwgXntYmtqbJqnnWsP8fWNDhkYAbMBWFBzOc1rv3PYbhA2mnJvXNx9/2/nQIF7Qb83Pps2n2Vtrv9EzSt6rKxUsSZeKT9Ypm8eLORkxlarLhTROU=;+uQsLwRLyN/Q/wcZd00W7w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-sn
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 18
+  - title: "Snapdragon 7+ Gen 2 Benchmarks: Qualcomm's New Midrange Mobile Chip Tested"
+    excerpt: "It also has a new Qualcomm AI Engine that offers twice the performance of the Snapdragon 7 Gen 1. Rounding out the package is the Snapdragon X62 modem for theoretical download speeds of up to 4.4Gbps. Qualcomm Snapdragon 7+ Gen 2 Benchmarks While the chip ..."
+    publishedDateTime: 2023-03-20T17:31:00Z
+    webUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-7-gen-2-benchmarks-testing-qualcomms-latest-premium-mid-range-chip"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
   - title: "Qualcomm Unveils Game-Changing Snapdragon 7-Series Mobile Platform to Bring Latest Premium Experiences to More Consumers"
     excerpt: "Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, AI-enhanced experiences and high-speed 5G and ..."
     publishedDateTime: 2023-03-17T14:42:00Z

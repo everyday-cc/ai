@@ -133,6 +133,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T18:24:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 16
 
 secured: "VXYqeSknR44n1lTTd+6WgVGKkDBhG6lBQ/MBC1v7g+eId9mQMLCU91t1Q91V0Q40Vr52vo9DYgAv8g9e08Vi9Eo4bRpCb0c6z6CWkyLATr07oLcPzd2w1dAIeN/RnZvWSVvkmsE6GTiJbKJoS1H7pB/d0JwbXoaofg+szLjGTXKkvj4jsGv3qFlQQV/baitU0S3ni8AgWc9/h5/gZc5v5okptYQk6DDDd7tietm2IhJEJEH+buJtP7Gi6Be8fr6Ek7SJBMJ7a/yGers1QTCzAgPrVVGBnchYrgGyHcS2M/VaScVNN86fFlkiBsYBC18oCJeAnAvYY64RNA41gUA9bUxLHZbuW176yycZwgUhqCI=;6xaimsnKI2pAySXe+zi31A=="
 ---

@@ -196,6 +196,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Medical Imaging Market Size Report till 2029"
+    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence In Medical Imaging Market\" Insights 2023 By Applications (Neurology, Cardiovascular, Breast"
+    publishedDateTime: 2023-03-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-report-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market Size Report till 2029"
+    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence-Emotion Recognition Market\" Insights 2023 By Applications (Apple, Eyeris, Beyond Verbal,"
+    publishedDateTime: 2023-03-20T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-report-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Future Growth of the Cloud Natural Language Processing Market Size 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Cloud Natural Language Processing Market 2023 with 126 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
     publishedDateTime: 2023-03-16T06:46:00Z

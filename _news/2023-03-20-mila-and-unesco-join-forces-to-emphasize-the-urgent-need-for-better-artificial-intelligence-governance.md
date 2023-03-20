@@ -1,20 +1,47 @@
 ---
 category: news
 title: "Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
-excerpt: "CNW/ - Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila a joint book on the urgent need"
-publishedDateTime: 2023-03-20T13:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31420551/mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-govern"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31420551/mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-govern"
+excerpt: "MONTREAL, March 20, 2023 /CNW/ - Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila a joint book on the urgent need for a better governance of artificial ..."
+publishedDateTime: 2023-03-20T15:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
 type: article
+quality: 1
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "nOExluZq7dSauWcC8juKp9KMoVdc8dqKI084wdQ9rOzbY9UY0XER3qAfNTUJFrQZRr7osNykjX/QGFw4XbnKnaWTBamKJ9SXtus9TbXol/qFYPwkMlKTFkUXndkwOw5LQAJnz19nFaBq4NeD0a43mZoSDloPu9Xil1zdC5T74Qcvfpg+o/nHdVMkEfYSkR0Kvc8Q5CcDFO0h7Nv/eex7WMpBSwubC+tbASB7f3smeH6sHu8Jnx71jLP1PATqC2z+ZpAd+6jOxg/WcNI8QmnPbzK0V1ktBUddyLR++A0iSVKb3mTgeoj2fycCsqUAjeOPEmb4BTd6tyQ8K6ZsrKOcai21kaN8DzNsIF0HjpzmLqM=;h/kNkPCa/15hPQFnUzjICQ=="
+related:
+  - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
+    excerpt: "The book, Missing Links in AI Governance, includes 18 articles on AI governance ... contributions to the field of deep learning, particularly in language modeling, machine translation, object recognition, and generative models. For more information ..."
+    publishedDateTime: 2023-03-20T15:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-to-emphasize-urgent-need-for-better-ai-governance/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mila - Quebec AI Institute: Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
+    excerpt: "Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila"
+    publishedDateTime: 2023-03-20T12:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58601032-mila-quebec-ai-institute-mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-governance-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+
+secured: "uvIU7e5DMLwazjJNsqFjSmkoVqXVseWO2xy1NzzIOXjeVSUF0vF7ZcpK4PAAM9bFRFzp58ue+hdmiaulx+Bgyhv2dS7OWU1rYKtGmzC0Tk54f6ORZ6u2Ya6ZK3QCh2cMgg7ujcg5PolsjjYISdOxv4H4JKICBGy1ikEjXLJDGyS3Agxh2KPDfYVlR+3dUee3+QKp+76PVCfLmIkeLy3rvZlrIVsUISVzdbkWuqaoKwPpxOa2lFZU1qib9Xw/A//7UFGeOAvoa4/5vJLdxR55kpEKXImbh+bDsj6qqfAnZI8IaaCORssudSKz5oean7nT3f+rU+sYXpi63aEPmH40KtNek/urNajHmu0+CcEABBU=;fnMwqOgNbqF/HoxHlev29A=="
 ---
 

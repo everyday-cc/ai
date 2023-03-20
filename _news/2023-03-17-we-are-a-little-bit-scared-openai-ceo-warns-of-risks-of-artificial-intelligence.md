@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
 type: article
 quality: 68
-heat: 129
+heat: 128
 published: true
 
 provider:

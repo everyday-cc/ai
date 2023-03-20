@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T18:54:00Z
 originalUrl: "https://www.biometricupdate.com/202303/what-manuals-dont-say-about-life-with-a-facial-recognition-video-doorbell"
 webUrl: "https://www.biometricupdate.com/202303/what-manuals-dont-say-about-life-with-a-facial-recognition-video-doorbell"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Biometric Companies

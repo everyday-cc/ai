@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-17T07:46:00Z
 originalUrl: "https://www.business-standard.com/article/technology/is-ai-out-to-take-your-job-or-simplify-it-tech-cos-insist-it-is-the-latter-123031700514_1.html"
 webUrl: "https://www.business-standard.com/article/technology/is-ai-out-to-take-your-job-or-simplify-it-tech-cos-insist-it-is-the-latter-123031700514_1.html"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:

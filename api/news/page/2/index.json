@@ -2,6 +2,248 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-19-at-sxsw-it-was-goodbye-nfts-and-hello-ai-music.md",
+      "title": "At SXSW, It Was Goodbye NFTs And Hello AI Music",
+      "excerpt": "Where have all the NFT bros gone? That was the common refrain at this year’s South-by-Southwest, the super-sized music-tech-culture conference wrapping up in Austin, Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/",
+      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6415f4d68056a378f176a1f0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/",
+      "publishedDateTime": "2023-03-18T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
+      "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
+      "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
+      "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "publishedDateTime": "2023-03-18T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Record",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
+      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
+      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-18T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-ai-can-be-racist-sexist-and-creepy-what-should-we-do-about-it.md",
+      "title": "AI can be racist, sexist and creepy. What should we do about it?",
+      "excerpt": "I talked to Reid Blackman, who has advised companies and governments on digital ethics and wrote the book “Ethical Machines.” Our conversation focuses on the flaws in AI but also recognizes how it will change people’s lives in remarkable ways.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301111817-03-chatgpt-openai-stock-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
+      "publishedDateTime": "2023-03-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
+      "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
+      "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
+      "publishedDateTime": "2023-03-18T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-ai-love-what-happens-when-your-chatbot-stops-loving-you-back.md",
       "title": "AI love: What happens when your chatbot stops loving you back",
       "excerpt": "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ...",
@@ -106,57 +348,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-18-streamlining-ai-production-with-unified-data-stacks.md",
-      "title": "Streamlining AI production with unified data stacks",
-      "excerpt": "Fast time to deployment and high performance for AI, ML and data workloads in an enterprise are now possible with end-to-end AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/streamlining-ai-production-with-unified-data-stacks/",
-      "originalUrl": "https://venturebeat.com/ai/streamlining-ai-production-with-unified-data-stacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_567559581-copy-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/streamlining-ai-production-with-unified-data-stacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/streamlining-ai-production-with-unified-data-stacks/amp/",
-      "publishedDateTime": "2023-03-17T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter.md",
       "title": "Bing AI Chat Comes to Edge Browser, Lets You Share to Facebook and Twitter",
       "excerpt": "Though Bing’s recently unveiled AI ChatGPT 4 integration has taken something of a back seat to the even more recent Copilot content-generation feature for Microsoft 365, the Bing story continues to evolve,",
@@ -165,7 +356,7 @@
       "originalUrl": "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -216,7 +407,7 @@
       "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -517,7 +708,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 354,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -828,7 +1019,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -975,7 +1166,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1059,217 +1250,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
-      "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
-      "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/",
-      "originalUrl": "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1464427023-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-natural-language-processing-in-healthcare-market-size-and-share-2023-2029-with-manufacturing-process-analysis-survey-by-absolute-reports.md",
-      "title": "Natural Language Processing in Healthcare Market (Size and Share) 2023-2029 with Manufacturing Process Analysis | Survey by Absolute Reports",
-      "excerpt": "Mar 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-size-and-share-2023-2029-with-manufacturing-process-analysis-survey-by-absolute-reports-2023-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-size-and-share-2023-2029-with-manufacturing-process-analysis-survey-by-absolute-reports-2023-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
-      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
-      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "publishedDateTime": "2023-03-17T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics.md",
-      "title": "Tiny Machine Learning (TinyML) Market Size, Growing Demand and Trends 2023 to 2030 | Google, Microsoft, ARM, STMicroelectronics",
-      "excerpt": "The Tiny Machine Learning (TinyML) market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

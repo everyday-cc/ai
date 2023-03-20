@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets
 webUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter"
 type: article
 quality: 65
-heat: 85
+heat: 86
 published: true
 
 provider:

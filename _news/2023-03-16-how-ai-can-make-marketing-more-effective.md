@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Chips Market Assessment Report by 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) Chips Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche ..."
-    publishedDateTime: 2023-03-16T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-assessment-report-by-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Chips Market Size Report Analysis, 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [114 Insights] Top “Artificial Intelligence (AI) Chips Market” Size 2023 Key players Profiled in the Report are [, NVIDIA, Advanced ..."
     publishedDateTime: 2023-03-16T23:01:00Z
@@ -98,34 +84,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market 2023: Sales Analysis, Industry Trends, and Growth Outlook"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- “2023 Artificial Intelligence (AI) in Real Estate Market Latest Trends and Consumer Preferences: A Comprehensive Research..."
-    publishedDateTime: 2023-03-16T02:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-2023-sales-analysis-industry-trends-and-growth-outlook-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Verticals Market Growth and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) Verticals Market\" study describes how the technology industry is evolving and how major and emerging ..."
-    publishedDateTime: 2023-03-16T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-verticals-market-growth-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -266,6 +224,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
+    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
+    publishedDateTime: 2023-03-20T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-statistics-2023-2028-emerging-trends-and-future-growth-scenario-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "6VcqZowZtScoB7ObofLBzpIL/Fx7bHpkRRA49B0ntRSjWBZC2WW8zFZ/lhXr/BobNJLs4TtwDFI1VLUa26VWGAqr6/CAgQIESlkwNh6Byh/9QMMyz420BEOX5G5rcmLcIVuSVDatx3E+fQrMNDyhUGDhzfs22pxWqB6BH49FLfqPSmDNKNjoHGEgAxv83cu8ByYw5RY26q2OHuxRxjuGG0VAaa96dMOjRBaXIHqSOYh9gEN4QLj9WhTLFsmaocpWpXXfZzhpV0iHRVL/JS83kcs00r/KOnByZ819zAe9iVdwQBhm/gOWDa0sb17SESlYQkMZ4MjqrOj7nD5GWscN7gzJdcEZ+yAKbkXfShe6Hr3RfGVlJGjZ5PBwR6oTvqD6zamHTI89bw6k8koMh7uCBjwSudxXxTUJ/SUlo27RAmT7BC4Fi3GFGTPkJokvyk/nPzeJ8GdT3IplO+qwn7pbvkDCF5jDBdy6rN56fMqIq/pKPjvSiFv6rm5lL/61kOfsqQKYDwNLq1vz6vTIdl5kfQ==;RZqsqeqbNbkgCJH74gthdQ=="
 ---

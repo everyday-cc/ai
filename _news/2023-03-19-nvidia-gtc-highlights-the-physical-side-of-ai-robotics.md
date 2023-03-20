@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-hi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/"
 type: article
 quality: 119
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.mktw.net/im-608401/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia’s Growing Momentum In The Public Cloud"
+    excerpt: "One of the challenges of working with state-of-the-art machine learning is that the hardware is relatively ... many of which date back multiple generations. At the high end, Azure, Amazon Web Services, Google Cloud, and Oracle Cloud offer instance types ..."
+    publishedDateTime: 2023-03-20T19:35:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6418b486392b38019fbdef19/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "NVIDIA Canvas: creating panoramas with AI"
     excerpt: "The newest update to NVIDIA Canvas brings another feature where AI shows its magic: create panoramas using the new Panorama mode. ProVideo Coalition mentioned in January that NVIDIA Canvas would introduce 360-degree images that can be used as environment maps in 3D apps."

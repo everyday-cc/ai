@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T19:08:00Z
 originalUrl: "https://www.pcworld.com/article/1665235/ai-already-turns-text-prompts-into-stunning-art-next-up-video.html"
 webUrl: "https://www.pcworld.com/article/1665235/ai-already-turns-text-prompts-into-stunning-art-next-up-video.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC World

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "10 Suggested Guidelines for Human-Robot Relationships"
-excerpt: "As the development of AI, virtual reality, and robotics continues at an unprecedented ... trend in light of recent technological developments, then it is time for us to start thinking seriously about these issues. THE BASICS Why Relationships Matter ..."
-publishedDateTime: 2023-03-20T15:52:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships"
-webUrl: "https://www.psychologytoday.com/za/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships?amp"
+excerpt: "Just as we respect the living beings around us, we may also set principles and guidelines for how to treat AI assistants, avatars, and robots. While we may object to the changes that are about to come,"
+publishedDateTime: 2023-03-20T16:07:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships"
+webUrl: "https://www.psychologytoday.com/us/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/society-50/202303/10-suggested-guidelines-for-human-robot-relationships?amp"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OPq+dW+UFXqTL9d3TnhkGd6JX11mqClbuXOscY+oEt1N8ZJnCCQYyms6+qPq80vbfTqvGzybZw8SycHZA44oG9CY62rCxDcmaW9gdYJHmVyZ7V+D/839p9/RDvubjuXryqF0P+p5k3vGaLDqvh9AMP3jy7V470IAGTAiPTNSSHEmrLD0X81ErtbkdGMnYB1vjRI3DsAwcmCNYV5sxNjXkIS7jvxluZ2zMVUJPz8oAdtCQQr3T+pPxmtbWHQ6QgOiQ7kQkoKQKIY7bKoq8Ej+epL7QUVjAQd/rEYqmKneJK0PQt+j4IPITwu53aiiTK9SXq0pP8Z8Tl8EQ1AfQJgDPS9CB6wMsYCpk360+xkUKug=;koSmAQDS5cBdsMskZdMukQ=="
+secured: "IqHtg2qhZpEFwE4qre616Q5SBCRaMLizzbvz58hp+31Jr/ou8LvUfETKT6UMwzVtPf35i22SyisSYTYbePuYq78F3sGftoCytQVBZ1B8Y8xCtZrr0MiYosuuAN+NlWTR1g7p12b2JMNXZFLbRG4/w4vPNA83dfle5SAqrQzGe4TZmPOoDeSX5cNcfqY9o8o3WXwI2sEvkpOAZqfrSkc5aHTC7AD6gnt1CfwkziQpAuCyWZI6Uw2j+bcIXguhWXXRhrj5YiRPRsgN/4w8+OMD/Zht4ZbY0ENWtQtOAnEJiidy4kDd4LxErYzeOs5p0Yi589n9gySQz1cgqrS5CzYXBiSRA1S6M5cH2k3YXgsY034=;UzYdZ5oxkjOo4Yo2sAAxfg=="
 ---
 

@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-video-students-in-plainfield-learn-to-use-artificial-intelligence.md",
+      "title": "VIDEO: Students in Plainfield learn to use artificial intelligence",
+      "excerpt": "Students in Plainfield learn to use artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/",
+      "originalUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://do0bihdskp9dy.cloudfront.net/03-20-2023/t_ea9cdd50b7924151b03b13dc2a074a93_name_file_1280x720_2000_v3_1_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/?outputType=amp",
+      "publishedDateTime": "2023-03-20T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFSB",
+        "domain": "wfsb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances.md",
+      "title": "Accelerate Amazon SageMaker inference with C6i Intel-based Amazon EC2 instances",
+      "excerpt": "This is a guest post co-written with Antony Vance from Intel. Customers are always looking for ways to improve the performance and response times of their machine learning (ML) inference workloads without increasing the cost per transaction and without sacrificing the accuracy of the results. Running",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/sagemaker-intel.jpg",
+          "width": 1007,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T13:06:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning.md",
+      "title": "Tavus taps generative AI to power personalized videos with voice and face cloning",
+      "excerpt": "Tavus enables companies to create \"unique\" videos tailored to a specific individual, based entirely on a single initial recording.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Raza-Favret-Landscape-Portrait-Final-e1679048302476.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/",
+      "publishedDateTime": "2023-03-20T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-numbers-station-raises-175m-to-bring-ai-to-your-data-stack.md",
+      "title": "Numbers Station raises $17.5M to bring AI to your data stack",
+      "excerpt": "Numbers Station aims to bring the power of GPT-style foundation models to enterprise use cases, starting with data transformation and record matching.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1371533646.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "publishedDateTime": "2023-03-20T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-roblox-launches-generative-ai-materials-coding-tools.md",
       "title": "Roblox launches generative AI materials & coding tools",
       "excerpt": "Roblox has announced an open opt-in beta for two new generative AI tools that help users generate materials and assist coding.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +247,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -113,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 326,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -208,7 +407,7 @@
       "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -346,6 +545,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-20-artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028.md",
+      "title": "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028",
+      "excerpt": "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend-kasparov.md",
       "title": "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov",
       "excerpt": "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,",
@@ -354,7 +604,7 @@
       "originalUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 481,
+      "heat": 471,
       "tags": null,
       "images": [
         {
@@ -581,7 +831,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -950,248 +1200,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-at-sxsw-it-was-goodbye-nfts-and-hello-ai-music.md",
-      "title": "At SXSW, It Was Goodbye NFTs And Hello AI Music",
-      "excerpt": "Where have all the NFT bros gone? That was the common refrain at this year’s South-by-Southwest, the super-sized music-tech-culture conference wrapping up in Austin, Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/",
-      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6415f4d68056a378f176a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2023/03/18/at-sxsw-it-was-goodbye-nfts-and-hello-ai-music/amp/",
-      "publishedDateTime": "2023-03-18T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
-      "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
-      "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "publishedDateTime": "2023-03-18T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Record",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
-      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
-      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-ai-can-be-racist-sexist-and-creepy-what-should-we-do-about-it.md",
-      "title": "AI can be racist, sexist and creepy. What should we do about it?",
-      "excerpt": "I talked to Reid Blackman, who has advised companies and governments on digital ethics and wrote the book “Ethical Machines.” Our conversation focuses on the flaws in AI but also recognizes how it will change people’s lives in remarkable ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301111817-03-chatgpt-openai-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "publishedDateTime": "2023-03-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
-      "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
-      "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "publishedDateTime": "2023-03-18T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

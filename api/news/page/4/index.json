@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-16-small-businesses-have-fewer-resources-than-big-companies-heres-how-ai-can-fill-the-gaps.md",
+      "title": "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps.",
+      "excerpt": "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
+      "title": "Cast AI raises $20M to help companies reduce cloud spend",
+      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
+      "publishedDateTime": "2023-03-16T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
+      "title": "After year of downsizing, DataRobot unveils new AI platform",
+      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "publishedDateTime": "2023-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
       "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
       "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
@@ -501,6 +657,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis.md",
+      "title": "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis",
+      "excerpt": "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models.md",
       "title": "MLOps platform Seldon raises £20M Series B to improve the productions of AI models",
       "excerpt": "The rise of ChatGPT has fuelled growth in the public awareness of AI, as well as the growing discourse around AI ethics. How should AI be used? What are its implications for society, not just business? The inherent bias within AI applications — remember ...",
@@ -803,6 +1011,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
+      "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
+      "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31371662",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31371662",
+      "publishedDateTime": "2023-03-15T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-from-2023-to-2028-report-on-the-ai-in-computer-vision-market.md",
       "title": "From 2023 to 2028 Report on the AI in Computer Vision market",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ...",
@@ -1009,258 +1260,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
-      "title": "AI-Image Tool Midjourney Launches Magazine",
-      "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/",
-      "publishedDateTime": "2023-03-15T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029",
-      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions.md",
-      "title": "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions",
-      "excerpt": "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:32:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says.md",
-      "title": "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says",
-      "excerpt": "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
-      "publishedDateTime": "2023-03-15T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
-      "title": "What the AI Boom Means for Carbon Emissions",
-      "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

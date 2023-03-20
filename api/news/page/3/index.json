@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
+      "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
+      "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/",
+      "originalUrl": "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1464427023-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
+      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
+      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
+      "publishedDateTime": "2023-03-17T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics.md",
+      "title": "Tiny Machine Learning (TinyML) Market Size, Growing Demand and Trends 2023 to 2030 | Google, Microsoft, ARM, STMicroelectronics",
+      "excerpt": "The Tiny Machine Learning (TinyML) market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.md",
       "title": "Baidu says it can now operate robotaxis in Beijing with no human staff inside",
       "excerpt": "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ...",
@@ -62,7 +220,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -114,7 +272,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -166,7 +324,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -321,7 +479,7 @@
       "originalUrl": "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -717,7 +875,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -977,7 +1135,7 @@
       "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-healthcare-michigan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1112,162 +1270,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-small-businesses-have-fewer-resources-than-big-companies-heres-how-ai-can-fill-the-gaps.md",
-      "title": "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps.",
-      "excerpt": "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
-      "title": "Cast AI raises $20M to help companies reduce cloud spend",
-      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "publishedDateTime": "2023-03-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

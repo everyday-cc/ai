@@ -268,20 +268,6 @@ related:
         width: 2560
         height: 1703
         isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
-    publishedDateTime: 2023-03-16T02:20:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Harnessing the power of AI today"
     excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."
     publishedDateTime: 2023-03-20T16:00:00Z

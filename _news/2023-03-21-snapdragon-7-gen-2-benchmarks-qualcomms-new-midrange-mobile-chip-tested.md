@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T17:31:00Z
 originalUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-7-gen-2-benchmarks-testing-qualcomms-latest-premium-mid-range-chip"
 webUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-7-gen-2-benchmarks-testing-qualcomms-latest-premium-mid-range-chip"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: HotHardware
@@ -14,6 +17,77 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Qualcomm launches Snapdragon 7+ Gen 2 chip with AI-enhanced experience"
+    excerpt: "The chipset offers an AI-enhanced experience with high-speed 5G and Wi-Fi connectivity. The Snapdragon 7+ Gen 2 provides an exceptional CPU and GPU performance which fuels swift, dynamic low-light photography, nonstop gaming and 4K HDR videography ..."
+    publishedDateTime: 2023-03-17T13:19:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 74
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/qualcomm-snapdragon-pixabay-1679058726.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Qualcomm announces Snapdragon 7+ Gen 2: 50% faster CPU, 2x GPU"
+    excerpt: "Taking care of the graphics is an unnamed Adreno GPU, which as per Qualcomm ... Snapdragon 7+ Gen 2’s Qualcomm AI engine promises to offer twice the AI performance of its predecessor, with 40 percent performance per Watt gains. There is also AI Super ..."
+    publishedDateTime: 2023-03-17T10:56:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/articleshow/98732729.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/amp_articleshow/98732729.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/amp_articleshow/98732729.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98732671,width-1070,height-580,imgsize-201234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
+  - title: "Qualcomm Unveils New Snapdragon 7+ Gen 2 Chipset With AI-Enhanced Experience"
+    excerpt: "a chipset that offers AI-enhanced experiences, high-speed 5G, and Wi-Fi connectivity. Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, according to the ..."
+    publishedDateTime: 2023-03-17T12:32:00Z
+    webUrl: "https://menafn.com/1105803077/Qualcomm-Unveils-New-Snapdragon-7-Gen-2-Chipset-With-AI-Enhanced-Experience"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?149420"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Qualcomm unveils more powerful Snapdragon chip for mid-range smartphones"
+    excerpt: "The chip’s new Adreno GPU packs twice the performance of the previous graphics unit, which is good news for mobile gamers. The Snapdragon 7+ Gen 2 boasts 13% improved power efficiency for longer-lasting battery life. In terms of AI capability ..."
+    publishedDateTime: 2023-03-17T11:44:00Z
+    webUrl: "https://mybroadband.co.za/news/smartphones/484301-qualcomm-unveils-more-powerful-snapdragon-chip-for-mid-range-smartphones.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 18
+  - title: "Qualcomm Unveils Game-Changing Snapdragon 7-Series Mobile Platform to Bring Latest Premium Experiences to More Consumers"
+    excerpt: "Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, AI-enhanced experiences and high-speed 5G and ..."
+    publishedDateTime: 2023-03-17T14:42:00Z
+    webUrl: "https://www.hartware.de/2023/03/17/qualcomm-unveils-game-changing-snapdragon-7-series-mobile-platform-to-bring-latest-premium-experiences-to-more-consumers/"
+    type: article
+    provider:
+      name: Hartware Net
+      domain: hartware.de
+    quality: 0
+    images:
+      - url: "https://www.hartware.de/wp-content/uploads/2023/03/Qualcomm-Snapdragon-7-Gen-2-Intro-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "7jvV/VYosXKbMnZqEUzg8jgOVkU2TJ771CtMt6UmWZ7D08RU5/M0UiGaIYSCFewsxsjKhgERTOgE5glYT1xVzjyQe0wP9gFKqpjRejCpFeJs4VKZ6ryXo2Hn3xP0uAQ8i+LiwlpeayAXJjOCaOlpRNkQUhICV2MINjDKd6yyT8/K+x8/qsgLvUeD4z7DsMdDzMvUL4MlXDq3frss+c4yYRfoBQ95J08HfaMya7FgUbhFyiOG93r5mPXkp9KrhDOleZj6PnV6lihe+J77ChbmTbiKnD+0YTPWOdOcav/MpZD5srRjtuCyI4zsXIfptCRRIEvkKGnhDm6FN5D7hWbMX9e9fZTBA+yayK9hKSgzwRbg+TNk9sXp6IwZ13lmr6un3nnaYXZlmcvDEzQZ4q9XCZiTHHZAgRzu3kN2TDXuGRhj0C3hHX3e1PmgS1daqE0h/TFBmvybtIF6zbPEeB1hsx8f5UYY9YHLAZEMjpVctHjsCouSgWA3+b0GV3mEkRGTWt4E/gN9u3b820n0ZBd1LQ==;c7Gg4z7qxerpTgEx68E15g=="
 ---

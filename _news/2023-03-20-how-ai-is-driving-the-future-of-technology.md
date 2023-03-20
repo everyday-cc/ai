@@ -257,20 +257,6 @@ related:
         width: 2560
         height: 1703
         isCached: true
-  - title: "The Artificial Intelligence Glossary"
-    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
-    publishedDateTime: 2023-03-16T02:20:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-03-18T02:36:00Z

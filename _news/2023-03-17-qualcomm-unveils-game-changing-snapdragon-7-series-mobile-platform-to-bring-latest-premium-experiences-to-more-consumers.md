@@ -80,6 +80,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 18
+  - title: "Snapdragon 7+ Gen 2 Benchmarks: Qualcomm's New Midrange Mobile Chip Tested"
+    excerpt: "It also has a new Qualcomm AI Engine that offers twice the performance of the Snapdragon 7 Gen 1. Rounding out the package is the Snapdragon X62 modem for theoretical download speeds of up to 4.4Gbps. Qualcomm Snapdragon 7+ Gen 2 Benchmarks While the chip ..."
+    publishedDateTime: 2023-03-20T17:31:00Z
+    webUrl: "https://hothardware.com/reviews/qualcomm-snapdragon-7-gen-2-benchmarks-testing-qualcomms-latest-premium-mid-range-chip"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
 
 secured: "fNNOLSJs+LL+sQIgr24j4rkhCRBC/AY+SqEb7zihOmy2VugtJmZ1xu+FBg6WwkknIWWl88xK4kNTvq3EctueGgzHYAD8n45a1rubVqjzzIeV62IA8jrAgSwL9ibX0q5PJ1kebCPCeo4S+zsAn9uM/15jVLZBtsqQ3J1moXu8knLjqTMTihlDDJYAgInQVmQK1XfGcn8BSaHAg9oO2ePhxAjnjulfjHnRy+teDtXx0quVc67YsMkiKkLEEg3vI1GXFQ2BiMsOAhTRmTSmNKVGH33JPIMAVG79riODpWm8lzx7wj7HFZHyxyP5DRvnYiYMOHpMxRGwmDM8izkh3XHVCWfHKWtZOlwmwh96cMwNnKg=;cWCedwgPYQV4JqSJAAYVTA=="
 ---

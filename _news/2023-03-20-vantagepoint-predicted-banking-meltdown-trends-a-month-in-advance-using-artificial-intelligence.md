@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T14:34:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31422017/vantagepoint-predicted-banking-meltdown-trends-a-month-in-advance-using-artificial-intelligence"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31422017/vantagepoint-predicted-banking-meltdown-trends-a-month-in-advance-using-artificial-intelligence"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T17:05:00Z
 originalUrl: "https://techcrunch.com/2023/03/20/pitchbooks-new-tool-uses-ai-to-predict-which-startups-will-successfully-exit/"
 webUrl: "https://techcrunch.com/2023/03/20/pitchbooks-new-tool-uses-ai-to-predict-which-startups-will-successfully-exit/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: TechCrunch

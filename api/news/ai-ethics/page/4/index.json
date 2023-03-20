@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
+      "title": "2022 - the year in AI and Robotics",
+      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
+          "width": 1536,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029.md",
       "title": "Data and AI Ethics Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029",
       "excerpt": "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Data and AI Ethics Market”",

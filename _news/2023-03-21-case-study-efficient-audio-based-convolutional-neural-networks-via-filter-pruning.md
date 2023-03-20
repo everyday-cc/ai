@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T17:55:00Z
 originalUrl: "https://techxplore.com/news/2023-03-case-efficient-audio-based-convolutional-neural.html"
 webUrl: "https://techxplore.com/news/2023-03-case-efficient-audio-based-convolutional-neural.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: techxplore

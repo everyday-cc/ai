@@ -47,13 +47,13 @@ related:
         height: 600
         isCached: true
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
-    publishedDateTime: 2023-03-20T13:45:00Z
-    webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+    publishedDateTime: 2023-03-20T12:45:00Z
+    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 15
 
 secured: "S2gveVKyJAUDkuA8TsC7HIx3Ssg7VA0+9nCRcP20Fu81jKtcxgsAqJ70kNoYZPUTjxBdp24GfTic9oG6W7C8IqqkJbHJSf850wwHWQs7MGn0AGeU7RfdUhMGh2VkdRKBNh+zo4/3H7L2/Vyl4K6eDzsmzc10gwjsn06g0pOE1aSaZ89d0QP50iTj9cEvsx50IZkq5jU8eH3r1JiYJ67tAlq0QlujJFlQ6CE9v/MCAHL13YpR8Wr8K08pQrmZotBoo1OWsdLWfs7onx+0HwIcw+QtVtUaLv+Y7Xg0WKtAQhrbSiDiUX6j/1ZgWr5EymBp5yQjbETF7706rsy1UINwVG7T1bJN9i4GjgcwXTA06Fs=;yBxFifpGnF7AEXIEl+YBuw=="

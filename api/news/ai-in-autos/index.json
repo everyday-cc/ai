@@ -237,7 +237,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -573,7 +573,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {

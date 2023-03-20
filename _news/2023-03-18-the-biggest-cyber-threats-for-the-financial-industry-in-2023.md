@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T18:34:00Z
 originalUrl: "https://www.cyberdefensemagazine.com/the-biggest-cyber-threats-for-the-financial-industry-in-2023/"
 webUrl: "https://www.cyberdefensemagazine.com/the-biggest-cyber-threats-for-the-financial-industry-in-2023/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Cyber Defense Magazine

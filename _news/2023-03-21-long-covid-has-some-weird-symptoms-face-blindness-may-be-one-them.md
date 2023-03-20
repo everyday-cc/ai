@@ -41,6 +41,22 @@ related:
         width: 735
         height: 400
         isCached: true
+  - title: "Face blindness identified as new Covid symptom that turns loved ones into 'strangers'"
+    excerpt: "Scholars have identified a bizarre new Covid symptom which could cause people to not recognise their own family members. Researchers of a new paper say some people who tested positive developed face blindness, which leaves them unable to pick out their ..."
+    publishedDateTime: 2023-03-20T21:47:00Z
+    webUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071"
+    ampWebUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29509075.ece/ALTERNATES/s1200/1_Sad-lonely-girl-isolated-stay-at-home-in-protective-sterile-medical-mask-on-face-looking-at-window.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bqcEfvIvaWSbhCbv58KN1Be2Y8C4Mx8Wi/wSF6ArLShAVyZcItWChLwFBfyg5oS/er6rnoZIerAfOYD8+NCLYzd6eeK9OdDV3Yz7l28L7UM1i5SwX8ZFEqXJtFiZ2OVXefsxcYYV4vBdne+kmEsEdqvW5MXW8CB8/imMQRsiisC+A81Mxn+sAO7Fy2RHZcsFnOkMebTu4Kuqzj47YUQ1hYG+rtQQXS9MOh4pWMWMMW/qV/MEYalDIFb05Mdzof/KtahOeTzBTYxZKOu2Vc6Dy6ZXg6CYMDguw+UWLfRnWNEUwBdZj/DI5D1eNBpln8lPsaehL7qDY1xAC98WHKO9UBYfSiAd4d8xSbnngyJpwEA=;+KgELxslFBfhOZFK9GHF2A=="
 ---
