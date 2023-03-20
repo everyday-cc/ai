@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_a
 webUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
-    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
-    publishedDateTime: 2023-03-18T12:27:00Z
-    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+  - title: "Intelligent robots of the future will move and learn with us thanks to IntelliMan"
+    excerpt: "The new European project coordinated by the University of Bologna will develop advanced robotic systems controlled by artificial intelligence that will be able to learn the skills needed to interact with people,"
+    publishedDateTime: 2023-03-20T13:30:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/983240"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 58
-    images:
-      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "fI+cNgWsv0YmDvb1WjK1C7nAunVgpHM4LqUJC4yR2BOe9d3F/5upfWHe66lSN3c9c/suvXHVvQyopa+zMD49wEQAv1tWjLsX7W7Wt6VkKakTrR+e4zmTsKEI8ESQe1rhM5LLAA0oYD9MIrLkJY/Pyg2+MVE/d55/IkX8jH0F/zrt2xukSdU4JZhP53YFETWZPto2+D1kyvHSqtrS9u9v/cZlbQWJ6g6/PtYh8avDKuS46xDdOO/TcWV9XtUQifsH5YlOdYpLako7ebv0GyDFojfehMe9i25TJgUAeYU5CpvfhNUQSxhHSDPyjMDw/E+GUXairb1qmztOaVwD/9GBOzpGYa1gVXIQgy8B4YRcSu4=;kX9v37V9HJfrBlZxiuiJFA=="
 ---

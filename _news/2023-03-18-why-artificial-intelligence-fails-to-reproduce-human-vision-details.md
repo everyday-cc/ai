@@ -58,6 +58,15 @@ related:
         width: 949
         height: 749
         isCached: true
+  - title: "Why AI Fails To Reproduce Human Vision"
+    excerpt: "These findings suggest that deep neural networks and humans may in part rely on different object features for visual recognition and provide guidelines for model improvement,' said Mur. The study shows deep neural networks cannot fully account for neural ..."
+    publishedDateTime: 2023-03-18T12:02:00Z
+    webUrl: "https://menafn.com/1105807570/Why-AI-Fails-To-Reproduce-Human-Vision"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "WH2cnM0l8svwT1wcyk5zEgK2rT4bmsBktEJsv3sdG9bdTFRR0MMXlpFF9JM8gBCvZS+0W6LTknm7hHUc/nEiyqfJGaJYvTjK4oQfRHGooi4h/JV6kT80tlTw4w5ogHkxo6rQ3pVXWW3C4sDOPQ29Wy6ZPSub1Yqg+EyBOQQ5LKKE43gsTMs5zlWYBtOEu0XN61FFdORePMcZObx89OcUNEIEDN+bPFZ2q6OX2YNDJV9Ls8LpKKUeDahomLnkUcpa1iKR0SMooEPkiI1ZrNJwH4gQz6h4AfTQRiguI1lZkNulIFkiZaPMA65tmEC11XQ/1QZPVOLmmG2+K7LzJx22Cbx4C7TeqL70Fv7J//82DWQ62OI8jzea/UAggAezovB7QujSAuG6fhEi1pTRCqWVxfB/7870+Y3EtrV0I8cCcIbBnfTt27vX+MgxngUpoNgO70YIELbv/J2wI1Ceo5vXJ+O8TiG1CaEKJW94MrUcHe+wtgfuJSZfA0XUaGmlvjIEeQ8jzn5zs/7orbfUYnV2Yg==;avgDcf7NcmGFfcHtDzaUpg=="
 ---

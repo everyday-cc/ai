@@ -298,6 +298,15 @@ related:
       name: YAHOO!Finance
       domain: engadget.com
     quality: 64
+  - title: "Nuance and Microsoft Announce the First Fully AI-Automated Clinical Documentation Application for Healthcare"
+    excerpt: "Groundbreaking Nuance DAX Express is the next milestone in an expanding portfolio of solutions combining OpenAI's GPT-4 with proven"
+    publishedDateTime: 2023-03-20T12:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nuance-and-microsoft-announce-the-first-fully-ai-automated-clinical-documentation-application-for-healthcare-1032178616"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "ChatGPT broke the EU plan to regulate AI"
     excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
     publishedDateTime: 2023-03-16T17:27:00Z
@@ -313,6 +322,20 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nuance, Microsoft bet big on GPT for healthcare"
+    excerpt: "Microsoft's engineering and market resources and the scale of the Azure cloud, paired with Nuance's long-standing experience in healthcare and its commitment to patient data privacy and responsible use of AI,"
+    publishedDateTime: 2023-03-20T14:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/nuance-microsoft-bet-big-on-gpt-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
     excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
@@ -393,6 +416,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 51
+  - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
+    excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-chatgpt-and-generative-ai-can-transform-your-business/445066"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 46
   - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
     excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
     publishedDateTime: 2023-03-18T15:50:00Z
@@ -444,6 +476,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "ChatGPT AI now more powerful"
+    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
+    publishedDateTime: 2023-03-20T15:01:00Z
+    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 21
 
 secured: "qY9OeErVRVCUq/u2oohL8YigpgFzViX4FyqdzzXmuCLXpHQDs76v/ytGBQOtDVa3KVffWbpinRZM49vgm/zjnqUM3q5IOE8An5c1GU/9K/W/BB798zaPCiIzwJOwmFHQU5bSDqvOlAo870Nn0NjUNHp8JYsKO+2hM1n4Xp08DeW3+4r+ddsFJIJIUZHHNZVwzZu4/TJfSK9Zt2l1PNkR9sAGWnzxyi24ogpQJtSmeLxINVsYd8r41A6oMFliPh8gnK4SLqGnk2xoAG/bqOMY3WdWIJ4u0HELZ2mBLhmVIMdtJGNIdxIGZW7Zt+7uBNQRlQ0g76uh2fEF2ZGMnpS5Y0RxMVXayOfW+dD9z4m93upPt9iW3oKLg0kdcPYQN0r2UWiBCqIx/H54UkpIgy+f2zCmea6wQYzeCmctBH4Fr+u90gdQ1K2aD7rJKTn2FJOJX8yWK7rJ5Dso48QK4ZAMcZzAGZAdKxjRVMDcRJdVortL1ChGNU2YXPcsF2ZnNJ7y9JhO9/oEV0s+5pg3St5OZA==;ZW27joPFxLp/MQsQL4MGSA=="
 ---

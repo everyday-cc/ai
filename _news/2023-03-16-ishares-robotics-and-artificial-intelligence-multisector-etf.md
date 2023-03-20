@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-16T00:00:00Z
 originalUrl: "https://www.cnbc.com/quotes/IRBO"
 webUrl: "https://www.cnbc.com/quotes/IRBO"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: CNBC

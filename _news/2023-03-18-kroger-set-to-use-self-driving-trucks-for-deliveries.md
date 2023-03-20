@@ -69,6 +69,15 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Self-driving trucks to deliver grocery orders to Kroger stores"
+    excerpt: "Kroger is about to add another layer of automation to its customers’ online grocery orders filled by robots at its fulfillment center in southern Dallas."
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/self-driving-trucks-to-deliver-grocery-orders-to-kroger-stores/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
 
 secured: "q4ISusarBb06XTXxwdNL3osQgfHpEjHV22EYraLvqo+QyJkR8gydZ3MvIZISov7A7l7sn7paBd6eAaMegaI4r/zn8j31cDoy+Uv1qVKHCjIY+85wbG1GMNtChc3xvvH9Jbu21CbzUtWrK2uD2g/5cEdIJIn5gnHt4DF6QwlYCCqXpnrK4gpl8eT0hZV25uW2V41RCgJ8yIPbgbDOWvUjJMI8nC4UQDgpixxAmLY1KcpxCuY0dHqJWoel6EaxEWyU6WVLWxdsAS0E4ufGKTQB6jwBlqaStaJlxhPUSUU22MSlXMZ2IE5TXkEdZbZAd3ZC/bPDCe6atko9MUnteM/KI4U1WMRcQLUkbAvqc9ckD3607/W5WcWT7tYbTVuT6/Ua3ebrHLo7eNURmSIX7CxzZ0DLp290QXNA5wwoHZ27zBRXvjEXt/Rj1mFM7TGQgqe+Y2TF0Ed1LatvYpNyak+N9BZ+VBl8xeK15K5GWz41AjymNDnoKa1i/f8eP6wnZU3a7UiDNgmf100pWWXz0UNS9Q==;VMhlxs3hsCyj3rUKIfZKjQ=="
 ---

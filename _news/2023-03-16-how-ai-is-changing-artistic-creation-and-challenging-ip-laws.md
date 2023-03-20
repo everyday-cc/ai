@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-chan
 webUrl: "https://markets.businessinsider.com/news/currencies/how-ai-is-changing-artistic-creation-and-challenging-ip-laws-1032173438"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Business Insider
@@ -28,90 +28,51 @@ images:
     isCached: true
 
 related:
-  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
-    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
-    publishedDateTime: 2023-03-17T10:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+  - title: "‘ChatGPT said I did not exist’: how artists and writers are fighting back against AI"
+    excerpt: "From lawsuits to IT hacks, the creative industries are deploying a range of tactics to protect their jobs and original work from automation"
+    publishedDateTime: 2023-03-18T15:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
+      - url: "https://i.guim.co.uk/img/media/cb85dac521de2414031629b9b0add492b13eae31/0_103_7999_4800/master/7999.jpg?width=620&quality=85&auto=format&fit=max&s=d3e92750646c0606b057563b6355f7d3"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘ChatGPT said I did not exist’: how artists and writers are fighting back against AI"
+    excerpt: "From lawsuits to IT hacks, the creative industries are deploying a range of tactics to protect their jobs and original work from automation"
+    publishedDateTime: 2023-03-18T18:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/18/chatgpt-said-i-did-not-exist-how-artists-and-writers-are-fighting-back-against-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb85dac521de2414031629b9b0add492b13eae31/0_103_7999_4800/master/7999.jpg?width=620&quality=85&auto=format&fit=max&s=d3e92750646c0606b057563b6355f7d3"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI is changing how people interact with technology, and Apple is lagging behind with Siri"
+    excerpt: "It’s impossible to talk about AI and not think about Siri. Apple’s virtual assistant was officially introduced in 2011 after the company acquired Siri’s technology from a startup in 2010. The technology was capable of understanding a range of commands to help users with web searches."
+    publishedDateTime: 2023-03-19T18:19:00Z
+    webUrl: "https://9to5mac.com/2023/03/17/ai-technology-apple-lagging-behind-siri/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 28
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Apple-Siri-AI-Dumb.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Apple is reportedly experimenting with language-generating AI"
-    excerpt: "Multiple teams under Apple are reportedly experimenting with language generating AI models, including the Siri team."
-    publishedDateTime: 2023-03-16T18:36:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
-    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
-    publishedDateTime: 2023-03-20T09:03:00Z
-    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
-    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
-    publishedDateTime: 2023-03-16T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Bing’s New AI Assistant Went Rogue"
-    excerpt: "All fingers point to Microsoft having cut corners to rush the launch of the new Bing. In fact, Microsoft fired its whole AI ethics and society team during its recent round of layoffs. While the consequences of the company’s lax behavior were minimal this ..."
-    publishedDateTime: 2023-03-17T02:49:00Z
-    webUrl: "https://spectator.org/bings-new-ai-assistant-went-rogue/"
-    type: article
-    provider:
-      name: The American Spectator
-      domain: spectator.org
-    quality: 39
-    images:
-      - url: "https://149366087.v2.pressablecdn.com/wp-content/uploads/2023/03/shutterstock_2248249679-scaled-e1678993869728.jpg"
-        width: 2048
-        height: 947
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-18T02:36:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+        height: 628
         isCached: true
 
 secured: "TY1ru7O4xMqQQaTMPqKR3SO3xc/jvLmkJMYZaEMo6o6GtOHDOobaBXuRYrAw1zvkBipLGezDC0Jcg/HxFI6u93Y24hzrYJa5iAElas8h42/STdf+sJlEJR3T7MsbYMkeZy49gB2H7FTp4wS+C6j1ry0BgjU/buEwKyszHKw9pV+ayDKfpI8dtPDRpgbFoXrA8oBoI7xdwGE/QypPyZmrBv50ZSefeNNPLfAg5QFI+rLSmcVpU48ceoFuCaEscgk5Zrq9/NRM5JcU14+OcPhgakZEowl2tiidaYSwbBqHH6nP1VNEW/TqypdpN/BiNjC4jEaxNvPxhtvJKgu8yGDT8he4FFtVre26JmSiFdmuR3Q=;OyXQA/1BLppz0FSWjpFYfA=="

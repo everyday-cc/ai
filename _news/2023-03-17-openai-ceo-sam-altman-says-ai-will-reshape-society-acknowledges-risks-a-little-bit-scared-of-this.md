@@ -58,6 +58,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "With GPT-4, dangers of ‘Stochastic Parrots’ remain, say researchers. No wonder OpenAI CEO is a ‘bit scared’ | The AI Beat"
+    excerpt: "It was an epic week in AI, with the launch of GPT-4 and news from Microsoft and Google. By Friday, I was ready for a dose of thoughtful reality amid the hype."
+    publishedDateTime: 2023-03-20T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-28.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "The technology behind OpenAI's ChatGPT: Generative AI"
     excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
     publishedDateTime: 2023-03-19T09:03:00Z

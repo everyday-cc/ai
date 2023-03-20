@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
+    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
+    publishedDateTime: 2023-03-20T09:03:00Z
+    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
+    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
+    excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."
+    publishedDateTime: 2023-03-18T06:09:00Z
+    webUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions"
+    ampWebUrl: "https://www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2384165-gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 52
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_14_40_27_9076784.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand"
     excerpt: "Artificial Intelligence (AI) is becoming increasingly important to ... retail e-commerce, and other segments. In therapy areas such as lifestyle and wellness management, diagnostics, virtual assistants, and wearables, AI in healthcare offers numerous ..."
     publishedDateTime: 2023-03-16T00:15:00Z

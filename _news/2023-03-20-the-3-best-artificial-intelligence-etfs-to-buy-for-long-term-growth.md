@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "7 AI Stocks to Buy for Long-Term Growth"
+    excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
+    publishedDateTime: 2023-03-20T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-long-term-growth-1032179271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
     excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
     publishedDateTime: 2023-03-16T13:18:00Z

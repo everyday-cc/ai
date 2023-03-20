@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T13:00:00Z
 originalUrl: "https://venturebeat.com/metaverse/tech-investor-weili-dai-unveils-story-machines-generative-ai-game-creation-platform/"
 webUrl: "https://venturebeat.com/metaverse/tech-investor-weili-dai-unveils-story-machines-generative-ai-game-creation-platform/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: VentureBeat

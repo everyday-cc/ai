@@ -25,254 +25,309 @@ images:
     isCached: true
 
 related:
-  - title: "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply."
-    excerpt: "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ..."
-    publishedDateTime: 2023-03-17T15:24:00Z
-    webUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/"
-    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
+  - title: "The Future Of AI In Banking"
+    excerpt: "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
+    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
+    publishedDateTime: 2023-03-17T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
         width: 1200
-        height: 674
+        height: 799
         isCached: true
-  - title: "Will ChatGPT& AI replace the need for formal education?"
-    excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
-    publishedDateTime: 2023-03-17T15:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
+  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
+    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
+    publishedDateTime: 2023-03-16T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-music/"
+    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-5.png"
-        width: 401
-        height: 325
+      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
-    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
-    publishedDateTime: 2023-03-16T21:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
+  - title: "AI And The Future Of Wealth Management"
+    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
+    publishedDateTime: 2023-03-17T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
+        width: 1050
+        height: 590
         isCached: true
-  - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
-    excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."
-    publishedDateTime: 2023-03-18T14:18:00Z
-    webUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/02/how-to-use-chatgpt-1200x691.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
         width: 1200
-        height: 691
+        height: 750
         isCached: true
-  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
-    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
-    publishedDateTime: 2023-03-19T03:44:00Z
-    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
+  - title: "How AI is driving the future of technology"
+    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
+    publishedDateTime: 2023-03-19T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
+    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI"
+    excerpt: "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ..."
+    publishedDateTime: 2023-03-17T09:18:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 71
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
+  - title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
+    excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"
+    publishedDateTime: 2023-03-17T10:56:00Z
+    webUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 67
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
+    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
+    publishedDateTime: 2023-03-16T08:00:00Z
+    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
+    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
+    type: article
+    provider:
+      name: Speaking Tree
+      domain: speakingtree.in
+    quality: 61
+    images:
+      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
+        width: 959
+        height: 420
+        isCached: true
+  - title: "The stupidity of AI"
+    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
+    publishedDateTime: 2023-03-16T13:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 61
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Harnessing the power of AI"
+    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
+    publishedDateTime: 2023-03-17T03:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
     quality: 59
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
-        width: 1600
-        height: 900
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
+        width: 750
+        height: 393
         isCached: true
-  - title: "GPT-4 Is Here: What Can ChatGPT Maker's New AI Model Do?"
-    excerpt: "The new system can figure out tax deductions and answer questions like a Shakespearean pirate but is “still not fully reliable,\" OpenAI said."
-    publishedDateTime: 2023-03-15T22:02:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+  - title: "Is AI the future of Hollywood? How the hype squares with reality"
+    excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
+    publishedDateTime: 2023-03-18T14:48:00Z
+    webUrl: "https://www.aol.com/news/ai-future-hollywood-hype-squares-140040559.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 57
+      name: AOL
+      domain: aol.com
+    quality: 59
     images:
-      - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/888522f7d3731caf2f66cb69183483db"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
+    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
+    publishedDateTime: 2023-03-18T12:27:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 58
+    images:
+      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
-    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
+  - title: "The future of cloud computing, from hybrid to edge to AI-powered"
+    excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
+    publishedDateTime: 2023-03-20T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI could make the future role of education increasingly to be in support of human development"
+    excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
+    publishedDateTime: 2023-03-20T08:32:00Z
+    webUrl: "https://jerseyeveningpost.com/voices/2023/03/20/ai-could-make-the-future-role-of-education-increasingly-to-be-in-support-of-human-development/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 45
     images:
-      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
-  - title: "Apple may update Siri as it struggles with ChatGPT"
-    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
-    publishedDateTime: 2023-03-17T16:30:00Z
-    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-03-16T02:20:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
-    images:
-      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
-        width: 580
-        height: 363
-        isCached: true
-  - title: "Can ChatGPT Get Bored?"
-    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
-    publishedDateTime: 2023-03-16T20:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
-    excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
-    publishedDateTime: 2023-03-17T01:03:00Z
-    webUrl: "https://www.wbir.com/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
-    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
-    publishedDateTime: 2023-03-17T02:55:00Z
-    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-18T02:36:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 29
-  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
-    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
-    publishedDateTime: 2023-03-16T12:17:00Z
-    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
-        width: 678
-        height: 452
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
-    excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
-    publishedDateTime: 2023-03-18T11:02:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/18/gpt4-review/"
+  - title: "The Turing Test for AI Is Far Beyond Obsolete"
+    excerpt: "For more than 70 years, the Turing Test has been a popular benchmark for analyzing the intelligence of computers. For nearly a decade, programmers have created AI reportedly beating the Turing Test while experts argue that test is an imperfect benchmark of \"true\" intelligence."
+    publishedDateTime: 2023-03-17T00:09:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a43328241/turing-test-for-artificial-intelligence-is-obsolete/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
+      name: YAHOO!News
+      domain: popularmechanics.com
+    quality: 37
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DP7KNYOTBRCFNPTLXMFQVRKG4M.png&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "ChatGPT has some thoughts about Aspen"
-    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
-    publishedDateTime: 2023-03-18T01:27:00Z
-    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
-    type: article
-    provider:
-      name: The Aspen Times
-      domain: aspentimes.com
-    quality: 24
-    images:
-      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
-        width: 612
-        height: 408
-        isCached: true
-  - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
-    excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"
-    publishedDateTime: 2023-03-19T19:30:00Z
-    webUrl: "https://www.salon.com/2023/03/19/chatgpt-isnt-sentient-could-we-build-a-chatbot-that-is/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/artificial-intelligence-chatbot-sentient-1370249712.jpg"
+      - url: "https://hips.hearstapps.com/hmg-prod/images/man-with-robotic-features-royalty-free-image-1678926476.jpg?crop=1.00xw:0.536xh;0,0.257xh&resize=1200:*"
         width: 1200
-        height: 810
+        height: 602
         isCached: true
-  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
-    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
-    publishedDateTime: 2023-03-16T12:36:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
+  - title: "The Future of Data Science Lies in Automation"
+    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
+    publishedDateTime: 2023-03-20T09:58:00Z
+    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 23
-  - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
-    excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
-    publishedDateTime: 2023-03-15T20:56:00Z
-    webUrl: "https://medcitynews.com/2023/03/what-role-could-chatgpt-have-in-clinical-trials-a-bigger-one-than-you-might-think/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 18
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
     images:
-      - url: "https://medcitynews.com/uploads/2022/09/GettyImages-1026973286.jpg"
-        width: 591
-        height: 591
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
+        width: 976
+        height: 400
         isCached: true
+  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
+    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
+    publishedDateTime: 2023-03-17T17:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 19
+  - title: "Meaningful uses of artificial intelligence for marketers"
+    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
+    publishedDateTime: 2023-03-16T13:03:00Z
+    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "kVOztJcXF8b0SxU66nVXWoFO8mHo4cqC785vNqJGOHYJ8z42q7rQz2t1BiZSeem3BgiFGjZ8a1VSvoAVNo7KaOvDullWQjuNDJq221v3nGlRALzpxLzbQ7URn0stdSnoIuxvYqL1nD4w8HubH2KzuxfutWjZzzcQWiMSgUNaRr/h0okF4gPW6LoBAvZTkf9t6BxDqOIPSQb3xWuyvWck0bl8CTyQ2Tsvmo2CO7qJBzg1S4mMS3VWH9HaqhkC3v3oLw0tRUiVRPRHK8avjyLQM6qw19vDQZqD3ne0EZGAvfnuNF4qhs8UreOaZh9wxpy05wzUR9kwuiZUab+JJwoEviuVxzvcAUtdwQskQtapCTw=;COnEXKG+vYwkUF5l7CWxPg=="
 ---

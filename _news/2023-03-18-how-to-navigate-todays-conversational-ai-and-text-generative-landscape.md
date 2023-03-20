@@ -32,15 +32,15 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
-    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
-    publishedDateTime: 2023-03-17T17:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 17
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "You can’t stop generative AI fraud"
     excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
     publishedDateTime: 2023-03-20T04:00:00Z
@@ -52,8 +52,8 @@ related:
     quality: 17
   - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
     excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T09:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/20/9779378.htm"
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
     type: article
     provider:
       name: TMCnet

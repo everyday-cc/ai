@@ -7,7 +7,7 @@ originalUrl: "https://www.nzdoctor.co.nz/article/news/cover-story/doctor-will-se
 webUrl: "https://www.nzdoctor.co.nz/article/news/cover-story/doctor-will-see-your-phone-now-sequencing-and-speedy-diagnosis-give-chance"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 938
     height: 1140
     isCached: true
+
+related:
+  - title: "The robot will see you now: Why experts say AI in health care is not to fear"
+    excerpt: "\"We fear change,\" Garth says. He then looks down at the mechanical hand and begins to repeatedly smash it with a hammer. Many Americans have a similar reaction to change and technology, especially when it comes to using artificial intelligence in health care."
+    publishedDateTime: 2023-03-20T13:02:00Z
+    webUrl: "https://www.ksl.com/article/50602488/the-robot-will-see-you-now-why-experts-say-ai-in-health-care-is-not-to-fear"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 53
+    images:
+      - url: "https://img.ksl.com/slc/2920/292072/29207219.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "KSaFwU6A8BcoA4vhuhg6EjGs1ZDCzGOMgb/8bUXrohob2BW5Nn0i79GLskn5ZlryeUhZj1Qew3SB1EMoqqPTln1qhXSUS3giK9TBCtexk4yNrKgytFZq9gxFEue3N0a9iXKtaqP5d1+g61h9M/xWwHYsj3CCLiMwKiwyvY/PCOTbf5YYLbrp9SCL+ovP0Sx9kx4bZsgp3lHlAEZZfK73wbSDhiPfyI5qwiOYFqQuVqlc5tUrmjs2VEpdjh1D1iOU/wPM5fvRN4zhm1J4qTqGrdUggJtZj5APn2EjzuO8sD6QBqfX+nGJleha+6Was8lnQVScxkOelDGkJDkMkyx/Kp/gDAxGBuFBggjtJUZ6+Wg=;k7/k4mmsOok4ReTZCVU6sw=="
 ---

@@ -27,111 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
-    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
-    publishedDateTime: 2023-03-16T11:00:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-music/"
-    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
+  - title: "Best practices for leveraging artificial intelligence and machine learning in 2023"
+    excerpt: "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ..."
+    publishedDateTime: 2023-03-17T11:05:00Z
+    webUrl: "https://techcrunch.com/2023/03/17/best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
     images:
-      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "AI And The Future Of Wealth Management"
-    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
-    publishedDateTime: 2023-03-17T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
-        width: 1050
-        height: 590
-        isCached: true
-  - title: "How AI is driving the future of technology"
-    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
-    publishedDateTime: 2023-03-19T22:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
-    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1464427023-1.jpg?resize=1200,800"
         width: 1200
-        height: 679
+        height: 800
         isCached: true
-  - title: "Harnessing the power of AI"
-    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
-    publishedDateTime: 2023-03-17T03:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
+    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
+    publishedDateTime: 2023-03-20T09:03:00Z
+    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
+    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
-        width: 750
-        height: 393
+      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps."
-    excerpt: "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ..."
-    publishedDateTime: 2023-03-16T15:07:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042"
+  - title: "Deep Learning Market 2023-2028: Industry Share, Size, Growth Analysis, Leading Companies, and Forecast"
+    excerpt: "Global Deep Learning Market Trends: The market is currently experiencing growth owing to the expanding applications of deep learning solutions in cybersecurity, database management and fraud detection systems. Additionally, they are employed in the ..."
+    publishedDateTime: 2023-03-16T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2023-2028-industry-share-size-growth-analysis-leading-companies-and-forecast-2023-03-16"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Nightmare of AI-Powered Gmail Has Arrived"
-    excerpt: "Yesterday, it shared more details about AI-assisted Gmail and Google Docs ... Google — and Google’s customers — will start to figure out how people actually use them and which ones catch on. The most likely outcome is that such tools will reveal ..."
-    publishedDateTime: 2023-03-15T21:24:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/03/the-nightmare-of-ai-powered-gmail-has-arrived.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 37
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/737/51c/eee976d5b96796972c33f1a5600dd1ea42-gmail.1x.rsocial.w1200.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Gods In The Machine? The Rise Of Artificial Intelligence May Result In New Religions"
-    excerpt: "We are about to witness the birth of a new kind of religion. In the next few years, or perhaps even months, we will see the emergence of sects devot"
-    publishedDateTime: 2023-03-16T17:49:00Z
-    webUrl: "https://menafn.com/1105793231/Gods-In-The-Machine-The-Rise-Of-Artificial-Intelligence-May-Result-In-New-Religions"
+  - title: "Global AI Training Dataset Market Report 2023: Rapid Development of AI and Learning Machines Drives Demand"
+    excerpt: "Artificial Intelligence (AI) is becoming increasingly important to ... retail e-commerce, and other segments. In therapy areas such as lifestyle and wellness management, diagnostics, virtual assistants, and wearables, AI in healthcare offers numerous ..."
+    publishedDateTime: 2023-03-16T00:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31372886/global-ai-training-dataset-market-report-2023-rapid-development-of-ai-and-learning-machines-drives"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31372886"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31372886"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/16/TC_30c2bimage_story.jpg"
-        width: 678
-        height: 334
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "/Tt1Tj0kpjlRCqwy3e/bQB23F/v3NPD9dnf+vNJab63Z4W6iKaDj48XQjJhcE4r25oOhya5a6E0cmYYF/ZphzAk5sTfuO7qe03iSMXg8czwhUMNA6Qpvdiim6/ouAndkTKDMEglpUSpU9ViY3TZ+B7KTcPyLCG4RMcks6iRMEi+/ogKmAcEoZPra5XEgP91TVKriMzSwr6iU4PTQm2yNCYmMKpG04Bpa7mD5JTL83XIEs6m4MTz0AyhpDRnYc8nXZdVUMB4dJNJ0Y/K69IhXaJjEobUEWwUuZM65COEhXOz9ZS93AzwitXHgXAieJ3N4DAn1E3+o4M5x3vmqY9UFJbVPKKdZKpv0GY1WyN4Gb+Q=;JjSr5sIQMTbQMqWLb+FBiw=="

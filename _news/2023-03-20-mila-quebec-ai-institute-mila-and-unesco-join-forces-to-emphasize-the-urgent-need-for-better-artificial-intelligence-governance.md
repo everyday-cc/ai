@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T12:37:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58601032-mila-quebec-ai-institute-mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-governance-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58601032-mila-quebec-ai-institute-mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-governance-008.htm"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Finanznachrichten
@@ -14,6 +17,31 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
+    excerpt: "The book, Missing Links in AI Governance, includes 18 articles on AI governance ... contributions to the field of deep learning, particularly in language modeling, machine translation, object recognition, and generative models. For more information ..."
+    publishedDateTime: 2023-03-20T15:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-to-emphasize-urgent-need-for-better-ai-governance/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
+    excerpt: "MONTREAL, March 20, 2023 /CNW/ - Mila - Quebec Artificial Intelligence Institute and the United ... great potential of AI to accelerate scientific discovery, especially in healthcare and environmental sciences. They also addressed the opportunities ..."
+    publishedDateTime: 2023-03-20T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "bh5qIFCqmyZNmYJ+RHioLZxbKAz4c9rTnbgLNLJv1XDpTfR9Q5TxfG7TMpDdovnIBvSXDh47yOTHWb7QrPDGyWvZQrL9EHAPGjlReqBREPfDKCdGDtUeK1/eQgPmKEgR/qUG1jbZjTGs+D2b/dT2t7L3QLrfgRfDrZ3Em+mFu0b7X/ZoHW76VIAz+CbaRs9mAoQSa1eD+RLJrM8bbfQRPkJYt0qYv4S28WGnjqzyestfIwB6xlh/SASDbPfzpQeL6+4miIpF6CvD8h7uPMxH+kiozB1zPWGo0cAPY8soYzxrhJsv1t2w3uhPTCJpwHqOGHGhp7fTw92c8AEcF4MrfysojQYZRQJiG7ryaH/q6KI=;28PYjaXpc9qSc4/fHY9sEw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ai-imager-mid
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Ars Technica
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "AI-Image Tool Midjourney Launches Magazine"
-    excerpt: "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/"
-    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/15/ai-image-tool-midjourney-launches-magazine/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64122c70b27b32a60e216cc1/0x0.jpg?format=jpg&crop=1600,900,x0,y82,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "m/4DVGcY8s9F6/T4JGdUunQqv4BSEIG6TDQSUIwf8rXSmAL3sY8Zy/i7qmpANKCCQ04pZ91z0p+v+ajxgIMYPn/vq46XEX5oOWOti29J38noL1wKke2Oso1B/tvGwjBWauYNUJennIyb9O3TgEgyFNkRTcQazRwZGjG3iBZeZY8eA8fJaL+VMRIFEkp8yEWtC7miHklsTtJQOcndnR5a9Z0DtMNqtgIedi/zooPOqshYICLz/ba+pLzCWIMuv0VNsvl4YcfRqtliNrDqIWGdKspHSTCaDH3elgqjR5v3H942Eysv57f97CyWtrc2eJvR6Kq7tkY/wmmGmsXmZgSvcn5rQ866bOGsByps0avrlNdFoL4q8tYfq9E0dcM73/EC/UDJUEYlXacKlJul49X9Oa7/5LjyWrMP3GYjlEecEWmOIl2ZVfpcr68XqLK+HV14IypmnJI2D1HTpUaT5KG9dz24yrGeN9viGOYmu2xUVwXvoZQCV/tZH40u5c4W+Pi8jSN5jwupv8rIBB3Np6CWLA==;auHdRYLY1s22CNRzxeWmFQ=="
 ---

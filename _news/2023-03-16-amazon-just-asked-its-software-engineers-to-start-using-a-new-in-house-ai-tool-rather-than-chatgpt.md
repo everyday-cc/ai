@@ -109,36 +109,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "GPT-4 Is Here: What Can ChatGPT Maker's New AI Model Do?"
-    excerpt: "The new system can figure out tax deductions and answer questions like a Shakespearean pirate but is “still not fully reliable,\" OpenAI said."
-    publishedDateTime: 2023-03-15T22:02:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 57
-    images:
-      - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
-    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
-    publishedDateTime: 2023-03-17T23:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        width: 2250
-        height: 1500
-        isCached: true
   - title: "Apple may update Siri as it struggles with ChatGPT"
     excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
     publishedDateTime: 2023-03-17T16:30:00Z
@@ -263,20 +233,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 23
-  - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
-    excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
-    publishedDateTime: 2023-03-15T20:56:00Z
-    webUrl: "https://medcitynews.com/2023/03/what-role-could-chatgpt-have-in-clinical-trials-a-bigger-one-than-you-might-think/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 18
-    images:
-      - url: "https://medcitynews.com/uploads/2022/09/GettyImages-1026973286.jpg"
-        width: 591
-        height: 591
-        isCached: true
 
 secured: "gfrHewj0UZ0yNH6hCc1UcZQOYFh5YljAA5gCsT+PN4XWK6EWE0m0Ih/MgFV42Je3sdTpvpt9KGHOyxGbGPWQ+5aVNkWYTPCHrCsnGkpL1KozarpaDHtP1dy+ucS0bWENjfUBJnSWMuZ/JAxyDdTxdiD3clnTKLHIW4iH9fmfpcAmmqymTarLtgozL/LX+j2ogXq6O8Y9hfyfkDDbDLdOQM+euaf6ecKKJAgxisM42ZMWbJDACGyTONzI+1lDKmpMc31H6rVcZJIpA5IMAPl4ba25kn6mLvJgfiANty7MukFBCKSzhilNb4PleIp5GlFn1mcqGNU/mqodRgdQ5/IC1iHeFTRtOq9ZMH6c2FboaPJOJkVsvrxN7QCsKrzrxKwBHD44fUeyQwbEmGtf90xWHh/GPif4bFt6bGuM4K/zrZpxkCnMuvG8Q12xFT1Mu+cD2CDGk7llFAAGViRvbh9F12ciY9hO+6BeN796/VbevWJRFuiM8JNYQdufMclugFjw+5x8+jeyJ6RExaHYDj50rg==;Y2egeb2cgugrKu7XHUkszQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T12:38:00Z
 originalUrl: "https://www.broadcastnow.co.uk/production/comment-bringing-data-driven-insights-to-nfl-fans/5180345.article"
 webUrl: "https://www.broadcastnow.co.uk/production/comment-bringing-data-driven-insights-to-nfl-fans/5180345.article"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Broadcast

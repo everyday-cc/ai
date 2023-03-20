@@ -39,6 +39,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A mind-controlled beer-pouring robot has landed"
+    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
+    publishedDateTime: 2023-03-18T20:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895?at_medium=social&at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=BBCBristol"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
+    excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
+    publishedDateTime: 2023-03-20T13:03:00Z
+    webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 0
 
 secured: "QyAEeP9tk46EMhYtPlL4ycvaoxJPAMPXu7GBbz2CAVHUzGGvIuyFbh1zlQrBkzefkf7aUdKeLLnBmh3tIIgXSKEwHBprWAW9q7KS0e2g1oUZk2ca4iA50JNRIzzBGGqALCXGB/iigPg9/ElxUfsHuvHkv4c36WyxOWyv0gWWmiuD/fS1GjLKOV7o4UfoztFdlNH2WqRQqkTLAfTdrPp8HCOpZ28kuwDpyG7GOLXIgiZxuhaWpH+rYlK6Y66VZatmSs7VaoL6+rJMl4m7z7gQsZTZkHxsLW94Fuvoz1J4iWBV9+FzS2syn9M2xiOFx8i+kcbvPFVJB2GmMm0B31ht5IVrvEIIeNSBRwTmyQkZCCocdl4bTfQtdYGD1XnOFeZTOPWECE6lBTtFUaeiXbrXx9bsh5rShkNZium+s476MvxTMZpAwIEaRv28flt7VjzxiKiN8yoY4tQSpRSozwUmoiPTtn/76WVU/WRiAHWtqJyl3+t6Ba8pRd8M6Sb35q3YPNwpOuzBSEpFMVSWb+DaGQ==;qVYBF7HAD8hPXoslfEDTcA=="
 ---

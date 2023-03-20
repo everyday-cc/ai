@@ -43,21 +43,35 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Here's how facial recognition is changing travel through Bay Area airports"
-    excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area's airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-15T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-facial-recognition-bay-area-airports.amp"
+  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
+    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-03-20T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/facial-recognition-1.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-20T13:24:00Z
+    webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 56
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920
-        height: 1274
+        height: 1080
         isCached: true
   - title: "Use of facial recognition technology at supermarkets raises questions"
     excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
@@ -72,20 +86,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Startup partners to bring machine learning, facial recognition to IoT developers"
-    excerpt: "The partners plan to bring small, low-cost machine learning hardware modules to market through the global manufacturing and distribution deal."
-    publishedDateTime: 2023-03-15T21:57:00Z
-    webUrl: "https://www.biometricupdate.com/202303/startup-partners-to-bring-machine-learning-facial-recognition-to-iot-developers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 53
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/15175433/useful-sensors.png"
-        width: 1198
-        height: 874
         isCached: true
   - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."

@@ -43,6 +43,20 @@ related:
         width: 1919
         height: 1279
         isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "SHANGHAI, March 17 (Reuters) - Baidu (9888.HK), and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Baidu's Apollo ..."
+    publishedDateTime: 2023-03-18T02:16:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://www.reuters.com/resizer/oJXGW_eeaDu-jubspyQ0lhWVrrI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D24D44ZNHVMFPNYB32VY2BATZE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
     excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
     publishedDateTime: 2023-03-17T17:58:00Z
@@ -161,15 +175,6 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 34
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
-    publishedDateTime: 2023-03-18T01:54:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 32
 
 secured: "/VUWrMdj0IqYmCRCxDVY0bpWV510fV5/nf4F0qM1B3viipR/Q+Q0OATRY824ingNzB73uaYsEo86jr00vnr7ekBKNrIHcNjxe84P6W9j6oHBJ6k/3Kxl9cW0zltoz6K4TP6nhaRJFs8gSOGzA7dadX6muPhlJd2Ixph4eDaBnYGn/BcVJeV137LQ+NAXhaWZYhy8U5Zsqyy1GkBTaG4DHclayzcQ9D7Njc45pjU7R9QRM3arCCFh24vsvF4jeqjdVRcPAt9CXxA/WyHeXYNTaJOj2vELHfcQoHa7cRl6yRkb0gKM0Ld7bHah0ri1mzkzSoxU+K2yOfVu6LZsGLR33HCziCfD5WXpwGpiRqV6V1Y=;R5wbVUFxLfkkiAbDn5gS6A=="
 ---

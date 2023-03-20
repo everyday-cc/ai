@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T13:38:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-introduces-ambiaccess-on-demand-robot-fleet-/2023/03/20/9779580.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-introduces-ambiaccess-on-demand-robot-fleet-/2023/03/20/9779580.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TMCnet

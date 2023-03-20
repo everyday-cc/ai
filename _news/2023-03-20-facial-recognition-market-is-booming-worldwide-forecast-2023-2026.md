@@ -29,187 +29,109 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Share, Segmentation and Forecast 2023-2029"
-    excerpt: "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning as a Service (MLaaS ..."
-    publishedDateTime: 2023-03-15T20:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15"
+  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
+    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
+    publishedDateTime: 2023-03-16T21:14:00Z
+    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
+    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: New York Post
+      domain: nypost.com
+    quality: 76
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ..."
-    publishedDateTime: 2023-03-16T08:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15"
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-20T13:24:00Z
+    webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Medicine Software Market Share and Forecast till 2029"
-    excerpt: "IBM Watson Group, Flatiron Health, Inc., Syapse, Inc.] have been looking into AI Medicine Software as a way to increase their market share and reach towards consumers. What is the AI Medicine Software market growth? AI Medicine Software Market Size is ..."
-    publishedDateTime: 2023-03-15T20:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-medicine-software-market-share-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Software Market Latest Trend and Future Scope [2023-2029]"
-    excerpt: "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ..."
-    publishedDateTime: 2023-03-15T22:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future Growth of the Deep Learning Software Market Size 2023-2029"
-    excerpt: "Deep Learning Software Market 2023 with 107 Pages Report and enhance with extents shares into sub-counties are covered"
-    publishedDateTime: 2023-03-17T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-deep-learning-software-market-size-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market Share and Forecast till 2029"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- The \"Voice And Speech Recognition Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term ..."
-    publishedDateTime: 2023-03-16T01:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-share-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data and AI Ethics Market 2023 Structure Along With Size, Trends, Revenue, Market segments, Forecast to 2029"
-    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | Information Technology | In This Reports Data and"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-structure-along-with-size-trends-revenue-market-segments-forecast-to-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Software Market (2023-2029)-Current Status and Future Prospects"
-    excerpt: "Deep Learning Software Market Size 2023-2029 | New Report (107 Pages) | Analytics | In This Reports Deep Learning"
-    publishedDateTime: 2023-03-16T06:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-software-market-2023-2029-current-status-and-future-prospects-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
-    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
-    publishedDateTime: 2023-03-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: ABC7
+      domain: abc7.com
     quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Use of facial recognition technology at supermarkets raises questions"
+    excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
+    publishedDateTime: 2023-03-18T04:51:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/use-of-facial-recognition-technology-at-supermarkets-raises-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Deep Learning Chipset Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-20T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-20"
+  - title: "Your NYC Supermarket May Know Your Face Better Than You Think"
+    excerpt: "Fairway’s parent company, Wakefern, said that biometric identifier information is “helping our store reduce retail crime” — but is the tech infringing on civil liberties?"
+    publishedDateTime: 2023-03-16T18:35:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://media.nbcnewyork.com/2023/03/Fairway-w-sign-inset.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
-    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
-    publishedDateTime: 2023-03-17T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+  - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-17T22:11:00Z
+    webUrl: "https://abc7ny.com/nyc-fairway-facial-recognition-shoplifting/12968998/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Global Fintech Market Size Analysis 2023 Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
-    excerpt: "The Global Fintech Market, which will pin its worth at approximately USD 305.7 Bn by 2023, expanding at a CAGR of 22.17% during the 2018-2023 period. Request To Download Free Sample of This Strategic Report: -  The use of mobile devices and technology-based solutions is propelling the demand for financial and banking solutions,"
-    publishedDateTime: 2023-03-17T07:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-fintech-market-size-analysis-2023-growth-factors-product-overview-segmentation-and-forecast-study-to-2030-2023-03-17"
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:41:00Z
+    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: abc13
+      domain: abc13.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
-    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
-    publishedDateTime: 2023-03-19T05:22:00Z
-    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:34:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 33
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
-        width: 600
-        height: 314
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "VXYqeSknR44n1lTTd+6WgVGKkDBhG6lBQ/MBC1v7g+eId9mQMLCU91t1Q91V0Q40Vr52vo9DYgAv8g9e08Vi9Eo4bRpCb0c6z6CWkyLATr07oLcPzd2w1dAIeN/RnZvWSVvkmsE6GTiJbKJoS1H7pB/d0JwbXoaofg+szLjGTXKkvj4jsGv3qFlQQV/baitU0S3ni8AgWc9/h5/gZc5v5okptYQk6DDDd7tietm2IhJEJEH+buJtP7Gi6Be8fr6Ek7SJBMJ7a/yGers1QTCzAgPrVVGBnchYrgGyHcS2M/VaScVNN86fFlkiBsYBC18oCJeAnAvYY64RNA41gUA9bUxLHZbuW176yycZwgUhqCI=;6xaimsnKI2pAySXe+zi31A=="

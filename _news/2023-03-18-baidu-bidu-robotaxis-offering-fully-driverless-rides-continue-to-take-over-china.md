@@ -45,6 +45,20 @@ related:
         width: 1919
         height: 1279
         isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "SHANGHAI, March 17 (Reuters) - Baidu (9888.HK), and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Baidu's Apollo ..."
+    publishedDateTime: 2023-03-18T02:16:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://www.reuters.com/resizer/oJXGW_eeaDu-jubspyQ0lhWVrrI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D24D44ZNHVMFPNYB32VY2BATZE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Gets Permit To Roll Out Fully Driverless Robotaxi Service In Beijing"
     excerpt: "Chinese artificial intelligence company Baidu Inc. BIDU has received permit to provide fully driverless robotaxi services in Beijing. What Happened: With the permit, Baidu has become the first provider of fully driverless robotaxi services in the capital ..."
     publishedDateTime: 2023-03-17T12:19:00Z
@@ -165,15 +179,6 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 34
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
-    publishedDateTime: 2023-03-18T01:54:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 32
 
 secured: "wAHQwZ2A5xjgQ28jeCXbNrnonUcD28yveDosEcQYIbxuUTXgOezRW+37LOv1KVbEeD4Gxgz/UjXbQTtuUZTv+m0Z0GUMhOkBHxn1OS6n7/zyqUvMCvBT4R4CnAeYHOO6uhLutXsJgMWWk/wGATGhhnhAo1S7p31Tj0cxT0TImM5pOmz01+NA7fWUpEEk48p3vug6jKah9AyNJoIccBXQFg9mqFReEE/S79A04qOsEtr1aXtEeRBNzIkPBBOseq195sg2MYwfRCnAA5819KaNfdmUwXG3r+RIdpYNs6X4vpLDs99vOP39rxS6e5GpYEdW+bG9SDs+fawOo9BvIwc7sQtukA3dl1bgFU5G0kpGM9fAWASUj2z9NFCRUrECH0076QRyQSVSc8gpMab0A1oV9htIgbBmxXCtZ6QmIgP+DwTUEilmdZUdjarTyXzfCyNSxvJcVy7AW/hR2d/SCVPX8EfbTM11Dr06PLpfmfOz13Fks3qnh/VcOMm2pWvzPhuzjgjMG5Uk0tyw7t2i53wUGg==;w7meKPdrdR51zO+7F/FNag=="
 ---

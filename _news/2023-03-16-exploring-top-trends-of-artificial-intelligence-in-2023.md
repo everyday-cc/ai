@@ -28,512 +28,307 @@ images:
     isCached: true
 
 related:
-  - title: "From 2023 to 2028 Report on the AI in Computer Vision market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ..."
-    publishedDateTime: 2023-03-15T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15"
+  - title: "The Future Of AI In Banking"
+    excerpt: "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence in Retail Market to 2023-2029"
-    excerpt: "Focal Systems Inc., IBM Watson Group, Walmart Inc., Amazon Web Services, Inc., ViSenze Pte Ltd] most important, influential, or successful companies, brands, or individuals within a Artificial Intelligence in Retail market 2023 to 2028. Complete Overview ..."
-    publishedDateTime: 2023-03-17T18:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16"
+  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
+    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
+    publishedDateTime: 2023-03-17T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
         width: 1200
-        height: 630
+        height: 799
         isCached: true
-  - title: "Global Machine Learning (ML) Platforms Market Size Report Analysis, 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [116 Insights] Top “Machine Learning (ML) Platforms Market” Size 2023 Key players Profiled in the Report are [, H2O.ai, Hewlett Packard ..."
-    publishedDateTime: 2023-03-16T05:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-ml-platforms-market-size-report-analysis-2023-2029-2023-03-16"
+  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
+    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
+    publishedDateTime: 2023-03-16T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-music/"
+    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "AI And The Future Of Wealth Management"
+    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
+    publishedDateTime: 2023-03-17T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
+        width: 1050
+        height: 590
+        isCached: true
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 750
         isCached: true
-  - title: "Artificial Intelligence in Marketing Market 2023 | Global Industry Report Forecast 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Marketing Market” Size 2023 Key players Profiled in the Report are [Baidu, Xilinx, Oculus360, Facebook, Amazon, IBM, Oracle, Insidesales, Samsung Electronics ..."
-    publishedDateTime: 2023-03-17T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-2023-global-industry-report-forecast-2029-2023-03-17"
+  - title: "How AI is driving the future of technology"
+    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
+    publishedDateTime: 2023-03-19T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
+    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 679
         isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market Growth and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence for Healthcare Applications Market\" study describes how the technology industry is evolving and how major and ..."
-    publishedDateTime: 2023-03-16T01:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029-2023-03-15"
+  - title: "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI"
+    excerpt: "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ..."
+    publishedDateTime: 2023-03-17T09:18:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Education Market [2023-2029] | Booming Industry | Latest Report with Top Countries Data"
-    excerpt: "Mar 17, 2023 (The Expresswire) -- [123 Pages] Top \"Artificial Intelligence (AI) in Education Market\" Research Report offers valuable insights on Latest Industry Trends, Rising Investments, Top Key Players (ALEKS, Microsoft, AWS, Knewton, Cognii ..."
-    publishedDateTime: 2023-03-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-education-market-2023-2029-booming-industry-latest-report-with-top-countries-data-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- [121 Insights] Top “Face Recognition Technology Market” Size 2023 Key players Profiled in the Report are [, Crossmatch, NEC, Daon ..."
-    publishedDateTime: 2023-03-16T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-to-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Cloud Natural Language Processing Marketinformation for each competitor includes (, SAP SE, Verint Systems Inc., Apple Inc, Microsoft ..."
-    publishedDateTime: 2023-03-17T13:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence In RegTech Market Growth 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others) of Artificial Intelligence In RegTech Market and study the impact of Russia ..."
-    publishedDateTime: 2023-03-16T20:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-regtech-market-growth-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market | Industry Forecast 2023 - 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “Cloud Natural Language Processing Market” information for each competitor includes [ Netbase Solution, Digital Reasoning Systems Inc ..."
-    publishedDateTime: 2023-03-16T00:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-industry-forecast-2023---2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In Military Marketinformation for each competitor includes (, General Dynamics, Harris Corporation, BAE Systems ..."
-    publishedDateTime: 2023-03-17T03:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Radiology Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Artificial Intelligence in Radiology Marketinformation for each competitor includes (, EnvoyAI, AI Technologies Ltd, Gleamer Ltd ..."
-    publishedDateTime: 2023-03-17T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-radiology-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Insights into the 2023 Individual Artificial Intelligence Chips Market"
-    excerpt: "Topmost manufacturers/ Key player/ Economy by Business Leaders Leading Players of Artificial Intelligence Chips Market Are: Artificial Intelligence Chips Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence Chips market,"
-    publishedDateTime: 2023-03-17T12:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/insights-into-the-2023-individual-artificial-intelligence-chips-market-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational AI Platform Market 2023 | Global Industry Report Forecast 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Conversational AI Platform Market” Size 2023 Key players Profiled in the Report are [, Clinc, Inbenta, AmplifyReach, FIS, Nuance Communication Inc., Baidu, Interactions, Avaamo, Facebook ..."
-    publishedDateTime: 2023-03-15T21:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-platform-market-2023-global-industry-report-forecast-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market 2023, Regional Status and Prospect till 2028"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Recent Updated Report 2023-2028 of Artificial Intelligence Market| TOP KEY PLAYERS in Artificial Intelligence Market Contain (IBM, Intel, Nuance Communications, IFLYTEK, Microsoft, Salesforce, ZTE Corporation, Infosys ..."
-    publishedDateTime: 2023-03-16T18:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2023-regional-status-and-prospect-till-2028-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future Growth of the Cloud Natural Language Processing Market Size 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Cloud Natural Language Processing Market 2023 with 126 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
-    publishedDateTime: 2023-03-16T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-cloud-natural-language-processing-market-size-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market to 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Machine Learning Operations (MLOps) Marketinformation for each competitor includes (, Databricks, Paperpace, Microsoft, DataRobot ..."
-    publishedDateTime: 2023-03-16T23:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-20T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The State of the Artificial Intelligence in Market | New Research Report (2023-2029)"
-    excerpt: "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | Information Technology | In This Reports Artificial Intelligence in Market Provides Top Artificial Intelligence in Companies (Mariana,"
-    publishedDateTime: 2023-03-20T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Industrial Market Assessment Report by 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Industrial Market\" Report New Research Report 2023 gives A detailed market analysis on business plan ..."
-    publishedDateTime: 2023-03-15T22:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-industrial-market-assessment-report-by-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Object Recognition Imaging Systems Market Foreseen To Grow Exponentially Over 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market 2023 with 127 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
-    publishedDateTime: 2023-03-16T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-foreseen-to-grow-exponentially-over-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
-    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
-    publishedDateTime: 2023-03-17T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
-    publishedDateTime: 2023-03-17T16:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market Top Players and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Precision Farming Market\" study describes how the technology industry is evolving and how major and emerging ..."
-    publishedDateTime: 2023-03-16T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-top-players-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence-Emotion Recognition Market Growth 2023-2028, With New Insights"
-    excerpt: "Mar 18, 2023 (The Expresswire) -- Report Highlights with 121 pages:-\"The global Artificial Intelligence-Emotion Recognition market size was valued at USD 875.88 million in 2022 and is expected to expand at a CAGR of 18.15% during the forecast period ..."
-    publishedDateTime: 2023-03-18T16:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-growth-2023-2028-with-new-insights-2023-03-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Systems Market Top Players and Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Voice Recognition Systems Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
-    publishedDateTime: 2023-03-16T07:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-systems-market-top-players-and-forecast-till-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Robotics Market To Show Impressive Growth Of During The Forecast Period 2023-2028"
-    excerpt: "A novel research report on global Artificial Intelligence Robotics market has been recently added to Xcellent Insights' database that provides a comprehensive analysis of overall Artificial Intelligence Robotics industry."
-    publishedDateTime: 2023-03-17T07:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273637251/artificial-intelligence-robotics-market-to-show-impressive-growth-of-during-the-forecast-period-2023-2028"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1678939553048.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Face Recognition Device Market 2023 : Geographic Expansions, Technological Innovations In The Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market ..."
-    publishedDateTime: 2023-03-17T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
-    publishedDateTime: 2023-03-18T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Camera Market-An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- Deep Learning Camera Market Size 2023-2028 | New Report (87 Pages) | In This Reports Deep Learning Camera Market and its business scene ..."
-    publishedDateTime: 2023-03-17T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2028-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision System Market expected to rise at a considerable rate during the forecast period 2023 To 2028"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- [116+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision System Market” Size 2023 Key players Profiled in the ..."
-    publishedDateTime: 2023-03-15T23:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-system-market-expected-to-rise-at-a-considerable-rate-during-the-forecast-period-2023-to-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Software Market Top Players and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Face Recognition Software Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
-    publishedDateTime: 2023-03-15T19:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-top-players-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Speech Recognition Market Top Players and Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Speech Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
-    publishedDateTime: 2023-03-16T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-top-players-and-forecast-till-2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Artificial Intelligence In RegTech Market to 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In RegTech Marketinformation ... End Users (, IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others,), and regions), recent status, development trendsa and competitor landscape."
-    publishedDateTime: 2023-03-17T18:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Artificial Intelligence Chips Market 2023 : New Recent Developments, Trade Regulations, Import Export Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Artificial Intelligence Chips Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin ..."
-    publishedDateTime: 2023-03-17T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-2023-new-recent-developments-trade-regulations-import-export-analysis-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Enterprise Artificial Intelligence Market Size Report Analysis, 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- [113 Insights] Top “Enterprise Artificial Intelligence Market” Size 2023 Key players Profiled in the Report are [, IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP,] most important ..."
-    publishedDateTime: 2023-03-17T03:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-size-report-analysis-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-  - title: "Self-driving Cars Market 2023 : Geographic Expansions, Technological Innovations In The Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Self-driving Cars Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market Research."
-    publishedDateTime: 2023-03-16T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-  - title: "Why AI Fails To Reproduce Human Vision"
-    excerpt: "These findings suggest that deep neural networks and humans may in part rely on different object features for visual recognition and provide guidelines for model improvement,' said Mur. The study shows deep neural networks cannot fully account for neural ..."
-    publishedDateTime: 2023-03-18T12:02:00Z
-    webUrl: "https://menafn.com/1105807570/Why-AI-Fails-To-Reproduce-Human-Vision"
+  - title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
+    excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"
+    publishedDateTime: 2023-03-17T10:56:00Z
+    webUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 19
-  - title: "Emotion Detection and Recognition Market worth $42.9 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Browse in-depth TOC on \"Emotion Detection and Recognition Market\" 351 - Tables 45 - Figures 330 - Pages. Download PDF Brochure @"
-    publishedDateTime: 2023-03-15T20:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-emotion-detection-recognition-market-worth-429-billion-2027-/2023/03/15/9777780.htm"
+    quality: 67
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "The stupidity of AI"
+    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
+    publishedDateTime: 2023-03-16T13:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: The Guardian
+      domain: theguardian.com
+    quality: 61
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Harnessing the power of AI"
+    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
+    publishedDateTime: 2023-03-17T03:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Is AI the future of Hollywood? How the hype squares with reality"
+    excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
+    publishedDateTime: 2023-03-18T14:48:00Z
+    webUrl: "https://www.aol.com/news/ai-future-hollywood-hype-squares-140040559.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 59
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/888522f7d3731caf2f66cb69183483db"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
+    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
+    publishedDateTime: 2023-03-18T12:27:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 58
+    images:
+      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
+    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
+    publishedDateTime: 2023-03-17T23:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        width: 2250
+        height: 1500
+        isCached: true
+  - title: "The future of cloud computing, from hybrid to edge to AI-powered"
+    excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
+    publishedDateTime: 2023-03-20T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "AI could make the future role of education increasingly to be in support of human development"
+    excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
+    publishedDateTime: 2023-03-20T08:32:00Z
+    webUrl: "https://jerseyeveningpost.com/voices/2023/03/20/ai-could-make-the-future-role-of-education-increasingly-to-be-in-support-of-human-development/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 45
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ..."
+    publishedDateTime: 2023-03-16T02:20:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/15/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-18T02:36:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Turing Test for AI Is Far Beyond Obsolete"
+    excerpt: "For more than 70 years, the Turing Test has been a popular benchmark for analyzing the intelligence of computers. For nearly a decade, programmers have created AI reportedly beating the Turing Test while experts argue that test is an imperfect benchmark of \"true\" intelligence."
+    publishedDateTime: 2023-03-17T00:09:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a43328241/turing-test-for-artificial-intelligence-is-obsolete/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: popularmechanics.com
+    quality: 37
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod/images/man-with-robotic-features-royalty-free-image-1678926476.jpg?crop=1.00xw:0.536xh;0,0.257xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
+  - title: "The Future of Data Science Lies in Automation"
+    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
+    publishedDateTime: 2023-03-20T09:58:00Z
+    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
+    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
+    publishedDateTime: 2023-03-17T17:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 19
+  - title: "Meaningful uses of artificial intelligence for marketers"
+    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
+    publishedDateTime: 2023-03-16T13:03:00Z
+    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "VIKM4SgkXpkE9wn4Zin2FRIP2hZR9S9G/Im5mOrRjoTBwtRopB/NdI8HWOjNDdD6fjKjW1d4jm9iwxclvYkriPE4NnOR4tcqdNSjR0n2qu6skDKwvxuWVJQV3GNjmH4OPYT3Dv5eWKNgdHsxcnbgtM5MrLo5ZgPQhwefTW+sF0icpKyIBtjR2CkszG2HhqZRE4rPrLs8na8y1xTjH2zqKn68riiaKkOyp3gps5zBRgB0HXMawtiKYyLNU3+B8kni9fIPXahDW8C3MFnxgCAVvpW5oLOVP596Ueivw/821mOP/FHeE4/T1yXwBwgeSE/c8m6n4bGpUIMYV8oEwNR9itB3n6xJ5Ly1OkYIuu+XB+I=;YDJGfcmXoIx3+UuUZTADZA=="
 ---

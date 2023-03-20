@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T12:04:00Z
 originalUrl: "https://www.design-reuse.com/news/53684/tdk-automated-ml-platform-integration-arm-keil-mdk.html"
 webUrl: "https://www.design-reuse.com/news/53684/tdk-automated-ml-platform-integration-arm-keil-mdk.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Design-Reuse

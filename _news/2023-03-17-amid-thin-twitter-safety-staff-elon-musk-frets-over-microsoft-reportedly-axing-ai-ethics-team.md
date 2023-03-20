@@ -208,6 +208,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
+    excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
+    publishedDateTime: 2023-03-20T13:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-announces-release-notes-copilot-released-on-microsofts-azure-marketplace-1032178775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Microsoft Copilot leak shows AI automatically creating a PowerPoint presentation"
     excerpt: "Microsoft is holding a big AI event later today, but one of the announcements appears to have just leaked. Twitter user h0x0d has published details of a PowerPoint Copilot feature, which appears to include ChatGPT-like AI that will create presentations for you."
     publishedDateTime: 2023-03-16T16:51:00Z
@@ -245,6 +254,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
+    excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
+    publishedDateTime: 2023-03-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/noahbarsky/2023/03/20/microsoft-ai-move-is-exactly-what-mba-students-need-employers-want-and-slumping-b-schools-dread/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
+    excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."
+    publishedDateTime: 2023-03-20T13:01:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-used-tens-of-thousands-of-chips-to-build-openai-supercomputer/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
   - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
     excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
     publishedDateTime: 2023-03-17T18:49:41Z
@@ -281,6 +308,20 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/03/M365Copilot_HeroBanner_Apps_BLOG-FEATURE.jpg"
         width: 1105
         height: 675
+        isCached: true
+  - title: "Syneos Health Collaborates With Microsoft To Accelerate AI Across The Clinical To Commercial Continuum"
+    excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
+    publishedDateTime: 2023-03-20T12:52:00Z
+    webUrl: "https://menafn.com/1105816797/Syneos-Health-Collaborates-With-Microsoft-To-Accelerate-AI-Across-The-Clinical-To-Commercial-Continuum"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?417095"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "wv6h71iWaa5nv0aapcIirnTXQTYTX5sE7fHgWASbTyuWmOWxgqG0lfl0QuRKrRG02cbINK+qpdnlj8n9LYn4yRS/3BZ17zNlHg1qkMrhaipQIVa+Z7zExG9BWeDeWkVTKJ8adPb4HZzcMuBn3B+f1WpQmzyekaPKUl+gH2Ns5TAPNeYBHhxK2x553QLhN+Z2zsTw9rWFVz+kUqhYvSzg1b989IB4GZCyWrypvro3nQUfRaeXeFk3+MofxcFSrL4hYxzo4c5WsHDvk3+OW3+LiAmbBPMjbOL0JPOq6UPl3JNCCVCyeLMmyOvBgWGsbeW+E92z96Y2OW3kuzPvyewo3But17Uh2YYCL6KSq0yOVAY=;Wc/rBtotf1tFEfdmxHnsnQ=="

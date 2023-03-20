@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T13:11:00Z
 originalUrl: "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699"
 webUrl: "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: NBC News

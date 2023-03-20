@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-03-09-teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml.md",
-      "title": "Teradata Announces General Availability of Teradata VantageCloud, Integration with Azure ML",
-      "excerpt": "Teradata today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
-      "originalUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-03-08-how-marubeni-is-optimizing-market-decisions-using-aws-machine-learning-and-analytics.md",
       "title": "How Marubeni is optimizing market decisions using AWS machine learning and analytics",
       "excerpt": "This post is co-authored with Hernan Figueroa, Sr. Manager Data Science at Marubeni Power International. Marubeni Power International Inc (MPII) owns and invests in power business platforms in the Americas. An important vertical for MPII is asset management for renewable energy and energy storage assets,",
@@ -401,10 +357,10 @@
     {
       "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
       "title": "Study examines potential use of machine learning for sustainable development of biomass",
-      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
+      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study by Yale School of the Environment researchers.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/982020",
+      "originalUrl": "https://www.eurekalert.org/news-releases/982020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -417,18 +373,9 @@
       "publishedDateTime": "2023-03-06T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1371,6 +1318,49 @@
         "Machine Learning",
         "AWS AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts.md",
+      "title": "DIAGNOS and ÉTS Unveil a Method to Adapt Deep Learning Algorithms According to the Diversity of Contexts",
+      "excerpt": "DIAGNOS and École de Technologie Supérieure (ÉTS), a world-renowned technical university, are proud to announce the unveiling of a method for adapting deep learning algorithms according to the diversity of contexts, in diabetic retinopathy screening.",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts",
+      "originalUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/02/diagnos-domain-adaptation-method.png",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts/wcm/e3cd95b2-c261-4422-9ad2-14ded651696f/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/diagnos-and-ets-unveil-a-method-to-adapt-deep-learning-algorithms-according-to-the-diversity-of-contexts/wcm/e3cd95b2-c261-4422-9ad2-14ded651696f/amp/",
+      "publishedDateTime": "2023-02-28T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 type: article
 quality: 69
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A mind-controlled beer-pouring robot has landed"
+    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
+    publishedDateTime: 2023-03-18T20:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895?at_medium=social&at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=BBCBristol"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
+    excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
+    publishedDateTime: 2023-03-20T13:03:00Z
+    webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 0
 
 secured: "Qf8BwfvGQJR0Lhb2VlaMOlxFQZ2jh9U/I4EuP743VOuGWKqd5xatFV1qbiPUK1LQ9p5jkgI5F8AMV/5VY4Ly+f2mxQZqQTZt95/ZNeLEDBdLK8UluCZtuTq8rh8gLV49jNIIKoQAenBrHLhtpm0goNdYNXM3wx3U3VuSF0ZyzS/bONVJH/7IkhAL/9Q1aIbKNQUKGsO9xt2XD7O6ncEfbkRCnuwI1uoMye4MWWdF4ygl1rUpYNUe26pB9aqq+ptGYoFcSQAv0Ngf69twQHQ/aGYWs2o0uYZfgCltlGidsgp+BRiUfftEAEhyZibsbEf4M6n7dsjyL13oe+rZ2K6nGbe4uRs12agsAbJXCBbBnTbBAlglXYdPAGaf3QpAHBAIQAPVXsUg95tuIDe32zHdhiV9KtHCWFtThFyQka1S/hRBjCTh/3W9MW4o5J9AUgkdd0BAAxtRGUPG0Mj9FfgkuyIr5Dkazemx9a1zJLYJLKD2P79O6ypnAHTZ9kTfHg16ZQpcPKPzkYc+VogZ5XCKKQ==;Kyr/rTtWJwvM+Cgzn00Vqw=="
 ---

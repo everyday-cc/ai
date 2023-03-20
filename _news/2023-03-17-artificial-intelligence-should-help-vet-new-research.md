@@ -2,31 +2,27 @@
 category: news
 title: "Artificial Intelligence Should Help Vet New Research"
 excerpt: "Peer review is the gold standard for scientific papers, but maybe there’s a better system just around the corner."
-publishedDateTime: 2023-03-17T13:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-17/artificial-intelligence-should-help-vet-new-academic-research"
+publishedDateTime: 2023-03-17T08:37:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/03/17/artificial-intelligence-should-help-vet-new-academic-research/ba5b548a-c4ca-11ed-82a7-6a87555c1878_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/03/17/artificial-intelligence-should-help-vet-new-academic-research/ba5b548a-c4ca-11ed-82a7-6a87555c1878_story.html"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imq1zqXezXbc/v1/-999x-999.gif"
-    width: 1600
-    height: 1200
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "GP3EKWHN0KVzb/LdXFvkmnveUMMI7MPL+R3kkda3NyVXQnygRIoBh8a7R/NhKqXWz5dZLAYVaXOjWuw3IbkDK7GjUP+AKJrepL2OTrN/EV9uMEtATijHVTANAvynvNy4syMJg3oMwRXaTdRP9E5X7XVGQz6bqcreWTyXx4f6xjZqSLJ+gx5Bl4DsRZ/QrpTudID0PQc2+LO1udSKpgWMAOJRvgclNlNGK6PEVm89IomnNM0bUjjZ88Nhsvpl02Hw1LnjeublGs6yA3n0yXf/pX4q5tvj9msqB0tB1wCahryiDEy6y1TtlAEkwUjWhLlHL5ykGa7J4H91h/oKrhy6EjAdf050ioXxRxhcZx+S5Ko=;3QuNCpznV6mv0POMKkkDzw=="
+secured: "YnpyKA2uqWkz9vtqH5IGzCrO61r9ZP06ojtpeBN3GWLmqDcxHgH8JgW7PGERFkf4Aco05r1Y0O76TQdR/CdIJlmtYcRJIQ5QEUe0TA8suhD1PdijxezVfQIe0yjRjk9GqAhelN44Gc2dR9PyCSBnElJjbLj7n5MVe25Nnp1oH6twUhht3HoeJlX7W0WHbavzpktVpvhkZHD/P6dQXlfqHx3mFaJtPxk3VVAJuyeozzRupNwmJKsKvDzgSN3Ch23+YpWva/jNfR27X2x/iF/KLtL49dh/j2Lh3zTy2YWN99Tu0Oz5zhuzpMN9YlhMwPuupz0uNX/SlkatfZPYmpgUcM7RpS+L8zdl6y44vTT2kzk=;NydlXAe4dT+Z2Y0k0u+oSg=="
 ---
 

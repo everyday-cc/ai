@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/here-s-why-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 843
         height: 470
         isCached: true
+  - title: "Why AI Fails To Reproduce Human Vision"
+    excerpt: "These findings suggest that deep neural networks and humans may in part rely on different object features for visual recognition and provide guidelines for model improvement,' said Mur. The study shows deep neural networks cannot fully account for neural ..."
+    publishedDateTime: 2023-03-18T12:02:00Z
+    webUrl: "https://menafn.com/1105807570/Why-AI-Fails-To-Reproduce-Human-Vision"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "utBa4oMEA3XM6xd7JiKg1C3RMh4pnIlw0J5mwsHw3VizZom31+qoT+F5UMySbFtB//vvaQNbJrsqY94ywOmmNEI2RnOh1SHZpxCgUvvapGpmLdcCmVxD5rnbGU+Ff7yIiMZU7wG8MvhcRA2vLgvNF4KRqAdLJE/ET3CSueN8crF9OkIgb/xb8wX1E4ZLDNIi5cSGNRVK4PgyjeL0u/qrz/eHptGBd8HU5F6Wxw7Wt2goBRzplxcInQS69O/WVdix3PbRoll17sqajvbVEZqaX9WSh59uSMmIrbv1K72El27TJ9MJy0c0ZkEQD6dCKniHjiigvuVwJCEYgvBhiveQb3z4xwFEz+Q2Kh1rU+x7eKmMJQW4l8gFDQqHiWO5udNI5ezDC2KngPP9ou3R6BX0u6FoBqBWrAAdLMe2+1cBZrasl3jdEWmtKFTHFTXPVZCZpcyn+i9Q18GaAlc/DTcUetaDqDsYjJ10c17M0j9G796+EPM+VwEnikUKnLWodsLUr44apG5RgrJdA3sY0A7IFw==;Dgws/rzDDC4TBGUu4RB2yA=="
 ---

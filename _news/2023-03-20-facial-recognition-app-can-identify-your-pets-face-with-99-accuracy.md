@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T13:50:00Z
 originalUrl: "https://www.foxnews.com/tech/facial-recognition-app-identify-your-pets-face-99-accuracy"
 webUrl: "https://www.foxnews.com/tech/facial-recognition-app-identify-your-pets-face-99-accuracy"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Fox News

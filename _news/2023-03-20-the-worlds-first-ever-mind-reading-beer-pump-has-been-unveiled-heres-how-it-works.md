@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T13:03:00Z
 originalUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
 webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: The Scotsman
@@ -14,6 +17,50 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "A mind-controlled beer-pouring robot has landed"
+    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
+    publishedDateTime: 2023-03-17T22:10:00Z
+    webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 69
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "A mind-controlled beer-pouring robot has landed"
+    excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
+    publishedDateTime: 2023-03-17T11:55:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "A mind-controlled beer-pouring robot has landed"
+    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
+    publishedDateTime: 2023-03-18T20:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895?at_medium=social&at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=BBCBristol"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "DnOs1qVpvb9UmdV63X+wo/K8HHOts9OKZmJH5joGG6dhJtKM1ynfp9mbuqZ0+TYL9LnyLYGL0egKC9BccmJ0aytgvn8eTqEL/b/qyJ+Sw4teGPe4/HaFjBPeYXfFzlWYijiSR2ih7kyXOZL6Jqo7kgxkEeemrnrhtRS4p+jXh4h4wyZCmqdMCNT+/R4xzs/TUZNzPOl4g1MnfM0ddIZ1H0GhI3Nf8ZwcO7l8u/w+BF1eiUaIYdZXtZj23XkEaQxmMcJh6Zkz9o/PY2v1j7zd1FWyOaExUoSCltgcEZJskRCZGDI4kW6/kavUj2U77YyZ0HyXtXgG1UGeWb1mWWslxBGyWyYP9l4ewbC3aEFbXBs=;5JYww0VORtvR+7AdGzFAOw=="
 ---

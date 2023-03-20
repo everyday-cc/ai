@@ -26,19 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
-    excerpt: "In other tests, such as face detection, face identity perception, scene recognition, object recognition and non-visual memory, Annie scored “normally,” the study said. Overall, she performed poorly on the face recognition tests. “It’s been known ..."
-    publishedDateTime: 2023-03-15T20:41:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article273176320.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article273176320.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article273176320.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 16
-
 secured: "BGxNhewF0qyx+5s18pSz7plou6YxbpUqDsCwqPBhqMgbj6+fGNF+nzncAmkuTSkU09DQK7WAkxb23c6uM/VplRDUoqV24ShDTGpxo0xSEvX1u2IX6VmsPPQH0oA8FnwsKSd4nuxWAmq/Ib1mViLCKga9YLb19s+cDF0rtOZNeq/Kv+3edrii3B5/SMwD+qjNdn9CWl+GiMjWAR4DEjzGCfyRrh/B/5als3JyiFnz/6jWseOpr1DU/EXn6wbnVGCWcaPsYy4nnIlhvv6nSMLe8AD8IoHnJYfH/SnBStkMuoHuCfA2jfftd4EgKALXcPFfMpMLW7F2NMdbIHRCujEwz6w39o+dVIN/r/sf6lKjhZ8=;uwsLgnS6Qw94lumCYD5sQg=="
 ---
 

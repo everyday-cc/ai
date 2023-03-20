@@ -2,9 +2,9 @@
 category: news
 title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
 excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-publishedDateTime: 2023-03-20T09:44:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/20/9779378.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/20/9779378.htm"
+publishedDateTime: 2023-03-20T14:55:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
 type: article
 quality: 11
 heat: -1
@@ -40,15 +40,15 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
-    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
-    publishedDateTime: 2023-03-17T17:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 17
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "You can’t stop generative AI fraud"
     excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
     publishedDateTime: 2023-03-20T04:00:00Z
@@ -59,6 +59,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "ymdFL0xPjtbN13KVwj7mIAsSp+ASlDWIRtDDxNZru9aZGeuFWzUTUhYRa45LmBi4mFAvCuC9dNwyMMoJBoTc/cy5KSs2fZjLBuIaWAnx6uqjvXlgZVTw/i8wGrXHIY9w4yYgM3v8jl2HJrycilttkKwtyDtAWqyXeNVG0pSi7MKjPSfFZI7gx+9Gf9tM0LkhbY+BJiYRb8CJUlWG6KNqUy4r6WhlSYLTEBGSf2LVSdOTLzudmnDaicZ+/FzhvzYXLIrG68pB5Yzk0yVsH7UYDEzIo2XT+ebTqHtTt7kO82K2OmnmysDxeD3kmKjKMs7LOlNHEjDa0efCPGhBYgytXY9oGE77gYB9fuaZYkF6JM3aQA99FEWvnuCienuDiYDgsrMPblXtNefvvOWzCMzM4TeZFXArELL0tho1fJHarGYn54aJPa09mgg6uXHkAyIO58nCdiLPQvnUhcQXwJDSKYwf2NmEwWktsVSi3bvQMzqSfaRztqRBJR9r4KBYwQt3shYj4TWEPex7tE/rISBTCg==;dHvT6H9nePSe3fuLbfjSOw=="
+secured: "aZaR4rIIKxt5chECS3gRV2yxoG0UuqdNKD7Q3YQkgErLv6+lbnLSIK0qHOpC8fTJTs7AYTRIQTB4kerMSSg2CMCEVbFPjxVkAkA5uZ7mHXsGvXMk0X+eL2GJ2v4uHgNKKakGmSR402AqpLfjY4QZI26KtJ3WXEwzb1+DD5B9g8rb2FOnKplhMbxzCFCqTCvno3Eki7hYy/1JSTS4iCzHJNa7Mq2Xm8iJ/DbgywDR9PaDorInQviAgCQLPXw8C0H5TW+QMYtpbl8FeuqL2i9Kf1d9Sin7ExiGAfDEnwRU+ZUZ8ajcfz46ctsu6cv83nqEUG4sFk0CFqv/DbELNle//CvY3k9h+KxGZ6rmrqBpWXA=;7s+RNmaxunT7CMM46VwiCA=="
 ---
 

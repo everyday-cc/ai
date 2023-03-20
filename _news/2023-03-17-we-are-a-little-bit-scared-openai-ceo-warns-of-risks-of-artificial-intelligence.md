@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
 type: article
 quality: 68
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2"
         width: 620
         height: 372
+        isCached: true
+  - title: "With GPT-4, dangers of ‘Stochastic Parrots’ remain, say researchers. No wonder OpenAI CEO is a ‘bit scared’ | The AI Beat"
+    excerpt: "It was an epic week in AI, with the launch of GPT-4 and news from Microsoft and Google. By Friday, I was ready for a dose of thoughtful reality amid the hype."
+    publishedDateTime: 2023-03-20T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/"
+    ampWebUrl: "https://venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-gpt-4-dangers-of-stochastic-parrots-remain-say-researchers-no-wonder-openai-ceo-is-a-bit-scared-the-ai-beat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-28.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "The technology behind OpenAI's ChatGPT: Generative AI"
     excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"

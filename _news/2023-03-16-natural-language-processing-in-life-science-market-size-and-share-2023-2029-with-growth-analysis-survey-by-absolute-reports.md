@@ -29,99 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
-    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
-    publishedDateTime: 2023-03-15T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
+  - title: "Natural Language Processing in Healthcare Market (Size and Share) 2023-2029 with Manufacturing Process Analysis | Survey by Absolute Reports"
+    excerpt: "Mar 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
+    publishedDateTime: 2023-03-17T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-size-and-share-2023-2029-with-manufacturing-process-analysis-survey-by-absolute-reports-2023-03-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Blockchain Market (Size and Share) 2023-2029 with Key Players Analysis | Survey by Absolute Reports"
-    excerpt: "The purpose of the “Artificial Intelligence in Blockchain Market” research report is to offer insightful analysis and a regional view for projected market expansion in the future. The conclusions of the research provide a thorough understanding of the ..."
-    publishedDateTime: 2023-03-15T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-blockchain-market-size-and-share-2023-2029-with-key-players-analysis-survey-by-absolute-reports-2023-03-15"
+  - title: "Deep Learning Chipset Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Deep Learning Chipset Market Report includes data on research and development,"
+    publishedDateTime: 2023-03-20T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
-    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
-    publishedDateTime: 2023-03-17T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market Top Players and Forecast till 2029"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- The \"Speech and Voice Recognition Technology Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term ..."
-    publishedDateTime: 2023-03-16T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-top-players-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
-    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
-    publishedDateTime: 2023-03-17T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pharmaceutical Robots Market to Notice Utmost Growth of USD 263.64 Million by 2030, Size, Share, Recent Trends, Scope and Growth Outlook"
-    excerpt: "The universal Pharmaceutical Robots market analysis report will surely lend a hand in growing sales and improve return on investment (ROI). The company profiles of all the top market players and brands with moves like product launches,"
-    publishedDateTime: 2023-03-17T23:10:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/17/9778991.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "TIh6yPGnpa+N7c2yVCRlyL48NMLb8COMkknXtgRN3X/C0Myh52DKHLJxXCubxx+vlRTJB/JKTFlAta6ZfSsc0/xr/kKiSFyV3vE0ZOXmcLhcKu8nK12zqjoKGnHiwzqozMHTFjU4bV2G+kEhADhi1m0lZB8F0DJLdx9bq1NMhUdbeLuOGJoQPs7GpNjwQQdJHzdZ5i8+RKIsTSXK07cmqA9+0y0VDJoXvAPM/XV0U/VxHGQoFCSu1ni1PG46GPGbXnK05W6DboLuBbuVpH5fTK/CiVyuJ0oG+F5VuzvYn7n1UUr0oBjJIR3ZGttL0Q0/xBg5piOve/f1Ov2s/fXWgMgr79UvEk5tS0BWvqHEHA8=;9IMpvTT6YmqTcZB0JNJvVA=="
 ---
