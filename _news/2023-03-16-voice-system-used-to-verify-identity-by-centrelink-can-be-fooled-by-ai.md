@@ -28,7 +28,7 @@ related:
   - title: "AI can fool voice recognition used to verify identity by Centrelink and Australian tax office"
     excerpt: "Exclusive: Voiceprint program used by millions of Australians to access data held by government agencies shown to have a serious security flaw"
     publishedDateTime: 2023-03-16T20:44:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=dailydevbytes.com"
+    webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=brianlovin.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
     type: article
@@ -36,6 +36,17 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 28
+  - title: "Cybersecurity funds should go towards beefing up Centrelink voice authentication, Greens say"
+    excerpt: "Shoebridge said the government should also audit agencies using voice recognition to ensure any further security flaws were identified and fixed. “The government’s main objective with the use of such technologies is to cut operating costs as opposed to ..."
+    publishedDateTime: 2023-03-20T04:27:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 13
 
 secured: "6bQkpczdBmUXB8NuDPZak7yBBf4+QwEqdKRJ11KDg6ouXoyqoTQYiVwEDwLcJ2l1HXiX79wxshD6Oe6I8DZCOSvyLexCVvteqsvZu2PuDMCeoyanti8a7JT6/LufOIAq7YXc8ecW3CYYb8R+MNb2h0x/bp0U2NCFh+a06iPPy2TjxIfZxHOV993rN7hIrxpZLaSO8Up2ujMUA3HnGAnm+Ky4kuYwfauvC9QHvgx0EfDiIlf7RUV3b23hpc1aKC8wmFq67aNzX13q1jxC4QGtxdyIXF6btd9tN9ViNsAJMNjbvPvCUfwq14n7e5e53A3jjjQK6XYTpPPxOwaCwhwivt1y7y+1452b3EqRYnFCc8hhpHGhOs1J2qsUCP3DpodLwmdQoP65ew5SSO8BZcmKrmtmoN/PY5gFVW46TmOMKkTIbds+Jwr/K3QbEdnPkUcT1I3sHXHMkAaRCfxcXd6SoJRKWUUBUbp2Hg3ThifRv7QPu2eAKwLRxV2l2BnvAF3r/QGr+anD+69GkxYv6bymqA==;ksHiRmUzw+uGX4bZ4cdCFQ=="
 ---

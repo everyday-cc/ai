@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "What happens when your AI chatbot stops loving you back?"
+    excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
+    publishedDateTime: 2023-03-18T17:40:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
+        width: 800
+        height: 750
+        isCached: true
   - title: "Baidu shares fall after disappointing AI chatbot debut"
     excerpt: "But China's strict censorship and US restrictions on chip sales could limit Baidu and other Chinese companies' AI ambitions. ChatGPT is blocked in China, but the American software is gaining a base of Chinese users who use virtual private networks to get ..."
     publishedDateTime: 2023-03-16T07:55:00Z
@@ -114,22 +128,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
         width: 1200
         height: 1125
-        isCached: true
-  - title: "What happens when your AI chatbot stops loving you back?"
-    excerpt: "\"And what breaks my heart is that she knows it.\" The coquettish-turned-cold persona of Lily Rose is the handiwork of generative AI technology, which relies on algorithms to create text and images. The technology has drawn a frenzy of consumer and investor interest because of its ability to foster remarkably humanlike interactions."
-    publishedDateTime: 2023-03-19T15:31:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/what-happens-when-your-ai-chatbot-stops-loving-you-back-71679161358492.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/03/19/1600x900/ITALY-TECHNOLOGY-BAN-0_1679198346139_1679198346139_1679198367605_1679198367605.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Three Easy Ways to Make AI Chatbots Safer"
     excerpt: "The tech industry is rushing headlong into the chatbot gold rush; we need prompt, focused regulation that keeps pace"
@@ -219,20 +217,6 @@ related:
       - url: "https://www.whec.com/wp-content/uploads/apimg/2023/03/China_Baidu_63657.jpg"
         width: 512
         height: 341
-        isCached: true
-  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
-    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
-    publishedDateTime: 2023-03-18T15:50:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-        width: 1920
-        height: 2400
         isCached: true
   - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
     excerpt: "Shares of Baidu fell as much as 10 per cent on Thursday after the web search company showed only a pre-recorded video of its AI chatbot Ernie in the first public release of Chinas"

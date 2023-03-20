@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 171
+published: true
 
 provider:
   name: CNET
@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”"
-    excerpt: "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ..."
-    publishedDateTime: 2023-03-15T12:45:00Z
-    webUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/"
-    ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
+  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
+    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
+    publishedDateTime: 2023-03-19T09:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
+        width: 750
+        height: 393
         isCached: true
-  - title: "AI experiment tricks human into doing robot’s bidding: OpenAI report"
-    excerpt: "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ..."
-    publishedDateTime: 2023-03-15T17:20:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
+  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
+    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
+    publishedDateTime: 2023-03-16T16:01:00Z
+    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/03/10/OpenAI_Logo_96005--1a5ac_c0-214-5130-3206_s1200x700.jpg?dbcd8e3378513305b03afa91bce0566484275237"
+      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
   - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
     excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
@@ -115,6 +115,31 @@ related:
         width: 608
         height: 342
         isCached: true
+  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
+    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
+    publishedDateTime: 2023-03-16T23:33:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
+        width: 1080
+        height: 810
+        isCached: true
+  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
+    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
+    publishedDateTime: 2023-03-16T12:36:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 23
 
 secured: "7lB2tL4O7dWyR5WEubLG5mossFfjqCJMqHF2R16gWkByWo4wcF7BClLD6MyaF7ieeW3jBdpfhAw87rPTJPz7B212cZFba6U7BdEz0CHbkwx4UUXNxcT6CJ6nkGeR/D4pjwxaJm9yACIR0t3R5C+UbgC9bN8Z3e1Iu9BCjge1klM9cuePf+mmjj6I0lSvvxvxt3sMyfDRDfY7xso2w5bBFnRJjPIX+EfavoMQZsyTaJqe5xDKZ4MQ3SIMQ8RqskLZwZPs1LFcb3AWFdkdHaqjiwIXmZ4wWB6eS0PjikRG0AVv4nDTvdBYv7+B9U39gdFVUydPNsXscUgNir/Y6k+auA60QMtn/8lCIexX+W37Mgs=;QRvxeu5GbOaPi0E+wwndtQ=="
 ---

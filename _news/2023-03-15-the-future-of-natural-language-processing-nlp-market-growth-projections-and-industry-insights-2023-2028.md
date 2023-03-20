@@ -220,15 +220,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market Growth Revenue, Trends 2023-2029"
-    excerpt: "Global “Data and AI Ethics Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the latest ..."
-    publishedDateTime: 2023-03-15T13:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-revenue-trends-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Assessment Report by 2023-2029"
     excerpt: "The \"Artificial intelligence (AI) in Supply Chain and Logistics Market\" analysis [UPDATED REPORT] 2023 provides"
     publishedDateTime: 2023-03-15T20:34:00Z
@@ -336,15 +327,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global \"Artificial Intelligence (AI) Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
-    excerpt: "Global “Artificial Intelligence (AI) Market” [Latest Research Report] 2023 provides a comprehensive analysis of"
-    publishedDateTime: 2023-03-15T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-forecast-and-growth-trends-by-2023-2027-research-report-by-market-research-guru-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "How AI can make marketing more effective"
     excerpt: "Once you’ve used AI to optimize existing marketing content, it’s time to start generating new materials. Here are a few of the best AI tools to help you create new marketing content. In a word: no. Conversational AI is a tool that can provide new ..."
     publishedDateTime: 2023-03-16T08:47:00Z

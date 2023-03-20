@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "Chinese acoustic AI startup detects equipment faults"
-    excerpt: "BEIJING -- The Chinese acoustic AI technology service Ensound, formally known as Disheng Technology, has raised about 100 million yuan ($14.5 million) in a Series B funding round. The startup specifically helps customers detect abnormal sounds coming from ..."
-    publishedDateTime: 2023-03-15T11:15:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 17
 
 secured: "5Z+9azCdIsJN4pw/ju+cxs6uT2hJawhw07cvxvOL96KYcJdKqQuhRwUKvbutC04HFbb1eYmpgfO4G/vKHUe9X6sXL88LcWZw/FaR9lC8oF1VdD3FM/gpv3G6XidsFix3sCat6s20n/AQnsoWP+51bLicO/ed3Pds7c+9g+e8ugfrIU5DlXse9mnAHT6v8XaT4ZECqpbCN7UBjQ0txsMHcCRaDp4XQmtDr3TeZb2MX+vessTd+ncDrxiDSgjmb4H+Ha85SlAWhsP8ZNnW8hPiPnrtVvx23Hq6BGrnFZhEzjG8aF1U1VmH5pa8J/wpnQsbuRvRnjalhOhmhjhkvdSXuDi/U+BoA/EW6u1CnHgJi1eSNAQdqyaifK5HXrYLAtnopFRRWewKMHdQvXU4DozuCw2Z6C+FN1d+ps5kv7JJxJuZfns9S1tAoE16ZAzY9WzIt83bhekNMjhEikB+uQKqPUTh2c0yxys3QC/NTzNt6c0Bu/OaOUZzTB+N8x/svTH4e3+U0dfZc0UgwXZAGyttIw==;O7MiKovXl9JJReVAx5BXAA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2023/mar/15/ai-experiment-trick
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Washington Times
@@ -25,91 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”"
-    excerpt: "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ..."
-    publishedDateTime: 2023-03-15T12:45:00Z
-    webUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/"
-    ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
-    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
-    publishedDateTime: 2023-03-15T18:28:00Z
-    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
-    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
-    publishedDateTime: 2023-03-16T10:49:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 55
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI"
-    excerpt: "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ..."
-    publishedDateTime: 2023-03-15T15:09:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "OpenAI unveils GPT-4, its most advanced AI language model"
-    excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
-    publishedDateTime: 2023-03-15T18:02:00Z
-    webUrl: "https://scrippsnews.com/stories/openai-unveils-ai-language-model-gpt-4/"
-    type: article
-    provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 39
-    images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1678890405_Lx4TRf.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
-    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
-    publishedDateTime: 2023-03-18T11:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
 
 secured: "c/wmUS+7yaaf6nyjoqZaCrUOoapQTxRLA9VS7bxp5ZDLmXQtA/VPI6Xr/cj4uIgfIkYpP1ipdjJbuoWC3ojOYXBEGWkb65Gqs+EfOG4/w10kohO0T+0Oj8DfO49LO/K3GCO8hiRKCwAVFHoAB2l4NDNUf7UThNrukGqOb4OmV55VEG4b9k9TAU0/Inaunj5SQqeRnFXSbZ/NzlBAcTjlPG9SXps7/zqZxoTGNU55st5XbBAf3JCBe63w3jTSUiwjH5ppKKQFaNxbUzKl69sFeJ9qh1NEvhnHx0h09aNtid3vfDT8MkJI/KsqOK+6IVr9T5aMErnOCcuzyTAfLrGkuRXOBe+X3GLdmxxzjhtg7ii+lIKbbC4H7yGXLN979rEXVYHtCbMwFxxaUjmKML+EAcj86tx4xl0psY5atdGM48d5Hun+VQLgdiDYzg0dq1WTKAS7u+Fri1OHT2kOHtD13Zgk1KcNJLPGoHODtCQLI+fELtCbewk2ftGSkeiMMF3zq+caoLhp/U3wb2SmC+/kxw==;q8ieZXvYao++Fr2MFkaPRQ=="
 ---

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
+    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-03-20T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Software Market (2023-2029)-Current Status and Future Prospects"
     excerpt: "Deep Learning Software Market Size 2023-2029 | New Report (107 Pages) | Analytics | In This Reports Deep Learning"
     publishedDateTime: 2023-03-16T06:49:00Z

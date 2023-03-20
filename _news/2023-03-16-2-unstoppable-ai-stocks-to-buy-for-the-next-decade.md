@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/725092/ai-stocks.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "2 Growth Stocks to Hold for the Next 10 Years"
-    excerpt: "Microsoft’s businesses are always in demand, but its deeper move into artificial intelligence could be a game changer. As long as the world wants newer, faster, and better computing technology, Applied Materials will have a market in which to sell its wares."
-    publishedDateTime: 2023-03-15T11:39:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/15/2-growth-stocks-to-hold-for-the-next-10-years/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 52
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/724630/investor-reviewing-a-stock-portfolio.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/on-device-ai-is-transforming-computing-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/on-device-ai-is-transforming-computing-for-hybrid-workforces/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 687
     isCached: true
-
-related:
-  - title: "Salesforce Tableau 2023.1 uses AI to bring data stories to life"
-    excerpt: "Salesforce released the 2023.1 version of its Tableau Server enterprise platform, a data analytics technology providing insights from data."
-    publishedDateTime: 2023-03-15T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/"
-    ampWebUrl: "https://venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
-        width: 1200
-        height: 616
-        isCached: true
 
 secured: "OYDJscW0lz3sBVOn+b5UvbXltPHjYw6s3jjeTnC11eB211MnoF7+Dz+Rx/4HGR1ZGQbZD0mymN6Mk5w63WvRL1xrvmJu7AoGmC9wKEuMS3kOzWV+MFu02cbxj4pJ90qsENvzFafxYRBpnKJgsKQI0KFfy/p3/4E4twALkWlF+GSNLcS6lqFGpiKRdJPOyi0irf9pKmTsAGnR3BA8FGNLamT6ZFL51Cqr76LGXQGKkHhFW0GwXhS4Nwu2ybFuzntPhhmmtyoZ/36x60Ng5vE/UdVTT65YEz6zfubfz5MnsyEFBhsUCdbwMQQdhIJcR5p6kM2qY3BuecOXbLHHAEcW9e3OevnAZ/euNyol2VsthGfmujszs9BkkAZxBJllsh5GeDBl1fMR1SkH20cOYjW0E/2gneHJsQ7I47mYgbylpP5YEQPb8fcZcyJWKBPrKfSCrGZ9f12Iyfs+QIdyltN3E7CDsZikcrKTg91HPjRIaCuhf8RHRwyuUcSfxEnJdXN4xxYgXU1VkGSpUrutpcj98Q==;qQaGGPfsRIx7NknH9AXt8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2385160-ai-powered-t
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2385160-ai-powered-tools-deepfakes-pose-challenge-of-misinformation-before-internet-users?amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "AI-Generated Voice Deepfakes Aren’t Scary Good—Yet"
-    excerpt: "“I expect that in the near future, we will start seeing threat actors combining deepfake voice technology with the conversational interactions supported by large language models,” Hutchens says of platforms like Open AI's ChatGPT. For now ..."
-    publishedDateTime: 2023-03-15T12:14:00Z
-    webUrl: "https://www.wired.com/story/ai-voice-deep-fakes/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
 
 secured: "bSwikhkap0UsIoiS0t8Vq/UkUip1XdfL4B7aVkCI5ZS4QBxQiFvXRIm6Syj0mlB9dgD0fLtiJyX4so7sv3d69hm55245Z/e+6JDC25usMXpPfzgz/S6GidlO7J9MreIpMHf7Skk8/SwLW86Z1EYT/9x2dxlGAyR5Oh4Hr9RJfbmH1lUChxRU4TQL3TsQ99CbD7ja2X8QW2znWjtIuljtLsG0XyDK30SuLEuzc+lhQMf6BjT4/rWhWz+IZXxmWIr+ISY7znn5zvVocD911tf0kSMCokSN9F+CejWg6QzHAG+7vqaH9KZ8EbI1AQv8JY4CBpJ0xrfEJNkkKgqBtB2hQuktUyoZlcyvkHOXzc2DtfY=;FrfAXOBSD0zw3b1WD76x6w=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "New Tableau AI features and Slack integration aim for data accessibility"
-    excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
-    publishedDateTime: 2023-03-15T12:01:00Z
-    webUrl: "https://www.computerworld.com/article/3690339/new-tableau-ai-features-and-slack-integration-aim-for-data-accessibility.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 18
-
 secured: "X31CzqJYcAfMey/nKlWhgmdhFgY1EdL2dCduXpbhAjGFWw1Hov4boG7dbFv6CQ9fEHYRGmS/3YScrrT2MLr2zsTkdMvlkqkuzbG2btm3dHfeXSxLsibgufRM0wTxq8y8jXu92M0wj9EDndrUpTSwLtWb7A7i+rtVa4F4RerDotlqv5VZ/zu/hyrXcQ9fJsu3XNe3Hm6x3UktZHdmuNRpa1vX3p05zU8mnr0w6u8UbSx4qXb2KLgqjsTY+iAHU0Fvz4X1a30CMqzAw0/YBVr2046gucKz0kVJTrd64YlKqrzx2a3CiTuMzxjTNTl7R+m+lsHRe1JD7nRtj5glA8xnm9m+eL9yNOgBgQ+1SjawEtI=;YXfNVcnu/ludLUhLoO3LdQ=="
 ---
 

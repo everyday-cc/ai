@@ -69,15 +69,6 @@ related:
         width: 608
         height: 405
         isCached: true
-  - title: "Chinese acoustic AI startup detects equipment faults"
-    excerpt: "BEIJING -- The Chinese acoustic AI technology service Ensound, formally known as Disheng Technology, has raised about 100 million yuan ($14.5 million) in a Series B funding round. The startup specifically helps customers detect abnormal sounds coming from ..."
-    publishedDateTime: 2023-03-15T11:15:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 17
 
 secured: "n5o60KSuXMt6/WI5E+p8VKq+iTxRetyEHQ075XZI4FLTnjIfkLb+1OupdWyIU4B7CmdO54eLOGdqcJ69c2PhxgZOHEu97nXW4VJSemiBxJ2iahiCvaPWbJ2hAeOsoJeBnYYAJIJGjqM0fqfRXDLM2SumJzdaBTeHfne01FWKKmtO/XG23Au+roEiz1bU6g79w/et9v8sDoTIGq7FeeUdtsshSndHCqINLozip+RyRNz9raKxEWNSDP55SUX36qIgEJG4ltHSPIevBJHMI9L+xKHnQyKAvAfGBxpqRtK0STmK5jW4f+FxY0Ns1ZgYNSE+D3fR7cDxjxRGgNidgCChjbWjOQNHK2doNMHuhfyNd6I=;gpV1ZtRakHtNhLWmhRI56g=="
 ---

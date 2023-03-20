@@ -22,17 +22,17 @@ topics:
   - AI
 
 related:
-  - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
-    excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
-    publishedDateTime: 2023-03-15T12:36:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
+  - title: "Duolingo's Max Subscription Uses GPT-4 for AI-Powered Language Learning"
+    excerpt: "Duolingo jumped on the generative AI bandwagon this week with a new paid subscription tier featuring two OpenAI GPT-4-powered features. A Max subscription costs $30 a month (or $168 annually) and includes all the benefits of Super Duolingo (unlimited ..."
+    publishedDateTime: 2023-03-17T13:11:00Z
+    webUrl: "https://www.pcmag.com/news/duolingos-max-subscription-uses-gpt-4-for-ai-powered-language-learning"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 67
     images:
-      - url: "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png"
+      - url: "https://i.pcmag.com/imagery/articles/0046pqFhp72NAJP3RHCe4Ux-1.fit_lim.size_1200x630.v1679056070.jpg"
         width: 1120
         height: 630
         isCached: true

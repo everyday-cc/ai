@@ -52,22 +52,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
-    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
-    publishedDateTime: 2023-03-16T23:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
+  - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
+    excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
+    publishedDateTime: 2023-03-20T03:58:00Z
+    webUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/"
+    ampWebUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
-        isCached: true
+      name: Dataquest
+      domain: dqindia.com
+    quality: 24
 
 secured: "udaPAE5F0c2y+XVmFVDJNB7PeX4klLz/cKUXhtKZvsA0dXf12Is9gxsducBdWvr7JJgVESeg+5u5LKf9n5RqmeDtLt+jZvekRMJfiDYwMwPvQPkBHXgWd+Kw1tUH0jfHPbtWm5MlISMv7Bb0IUOTtVx+JPKmB8z5AUrRVOJ0AlLUN+6Jqlj1DHTiMI7/4AtTce2t4R1iQQ42rQ20jRzJqW+nALqJPWqfRl4G7F8/ucWUO/28nAuj7SLCSwhYglvDJvpkuiHwedHjdrzBq+m3GQZeJbMnL87oez4N1NfdZ5ssdRG3fqSRruNpNGpwu5hN59mJuU0PcYe9Sseb4FluE3XPEBRLQPoPRjXqjcOunZV/4+GxdRXsR9Z8dRNkoGBgtqABD7siHS2d5JmrxkHtwz6m0XnxdhRWEPWeSd7vhhre2L5LyJ1s4pq/zdwRy0znMzkT7E3jw0qZdEvgIn3CFU92nmwcStSbM77Azc3MjI+jcBpMP3sHs38hufF2UonB0pUcYPkhI7XYtA7fppJeBA==;tvZdwpMnWN96APCFqnjDsQ=="
 ---

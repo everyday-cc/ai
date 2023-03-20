@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/cybersecurity/article/53028525/o
 webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53028525/oxylabs-machine-learning-in-cybersecurity-to-find-vulnerabilities-prevent-attacks"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Artificial Intelligence Is Becoming A Cybersecurity Imperative And How To Implement It"
-    excerpt: "One of the most often-asked questions that I receive from customers is: How do organizations plan for the adoption of AI technology in their cybersecurity strategies? In other words, how should one get started?"
-    publishedDateTime: 2023-03-15T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61698e080de1a3a858994825/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Innovations transforming the startup landscape: From Cloud, AI to Cybersecurity"
     excerpt: "Speed: Start-ups can quickly deploy and iterate on their applications ... And that was where a short discussion on the latest craze on the AI tech front, ChatGPT happened. Key points: Smitesh Valanju, CISO, TataCLiQ said it has always been the data that ..."
     publishedDateTime: 2023-03-17T06:38:00Z

@@ -18,37 +18,191 @@ topics:
   - AI
 
 related:
-  - title: "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply."
-    excerpt: "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ..."
-    publishedDateTime: 2023-03-17T15:24:00Z
-    webUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/"
-    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
+  - title: "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov"
+    excerpt: "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,"
+    publishedDateTime: 2023-03-20T04:28:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 111
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6417e675c4ae66004ebdc0cd/0x0.jpg?format=jpg&width=1200"
+        width: 960
+        height: 564
         isCached: true
-  - title: "Will ChatGPT& AI replace the need for formal education?"
-    excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
-    publishedDateTime: 2023-03-17T15:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
+  - title: "Microsoft 365 gets a host of new AI-powered features"
+    excerpt: "(Relatedly, OpenAI revealed yesterday that it worked with Microsoft to build a “supercomputer” in Azure to develop GPT-4.) Microsoft has reportedly been forced to ration access to the hardware for some internal teams building other AI tools to ensure ..."
+    publishedDateTime: 2023-03-16T16:04:00Z
+    webUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/"
+    ampWebUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/m365copilot_business_1920x1080_web.png?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
+    excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-adds-ai-tools-office-apps-outlook-word-rcna75373"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75373"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/200327-microsoft-logo-ew-448p-acdab6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Your Microsoft apps are getting an AI revamp. Here's what we know"
+    excerpt: "Generative AI is coming to Microsoft 365 apps, too. Here's how it might improve your workflows. Just days after Google announced the generative AI makeover of Google Workspace, Microsoft made a similar announcement."
+    publishedDateTime: 2023-03-16T20:41:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5b1c5979c558457dddab43f541689748a20bbc60/2023/03/16/9ef2e04c-36d3-4796-8c24-172aa213ee95/screenshot-2023-03-16-at-3-27-42-pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI-run Microsoft 365 Copilot is supposed to make people work smarter and not harder"
+    excerpt: "Our efforts are guided by our AI principles and Responsible AI Standard and build on decades of research on grounding and privacy-preserving machine learning. Microsoft’s work on AI is reviewed for potential harms and mitigations by a multidisciplinary ..."
+    publishedDateTime: 2023-03-16T15:32:00Z
+    webUrl: "https://www.neowin.net/news/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    ampWebUrl: "https://www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678979472_microsoft-365-copilot_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Microsoft Stock Rallies As Next Generation ChatGPT-4 Is Released"
+    excerpt: "Just as the conversation around ChatGPT had begun to die down, the next generation of the natural language processing software, GPT4, has been released. It offers up improvements in scope and capabilities of the model, with proponents believing it to be ..."
+    publishedDateTime: 2023-03-16T15:10:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413310fff60066fd87fbf2f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft laid off an AI ethics team"
+    excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
+    publishedDateTime: 2023-03-16T23:36:00Z
+    webUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 91
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/microsoft-openai-chatgpt.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
+    excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
+    publishedDateTime: 2023-03-16T15:15:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 90
+    images:
+      - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "How to watch the Microsoft 365 AI event"
+    excerpt: "Microsoft is holding a special “future of work with AI” event today, where the company says it’ll be “reinventing productivity with AI.” Microsoft is expected to demonstrate how its ChatGPT-like AI will work in Microsoft 365 and Office apps like Teams,"
+    publishedDateTime: 2023-03-16T16:00:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642788/how-to-watch-microsoft-365-ai-event"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
+    excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
+    publishedDateTime: 2023-03-16T20:13:00Z
+    webUrl: "https://www.theverge.com/2023/3/16/23642832/microsoft-virtual-ai-assistant-business-chat-microsoft-365"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/rLC0dOkozsbBDSAnlJoUMRqkcAM=/0x0:1115x609/1200x628/filters:focal(558x305:559x306)/cdn.vox-cdn.com/uploads/chorus_asset/file/24513069/business_chat_teams.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft unveils AI for its office suite in increased competition with Google"
+    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
+    publishedDateTime: 2023-03-16T15:48:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-unveils-ai-its-office-suite-increased-competition-with-google-2023-03-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
+    images:
+      - url: "https://www.reuters.com/resizer/_NQbA-VH5pj-ejAXzvVqYEdNpmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IP3JX4KXTRPF5KXX6KBRGYQUB4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft: 365 Copilot chatbot is the AI-based future of work"
+    excerpt: "Through the use of a chatbot interface and natural language processing, users can ask questions of Copilot and receive human-like responses, summarize online chats, and generate business products. Copilot in Word, for example, can jump-start the creative ..."
+    publishedDateTime: 2023-03-16T19:54:00Z
+    webUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
     quality: 76
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-5.png"
-        width: 401
-        height: 325
+      - url: "https://images.idgesg.net/images/article/2023/03/microsoft-screenshot-2-100938628-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 675
         isCached: true
   - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
@@ -66,22 +220,68 @@ related:
         width: 868
         height: 489
         isCached: true
-  - title: "I Started In FemTech Before The Term Was Coined. Now, With ChatGPT And Other AI Tools, Here’s How We Can Advance Women’s Health"
-    excerpt: "The AI I used to handle would read a lot of data and answer a question with yes or no, or something in between This response was something completely different."
-    publishedDateTime: 2023-03-15T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/"
-    ampWebUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
+  - title: "Microsoft’s real AI battle against Google begins with promise of new superpowers for work"
+    excerpt: "“Other times it will be usefully wrong, giving you an idea that’s not perfect, but still gives you a head start.” Microsoft already has some significant experience in human-AI collaboration. Existing integrations of OpenAI technology in Microsoft ..."
+    publishedDateTime: 2023-03-16T17:31:00Z
+    webUrl: "https://www.geekwire.com/2023/microsofts-real-ai-battle-against-google-begins-with-promise-of-new-superpowers-for-work/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64118cecf39c7d25add501ee/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/03/satya-ai-announcement-2a.jpg"
+        width: 978
+        height: 628
         isCached: true
+  - title: "Microsoft adds AI tools to office apps like Outlook, Word"
+    excerpt: "Microsoft is infusing artificial intelligence tools into its suite of office software, including Word, Excel and Outlook emails"
+    publishedDateTime: 2023-03-16T16:19:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_5a399068c29272b6841047535d9fd1c2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
+    excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
+    publishedDateTime: 2023-03-16T13:25:00Z
+    webUrl: "https://www.techradar.com/news/gpt-4s-smash-success-could-hamper-ai-usage-for-microsofts-b2b-customers"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 65
+  - title: "Microsoft begins making Bing Chat AI searches available to everyone"
+    excerpt: "It appears that Microsoft has opened up the new ChatGPT-powered Bing search engine to nearly everyone who wants to use it.."
+    publishedDateTime: 2023-03-16T18:02:00Z
+    webUrl: "https://www.engadget.com/microsoft-begins-making-bing-chat-ai-searches-available-to-everyone-102506412.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 64
   - title: "ChatGPT broke the EU plan to regulate AI"
     excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
     publishedDateTime: 2023-03-16T17:27:00Z
@@ -97,54 +297,6 @@ related:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
-    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
-    publishedDateTime: 2023-03-16T21:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
-    excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."
-    publishedDateTime: 2023-03-18T14:18:00Z
-    webUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/02/how-to-use-chatgpt-1200x691.png"
-        width: 1200
-        height: 691
-        isCached: true
-  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
-    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
-    publishedDateTime: 2023-03-19T03:44:00Z
-    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "What can ChatGPT maker's new AI model GPT-4 do?"
     excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
@@ -162,211 +314,126 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GPT-4 Is Here: What Can ChatGPT Maker's New AI Model Do?"
-    excerpt: "The new system can figure out tax deductions and answer questions like a Shakespearean pirate but is “still not fully reliable,\" OpenAI said."
-    publishedDateTime: 2023-03-15T22:02:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/what-can-chatgpt-makers-new-ai-model-gpt-4-do/3523664/?amp=1"
+  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
+    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
+    publishedDateTime: 2023-03-16T16:23:00Z
+    webUrl: "https://gazette.com/news/us-world/microsoft-unveils-ai-office-copilot-in-fast-moving-race-with-google/article_0d224b79-2648-5213-87f4-8b9d273f8c5b.html"
     type: article
     provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 57
-    images:
-      - url: "https://media.nbcphiladelphia.com/2023/02/107188769-1675437173333-gettyimages-1246747216-porzycki-chatgpta230202_npsLK.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
-    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
-    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
-    publishedDateTime: 2023-03-17T23:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: The Gazette
+      domain: gazette.com
     quality: 54
     images:
-      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        width: 2250
-        height: 1500
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/4c/e4cf0464-6667-5366-b44c-f1406bfd9bf2/6413342fac157.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Apple may update Siri as it struggles with ChatGPT"
-    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
-    publishedDateTime: 2023-03-17T16:30:00Z
-    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+  - title: "Microsoft adds AI tools to Office apps like Outlook, Word"
+    excerpt: "- In this July 3, 2014,  the Microsoft Corp. logo is displayed outside the Microsoft Visitor Center in Redmond, Wash. Microsoft is infusing generative AI tools into its Office software, including Word,"
+    publishedDateTime: 2023-03-17T00:22:00Z
+    webUrl: "https://www.chron.com/business/article/microsoft-adds-ai-tools-to-office-apps-like-17843927.php"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
     images:
-      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
-        width: 580
-        height: 363
+      - url: "https://s.hdnux.com/photos/01/31/74/25/23577944/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Can ChatGPT Get Bored?"
-    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
-    publishedDateTime: 2023-03-16T20:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
+  - title: "Microsoft pimps Office with AI"
+    excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
+    publishedDateTime: 2023-03-17T10:16:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56546-microsoft-pimps-office-with-ai"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
-        width: 1528
-        height: 800
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4bf657d3d4c3bd5f6177382bcc993a64_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
-    excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
-    publishedDateTime: 2023-03-17T01:03:00Z
-    webUrl: "https://www.wbir.com/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
+  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
+    excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
+    publishedDateTime: 2023-03-17T15:59:00Z
+    webUrl: "https://www.shine.cn/biz/tech/2303177395/"
     type: article
     provider:
-      name: 10 News
-      domain: wbir.com
+      name: SHINE
+      domain: shine.cn
+    quality: 54
+    images:
+      - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
+    excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
+    publishedDateTime: 2023-03-16T20:37:00Z
+    webUrl: "https://futurism.com/the-byte/microsoft-copilot-ai-office"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/microsoft-copilot-ai-office.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Reportedly Gets Rid of AI Ethics Team"
+    excerpt: "The company said ethics and society team's performance was \"trailblazing.” During the past six years the company prioritized increasing the number of employees in its Office of Responsible AI, which is still functioning. Microsoft’s has two other ..."
+    publishedDateTime: 2023-03-16T03:24:00Z
+    webUrl: "https://www.thestreet.com/technology/microsoft-reportedly-gets-rid-of-ai-ethics-team"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 51
+  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
+    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
+    publishedDateTime: 2023-03-18T15:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 39
     images:
-      - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
+        width: 1920
+        height: 2400
         isCached: true
-  - title: "Apple Engineers Reportedly Working on ChatGPT-Like AI Despite Siri Design Flaws"
-    excerpt: "Apple is testing generative AI concepts that could one day be destined for Siri, despite fundamental issues with the way the virtual assistant"
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/"
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
+    excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
+    publishedDateTime: 2023-03-15T13:40:00Z
+    webUrl: "https://tribune.com.pk/story/2406233/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-1"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 33
-    images:
-      - url: "https://images.macrumors.com/t/vCqe7lzREajx3bi2wbyS8kBXh5I=/1600x/article-new/2021/10/siri-phil-schiller.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
-    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
-    publishedDateTime: 2023-03-17T02:55:00Z
-    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 34
+  - title: "Microsoft Adds AI Assistant to Its Edge Browser"
+    excerpt: "Bing's AI Copilot can now write emails and blog posts for you. Credit: Josh Norem You can start using the service with those questions out of the way. Its functionality is divided into three clickable links at the top of the sidebar: Chat, Compose ..."
+    publishedDateTime: 2023-03-15T18:50:00Z
+    webUrl: "https://www.extremetech.com/computing/microsoft-adds-ai-assistant-to-its-edge-browser"
     type: article
     provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 29
-  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
-    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
-    publishedDateTime: 2023-03-16T12:17:00Z
-    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Microsoft to add AI co-pilot to its Office software suite"
+    excerpt: "Microsoft has announced that its suite of productivity tools is being enhanced by artificial intelligence software, as it seeks to get ahead in a race against tech giants such as Google, Baidu and Adobe to commercialise AI technology."
+    publishedDateTime: 2023-03-16T17:56:00Z
+    webUrl: "https://www.ft.com/content/c74c7e48-d439-40d1-a42a-2cd9f1560edb"
     type: article
     provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
-        width: 678
-        height: 452
-        isCached: true
-  - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
-    excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
-    publishedDateTime: 2023-03-18T11:02:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/18/gpt4-review/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DP7KNYOTBRCFNPTLXMFQVRKG4M.png&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "ChatGPT has some thoughts about Aspen"
-    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
-    publishedDateTime: 2023-03-18T01:27:00Z
-    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
-    type: article
-    provider:
-      name: The Aspen Times
-      domain: aspentimes.com
-    quality: 24
-    images:
-      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
-        width: 612
-        height: 408
-        isCached: true
-  - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
-    excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"
-    publishedDateTime: 2023-03-19T19:30:00Z
-    webUrl: "https://www.salon.com/2023/03/19/chatgpt-isnt-sentient-could-we-build-a-chatbot-that-is/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/artificial-intelligence-chatbot-sentient-1370249712.jpg"
-        width: 1200
-        height: 810
-        isCached: true
-  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
-    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
-    publishedDateTime: 2023-03-16T12:36:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 23
-  - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
-    excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
-    publishedDateTime: 2023-03-15T20:56:00Z
-    webUrl: "https://medcitynews.com/2023/03/what-role-could-chatgpt-have-in-clinical-trials-a-bigger-one-than-you-might-think/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 18
-    images:
-      - url: "https://medcitynews.com/uploads/2022/09/GettyImages-1026973286.jpg"
-        width: 591
-        height: 591
-        isCached: true
-  - title: "Cameron Smith: ChatGPT promises not to bring about Judgment Day"
-    excerpt: "This is the unedited exchange (ChatGPT responses in bold): My purpose is to assist and provide information to users through natural language processing and machine learning algorithms. I can help with various tasks such as answering questions, generating ..."
-    publishedDateTime: 2023-03-15T18:22:00Z
-    webUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 4
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "qY9OeErVRVCUq/u2oohL8YigpgFzViX4FyqdzzXmuCLXpHQDs76v/ytGBQOtDVa3KVffWbpinRZM49vgm/zjnqUM3q5IOE8An5c1GU/9K/W/BB798zaPCiIzwJOwmFHQU5bSDqvOlAo870Nn0NjUNHp8JYsKO+2hM1n4Xp08DeW3+4r+ddsFJIJIUZHHNZVwzZu4/TJfSK9Zt2l1PNkR9sAGWnzxyi24ogpQJtSmeLxINVsYd8r41A6oMFliPh8gnK4SLqGnk2xoAG/bqOMY3WdWIJ4u0HELZ2mBLhmVIMdtJGNIdxIGZW7Zt+7uBNQRlQ0g76uh2fEF2ZGMnpS5Y0RxMVXayOfW+dD9z4m93upPt9iW3oKLg0kdcPYQN0r2UWiBCqIx/H54UkpIgy+f2zCmea6wQYzeCmctBH4Fr+u90gdQ1K2aD7rJKTn2FJOJX8yWK7rJ5Dso48QK4ZAMcZzAGZAdKxjRVMDcRJdVortL1ChGNU2YXPcsF2ZnNJ7y9JhO9/oEV0s+5pg3St5OZA==;ZW27joPFxLp/MQsQL4MGSA=="
 ---
