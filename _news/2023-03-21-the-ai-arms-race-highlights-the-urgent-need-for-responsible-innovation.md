@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
@@ -74,6 +75,6 @@ related:
         height: 225
         isCached: true
 
-secured: "CuaxIdLMpbV5EEbqCQJUKbgY3AujccE9+ddTF6J3SkErbug++NoB7CyXpEnadJ1GVtP9CnsyThnrhwzhgQBCOL/iuhriqq3WuMYCd3heRCzJwrmglkYW0QtBpxaplU9qRNrZl8jmekkUXkB+yOUt6+kSOGTJypWvgbhuYkot8vXthDmbPifaj+Ui19RVcexLIho6uDUbnvnYKBP/e/+FS4ZBaiyLYqjrw/PbTJ42ZSNSNbSIXVnhhPDD8FQat7Hibrum4PJUs2b1qKIzhZISvRGmVPrrRfU54vFSmlJ2E6/LfYW6aa1UVYczsUH3YE2CXMcM3YB6qMhGJSV+W5kzH/GjwHu3VVm7IQukOvDfRt4=;uRcig9aWZF/reJRMPVeq2w=="
+secured: "rKZUrWwdKEjV2kEczQkZwxC0X+fEXjEKzObUzkudsROVd6Opy16oMdtwqyc7tDGSQy2xQibT7inwPgrLBmIY43nVw79sSe9GSZ2Ljl0pYsj4YlMkRMZ5y5UisuwskWrhjFxkjugczmFdJXHwEGfWwZVi/F0SctST+QakWNjJOaLMjEE8Y8iRJXUbapmyDENa9RBuSVl36Iuhm0W7q94KlozKXg4U5w+zGVf/Uj8idBHN2LRTJSfpkjf+CAmPzl3CjBxEs5eYqLmc0obCwT/vxkRgQPa91tnUy9DVczSk9DFoTlczuAbS7mslI2Y2y9AwW/q/n0GOfj/dciLyMjGCDuwSApMHJXPUNo4ZMXWqDdx6WS31m08nJnZbN05EZ96tZmCm1Xm7xWXbkOAREDk6loKUm8ugnosE/w2WnYPfGL2H7hqW3Uns40vYUB2fo+sLeyuMvlYnFw20DOCpxoNfDqKuuj8i9e8I/TTfi7cz+E9OPBesdpf30EuwjNAMyr3zlRynwUJWgUHyb4TI9tZ/IQ==;Vdk+9DodLri5MzmpwPODwA=="
 ---
 

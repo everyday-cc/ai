@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/Generative-AI-Materials.png?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 663
     isCached: true
 
-secured: "Vc3b4jlTLyBrCMPfZoHEADWYwHaAGr9qRhP/zTWpZEjhbasU+j/fIV7qTLfZQnmIlKgg4QfoWl76kDIgjv5+kpfO0Mz4E827/X3+UL7UczvXqnWwfsDsb6utuhFJZweyJ/k01IYqwSd1lq3TIKuEq7iulGhdLntjNlVDC2QRT+K8n1PtjlnrkdG/uI7+Px4wmBxto22xuKRgQKj+WMM18iZPOo8ATPtG9SAQ7wZwhcj/dSNf5zUX0epuzP52r8ZxruawVuWj3Fot4ceif41GH2Y0lBpfxYwXNissyM3cDtR6XYkbIRjhKmFdYfe2eByUQP3wHbZw/tlDygzCtpUT4XL3wIoLx5Xs11Ja4BLMn84=;VeFDS/+QOjxtZP9IzNShnQ=="
+secured: "Qal2d5dqDuz42FqLA6ZjmDLieOQsgI3id5cVAfSw5QrCE7Q4Hld0y2m4FO4fe9KH/iFIwt3AlDAACUZUDhuApaCRLqp1Mu8df8Cq3Mrn8us/uCujZF4WoLGfdl4bHIGOj9684FJhcgPLMAFSlZU7kIRVSL3AZc3/5MOWfpKj3i76U8vZzVk6RB7oBb4EbnvPulIzILuePUp+jw+6IBD4OGG27gbu05RUyB3lDdZ0dmVqvu01Pn1sgxwHfpjHlgPeFQRh+Y/ocg/AyhAIBB7bmzbJiTcCuuMm3oS9G2k+UzFEpJTlkiXp6/jK0hKzooLc7ISL2CCOMUad5C99eGjQDI5zXM84lERhuY1fziK9gQg7zntRjs7fuNRpX1WZLJLgQJ0ivUXBrehBWjsq74zuRhyWmL49TK2NU98bf+T2xzEOvIGULQh8nc3jezu4C1jjd9YxFW9datm52WgD44fiYgnSBAhc7jFW/D36TgLSGxABCR+3EEz9e8VEmJSWV4f+6dZ2u0yecbIR2Nxl4wBoHA==;3gVAdISlELUeVAoVB8clcg=="
 ---
 

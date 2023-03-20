@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all"
