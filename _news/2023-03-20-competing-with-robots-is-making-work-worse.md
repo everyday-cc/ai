@@ -2,13 +2,10 @@
 category: news
 title: "Competing With Robots Is Making Work Worse"
 excerpt: "It’s said that as work becomes increasingly automated thanks to artificial intelligence, our special human traits — empathy and humor, creativity and kindness — will become only more valuable. I wonder. What we’ve seen so far doesn’t leave me ..."
-publishedDateTime: 2023-03-20T10:33:00Z
+publishedDateTime: 2023-03-20T11:03:00Z
 originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-20/competing-with-ai-in-the-workplace-is-fueling-incivility-at-work"
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-20/competing-with-ai-in-the-workplace-is-fueling-incivility-at-work"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: Bloomberg L.P.
@@ -22,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1eTOs_R_wmY/v1/1200x900.png"
-    width: 1200
-    height: 900
-    isCached: true
-
-secured: "lvUhSxUI9BujeRPf0DR2I+6m6z12G98jM6LtFJDjBQdzel3IZv2+h1+YjQeRQiaiDzpT1J1fcOxVRTjORpCUErIE8onhuFDnnQL+3eoDnf4bm7leCHphF6J8iaQ7MIq2iKzEEwgUAOoKA14U3S1/xIQsssBtogoVvGYNDWHy/Pcj56XwQUrslGpRKD4u7ZXlZX/0VZAOCu3x3c/ejG1RjkNJQAZ7ybdQXpbx4ANpUfpUc/oDNWIVbVQRcjHGkxFNNovbtHPe7SHC3DgSn6jKxCLZC0ocJM0HXstWim4RLyvUbEnYajwbiCe31zU3vNf6OJKLDKgG9gJr1oGALWiJ+IBmxJZbesxRfHMQcYzPn7I=;U/BNh9DjB1tEdnWjbVYJWQ=="
+secured: "3m4ceL7fSmxrQaPg6u1uURUh/CPpLfgC7yKbUfNtNje+TQEud+xaiRiOeXL5LC2Binn7lAxkg9TUemHpwHr0czW0UkGl8OTo+yw6is3RJTTVTE292V4XumApQSW8G7jj81XXPgabdthId6Ot9uEqRCzMzQpMOsEUyQPQ5hahs7mxt4FHxW9r7o5l4gPFDgJBpxsUCFX4xP4M6uLRt4Sup90yEOK5bNcxItT23vQGCK+KU9CPD7MkA+5Geg11S4OGgcAEEMSFW00LEoul3Go6OexOY3p/laohLVPCf8AsiT2wKCctVjnCmP8KPMNRa+9Rj/1gRCCk/L0cO+zCCw/E61FNg/0kv2csfv6B3egNmb6CjZ5NeT7dLOcSoSVTpq+YvEg1bynoDOUwhTPcEBNmbJ9wJuOdWYFtEkacCB1c4aqgka7/LqLqP6qqwGYtCJsV8OudTtwAFvKVV1yjmqVE6n4W93G1/4hwHuQ2yNfuml4iJbjXFA3JcXqm0TvnRFwrBMGCCro/pPmujv5V4znLAg==;ONhOlEke+wrXE5yTOxuPGw=="
 ---
 
