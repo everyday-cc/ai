@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
-    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
-    publishedDateTime: 2023-03-15T07:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Will ChatGPT& AI replace the need for formal education?"
     excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
     publishedDateTime: 2023-03-17T15:13:00Z

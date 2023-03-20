@@ -41,16 +41,19 @@ related:
         height: 800
         isCached: true
   - title: "AI startup Adept raises $350 mln in fresh funding"
-    excerpt: "Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds enterprise applications amid the frenzy triggered by rival OpenAI’s ChatGPT."
-    publishedDateTime: 2023-03-16T04:57:00Z
-    webUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2"
-    ampWebUrl: "https://financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/ai-startup-adept-raises-350-mln-in-fresh-funding-2/wcm/7b355a85-da31-4e85-978d-713c7b956b2e/amp/"
+    excerpt: "March 14 (Reuters) - Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds ..."
+    publishedDateTime: 2023-03-16T04:53:00Z
+    webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 37
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "RJLse9/bNuzxhMj6m39OXx4feEHGj2f1JYeUXZx1Y8I2zaxd9wlquPJpFhEUsQlZmBdIpe/dIJHzIxU7N9K1qANARUvXrt+DnqT7rpxoZZAcpi72nJHS1pE7v5nIdiEBoX73Vjwv/MCs+201GIIJrWQuwk4XiRz9uaNz0QH03qaejRsMfkR/wJszu74Z3ygsrRptX9ToE9URb/cZ9otYTnQXpPlHTSzFPPW+k6OC6hD+ThAmE0Z6eHwqJlCFkAiQ3MAtQ8yfLOKnpODWDC5sM7lGl2uGVIO/mpCd5yhhWfPuvc4b97K8BBw88vvRrr2wvenzFiv34YvdxamKA6Rx5HWo/jsuiTVjzD0b825Im4JN/1eoFpnHzA7fyFt3Q61gAC0SPyfvOWEW+M9jPTa6QAtoPkxv5ooUraWLGtMKme1/5PeK64yx19GqPe6+uaa8bWMmYE91Z1H3diFNFCuJbEXaBl6pnZNMvyR0PtD/dM1U4Lxan7XauzbrQ7lCtyqVvDsGu3SFqUIUvAqPxQsqew==;GXWwmUFsOTUCAkynrM65ag=="
 ---

@@ -64,6 +64,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"
+    publishedDateTime: 2023-03-20T01:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-etfs-to-buy-for-long-term-growth-1032177583"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "NmZvJbbuiYOg8ZuFTN4Du3XmCAWpuynxsCmRq4KGV05v9MCDZzTYEv7SRPFAOz/rHr0Bb9C2qEjg8J30Frl3Zd2CS0sCw5OsxeiMpWxVP56G2fV2Yh/bPZDenhyyccj5hB+xSqIM8dcI6QEZ4BVGuVsCNCHpXgTZ9vLdwVXR7sTPiPR2zJBBjUYbKtanIA53akJwcPaiLZ3pZVaIRTPIVdSfDnJvxtuMlM8N6Q38n+5aWVrNKCX9sdqZ80w4ofOBFScuJGSUXWizdGM4nQTugUk0JtbFypMQXJGBXfeWwkwBDXJkHQ3fho71wwDeYB8c2vVYib1PdgHJsFZu8gTfQCg8U8A7pkTZo+9Jh5clZBo=;7mBMcsRqVagvGJbXXDUNpg=="
 ---

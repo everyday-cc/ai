@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-share-segmentation-and-forecast-2023-2029-2023-03-15"
 type: article
 quality: 78
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "regional conflicts and carbon neutrality provide crucial information for us to take a deep dive into the Deep Learning Software market. For the competitive landscape, the report also introduces players in the industry from the perspective of the market ..."
     publishedDateTime: 2023-03-15T22:00:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-latest-trend-and-future-scope-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future Growth of the Deep Learning Software Market Size 2023-2029"
+    excerpt: "Deep Learning Software Market 2023 with 107 Pages Report and enhance with extents shares into sub-counties are covered"
+    publishedDateTime: 2023-03-17T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-deep-learning-software-market-size-2023-2029-2023-03-16"
     type: article
     provider:
       name: MarketWatch

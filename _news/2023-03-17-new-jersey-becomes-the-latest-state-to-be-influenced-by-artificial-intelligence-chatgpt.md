@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
-    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
-    publishedDateTime: 2023-03-15T07:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "What You Need To Know About GPT-4 The Just Released Successor To Generative AI ChatGPT, Plus AI Ethics And AI Law Considerations"
     excerpt: "The considered successor to ChatGPT is the recently released GPT-4, both are made by AI maker OpenAI. Here is the inside scoop on what GPT-4 does and doesn't do, along with key AI Ethics and AI Law considerations wrapped into the informative and engaging discussion."
     publishedDateTime: 2023-03-15T10:01:00Z

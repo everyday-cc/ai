@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
+    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
+    publishedDateTime: 2023-03-15T18:28:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 91
+    images:
+      - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI experiment tricks human into doing robot’s bidding: OpenAI report"
     excerpt: "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ..."
     publishedDateTime: 2023-03-15T17:20:00Z
@@ -81,15 +97,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
-  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
-    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
-    publishedDateTime: 2023-03-15T18:28:00Z
-    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
     quality: 49
   - title: "OpenAI unveils GPT-4, its most advanced AI language model"
     excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."

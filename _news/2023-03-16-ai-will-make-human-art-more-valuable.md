@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/art-artificial-intelligence-history/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/art-artificial-intelligence-history/amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "Will artificial intelligence change what it means to be human?"
-    excerpt: "There is today the suspicion coming from both Marxists and conservatives alike that the imminent transformation of the labour process, its complete automation through robotics and artificial intelligence (AI),"
-    publishedDateTime: 2023-03-15T08:42:00Z
-    webUrl: "https://mg.co.za/opinion/2023-03-15-will-artificial-intelligence-change-what-it-means-to-be-human/"
-    ampWebUrl: "https://mg.co.za/opinion/2023-03-15-will-artificial-intelligence-change-what-it-means-to-be-human/?amp"
-    cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/opinion/2023-03-15-will-artificial-intelligence-change-what-it-means-to-be-human/?amp"
-    type: article
-    provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 59
-    images:
-      - url: "https://mg.co.za/wp-content/uploads/2023/03/nehawu5-.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "C7evPCPnEJcO9ir2LThNp5qWvpcOQLe4X3wKZjzV2UPo1BtdZWykAKlSOgD3AsAYqYZ22YdFbthBjnH1eZvOZoutrTR2OgT+qb7VzL011NyVwfK7k8uEMSGKjsq3LJ7LQGpjFSc5123mtRxxqlwvlZAs9azisVPcHLleupJGVJiCMq+WYFToKYWRIhgSGTsfxKrOpZUNB06Dy/XjcQoT1wWB1Vwj/WSqETBYb1bAfUtLo+HIxXQeAXx/1YTKg6QttS0G8rNsQyqVk+h0mKlrWTLadeaENdNc5t0vwEGdCM5AOEsuABTD8CUvbkpKwFDyWL/qOl8xOrQsRImmU2dt7kGfHINj/uPVgVW+2YmwrfGDyY6XAnyW4Yg3JBW95sc95uCQyHg93voYmXC3LCkLaTj/X9MUG/x0J2Xwcpgoopvr1ekBUteDjBsY1FGJPMotVM7MqzJyn8q5jnt4IzvrNfLHSMUiXquRuuEhXLK95sE+ahV/vJjz+Wm4wOpVQnZmbqn6VQ+wic9JkJvckAtD0Q==;K1Uo91an+KtmxwpWXW3rfA=="
 ---

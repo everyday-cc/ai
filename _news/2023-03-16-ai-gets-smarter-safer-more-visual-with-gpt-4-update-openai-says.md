@@ -5,8 +5,10 @@ excerpt: "Azure now can use Nvidia's new H100 processors, which include specific
 publishedDateTime: 2023-03-15T18:28:00Z
 originalUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
 webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
 type: article
-quality: 49
+quality: 91
 heat: -1
 published: false
 
@@ -21,6 +23,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”"
@@ -123,6 +132,6 @@ related:
         height: 342
         isCached: true
 
-secured: "E6w5C9HYxS4Pw0MkGgW024O+nVkdpkGRQ/iVfzxroJNd4zdiSAVJ2sh7LQk1FJKA0sITdfICH2Q9o0Fad66008epeuEkCgcV+5G6FlQieZBmPqywkyvm9j02NZKAHNlQ/PD45YekQwUgAJbVPm8KEQ/Tgje9EdJ5zLj48ZgLYIMr+I4Yq7hHyzUc9U0CgbYYsvXMdtsH24oFRC5kVnGMYfN8mqbAXqH3cJ8X4WVNCX/AMvPF75H8TGMtlLa0qnWEyhoQIrR/qBcZbe2W/eLH0Ynvo2hqQxsh6NMIMJUWpsiyPdTsVQ1NMGH/ac43QxgGfs/XoDcv9orv9QwgzaZ8ruaLKPVSkXZO5PSF/MmR2h9KHdsgmJ/xMTJFf/3UYWmcxx0AqqWzZLIMH0NOrCOxmvl/DUuRThR4mFe2pCzSN/SPTIFOO5Jd5P+JKMpP/wc3nxBQ0GwEuD4S8bQS/nlgNOb86my7ikocyXNLmC2NeRx/+fZftFOb0COtpw3BU5ZqlAPwUYBKHx5O4T3BR0DITQ==;G2oaBuHoifyPgR5Th1Mu9A=="
+secured: "7lB2tL4O7dWyR5WEubLG5mossFfjqCJMqHF2R16gWkByWo4wcF7BClLD6MyaF7ieeW3jBdpfhAw87rPTJPz7B212cZFba6U7BdEz0CHbkwx4UUXNxcT6CJ6nkGeR/D4pjwxaJm9yACIR0t3R5C+UbgC9bN8Z3e1Iu9BCjge1klM9cuePf+mmjj6I0lSvvxvxt3sMyfDRDfY7xso2w5bBFnRJjPIX+EfavoMQZsyTaJqe5xDKZ4MQ3SIMQ8RqskLZwZPs1LFcb3AWFdkdHaqjiwIXmZ4wWB6eS0PjikRG0AVv4nDTvdBYv7+B9U39gdFVUydPNsXscUgNir/Y6k+auA60QMtn/8lCIexX+W37Mgs=;QRvxeu5GbOaPi0E+wwndtQ=="
 ---
 

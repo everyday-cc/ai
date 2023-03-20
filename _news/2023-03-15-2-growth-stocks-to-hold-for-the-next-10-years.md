@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"
+    publishedDateTime: 2023-03-20T01:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-etfs-to-buy-for-long-term-growth-1032177583"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
     excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
     publishedDateTime: 2023-03-16T13:18:00Z

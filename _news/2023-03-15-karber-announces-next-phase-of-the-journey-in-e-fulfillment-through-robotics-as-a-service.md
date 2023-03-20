@@ -1,12 +1,12 @@
 ---
 category: news
 title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
-excerpt: "HAMBURG, Germany, March 15, 2023 /PRNewswire/ -- Ever-increasing consumer demand and labor challenges are top of mind ... warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service ..."
-publishedDateTime: 2023-03-15T13:37:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire"
+excerpt: "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service partnerships to combine the technology,"
+publishedDateTime: 2023-03-15T15:55:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312672&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312672&cat=PR News Wire"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2032909/PR_K_rber_RaaS.jpg"
+    width: 400
+    height: 276
+    isCached: true
 
 related:
   - title: "Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
@@ -75,6 +81,6 @@ related:
       domain: webindia123.com
     quality: 24
 
-secured: "lt3RAZay0JgTbKnkh3ssRO1YXZz+4ccvqybQNKvo1UPD6LrCyLLOTwHXbqQ8MdPAuMaZfEaNuNGCmrOCV2edI0ZVgpMTUEZnS7Nw1wRb3VQXw3pQ5r5VkkQ8PdWDkbtrDkjVLHNwUH9z/JhE7eYH7qdP/fxM1B4IqY+/Eeg6ItyTpRoH+6FhVc8tl9/JH5W3nAmvMF8BZUpcJU6Pu6S0Sjs/AGpOzhZ6F5WlS301o4JSRWXSryE95+q0FQOtoAw39vOO9Lb01vqqzWj/xlBZ4ih/L6ikS/f8jvinEnjkECGSg+PmhuRijC+48J+Sgh153Arsx0XnqaQaLjCIaWYS4o3DwMUfGPXuGOx2tgG8xQEHn0bP3tuEelLM2IBKXLFa6k/l0bVyT63Tzf4iOWiGz3fWcxOM1beyxjsOpxEgVRv9kLe+UFCM2iUyOjn3QNnOxDGiwro2Qn5yne2AHjRERBpShaeAe4irrZ8ChxAd+hH3U3gw9bV+1pZ4LX2nP4PnhiKpU9docq3tBZbxqnqL9g==;/BHbcbNNhijDElWMnW/sew=="
+secured: "X0f0dkNAO0Vovw4NfFXdHFEqm1gJZvsD6bTGSJWN3DtmVGgwLNhfnCAJSJyyTYCsRPsJB2rsbLxGXeQPUutRYsKbrawUN7YyCUgOBqjuA11QxVb2BWCrRE95WLDKmdZErbA6OkQJLKd2EGHrtQt7M8iI8E/YlVqN/ZnUwacJsjRtmHYlWJ4HsKqXhy++ecaotFac2MJi+2Qe1keHtVPVHaG0zOOZE6p830qxS84y7ijsK8W2CHA5tXFYQobtEYX7akovlJX6bY0XKfvwncyP3pr5NgwIw1vtVyN3BVdDQSCCoA3LfS0JXzloHJEt441tY3oOv1AGNBHgg+hGtVnHyaluS1ZFTZqsdZzQlTpW3I0=;2ZLZFxUV1yNvmX1FE8k3+w=="
 ---
 
