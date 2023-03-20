@@ -165,6 +165,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Amazon Sued Over Facial Recognition Technology"
+    excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
+    publishedDateTime: 2023-03-17T15:41:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1233.641480a35d683.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stores are using facial recognition to help stop repeat shoplifters"
     excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
     publishedDateTime: 2023-03-17T22:04:00Z
@@ -176,15 +190,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
-  - title: "Amazon Sued Over Facial Recognition Technology"
-    excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
-    publishedDateTime: 2023-03-17T15:41:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 19
 
 secured: "UUHJQZ4Lz7JC5ab9AYx85Bg339e51UHZ2z0iJyZjMHnzJd6R5C30zMBAze/bgZXhjwCxShNJ7r7ivGB2bIBQgohSt8p6uysqJFr8ws2Y/oMZBeouW0ULC/NpYvQRoWgHJOZ/07JnvzN6ZFfY4ylTTXPwfCr3DYt3pNEDxEu1ZYa4h7SDpKiLDwWvklMUhT8WXqwuHjqI8XJRVUVQ4DVhaQ/U+zP72JnyOH38pAtEtF4swNG4mw27fXivcNhdAUP/4/n13jrBXBDY+0q7JJdIryPrKZpVjwqRcdm2KzNsGMPJj0VlVsAfhTjUiUzT+uFizkGXSdx/7rH2U5LGqZZr0pGdxtNSbyKfeWeqKrN1hhv1pEB9ZJqlbpmfBSt12EU1/21wtDsVBeOXLwyFYMlysyyGyzPI35kZFgAibaBMHXJUr5QWVTuAgy493/cqJEoaZj1lhSkPfHTmanGTDKzoYpyxSE7rssmmFRbOwkP3JTlbryRFLN5g9fdQhW05YRha+DyfZfWoxiIdMiLbBM195A==;AFoVzDnRpmGhOZSxoF5Jsg=="
 ---

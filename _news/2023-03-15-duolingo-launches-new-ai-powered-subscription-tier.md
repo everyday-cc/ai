@@ -36,22 +36,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Gmail: Google announces that an AI will soon write your emails"
-    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 61
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8BWkhn1aC2WZMT1rqQb6gwq50yCpzNUJFHadaVKb4v79P6XMm6hBG0gVVo7JqFiLpd5pytdUW23aiqVpZ7hDfJotAqHjTdxKV3HRcu4NYnJiBqncVBTFVbAFIPovhXi8yArFGGGV9Z0iqvcWUYQLwTxlDOdaydNmLW/N5uOp3lSyq3bZRVq/IHUOXne3tqhkd5Ee7z2T9NqOoMMgU/h3iJ/JR5Qk+Y2+MC+P1uB2OW2N6SzfQpImTfHTabnmiy268NRkKMuvLX2reb8Z2ejAJdDD2BzhNFR5a43xGXF6QgUt9j8Qhh0W3ZZxK5oq4yw0zsr5vRAXBMPXz1Wvvc7+VbhaYV9ybyejilPxe95KEUTobK0s5pxachFIfS7wlralTz1xValGk5ceJA1l1ou5zl2ja0bqALEzRaRoazjK2kcPg7uBb9rQvR0pvwMQNsm2KObtb0EVIy3OxZpW2XVhvJuLJYzWqyBTXLAMk8D/cy+EX9mk44cLv5cseIBxYNOKF7gftVr2DKcqdDrI6brAHA==;hsgyduMJPQHz1CFQDZbNyw=="
 ---

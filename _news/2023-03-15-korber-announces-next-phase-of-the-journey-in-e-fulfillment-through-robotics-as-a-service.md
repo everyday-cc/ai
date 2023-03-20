@@ -46,7 +46,7 @@ related:
   - title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
     excerpt: "Adding to a depth and breadth of supply chain technologies spanning warehouse management, warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service partnerships to combine the technology,"
     publishedDateTime: 2023-03-15T15:55:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312672&cat=PR News Wire"
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312317&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123

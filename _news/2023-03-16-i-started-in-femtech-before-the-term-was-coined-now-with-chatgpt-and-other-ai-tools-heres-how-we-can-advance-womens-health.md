@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "What You Need To Know About GPT-4 The Just Released Successor To Generative AI ChatGPT, Plus AI Ethics And AI Law Considerations"
-    excerpt: "The considered successor to ChatGPT is the recently released GPT-4, both are made by AI maker OpenAI. Here is the inside scoop on what GPT-4 does and doesn't do, along with key AI Ethics and AI Law considerations wrapped into the informative and engaging discussion."
-    publishedDateTime: 2023-03-15T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64117de68b093e4f8128450d/0x0.jpg?format=jpg&crop=1464,824,x0,y73,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will ChatGPT& AI replace the need for formal education?"
     excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
     publishedDateTime: 2023-03-17T15:13:00Z

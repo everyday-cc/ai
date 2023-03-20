@@ -179,7 +179,12 @@ related:
     provider:
       name: Manufacturing
       domain: manufacturing.net
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1233.641480a35d683.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UercU2Xp1UkkWLwAd/dttPOc8Sp1iIf99eRgQmOKZ53aKzZ/G45x/xJKA5NpbxQGl8qyYwzSdKaCFWH1ez9/K5gaehiWUyfdFOQ6vTz2R80zu00u1Y/scxYEgQm6afTBmqc6LgdFNtv5ZHPq/CQGRik+ZrARM391iX8n+jIY5Uwiwk4lvHu+tsQAEaDfZz7TLmRDnZyt5bdIrGkryXMLme56yQv0hftv9V9WJ4Ogub7e/3PrJwD4oy0VLjTx+Mbmt+/TNc+Mahe7BXXOk+R8ubZmDeBklgOv2e1u1oQZBoTzs7WSB+d3lVuf23JMkNAKGZ5ZsEQ5DIkPvOOgE8rfv+Q8fqdRbnSTUdPHTeSH57APZpYSTwLtNz2d2XLnGaXbZ9ccIIalETUpvOQg0NU5t4zrdPhb6tzG6eZ8qWrkk3Ws25KkgfXhsF2inUfKTmT07Qa6MP2IHfhOVS/cfKhBtsNb7HKkRg7PkBaBCOR3DxokdLYQM89PjxGujHhqPm1eJh5WyY1dzP05haaXjRaqEg==;o0N/YFNzCmJP6pMGYnmCUQ=="
 ---

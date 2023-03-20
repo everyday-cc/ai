@@ -61,22 +61,6 @@ related:
         width: 902
         height: 601
         isCached: true
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "Baidu's Apollo service will deploy 10 fully autonomous vehicles in a technology park developed by the government of Beijing, the Chinese ride-hailing giant said in a statement."
-    publishedDateTime: 2023-03-18T02:25:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98745677,imgsize-116038,width-1200,height-628,overlay-etauto/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
     excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
     publishedDateTime: 2023-03-18T10:50:00Z
@@ -181,6 +165,15 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 34
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "BAIDU and Pony.ai said on Friday (Mar 17) they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Read more at The Business Times."
+    publishedDateTime: 2023-03-18T01:54:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/baidu-ponyai-win-permits-offer-driverless-robotaxi-services-beijing"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 32
 
 secured: "xf7VRQAAARfTHHAQh5BjkkO1/9qJ3KZ7+UwmbuC4CYRxkZU47efcv7jcwN5dSw8Q4Hp587xv0VPbVgnyzbW9ehGZ6jrDhR5lxUvmsfPbeMDDiSY4qJ2+uyHDb4qXT/tVwYWCHttkI7UPKMTX0h3enWcBkxugyYaSz+VWMIKuAIMBSbC6mdtmStSglDK+HAtk9EOw/dQBfsRJtn0sgKMOnv12tBY033Iikp2Hpf7D8ovOQGf5v32unJ70Dd6+cPHIczwm0UMEQCdfsWHdYa+PZEu+AHOGmA8yp7NoiAMs5gidBS41oH5SmWHAG+pA/Xi30OM8Pp36RfYc+EVaS4iP7C7eAWyGv7EbSV6Qzuz9ZVYQL5OYDL6GvVohiS7tMi45CCMtCE2KTtZCx+3KBChOMcezpVJzGWq6eL5CSdpPCqhTyAuZ71GVzo+LKDHRnrMaJJ2xdTfGjVxQds9D9uLSGar8lCHK55oGeJtOcdiQfGN8OiOqgB9tq+cHUKT6MPNhqaxRq6VoF68BUSFzaRVqBQ==;fmQVIRj/VXFy6QNqgt9B/Q=="
 ---

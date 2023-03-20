@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features
 webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gmail: Google announces that an AI will soon write your emails"
-    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 61
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Duolingo Launches New AI-Powered Subscription Tier"
     excerpt: "Duolingo rolled out a new subscription plan on Tuesday that uses artificial intelligence to power a fresh set of tutoring features. In a blog post, the language-learning company said it's partnered with OpenAI to use GPT-4,"
     publishedDateTime: 2023-03-15T15:55:00Z

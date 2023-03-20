@@ -40,36 +40,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Generative AI and what the future holds"
-    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
-    publishedDateTime: 2023-03-15T09:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
-    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
-    publishedDateTime: 2023-03-15T09:13:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3314427"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 33
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
-        width: 404
-        height: 404
-        isCached: true
   - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
     excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
     publishedDateTime: 2023-03-17T17:48:00Z

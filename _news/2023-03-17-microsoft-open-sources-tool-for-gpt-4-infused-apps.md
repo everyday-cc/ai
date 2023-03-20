@@ -466,6 +466,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-17T05:54:00Z
+    webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    type: article
+    provider:
+      name: WXYZ
+      domain: wxyz.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
     excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
     publishedDateTime: 2023-03-16T13:25:00Z
@@ -599,15 +613,6 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 51
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    type: article
-    provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
     quality: 51
   - title: "Introducing Microsoft 365 Copilot—A whole new way to work"
     excerpt: "Copilot combines the power of language models with your data in the Microsoft 365 apps and Microsoft Graph to turn your words into the most powerful productivity tool on the planet."

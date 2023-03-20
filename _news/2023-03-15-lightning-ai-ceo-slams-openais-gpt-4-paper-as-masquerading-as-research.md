@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-pape
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
 type: article
 quality: 92
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI rolls out GPT-4 in deep learning push"
-    excerpt: "“We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning,” says the company in a blog post. It explains GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, “while less ..."
-    publishedDateTime: 2023-03-15T09:15:00Z
-    webUrl: "https://www.itweb.co.za/content/dgp45MaBkRnqX9l8"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/03/chatGPT-Mar-2023.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI experiment tricks human into doing robot’s bidding: OpenAI report"
     excerpt: "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ..."

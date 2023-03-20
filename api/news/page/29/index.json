@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-02-18-mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field.md",
+      "title": "MTP NOW Feb. 17 — New uncertainty on artificial intelligence; Trump and DeSantis outpace 2024 field",
+      "excerpt": "Congressional leaders look to regulate artificial intelligence. Former President Trump and Florida Governor Ron DeSantis maintain their lead in the Republican presidential field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676673432843_now_mtp_netcast_230217_1920x1080-i41iku.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "publishedDateTime": "2023-02-17T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.md",
+      "title": "Google Cloud Flex Agreements woo users during a slowdown in demand",
+      "excerpt": "Google Cloud Flex Agreements offer the option to migrate enterprise workloads with no up-front commitments, and provide access to free storage, compute and network services such as Spanner, BigQuery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.html",
+      "originalUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200740-100709411-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688571/google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.amp.html",
+      "publishedDateTime": "2023-02-17T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-breakthroughs-in-artificial-intelligence-mean-new-work-for-congress.md",
       "title": "Breakthroughs in artificial intelligence mean new work for Congress",
       "excerpt": "NBC News Senior Congressional correspondent Scott Wong and New York Times technology columnist Kevin Roose join Meet the Press NOW to discuss new frontiers in artificial intelligence and potential congressional regulation.",
@@ -1083,109 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership.md",
-      "title": "Meta Media Shares Surge 201% On Adrian Cheng’s Appointment And Baidu AI Partnership",
-      "excerpt": "Meta Media Holdings’ stock skyrocketed more than 201% over the past week after the Chinese media company appointed Adrian Cheng as a co-chairman and announced a partnership with the ChatGPT-like bot developed by Chinese search giant Baidu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef5cb0e757255840ed2985/0x0.jpg?format=jpg&crop=1066,711,x0,y231,safe&width=1200",
-          "width": 1066,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "publishedDateTime": "2023-02-17T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-how-many-people-have-actually-been-killed-by-self-driving-cars.md",
-      "title": "How Many People Have Actually Been Killed By Self-Driving Cars?",
-      "excerpt": "When it comes to self-driving cars, the Society of Automotive Engineers recognizes six levels of autonomous driving: from level 0, at which a vehicle has no driver assistance of any kind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
-      "originalUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/how-many-people-have-actually-been-killed-by-self-driving-cars/l-intro-1676585301.jpg",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

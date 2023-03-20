@@ -3,8 +3,8 @@ category: news
 title: "AI can fool voice recognition used to verify identity by Centrelink and Australian tax office"
 excerpt: "Exclusive: Voiceprint program used by millions of Australians to access data held by government agencies shown to have a serious security flaw"
 publishedDateTime: 2023-03-16T20:44:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=brianlovin.com"
-webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=brianlovin.com"
+originalUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=dailydevbytes.com"
+webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=dailydevbytes.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: theguardian.com
     quality: 39
 
-secured: "2Ns4LJ2AnG/99i6UNuS1YqLVdpmuT3NmmlgQQca/w5GP9TQB4Exj/vKzOhfz94sx6eCRCGiWyozBuE8x/Ca3ag2K4b/HakMZm7ccvnRV/DIwLrtKuMUgpcOV4NaD+zJQCvFWUBaXzuQQYdudyXtFhlBY3PVfHc7DigU+XBEL4p7UQKseQb8vGqty/Cxu+vkh5j1zu2E5uCO3STuUY46EB71IUo9M/fD/QtPTo0qZ7VHAfEElKtUWX79RQHOOTJSr+OchP0xQBcIROcUgpeqHyWE5DA9iBZmFAP4Ub/epkz0x1Xz2IfidXrtwisUOynvsxh5K1JscOidwX1GnPdHqjJReUywKSrArYA2SImIzPMkRhzrY2RGhql1Oc099ZYBEW7pncgIPQX+VvImqz05ZOvrhNSSjY9o9i/LQnxOPAYYjrwRBVeq2dxpvYY1e2l/KPHT6OdKqkJqPnr4LkJ76STPKulU4XJYu0Uk+8wlpCYo3+p8YeZ6Fn98jtuXpmFaNUG0u7u5CtLHISR9o4gUYPg==;Ie98ylh1ZbjzwADDdAYbGw=="
+secured: "lXIAmzMGXhWcU2yBhq+QlSR+2nhsTkM5ONlqpBxEn52I1U0NXfJOmDATXaKyrt2dwlciQDQcr8PZasu00fFpb2x3Tp1ay0lb2Ya6iDJuAozzQZt+RGT2Os0LhiQ4brZGcVFjqZyPNTY5EqgfOlk5bMiZ+5KmRUjNTxCctAN8oEyjC/7JlxyoKpo2r4XV5+Q5EiKN91A3c+tpWTLSvGJaErIM8JI8k4WRSTfQtsudG8D4sdrRB4/ThqwBjYJD0/U8dkmSrSSHPKsoxHD1gio/pZoqX1J6CsjIkTo/gu3qSgRvwNzlJRuF/41n+JEFRdn1nmYmvvax6t8LHXlmxumJDnqgJ8YeT7YK+164PZyoH0VWU67IvEK6byPn9TQpGbmtAJ9NGW/2hoQAY5vWdhcEdQEWmZS1DW4hoP02gDkRwfRCWtG5T35NGapG11ii6RlM71V3ItBG5lreairvv/GseMDdMWbu+WNwk9z/g/dCHzomUq9uuhG5c4+v+zocqdZoyCMixwl08cl1+zSnfdPhzw==;i/zAlRcuwDPvcAiLFHmfVA=="
 ---
 

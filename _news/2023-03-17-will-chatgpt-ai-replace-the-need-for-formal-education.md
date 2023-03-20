@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "What You Need To Know About GPT-4 The Just Released Successor To Generative AI ChatGPT, Plus AI Ethics And AI Law Considerations"
-    excerpt: "The considered successor to ChatGPT is the recently released GPT-4, both are made by AI maker OpenAI. Here is the inside scoop on what GPT-4 does and doesn't do, along with key AI Ethics and AI Law considerations wrapped into the informative and engaging discussion."
-    publishedDateTime: 2023-03-15T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/15/what-you-need-to-know-about-gpt-4-the-just-released-successor-to-generative-ai-chatgpt-plus-ai-ethics-and-ai-law-considerations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64117de68b093e4f8128450d/0x0.jpg?format=jpg&crop=1464,824,x0,y73,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
     publishedDateTime: 2023-03-18T11:25:00Z

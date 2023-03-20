@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-18T02:36:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Apple Is Testing 'Natural Language Generation' AI to Improve Siri: Report"
     excerpt: "Now it seems Apple might finally be doing something about this. Apple has become the latest of many companies to start toying with adding generative AI to its products, starting with Siri. Word of Cupertino's plans comes from 9to5Mac, which says the ..."
     publishedDateTime: 2023-03-17T19:55:00Z

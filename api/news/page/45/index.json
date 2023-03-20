@@ -2,6 +2,91 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-music-startup-waveai-launches-a-tool-for-human-songwriters.md",
+      "title": "AI music startup WaveAI launches a tool for human songwriters",
+      "excerpt": "We wrote about WaveAI’s launch of a musical AI app called Alysia back in 2019, although more recently its focus has been on LyricStudio, software to help songwriters when they are coming up with lyrics.",
+      "sourceUrl": null,
+      "webUrl": "https://musically.com/2023/02/07/ai-music-startup-waveai-launches-a-tool-for-human-songwriters/",
+      "originalUrl": "https://musically.com/2023/02/07/ai-music-startup-waveai-launches-a-tool-for-human-songwriters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Music Ally",
+        "domain": "musically.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-stmicro-leans-on-ai-cloud-as-chip-designs-become-more-complex.md",
+      "title": "STMicro leans on AI, cloud as chip designs become more complex",
+      "excerpt": "The company is one of a several that are using AI to help design chips, which involves translating a complicated circuit architecture into a blueprint for fabricating billions of transistors on a small piece of silicon. Synopsys, the maker of the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
+      "originalUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/f5bGAua9t9HeQjQJO2SfjJqNKX8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OQ3DURFSHNMQ5GH7L6M2UNVASA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly.md",
       "title": "How IBM’s new supercomputer is making AI foundation models more enterprise-budget friendly",
       "excerpt": "IBM has built out a cloud-native AI supercomputer from affordable, commodity hardware for foundation model–training R&D initiatives.",
@@ -878,83 +963,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical.md",
-      "title": "Cisco turns to risk-based authentication to make MFA and zero trust practical",
-      "excerpt": "Cisco releases risk-based authentication to offer an adaptive MFA authentication process and make zero trust practical.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
-      "originalUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
-      "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
-      "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
-      "sourceUrl": null,
-      "webUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "originalUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prescott eNews",
-        "domain": "prescottenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

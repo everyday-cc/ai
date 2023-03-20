@@ -2,6 +2,100 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-12-13-beware-the-downsides-of-ai-data-collection-applications.md",
+      "title": "Beware The Downsides Of AI Data Collection Applications",
+      "excerpt": "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
+      "publishedDateTime": "2022-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-deepminds-alphacode-conquers-coding-performing-as-well-as-humans.md",
+      "title": "DeepMind’s AlphaCode Conquers Coding, Performing as Well as Humans",
+      "excerpt": "AlphaCode paves the road for a novel way to design AI coders: forget past experience and just listen to the data.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/",
+      "originalUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/code-g59512838a_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/13/deepminds-alphacode-conquers-coding-performing-as-well-as-humans/?amp=1",
+      "publishedDateTime": "2022-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-helping-robots-learn-from-each-other.md",
       "title": "Helping robots learn from each other",
       "excerpt": "A look at how Transformers are helping robots become more useful.",
@@ -1035,103 +1129,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-diane-dimond-the-double-edged-sword-of-facial-recognition-technology.md",
-      "title": "Diane Dimond: The double-edged sword of facial recognition technology",
-      "excerpt": "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,",
-      "sourceUrl": null,
-      "webUrl": "https://www.winchesterstar.com/winchester_star/diane-dimond-the-double-edged-sword-of-facial-recognition-technology/article_c29dd9f5-637a-5dd6-8407-d142164baebe.html",
-      "originalUrl": "https://www.winchesterstar.com/winchester_star/diane-dimond-the-double-edged-sword-of-facial-recognition-technology/article_c29dd9f5-637a-5dd6-8407-d142164baebe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winchester Star",
-        "domain": "winchesterstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028.md",
-      "title": "3D Facial Recognition Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028",
-      "excerpt": "\" 3D Facial Recognition Market \" Insights 2022 - By Applications (Banking and Finance, Consumer Electronics, Government and Defense, Healthcare, Commercial Security, Residential, Others), By Types (Hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-2022-12-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -39,22 +39,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "Self-driving Startup Gatik To Double Workforce, Strikes Kroger Deal"
-    excerpt: "Self-driving trucking startup Gatik will double its workforce by year end, a top executive said, after it announced a deal on Wednesday with grocer Kroger Co to transport goods within its Dallas, Texas network."
-    publishedDateTime: 2023-03-15T09:48:00Z
-    webUrl: "https://www.ibtimes.com/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-3677155"
-    ampWebUrl: "https://www.ibtimes.com/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-3677155?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/self-driving-startup-gatik-double-workforce-strikes-kroger-deal-3677155?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://d.ibtimes.com/en/full/4432615/driverless-gatik-delivery-box-truck-operates-bentonville.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Self-Driving Startup Seeks to Double Workforce"
     excerpt: "Layoffs are impacting automakers and transportation technology companies across the industry but at least one firm in the space is looking to expand its workforce instead of scale back. According to Reuters,"
     publishedDateTime: 2023-03-16T15:29:00Z

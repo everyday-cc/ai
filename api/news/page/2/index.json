@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
+      "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
+      "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
+      "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-701752/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
+      "publishedDateTime": "2023-03-17T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply.md",
       "title": "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply.",
       "excerpt": "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -490,6 +542,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics.md",
+      "title": "Tiny Machine Learning (TinyML) Market Size, Growing Demand and Trends 2023 to 2030 | Google, Microsoft, ARM, STMicroelectronics",
+      "excerpt": "The Tiny Machine Learning (TinyML) market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/tiny-machine-learning-tinyml-market-size-growing-demand-and-trends-2023-to-2030-google-microsoft-arm-stmicroelectronics-2023-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1003,7 +1108,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1105,7 +1210,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1145,110 +1250,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-linkedin-introduces-ai-tool-to-make-curating-your-profile-easier.md",
-      "title": "LinkedIn introduces AI tool to make curating your profile easier",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/",
-      "originalUrl": "https://www.zdnet.com/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d2bec1c778f4ce262742cdf3116870e745d67dcb/2023/03/16/ac5de713-2e87-4efd-895d-5602eeb3a287/gettyimages-1240444322.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/linkedin-introduces-ai-tool-to-make-curating-your-profile-easier/",
-      "publishedDateTime": "2023-03-16T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-inside-a-misfiring-government-data-machine.md",
-      "title": "Inside a Misfiring Government Data Machine",
-      "excerpt": "“Governments have been embedding algorithms in their systems for years, whether it’s a spreadsheet or some fancy machine learning,” says Dhruv Mehrotra, an investigative data reporter at WIRED who worked on the project. “But when an algorithm like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/algorithmic-bias-government/",
-      "originalUrl": "https://www.wired.com/story/algorithmic-bias-government/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64122cfe642c588befb87d1b/master/pass/Fast-Forward-Lighthouse-Project-Interview-Business-520192474.jpg",
-          "width": 2400,
-          "height": 1626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/algorithmic-bias-government/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithmic-bias-government/amp",
-      "publishedDateTime": "2023-03-16T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

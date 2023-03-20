@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15"
 type: article
 quality: 99
-heat: 379
+heat: 359
 published: true
 
 provider:
@@ -150,34 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
-  - title: "Automotive Artificial Intelligence (AI) Market Research Report 2023-2028 with Top Countries Data"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Automotive Artificial Intelligence (AI) Market\" Study Describes how the technology industry is evolving and how major and emerging ..."
-    publishedDateTime: 2023-03-15T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-research-report-2023-2028-with-top-countries-data-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
-    publishedDateTime: 2023-03-15T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial intelligence (AI) in Supply Chain and Logistics Market Size Report Analysis, 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Artificial intelligence (AI) in Supply Chain and Logistics Marketinformation for each competitor includes (, SAP, Microsoft Corporation, IBM ..."
     publishedDateTime: 2023-03-15T23:07:00Z

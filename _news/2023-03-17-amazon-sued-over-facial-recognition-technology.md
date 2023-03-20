@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-17T15:41:00Z
 originalUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
 webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1233.641480a35d683.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Amazon sued for not telling New York store customers about facial recognition"
@@ -181,6 +187,6 @@ related:
       domain: fox5ny.com
     quality: 39
 
-secured: "C2K9nE/sUl+XY+lKxslDsbmGNIiTXvJQASuRoS4KeMStKMkvulaLrihlSns6Sntg3rukmP2d8pxBrl3pcCmUJnUSt3osHH5snvKZ5vioc9mwfF3x+6IdLfyz7zptARNDn1ixu0H4Y2CihAWMQCoBSempW6qHFy/f46xJgWe4A7KXLF6UjyApPOnA6RBTpHJSc6lqhrJo4RpigQyKBKr1sop9ZeZTFAZwhUAoSUNw92l8fQmZ8rUPqHg3Z7iigNv1PE6mtvDH+VRFBZKXypKi3yhem75oIUJRv0s2XbGPnSfInQaa1UOYl2p1u9eer7K2U3bI9N0tibhd+39GhifXxx6JzQnuHEbdE+covgRK8MA=;bHI+wRgtoAEf+4gNk9yGWw=="
+secured: "6CerY43yUF2uJgI7DemtkapQpBoBLg+KCYI8B9VTlIPsGQ72lZKYBuWYfY3YYf6UdT9tCJRi9xIjMbWiKK7NwvQEhS3ID2henUx6TeCOD7cFu4BErEZY4IG4GZ5aLsCrDdDO9dH/RoWfNHCi1g+iHNnmn457eYG5Qs9UCVEZQzSsTqVvYsDWJz+8sq4ZaYETxA67yfzqZvI9ZfxEjckK58iFE/eQ5CM2Zfi6wFkEXxYBZm7u6QHfZLEgzthi1gKYHGob6TWl+6ypteFDzLr3iVgLEyBbzhjaTFnsG946VEsmYkpzvic48d64ZblTvQGvgVYhwfxs/2tsPr9iO8ajQ1UKq/XmVJS7vJS++O44tbg=;a9sAJJXJM/0ko8rmZ3Ag9w=="
 ---
 

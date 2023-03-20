@@ -28,7 +28,7 @@ related:
   - title: "AI can fool voice recognition used to verify identity by Centrelink and Australian tax office"
     excerpt: "Exclusive: Voiceprint program used by millions of Australians to access data held by government agencies shown to have a serious security flaw"
     publishedDateTime: 2023-03-16T20:44:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=brianlovin.com"
+    webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai?ref=dailydevbytes.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
     type: article

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-13-mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029.md",
+      "title": "MLOps Market Size Analysis between Top International Players through Business Aspects way 2029",
+      "excerpt": "The Global MLOps market is valued at Multimillion USD 2023 and will reach multimillion USD by the end of 2029, growing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-warren-buffetts-secret-portfolio-owns-3-brand-name-ai-stocks.md",
       "title": "Warren Buffett's Secret Portfolio Owns 3 Brand-Name AI Stocks",
       "excerpt": "The other key growth driver for IBM is AI. Although supercomputer Watson is perhaps the best example of IBM's AI and analytics in action, it's far from the most practical. Instead, IBM offers an abundance of services incorporating AI and machine-learning ...",
@@ -1342,49 +1395,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-video-game-playing-causes-no-harm-to-young-childrens-cognitive-abilities-study-finds.md",
-      "title": "Video game playing causes no harm to young children's cognitive abilities, study finds",
-      "excerpt": "The team looked for association between the students' video game play and their performance on the standardized Cognitive Ability Test 7, known as CogAT, which evaluates verbal, quantitative and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

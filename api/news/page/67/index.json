@@ -2,6 +2,102 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-01-26-a-person-shaped-robot-that-can-liquify-and-escape-jail-all-with-the-power-of-magnets.md",
+      "title": "A person-shaped robot that can liquify and escape jail, all with the power of magnets",
+      "excerpt": "Inspired by sea cucumbers, engineers have designed miniature robots that rapidly and reversibly shift between liquid and solid states. On top of being able to shape-shift, the robots are magnetic and can conduct electricity.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.html",
+      "originalUrl": "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/person-shaped-robot-th.jpg",
+          "width": 711,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-person-shaped-robot-liquify-power-magnets.amp",
+      "publishedDateTime": "2023-01-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
+      "title": "Federated learning key to securing AI",
+      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "publishedDateTime": "2023-01-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-we-forgot-to-give-neural-networks-the-ability-to-forget.md",
       "title": "We Forgot To Give Neural Networks The Ability To Forget",
       "excerpt": "A conversation with social entrepreneur Miguel Luengo about artificial intelligence’s current inability to forget and what this means for the right to privacy and user agency.",
@@ -1061,101 +1157,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-roin-acquisition-strengthens-built-robotics-offering-and-unicontrol-steps-up-us-distribution.md",
-      "title": "Roin Acquisition Strengthens Built Robotics Offering and Unicontrol Steps up US Distribution",
-      "excerpt": "New developments at construction robotics organizations suggest 2023 ... They may be afraid of machine control.” While Unicontrol does not automate production, it does automate data collection ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
-      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/01/shotcrete_robot.jpg.63d024156c3d0.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "For Construction Pros",
-        "domain": "forconstructionpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-tiny-ebiobots-use-leds-and-muscle-tissue-for-real-time-remote-control.md",
-      "title": "Tiny eBiobots use LEDs and muscle tissue for real-time remote control",
-      "excerpt": "Back in 2012, we heard about tiny biped \"biobot\" robots that used actual muscle tissue to walk. Well, the descendants of those bots are now equipped with LEDs, which allow them to be remotely steered in a practical fashion. Developed by scientists at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control",
-      "originalUrl": "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/4309e93/2147483647/strip/true/crop/3543x2362+0+148/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb2%2F36%2Fa09164bb4f1889968f011e284d63%2Falpine-crosscabin-exterior-side-2.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
