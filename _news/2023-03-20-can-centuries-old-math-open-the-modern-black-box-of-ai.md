@@ -3,10 +3,10 @@ category: news
 title: "Can Centuries-Old Math Open the Modern Black Box of AI?"
 excerpt: "A new Rice University study uses Fourier analysis and a novel approach to understand how AI deep neural networks learn to perform functions that involve complex physics—a step towards demystifying AI’s black box problem."
 publishedDateTime: 2023-03-19T22:11:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp"
 type: article
 quality: 74
 heat: 74
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "kXGb8kC8qvkhyYwq1qFKT8eOCXT2W/LHsOhuP+vNyaUlW4jnkUzWEXxe6LmYwPRoMs+Kp+FsZScK3Ut8OYseCK29ncWM0vERFj0FIHP/l/u1Z/zFJyxqpjXhBVrOyJnIfg/JFhgTrFZn4/vOlcsnXAlNM8SJ4YVDndcwhuy5sCFFij9OL3ob6wgeoba/zigRymHnqWr/tiClisRJLeUjcdX0vbMUAAzPmpuiKams6anx+gDARb6RKztjxAcdX6oXTlupRet/h/z6vsq/MQMQfKNsFhI4K3ZG7nO5EFvahI30ZjiAqrebbknDPn2QonNoctSejjyFcShxCYZ7pljvsBG3Nosce8U/rkavuK/Ptbk+VKACcUTpdMt3vTsQT92HSfPBQiUvzPl5VE+jooKfidhLWMiiJohk52ieTpK3PZmB1eoBPtExz6RXLj9cUVMRay7gMR+0JlQCrpzAuxUkhqO7R3YVU8g+Kjf7e7wPhlJbzlpNdHNnHwFl+dQJBgbQFJJCDcaKRvEy/oyhQMOWHQ==;ne+46EEvLatuQpcxgUW/GQ=="
+secured: "vkefvFH9fkzo102jM9pgdF6sKwAHwamuOXy/p5mB9wQpoq1QxgaItcHKqj58R4HLlq35dQuNmIsufayhLUn5ZAF5prebRJU270rG4bWBk6o8WlGQUgNhxA3Z5cV67mJYFCIsnp6wDLaoQoT9IkT30EqAe0e5Rx9w7EqfG/hZbUyM9RXb87HYfj3PwSy36XerZoXrZC+W7MUXBnkkvwWJ3O/XjRf8MeBuJDumodnvL96Lhz6ob4NAAX+wFe2IYrfIbOTgSDjPhSKBqWmQ62sbufB3TXcdnqxiH4rjXAf1k+YGSRTHZP/2fAO6Jywazsg+zOjkMKqO4Fo6n/q058i01j2sQFk7IfkY5JlI65H7Nck=;DEY7/QMcW/tCEH8hT7Bveg=="
 ---
 

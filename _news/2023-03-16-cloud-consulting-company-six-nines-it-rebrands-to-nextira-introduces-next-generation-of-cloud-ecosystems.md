@@ -19,6 +19,17 @@ topics:
   - AI
   - AWS AI
 
+related:
+  - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
+    excerpt: "Andi, which is building search for the next generation, announced today that just weeks after its initial launch it has launched a new Generated Content feature that provides the most accurate generative AI content and reliable source citation in the industry."
+    publishedDateTime: 2023-03-15T17:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-startup-andi-enhances-generative-ai-search-offering-with-/2023/03/15/9777725.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "ggTcweL7ZBzfzElB1lC3s6HJMeP4bJnNQQqjW/SjE50O9Qb2WSaT4j1UwCcDGxZHbrakB7kjwnnEOGEhyIS4qMAZQrEe5i9qBKtSZfw03ZgyyjtKjuQj02Psz5z8zarfCgpYoTHS1/1vDFp3iShqwERHNdQGVfg8UzTo1TEbHdYiI3pdQr6mIsmlmAMXnqm2UrvlSDfvFGeGFJP+8Q7sQe2YBQ0+L8ZTa8cfHQKYd2CmY3S1gAQhxjfCjNzTOShGjlZxbvj6lj7C4DvUw72NtoEpra2rmdFYoxz6wriMHFU1o+tcnYuTRSBHM81tB3FJMNA4BmvzXYRywZtA8VKVgdu4qFd7hQc1wmZzvSvBXsc=;lYVYIhWbLTCWVmNneT5VyQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landsca
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -18,36 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Machine Learning in cybersecurity to find vulnerabilities, prevent attacks"
-    excerpt: "A promising area of research is combining cybersecurity with machine learning (ML). This way, organizations can create algorithms that automatically detect potential threats and take steps to mitigate them. In a world where the volume of data is ..."
-    publishedDateTime: 2023-03-15T14:19:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53028525/oxylabs-machine-learning-in-cybersecurity-to-find-vulnerabilities-prevent-attacks"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/Screenshot__37_.63ecfb59cb111.png?auto=format,compress&fit=crop&h=278&w=500&q=45"
-        width: 500
-        height: 278
-        isCached: true
-  - title: "David McKeown of DOD Gains 2023 Wash100 Recognition for Leading Department Cybersecurity Push"
-    excerpt: "Executive Mosaic congratulates David McKeown on his first selection to the Wash100. Hear more insights from McKeown during his keynote speech at ExecutiveBiz’s Cloud Security Forum on March 22. Register here. David McKeown, senior information security ..."
-    publishedDateTime: 2023-03-16T09:56:00Z
-    webUrl: "https://www.govconwire.com/2023/03/david-mckeown-of-dod-inducted-into-2023-wash100/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 28
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-103.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "iqzR/hTGF7xFi118kBSHYqkYnnYtXN6d3eSxz7RwYVqeCN2pFiSkR1FTw/wRRaNNw9fd5notusMdRFf3NVEmyNsd6Pu+OysClKF3sbtUbzechQ6E2IXUb41X7h6mle5uE/7QLzrbjyFIV06xAgwKpkSpGuvmlZ32CpZ5xt0w/6UEL3i4YK6ZJgj7AWGWY1DazaqwwZdWGblVp2IbyNxEnKZ45hZNhCTJJMewVogoKb4E6SKGNbhP3qTomwARnfJ3NaSRWqvvGu6DK2fKX9VrBTuHsUHM96OJs2cVRrlp0zuA3+IKBae/963fEhq65qz6H1xuYwrGbO1U5YzQ+D4SFciczp3un6XT3bbB3syTZqC1+Syk43SW7BRnjoYcw7z7FI0vfRTDBlO2+9iQIvVMve+0CrFoZ5bopVT3LFcoYScqhlAMGd/FBhKILRNd8LG7LaEg8u92uRoTw9b+khQwixYSJdbEYpeWdowDhvhkkVaojx+GeCstk2HIjRZ0fixIMr8hA2YKzbqRjLSH9xab2Q==;y/0jhxdNmBrRywAHHwHnvA=="
 ---

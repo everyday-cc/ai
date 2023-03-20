@@ -38,6 +38,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What AI means for digital security"
+    excerpt: "As AI technology like ChatGPT evolves, so do the strategies and tactics used by cybercriminals. Steve Flynn, sales and marketing director at ESET Southern Africa, says ongoing awareness is crucial in understanding how to manage potential cybersecurity challenges posed by these developing tools."
+    publishedDateTime: 2023-03-20T07:44:00Z
+    webUrl: "https://it-online.co.za/2023/03/20/what-ai-means-for-digital-security/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 36
 
 secured: "fPwrndcE4moiHfzvNMIKEAosf3PyYeiHLOEeA/YjGja7NFatmaaVYlCnuPzSppjjspMtK0OFGb4l90JQGDzKkGwlprgbUh/p5airsVKu/8k/xZXs9UkoVPj8pOjxjRqPedcbED1ycOd0gcCgFdMa2c8NdxvhOUiqExNLyLErlqrl4ov23vDOb6fNRHCbNPgA+26Z7fH5nj5vpSQPvhll5smW4A9igSU/+eZzbwN2uHzLKVrt6/GlVCvRhxVRqPQhVERrULfzZJaGD3UL/n/OGmXQ/7h5ebbsXM1OpuzySg3vjCBwfk3kvjs3rOCTIiJfowKKDZVkdvTEFrrQTZzjCJkwTqJtM905bNlffDUw+eU0Q6KTGXEjYvf88qoyTVT0ifaCkSoGY1x4Js+bxjl9OjG9XertUthheIkzJbj1s6fKtZRcAI8WvVyKFli8Z6p8XhcR0zr5w7+GNKDFQxG+W5qN7aca8q9AGbal0bgBtVKhkdLbnx9HKpp2qzOOK84VdCCHShEVS7X2u6l1oSXJTQ==;2BQLWYGRFQ3fuFdYBJBSTA=="
 ---

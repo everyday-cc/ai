@@ -208,20 +208,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Apple Engineers Reportedly Working on ChatGPT-Like AI Despite Siri Design Flaws"
-    excerpt: "Apple is testing generative AI concepts that could one day be destined for Siri, despite fundamental issues with the way the virtual assistant"
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 33
-    images:
-      - url: "https://images.macrumors.com/t/vCqe7lzREajx3bi2wbyS8kBXh5I=/1600x/article-new/2021/10/siri-phil-schiller.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ChatGPT-4 Language Model Can Handle Text And Images"
     excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
     publishedDateTime: 2023-03-16T12:17:00Z

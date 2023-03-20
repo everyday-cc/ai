@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Why Regulating AI Is A Mistake"
-    excerpt: "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ..."
-    publishedDateTime: 2023-03-15T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI Is Changing Artistic Creation and Challenging IP Laws"
     excerpt: "The use of artificial intelligence (AI) is gaining notoriety among traditional and Web3 artists alike. While some creatives worry that AI will one day replace their jobs or steal their work, other artists have welcomed the technical experimentation and ..."
     publishedDateTime: 2023-03-16T15:51:00Z

@@ -239,20 +239,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- Facial Recognition Door Lock Market Insights 2023 by Types (Aluminum magnesium alloy, Zinc alloy, Aluminum, Stainless steel) , Applications ..."
-    publishedDateTime: 2023-03-15T14:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-growing-rapidly-with-recent-trends-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Operations (MLOps) Market to 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Machine Learning Operations (MLOps) Marketinformation for each competitor includes (, Databricks, Paperpace, Microsoft, DataRobot ..."
     publishedDateTime: 2023-03-16T23:04:00Z

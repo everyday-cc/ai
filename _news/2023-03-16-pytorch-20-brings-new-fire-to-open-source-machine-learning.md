@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-sourc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/03/pytorch_2.png"
         width: 968
         height: 556
-        isCached: true
-  - title: "Lightning AI debuts PyTorch Lightning 2.0, adding more granular control for AI model training"
-    excerpt: "Another benefit of PyTorch Lightning is that it reduces the amount of custom code developers must write to use multiple types of chips, such as graphics processing units and central processing units, in their ML training projects. Lightning AI sells a ..."
-    publishedDateTime: 2023-03-15T13:31:00Z
-    webUrl: "https://siliconangle.com/2023/03/15/lightning-ai-debuts-pytorch-lightning-2-0-adding-granular-control-ai-model-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/1-768x439.png"
-        width: 768
-        height: 439
         isCached: true
   - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
     excerpt: "PyTorch Lightning Creator Launches Update of the Popular AI Framework with 45+ Million Downloads to Date; PyTorch Lightning 2.0 Offers the ML/AI Community Rich Features and an Imp"

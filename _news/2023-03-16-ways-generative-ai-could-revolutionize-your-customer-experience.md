@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/16/ways-generative-ai-could-revolutionize-your-customer-experience/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing Retail"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
-    publishedDateTime: 2023-03-15T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
     publishedDateTime: 2023-03-16T19:56:00Z

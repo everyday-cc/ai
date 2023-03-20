@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -202,20 +202,6 @@ related:
       - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Apple Engineers Reportedly Working on ChatGPT-Like AI Despite Siri Design Flaws"
-    excerpt: "Apple is testing generative AI concepts that could one day be destined for Siri, despite fundamental issues with the way the virtual assistant"
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.macrumors.com/2023/03/15/apple-engineers-working-on-chatgpt-like-ai/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 33
-    images:
-      - url: "https://images.macrumors.com/t/vCqe7lzREajx3bi2wbyS8kBXh5I=/1600x/article-new/2021/10/siri-phil-schiller.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
     excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."

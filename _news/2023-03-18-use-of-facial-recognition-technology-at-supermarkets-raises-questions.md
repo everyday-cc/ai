@@ -71,6 +71,22 @@ related:
         width: 1198
         height: 874
         isCached: true
+  - title: "Your NYC Supermarket May Know Your Face Better Than You Think"
+    excerpt: "Fairway’s parent company, Wakefern, said that biometric identifier information is “helping our store reduce retail crime” — but is the tech infringing on civil liberties?"
+    publishedDateTime: 2023-03-16T18:35:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
+    images:
+      - url: "https://media.nbcnewyork.com/2023/03/Fairway-w-sign-inset.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
     publishedDateTime: 2023-03-17T22:11:00Z

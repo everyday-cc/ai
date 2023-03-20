@@ -3,16 +3,18 @@ category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
 excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
 publishedDateTime: 2023-03-17T05:54:00Z
-originalUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.wxyz.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+originalUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
 type: article
-quality: 71
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: WXYZ
-  domain: wxyz.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI Ethics
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/a34d668/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -401,15 +403,6 @@ related:
         width: 1920
         height: 2400
         isCached: true
-  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
-    excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
-    publishedDateTime: 2023-03-15T13:40:00Z
-    webUrl: "https://tribune.com.pk/story/2406233/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 34
   - title: "Microsoft Adds AI Assistant to Its Edge Browser"
     excerpt: "Bing's AI Copilot can now write emails and blog posts for you. Credit: Josh Norem You can start using the service with those questions out of the way. Its functionality is divided into three clickable links at the top of the sidebar: Chat, Compose ..."
     publishedDateTime: 2023-03-15T18:50:00Z
@@ -438,6 +431,6 @@ related:
       domain: mynorthwest.com
     quality: 17
 
-secured: "C+SlppnscztrJkzR2RvoZbSbNcELxjEpGGDPiOzBlkP/k7uH/JY2uV4TRs8jfxMwq51RE3J//qs+QdShFdz4gY3qCFIkyW3ExVZsQgE9OaXd/daSkcyRIluCX/dwvOnjrcl0BV7NxWvQE+6wnd7cCgQSdKjxf64f98Mf1a0mHGI9lGOU0kLORktMfUXY+fK7NwnbECtETv3B8E9tWxUPULW6oVT3uf95Dr0bKJ6AlF5Fq9BTfDcdeXdVfsUtWcdd82rqk23bLNqfHqg+kKWkU93I1jwcQpu1wEABBFQNDFtM/CeeYTBBm+j4E1GQq3+KQH1YyeL/QHXRYSmmeXowNMCZbJCf8bw42J0dmUhH/VqCxqKrjXnvsGSfHADG/hJJGZdux1O/r2Pz04puh2teO7Jod5MSxrFZb7YDTUY1QXlggYJjC5OF0kJEJ6vxNwQnfLAnLq/ZkFjxNCXVC/GxKees6jbTVaafdSZTYrr5/8ztxT3scd6cnHiH3cxDYm8tzGeNFtFut0gHU0GVeVglYQ==;3mk2z8gw+vYjdNjMD4N+gA=="
+secured: "Mb+AwEm0eP4nz58/jJuENiqx+w277144s2kHA/WRJHG5WvBJxnh6B15ntKz2hBiFGMLeDbuZJelPzdUy8H/QF2M3cNhNCMz4dExLpx56S9Oel2nRt2dYxdy2exkMdGpEwAal5q4ysTmAGluV6/dB9tT4rQoifopAHp2E4mKupKou/9xpZMwx+8363u9oEp3T4MM3SwqAaYYowJEnebyVNea7KoHG+/VewGdo5qB71z2S2cclKRWW+prOPIEYCszd6iPAZHzdFWJjLITjhky09dkMHHJyFCbQnNOJItiOUni8n+52iskLVDVZjxO1hr4AQKgMbAuoTC6edOyjXIWCL/X++Eo+GUetreEoquEIVkk=;TtxshUXc21dzf/aao0oLxQ=="
 ---
 

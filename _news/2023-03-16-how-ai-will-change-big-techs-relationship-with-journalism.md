@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-re
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Could Change Psychotherapy"
-    excerpt: "I can’t read the news or look at my social media feeds without seeing items about the potential implications of artificial intelligence (AI) on our future lives. Alarmed professors report college term papers are being written with ChatGPT;"
-    publishedDateTime: 2023-03-15T14:51:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyche-meets-soul/202303/how-artificial-intelligence-could-change-psychotherapy?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 76
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/technology-ga6a9ac6b0_1920.jpg?itok=JwAf1Qg2"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "A Venture Capitalist Imagines What Generative AI Will Change"
     excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
     publishedDateTime: 2023-03-19T14:00:00Z

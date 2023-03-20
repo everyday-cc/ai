@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Is Generative AI Tipping The Balance In Favor Of AI-Driven Tools?"
-    excerpt: "ChatGPT, at its core, is a chatbot. The tool—developed by OpenAI, a company initially started by Elon Musk—can perform a wide range of natural language processing (NLP) tasks. These range from text generation and summarization to answering questions ..."
-    publishedDateTime: 2023-03-15T13:24:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/is-generative-ai-tipping-the-balance-in-favor-of-ai-driven-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
 
 secured: "tAvyKQZhTC8lbLAmWtEOalCfat/LqJww6CU9eP0VbQNlUxSQ7XHdZ8yz3f7WG+U9CBE/KvqYwEvDeqBrGfg/z+i73MeNVZmRYeUEny2MAHkSZ8rVAJQjl+OqygymUc6jHbkWzR61k5nD/KNPUFAV8JDCGcX87E3CvPse60AsZJ1df0c/kHkca3FMcne8z34kZ9qn6z0cXpzatmE0Hb0YNaAGM2It52J+O7hncYQBpOa6NqIrfa6FiomSGppWW559qgnPPZpxk97cK03YOsdCUJ+WOHddGn8TorJA+aIM4FDzTaWpCtX0Pq5AAeFKZuxLlxTE6aV+bArQHh1yFSh+2YRBIvqP8rCTvlH5zSpAkZVWB+11WHNW8/HQq5vBsI1ZzWlkEbEXQfKtX1C9nw14rjxHYOy+5Mklr7qJc4uq7GDTb9wudq36ofhagOaFwTA0N2cvnN96TZqlNuWkN4rSvaU9Q1O/CK0ZKSihj2oGVB+QIKL/dKnwUW/0WNq73xsQrn8d069n5TnAdPT+R9mapg==;A8vAlZjrNjkGqedxoO02bw=="
 ---

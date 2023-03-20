@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Why Regulating AI Is A Mistake"
-    excerpt: "Oren Etzioni is the CEO of the Allen institute for Artificial Intelligence ... AI technology that further delivers on the promise of driverless cars, intelligent robots, and other societal ..."
-    publishedDateTime: 2023-03-15T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/ciocentral/2017/01/09/why-regulating-ai-is-a-mistake/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/545350597/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI changes the investing game"
     excerpt: "What happens when computers start running the show? Here are a few observations ... And the latter feels like it is 100 times faster than the former.” 2. AI thinks quickly, but not deeply. Generative language models look and act smart, but they can ..."
     publishedDateTime: 2023-03-15T15:46:00Z

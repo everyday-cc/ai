@@ -50,20 +50,6 @@ related:
         width: 968
         height: 556
         isCached: true
-  - title: "Lightning AI debuts PyTorch Lightning 2.0, adding more granular control for AI model training"
-    excerpt: "Another benefit of PyTorch Lightning is that it reduces the amount of custom code developers must write to use multiple types of chips, such as graphics processing units and central processing units, in their ML training projects. Lightning AI sells a ..."
-    publishedDateTime: 2023-03-15T13:31:00Z
-    webUrl: "https://siliconangle.com/2023/03/15/lightning-ai-debuts-pytorch-lightning-2-0-adding-granular-control-ai-model-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/1-768x439.png"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
     excerpt: "Lightning AI, the company accelerating the development of an AI-powered world, today announced the general availability of PyTorch Lightning 2.0, the company’s flagship open source AI framework used by more than 10,"
     publishedDateTime: 2023-03-16T17:03:00Z

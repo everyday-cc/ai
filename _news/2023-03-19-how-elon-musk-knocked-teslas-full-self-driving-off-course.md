@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2023/03/19/elon-musk-tes
 webUrl: "https://www.washingtonpost.com/technology/2023/03/19/elon-musk-tesla-driving/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "Tesla Full Self-Driving Beta v11 is coming this weekend, if you believe Elon Musk"
-    excerpt: "After months of waiting, Tesla Full Self-Driving Beta v11 is going to a wide release this weekend, if you believe Elon Musk. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks."
-    publishedDateTime: 2023-03-15T14:43:00Z
-    webUrl: "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "t/Njq3sW/N1ENZ4VdmqoBB20ABeC/IOj0Rb9HtyST+AvRnMJ31kyN1aLyr0NXSf9v0HMKSQLGChOkAgcESX4zi1SVbvb8Hekk5rG7tbRe/N9d4JDn2ZHlI4FE1cJSy2hPY1N/b3MIyLaav0UfQbuJcCKEvDaoseVa3h9KXr9DUiXVVnZL+7J0GkAfNRiiZNpBTsz2o0kg95xaDQ1DM3b8MsRFPhzvsqNXwp5madqqntjiGretddsTAXU8mTlIza72rLA1mqC0VTOpZ4amTR4gHNczm6I4u5xbkBMglJk/z49kftzbewnGhLrDskzjv8UDP0ZyxYLIqICuwETCDMQzpGirxGBewWwddYmEd2fBnynu8Sv80UM5KCBarkj6VY5+WRxqRdYPLK8LAM1ONM1NskC2TUnRZ48E2R5k4X+w6GMt56S4JIoVi4DV5UX4x/JV13YAVftFL5y67T7LWzWE3C/tS2K2PkAGHySiXKY7ukPBWsENaFUNPm2K5e8Hn9KC6czftxeYsxRxr5i98SKjA==;eZoDotZ2qfHS+lKkLcKWkw=="
 ---

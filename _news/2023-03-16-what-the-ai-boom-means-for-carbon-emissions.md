@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-
 webUrl: "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "What AI means for digital security"
+    excerpt: "As AI technology like ChatGPT evolves, so do the strategies and tactics used by cybercriminals. Steve Flynn, sales and marketing director at ESET Southern Africa, says ongoing awareness is crucial in understanding how to manage potential cybersecurity challenges posed by these developing tools."
+    publishedDateTime: 2023-03-20T07:44:00Z
+    webUrl: "https://it-online.co.za/2023/03/20/what-ai-means-for-digital-security/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 36
   - title: "12 Uses For The New AI Program That Fans Claim Will Change The World Forever"
     excerpt: "Amid dozens of controversies about AI technology stealing art and denying the Holocaust, it can be difficult to think of its genuinely cool capabilities—especially when Midjourney is constantly failing to even generate the right number of fingers on a human hand."
     publishedDateTime: 2023-03-15T19:29:00Z

@@ -2,20 +2,30 @@
 category: news
 title: "AI startup Adept raises $350 mln in fresh funding"
 excerpt: "March 14 (Reuters) - Artificial intelligence (AI) startup Adept said on Tuesday it had raised $350 million in a Series B funding round led by General Catalyst and Spark Capital, as it builds ..."
-publishedDateTime: 2023-03-16T06:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/ai-startup-adept-raises-$350-mln-in-fresh-funding-0"
-webUrl: "https://www.nasdaq.com/articles/ai-startup-adept-raises-$350-mln-in-fresh-funding-0"
+publishedDateTime: 2023-03-16T04:53:00Z
+originalUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
+webUrl: "https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/"
 type: article
-quality: 47
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Adept, a startup training AI to use existing software and APIs, raises $350M"
@@ -49,6 +59,6 @@ related:
         height: 1111
         isCached: true
 
-secured: "A/6jHDC465VIWBDOfZybYfhoId3pOWTmJA+PXq85GFUOjmCjuf9XXmcXZb4Kn+JVb0YKdXFHC3m8f2tyawcm42FGtGpDrAohFeUiCslEtqt6SsTsMEzx6bqhmVJTdy59GGmPMl+MuxUmLi8EpjGYTOFNEOXpGR4cfZ+uAtQo0evdfu8/l5qHbXsxink44Y66JAonuM1rVw39lt3wXx9JotJ00tJRTNrcuVBCat2UCUZwFU/9y0Pte+KLCmXJvKBZDtwFoeF4g+ivtU5xrLZfoMKqCtb5DCjIpRcuLELGgVth+IXnzEgVci3oA+Uoe5eQZXzM+LpCMtVziLvYt+RM+uzCItnExNSnJ4tHPZuUx4I=;0YS1tFVZBLBakQup7R/DyQ=="
+secured: "M4jQkDqDGLFHfuQtGGRmHci4LQkr3FWICkGd8OZdGmsiq1HD8KDP7jaMFcIlTgkJA4jZokErK7Zk6Pd69rWIPdgSNvvscwe4verhsVuujicpz52qb6Q1ee4NMjtQPJii3cBdEgAveYNiGjsUzkjHffzogYh4hPZ7ppzLEKPBw1QUHPIuDsoH270dVAa+iCR+uPitij6bIhbs8neAdkoDYLjr2VLT3PE07wD3VHJF+EBw94b3Op16d0Oi4huR1HaC6oMmAewBn9fWtLe2TKbuPCabJ7/lL/y8i6JttrThq5u3gj2Ceg7uaUjC7yD3grLXyEIXmZZ2+MDAD72Pz4+YWw8Yk7hA3J5FmdSjA0EsXao=;kNpR8NAWF8HPPltdZbd7wA=="
 ---
 

@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing Retail"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Using artificial intelligence, or AI, in retail stores is becoming more"
-    publishedDateTime: 2023-03-15T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wmt-amzn-kr-3-ai-stocks-that-are-revolutionizing-retail-1032169626"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z
