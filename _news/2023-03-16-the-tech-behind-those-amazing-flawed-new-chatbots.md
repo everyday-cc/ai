@@ -48,15 +48,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "PwC partners with Harvey to build AI tools to assist its lawyers"
-    excerpt: "To build the technology into its legal services, PwC is partnering with Harvey, a company backed by the OpenAI LLC’s Startup Fund and founded on the company’s GPT-4 AI technology. Harvey provides artificial AI-powered capabilities that can streamline ..."
-    publishedDateTime: 2023-03-15T18:21:00Z
-    webUrl: "https://siliconangle.com/2023/03/15/pwc-partners-harvey-build-ai-tools-assist-lawyers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "Ll1Dy+cpgVXjB7iHmBWJqi/3irMMFWXa0N1/pyGTxSTXBahHwIxInlBB/QtBUhLmtawvTBBYASBeKj4NVxf1fcM8QqlKTkpT8dLr1IIN1unFn1LJlOolAD5KK8DVXK4S/2Ijpbcwb5yD7olJyWcIvdrE4zPjDayzob6PDZ8suQOp8ELO3HXM5AGuKxUSpHyHtv4QMUzEOrSAVD8dvsHq8qQf987xJVnvPe8BBtdcRffrL7ljyWZrPPzY7Omhk674973kTAe1jLf2jkWxXzQ0PPcZKowOrpYlvrtkTQneTT2c9T494fHQ/lyjMZ1xMfWNj4XIKIk3yP7jxZU4BqsPL/o8Yiucr2UCblLnRBwrJwY=;z/2gRneOFu+KPlrp0D0t8w=="
 ---

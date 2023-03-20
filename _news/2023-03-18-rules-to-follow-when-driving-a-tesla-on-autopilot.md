@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-t
 webUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla finally starts rolling out Full Self-Driving Beta v11"
+    excerpt: "Tesla has finally started the broad rollout of Full Self-Driving Beta v11, a significant update that is Autopilto with the Full Self-Driving Beta software stack. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD ..."
+    publishedDateTime: 2023-03-20T10:17:00Z
+    webUrl: "https://electrek.co/2023/03/20/tesla-starts-rolling-out-full-self-driving-beta-v11/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Elon Musk knocked Tesla’s ‘Full Self-Driving’ off course"
     excerpt: "Will Elon Musk ever fulfill his promise of 1 million robotaxis? (Illustration by Elena Lacey/The Washington Post; Jonathan Ernst/Reuters; iStock)"
     publishedDateTime: 2023-03-19T09:03:00Z

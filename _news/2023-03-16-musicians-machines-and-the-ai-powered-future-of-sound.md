@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "How AI-Powered Tech Can Help Recruiters And Hiring Managers Find Candidates Quicker And More Efficiently"
-    excerpt: "The platform plans to unveil new ways to integrate generative AI to better help recruiters and job seekers succeed. The rollout will start with a limited number of LinkedIn members in the United States, India, the U.K., Canada and Australia on Wednesday ..."
-    publishedDateTime: 2023-03-15T17:03:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/03/15/how-ai-powered-tech-can-help-recruiters-and-hiring-managers-find-candidates-quicker-and-more-efficiently/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6411f6a89f6c645164216cc1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Harnessing the power of AI"
     excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
     publishedDateTime: 2023-03-17T03:03:00Z
@@ -107,22 +91,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
-    excerpt: "As human interactions with technology increase, AI-based religions are in our near future. While these religions carry risks for users, a tolerant mindset is important to consider worshippers’ rights."
-    publishedDateTime: 2023-03-15T18:50:00Z
-    webUrl: "https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-    ampWebUrl: "https://theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/515214/original/file-20230314-16-bb2vbm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
-        width: 320
-        height: 224
         isCached: true
   - title: "Gods in the machine? The rise of artificial intelligence may result in new religions"
     excerpt: "First, some people will come to see AI as a higher power.Generative AI that can create or produce new content possesses several characteristics that are often associated with divine beings, like deities or prophets It displays a level of intelligence that goes beyond that of most humans."

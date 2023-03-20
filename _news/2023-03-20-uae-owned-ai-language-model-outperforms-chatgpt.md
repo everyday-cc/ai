@@ -153,22 +153,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-17T05:54:00Z
-    webUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    type: article
-    provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
-    quality: 91
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
     excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
     publishedDateTime: 2023-03-16T15:15:00Z
@@ -288,6 +272,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_5a399068c29272b6841047535d9fd1c2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+    publishedDateTime: 2023-03-16T22:23:00Z
+    webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
+    type: article
+    provider:
+      name: scrippsnews
+      domain: scrippsnews.com
+    quality: 71
+    images:
+      - url: "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
     excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
@@ -416,15 +414,20 @@ related:
         width: 1920
         height: 2400
         isCached: true
-  - title: "Microsoft Adds AI Assistant to Its Edge Browser"
-    excerpt: "Bing's AI Copilot can now write emails and blog posts for you. Credit: Josh Norem You can start using the service with those questions out of the way. Its functionality is divided into three clickable links at the top of the sidebar: Chat, Compose ..."
-    publishedDateTime: 2023-03-15T18:50:00Z
-    webUrl: "https://www.extremetech.com/computing/microsoft-adds-ai-assistant-to-its-edge-browser"
+  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
+    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
+    publishedDateTime: 2023-03-20T10:43:00Z
+    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
+        width: 2842
+        height: 1372
+        isCached: true
   - title: "Microsoft to add AI co-pilot to its Office software suite"
     excerpt: "Microsoft has announced that its suite of productivity tools is being enhanced by artificial intelligence software, as it seeks to get ahead in a race against tech giants such as Google, Baidu and Adobe to commercialise AI technology."
     publishedDateTime: 2023-03-16T17:56:00Z
@@ -444,6 +447,6 @@ related:
       domain: mynorthwest.com
     quality: 17
 
-secured: "lnQlm47Cu/YsPYqRlKtnVRbIxneZAFPTXr4ciPmY96GMn7AL7V2B8fzLlyXfdGQVWjEW3AiRb9cl6yb4ptE/zrIMv8pu6cmbvhD8zGU2oj9hLpRgf7YwLYTQhnaUpRwj7LS0vxbHMVeWZSs+MttWGFazEi0GbwIwtHMLwS4rKFjbJTI6X+jNNHPRUQn4uMjRn9QmpFw1fQG1vKXVjpQxHfl9F+PYXu0DGMYjWocqArgrBocgwm0rCjb+nO4W3P5yg8Fx+aZs0/i2S1peI/F6OS7fI++bky5VGkN45iEkCyz1WkKDMa/8Pe8Am6V9YKgwufdQ2UAYUMenDd9ouM36cFld5hqBSM7XEw9oNxHzMLA=;mTtYfzYB8IHFNt3eZZ0gRQ=="
+secured: "WT0Iv7I9wjwsBgNsTwhh3K9JIGJThkcrQqcXNN4EoqGkhAOw0mQAyXGDSKQ4EmFbfEQxlskhs62+ZKanM0AhtvbUb2yzU1BOQ5DMTdyVUeTdr7XzK3/+s5tNglbDNzn2/JY3dxl5a6JdBq6/U/FbQSdYs9Lzzjm2URV9D4fJ2ewhBn+kncz789cNaXVqZN7XLGV1AITUkT8bPkWpyW23hU5/zKgCHW/XnFRcjS4yeUO8GbhRc+gt+4nZMag3Nc7Fu8x6xg7vqrZx8MEqOGlmOIqkqOaKHWflf56OewkZSJSRxFiO4vQ1TWkkC917DI92iRX6YDO8TK80wjr6SIZkKsi+39fukQfDnME4eRM1OU5J5zRDfeIK0+6ceb2nqLhdY1Z9nAE2333dCyFN9VMoShFonSHjlPpdO83TNRQtpLeJ5Oh7rZl6XVtRMaNq0g39UCczNj35VZw1NJ4p9Xg9tjxSARXZDQkOBVyTUU5cXb6CkKv6uiipQqkdcUFweCftd+BUrxtMsTAUFKx1jFU9yw==;5wtKPKNbdfvMQi8zYCEuGA=="
 ---
 

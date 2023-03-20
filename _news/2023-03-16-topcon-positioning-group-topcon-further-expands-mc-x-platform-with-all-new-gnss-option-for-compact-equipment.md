@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58567594-topc
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58567594-topcon-positioning-group-topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment-004.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
-    excerpt: "(BUSINESS WIRE) -- Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution ... or mid-size contractor in mind,” said Murray Lodge, executive ..."
-    publishedDateTime: 2023-03-15T17:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Topcon further expands MC-X platform with all-new GNSS option for compact equipment"
     excerpt: "LIVERMORE, Calif.- Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company’s compact solutions portfolio,"
     publishedDateTime: 2023-03-17T20:48:00Z

@@ -49,7 +49,16 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 17
+  - title: "You can’t stop generative AI fraud"
+    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
+    publishedDateTime: 2023-03-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
-secured: "dkg0cVb9vggBpUQE8XP+HE6CdBwMZE3Fms7mrsr34ofcXKBrLAdhbR6JsLjUAQDWMlvVsmTv1zhNoAwGxC9jKWQAVfkcSch3fN69j6FOxfYHoEIcUm2fEQk4dUSoi/clIk0WKahV2qvpFRecgks3FzjzvAjTJIZmFKzxcieVP9Ij+Y8cFH3ynWf1dYhiAdmAolHOCNETlxzvMXToeIlVz0bX1kHV8GZFAn0dW373kb9a/luJPZjtdEN0YYF9/rqHcPGRZBrui6FPemvxZBWUwdh2nKgJkhQP2M25p82MXzaqy4cpGap93Lk6elHqtqoB6cnIGIQpVKCBry08L39HxI42v/8fARtaZIDiokcGQnA=;kwKB6K9fI5XdZQabA26s8w=="
+secured: "ymdFL0xPjtbN13KVwj7mIAsSp+ASlDWIRtDDxNZru9aZGeuFWzUTUhYRa45LmBi4mFAvCuC9dNwyMMoJBoTc/cy5KSs2fZjLBuIaWAnx6uqjvXlgZVTw/i8wGrXHIY9w4yYgM3v8jl2HJrycilttkKwtyDtAWqyXeNVG0pSi7MKjPSfFZI7gx+9Gf9tM0LkhbY+BJiYRb8CJUlWG6KNqUy4r6WhlSYLTEBGSf2LVSdOTLzudmnDaicZ+/FzhvzYXLIrG68pB5Yzk0yVsH7UYDEzIo2XT+ebTqHtTt7kO82K2OmnmysDxeD3kmKjKMs7LOlNHEjDa0efCPGhBYgytXY9oGE77gYB9fuaZYkF6JM3aQA99FEWvnuCienuDiYDgsrMPblXtNefvvOWzCMzM4TeZFXArELL0tho1fJHarGYn54aJPa09mgg6uXHkAyIO58nCdiLPQvnUhcQXwJDSKYwf2NmEwWktsVSi3bvQMzqSfaRztqRBJR9r4KBYwQt3shYj4TWEPex7tE/rISBTCg==;dHvT6H9nePSe3fuLbfjSOw=="
 ---
 

@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK Spring Budget: Chancellor plans £1M annual AI prize, quantum investments and a new £900M ‘exascale’ computer"
-    excerpt: "With the UK predicted to avoid a recession this year and next, Chancellor of the Exchequer Hunt announced funding injections into the country's tech sector."
-    publishedDateTime: 2023-03-15T17:44:00Z
-    webUrl: "https://techcrunch.com/2023/03/15/uk-spring-budget-chancellor-plans-1m-annual-ai-prize-quantum-investments-and-a-new-900m-exascale-computer/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 27
 
 secured: "51QVq30gj+T49/vFMkKNshLalvYeH7ZrSA46yQpdFMFwnwRqBUX76ig7y//9FwpH0STJ5uvaQOuFuhuQ22rSv957zUt6nWTkIdLXD1MdKV2iF6VLTZ4pir1Cg0DuGwmAuZT8xNZ7S1te/+cWjMUUzqDGu0OS/BUS0WrpsfZMNrWjruGAT/3kQdFsFn+5vFZdUQSPPKwcJ0dEwz3z5HhtnjdcHjKC83zhCwqLaTKCNXKLDH/WXyHD3i1yAy1lB4SKwYi7OSac+TCISDBzsb0oh6WN7E6zq4kV0tvHmnGQrjaPjGpUEAHoYP8NlNox8qjrLxjTPYy3s5WrrV3cMzTE6aX6fON35SYsx+cZ7v7Oe+I=;rT0JAoCCoCtL9HhtoKb2JA=="
 ---

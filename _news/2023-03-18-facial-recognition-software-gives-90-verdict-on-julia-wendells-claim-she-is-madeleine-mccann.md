@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/Y0PrjgtEd-SvCXz69M5Jqs2EMiw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TDHRVQ3M3ND4NJNIBGBJLI3XYA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'It's practically impossible': Woman who thinks she is Madeleine McCann given '90% verdict' by facial recognition software"
+    excerpt: "A woman who thinks she is Madeleine McCann has been given a near-conclusive verdict after a test by a Swiss facial recognition software company."
+    publishedDateTime: 2023-03-20T09:48:00Z
+    webUrl: "https://www.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
+    ampWebUrl: "https://amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
+    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
+    type: article
+    provider:
+      name: LBC
+      domain: lbc.co.uk
+    quality: 33
+    images:
+      - url: "https://images.lbc.co.uk/images/566555?crop=16_9&width=500&relax=1&signature=ftEYvYvsUh7KWSKR-0vq7c0waNw="
+        width: 500
+        height: 281
         isCached: true
 
 secured: "5j43tv2ntzpRtTrLet7bwnBVtQyMRrAi9nFMC/OfIWDvrQyz8/qA7vawtA4Xir/7J93r9oYqcvBJduO2V66fmkyC16WNBCXqyr6WG/gIyH5BZCWWrhxAzOhoJRXXq30zZrygDkAHxaM137vDzXB7FBC5dvHkrLO7ltLWUIlczPCjvHaDVqm7FtBieb1V5KLSBz3azqFaKebwqJ8F6rdmoWW2k48jkf1H0agSiv/hsW46MjTwe6K8bEFgXijqwUGRb95XdoRHLhOCwCyFCb9Zpv8CqMkhy6LkFdRBiBvlyA64oUaxfZPCTlbt/VXYVaPRVFSLfE73RELUpBXvW8VB/b/K54MOpCcUgMGbK4Gkz6w=;RJHYsk1vzbGN+GvI/inVJw=="

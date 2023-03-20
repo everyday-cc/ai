@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "New PyTorch 2.0 Compiler Promises Big Speedup for AI Developers"
-    excerpt: "PyTorch is a popular machine learning library developed by Facebook’s AI Research lab (FAIR) and released to open source in 2016. The Python-based library, which was developed atop the Torch scientific computing framework, is used to build and train ..."
-    publishedDateTime: 2023-03-15T18:52:00Z
-    webUrl: "https://www.datanami.com/2023/03/15/new-pytorch-2-0-compiler-promises-big-speedup-for-ai-developers/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/03/pytorch_2.png"
-        width: 968
-        height: 556
-        isCached: true
   - title: "Lightning AI Releases PyTorch Lightning 2.0 and a New Open Source Library for Lightweight Scaling of Machine Learning Models"
     excerpt: "Lightning AI, the company accelerating the development of an AI-powered world, today announced the general availability of PyTorch Lightning 2.0, the company’s flagship open source AI framework used by more than 10,"
     publishedDateTime: 2023-03-16T17:03:00Z

@@ -59,22 +59,6 @@ related:
         width: 401
         height: 325
         isCached: true
-  - title: "I Started In FemTech Before The Term Was Coined. Now, With ChatGPT And Other AI Tools, Here’s How We Can Advance Women’s Health"
-    excerpt: "The AI I used to handle would read a lot of data and answer a question with yes or no, or something in between This response was something completely different."
-    publishedDateTime: 2023-03-15T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/"
-    ampWebUrl: "https://www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisafalco/2023/03/15/i-started-in-femtech-before-the-term-was-coined-now-with-chatgpt-and-other-ai-tools-heres-how-we-can-advance-womens-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 59
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64118cecf39c7d25add501ee/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
     excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
     publishedDateTime: 2023-03-16T21:59:00Z
@@ -266,6 +250,15 @@ related:
         width: 1200
         height: 810
         isCached: true
+  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
+    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
+    publishedDateTime: 2023-03-16T12:36:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 23
   - title: "What Role Could ChatGPT Have in Clinical Trials? A Bigger One Than You Might Think"
     excerpt: "While this approach has led to impressive capabilities in natural language processing, it also poses several risks. One of the main risks is that the data used to train these models may contain biases based on the demographics, cultures, and perspectives ..."
     publishedDateTime: 2023-03-15T20:56:00Z
@@ -280,15 +273,6 @@ related:
         width: 591
         height: 591
         isCached: true
-  - title: "Cameron Smith: ChatGPT promises not to bring about Judgment Day"
-    excerpt: "This is the unedited exchange (ChatGPT responses in bold): My purpose is to assist and provide information to users through natural language processing and machine learning algorithms. I can help with various tasks such as answering questions, generating ..."
-    publishedDateTime: 2023-03-15T18:22:00Z
-    webUrl: "https://www.al.com/opinion/2023/03/cameron-smith-chatgpt-promises-not-to-bring-about-judgment-day.html"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 4
 
 secured: "rqkTuFOZhKWzidIh4urGVSdpOqeDnWFkL0IA2JdG50GCzBRvrGP8lDqPiFcovb6IN+Yi5HGtsxqznZ7OSXUoT2wZNpf7GldCEomFgPr+BIF9U3oBp2drn/7Upcz782dA6RWDC4wxaV03t4e8WhXHvYJ4zTb0yaluq8Ok8yNDp8rdBhZB9vHttUo4XMXDVBDQyugm2F3M27tppVRrfCSDqCyue0ch1AgCB5+bnfJq2YW0yNMdx8VBPF/gcFckgrFoNx6tQF6q+1FkqM2qs98+ckR98qFXyFj3657OyoZFe/YECb0aBEO7Max9RyhClbfTihYuzsi7fJFf+egCsxbaD9zVjDr5pQ4pw9v1jI+mYXI=;biq4QcZH0F6BklhCRleMHg=="
 ---

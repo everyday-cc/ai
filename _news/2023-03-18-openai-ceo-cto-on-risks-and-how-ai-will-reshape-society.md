@@ -24,21 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says"
-    excerpt: "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ..."
-    publishedDateTime: 2023-03-15T18:28:00Z
-    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/"
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4"
+    publishedDateTime: 2023-03-17T15:14:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
+      name: The Guardian
+      domain: theguardian.com
+    quality: 68
     images:
-      - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence"
+    excerpt: "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4 Sam Altman, CEO of OpenAI, the company that developed the controversial consumer-facing artificial intelligence application ChatGPT ..."
+    publishedDateTime: 2023-03-17T17:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 66
+    images:
+      - url: "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2"
+        width: 620
+        height: 372
         isCached: true
   - title: "The technology behind OpenAI's ChatGPT: Generative AI"
     excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
@@ -56,22 +72,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
-    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
-    publishedDateTime: 2023-03-16T16:01:00Z
-    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
     excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
     publishedDateTime: 2023-03-16T10:49:00Z
@@ -86,45 +86,22 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "OpenAI unveils GPT-4, its most advanced AI language model"
-    excerpt: "One of the world's leading artificial intelligence research firms and developer of the popular chatbot ChatGPT has announced its latest breakthrough in natural language processing. OpenAI unveiled its new language model Tuesday."
-    publishedDateTime: 2023-03-15T18:02:00Z
-    webUrl: "https://scrippsnews.com/stories/openai-unveils-ai-language-model-gpt-4/"
+  - title: "OpenAI CEO Sam Altman says AI will reshape society, acknowledges risks: 'A little bit scared of this'"
+    excerpt: "The CEO behind the company that created ChatGPT believes artificial intelligence will reshape society as we know it, but admits there are extraordinary risks."
+    publishedDateTime: 2023-03-17T01:57:00Z
+    webUrl: "https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 39
+      name: ABC
+      domain: abcnews.go.com
+    quality: 42
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1678890405_Lx4TRf.jpg"
-        width: 640
-        height: 360
+      - url: "https://s.abcnews.com/images/US/sam-altman-5-abc-gmh-230315_1678991270555_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
-    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
-    publishedDateTime: 2023-03-16T23:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
-        isCached: true
-  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
-    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
-    publishedDateTime: 2023-03-16T12:36:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 23
 
 secured: "nU3qSst41OXYf/18499L1kxmydQrDJN0ZdtHJva9QK54LTSWSjQtvM0iRUOwwJ+Q2jV+AuhbRNtv0/QWaQVtouLgzuxYiM+3JReD5u+6OXbd+V4Zk9+iqCUBrgwkNq+NTbI6SwyRIF+D1LCMgClVJ1Iq8wXPhqL1KTDE4w5xKLd45q4mbZQs8BOfhSJSezHa4wqS9Tu7dYnyS/f485wM5u7dMFWEcOeT6Yu5nciW78A4MP0eYdD7rseiSt/wfwdt68inzVM6u4JFkJZ7KjrNext/hQFy1W7sBaxgdWgzrzTWRKNolydU2YWa52ZQ3tQLV+Or5IKu2In0nm9NZ0Dl51cw2+jtn5kNE0lydMRxscUJiQiw1Ug0+uPy4EnLjeUqnKsVYl5O/tG6NcLdv5OyacV1BkANJY26MYPGCwByu3U908+Qz7wzWjpNPwTbBOVh5wFGR8KGyAKWQ7DpqpE+11Zx6LAIGShi5X2b++MSVcMWIHBtZ7YIkV9SDnyz4bZTdsN24QQRyZPdE/I8j5PlDQ==;2bec9hQaETvE4RZCceohvg=="
 ---

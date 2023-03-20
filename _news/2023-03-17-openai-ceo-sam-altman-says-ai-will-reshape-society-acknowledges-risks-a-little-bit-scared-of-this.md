@@ -58,6 +58,50 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
+    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
+    publishedDateTime: 2023-03-19T09:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
+    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
+    publishedDateTime: 2023-03-16T10:49:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 55
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
+    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
+    publishedDateTime: 2023-03-18T11:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
 
 secured: "QZ6ZL0/gkJqlyY+x+MJISN5GRRxXOH4Mx6B9PGC6Gv3r/lecBZACkfFCGIr1cI0Nvo/NfeXxAiFotYP5kYHKF3yLwGYtam0wiFLIV/OXzu40LeUslD8wpLDx4FIyRrNjTUUofI6Gnteu8VQOEHAZDAnR9gZ9Uao2jU0UyhhROyFkJRlXwxUjCPXy6cRe7gyvjBmYiF4nBC5Opk99plichi1tYFLaYmfe+Cx0S7rkzB3T+DWBbsr7xJSPlNnMAvBWWEb3HOA3D4HNF3W94Iak8R7F3EhGPYb8JFnmOfQlUNIAUO+M3uXwuwIiVgz7PAqf82l1ta3KypEeW807AN7LHh4K/9uULo33UQ+m8RCdvQBiFYimwUP8Lt/ET2bH0kjdgoUaDN+wwPNlA4573tecwak3rpt/k7GkJQ50afjH91tXMoIfxJ4bqWFFi2nrO+ICMkWcdV6R6Uy8DR+bpxv1UnjAG8yDBo6/GOjkYB3nE8eVIFUvN//JSxyv7gdNEgRGKrTTMoiEerqsWOD1XDCdVA==;KlRNpfXOxZeuiqN0V2wyUw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-20T05:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-structure-along-with-size-trends-revenue-market-segments-forecast-to-2029-2023-03-20"
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-structure-along-with-size-trends-revenue-market-segments-forecast-to-2029-2023-03-20"
 type: article
-quality: 65
+quality: 67
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

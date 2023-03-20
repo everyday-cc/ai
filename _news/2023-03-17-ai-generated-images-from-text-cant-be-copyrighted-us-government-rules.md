@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-generated-images-from-text-cant-be-c
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "U.S. Copyright Office says some AI-assisted works may be copyrighted"
-    excerpt: "and that previously filed applications that do not disclose AI's role must be corrected. Reporting by Blake Brittain in Washington Our Standards: The Thomson Reuters Trust Principles. United Statescategory Trump allies attack DeSantis with campaign ethics ..."
-    publishedDateTime: 2023-03-15T18:38:00Z
-    webUrl: "https://www.reuters.com/article/ai-copyright-guidance/u-s-copyright-office-says-some-ai-assisted-works-may-be-copyrighted-idUSKBN2VH1PG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "05WFIh2rVKvoj4LcWq5/sr+U+D7mRhZ3tkzuuyO2NQAMH9ZiyXU5A/4FyeXXS4Jw1i4JEQwA+qBiPpE/f9nOlz0YtSQWQbTybzb36fENt8m2ip4pgd4GKmfLg5noKzzSzaAGPOrUp1w3FhXeIQHovGSlWrhlmWegCYS+DJvNz3WVO3HCEZEFMxJlkB/7BXP1K3o5Y+QA4QOyn2+FUWWKzKZC6yG4t61ww0nAop483fHgUAHzjJxkZFx+T+3H1ljx9zKefZrECAqqhbQet9be63BTpAp7hd01zh5lEpHvUhNszQ3zk/+a18trYx5bTP3dWcmQwEtZfIMZRcmi8zD4OI/mvOrodfK+dzMOxDiO35yl32TP0Bwg4BQbAF993L73+5gLu7q2IYzJCTNsWSjX6dJOJ+LubRaVI5L6Ew76HbYaSE11ZoxcvzqLIEwZItPuBy+hUZNGUKogp7UTNnRnaPRdR3LwFfRftJcarCObk82HM/jFDH9UW0E89ChLe1HpNDjOKpwYmljLVbNqPJIzgg==;08lk0urJ0T/x66OgdabX8g=="
 ---

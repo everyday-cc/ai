@@ -36,31 +36,6 @@ related:
         width: 1018
         height: 681
         isCached: true
-  - title: "AI isn't close to becoming sentient—the real danger lies in how easily we're prone to anthropomorphize it"
-    excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions—from queries about the best Italian restaurant in town to explaining competing theories about the nature of evil."
-    publishedDateTime: 2023-03-15T18:20:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-isnt-sentientthe-real-danger.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 42
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
-  - title: "AI isn't close to becoming sentient – the real danger lies in how easily we're prone to anthropomorphize it"
-    excerpt: "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions – from queries about the best Italian res"
-    publishedDateTime: 2023-03-15T18:03:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/ai-isn-t-close-to-becoming-sentient-the-real-17840447.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 1
 
 secured: "B9Du2O+qPmUFIA5ry0z8Q+QFhg640stK+y8Jrv7btkuvhyw0PI/k4POsrhYwyEZz3qDZOw3UYybeYDsdT68pX+MZr4WZ2xSW4uzLkjgSZ+xfT8ogt9MPr30TvgkzbQA8lHdJ0aKmKPsHrPh7OSvLDbGh+IuAjSb4b/U+LlIWN50Tzh7FScAnx1AZLs/POwQzjoRtG9y4OhLpcn/olTyyjxLpldI4Dg9L+l25BugtRTOG3H8ZGoEzLTZQByxiu49ygpiDTKPp+HlvizkhH//ohqgtdWEGC3P9f8fadkhBBt+QxRbIg6SPpoC73GifDQ5nb33l4oZeYcRKJD2lmkjZ/fzt8GpZvI+ebG7G7THNA8V3mZOshYe5om9VxIvZftls2ibKENtbvbZ/AI5zK1jZsUN66ySaoQMSNG+OLZ0ElgVpIqeJZu4mtdDC5nEPqavwRxPFMMRB75oN1Z6qlNbG2+IMjb3Me9UUNkyWknS67m6KKDht5d7uWoifmtPqYzroXJcSuk+R2Q0kIqteHPq7aQ==;zxCaPvMWH9MQvrKSbgS55Q=="
 ---

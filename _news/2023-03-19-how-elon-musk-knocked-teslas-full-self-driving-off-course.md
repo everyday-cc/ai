@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 898
         isCached: true
+  - title: "Tesla finally starts rolling out Full Self-Driving Beta v11"
+    excerpt: "Tesla has finally started the broad rollout of Full Self-Driving Beta v11, a significant update that is Autopilto with the Full Self-Driving Beta software stack. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD ..."
+    publishedDateTime: 2023-03-20T10:17:00Z
+    webUrl: "https://electrek.co/2023/03/20/tesla-starts-rolling-out-full-self-driving-beta-v11/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "t/Njq3sW/N1ENZ4VdmqoBB20ABeC/IOj0Rb9HtyST+AvRnMJ31kyN1aLyr0NXSf9v0HMKSQLGChOkAgcESX4zi1SVbvb8Hekk5rG7tbRe/N9d4JDn2ZHlI4FE1cJSy2hPY1N/b3MIyLaav0UfQbuJcCKEvDaoseVa3h9KXr9DUiXVVnZL+7J0GkAfNRiiZNpBTsz2o0kg95xaDQ1DM3b8MsRFPhzvsqNXwp5madqqntjiGretddsTAXU8mTlIza72rLA1mqC0VTOpZ4amTR4gHNczm6I4u5xbkBMglJk/z49kftzbewnGhLrDskzjv8UDP0ZyxYLIqICuwETCDMQzpGirxGBewWwddYmEd2fBnynu8Sv80UM5KCBarkj6VY5+WRxqRdYPLK8LAM1ONM1NskC2TUnRZ48E2R5k4X+w6GMt56S4JIoVi4DV5UX4x/JV13YAVftFL5y67T7LWzWE3C/tS2K2PkAGHySiXKY7ukPBWsENaFUNPm2K5e8Hn9KC6czftxeYsxRxr5i98SKjA==;eZoDotZ2qfHS+lKkLcKWkw=="
 ---

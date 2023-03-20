@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
