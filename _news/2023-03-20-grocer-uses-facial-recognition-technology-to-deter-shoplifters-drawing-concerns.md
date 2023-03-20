@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
 publishedDateTime: 2023-03-20T13:24:00Z
-originalUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+originalUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -131,6 +131,6 @@ related:
         height: 900
         isCached: true
 
-secured: "4vdr7OJQXCxMqe25rBkRDCD8z6LK5lvn++EguxpePyyatTbzVJqe3d+MBV7caBa9x2h7HKY8U9hVEQDuCOz2M0/KJBZolGxzCsLcJyBPAtWpNb9y416r/3YeASjj5Y4Xx1CYs8Tj8hwG+HfyqP5wg66bcJhneyFzCqQ6E3MXreHTSakmMYRwbsbIv9KZFc4Jel6qiRnGwfFb07R0OOtQxwlsdiH/5dAP4VySQ3K4XbFPBriKTp7v5430TSnpVvLwa+KsTij1abzQIY0v6oQ3NtH7c4s2wMBZwKF/y/qEt2c3whjjUe0QCeENKn1AJZcif9A9/j9J0QuyLUc3RTGN7VATCK838HEUsXqP5h9BZoQ=;YTdtN8bWnOqiOY7ynPk9cA=="
+secured: "Bc4rdURAJA4jySyJne1dQ7qQv86ZaTKRqtEVxHx8Y/tetapy4cjQPNuLZ9WZ+NcJU5NBbFEHGrNdVCwFF3sLCjEU1MlS1wzAU228F+ciX7RDLxDnDdtXL/SHkWd1C6iFiHCIsxIowOTIRdQ3gdUKYBQSYd0p3zTXMOmIldwxy7HqbQD76qS69FznPt1JNg/c9mUz+pAj0X2FJu5N0wBsp1ICvCXh9t+gWg0vLE0oC7hsynzDzJaTbx8u1kuElnt9Yd9Zlj5+BZcdFkxjTQWjiaWr8yH/KtD/0u5vOcF+KCdytEzDUmeJYFUt/jgShGfgUfiyV08WeK4O8J7lW1Rw0ku7UAL6Y1H71OEz3YmxVSg=;YlpN66YyAuXiONklFfbM5A=="
 ---
 

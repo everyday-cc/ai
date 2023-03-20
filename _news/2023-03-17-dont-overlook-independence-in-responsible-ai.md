@@ -58,6 +58,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The AI arms race highlights the urgent need for responsible innovation"
+    excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
+    publishedDateTime: 2023-03-20T17:14:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "1AQ6uzeffrf5VdcqL1hn3bOSxT0SJ3EiVaHVDPdgipjkXgxthqLQrT5qtRevZURnZy1ZYiFHvCR9UnRI+CHdOtWoxyX6gAru93SV1GE0L3LLe2eIWPrD7cTOf1N7/58mAoLzyLXjD5wXVW1cFbLmWsjx4p3FiBKk/7nd3RtJ7lhpT0Bgv8TskbT0DFH8M/tMur0m9sGT/XFXunW80LHMoTnjyNizUmGHg2sb7/rSGqgZ6bUPpPCdtOIlDX6GehIoFEKMTHS5hc6cXq4miR9QDJGPfTY8XMAD8VhQ+IDKPsfKKDo/0EFhW8YHPNce33cy3xumOy6j4aXbd3pd0YRwb+O1phPLyBYaiNgp8D8Y9bb/OBf7g5Z7xAV8ZKU6CouZCSeTzYenFsyFtoisQNRqjvSmzvAdzZ/C6dhicmNAZRCpeZNdRKIPQtaWuJM7nBD61BoMGqfNYhm6Q1N5E3S7Fg/5s5lglfRNNvl/qbR594GOMd9AIcv4FNCpfhm0k1W4ineuZ9VclumxCFGmS3lLWA==;cBv8mEC8cbdnFCbDsQWDyw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "Self-driving startup Gatik to double workforce, strikes Kroger deal"
-    excerpt: "A driverless Gatik delivery box truck operates in Bentonville, Arkansas, U.S. in this picture taken in October 2021 and obtained by Reuters on May 18, 2022. Gatik/Handout via REUTERS"
-    publishedDateTime: 2023-03-16T01:03:00Z
-    webUrl: "https://www.reuters.com/news/picture/self-driving-startup-gatik-to-double-wor-idUSKBN2VH0MO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20230315&t=2&i=1626853125&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ2E0BK"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Kroger set to use self-driving trucks for deliveries"
     excerpt: "Self-driving trucks will soon start making deliveries at some Kroger stores in the Dallas area, the company announced. Kroger has partnered with Gatik to use its midsize trucks to carry goods between a Kroger fulfillment center and the nation’s largest ..."
     publishedDateTime: 2023-03-18T14:24:00Z

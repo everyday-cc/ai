@@ -85,15 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Growth Revenue, Trends 2023-2029"
-    excerpt: "Global “Face Recognition Systems Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the ..."
-    publishedDateTime: 2023-03-15T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-growth-revenue-trends-2023-2029-2023-03-15"
+  - title: "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029"
+    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2023-03-20T09:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -150,20 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market | Industry Forecast 2023 - 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “Cloud Natural Language Processing Market” information for each competitor includes [ Netbase Solution, Digital Reasoning Systems Inc ..."
-    publishedDateTime: 2023-03-16T00:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-industry-forecast-2023---2028-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -285,20 +271,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Farming Market Top Players and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence in Precision Farming Market\" study describes how the technology industry is evolving and how major and emerging ..."
-    publishedDateTime: 2023-03-16T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-top-players-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

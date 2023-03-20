@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11873595/amp/South-P
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11873595/amp/South-Parks-latest-episode-Deep-Learning-written-ChatGPT.html"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Daily Mail
@@ -27,35 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
-    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
-    publishedDateTime: 2023-03-17T10:32:00Z
-    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
+  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
+    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
+    publishedDateTime: 2023-03-19T16:49:00Z
+    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
     images:
-      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
+        width: 506
+        height: 337
         isCached: true
-  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
-    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
-    publishedDateTime: 2023-03-16T16:01:00Z
-    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
+    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
+    publishedDateTime: 2023-03-20T17:12:00Z
+    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 21
     images:
-      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
+        width: 1500
+        height: 700
         isCached: true
 
 secured: "+cd1M4EY/T3J9gHju80YruhFeHLAzt0hGlIJQ/Jcdd8ziZlZgecWFcVHkqM2Nt3CR71vSPgY6dKbO5hUt0+Y5aDChmsrI2nx/A5g7BaVGa88xSCVWA/P8+YcVrLWnCyKeO/0bDMNzem30I6BYrBLqSQb2QnhPzhNi4wSXJOCJuJl7YOSi/oNFlRcpdFyA0/qWcDXm/yvk5d359o4FpzDf+hafY/0uvJjKZMHiq1DvWxeckQiXpNteCjJdoiZWrsvCSvOaKiCirsKm+rgIsCNeoOq3fB3EudG0Vh/A1wWhQg4NMkJ35QCTah+t+DzFNnZdTmPI4aah9XPs9DCrf/QmvZaTEw/zpRw3v3RpOhAia/rISI/3l/ThcNkUN48bTh7LqkIL8uCfZkL+ku3g99BJHeXoVCgTvZc+dN9SLpWhe3Jww37rRzDjRW7Rjq6c3nxhuEBBMLCIffl7anK2sHLJIshdmGeT3beyiazQBPnGokaK6ZnjEAPisHmXV9sK2EFwMjL3E0M6l04545Vw+ckxA==;I1e2tvVMSbzNGgXQ8YTDBw=="

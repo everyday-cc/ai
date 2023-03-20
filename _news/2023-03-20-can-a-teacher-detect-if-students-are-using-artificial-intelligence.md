@@ -5,10 +5,12 @@ excerpt: "Artificial intelligence is becoming increasingly common across the int
 publishedDateTime: 2023-03-20T13:11:00Z
 originalUrl: "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699"
 webUrl: "https://www.nbcnews.com/now/video/can-a-teacher-detect-if-students-are-using-artificial-intelligence-165736005699"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165736005699"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165736005699"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: NBC News
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "cqe662bhPJ3xn+K1kEL+eqpwFkeeGi/eEugirpjk7TBkFl/Mw59CqA6riHSjUQlA8zFXlG35Gz7xbwxZ/3pJWo/iT44wqAdftceRe+gElPUGNmLp/jnJREc5y9m2d7gtduOohm7RyFSFsRvZzLcJewG1Dzppr37JjHlqGbcx6SwQXqY1VklTog985ZaLegv9cjRygha0wg81YoeIT1mr1LSmhZFmJiQgTJRAP6O8PQ3OjRhXMdLM378M22lhVk/XUVwz82maTpjJlSrVwkxpT4eJ/LYjUCjqzC5x+sNAGnzy+Q/OGQQ+PFRRmTjJamnwyP11iAKOyMDhq3HaQRBPDIanAOVnxmMf3/AKYbzVOYI=;JrHBQaITwIWD1I3nc3/3+w=="
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679317811866_now_mnn_chatgpt_teacher_230320_1920x1080-a5f6v9.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "tetQ7VPnJuJQVyjxozV2XVgM2l8mlX3akxtj1uO923a3+wKAfRhkQSC2VItO7aabfcMh22XYAF6XqfGkc6wfSzTwlhGSS9vaSXqS76zybbzeNITBUJ3VlHqG04b8DY6jVQrEunTohnMOrftFupAG4PByyZMIRnbUX0xxDKf5zQCwwqjUEgozBMzaMX7bfmGOECpY3e8kI+Hn7rTd5dS4odVUhl9X9lYNj9qmAl/GSKf/6W/YWXWjkGBGk64NL+vrUgSNqmGMtOncJ6uMwh7h3lfWhZ6vPsH5FJJsZFi+e3DVScZzzXa703DrDJLD50bLara/j5Hhubo8KvnsYVbrmUZwbBzzJmFmyVULt6JuZIw=;njfUjodRVMk8QEiDSuDQyg=="
 ---
 

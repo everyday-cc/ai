@@ -57,6 +57,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
+    publishedDateTime: 2023-03-20T16:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "uezJ/MWAOo8piNyYpRdC6wzd+o6EScierJDztzbOXCxotN1YyoOEEenBBa/cbV6w3hylniQoX70JmP6mHLvdV6ti/nSXUiLsL0ccnQdkZZsoNFj8mAp2jm9qtyiGbN7/cwPrcLgEXq/QZuvmS46EKPzG4TZPBhEJZv1E6LMCjswpQdHRUohFBDJgVLWSeqZbBZfDaQ4RSdb+k3zSGPRElQlIOv+4VYIJDNFhNwrfGB3+AmnUcgpZCJUkTIsG+f9FXLpAeXAhgP45NZOhfD4BLzOO1Ig2qxdzvg9zUwxmZmkmUWQ3Tx9nd3XsoyZkeQold5FFjGU26Dgtc6MQENyn+rQw5IauZqhVErMkCYEBlqPhaxeh3XaAaUZFu6ySqHyInB6gelQ8JVcvOzgp2fd5cZkeGw5gO4qI3G/WRbSsN5Uu4ewJTOZscwO4RQdN9rfYtvZwKlsIAFQQCHOEbZoIKZ0ZvAJJh1173KpogAIUeO5vuF2ugI+OMG2xFHxxqyHUgTlNnYzvflYvf22l1vExGg==;olZHQzn1E38iywAQ2gMDlg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15"
 type: article
 quality: 99
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size and Forecast till 2029"
-    excerpt: "One major attraction about Artificial Intelligence (AI) in Education Industry is its growth rate. Many major technology players are [ALEKS, Microsoft, AWS, Knewton, Cognii, IBM, Bridge-U, Google, Liulishuo, Fishtree, Nuance Communications, Elemental Path ..."
-    publishedDateTime: 2023-03-16T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-and-forecast-till-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Chips Market Assessment Report by 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- The \"Artificial Intelligence (AI) Chips Market\" analysis [UPDATED REPORT] 2023 provides an assessment of a specific industry, niche ..."
     publishedDateTime: 2023-03-16T04:03:00Z

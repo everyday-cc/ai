@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets
 webUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media.consumeraffairs.com/files/news/Hacker_hands_concept_Bill_Hinton_Getty_Images_1.jpg"
         width: 900
         height: 604
-        isCached: true
-  - title: "Ford’s self-driving repo man, Bing AI’s new personalities & discover your Facebook friend rejects"
-    excerpt: "Plus, banned from Airbnb? It might not be your fault. If you're an EV owner, I share the best temp for your car's battery range. (Hint: it's warm.) If you"
-    publishedDateTime: 2023-03-16T00:40:00Z
-    webUrl: "https://www.komando.com/episode/fords-self-driving-repo-man-bing-ais-new-personalities-discover-your-facebook-friend-rejects/879779/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 26
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2022/04/kk-img-20220309-kim-komando-today-1200x600-1.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Facebook Parent Meta to Lay Off 10,000 Employees, Close 5,000 Open Job Postings"
     excerpt: "Following layoffs of 11,000 workers in November 2022, Facebook parent company Meta announced on March ... Zuckerberg also revealed Meta’s commitment to one of today’s hottest technologies, AI: “Our single largest investment is in advancing AI and ..."

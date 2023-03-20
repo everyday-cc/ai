@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-t
 webUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
+    publishedDateTime: 2023-03-20T16:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "yTVgcQLOLTjyk/dnJpgMghTzLJfloVm1jPNcsuc67mvYf0KHvFZtlJBwY78Qvu+CPs99eB45mUGOBlg/3UPkYFPQ9DgwkKwYSgm0ZfQ+n+0qnBaZORwvCJTq3kKyv5lswVL9af/p6qkc0irPHIS+ayhmLahc96l5DAieF8ROi1eVsmUY3T2Sk/Xir8O3xYKIsu17Fe1UTCL/3L/riyFc3hqUl/bXlGVZVnq8/o2Xd4rKCuAiND2/H+Z+MiUgJa4i+YQltept3O9T9ZOHC+C+PV/b9n+g63hL0JGhHARjmyAdy9066N3KscG9h4+ryjN1UUukIM6qLHui/ctZ9mOP1OL176YNq8T/D8+YE6O+cPk=;jVNapJlu5X9GISng8ZojVQ=="
 ---

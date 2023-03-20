@@ -295,6 +295,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Harnessing the power of AI today"
+    excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."
+    publishedDateTime: 2023-03-20T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2023/03/21/2253140/harnessing-power-ai-today"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "The Future of Data Science Lies in Automation"
     excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
     publishedDateTime: 2023-03-20T09:58:00Z

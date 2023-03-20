@@ -207,20 +207,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
-    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
-    publishedDateTime: 2023-03-16T00:25:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 71
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
     excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
     publishedDateTime: 2023-03-20T13:30:00Z
@@ -308,20 +294,15 @@ related:
         width: 1105
         height: 675
         isCached: true
-  - title: "Syneos Health Collaborates With Microsoft To Accelerate AI Across The Clinical To Commercial Continuum"
+  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
-    publishedDateTime: 2023-03-20T12:52:00Z
-    webUrl: "https://menafn.com/1105816797/Syneos-Health-Collaborates-With-Microsoft-To-Accelerate-AI-Across-The-Clinical-To-Commercial-Continuum"
+    publishedDateTime: 2023-03-20T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?417095"
-        width: 375
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "6OT5s4PJffBFMpkMnwnz32P6+Bke49dwKkuvo+Sjj4V3bGPkDOTwDSj4lTSkVXfIRhYTbr4HUm2JoPqB669bwUKnmCE4cxVnwC/u14wKWKFh+JNSedhoxublrZdrqeN6mLlUiLO20JECpSjTe31tPTZPSJi4agxT3AF9AQopqIfR3GWjp0HrSrRFDiMBy1X7jAQ8tYhGShD7gFOgEruL2sffkZuoPTJlGIavNk4DtHhKJ9YJDmwqY2GZt9Eep0ny49r7QsNt+toSJfM/kZ5BduuGmoOdHoj4idtpOk/7lY60wbcXNhkvJwb/+SUXOJtH1KvwHK6zzOdF6GMfA5ggLzGx7sdYV9tMChthb2H7gLNbf75cfd1nVL+iZVFhgTc6kH4XgkkIpQVCbVyoRKDIWXgjb2olCA5aTiTpG7CaYlRa/EkXwBSAXT50sZ7pqEGAXb0FYWIPLOH1BmtyDvaz/Bkk6QZ6IuXUVeaZA5b8ZeJhVue9ZvcaXYOzwCNkbHBX0KyQXnd2wDuJOMrPvZIQxA==;vYT+3wbBRuojmVRA9S+M8w=="
 ---

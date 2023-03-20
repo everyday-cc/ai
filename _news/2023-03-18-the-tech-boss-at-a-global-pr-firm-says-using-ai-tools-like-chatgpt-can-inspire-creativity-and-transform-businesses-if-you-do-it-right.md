@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/technology-chatgpt-strategy-companie
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI's co-founder says at some point it'll be 'quite easy, if one wanted, to cause a great deal of harm' with AI models like ChatGPT"
+    excerpt: "OpenAI co-founder Ilya Sutskever says AI models like ChatGPT are \"becoming more and more potent\" and could be used for \"a great deal of harm\" one day."
+    publishedDateTime: 2023-03-16T16:01:00Z
+    webUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-cofounder-easy-chatgpt-models-cause-great-harm-one-day-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/640543b5934c2c001802b0c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
     excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
     publishedDateTime: 2023-03-20T13:45:00Z

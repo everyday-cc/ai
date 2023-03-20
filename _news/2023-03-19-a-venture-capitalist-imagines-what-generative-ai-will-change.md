@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what
 webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,31 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Change Big Tech's Relationship with Journalism"
-    excerpt: "This problem has already been raised by Getty, whose copyright-protected images have been used by AI ... Research Center. \"The tactics were unpopular with the public and damaging to their brands, but the tough negotiating, particularly from Facebook ..."
-    publishedDateTime: 2023-03-15T23:54:00Z
-    webUrl: "https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
+  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
+    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
+    publishedDateTime: 2023-03-17T10:32:00Z
+    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://www.cnet.com/a/img/resize/c0f4e791fc7b29a5c886a88572adf428a1eb9498/hub/2023/03/15/e7218460-12c6-42ee-8dfd-1fc295edb72a/gettyimages-1232274134.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "In Cancer, Patient-Empowering AI Begins To Change Care, Relationships"
-    excerpt: "Artificial intelligence is quietly giving patients the ability to find, create and act upon an unprecedented breadth and depth of authoritative information."
-    publishedDateTime: 2023-03-19T15:29:00Z
-    webUrl: "https://www.forbes.com/sites/michaelmillenson/2023/03/19/in-cancer-patient-empowering-ai-begins-to-change-care-relationships/"
+  - title: "Generative AI: Will it change the way we use apps?"
+    excerpt: "Both firms are making generative AI platforms and models a part of their cloud offerings too, Microsoft Azure and Google Cloud. Since Google and Microsoft are also among the biggest cloud service providers in the world, this means more firms will be able ..."
+    publishedDateTime: 2023-03-20T17:39:00Z
+    webUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps-11679333963063.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/03/20/600x338/primerpic_1679334183486_1679334189233_1679334189233.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Artificial Intelligence Will Bring Social Changes in China"
     excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."
     publishedDateTime: 2023-03-17T13:49:00Z
@@ -66,20 +71,6 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Q&A: How can artificial intelligence help journalists?"
-    excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
-    publishedDateTime: 2023-03-17T16:26:00Z
-    webUrl: "https://www.cjr.org/tow_center/tow-center-newsletter/ai-journalism-qa.php"
-    type: article
-    provider:
-      name: cjr.org
-      domain: cjr.org
-    quality: 39
-    images:
-      - url: "https://www.cjr.org/wp-content/uploads/2023/03/image0-800x419.jpeg?122376"
-        width: 800
-        height: 419
         isCached: true
   - title: "The AI doctor will charge you now"
     excerpt: "“AI means a brilliant doctor on your phone,” Srinivasan wrote ... A notable example of this was the laboratory startup Theranos, which successfully lobbied state governments to allow patients to order their own tests, then offered them at rock-bottom ..."
@@ -95,15 +86,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "How AI Will Change Chip Design"
-    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
-    publishedDateTime: 2023-03-17T07:22:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "yBlXzqKkesqrAxjDFM4a4SlsYiCO+M9ph9LFWCoiJa5yRIFZp1RyXwoxbGyplk9L4+lNOthMM3iGnXIq6ZQjCnF4tV5bzmbsS5NL4LmaY2CprU5DbyKCGwOphkDXn7fX/YLvHGkTC2qKmed41sunIzPLY1HHcEq8Zx/7XxLX76QPyS1sv3PElh4npBx5WI7Whl7TwBlcUWvPjz31I/mUb1R9mN2Opim97vNpKdzSvI0lu3ZvVtVh44Bm/DRQDJ9Rg4t55qm4JzZApc/I09ALKSz22h8+gN7q8yQsSox40ZDI/p2tBVzOHgC4arC029MWO9GVF6QCdVCYVVhDo+SD1+qgEwLLRwNXLnKpqdT4Jy6kcmhLKMoxbASojPvWTu7yG5N0LbZ6Ku1wXIL8iJ2p6RX8L1iCJEh/Vm0JR0iVq8yWwPWMxT207ylUMMR+OFINwHLL8VgguvA8VupYplIoIG2hZ7325e4JNR4Uq8bwKl7/QU1nqGvGkXv0cLf0r/ZkyO9K2Ejvdxiwl4lxirHeFQ==;mkfEnLD84tuLRDmuKOXTXQ=="
 ---

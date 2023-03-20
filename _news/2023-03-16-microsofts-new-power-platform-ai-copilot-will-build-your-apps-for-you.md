@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
 type: article
 quality: 104
-heat: 324
+heat: 314
 published: true
 
 provider:
@@ -197,20 +197,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
-    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
-    publishedDateTime: 2023-03-16T00:25:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 71
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
     excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
     publishedDateTime: 2023-03-20T13:30:00Z
@@ -312,20 +298,15 @@ related:
         width: 1105
         height: 675
         isCached: true
-  - title: "Syneos Health Collaborates With Microsoft To Accelerate AI Across The Clinical To Commercial Continuum"
+  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
-    publishedDateTime: 2023-03-20T12:52:00Z
-    webUrl: "https://menafn.com/1105816797/Syneos-Health-Collaborates-With-Microsoft-To-Accelerate-AI-Across-The-Clinical-To-Commercial-Continuum"
+    publishedDateTime: 2023-03-20T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?417095"
-        width: 375
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "47ZhozmtUNDyL80EujXS2vLBEt/FKKY5gyRqTynl+c8v/nEQ6rMhjgMUhiRorDcNMquKDp6iIme1azqCt0u5ti11HQ1eu9aRGFIGt0Mb6I5nZL9VzlByyOaNQLQGQuf5s8/wOQrFnMAHvyvdL08eYBcuO40BzQbJvIe0QuaYnH2xPpdavIYjHtR6Nqc94N5M/xPbFcP8lAL0OzCE5wmTQZWv5qS7ncXOzMhxQHYwAzAKAcjccfcJ5Ox59KJLMGgP/jt0+gGci22vya3M4PCN/aD/y7nPr2WWaZgNn7mSaP9XkUC2yDLR3dDFsl6Qmkj/4CuPG4HX8iBKC5CjWBg+bFLvjHRMst/E0EWKueizAbj9g32pinrLR9CQ0eTRKqCx+rdG/b1j6O0UtoOe1Js1BwIR3LYTnlGjC/zCRIDD4SB2YubaXfqBHA54n1ehuNTrlKmfff3NliuPubHn5jekDRg0k7YayHQ4BaD1Z7Xp1V4GwHF3dH5EPHa6gmQr7kPSO3S7H5zLsHXKMx3xAxzw7Q==;w3T/wZ7ncyO/etWWUqa2cw=="
 ---

@@ -46,6 +46,15 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "How AI Will Change Chip Design"
+    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
+    publishedDateTime: 2023-03-17T07:22:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "nn5YCmvtQapvlh5iAhaBImhYisRoUz+yw208HLEM1UADf88zHqT+CzWIBtbkEfNOSxngN15IdocEQvBjcWh4xIeTRBXLj7OnD//I6NlSOPBF4eqal/KBcUAvvR9hku3WXh/brLNNqJDRkoj7I5mVzhzuB/Xy7VBrFuxvpsl6WuBgmW4Fk2M332pAXtgRGJV/DmDc7V59UJDiyD0JPpAa6KmcrjMdo1AUsOBQNp1/SwLZIpzvEZSLhZfOukaMLserT8cF8vZ9REdYvh7cOdDw1Yaz16zsWGGBHRfI4aKd9SjDOkMUE/0jOF4yNIxHRxSGL9QpRZWLJ9a9kbf3pSzeKLgC8GlhZJMqj5QohbVyKOT/0N16YuOE6MA4yhAxfsyc1nEWvICTZkzh3euRnznpzumGe+E8g91xe7wK5TWB7II0wUIXi6tUfAqt5m4etFRHrHOsyKW8wpysck+/RFrXIArmEIWK/1IgWy7aaCBJzgOd3SSgv+z1vKDdLF0wfA7DlyAV/OMefEPCdnLBIeO3dQ==;g+oFU9gxioQyGTjA+Y39tw=="
 ---

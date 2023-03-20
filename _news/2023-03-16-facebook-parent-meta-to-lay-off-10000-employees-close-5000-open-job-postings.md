@@ -55,20 +55,6 @@ related:
         width: 900
         height: 604
         isCached: true
-  - title: "Ford’s self-driving repo man, Bing AI’s new personalities & discover your Facebook friend rejects"
-    excerpt: "Plus, banned from Airbnb? It might not be your fault. If you're an EV owner, I share the best temp for your car's battery range. (Hint: it's warm.) If you"
-    publishedDateTime: 2023-03-16T00:40:00Z
-    webUrl: "https://www.komando.com/episode/fords-self-driving-repo-man-bing-ais-new-personalities-discover-your-facebook-friend-rejects/879779/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 26
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2022/04/kk-img-20220309-kim-komando-today-1200x600-1.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "CgPcOcp+Uc0HNTGPED4NEDQ40M5mxZ7/LyxtQYKQ+oSGzJbvBpOl4dhxyBGoJKBn5pN4kcZEacxoSFf2sgyZ+lfDm1ZBD1+Ht+CxFSAxIuhVIvtJRDSdwKOk4apvGJsWTlNjMoTllEtcTp2SqQfb50+LQqehDMHuBRRvkO/j2cK8qFbp8WWmvBEqVs6RlcJUnshOAB760tH4Aia3Zej3Td3L2iYjvQdxLtlWgGmsW8GucseYdAAS+Y4Gol0iR1GL4vxRRfPsuAmtfH9suH/1UzMQWYrYlkweHLhU8W1SJyTIhhF858LwuZzskkEnYJNJSQu4OuVa+LOa0aVQwTHk6vIKMsdl9RANrqab3CX9yMIAurhlFnshp/PKT/LRugtWIIZ5i7fTLD6pZIFDnyQvYNnK7HnbVLBTA74oEYET7kVpvQXRU8CxX05/ExBOjX71lCNPYHaP38b3s7Zsr9UNrWV+Do70KqH7g2TlEp0swTwspDWDY6USf5+yimPlnYly/u8OM7E20Q3VLYcmFcS4Gw==;cX+heeY7GyYPOZmASGWZjw=="
 ---

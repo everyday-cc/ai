@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making mind-controlled robots a reality"
+    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow people to operate devices such as robots and machines solely through thought control."
+    publishedDateTime: 2023-03-20T15:54:00Z
+    webUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/mind-control-robots-a.jpg"
+        width: 871
+        height: 554
+        isCached: true
   - title: "A mind-controlled beer-pouring robot has landed"
     excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
     publishedDateTime: 2023-03-17T11:55:00Z

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Competing with robots is making work worse"
+title: "Competing With Robots Is Making Work Worse"
 excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we’re just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
-publishedDateTime: 2023-03-20T15:31:00Z
-originalUrl: "https://www.hindustantimes.com/lifestyle/art-culture/competing-with-robots-is-making-work-worse-101679325992853.html"
-webUrl: "https://www.hindustantimes.com/lifestyle/art-culture/competing-with-robots-is-making-work-worse-101679325992853.html"
-ampWebUrl: "https://www.hindustantimes.com/lifestyle/art-culture/competing-with-robots-is-making-work-worse-101679325992853-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/art-culture/competing-with-robots-is-making-work-worse-101679325992853-amp.html"
+publishedDateTime: 2023-03-20T06:01:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/03/20/competing-with-ai-in-the-workplace-is-fueling-incivility-at-work/2bddcef8-c70f-11ed-9cc5-a58a4f6d84cd_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/03/20/competing-with-ai-in-the-workplace-is-fueling-incivility-at-work/2bddcef8-c70f-11ed-9cc5-a58a4f6d84cd_story.html"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.hindustantimes.com/ht-img/img/2023/03/20/1600x900/work_1679326061790_1679326062018_1679326062018.jpg"
-    width: 1600
-    height: 898
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "DCdRsxEkt8nSJJVJfJ1bPCuKx2G5Z312G/9hJgLuLaCSqUGRAOILY9Fg3QBoc9BFXni9pXUbIgRkpSDW7cr2KzuWAum00zUdCEodrmC7RhJ2XnnVppaECQP+4jZvTqDH2gJWatMJ1Obnbttwk5RYBdpy0EuK2rGJYK93PGgOG8TCuhS1F0FVDkGc7UcOIv69r/91N3StMIfNrkJkfmwPc/SEBI2E7nHJnv+ceSB2bZj3rw1AP2Ug6JkH4XWgMjb6epwD3LYIBa3mIFUVpiAxLvRwkpnmu8IOkupokZ3pbLqbijAHMdrFdpKo7lxUR5J4UsT0X53bqXVBOia9x/2NZb1rCRj9xk5QOu4BXl+O030=;8cXtPhtIq0XSJ2oPLpOsYw=="
+secured: "k28YFSS5VDPIRJLZWcyYOkvSp/lwf5s2xTP7qlYzHBKslOhPlWPn0xsxWIXJYjKPUPTnu6vTBKvpXoRRSS+by2SM9AdRkBiWlwpmjSx6NBW3F+XYXf/AHDKCbajYY3ED2szwfMH/+OF6AmGMns5+ViUjetBwU9nLBDb3FIM/b0fqrjq7RzFx6rNPTPZz0k62/oasykic71pOsMCXWj+HNN7gh0KpDiv5SU/Pw708s4vpICea9xJgPPTFJdmRE6OUGBxZkyvUXSV9GEokOQlebrn8UErFiSfHU6mzUaosusxmfGiuMUlnj3Lc6d5tL/GNUCGRXlm+uAxgovn1iQbamWM08LRinFtk8qrSi+XeXAg=;EK9ysyO2vz78mV/LHyrR/g=="
 ---
 

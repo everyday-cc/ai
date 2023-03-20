@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Change Big Tech's Relationship with Journalism"
-    excerpt: "This problem has already been raised by Getty, whose copyright-protected images have been used by AI ... Research Center. \"The tactics were unpopular with the public and damaging to their brands, but the tough negotiating, particularly from Facebook ..."
-    publishedDateTime: 2023-03-15T23:54:00Z
-    webUrl: "https://www.cnet.com/news/social-media/how-ai-will-change-big-techs-relationship-with-journalism/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-ai-will-change-big-techs-relationship-with-journalism/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/c0f4e791fc7b29a5c886a88572adf428a1eb9498/hub/2023/03/15/e7218460-12c6-42ee-8dfd-1fc295edb72a/gettyimages-1232274134.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A Venture Capitalist Imagines What Generative AI Will Change"
     excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
     publishedDateTime: 2023-03-19T14:00:00Z
@@ -55,28 +39,35 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "In Cancer, Patient-Empowering AI Begins To Change Care, Relationships"
-    excerpt: "Artificial intelligence is quietly giving patients the ability to find, create and act upon an unprecedented breadth and depth of authoritative information."
-    publishedDateTime: 2023-03-19T15:29:00Z
-    webUrl: "https://www.forbes.com/sites/michaelmillenson/2023/03/19/in-cancer-patient-empowering-ai-begins-to-change-care-relationships/"
+  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
+    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
+    publishedDateTime: 2023-03-17T10:32:00Z
+    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Q&A: How can artificial intelligence help journalists?"
-    excerpt: "With AI systems and machine learning systems ... The Society for Professional Journalists puts out a book called Media Ethics which is basically all of their case studies and reflections around different types of journalism ethics. It could be interesting ..."
-    publishedDateTime: 2023-03-17T16:26:00Z
-    webUrl: "https://www.cjr.org/tow_center/tow-center-newsletter/ai-journalism-qa.php"
-    type: article
-    provider:
-      name: cjr.org
-      domain: cjr.org
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://www.cjr.org/wp-content/uploads/2023/03/image0-800x419.jpeg?122376"
-        width: 800
-        height: 419
+      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Generative AI: Will it change the way we use apps?"
+    excerpt: "Both firms are making generative AI platforms and models a part of their cloud offerings too, Microsoft Azure and Google Cloud. Since Google and Microsoft are also among the biggest cloud service providers in the world, this means more firms will be able ..."
+    publishedDateTime: 2023-03-20T17:39:00Z
+    webUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps-11679333963063.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/03/20/600x338/primerpic_1679334183486_1679334189233_1679334189233.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "The AI doctor will charge you now"
     excerpt: "“AI means a brilliant doctor on your phone,” Srinivasan wrote ... A notable example of this was the laboratory startup Theranos, which successfully lobbied state governments to allow patients to order their own tests, then offered them at rock-bottom ..."
@@ -92,15 +83,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "How AI Will Change Chip Design"
-    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
-    publishedDateTime: 2023-03-17T07:22:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "sqeouCR+CtwLLu2Cmg7VRLOVe1BiGs4UvT6gaQRf6NvcGCAn4kIioXyIiURThhI0HIpEV/Je+O1zXdk8dpw/q0Y7TnL0VC5Tt4jm5taFhjPGXesb8YJLhquug51A57lnwbUi/X+tgFysd45hdR35RVRv2GhLFqCAEbFLM6RSBT9GfFr/LhmgU0iGMmnrboUdE0cSq+vtunJ51I5ZTFis2piv+0G/94dRyR2IxDcwgMcfUEvJHvTt5mrOMOmoXdEMI1RGRgMdEwHOZlgk4b14dGHQ+jRImuLHDoNFjsiHlKmD20+hiMFmZuty51FSegUxOV1eVY9I1H8P+w56unxQJn4PsbXZngB/i/Btabiq+bmNM3FP5x79sWozZtF307v3xTiuaex5p5LgNfssrOt4PU94pl/gsRuEuqgbGqB1+AK28hV71UwPwH5CnT+BpWyuq4jMsGOw0Q8QfsK0EACzZJC7luDmz0oDJCynzA7d0tkmeNdoeX2CmLUM5ciy2lwFAIoYlUSunh+WGsuaxjnolQ==;ZbZsbHwkILDx4pS/CnmcyQ=="
 ---

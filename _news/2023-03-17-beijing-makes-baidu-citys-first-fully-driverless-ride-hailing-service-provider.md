@@ -152,6 +152,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
+    publishedDateTime: 2023-03-20T17:52:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 52
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
     excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
     publishedDateTime: 2023-03-19T07:14:00Z

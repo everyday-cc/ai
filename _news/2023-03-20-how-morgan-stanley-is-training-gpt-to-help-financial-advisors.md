@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stan
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xyB5LV0LiYM8xoUudfAmSRreb9XVda9UfFEFjiEkNNPN2UyQTBiPBf4mm/tVzY4wn7B4AeJ2CFhzBfOv5UqqLV6pBNp4YObQHjiKyWZpS475RTujO7CrUi6/ILr4kXdWpFhDomzGbg/Khz5JUCGB22Gs+KJPMc6K3B4/l/X3Gak2U0+yMBLsP9c9EVVD1FFVlkUduDik/oKT6mEdTpo4OXKiK4MKy3EfzuJQGIxiebbkK4rJDHGTETPK8bUyemi5DMdma2VFf0rIi44UdaOAladvxy36/s6VUhS8wTC0YNgeQeonZOVyucuHpkWrq3DEBEnaEBgC5NaJCLE104GnPEKPfKwrMzyrOkm48ZvrXIE=;IGaV8uqq0rO/v0/WF9u4mQ=="
+secured: "oIvxtzVCTv1XVX2XyylwYvwEkcdMV07zSttb6EU2QDhH5L3KAZWcm1RhIHIXoqafrw3QUJgX+Fgx5TI1b0lf81k7JQER2oyNEsUV7PX1cqgAx2+N3UKn7vQiadHq6a1md9vd733J5Q0ZkvJYp6AcyYGODalF7sWMyMFb/eu82dS4wkQq0TdkT9mxaue1x38Qoivv2uxshmx9qZTEx3zcQxZLRVMTahWrkbff+cMM7FhnBwekatq52wHHCl4atJYMNX+QCafCqY2e+Z5JETDswKGpgBo82S0ylIDa5gsRTze7zxq73XDKRMcDoi94Ic5n42jv3BRl8HyYMqhx6lifHg0VqJHcQuf7pddz0YTH67m9v4OCHsPL9IwnX6xjV/VMr8jQLCj3kzuTwCh0VBFBJhIJR0ed0dDNOgMBky6YgvpkWzWrqbMKlfOU+Av8kzb2qShYncL/NFFYC2HXnWxBA/m7nMoEzHCNOQiJh6oGO+QkJTNr0w0BCKNQIzpMX5/fuqaOnuZich/MMTzFcvIlkw==;WKlu3mzgOvp3umOxdDyG9Q=="
 ---
 

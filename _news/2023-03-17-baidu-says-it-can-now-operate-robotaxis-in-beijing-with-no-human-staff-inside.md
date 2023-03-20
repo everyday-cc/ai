@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-ro
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
 type: article
 quality: 86
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg"
         width: 360
         height: 240
+        isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
+    publishedDateTime: 2023-03-20T17:52:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 52
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Beijing Makes Baidu City’s First Fully Driverless Ride-Hailing Service Provider"
     excerpt: "Beijing has granted internet giant Baidu the Chinese capital city's first license for fully driverless ride-hailing service providers. Apollo Go, Baidu Apollo's robotaxi mobile platform, will deploy 10 fully driverless vehicles in Beijing's Yizhuang Economic Development Zone,"

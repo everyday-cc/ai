@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Syneos Health Collaborates With Microsoft To Accelerate AI Across The Clinical To Commercial Continuum"
+title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
 excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
-publishedDateTime: 2023-03-20T12:52:00Z
-originalUrl: "https://menafn.com/1105816797/Syneos-Health-Collaborates-With-Microsoft-To-Accelerate-AI-Across-The-Clinical-To-Commercial-Continuum"
-webUrl: "https://menafn.com/1105816797/Syneos-Health-Collaborates-With-Microsoft-To-Accelerate-AI-Across-The-Clinical-To-Commercial-Continuum"
+publishedDateTime: 2023-03-20T12:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?417095"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Microsoft’s new Power Platform AI copilot will build your apps for you"
@@ -207,20 +201,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Microsoft Laid Off Its Entire AI “Ethics and Society” Division"
-    excerpt: "Microsoft got rid of an entire company division devoted to AI \"ethics and society\" during its January layoffs, according to a report from Platformer."
-    publishedDateTime: 2023-03-16T00:25:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-laid-off-ai-ethics-society"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 71
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/microsoft-laid-off-ai-ethics-society.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
     excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
     publishedDateTime: 2023-03-20T13:30:00Z
@@ -323,6 +303,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sUSt0JX29A9dwndmC7J6Cn9Z33rAZpxyQcU/6ePBaaqJb3Kf4rq+NK9DWHHwM16qhu9koFgvlvvU+eRCEur73xstBukNJxjGqYVyjQMqRfJuHkacRMCRhi3bTE/x/TB2+aLCq5BERFzuprqfQEOTeeFbbcOed+u+FOJGYArSpZMp3kPyyPDIP2Qu7j5+R5rbEl7PbLDRUvRUilhDke38/XMsqlXzEKlz70Y853WjDGjn+FmGJpAPxOUZt9Do2dqq567ApiClLdBCAuTODiEjbQnQoXH276DixWUwalJ9PlRtLZMXSoUn5WF2eYJDr5oW5+bzBCIVHmekhXjuXyIcAjIGOoI4w4PbmAca2BiVZbY=;euSvg+pJ97j5z7naH0Fcaw=="
+secured: "oZ9zolgS2h9eIX0ellQK0YO1HbSL7rVKMLx0weM5DCFK2nOAmq5+yZyha0TBdUI6hZWIPUrWFKAhBIjP9+W9yFvWviksADom/D6EymXEu/0ZXx8dQr6apoNiayYwUsSZ1ua5mp6Flmwxxfq9U9yxfq6mXElEmzvFGQuLi1mPtbMLsoS+R2VPfqMiDZlyZxOCnr6Vwhfuw2Yk90oxIXBoZL/SNyJJ6oHUtWwPAriRNJoCDbWMwrRu91qRs8SiHqyJR/4FaOM/4qEKkiNK36PbQh0+Hu//m8iPamC+BUNWXxST1ZvYi5VAF5M2aoobtr8DVQcOhXzbbKaGnCrcFhJrahIp30grs+NB0I5zJLE1S8U=;jYRHzclt4cRnvSKIqtu2Pw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urge
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71074,msid-98804411/telcos-deploying-artificial-intelligence-to-reduce-subscriber-churn.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "The AI arms race highlights the urgent need for responsible innovation"
+    excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
+    publishedDateTime: 2023-03-20T17:14:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Don’t overlook independence in Responsible AI"
     excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"

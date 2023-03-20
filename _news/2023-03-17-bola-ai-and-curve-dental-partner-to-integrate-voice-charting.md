@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace"
+    excerpt: "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ..."
+    publishedDateTime: 2023-03-20T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200"
+        width: 480
+        height: 236
+        isCached: true
 
 secured: "nX+cBoQqk9o8k0yLdz4MJ1+vHditc2IE+lYzET09KChcGHW4nMemqPpWK0SjZLJ1B0bhiXN3HvgOgjY3vHe30k7f5+Cz3IzkiG2V6Hyyi1HTOzRWAJRHOg3u6Lm1ZPUl5z3j3CgOs5vrJP1f9DaENfQ/riCh7on+UEtD0clpfX5IQQ0URUHW+u8HYNyz3TatBFZMOv3bvZ3aYbhgNLEcuUKQ7rRwp/sFS9I+aHAncTGS7wibIDJm0cZ9CwxjhmPcDhUf4Buyk0+dfJ+OBkHH0HUrFbK9dV4frj2wfRVFdNYtwi9XlQmQACvszCltArvnn7PzFaCziy6fXknpCX1plsK5QdYxL7r+Y/7tYEoksDc=;a8YWJSF6zCIa+6XT+JaR4Q=="
 ---
