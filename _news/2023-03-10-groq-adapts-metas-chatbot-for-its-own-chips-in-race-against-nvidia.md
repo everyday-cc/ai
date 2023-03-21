@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Groq adapts Meta's chatbot for its own chips in race against Nvidia"
-excerpt: "The move is significant because Meta's researchers originally developed LLaMA using chips from Nvidia Corp (NVDA.O), which has a market share of nearly 90% for AI computing according to some ..."
-publishedDateTime: 2023-03-10T08:43:00Z
-originalUrl: "https://www.reuters.com/technology/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-2023-03-09/"
-webUrl: "https://www.reuters.com/technology/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-2023-03-09/"
+title: "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia"
+excerpt: "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ..."
+publishedDateTime: 2023-03-09T23:49:00Z
+originalUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
+webUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
+ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/-W4frXaSmf0PlA0gh3XXO6r4Wus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GLNZQLDHR5NL5IPYY4D6W6TP2Y.jpg"
+  - url: "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg"
     width: 1200
-    height: 628
+    height: 800
     isCached: true
 
-secured: "nhKE8tNwxbavdXy1HSCbFGcSai0bGuHg7HWh3SZ8RZR70xXWNtscGNXHPebbg+QKQT1gqbCY23IWOsIXG34eEVgm+fxOXUUOZwpX6UVnp0+/5ht4EMLDma3cmmaC2FMGQriKSVcQUTz7Ndm5ymmvGZNHBpA08KoL7EZSGtQCT9J5LW23SSIKSNiC7Efzq6pJxXuKU/yYGCDaY6GqsKn2Og76tzwc/dODQOD1igaMzVfab7hBURsC/DfpLPrmUSV1xlVMKFrwLCeK8Gr6lnhD3LTeBz9AP3O9QgSwVS7yZThn6r99Bu+SAX9FLwlnXS6T1KHAJtUJcU0eVTBI1MT2uRc5DP7eWTGfkhIKPmIBvdU=;UPF4xV/gKKuQ4Mv4rshTRQ=="
+secured: "orYd8mDRiz2sbAzR6t/d/cQPQ3V8bbQkZpvu/h+XJ/aJksHU8/71VSKUxlAT1R78Sdd+SWJHMhh3wKNpCGkL0dExCsUsH1gGGXDMEvvW1UgprcxoJBkLLdSPOJkkwlXQFSDdTUPrK9sSANV2i2VoTsLL0m5Zf9HEuHTqZ/h2SOKqn3xsv80Qm6QCOwg3a5Wxg1meSvcNIi5k9qOwo0Fs+yDlt/tavW9n6ey2ZwntT0Px7xU9zrfZD66nf8fQ9BXi9Ad8gBUNItaaAf84S91dOYOlJ2Q8szpUv7pabFOMTStQJXtxXQ3uD8Ur0LsoqbJzvsz9Sre+5B5bqcw0dx+v4j3MP8QlWF/zN3HR8OOaKxQ=;sLsoH10YE/GeFd58dJARTw=="
 ---
 

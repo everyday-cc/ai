@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-foreign-language.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,47 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Apple is reportedly experimenting with language-generating AI"
-    excerpt: "Multiple teams under Apple are reportedly experimenting with language generating AI models, including the Siri team."
-    publishedDateTime: 2023-03-16T18:36:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/"
+  - title: "ETRI introduces AI tutor who teaches foreign language reading"
+    excerpt: "ETRI has already developed AI-based conversational foreign language education technology and provided ... pronunciation evaluation technology, machine translation technology, and dialog processing technology for reading education developed by ETRI ..."
+    publishedDateTime: 2023-03-17T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/982519"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/338998e7-6d7a-4dd1-ac5d-d0f876dfe440/Rendition/low-res/Content/Public"
+        width: 700
+        height: 466
         isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple Is Testing 'Natural Language Generation' AI to Improve Siri: Report"
-    excerpt: "Now it seems Apple might finally be doing something about this. Apple has become the latest of many companies to start toying with adding generative AI to its products, starting with Siri. Word of Cupertino's plans comes from 9to5Mac, which says the ..."
-    publishedDateTime: 2023-03-17T19:55:00Z
-    webUrl: "https://www.extremetech.com/computing/report-apple-is-testing-natural-language-generation-ai-to-improve-siri"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 16
 
 secured: "L65qq1JktR7wt5zBqNb90mqPHe6aJT5imCUMWcJi1CQWaC9zrZU3RR+GWJFQJqSw6luQ/o4vcEUdQmED3ehCfYjucNKYaDj7cZUv0BZNGLj0RWBFUyGudhyYR9PNsIK2lpE5n+tS3vinjRKf4aL8sv4WMmbW23BOKmUUcTiF+2idOghVGa++QKcwKQfyzm//t8HX5y97bGywwfP0It7ITlWeVYhB1aU4S/vDDB5njVh6BiRESzKxJqk5u5DThSitrwAj2Mm//8anq+oONF3TUCk9FcBQbfqziRT2vAEhMmmSpHlEsgFzC/z72o3uIfO64fBR6ftg58heP34NOP70LNYLKvIjN2FbOB+zmcU63yuPZXIO/fh3bhJ2ZKNO1+UXW6s1cAi2NgN5vFG51sctDRiWwESFiJdiZYxlBhiOHkPoD1TqjYMdF4ibNkqkFl4t8CVmIk+xxo6dUMUP/8zQh8uq6Nzfr87lv1jy9GPo3afhQxZSmQUkThump1e/dB32X52UnaJXFY72vDOmmkdzrg==;xvd+QZ7hOn5vFDbqJs85bQ=="
 ---

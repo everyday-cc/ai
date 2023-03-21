@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575414-upli
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58575414-uplinq-co-founder-to-present-at-fintech-meetup-200.htm"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Using embedded fintech to grow your credit union’s membership and deposits"
+    excerpt: "In a world where acquiring members and retaining them is critical but hard to accomplish, using an embedded fintech approach can provide credit unions"
+    publishedDateTime: 2023-03-20T07:30:00Z
+    webUrl: "https://www.cuinsight.com/using-embedded-fintech-to-grow-your-credit-unions-membership-and-deposits/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/03/bigstock-Digital-Banking-Virtual-Bank-471389381.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "36ktC8cHMyyQ9yMFMQUfm4qic0ZtZFpOnK5imNVqGP2aaWTSOahTpE3q0LrpBZb2XMZWy37AJATio5ltxo1+nx7roL5BuNJNmu6NN/r2uEMScUk1cBrttlEeyQkym5r5qWT+2Qq+ZgO7Mx6pC8PT+C2Ok21GkjR5mn3Glw3Nf5toGwc2ohO+XoFFFASnknBobDWndYqOZAB+/FHwdFzbVc1p/rdq+RrP0MigSr6QJf20092iAjNe0OSEA2aSZcdRcP67UIR9pK3kTnT5GVyO3T9IMJ+uEWTy0QsWCBHv/wsyerks5sGN3Ik/QMimEQdGghAMeGGCFD2ZIMKtejFxxsVJ77LBnptRwT839lJi0zM=;Kmug5iJmonBl2HBcvSKBwA=="
 ---

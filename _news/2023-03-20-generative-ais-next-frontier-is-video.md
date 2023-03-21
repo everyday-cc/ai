@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
+    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
+    publishedDateTime: 2023-03-21T11:46:00Z
+    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "You can’t stop generative AI fraud"
     excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
     publishedDateTime: 2023-03-20T04:00:00Z

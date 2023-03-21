@@ -1,25 +1,31 @@
 ---
 category: news
-title: "Jaipur Based Edu-Tech Startup FliQi Launches AI-ML Based Learning Modules"
-excerpt: "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices and recommendations,"
-publishedDateTime: 2023-03-21T08:58:00Z
-originalUrl: "https://www.theweek.in/wire-updates/business/2023/03/21/dcm21-fliqi.html"
-webUrl: "https://www.theweek.in/wire-updates/business/2023/03/21/dcm21-fliqi.html"
-ampWebUrl: "https://www.theweek.in/wire-updates/business/2023/03/21/dcm21-fliqi.amp.html"
-cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2023/03/21/dcm21-fliqi.amp.html"
+title: "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules"
+excerpt: "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices"
+publishedDateTime: 2023-03-21T10:40:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "5VK/TKEnqSb3Cv+NBAU46mIuh5yTIzJKk10uIms1wzi8WPDipoatWRu1LdunaW9/Gc4/9+A6jWlBDgLfTpdvBFBADP/5Ps6WSOHz1SlwhZB0QyD8j2jqem78fbmS/A5eGgEkQHZ8Y3MTB/CvJfFUJ2pZYZaBmTBVKaSaamBtL5Fc39hi+VDk9bwRFyRpWKKhujQ+YmI8WMrHvfc/oeIPzN9VrKb37yyPFrIRj4i3qmTjJjxP1ffTdKp1oFeipCA4eAtL5/Ray06RGzR9CxUV9cYzi5YlP0cBbeehfvK1OvcFaSXq4naFQOk9tgSx2IWUywUkQGuLDafuEGn44Wo7LgQRF8muAk7lUx5WG57d0kc=;AI5DBna0GoNEGiqgxZeEAQ=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "qUf2BdOHdmYNlw7n2eI7UNRBGFYjEosq4GBPg19mhmVhfPhFPXGyybNE12yhla/NvGLf0lYFsQ2sRQVkScZVwNQCxNoyLUFM0FWrf8xHSz2DStOpVxq+NY7VBiCb0kzmfqZa3524nPPVPGURYQ56roCTnnXd7r9CeR8O2EcZqHuTNkVwS4f1axO4fsip0p/8XKnhFtRmSICZFMcRM9HlyT1Nxuve34YFgkZLtEsolNGgEHWJgF5ymkuxnaojSluSr1S3NiF3BAoPuKrQ34a7rmrZHcIHZ6jebJcKvzogkf2m0eX7bwA2EOC/gu2w/8Wj6ioJGh/iLF1ewALHDB5twsZ4lyjU8UR7B5G1WwIYCwU=;4cd6MWJfEN/CWuOSYp35vg=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Size Report till 2029"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence-Emotion Recognition Market\" Insights 2023 By Applications (Apple, Eyeris, Beyond Verbal,"
-    publishedDateTime: 2023-03-20T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-report-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z

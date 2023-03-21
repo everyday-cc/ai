@@ -89,6 +89,20 @@ related:
         width: 1420
         height: 946
         isCached: true
+  - title: "As GTC kicks into high gear, Nvidia reportedly boosts orders for AI chips"
+    excerpt: "Analyst Tristan Gerra noted that the company's Hopper chips are likely to benefit from the growth of ... Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of the most significant developments in technology ..."
+    publishedDateTime: 2023-03-21T11:34:00Z
+    webUrl: "https://seekingalpha.com/news/3949364--gtc-nvidia-reportedly-boosts-orders-for-ai-chips"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "gb7YELxFgbL91k8XiBoCfyxBpvBs/DdZ1MBv3rgosdqVFasUFfn7Px0IB0Wqf69SzRVpkwKcTgfOdnFGytF5J27VWgD0G5RLR5EJLbDVTBhG2WEzST2bkkBeUxQb9WQVMUOqCjw+zXihiiLtqDK+SV959JHl7InXyIaeT+NIgWO8Z93igE6GJFdsc5LQG5a1sRd6vtwxptlOfBE7Qlv1Nh4/Gp/i4soFLfKHT8B27B5s7Ul5fxR8uY9ZROfW08nxQ0jAVp1KfOyinur5H4bOpFGC4ZmJUW68e37fUasva6OMLGjTO+J9nOtCCyyO1h8qSfmqZqEWePcNC6xVOspyBT2PvoPIZfjzIMohz2JT6lq6jcpFRwmAWUK4HuErfQdGEpfdhaCkCaiHMoJ2T75azPnlOafM9vyKxCH7AOAt4YCVv8T+oPlexZ8BZY+1G4+EUi1yREyl0jvdE3I9BSrR+xjgCM8msZ7Win6sOx6MxWwvdQDP/3M9hXcpRrV7lWMf7ITrrcVMcFHpxznq078auw==;OEakQoKxJV8TWkEiQU1P+Q=="
 ---

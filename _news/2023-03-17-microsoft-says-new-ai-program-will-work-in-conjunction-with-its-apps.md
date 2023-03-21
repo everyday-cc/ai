@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy"
-    excerpt: "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ..."
-    publishedDateTime: 2023-03-16T17:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 104
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg"
-        width: 800
-        height: 489
-        isCached: true
-  - title: "Microsoft Introduces AI-Powered 'Copilot' for Word, Outlook and More"
-    excerpt: "Microsoft 365 Copilot will work in apps like Word, Excel, PowerPoint, Outlook, Teams and more. Just a month after announcing artificial intelligence integration with its search engine Bing and browser Edge,"
-    publishedDateTime: 2023-03-16T18:36:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-introduces-ai-powered-copilot-for-word-outlook-and-more/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/7d6f8ad93058dc76124df00bd4b321756f9d8701/hub/2022/04/22/7248d0ba-a255-4cc6-9adc-1b3816f88f4d/microsoft-logo-2022-638.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
     excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
     publishedDateTime: 2023-03-21T00:53:00Z
@@ -121,21 +89,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team"
-    excerpt: "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ..."
-    publishedDateTime: 2023-03-17T00:06:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31374406/amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31374406"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31374406"
+  - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
+    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
+    publishedDateTime: 2023-03-21T09:51:00Z
+    webUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 79
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 73
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Twitter_Photo_by_rafapress_on_Shutterstock_4.jpeg?width=1200&height=800&fit=crop"
-        width: 771
-        height: 514
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
+        width: 794
+        height: 446
         isCached: true
   - title: "Microsoft’s new Copilot will change Office documents forever"
     excerpt: "Despite reports of Microsoft laying off its ethics and society team that taught employees how to make AI tools responsibly, Friedman says Microsoft is growing the people working on these concerns."
@@ -151,15 +119,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
-    excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-announces-release-notes-copilot-released-on-microsofts-azure-marketplace-1032178775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
     excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
     publishedDateTime: 2023-03-17T22:33:00Z
@@ -183,20 +142,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Introducing Microsoft 365 Copilot—A whole new way to work"
-    excerpt: "Copilot combines the power of language models with your data in the Microsoft 365 apps and Microsoft Graph to turn your words into the most powerful productivity tool on the planet."
-    publishedDateTime: 2023-03-16T17:06:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2023/03/M365Copilot_HeroBanner_Apps_BLOG-FEATURE.jpg"
-        width: 1105
-        height: 675
-        isCached: true
   - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
     publishedDateTime: 2023-03-20T12:15:00Z

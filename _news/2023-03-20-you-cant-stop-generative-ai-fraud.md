@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
+    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
+    publishedDateTime: 2023-03-21T11:46:00Z
+    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Generative AI’s Next Frontier Is Video"
     excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
     publishedDateTime: 2023-03-20T13:00:00Z

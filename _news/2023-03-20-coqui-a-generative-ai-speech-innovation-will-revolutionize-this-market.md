@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.wsj.net/im-739027/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Size Report till 2029"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence-Emotion Recognition Market\" Insights 2023 By Applications (Apple, Eyeris, Beyond Verbal,"
-    publishedDateTime: 2023-03-20T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-report-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence accelerates the fourth industrial revolution"
     excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."

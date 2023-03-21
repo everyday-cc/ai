@@ -49,20 +49,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market Size Report till 2029"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence-Emotion Recognition Market\" Insights 2023 By Applications (Apple, Eyeris, Beyond Verbal,"
-    publishedDateTime: 2023-03-20T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-size-report-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence accelerates the fourth industrial revolution"
     excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
     publishedDateTime: 2023-03-18T13:36:00Z

@@ -29,10 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market Size and Share | Industry Size"
-    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural"
-    publishedDateTime: 2023-03-20T17:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20"
+  - title: "Machine Learning Chip Market Size and Forecast till 2029"
+    excerpt: "What is the Machine Learning Chip market growth? Machine Learning Chip Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size, Revenue, and Forecast 2028"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 112 Report Pages on Artificial Intelligence Of Things (AIoT) Solutions Market by Application (, Consumer, Enterprise, Industrial,"
+    publishedDateTime: 2023-03-21T04:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare"
+    publishedDateTime: 2023-03-21T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future Growth of the Deep Learning Software Market Size 2023-2029"
+    excerpt: "Deep Learning Software Market 2023 with 107 Pages Report and enhance with extents shares into sub-counties are covered"
+    publishedDateTime: 2023-03-17T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-deep-learning-software-market-size-2023-2029-2023-03-16"
     type: article
     provider:
       name: MarketWatch
@@ -43,19 +85,154 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing in Healthcare Market (Size and Share) 2023-2029 with Manufacturing Process Analysis | Survey by Absolute Reports"
-    excerpt: "Mar 17, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
-    publishedDateTime: 2023-03-17T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-healthcare-market-size-and-share-2023-2029-with-manufacturing-process-analysis-survey-by-absolute-reports-2023-03-17"
+  - title: "3D Facial Recognition Market Size and Forecast till 2029"
+    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Software Market Size and Forecast till 2029"
+    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
+    publishedDateTime: 2023-03-21T01:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market Growth and Forecast till 2028"
+    excerpt: "What is the Deep Learning System market growth? Deep Learning System Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
+    publishedDateTime: 2023-03-21T03:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-and-forecast-till-2028-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GPU Database Market Top Players and Forecast till 2028"
+    excerpt: "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in"
+    publishedDateTime: 2023-03-21T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market 2023 Structure Along With Size, Trends, Revenue, Market segments, Forecast to 2029"
+    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (113 Pages) | Information Technology | In This Reports Data and"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-structure-along-with-size-trends-revenue-market-segments-forecast-to-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Data Catalog Software Market Size, Revenue, and Forecast 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Data Catalog Software"
+    publishedDateTime: 2023-03-21T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-revenue-and-forecast-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-20T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market Outlook: Predictions and Projections for 2028 And Beyond"
+    excerpt: "Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration ..."
+    publishedDateTime: 2023-03-20T19:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
+    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
+    publishedDateTime: 2023-03-17T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Fintech Market Size Analysis 2023 Growth Factors, Product Overview, Segmentation and Forecast Study to 2030"
+    excerpt: "The Global Fintech Market, which will pin its worth at approximately USD 305.7 Bn by 2023, expanding at a CAGR of 22.17% during the 2018-2023 period. Request To Download Free Sample of This Strategic Report: -  The use of mobile devices and technology-based solutions is propelling the demand for financial and banking solutions,"
+    publishedDateTime: 2023-03-17T07:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-fintech-market-size-analysis-2023-growth-factors-product-overview-segmentation-and-forecast-study-to-2030-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
+    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
+    publishedDateTime: 2023-03-19T05:22:00Z
+    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "sOfTQDi1wDrucRPFRWBzzniABDrw5sm/kMGzLJLZlriEQXbyOpSrMAf9iGwzvPVAzLLV0MmUC8RK0j7LckFBw658NYJIzKweTzmjgZHMfZZS7S7uGpXVBCOsbUI2DrbkDG7TQoCYu5CjNnoWMTidCCUl3K8kndDIzVz4zo4VdP/Ww13hpc9XRUmKiwMuZtFKwXKTUQln3id+d3oLUgwv/hr8s1Q5wixugEjRNUuFmHgXqnt7dgs1eQnRNkNd6Fbmq91ICkH6G6QHHZj8ZiNHGtaTGXdfP+hAGs4k4QD+9RsMbs+UmtyoovrJEKIrYBPDnIhN4HNqTHY0I4NV+/xwbND83LUCgekNQ7xa76WC3Gk=;EgR7stTPGSx9XSHXIgdHJg=="

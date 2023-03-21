@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Course5 Intelligence Integrates OpenAI's GPT Models with their Enterprise Analytics Platforms"
-    excerpt: "Analytics AI solutions company, Course5 Intelligence, today announced the integration of Microsoft-backed OpenAIs GPT Generative Pre-trained Transformer models with their AI-based Augmented Analytics platform,"
-    publishedDateTime: 2023-03-21T06:11:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2387628-course5-intelligence-integrates-openais-gpt-models-with-their-enterprise-analytics-platforms"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2387628-course5-intelligence-integrates-openais-gpt-models-with-their-enterprise-analytics-platforms?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2387628-course5-intelligence-integrates-openais-gpt-models-with-their-enterprise-analytics-platforms?amp"
+  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
+    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
+    publishedDateTime: 2023-03-17T11:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 48
+      name: India TV
+      domain: indiatvnews.com
+    quality: 50
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
-        width: 1280
-        height: 853
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "wMdxrQwsAggtrmZp7Ri/41q/EEKExl6uvCVSWkXC9x4zM7BbQrWnRrZv/PCvX8W3iPmXPFYajfyKe+1i2zuqbZCp53pLbLd5d+SuGKNASgDIgaiH7XJ1RvS2IZsAuRnl69IRVtn1huA6fQaLDxUp/OTTRtC5cOYLP595fv5v2x/XjgXwLTB5u1fZxSVUwRJGRwaQUQVCytMT7iLtNcrbTXkNRFqCeaeloH3m+8k/yvfhLCBnCXSK7oD0JWULuyNrXMDk1cv51x67FdXuPUnZqPO02Hxjh4bMpVhGOeMEXHFTaJw5kTh3Z62v9WgamjGzQiZZg/FgfS7SJzlLxn+a3bRGrRA6qhMOs93m6hq8kQ4=;ZALoEJbpbVpJaMcKelJtJg=="

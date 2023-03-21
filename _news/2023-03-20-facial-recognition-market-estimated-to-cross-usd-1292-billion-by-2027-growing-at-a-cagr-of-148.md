@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Artificial Intelligence- Emotional Recognition Market To Grow By USD 836.2 Billion By 2033 || US Crisis Impact"
+    excerpt: "NEW YORK CITY, NEW YORK, UNITED STATES, March 18, 2023 /einpresswire.com / -- The global artificial intelligence-emotional recognition ... learning technologies in various industries such as healthcare, automotive, and retail. Additionally, rising demand ..."
+    publishedDateTime: 2023-03-18T08:36:00Z
+    webUrl: "https://menafn.com/1105807038/Artificial-Intelligence-Emotional-Recognition-Market-To-Grow-By-USD-8362-Billion-By-2033-US-Crisis-Impact"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_f127fimage_story.png"
+        width: 778
+        height: 407
+        isCached: true
+
 secured: "J3+Jw3zv8ap9CCYP7WY5roUeKYyWa6ea/1ATmIw0qt5Yikp9mrFIyDJyw4lrsHPSBndEtI+yX1LmadQY30cCLI8iHwifKQBxv/1e8EyEoINV/i+Szc/byPMo7MvOLBhhiVc2sjN8t7WhMXILo4wGpkAWwUxQG3JKPMFryqKtU7+0FxnZxMKNTEy+kdd/psBb8coJQVy4hkGgqjd9O5/zvfculpfg4pQTGTM7u1fCfV0XJMA+0a/3m1MUrcL8+prH0tqiEtkM/BXlLAJ1uENxPZfvptGLzZ/nQvxht+/I5COli3GSBxd0BMSFPeZpFF4Xjh9OAMGJbtO5LHdOa1akabuF7bUGIdUOholHzUCwinM=;qdYufHdcHGhjjyFrcNIrlw=="
 ---
 

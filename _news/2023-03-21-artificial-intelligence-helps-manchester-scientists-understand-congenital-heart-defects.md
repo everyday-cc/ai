@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence helps Manchester scientists understand congenital heart defects"
-excerpt: "Scientists at The University of Manchester are using artificial intelligence (AI) to help unravel the secrets of gene mutations that can lead to babies being born with abnormalities in their hearts. Dr Kathryn Hentges and her team hope the two-year project,"
-publishedDateTime: 2023-03-21T09:09:00Z
-originalUrl: "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/march/artificial-intelligence-helps-manchester-scientists-understand-congenital-heart-defects"
-webUrl: "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/march/artificial-intelligence-helps-manchester-scientists-understand-congenital-heart-defects"
+excerpt: "Scientists at The University of Manchester are using artificial intelligence (AI) to help unravel the secrets of gene mutations that can lead to babies being born with abnormalities in their hearts. Dr Kathryn Hentges and her team hope the two-year project ..."
+publishedDateTime: 2023-03-21T11:01:00Z
+originalUrl: "https://www.manchester.ac.uk/discover/news/artificial-intelligence-helps-manchester-scientists-understand-congenital-heart-defects/"
+webUrl: "https://www.manchester.ac.uk/discover/news/artificial-intelligence-helps-manchester-scientists-understand-congenital-heart-defects/"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: bhf.org.uk
-  domain: bhf.org.uk
+  name: University of Manchester
+  domain: manchester.ac.uk
 
 topics:
   - AI
-
-images:
-  - url: "https://www.bhf.org.uk/-/media/news-images/2023/march/dr-kathryn-hentges-600-x-315.png?rev=15432bb90334406686ea9f5fb9768983"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Chancellor announces £1m Manchester Prize for AI"
@@ -40,7 +34,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Gigster Launches Artificial Intelligence Services Suite to Support Companies at Every Level of AI Readiness"
+    excerpt: "Innovation and digital transformation firm, Gigster, today announced three new service offerings to help companies speed up their workflows and better leverage data through artificial intelligence. The new services offer specialized teams and proven development processes tailored to the clients' current business needs and level of AI maturity."
+    publishedDateTime: 2023-03-20T15:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gigster-launches-artificial-intelligence-services-suite-support-companies-/2023/03/20/9779757.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
-secured: "BfQWbkYducXp1Nt9c1gZFMpKmZqHExJXcIJq4TH7/+wdb/55O477zujMLHE/zzqLey4jmMDQls0uiDSefoJEl+JEJk22ukP0LjtIXbIMQ3dYUwqUFljHlPvhbq8Zg4f3N0aqN6YwcvwW2ChN201fPHCO5pmYXWKrVMARbYQD+DpAlowP/432oSe5q5XNt8w5aDJlgxUcKOevU9ZlStF8rUqa49SfVq1yeCArMXjD56lJGEEV9DEXvkp6vgTQitzQGJVxY63k6pfGemftMdUSicz7aualOmln8h0F3f90VMYSz/ycQ/ACt7BjJUHyaXobxQ7VMe1sDdyxcaZ7dQzbL/lZfWVbEmXNqtADktBdLd8=;JnS/g/BTgI8BhnaM0juX7A=="
+secured: "/KUjj/MRFBzlq2y9Fye3nOd3abMh+bAEeG+YqaM2NuNAy/qqynRkHkzPtCd7QTWyOujkkDp97tdvlazhvsPKtX+6/Q5NmQ+WIjo/El5+qJpDPiF9mTcKolwHY70/0E7W0kr1N77H3AiqXSD4z36Sy2O6rwQ12yElfBPKOrgEpM4CbwsUtz/l2YeeYIU86oDTL3ogtPgI2uXcKYm+hIUl1iUL66G/TgsFNPw6wmo7CVQ3dcg4iqepVCX8w3XYdQh9n5jDqT/GMT74L7uJMKeGhe1qhe49hNVh4Pgw6b11DJOPi+6WgrOHKd6lMSIPzjzOfcPG5XvkDAqNJyTE/+2Zf+lv39wD2kw3048KSwTkxA16seoa5xvIQFij/S9RF5ve6KQy7IwWzyVlcP+YWeidhijjS7M0kXDSQOej7Nhfu0nYIWU9r92U7VTNC+Ak5K+aod54jh9XWgriErZmY45glINrGQdB+Sot5z8XFuPJd9+FDF3fJyLauwLBnbGA5alR0JV7t1xRKdm+S7wN7RDBSg==;n2OkvyNqfc3Z7YIrqoDB0w=="
 ---
 

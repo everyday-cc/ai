@@ -42,62 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare"
-    publishedDateTime: 2023-03-21T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Software Market Size and Forecast till 2029"
-    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
-    publishedDateTime: 2023-03-21T01:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU Database Market Top Players and Forecast till 2028"
-    excerpt: "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in"
-    publishedDateTime: 2023-03-21T04:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-20T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Platforms For Healthcare Industry To Reach $4.3 Bn In 2024: Report"
     excerpt: "The market for Artificial Intelligence (AI) platforms for the entire healthcare industry is set to grow to $4.3 billion"
     publishedDateTime: 2023-03-20T15:41:00Z
@@ -111,20 +55,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-03/20/I_ef0fdimage_story.jpg"
         width: 400
         height: 220
-        isCached: true
-  - title: "Voice Recognition Market Size and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- The \"Voice Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
-    publishedDateTime: 2023-03-20T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AI platforms for the healthcare industry to reach $4.3 bn in 2024"
     excerpt: "AI platforms for the healthcare industry to reach $4.3 bn in 2024 - The market for Artificial Intelligence (AI) platforms for the entire healthcare industry is set to grow to"
@@ -149,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
-    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
-    publishedDateTime: 2023-03-17T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

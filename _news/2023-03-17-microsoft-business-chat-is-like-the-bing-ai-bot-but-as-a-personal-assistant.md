@@ -157,20 +157,6 @@ related:
         width: 868
         height: 489
         isCached: true
-  - title: "Microsoft’s real AI battle against Google begins with promise of new superpowers for work"
-    excerpt: "“Other times it will be usefully wrong, giving you an idea that’s not perfect, but still gives you a head start.” Microsoft already has some significant experience in human-AI collaboration. Existing integrations of OpenAI technology in Microsoft ..."
-    publishedDateTime: 2023-03-16T17:31:00Z
-    webUrl: "https://www.geekwire.com/2023/microsofts-real-ai-battle-against-google-begins-with-promise-of-new-superpowers-for-work/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/03/satya-ai-announcement-2a.jpg"
-        width: 978
-        height: 628
-        isCached: true
   - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
     excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
     publishedDateTime: 2023-03-21T04:34:00Z
@@ -185,15 +171,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft begins making Bing Chat AI searches available to everyone"
-    excerpt: "It appears that Microsoft has opened up the new ChatGPT-powered Bing search engine to nearly everyone who wants to use it.."
-    publishedDateTime: 2023-03-16T18:02:00Z
-    webUrl: "https://www.engadget.com/microsoft-begins-making-bing-chat-ai-searches-available-to-everyone-102506412.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: engadget.com
-    quality: 64
   - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
     excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
     publishedDateTime: 2023-03-20T14:00:00Z
@@ -217,22 +194,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "ChatGPT broke the EU plan to regulate AI"
-    excerpt: "Artificial intelligence's newest sensation — the gabby chatbot-on-steroids ChatGPT — is sending European rulemakers back to the drawing board on how to regulate AI. But after months of internet lolz — and doomsaying from critics — the technology is ..."
-    publishedDateTime: 2023-03-16T17:27:00Z
-    webUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/"
-    ampWebUrl: "https://www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/eu-plan-regulate-chatgpt-openai-artificial-intelligence-act/amp/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/02/GettyImages-1462188008-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nuance, Microsoft bet big on GPT for healthcare"
     excerpt: "Microsoft's engineering and market resources and the scale of the Azure cloud, paired with Nuance's long-standing experience in healthcare and its commitment to patient data privacy and responsible use of AI,"
     publishedDateTime: 2023-03-20T14:00:00Z
@@ -393,15 +354,6 @@ related:
         width: 2842
         height: 1372
         isCached: true
-  - title: "Microsoft to add AI co-pilot to its Office software suite"
-    excerpt: "Microsoft has announced that its suite of productivity tools is being enhanced by artificial intelligence software, as it seeks to get ahead in a race against tech giants such as Google, Baidu and Adobe to commercialise AI technology."
-    publishedDateTime: 2023-03-16T17:56:00Z
-    webUrl: "https://www.ft.com/content/c74c7e48-d439-40d1-a42a-2cd9f1560edb"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
     publishedDateTime: 2023-03-21T09:56:00Z

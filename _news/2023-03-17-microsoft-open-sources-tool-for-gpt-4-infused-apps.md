@@ -40,6 +40,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
+    excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
+    publishedDateTime: 2023-03-20T13:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-announces-release-notes-copilot-released-on-microsofts-azure-marketplace-1032178775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
 
 secured: "UAIw7INVXASub2da4ukJIjR/msPAMWcolfd7ZZTKWObAxccvn058/ZHwmzq4y1t+ZXxIPou1c/187oBA/mtNjXCjn+E0Fs+/dKxeqyMEaZlECXvdGJXfog2UJVEwHkcTdA7HAy3BPtkOFZhkFgEIRaTeC9HVKSqS9fpUDlLP07xUXME436I4GLAgCuTYcwHZ3GJ4MVo9saRN0VMIkPmrgDDty/Eg3KKwcDphQ6cZ2GHK9GUy7BsRpbLpk5KSypTpRRCgt0BaQXN1X6FiNRYxigcwD1HGKMBe/I9zOPO4KHtZTT1vkoYiaZV0vrk5UM6o7HB5QDJ/aXqXKm7AgH/ReJ+AGrIJs6iK624TQyEgA5AK8bZ8ZNmW8kv/Db53c7k2GWt/Ya1QLdLC1WIBc+suG6pdsVEnE3bOJzOnoOIoeGI+C+zvllJ5r4a+tdtTfTM2AHWvi02hUitd3LjTL7JDozE20NDQptI65QnpHFNcU3Q08VpsUfR1QQ07aDvsggdivKhJxybAR3mrRBts7gQlGg==;H2WBY8O0TYvoMUE1pZxw+g=="
 ---

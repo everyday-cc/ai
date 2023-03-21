@@ -72,6 +72,20 @@ related:
         width: 800
         height: 750
         isCached: true
+  - title: "5 Best AI Chatbots in 2023"
+    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
+    publishedDateTime: 2023-03-20T21:23:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
+        isCached: true
   - title: "Artificial intelligence expert weighs in on the rise of chatbots"
     excerpt: "What if a chatbot comes across as a friend? What if a chatbot extended what could be perceived as intimate feelings for another? Could chatbots, if used maliciously, pose a real threat to society? Santu Karmaker,"
     publishedDateTime: 2023-03-17T16:22:00Z
@@ -176,20 +190,6 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/17/0a4488c1-b704-47b1-9fb6-efb5e6460e79/thumbnail/1200x630g8/81b64df0fbbe8daf717cc5b9825c988b/gettyimages-1248446799.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
-    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
-    publishedDateTime: 2023-03-16T17:51:00Z
-    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
-        width: 1600
-        height: 1119
         isCached: true
 
 secured: "GwG1gBjtMw3xRGDgxiWi8BYThXXR8jGHy/tSrmnaaxV9XdJWvN9qKbPFBilqgNGLSFY3rYyPfKs1F4wto4p/0LUscb/eMoNRBJrHyvDyNgCsc9BkkK9k6xmaRMArEWtW6dA+UXqQC/n8CMeJXDcAUfhEFu/YAquW1mlgg1C5JtDjVmPbc5qUPganS2lXJ6uAqE4rcEWJN5Wf/rJ6nKjLKsH0RmrqsTNk/omJyCDV63lRiJEdsxDukFgDrWMLn6KL1aV0uXolD+6HN9mkvxA4OFs4SvdOA9DxH227O0KSYPF5ivR2IsJfo4hz4KWqYYUAN0M6EYnJM2XW5E3982i+OPFRAMFBDzPDII6I2RaoIB6TOdZHLkYsEmBSUIm+7DvHonbWgn9KDJ3RsBIH7SsB+9vNi0XqNgLPnuLN44qvTjrPnW0+SZzSlzq0cqsDIDqL4x7QzxEO+1YIr0d2KxYxgnViDMvUIy2MLj3E6JCPvIMI5j15CWewlbsDxbV15GJmndizcxDPxe7hYjzHH0+L6w==;nu+Kq/88lzR1sSmBMHyySw=="

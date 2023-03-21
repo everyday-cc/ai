@@ -76,6 +76,20 @@ related:
         width: 800
         height: 750
         isCached: true
+  - title: "5 Best AI Chatbots in 2023"
+    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
+    publishedDateTime: 2023-03-20T21:23:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
+        isCached: true
   - title: "Artificial intelligence expert weighs in on the rise of chatbots"
     excerpt: "What if a chatbot comes across as a friend? What if a chatbot extended what could be perceived as intimate feelings for another? Could chatbots, if used maliciously, pose a real threat to society? Santu Karmaker,"
     publishedDateTime: 2023-03-17T16:22:00Z
@@ -178,20 +192,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
         width: 700
         height: 466
-        isCached: true
-  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
-    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
-    publishedDateTime: 2023-03-16T17:51:00Z
-    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 39
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
-        width: 1600
-        height: 1119
         isCached: true
 
 secured: "g278sg7kRQrEEzLypJLA+aJlOgBxp87AlbElcNq8dZwutMD9GLIrm0DM8fEXtgasKW9HezSiFni7qaPUvaWUN6S2zj5tDcdBtOl14gq6+wLqMABPc8hB6uz7aMyO585aEZ/4JRHk3W6Ot9W54t0oxrSckg4sY+a/y5yfgBF2zBHYGHSL8HMCzf5/8ptxbFVuIZR4pZXKtyU9fZVBEZQdCH86cgq6beC+8OvM2Qo4UwY/LAd/VY/eqCWcd+m/QAoV12DtvNDe5PHMRXp27kn7oC39dzgBIrz3VEybkrpJcH4LAxIfTJ99wbIJIl+keBoorNd14EAUzonajl/2TZYbCwf6HXpT+z9DP7dkAOSdb/3zk8CT7ZG5qwcYxJEp5cR5Daaxv8XIy1qVtAreZ6FEH4KQCSzRIgvTToc03AQzVleAnic163TynK62mBnFamCaD+Akgz7hT5FF4mqYobK6gcZgr7fttlKh0HNyCeC44nCXqH0nWlEP0lQA66ALraCpM8JqoKn8Bntl1Wj3zLbArw==;GjsJ7maUMzXfRuf4ReX7jA=="

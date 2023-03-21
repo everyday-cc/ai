@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Cruise wants to test self-driving vehicles across California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+    publishedDateTime: 2023-03-21T00:40:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California skeptic of facial recognition use by cops now sees an opportunity"
     excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
     publishedDateTime: 2023-03-16T23:27:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
         width: 2048
         height: 792
-        isCached: true
-  - title: "Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-21T00:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/cruise-test-driving-vehicles-california-98002598"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 24
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "GM's Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
@@ -100,6 +102,6 @@ related:
         height: 675
         isCached: true
 
-secured: "37Jb8SYGeeOtiSlEj4U4qmsBLM7TbFmp4g9zqPISI+BD7v25y1MfbxMnRTMcJKscACo9OD+L6cjw/yM3OIq+P2zjAShiw4o3AXjSwtENRm8q40CsY0fZNhJj74xKcjyjv8R4iEn9cwhYPWQgbMHGZ2cPbgLhBPJRD1OIj5aj4vHp1WVk2mOn7XcBBncrIwnSXlAJz/+C4AAyXYYh049MlQIyiz7j6z5axgfaIc4pqR0nBzv04v5eg7rwE4lOFlgNFBzWIPH1zfRrFKCX5nrnd8ElDN1/OYz1ROXQRh2PPsZRT5trt0ttcpTcTB//uSdyIJwm5FmNjK1VrbCuQg89O8VFcB5q3AhhIkKBCUQrSjI=;XYVbL5Q859q4ehVxYJ8n+A=="
+secured: "AVxb9a4quijK6BTLXkmFLXisVrnM7jNs1Hw9MTh4HTF5jQLSmUAJ5IphUqEoTbpNVDuzOjvZc7dlkybU+fPyx0Uj4IQzVjECn9Q06CyZyIPR77VUsv5OVl1j8mcaENgBJd8YfIVws49EGq8gCgNZCfDyMudWb9wRvP471TzMPoyuTIdD5hLUPrqZ5agkSluWdm5MA6/8rTIV/fATMQpZzS5AFII3MGigAXmeInnJfITTp2EMf/m/QAj9Ux71ks32t88C5ofvgGZBNpmgD09XryJyTRshs4yjAN8U9Vx7S/fwTk0X4zpiUnkqPdF8fainQ2CX0SyMCtIhXmP9vzpcZg7TQLUA52BdJuE11ODtldmD27bK8LdxEW/4PA6zBZvMYI/8QTtNZSf96SdrWHyWTAN592Llt2rNBdWKFVIynSDG2zQ4gyHfkjR0AGO5ldo1vv8TZN1mJP9/yHhqe7KdCwWPyAyrWhorS3I6BpMM/0CIGjWnbmca8HoAqaJThXFcsG9Rf2+dFi9mruh91woMmg==;Tx1ThxJjIlqpOl+07RCAUw=="
 ---
 
