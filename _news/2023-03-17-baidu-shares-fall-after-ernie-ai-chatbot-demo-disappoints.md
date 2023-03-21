@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-searc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -194,15 +194,6 @@ related:
         width: 1600
         height: 1119
         isCached: true
-  - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
-    excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."
-    publishedDateTime: 2023-03-16T16:46:00Z
-    webUrl: "https://www.aol.com/news/baidu-unveils-ernie-bot-its-chatgpt-rival-161526340.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "SN2pig65q5DR54d//M+Iw8J9v+OaQkd+/pRpml8GDDonJc4hCP/fDZwC0Teq89RNTDQvsByMP9Jou2UAzn1aL+Ed/vQDnEIctLn0gSKnMxO8jNYOA4XEvlTpyxMbp8xCfQBqGE9y7P5tWpDuarkDbMYFJG4fdHNKFJOigrCbyS1EiT5UJZWDPUde+mySaJXas5KAm5rwlHfbWb7FkWXB3R+hAiKW/NTDDS+kkxhCkUxFwCuBfwxd7DDLCtGobz0HCV8y2cz6D7fsP3P1sitR31Mrz/xkCTcZYEWrf7sQG8m9W3clRtGcvt/mR9+GC66PCwy+vR7KTJChOuDDEwMYCdw7RjN6S0HUhgIV7KSBCwkR/SS/vU2R+8DCQPgq/7qajeQ7Z9rf19dKgoZ7bDvKGec8ROdN0sCf5/KQQhmUXMghgjdIEeSCiX9qDdue+AVIpvV3T7fWfPFCfNbVzPikgzVRg8L/C7Wh3+gyiEiwAcEjgwtMaBFLLLth61FUl/XzBrbIOr3+AVVSVQ5t0FzaXg==;L/G2u2zvP3pXy11yS7OW9w=="
 ---

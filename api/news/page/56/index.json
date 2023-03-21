@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-02-06-data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029.md",
+      "title": "Data and AI Ethics Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029",
+      "excerpt": "In 2023] The Global Data and AI Ethics Market Size (110 Report Pages) is estimated to be worth USD million in 2021 and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report.md",
       "title": "Speech and Voice Recognition Market Is Booming Worldwide | Including 104 Pages Report",
       "excerpt": "In 2023] The Global Speech and Voice Recognition Market Size (104 Report Pages) is estimated to be worth USD million",
@@ -944,49 +987,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ibm-watson-enlisted-to-combat-substance-abuse.md",
-      "title": "IBM Watson enlisted to combat substance abuse",
-      "excerpt": "The deal will see the Watson AI be used by Texas-based software firm ... \"It’s time to leverage an advanced cognitive technology platform like IBM Watson to help make the right, evidence-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
-      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-substance-abuse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/digital-skills-pharma-leaders-need_0.jpg?itok=0TKqDEYc",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

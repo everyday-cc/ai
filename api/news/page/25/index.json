@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-02-26-this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj.md",
+      "title": "This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ",
+      "excerpt": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/",
+      "originalUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/",
+      "publishedDateTime": "2023-02-25T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices.md",
       "title": "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices",
       "excerpt": "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices.",
@@ -1158,40 +1209,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages.md",
-      "title": "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages",
-      "excerpt": "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

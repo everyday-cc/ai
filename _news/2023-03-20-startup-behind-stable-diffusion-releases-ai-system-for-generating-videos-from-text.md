@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion
 webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

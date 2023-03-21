@@ -69,6 +69,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "sqeouCR+CtwLLu2Cmg7VRLOVe1BiGs4UvT6gaQRf6NvcGCAn4kIioXyIiURThhI0HIpEV/Je+O1zXdk8dpw/q0Y7TnL0VC5Tt4jm5taFhjPGXesb8YJLhquug51A57lnwbUi/X+tgFysd45hdR35RVRv2GhLFqCAEbFLM6RSBT9GfFr/LhmgU0iGMmnrboUdE0cSq+vtunJ51I5ZTFis2piv+0G/94dRyR2IxDcwgMcfUEvJHvTt5mrOMOmoXdEMI1RGRgMdEwHOZlgk4b14dGHQ+jRImuLHDoNFjsiHlKmD20+hiMFmZuty51FSegUxOV1eVY9I1H8P+w56unxQJn4PsbXZngB/i/Btabiq+bmNM3FP5x79sWozZtF307v3xTiuaex5p5LgNfssrOt4PU94pl/gsRuEuqgbGqB1+AK28hV71UwPwH5CnT+BpWyuq4jMsGOw0Q8QfsK0EACzZJC7luDmz0oDJCynzA7d0tkmeNdoeX2CmLUM5ciy2lwFAIoYlUSunh+WGsuaxjnolQ==;ZbZsbHwkILDx4pS/CnmcyQ=="
 ---

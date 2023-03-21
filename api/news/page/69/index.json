@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-01-25-microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack.md",
+      "title": "Microsoft CEO Nadella: 'Expect us to incorporate AI in every layer of the stack'",
+      "excerpt": "During Microsoft's fiscal first-quarter conference call, Tuesday, CEO Satya Nadella told Wall Street the company's private deal with OpenAI will pervade Microsoft's cloud computing operations. It's so big,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/28c13746b18be3bc2e2dad4fe2b5861a4c4943eb/2023/01/25/47a6e1df-cd08-4cd6-af1d-ecac2180912c/gettyimages-1246126800.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ceo-nadella-expect-us-to-incorporate-ai-in-every-layer-of-the-stack/",
+      "publishedDateTime": "2023-01-25T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-biomedical-research-platform-terra-now-available-on-microsoft-azure.md",
       "title": "Biomedical Research Platform Terra Now Available on Microsoft Azure",
       "excerpt": "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease.",
@@ -1097,59 +1149,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size: Overview, Share, Trends with Current Market Scenario, 2029",
-      "excerpt": "Artificial Intelligence (AI) in Education Market 2022 Report (Report Pages-123) offers a Comprehensive assessment",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

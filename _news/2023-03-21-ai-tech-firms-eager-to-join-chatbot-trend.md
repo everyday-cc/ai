@@ -191,15 +191,6 @@ related:
         width: 1600
         height: 1119
         isCached: true
-  - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
-    excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."
-    publishedDateTime: 2023-03-16T16:46:00Z
-    webUrl: "https://www.aol.com/news/baidu-unveils-ernie-bot-its-chatgpt-rival-161526340.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "GwG1gBjtMw3xRGDgxiWi8BYThXXR8jGHy/tSrmnaaxV9XdJWvN9qKbPFBilqgNGLSFY3rYyPfKs1F4wto4p/0LUscb/eMoNRBJrHyvDyNgCsc9BkkK9k6xmaRMArEWtW6dA+UXqQC/n8CMeJXDcAUfhEFu/YAquW1mlgg1C5JtDjVmPbc5qUPganS2lXJ6uAqE4rcEWJN5Wf/rJ6nKjLKsH0RmrqsTNk/omJyCDV63lRiJEdsxDukFgDrWMLn6KL1aV0uXolD+6HN9mkvxA4OFs4SvdOA9DxH227O0KSYPF5ivR2IsJfo4hz4KWqYYUAN0M6EYnJM2XW5E3982i+OPFRAMFBDzPDII6I2RaoIB6TOdZHLkYsEmBSUIm+7DvHonbWgn9KDJ3RsBIH7SsB+9vNi0XqNgLPnuLN44qvTjrPnW0+SZzSlzq0cqsDIDqL4x7QzxEO+1YIr0d2KxYxgnViDMvUIy2MLj3E6JCPvIMI5j15CWewlbsDxbV15GJmndizcxDPxe7hYjzHH0+L6w==;nu+Kq/88lzR1sSmBMHyySw=="
 ---

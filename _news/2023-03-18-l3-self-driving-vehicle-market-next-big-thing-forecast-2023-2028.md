@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Data Catalog Software Market Size, Revenue, and Forecast 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Data Catalog Software"
+    publishedDateTime: 2023-03-21T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-revenue-and-forecast-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
     publishedDateTime: 2023-03-17T16:35:00Z

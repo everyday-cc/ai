@@ -48,22 +48,6 @@ related:
         width: 960
         height: 564
         isCached: true
-  - title: "Microsoft 365 gets a host of new AI-powered features"
-    excerpt: "(Relatedly, OpenAI revealed yesterday that it worked with Microsoft to build a “supercomputer” in Azure to develop GPT-4.) Microsoft has reportedly been forced to ration access to the hardware for some internal teams building other AI tools to ensure ..."
-    publishedDateTime: 2023-03-16T16:04:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/m365copilot_business_1920x1080_web.png?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
     excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
     publishedDateTime: 2023-03-17T00:22:00Z
@@ -96,38 +80,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI-run Microsoft 365 Copilot is supposed to make people work smarter and not harder"
-    excerpt: "Our efforts are guided by our AI principles and Responsible AI Standard and build on decades of research on grounding and privacy-preserving machine learning. Microsoft’s work on AI is reviewed for potential harms and mitigations by a multidisciplinary ..."
-    publishedDateTime: 2023-03-16T15:32:00Z
-    webUrl: "https://www.neowin.net/news/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
-    ampWebUrl: "https://www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-ai-run-microsoft-365-copilot-is-supposed-to-make-people-work-smarter-and-not-harder/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 96
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678979472_microsoft-365-copilot_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft Stock Rallies As Next Generation ChatGPT-4 Is Released"
-    excerpt: "Just as the conversation around ChatGPT had begun to die down, the next generation of the natural language processing software, GPT4, has been released. It offers up improvements in scope and capabilities of the model, with proponents believing it to be ..."
-    publishedDateTime: 2023-03-16T15:10:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/16/microsoft-stock-rallies-as-next-generation-chatgpt-4-is-released/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6413310fff60066fd87fbf2f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft laid off an AI ethics team"
     excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
     publishedDateTime: 2023-03-16T23:36:00Z
@@ -144,35 +96,21 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "GPT-4 Is Here, Microsoft Gives Its AI Ethics Team the Boot, More AI News"
-    excerpt: "GPT-4 takes AI to the next level, Microsoft cuts AI ethics team and more news from the world of artificial intelligence. Clearly, the big AI news of the week is OpenAI’s release of GPT-4, the company’s highly anticipated language model — but you ..."
-    publishedDateTime: 2023-03-16T15:15:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/gpt-4-is-here-microsoft-gives-its-ai-ethics-team-the-boot-more-ai-news/amp/"
+  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
+    excerpt: "The statement said, \"The Ethics and Society team played a key role at the beginning of our responsible AI journey, incubating the culture of responsible innovation that Microsoft’s leadership is ..."
+    publishedDateTime: 2023-03-17T02:58:00Z
+    webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+    ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
+    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 90
+      name: WKBW
+      domain: wkbw.com
+    quality: 91
     images:
-      - url: "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "How to watch the Microsoft 365 AI event"
-    excerpt: "Microsoft is holding a special “future of work with AI” event today, where the company says it’ll be “reinventing productivity with AI.” Microsoft is expected to demonstrate how its ChatGPT-like AI will work in Microsoft 365 and Office apps like Teams,"
-    publishedDateTime: 2023-03-16T16:00:00Z
-    webUrl: "https://www.theverge.com/2023/3/16/23642788/how-to-watch-microsoft-365-ai-event"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg"
-        width: 1200
-        height: 628
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
     excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
@@ -185,20 +123,6 @@ related:
     quality: 82
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/rLC0dOkozsbBDSAnlJoUMRqkcAM=/0x0:1115x609/1200x628/filters:focal(558x305:559x306)/cdn.vox-cdn.com/uploads/chorus_asset/file/24513069/business_chat_teams.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft unveils AI for its office suite in increased competition with Google"
-    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
-    publishedDateTime: 2023-03-16T15:48:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-unveils-ai-its-office-suite-increased-competition-with-google-2023-03-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
-    images:
-      - url: "https://www.reuters.com/resizer/_NQbA-VH5pj-ejAXzvVqYEdNpmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IP3JX4KXTRPF5KXX6KBRGYQUB4.jpg"
         width: 1200
         height: 628
         isCached: true
@@ -247,22 +171,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/03/satya-ai-announcement-2a.jpg"
         width: 978
         height: 628
-        isCached: true
-  - title: "Microsoft adds AI tools to office apps like Outlook, Word"
-    excerpt: "Microsoft is infusing artificial intelligence tools into its suite of office software, including Word, Excel and Outlook emails"
-    publishedDateTime: 2023-03-16T16:19:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/microsoft-adds-ai-tools-office-apps-outlook-word-97921816"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_5a399068c29272b6841047535d9fd1c2_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
     excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
@@ -339,20 +247,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
-    excerpt: "This week's drumbeat of news including new funding for AI startup Adept reflects how companies large and small are locked in a fierce competition to deploy software that could reshape how people work. At the center are Microsoft and Google-owner Alphabet ..."
-    publishedDateTime: 2023-03-16T16:23:00Z
-    webUrl: "https://gazette.com/news/us-world/microsoft-unveils-ai-office-copilot-in-fast-moving-race-with-google/article_0d224b79-2648-5213-87f4-8b9d273f8c5b.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/4c/e4cf0464-6667-5366-b44c-f1406bfd9bf2/6413342fac157.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
         isCached: true
   - title: "Microsoft adds AI tools to Office apps like Outlook, Word"
     excerpt: "- In this July 3, 2014,  the Microsoft Corp. logo is displayed outside the Microsoft Visitor Center in Redmond, Wash. Microsoft is infusing generative AI tools into its Office software, including Word,"
@@ -435,15 +329,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
-    publishedDateTime: 2023-03-16T22:23:00Z
-    webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
-    type: article
-    provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 51
   - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
     excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
     publishedDateTime: 2023-03-20T13:00:00Z
@@ -517,6 +402,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
+    excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
+    publishedDateTime: 2023-03-21T09:56:00Z
+    webUrl: "https://www.inc.com/jason-aten/the-smartest-thing-about-microsofts-copilot-ai-feature-is-name.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
     quality: 34
   - title: "ChatGPT AI now more powerful"
     excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/amp/"
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:

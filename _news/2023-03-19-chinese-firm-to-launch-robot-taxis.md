@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese scientists develop new method to guarantee self-driving safety"
-    excerpt: "BEIJING - A research team from Tsinghua University has made a breakthrough in autonomous driving, developing a technology that allows vehicles to self-learn while driving to deal with unfamiliar situations, an innovation that could resolve self-driving ..."
-    publishedDateTime: 2023-03-16T16:10:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202303/17/WS64133ee7a31057c47ebb4ebd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202303/17/64133ee7a31057c4b4b768c4.jpeg"
-        width: 608
-        height: 405
-        isCached: true
   - title: "Chinese scientists develop new method to guarantee self-driving safety"
     excerpt: "The technology enables continuous performance improvements in cars using the data collected during autonomous driving, unlike the conventional method of training cars as much as possible in various driving scenarios in advance,"
     publishedDateTime: 2023-03-17T04:47:00Z

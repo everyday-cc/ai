@@ -3,13 +3,13 @@ category: news
 title: "Will AI Robots Coach Mental Well-Being in the Workplace?"
 excerpt: "Our study provides valuable insights for robotic well-being coach design and deployment, and contributes to the vision of taking robotic coaches into the real world,” wrote t"
 publishedDateTime: 2023-03-20T22:25:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
 type: article
-quality: 76
-heat: 76
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI
-  - Computer Vision
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic0923841.jpg?itok=iH1cRB3j"
@@ -27,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "bjSQn7JEkb61DZIR/d3ZPI2/1kbPUldHGo+ws9yRO+rlXSZIZfQU+mg5b4csGAwi+WficVMVmKP+vAev5t/7MnR4RoaQZZSAvJnwXQ2DCkMMs8bBaDqZTt/dt4nbua5SBRkOEEsVChKTcSGHe87SM1TZBi985J61eQkw90SZG9sTSQnnVanp1gJOl+yezpWrEFjInaeLxBiP7NaaPNwiVIk7N4lO90bsEV0l/5ANO04LGXa7YQAZxPWLlmFB+h3JYBkVd8XthscjpbKBcuMhBDhtfMMIp7XObyCXqAxpap9YWzf8iJn6Tduef9e0Ot7DTG+F4FvUKvBXyS/CVxxo71IPlGdC+Uhxw+/J9VDr0xGBJPziC8zp0xSb7gCdzm+YDAY7qp4iY4NgYANVZrSdL2EBcdzYhWQn4a02d6DHPWvgd4+BaxNgPGCfr9sJxv2HNoniGS1zQisQoDyXO+6l1JIr14s5uayDAJjcSJiNzVav7NPPA06/UaL7BzuAOqCpYZl1p4uHIjIjF+kunICwfQ==;M6ifPx0f/rv6cgr7UNOG0w=="
+secured: "QN8fpeVWm7Cl1iu4D7+EoZLgYSPqw5PW9ImIQimlfRqSBxJBiS3bpk59+ADrfxdKRH93tRxBiqZMC4nQo9D7ttXS4PBAp4w8wQ6AID1XCIzn3Crhm50lFq1gO1eimkMBElFivnbEApmlDy0xZCK5p3pfIe30UxHmlSJtsdihviRxKnVURffJs3PPtH/5+QTOTS8PxS15+9h0NEdZS0NCKWz/JR1o+gHjarHGuGEgMv0ZXhDjaD6A7JrDi0Nq4aB0+lSopMrIOZkMyhf0VOzzB0UwO+qykcmenLasgqjrgyTAA/otXm58/gAzfJgmLQ8Bn+tEQr3xDflySchs7VrImwCfdoW4JOU05lVQP+lquI4=;ltrE1SBxWJ7rf1u4KmpsIA=="
 ---
 

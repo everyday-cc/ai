@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-intelligent-voice-re
 webUrl: "https://www.marketwatch.com/press-release/the-intelligent-voice-recognition-market-research-report-aids-expansion-in-industry-revenue-2023-03-17"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
-    excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \"Machine Learning"
-    publishedDateTime: 2023-03-16T16:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58572678-advancements-in-deep-learning-reinforce-machine-learning-industry-growth-grand-view-research-inc-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
     excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \" Machine Learning Industry Data Book, 2023 – 2030 ,\" published by Grand View Research."
     publishedDateTime: 2023-03-16T23:17:00Z

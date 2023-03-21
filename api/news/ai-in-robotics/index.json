@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -58,11 +58,11 @@
       "title": "Will AI Robots Coach Mental Well-Being in the Workplace?",
       "excerpt": "Our study provides valuable insights for robotic well-being coach design and deployment, and contributes to the vision of taking robotic coaches into the real world,” wrote t",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -76,8 +76,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
       "publishedDateTime": "2023-03-20T15:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -92,9 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -306,7 +305,7 @@
       "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {

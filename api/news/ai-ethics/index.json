@@ -149,7 +149,7 @@
       "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -173,58 +173,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-the-tech-boss-at-a-global-pr-firm-says-using-ai-tools-like-chatgpt-can-inspire-creativity-and-transform-businesses-if-you-do-it-right.md",
-      "title": "The tech boss at a global PR firm says using AI tools like ChatGPT can inspire creativity and transform businesses — if you do it right",
-      "excerpt": "The result, Dulaney said, is \"more conversational data versus just automated responses.\" Create ethics guidelines around tech use Dulaney is clear that generative AI solutions like ChatGPT can't be a \"complete replacement\" for human talent. Instead ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3",
-      "originalUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/641358ec0308e00018551731?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/technology-chatgpt-strategy-companies-hotwire-kevin-dulaney-interview-2023-3?amp",
-      "publishedDateTime": "2023-03-17T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -294,6 +242,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy.md",
+      "title": "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy",
+      "excerpt": "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg",
+          "width": 800,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "publishedDateTime": "2023-03-16T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

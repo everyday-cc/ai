@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-09-how-artificial-intelligence-could-reinvent-the-communications-industry.md",
+      "title": "How Artificial Intelligence Could Reinvent The Communications Industry",
+      "excerpt": "AI is poised to reinvent the entire communications industry and pave the way for better, more accessible human expression by eliminating monotonous tasks and expanding creative potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64073e65f34985d93825191c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/amp/",
+      "publishedDateTime": "2023-03-09T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-how-to-invest-in-new-ai-technologies-like-chatgpt-dall-e-and-more-wall-street-analysts-weigh-in.md",
       "title": "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in",
       "excerpt": "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now.",
@@ -1060,49 +1111,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-humans-and-our-alarming-fear-of-robots.md",
-      "title": "Humans and Our Alarming Fear of Robots",
-      "excerpt": "I couldn’t help myself. “Everyone? That’s disingenuous.” The Tokyo robot was one of many robots and other forms of artificial intelligence (AI) that have grated on my nerves. I’m not alone in my disdain. Scientists have been studying robot hate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
-      "originalUrl": "https://www.discovermagazine.com/mind/humans-and-our-alarming-fear-of-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/3GG7tX1uWzasiXe98ywtHM/361ef445bef3b1d9511b3904ac9f3a4d/shutterstock_719376568.jpg",
-          "width": 1000,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

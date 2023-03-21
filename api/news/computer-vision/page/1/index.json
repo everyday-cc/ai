@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-21-will-ai-robots-coach-mental-well-being-in-the-workplace.md",
-      "title": "Will AI Robots Coach Mental Well-Being in the Workplace?",
-      "excerpt": "Our study provides valuable insights for robotic well-being coach design and deployment, and contributes to the vision of taking robotic coaches into the real world,” wrote t",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic0923841.jpg?itok=iH1cRB3j",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp",
-      "publishedDateTime": "2023-03-20T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
       "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
       "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
@@ -1408,6 +1364,49 @@
       "provider": {
         "name": "Security",
         "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
+      "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
+      "excerpt": "These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator, meeting user requirements for text, image, and object recognition across multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/mwc-2023-petal-search-unveils-latest-multimodal-ar-search-fast-object-recognition-and-text",
+      "originalUrl": "https://www.asiaone.com/business/mwc-2023-petal-search-unveils-latest-multimodal-ar-search-fast-object-recognition-and-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2023/image_1_AR_search_experience_at_MWC_2023.jpg?h=ef2d6e95&itok=7VcQ-LrZ",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

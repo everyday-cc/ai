@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
-    excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \"Machine Learning"
-    publishedDateTime: 2023-03-16T16:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58572678-advancements-in-deep-learning-reinforce-machine-learning-industry-growth-grand-view-research-inc-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
 
 secured: "JKqfWhERYiFM+Je0P3cZhsMhfb56mp4ZAsGXQqAhuwpgU8i+34zNGlpg+Fb1uR5UBxZrqvS4G6dRTfogXl3UOudTfylCRVcaOy1oJvMzu9OayYPBUT2kojGag+uUmyDSSMqxJEwQrxOWAAKMLqOnHJt24wyjG8KLHMnn2Sr83WyyA/e8wVZFOt8Sfv8suXAbpVoVu40WnLadexAhEqZsLddztp4stwn+8QkPrEqEfSs5+C0wZWgTHmUJoLw8NUtHm1rwtGcxLbCjXc9KqqH5m35mmEuOQ9nrOSrQOIJE5eY7V4/QqV+lZuILK2oMAoSBtpPJ+H6+1o7bvkU0Jcn81HUc8byPaD+PfOaxpi0KBjM=;xbGk4c7rfbP8QwsOBNQjmQ=="
 ---

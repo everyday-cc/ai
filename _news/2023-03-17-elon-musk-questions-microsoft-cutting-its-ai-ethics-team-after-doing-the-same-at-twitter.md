@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s new Power Platform AI copilot will build your apps for you"
-    excerpt: "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ..."
-    publishedDateTime: 2023-03-16T15:49:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-083404.png?resize=1200,649"
-        width: 1200
-        height: 649
-        isCached: true
   - title: "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy"
     excerpt: "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ..."
     publishedDateTime: 2023-03-16T17:39:00Z
@@ -106,20 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
-    excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
-    publishedDateTime: 2023-03-16T15:07:00Z
-    webUrl: "https://www.entrepreneur.com/business-news/elon-musk-questions-microsofts-recent-ai-ethics-layoffs/447740"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 101
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1678977683-GettyImages-1241429377.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Microsoft announces generative AI-powered Copilot 365 to ‘change work as we know it’"
     excerpt: "Capping an epic week in generative AI, Microsoft released Copilot 365, combining LLMs like GPT-4 with Microsoft 365 apps and Graph data."
     publishedDateTime: 2023-03-16T23:36:00Z
@@ -135,48 +105,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/m365copilot_business.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft 365 Copilot uses AI superpowers to eliminate work drudgery"
-    excerpt: "AI has simply exploded across the Internet ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
-    publishedDateTime: 2023-03-16T15:56:00Z
-    webUrl: "https://www.pcworld.com/article/1661514/microsoft-365-copilot-is-microsofts-ai-powers-applied-to-work.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/microsoft-copilot.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft announces Copilot: the AI-powered future of Office documents"
-    excerpt: "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. Microsoft is announcing a new AI-powered Copilot for its Microsoft 365 apps and services today, designed to assist people with generating documents ..."
-    publishedDateTime: 2023-03-16T16:05:00Z
-    webUrl: "https://www.theverge.com/2023/3/16/23642833/microsoft-365-ai-copilot-word-outlook-teams"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 86
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/MCWRZPfJKetruQ4U2vUA0NJDWho=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24512917/omb_hero_wholenewwaytowork_web.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft's New 'Copilot' AI Can Create a PowerPoint And Even Attend Meetings"
-    excerpt: "Microsoft 365 Copilot is designed to take the drudgery out of work by automating various tasks for you, such as writing emails, creating presentations or extracting insights from a spreadsheet."
-    publishedDateTime: 2023-03-16T16:48:00Z
-    webUrl: "https://www.pcmag.com/news/microsofts-new-copilot-ai-can-create-a-powerpoint-and-even-attend-meetings"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 81
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00iRwVa8kjFHQrYl4S1N2IK-1.fit_lim.size_1200x630.v1678981833.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team"
     excerpt: "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ..."
@@ -210,6 +138,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft’s new Copilot will change Office documents forever"
+    excerpt: "Despite reports of Microsoft laying off its ethics and society team that taught employees how to make AI tools responsibly, Friedman says Microsoft is growing the people working on these concerns."
+    publishedDateTime: 2023-03-17T14:06:00Z
+    webUrl: "https://www.theverge.com/2023/3/17/23644501/microsoft-copilot-ai-office-documents-microsoft-365-report"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/FRBC6Ge0eAbFQ33e2TAGbbl8E90=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24515603/m365copilot_business_1920x1080_web__1_.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
     excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
     publishedDateTime: 2023-03-20T13:30:00Z
@@ -219,15 +161,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "Microsoft Copilot leak shows AI automatically creating a PowerPoint presentation"
-    excerpt: "Microsoft is holding a big AI event later today, but one of the announcements appears to have just leaked. Twitter user h0x0d has published details of a PowerPoint Copilot feature, which appears to include ChatGPT-like AI that will create presentations for you."
-    publishedDateTime: 2023-03-16T16:51:00Z
-    webUrl: "https://www.theverge.com/2023/3/16/23642870/microsoft-copilot-office-powerpoint-microsoft-365-leak"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 59
   - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
     excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
     publishedDateTime: 2023-03-17T22:33:00Z
@@ -242,20 +175,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft announces 365 Copilot — this AI could revolutionize how you work"
-    excerpt: "Copilot will not be available to everyone at first — Microsoft is rolling it out only to select enterprise customers to start. In fact, Microsoft took special care to point out the potential flaws with AI and concerns over privacy and safety throughout ..."
-    publishedDateTime: 2023-03-16T16:50:00Z
-    webUrl: "https://www.tomsguide.com/news/microsoft-announces-365-copilot-this-ai-could-revolutionize-how-you-work"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 52
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/q7WucqcgFFacsJ4X8USoH8-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
     excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
     publishedDateTime: 2023-03-20T12:30:00Z
@@ -265,38 +184,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
-    excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."
-    publishedDateTime: 2023-03-20T13:01:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft-used-tens-of-thousands-of-chips-to-build-openai-supercomputer/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 51
-  - title: "Intelligently search your organization’s Microsoft Teams data source with the Amazon Kendra connector for Microsoft Teams"
-    excerpt: "Organizations use messaging platforms like Microsoft Teams to bring the right people together to securely communicate with each other and collaborate to get work done. Microsoft Teams captures invaluable organizational knowledge in the form of the information that flows through it as users collaborate."
-    publishedDateTime: 2023-03-17T18:49:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/intelligently-search-your-organizations-microsoft-teams-data-source-with-the-amazon-kendra-connector-for-microsoft-teams/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 46
-  - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
-    excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
-    publishedDateTime: 2023-03-17T16:53:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/17/semantic-kernel.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 41
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Introducing Microsoft 365 Copilot—A whole new way to work"
     excerpt: "Copilot combines the power of language models with your data in the Microsoft 365 apps and Microsoft Graph to turn your words into the most powerful productivity tool on the planet."
     publishedDateTime: 2023-03-16T17:06:00Z

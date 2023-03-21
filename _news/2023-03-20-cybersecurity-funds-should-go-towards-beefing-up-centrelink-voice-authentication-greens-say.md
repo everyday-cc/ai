@@ -25,17 +25,20 @@ topics:
   - AI
 
 related:
-  - title: "Innovations transforming the startup landscape: From Cloud, AI to Cybersecurity"
-    excerpt: "Speed: Start-ups can quickly deploy and iterate on their applications ... And that was where a short discussion on the latest craze on the AI tech front, ChatGPT happened. Key points: Smitesh Valanju, CISO, TataCLiQ said it has always been the data that ..."
-    publishedDateTime: 2023-03-17T06:38:00Z
-    webUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/"
-    ampWebUrl: "https://www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/innovations-transforming-the-startup-landscape-from-cloud-ai-to-cybersecurity/amp/"
+  - title: "How AI fooled Centrelink, and could fool you"
+    excerpt: "Data and interactives editor Nick Evershed on how an AI-generated voice was able to fool Centrelink to access his private information, and AI expert Toby Walsh explores how this technology could make"
+    publishedDateTime: 2023-03-21T02:24:00Z
+    webUrl: "https://www.theguardian.com/australia-news/audio/2023/mar/21/how-ai-fooled-centrelink-and-could-fool-you"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 33
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/fdc3be3cd8ab51000c9b21ceb48fa6b109a5ce81/42_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3f5f051cbcd7044e60bae696b254b05"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IOHC0qQvaPgO86KdsOs74TMu7cJpn0FeAjdYazKFaze2BOS4qOh2BC9UIYSfC77eNei8tbYinbxeL+ZqC9o/dJHMJZI6i0WU0vcRG4N6Y0q8sWHzGEUPNt95QcvIqDRTXVlzVwvT+hvqj4FHMMPaT5SsN+Fgd+lzkm3uASO0aXrErP/wuu7FHynfLVj6CuRjpnuHWk86BLVv2pXwhlBLhbKVD2OQ14Xh8jmVrjHFSvWFvGSmi2v6ht3P61tNVIGO+ZJKEf3jvzHCuGQQL7DPvD/XEusTvBQeXHb9PI3TBU/PYJRlY+ISMsvwYyldyRjsJuWj4BvBbyCZlKKcUSsVeWYM/YmDRSVbwJ2dPVCZdH2++K82d3B1/nkDqsW69WaZ5ltvxkGtU4IV9C4Dm7zPrvvBP6Y1yHOFI+SvyBv4W1xFMgYGnaaUXQziO1KvU2uOkLtxG+ZAl6U9LXzBkN3FRvHYYF5t5VeQCH7Uzb70RRlfWsE+oKM3RUXqjhK19rIWhEBtd0BTXhpx10a7KuwMKg==;jEjaAg+5/eV6MN9ZZoucgA=="
 ---

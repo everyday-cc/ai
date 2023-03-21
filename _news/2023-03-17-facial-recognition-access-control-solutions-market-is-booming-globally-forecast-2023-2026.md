@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Data Catalog Software Market Size, Revenue, and Forecast 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Data Catalog Software"
+    publishedDateTime: 2023-03-21T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-revenue-and-forecast-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
     publishedDateTime: 2023-03-18T05:39:00Z

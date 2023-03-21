@@ -41,20 +41,6 @@ related:
         width: 561
         height: 390
         isCached: true
-  - title: "Chinese scientists develop new method to guarantee self-driving safety"
-    excerpt: "BEIJING - A research team from Tsinghua University has made a breakthrough in autonomous driving, developing a technology that allows vehicles to self-learn while driving to deal with unfamiliar situations, an innovation that could resolve self-driving ..."
-    publishedDateTime: 2023-03-16T16:10:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202303/17/WS64133ee7a31057c47ebb4ebd.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202303/17/64133ee7a31057c4b4b768c4.jpeg"
-        width: 608
-        height: 405
-        isCached: true
 
 secured: "n5o60KSuXMt6/WI5E+p8VKq+iTxRetyEHQ075XZI4FLTnjIfkLb+1OupdWyIU4B7CmdO54eLOGdqcJ69c2PhxgZOHEu97nXW4VJSemiBxJ2iahiCvaPWbJ2hAeOsoJeBnYYAJIJGjqM0fqfRXDLM2SumJzdaBTeHfne01FWKKmtO/XG23Au+roEiz1bU6g79w/et9v8sDoTIGq7FeeUdtsshSndHCqINLozip+RyRNz9raKxEWNSDP55SUX36qIgEJG4ltHSPIevBJHMI9L+xKHnQyKAvAfGBxpqRtK0STmK5jW4f+FxY0Ns1ZgYNSE+D3fR7cDxjxRGgNidgCChjbWjOQNHK2doNMHuhfyNd6I=;gpV1ZtRakHtNhLWmhRI56g=="
 ---

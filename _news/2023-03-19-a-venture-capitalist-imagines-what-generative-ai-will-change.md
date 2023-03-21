@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what
 webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "yBlXzqKkesqrAxjDFM4a4SlsYiCO+M9ph9LFWCoiJa5yRIFZp1RyXwoxbGyplk9L4+lNOthMM3iGnXIq6ZQjCnF4tV5bzmbsS5NL4LmaY2CprU5DbyKCGwOphkDXn7fX/YLvHGkTC2qKmed41sunIzPLY1HHcEq8Zx/7XxLX76QPyS1sv3PElh4npBx5WI7Whl7TwBlcUWvPjz31I/mUb1R9mN2Opim97vNpKdzSvI0lu3ZvVtVh44Bm/DRQDJ9Rg4t55qm4JzZApc/I09ALKSz22h8+gN7q8yQsSox40ZDI/p2tBVzOHgC4arC029MWO9GVF6QCdVCYVVhDo+SD1+qgEwLLRwNXLnKpqdT4Jy6kcmhLKMoxbASojPvWTu7yG5N0LbZ6Ku1wXIL8iJ2p6RX8L1iCJEh/Vm0JR0iVq8yWwPWMxT207ylUMMR+OFINwHLL8VgguvA8VupYplIoIG2hZ7325e4JNR4Uq8bwKl7/QU1nqGvGkXv0cLf0r/ZkyO9K2Ejvdxiwl4lxirHeFQ==;mkfEnLD84tuLRDmuKOXTXQ=="
 ---
