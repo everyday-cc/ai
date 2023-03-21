@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Chip Market Size and Forecast till 2029"
+    excerpt: "What is the Machine Learning Chip market growth? Machine Learning Chip Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Computer Vision Market Highlights 2023-2028, With New Report"
     excerpt: "Mar 17, 2023 (The Expresswire) -- Report Highlights with 116 pages:-\"The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast period, reaching USD 14367.51 ..."
     publishedDateTime: 2023-03-17T13:07:00Z
@@ -95,20 +109,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
-  - title: "2023-2029 Future of Computer Vision Market: Predictions and Analysis"
-    excerpt: "The recently published Computer Vision Market Report, spanning across 100 pages, provides a comprehensive analysis of"
-    publishedDateTime: 2023-03-16T10:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-future-of-computer-vision-market-predictions-and-analysis-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Market Trend 2023-2028, With New Survey"
     excerpt: "Report Highlights with 104 pages: -\"The global Artificial Intelligence market size was valued at USD 59732.12 million"
     publishedDateTime: 2023-03-17T04:51:00Z

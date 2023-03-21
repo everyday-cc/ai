@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-searc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -198,15 +198,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
-    excerpt: "Shares of Baidu fell as much as 10 per cent on Thursday after the web search company showed only a pre-recorded video of its AI chatbot Ernie in the first public release of Chinas"
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.ft.com/content/5bf4dab2-b19b-4df9-b410-4df1efe2f2f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "SN2pig65q5DR54d//M+Iw8J9v+OaQkd+/pRpml8GDDonJc4hCP/fDZwC0Teq89RNTDQvsByMP9Jou2UAzn1aL+Ed/vQDnEIctLn0gSKnMxO8jNYOA4XEvlTpyxMbp8xCfQBqGE9y7P5tWpDuarkDbMYFJG4fdHNKFJOigrCbyS1EiT5UJZWDPUde+mySaJXas5KAm5rwlHfbWb7FkWXB3R+hAiKW/NTDDS+kkxhCkUxFwCuBfwxd7DDLCtGobz0HCV8y2cz6D7fsP3P1sitR31Mrz/xkCTcZYEWrf7sQG8m9W3clRtGcvt/mR9+GC66PCwy+vR7KTJChOuDDEwMYCdw7RjN6S0HUhgIV7KSBCwkR/SS/vU2R+8DCQPgq/7qajeQ7Z9rf19dKgoZ7bDvKGec8ROdN0sCf5/KQQhmUXMghgjdIEeSCiX9qDdue+AVIpvV3T7fWfPFCfNbVzPikgzVRg8L/C7Wh3+gyiEiwAcEjgwtMaBFLLLth61FUl/XzBrbIOr3+AVVSVQ5t0FzaXg==;L/G2u2zvP3pXy11yS7OW9w=="
 ---

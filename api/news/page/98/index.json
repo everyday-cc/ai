@@ -2,6 +2,84 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-12-29-as-artificial-intelligence-rises-lawmakers-strive-to-catch-up.md",
+      "title": "As Artificial Intelligence rises, lawmakers strive to catch up",
+      "excerpt": "Paris. From “intelligent” vacuum cleaners and driverless cars to advanced techniques for diagnosing diseases, artificial intelligence has burrowed its way into every arena of modern life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecitizen.co.tz/tanzania/news/business/as-artificial-intelligence-rises-lawmakers-strive-to-catch-up-4069650",
+      "originalUrl": "https://www.thecitizen.co.tz/tanzania/news/business/as-artificial-intelligence-rises-lawmakers-strive-to-catch-up-4069650",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-29T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "thecitizen.co.tz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-29-deepmind-googles-ml-based-graphcast-outperforms-the-worlds-best-medium-range-weather-forecasting-system.md",
+      "title": "DeepMind & Google’s ML-Based GraphCast Outperforms the World’s Best Medium-Range Weather Forecasting System",
+      "excerpt": "Medium-range weather forecasts play a crucial role in agriculture, construction, travel and other industries. They also bring practical value to people’s daily lives, enabling us to plan outings and keeping us safe from extreme weather events.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/12/28/deepmind-googles-ml-based-graphcast-outperforms-the-worlds-best-medium-range-weather-forecasting-system/",
+      "originalUrl": "https://syncedreview.com/2022/12/28/deepmind-googles-ml-based-graphcast-outperforms-the-worlds-best-medium-range-weather-forecasting-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/12/image-71.png?resize=790%2C1001&ssl=1",
+          "width": 790,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/12/28/deepmind-googles-ml-based-graphcast-outperforms-the-worlds-best-medium-range-weather-forecasting-system/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/12/28/deepmind-googles-ml-based-graphcast-outperforms-the-worlds-best-medium-range-weather-forecasting-system/amp/",
+      "publishedDateTime": "2022-12-28T17:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-12-29-developing-deep-learning-based-real-time-ultrasonic-hologram-generation-technology.md",
       "title": "Developing deep learning based real-time ultrasonic hologram generation technology",
       "excerpt": "DGIST Department of Electrical Engineering and Computer Science Professor Hwang Jae-yoon's team developed a deep learning-based ultrasound hologram generation framework technology that can freely configure the form of focused ultrasound in real time based on holograms.",
@@ -953,102 +1031,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-baidu-starts-offering-nighttime-driverless-taxis-in-china.md",
-      "title": "Baidu starts offering nighttime driverless taxis in China",
-      "excerpt": "Baidu, the Chinese internet giant that became known for its search engines, is making some big strides in autonomous driving. Starting this week, the public can ride its robotaxis in Wuhan between ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/",
-      "originalUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/baidu-apollo.jpg?resize=1200,773",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/amp/",
-      "publishedDateTime": "2022-12-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-will-septas-new-artificial-intelligence-security-system-racially-profile-riders.md",
-      "title": "Will SEPTA’s new artificial intelligence security system racially profile riders?",
-      "excerpt": "Some of the analytical features used for the ZeroEyes algorithm could be inherently related to race and socioeconomic status, including skin color and clothing style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html",
-      "originalUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inquirer.com/resizer/O3mCjcbi5GV1h8FvGy3p1926bPA=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/PGK6SOO2OFGYTHV7U7UGGQYX3Y.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html?outputType=amp",
-      "publishedDateTime": "2022-12-25T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Inquirer",
-        "domain": "inquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Facebook AI"
       ]
     }
   ],

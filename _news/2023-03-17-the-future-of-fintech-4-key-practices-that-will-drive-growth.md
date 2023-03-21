@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 High-Growth Fintech Stocks to Buy for 2023"
-    excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
-    publishedDateTime: 2023-03-17T14:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shop-pypl-upst-3-high-growth-fintech-stocks-to-buy-for-2023-1032175898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
     excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
     publishedDateTime: 2023-03-20T03:58:00Z

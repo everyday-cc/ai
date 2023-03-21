@@ -2,6 +2,101 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-02-02-japanese-chip-venture-rapidus-needs-54-bln-to-begin-production-says-chairman.md",
+      "title": "Japanese chip venture Rapidus needs $54 bln to begin production, says chairman",
+      "excerpt": "Japan's state-backed chip venture Rapidus will need about 7 trillion yen ($54 billion) of mostly taxpayer money to begin mass producing advanced logic chips in around 2027, its chairman, Tetsuro Higashi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
+      "originalUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/izfAoP3EHtFt5nG9YNgNRigqQ0w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMHR4TMD45IQRJCLNGCWRX66EU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T01:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-gpt-3-use-cases-in-banking-finance-and-fintech.md",
+      "title": "GPT-3 Use Cases in Banking, Finance and Fintech",
+      "excerpt": "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
+      "originalUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/01/GPT-3-Use-Cases-in-Banking-Finance-and-Fintech-1440x564_c.jpg?x30842",
+          "width": 1440,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechnews",
+        "domain": "fintechnews.ch",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-the-merging-of-artificial-intelligence-and-robotics-what-risks-does-it-entail.md",
       "title": "The Merging of Artificial Intelligence and Robotics: What Risks Does It Entail?",
       "excerpt": "Artificial intelligence and robotics are two technologies that are rapidly changing the world as we know it. Together, these technologies have the potential to revolutionize the way we do business and live our lives.",
@@ -1059,115 +1154,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m.md",
-      "title": "Gem Security shows detection and response key to cloud security, raises $11M",
-      "excerpt": "Gem Security emerges from stealth with $11 million in seed funding for cloud security detection and response solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/",
-      "originalUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Our-Gems.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m/amp/",
-      "publishedDateTime": "2023-02-01T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-our-pick-of-the-best-artificial-intelligence-ai-stocks-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks & Shares",
-      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opport",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics",
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     }
   ],

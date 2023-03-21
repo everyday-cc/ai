@@ -46,58 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-18-ai-love-what-happens-when-your-chatbot-stops-loving-you-back.md",
-      "title": "AI love: What happens when your chatbot stops loving you back",
-      "excerpt": "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/",
-      "originalUrl": "https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4q2SKSKc-8d4xCLVI3VKBitHlN4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MM2VJ67XK5L6DDVJ4QJNMGJFHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
       "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
       "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
@@ -253,7 +201,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1481,6 +1429,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
+      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
+      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
+          "width": 278,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

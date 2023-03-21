@@ -2,6 +2,103 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-03-09-teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml.md",
+      "title": "Teradata Announces General Availability of Teradata VantageCloud, Integration with Azure ML",
+      "excerpt": "Teradata today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
+      "originalUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-how-marubeni-is-optimizing-market-decisions-using-aws-machine-learning-and-analytics.md",
+      "title": "How Marubeni is optimizing market decisions using AWS machine learning and analytics",
+      "excerpt": "This post is co-authored with Hernan Figueroa, Sr. Manager Data Science at Marubeni Power International. Marubeni Power International Inc (MPII) owns and invests in power business platforms in the Americas. An important vertical for MPII is asset management for renewable energy and energy storage assets,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-marubeni-is-optimizing-market-decisions-using-aws-machine-learning-and-analytics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-marubeni-is-optimizing-market-decisions-using-aws-machine-learning-and-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/08/marubeni-machine-learning-on-aws.jpg",
+          "width": 1564,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T09:38:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-nvidia-results-show-its-growing-lead-in-ai-chip-race.md",
       "title": "Nvidia results show its growing lead in AI chip race",
       "excerpt": "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ...",
@@ -1074,83 +1171,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed.md",
-      "title": "BNPL: Mexico’s Kueski, an Online Financial Ecosystem, Achieves 10M Loans Disbursed",
-      "excerpt": "Kueski, the online financial ecosystem for consumers in Mexico, recently announced that it has disbursed a record 10 million loans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-tlaib-and-others-introduce-bill-to-ban-facial-recognition-technology.md",
-      "title": "Tlaib and others introduce bill to ban facial recognition technology",
-      "excerpt": "Democratic lawmakers on Tuesday reintroduced legislation in the U.S. House and Senate that would ban facial recognition technology on the federal level and withhold money from state and local police departments that continue to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
-      "originalUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.metrotimes.com/metrotimes/imager/u/original/32553594/facial_recognition_photo_neavling.jpg",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
-      "cdnAmpWebUrl": "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
-      "publishedDateTime": "2023-03-07T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro Times",
-        "domain": "metrotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

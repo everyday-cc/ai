@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-
 webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,10 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Camera Market-An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- Deep Learning Camera Market Size 2023-2028 | New Report (87 Pages) | In This Reports Deep Learning Camera Market and its business scene ..."
-    publishedDateTime: 2023-03-17T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2028-2023-03-17"
+  - title: "Deep Learning Software Market Size and Forecast till 2029"
+    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
+    publishedDateTime: 2023-03-21T01:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-20T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size and Forecast till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- The \"Voice Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
@@ -43,15 +85,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market 2023 : Geographic Expansions, Technological Innovations In The Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Self-driving Cars Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market Research."
-    publishedDateTime: 2023-03-16T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
+  - title: "Speech Recognition Market Top Players and Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Speech Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-16T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-top-players-and-forecast-till-2028-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 49
+  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
+    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
+    publishedDateTime: 2023-03-17T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
+    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
+    publishedDateTime: 2023-03-17T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
+    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
+    publishedDateTime: 2023-03-19T05:22:00Z
+    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "H2TbggBM9pfBA1YqR0kAG18wojTHxJ0EFjiZRnuX8xTA3tXKtSkh8w+JRhNkRqZxgsXOfv0Cs6AT8MllQC1QB6V7u1YUOxIHNrYqmN+0mYwOELHstcXyTpdud+t4w53QWq1H1D3Rl8B5BF1ke2deZGPktQ7S0lSonBJ6qVNcX/G3XVrug3nmlrSZnYnA0jpYnWEWnEbbAduUSmvKSS8StR/tWhSLHr0LAAru8Irj9lMyu70Pz9NN3ix6oV02X/5OV/jCIwX5MVks7jIddPpH0Z504gkbBpsvF9Gydu9WEB9Ce2AHZ0ILvOwf3slBwJZurghJ+9W8LSQ03/gZfb52TDFk0uTRdJ0OWGOZyFwpVI4=;A1wmyjxh7BOh5uDiH9ircQ=="
 ---

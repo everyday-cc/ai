@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Amazon just asked its software engineers to start using a new in-house AI tool, rather than ChatGPT"
-    excerpt: "An curved arrow pointing right. Amazon wants its engineers to start using its own ChatGPT-like artificial intelligence tool at work, as it looks to catch up in the AI chatbot space, Insider has learned. Amazon encouraged its software engineers earlier this ..."
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.businessinsider.com/amazon-asks-its-coders-to-use-aws-chatgpt-rival-codewhisperer-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/5deaa0b7fd9db21eeb482b3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Apple may update Siri as it struggles with ChatGPT"
     excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."

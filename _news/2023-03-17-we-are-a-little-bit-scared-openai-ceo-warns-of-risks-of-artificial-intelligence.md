@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4"
 type: article
 quality: 68
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
         width: 750
         height: 393
-        isCached: true
-  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
-    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
-    publishedDateTime: 2023-03-16T10:49:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 55
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "OpenAI CEO Sam Altman says AI will reshape society, acknowledges risks: 'A little bit scared of this'"
     excerpt: "The CEO behind the company that created ChatGPT believes artificial intelligence will reshape society as we know it, but admits there are extraordinary risks."

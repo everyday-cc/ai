@@ -1,10 +1,10 @@
 ---
 category: news
 title: "This mind-controlled robot will pour you the perfect pint"
-excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually, I’m referring to Homer- the pint pouring machine that can pour the perfect pint ..."
+excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
 publishedDateTime: 2023-03-20T20:30:00Z
-originalUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
-webUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+originalUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
 type: article
 quality: 39
 heat: -1
@@ -102,6 +102,6 @@ related:
       domain: scotsman.com
     quality: 0
 
-secured: "ioTZQO4vERY9RpV8SfrDGJ79drutJ6Pcc6H7NYehA//BkvI3TxOQUjbUv3wUnuLk1NS/a6dAOJmgV7oHWz5tH1lG6AwvbdDIgAa4zg9qYECCoX+GUm1Zu0GvuBljiFd4MUVqAtARTASeIoV2NzzESg1W70ZtDjQ/0LRlQHXsvyszHSmmca1p1DvD1FsYHO4Tyhq1U8si6Cv4UEGZ52Xm45lUgoHrLNwD41O5OYFxZp9z/fWEHmPinw2Xf7OvtQNG0fx8P0M9AykYnvvlokVxLcwFVnBlFOnPHQLHRXQVA7qVf4GyXYpQj1lNS4CNyw3mPn48k2Af9MSpmbAdeXVdAgjQqWfPWlaonq2A6MBO7LicC39jlmJyeS7Taj1O+u6a9nW5V5W0O6M1j6CiPp/Znp7iwUNjdIYXfC4ZJtOr7Q4w0qFloP4mBrco7UcB7PM/HJX+3yiF3JkmsfNQO2yZ3kj85j2ZBHb6ohGOY9tWY7J0fQhrRWA9pR2tMp9qR+G1yeDF7W0p6VOB6S6bF516AQ==;3ZMuGoLD2yWse9EuKAn1Ew=="
+secured: "SbEvpd3YlRMJrQaGsbaMfciR7/PjgST3n9iw6dJ/BQbDjVxEPnpgf9Qby76p5jFE0q3leV+V1vnYl7J24xkwXi4MR2BulTa3z0vOEGq4iI7xqPTmGB/ILPYI6BAuHalL7HY54fpfyEifodKXaTr5XLsfHK2depSAxP6025/VmnZitegW/Ng0kVkWwGXBlVNxCJCMbTOp/a5MxWoUetTirq6a2gW+nz8LySKHbUw9PoY5JN95vvmIOOdZ0gfVxg0hD7Q3Xd0B1TPoMXLsJwmBhqVmyghsb48fWYHl/80rIHcNvHSoqvjZIttmK6Ow+Wt7HccgCUXA4Bc+8iUUysG4s6rbGQHRh0Y8UEJiMCfYNGA=;UyPlWWfigMRfHlNeSPM30w=="
 ---
 

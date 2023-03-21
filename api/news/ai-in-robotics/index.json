@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
+      "title": "Pickle launches its truck unloading robot arm",
+      "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/20230320_130151.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "publishedDateTime": "2023-03-20T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-beyond-the-hype-what-you-really-need-to-know-about-ai-in-2023.md",
       "title": "Beyond The Hype: What You Really Need To Know About AI In 2023",
       "excerpt": "AI is not the future; it's here now and embedded in our daily lives. It's important to understand its impact on jobs, businesses, and industries, and to develop ethical and explainable AI to build trust.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1398,49 +1450,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-civilengineeringai-to-debut-new-artificial-intelligence-technologies.md",
-      "title": "civilengineering.ai to Debut New Artificial Intelligence Technologies",
-      "excerpt": "New York, New York--(Newsfile Corp. - March 9, 2023) - civilengineering.ai, a tech company working on the application of emerging technologies is utilizing the latest developments in technology to bri",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31284143",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31284143",
-      "publishedDateTime": "2023-03-09T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

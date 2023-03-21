@@ -87,9 +87,9 @@ related:
         height: 576
         isCached: true
   - title: "This mind-controlled robot will pour you the perfect pint"
-    excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually, I’m referring to Homer- the pint pouring machine that can pour the perfect pint ..."
+    excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
     publishedDateTime: 2023-03-20T20:30:00Z
-    webUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+    webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
     type: article
     provider:
       name: Omaha.com

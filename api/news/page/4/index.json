@@ -1011,6 +1011,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-16-developing-artificial-intelligence-for-medical-devices.md",
+      "title": "Developing Artificial Intelligence for Medical Devices",
+      "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shar.md",
       "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shar",
       "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
@@ -1205,49 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
-      "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
-      "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31371662",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31371662",
-      "publishedDateTime": "2023-03-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia finds strength in AI era"
+    excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
+    publishedDateTime: 2023-03-21T01:32:00Z
+    webUrl: "https://www.digitimes.com/news/a20230320PD211/ai-gpu-ai-data-center-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "n6OjSLvLRRUnG3yhCwHkwUcAX2LsiBC5QbsC9MDfvbdxPQBeh/l0OCjnT8/avTR8+fzeUNBOfkNh5azM8DYKUpW452uqKU+rf+llA2HDPpFIvMVF6EFPnIVvMtMa5bNDSemxwA8CxXqLKy7a2be4p9ieJrgz4h3vcJkqrpFgnfm1WeQBw81MDUm8BpsI4G4TEPcOvAGDbiqfGY+Rqly/Qsh9ZGBHYjPHSukVZUIrSRcIbeox2EmbexBbN0dxs17ITJmttM4Q5ljUMfM0jByV/W+1ZyUkYOOnFjk6L2uafoutB3eb+Z0BrfqT6Jr67N+d1FczxbPyyVxLcglDEDQRhkKIaMPwIpiJTOJF5hO0+kG9leSrr8fleFU/TM+29t0/S/SMewcu3hP7p6CDBq+5RFLj2zLzkgYtp6/+CpKBmG9KOizvtCNb/K3RRNvX6aUf6YgzJ5CRURyIxWQ38sgQqNt2Xwidi1mk59/JgD6VEJ0B6I5m78c6mwHRJRztFJ8/YJULD2LV83Evf8CMfeA6JQ==;j6qHTxSbUdxtXWldoD2VHg=="
 ---

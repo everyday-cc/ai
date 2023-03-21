@@ -2,6 +2,83 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-02-07-top-five-opportunities-and-challenges-of-ai-in-healthcare.md",
+      "title": "Top Five Opportunities And Challenges Of AI In Healthcare",
+      "excerpt": "That all said, AI has now leapt into popular and mainstream culture and how we look at innovation and our world going forward. And certainly, healthcare is one industry where this has been an ongoing discussion and raging debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/07/top-five-opportunities-and-challenges-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-crypto-tokens-fetch-singularity-rally-more-than-20-overnight.md",
+      "title": "AI Crypto Tokens Fetch, Singularity Rally More Than 20% Overnight",
+      "excerpt": "As the artificial intelligence narrative grows louder, several AI-adjacent cryptocurrencies have enjoyed hefty rallies.",
+      "sourceUrl": null,
+      "webUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
+      "originalUrl": "https://decrypt.co/120722/ai-crypto-tokens-fetch-singularity-rally-day",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "decrypt",
+        "domain": "decrypt.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
       "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
       "excerpt": "United Arab Bank (UAB) has announced that it has joined UAE Trade Connect (UTC) as an official member. UTC, the fintech blockchain platform of e& enterprise, is the UAE's first commercialized solution to combat fraud in the trade finance space built on advanced technologies,",
@@ -890,94 +967,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns.md",
-      "title": "AI Battle Royale Erupts With Google Bard Versus Microsoft OpenAI ChatGPT, Stoking AI Ethics And AI Law Concerns",
-      "excerpt": "Google has announced they will be releasing a generative AI app called Bard, based on their Lambda AI app. Microsoft is going to incorporate OpenAI ChatGPT into Bing. The AI wars are getting avidly underway.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Market With Massive Data and Availability to Hamper the Industry Growth | 125 Pages Report",
-      "excerpt": "Market research report offers New Insight updates on Business Strategies including Mergers, Acquisitions, Revenue Outsourcing, R and D, Expansion Plans and Collaborations adopted by these Major Global Players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

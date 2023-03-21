@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
+      "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
+      "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data",
       "excerpt": "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc.",
@@ -1366,49 +1400,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-machine-learning-approach-aims-to-optimize-rare-disease-diagnosis.md",
-      "title": "Machine-Learning Approach Aims to Optimize Rare Disease Diagnosis",
-      "excerpt": "February 09, 2023 - A recent study from Stanford University Human-Centered Artificial Intelligence (Stanford HAI) described the creation of a machine-learning framework, known as POPDx, that aims to enhance the rare disease detection process by predicting ...",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "originalUrl": "https://healthitanalytics.com/news/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1262239170-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "publishedDateTime": "2023-02-09T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null

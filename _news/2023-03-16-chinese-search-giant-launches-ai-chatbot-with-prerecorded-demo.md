@@ -197,15 +197,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
-    excerpt: "Shares of Baidu fell as much as 10 per cent on Thursday after the web search company showed only a pre-recorded video of its AI chatbot Ernie in the first public release of Chinas"
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.ft.com/content/5bf4dab2-b19b-4df9-b410-4df1efe2f2f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "MsV+b93wtV9OEOuPI8i/zddLwMvb3nnZ2DpToE+qPtpH7Hoth6a1Qbqr8VhXLURcAMrxWfZxRvUyxwBEaAmKsDz9nJEjxBTrjqut50sJRNNJ8o+HtHwPxar7DwABFxaOpipGaMg5mob3oW85orVaanIt2jSqHq/PXBY3TLELZhmEeLPa5VDPw+6VGLnGHh3LZ3Bwq6behUKNLGV16P0ftspkflUoY7h2TlaYz5cecrpTaPRlRVx4+VqHlX3M6AVTWFiFs07l44uW4VhAV+tU0jPiplNi3CziDQvRzcN+turWTs4tWLVzR2NAWoEVP+fIKSlJxHdTnmbaAnxQgGe58UZNZVXut/TKYAW3t4SGCUdG4Dh0dMJlGjARpRp7aiW/yFBqnh0Yt1b376PL6mNWWs8fEmZbFPoTuWqhqZJ+taKacl9MDiTlL1b3IaEiGMVPYi/9MCfYEb3fg+DcTIfvw7NtREj4GyuHTmkJeQsuxndHqDUE+mjGEjiAKzJNOtn42/ESMgR5ADM76izA70d3Lw==;n8wt+MYv+CqkDNAfbtYbiw=="
 ---

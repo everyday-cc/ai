@@ -8,7 +8,7 @@ webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-
 ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -153,6 +154,6 @@ related:
       domain: abc7chicago.com
     quality: 16
 
-secured: "FAwbvAXXt0NiKvlJ4v31KQjcovu5pKkTsxkBoJyIpRHpbdxQmjJ9ndKntGBvVd98S22YNW9xExcKMhCkaamPdnf7486Ym+s4NolwH264B9UIolxTL12EDMGTYGlDn31jKhQmXsBSNOJgNkKhSbDtN3LY1Ut5i8HKIYWBTjeAqTaZHGOSxw+sGxkQMhVIi1kixIQbnlfQQwtXn0gzDgwxTjR6AlR4fNjf1yQO8nOwkyPQr811W9dfj8s5bkAccbem+BfLFfPFFG+MqCu6Rr5G8P5yzEdbNhOZBWf3sdxjpqYneYZgn/tfDdYHarcwVWLdT7mAby9eVPpTiNSdwN1mV4XiHinGan2zdaWhpNz6CyU=;KxtwpG5duUdgQsXOx0TxmA=="
+secured: "7fNXuNqeComp7QCbkwhLhkM+z9Pl+LggF3C2R4MTVMWmU7vzskN9qYp/9rHEESUlI7nswmcd04bYL/ZAUM2q65a5t4bkGzubrUOfJ1hw9XZddUUpT4eFe1ua3hyJQ8MMVCkgH7hKBdkOXZHTn9a5bP8w9r/pNetGNAPwQ6ief+8ZFsd4jXxv5pJGVq2RSw10qJ7cMzaPvE8ZXMjOMaNh1xXWs4Fol8NEf9iHeUgNHNROdjXKaJcbN+39HqZuAook30Zwx8hWqaKHryX++qzxxaCax4nqyp3H7ACdffHEU3rHiIFJZiNVCG+lVrBWfU4PC2tH20Y2F12cdHaJ4kjCUZ0Q+mUglosL3fPpaLUmYzOXrS48Zw1oXnuEhseNfuonvJpvzOaKRhuxg49K9b9xSqQkBrDdVFDLVovi9Gyvzfq9EhCCWvRmD1/OixGUqxqfGUv1B0TGCZaZlcnHYdJtVBs/hA+UVs+/Zj3t8ybC1gR/VkMgn0CAQbb1vDhq2tZYhpQ956FW9QBOW3+if+x0xw==;WQvZQbkdjPfll6IKpRR3Dw=="
 ---
 

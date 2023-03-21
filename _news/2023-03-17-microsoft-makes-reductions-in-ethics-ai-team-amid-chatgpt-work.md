@@ -420,6 +420,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
+  - title: "OpenAI releases latest version of artificial intelligence chatbot ChatGPT"
+    excerpt: "The US tech firm OpenAI has released its latest version of the artificial intelligence chatbot ChatGPT. The new model, GPT-4, is able to handle “much more nuanced instructions” than its ..."
+    publishedDateTime: 2023-03-17T01:58:00Z
+    webUrl: "https://www.independent.co.uk/tech/openai-peter-morgan-b2301090.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 53
+    images:
+      - url: "https://static.independent.co.uk/2023/03/15/06/02-21753200036045b7bf16c6c8703031ae.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
     excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
     publishedDateTime: 2023-03-20T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105817989/AI-Platforms-For-Healthcare-Industry
 webUrl: "https://menafn.com/1105817989/AI-Platforms-For-Healthcare-Industry-To-Reach-43-Bn-In-2024-Report"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 220
     isCached: true
+
+related:
+  - title: "AI platforms for the healthcare industry to reach $4.3 bn in 2024"
+    excerpt: "AI platforms for the healthcare industry to reach $4.3 bn in 2024 - The market for Artificial Intelligence (AI) platforms for the entire healthcare industry is set to grow to"
+    publishedDateTime: 2023-03-21T03:44:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ai-platforms-for-the-healthcare-industry-to-reach-43-bn-in-2024-nid-221781-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/9.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "3v4rOMaPNbE1CyyfWnx4wn026Av81ZDxXsjqBI5oxywhhn6B4UidPp67khOoU4l2TY04UEsPdi06rzlrxRG3z2MeZUygg9i35arcZKSdeM1xjY4BNtoQNkaakGAznkS0nPpSMtu3n+LIUGekQPFyRonCvmmDXqkSjPdIj9dSmDYmn3nmMI0bJbWLFMilYvgu5nNCYZjQYTs7Kx/8pYBeXCOpPG4L/wrZZVK/IukVQHnhMcv3qe8ynFknCGwczmK9OJJFcPdoUBNCYrgHQ+fheHu5DTEHrUsm1PfOuZMk5w8FLk2rUNcvzOukH7ZINRWjEnM4e2ZNtoa4J6utFKiHYxTUoeF9kAyCEz8oejLLZFQ=;MEparUVlmsdIieBkFdretA=="
 ---

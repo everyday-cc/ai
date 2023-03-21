@@ -90,20 +90,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Stripe and OpenAI collaborate to monetize OpenAI’s flagship products and enhance Stripe with GPT-4"
-    excerpt: "Previously, it worked with Microsoft’s Azure OpenAI team to implement GPT-3 for Stripe ... Eugene Mann, Product Lead for Applied Machine Learning at Stripe, compared GPT-4’s potential to that of email, smartphones, and videoconferencing, stating ..."
-    publishedDateTime: 2023-03-16T10:49:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/16/stripe-openai-gpt-4/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 55
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/stripe-openai-gpt-4.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
     excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
     publishedDateTime: 2023-03-18T11:32:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-18T13:36:00Z
 originalUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
 webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"

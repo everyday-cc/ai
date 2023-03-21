@@ -2,6 +2,94 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-01-15-a-mental-health-tech-company-ran-an-ai-experiment-on-real-users-nothings-stopping-apps-from-conducting-more.md",
+      "title": "A mental health tech company ran an AI experiment on real users. Nothing’s stopping apps from conducting more.",
+      "excerpt": "A chat app used for emotional support used a popular chatbot to write answers for humans to select. Controversy followed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110",
+      "originalUrl": "https://www.nbcnews.com/tech/internet/chatgpt-ai-experiment-mental-health-tech-app-koko-rcna65110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/220113-AI-Mental-Healthcare-jg-b3b521.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna65110",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna65110",
+      "publishedDateTime": "2023-01-14T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-where-will-artificial-intelligence-take-us-in-the-future.md",
+      "title": "Where will artificial intelligence take us in the future?",
+      "excerpt": "Israel has become a trailblazer in AI, as it did in hi-tech in previous decades, earning it the venerable title, “Start-up Nation.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jerusalem-report/article-728305",
+      "originalUrl": "https://www.jpost.com/jerusalem-report/article-728305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/524652",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jerusalem-report/article-728305/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jerusalem-report/article-728305/amp",
+      "publishedDateTime": "2023-01-14T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-14-researchers-look-to-expand-automatic-speech-recognition-to-2000-languages.md",
       "title": "Researchers Look to Expand Automatic Speech Recognition to 2,000 Languages",
       "excerpt": "A team of researchers at Carnegie Mellon University is looking to expand automatic speech recognition to 2,000 languages. As of right now, only a portion of the estimated 7,000 to 8,000 spoken languages around the world would benefit from modern language technologies like voice-to-text transcription or automatic captioning.",
@@ -1095,102 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development.md",
-      "title": "Artificial intelligence (AI) has revolutionized how we approach mobile app development",
-      "excerpt": "Artificial intelligence (AI) has revolutionized how we approach mobile app development. It can enhance user experience, improve functionality, and increase efficiency in previously unimaginable ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development-2023-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-has-revolutionized-how-we-approach-mobile-app-development-2023-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-northern-arc-unveils-machine-learning-based-solution.md",
-      "title": "Northern Arc unveils machine learning based solution",
-      "excerpt": "Business News: Chennai, Jan 13 (PTI) Diversified financial services platform Northern Arc Capital has launched machine learning based solution 'Nu Score,' a propriet",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
-      "publishedDateTime": "2023-01-13T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

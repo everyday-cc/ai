@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-14-manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that.md",
+      "title": "Manufacturing A Specialized New, Infused Pre-Roll? There’s A Robot For That",
+      "excerpt": "Cannabis manufacturers have an increasing need for product customization which this entrepreneur says only robotics can solve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "originalUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f36260963e482477aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "publishedDateTime": "2023-03-13T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-google-waymo-sues-uber-alleges-theft-of-self-driving-car-technology.md",
+      "title": "Google Waymo sues Uber, alleges theft of self-driving car technology",
+      "excerpt": "Uber is facing a lawsuit from Google over claims its self-driving car technology was stolen from Google's Waymo and has been used to accelerate Uber's own development. By Joel Hruska February 24 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
+      "originalUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-while-svb-takeover-saves-ai-startups-big-tech-continues-ai-power-consolidation-the-ai-beat.md",
       "title": "While SVB takeover saves AI startups, Big Tech continues AI power consolidation | The AI Beat",
       "excerpt": "He also pointed out that he was seeing “the best of the AI and startup world,” with “people helping each other, sharing tips and even wiring funds on trust and without docs so someone else ...",
@@ -1102,100 +1188,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
-      "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
-      "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "originalUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/03/12/600x338/jitendrasingh_1678629341268_1678629341570_1678629341570.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "publishedDateTime": "2023-03-12T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-a-fintech-ceo-is-trying-to-raise-more-than-1-billion-to-fund-bridge-loans-for-startups-impacted-by-the-silicon-valley-bank-collapse.md",
-      "title": "A fintech CEO is trying to raise more than $1 billion to fund bridge loans for startups impacted by the Silicon Valley Bank collapse",
-      "excerpt": "\"We've received $1.5 billion in requests from nearly 1,000 companies,\" a Brex spokesperson said. \"We are trying to raise as much capital as we can.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3",
-      "originalUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/640e25b3340fa00018fda0e7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brex-ceo-works-to-fund-loans-for-startups-svb-collapse-2023-3?amp",
-      "publishedDateTime": "2023-03-12T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

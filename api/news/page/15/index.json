@@ -2,6 +2,84 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-03-07-artificial-intelligence-can-now-simultaneously-detect-up-to-nine-pathologies-in-one-image.md",
+      "title": "Artificial intelligence can now simultaneously detect up to nine pathologies in one image",
+      "excerpt": "For almost three years, the service has been helping Moscow doctors to find slightest abnormalities in images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mos.ru/en/news/item/120700073/",
+      "originalUrl": "https://www.mos.ru/en/news/item/120700073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/120700073/",
+      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/120700073/",
+      "publishedDateTime": "2023-03-06T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mos",
+        "domain": "www.mos.ru",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
+      "title": "Healthcare Robotics Engineering Forum full conference agenda",
+      "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "originalUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/03/RSE23_background-featured.jpg",
+          "width": 1000,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023.md",
       "title": "10 Best Nootropics, Smart Drugs, and Cognitive Enhancers of 2023",
       "excerpt": "5:00 AM on Jun 17, 2022 CDT — Updated at 11:38 AM on Mar 6, 2023 CST Nootropics and smart drugs are dietary supplements that provide cognitive benefits such as improved focus, memory ...",
@@ -1001,92 +1079,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-friday-hack-chat-control-schemes-for-robotics.md",
-      "title": "Friday Hack Chat: Control Schemes For Robotics",
-      "excerpt": "Not coincidentally, for this week’s Hack Chat, we’re talking all about Robotics Modules. We’re taking a deep dive into actuation and control schemes for robotics, and you’re invited to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
-      "originalUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/04/54actuationhackchatv3-01_featured.png",
-          "width": 800,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows.md",
-      "title": "Drivers not ready for fully self-driving car, recent AAA survey shows",
-      "excerpt": "While the interest in partially-automated vehicle technology grows, a recent AAA survey shows that drivers are becoming more fearful of fully self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "originalUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4145f552-7abf-4325-b52e-bef95378a236/thumbnail/1200x630/6082d81cddfe2819760ac5d2246671ee/auto.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "publishedDateTime": "2023-03-05T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

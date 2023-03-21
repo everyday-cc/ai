@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Beijing greenlights operation of unmanned self-driving vehicles"
+    excerpt: "BEIJING -- Beijing greenlighted the commercial operation of autonomous driving service without in ... operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai ..."
+    publishedDateTime: 2023-03-19T07:46:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
+        width: 721
+        height: 480
+        isCached: true
   - title: "Department of Transportation reschedules self-driving corridor meeting"
     excerpt: "The Michigan Department Of Transportation has postponed its March 22 public meeting on the environmental study on a proposed connected and automated vehicle corridor project along"
     publishedDateTime: 2023-03-20T18:28:00Z

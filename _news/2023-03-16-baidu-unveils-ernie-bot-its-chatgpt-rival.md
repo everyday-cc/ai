@@ -193,15 +193,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Baidu shares fall after Ernie AI chatbot demo disappoints"
-    excerpt: "Shares of Baidu fell as much as 10 per cent on Thursday after the web search company showed only a pre-recorded video of its AI chatbot Ernie in the first public release of Chinas"
-    publishedDateTime: 2023-03-16T09:11:00Z
-    webUrl: "https://www.ft.com/content/5bf4dab2-b19b-4df9-b410-4df1efe2f2f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "Fz+TDO0EGgRBrPSuVxqGA377RPlm8hwTTK+ZrgvWjeb4NjcWkWu9c2FrISL85ySjyigWgSpflA2ODLusbG8VvPm7p6p4JsViFGa6uXoMIjfQLo015Vikw6h8tdfs8AotOS++lNcm0PNLaRSoYZrwEonqbhMxS7eYIzM4nQKfUWtOqVtKa4JbmhNNbuEPxdGiJZYJop5xiv+969cNmi+y4gm1Z9+wO5QJrV4jdMVZyVR7g7n+sGqAp3ZdOkzbw724JluztkD2s+jzIS6SFPOfjk9b+fw1eCnL6NE9gyIPLE8TDUMNOKLJHm2l+EB9u1jTqTKD8/+MDgISVNM4ATPWhtFNTugAHNs1Xf3HbHNvdj4=;07df8UZP0ELfFMBxgA9apQ=="
 ---

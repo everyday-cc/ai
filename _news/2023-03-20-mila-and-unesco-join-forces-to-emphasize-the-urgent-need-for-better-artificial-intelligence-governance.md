@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
-excerpt: "CNW/ - Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila a joint book on the urgent need"
-publishedDateTime: 2023-03-20T13:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31420551/mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-govern"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31420551/mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-govern"
-ampWebUrl: "https://www.benzinga.com/amp/content/31420551"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31420551"
+excerpt: "MONTREAL, March 20, 2023 /CNW/ - Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila a joint book on the urgent need for a better governance of artificial ..."
+publishedDateTime: 2023-03-20T15:12:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
 type: article
-quality: 41
-heat: 41
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
@@ -50,6 +43,6 @@ related:
       domain: finanznachrichten.de
     quality: 4
 
-secured: "pi//+qW/cbIWWs+jHlioR3RY7h9gKr4eC1SI84z3G6OY4pvUyAsCM8DYuZ7ANxLmaYSzvdbY6g3pd8OFgDQeBoicqkSvQ/iW4/97IVbjQU4kC63HHWoB3OYImetQ/bjRyZIuLdTytFrj/Oh6ydYyJ8boRbHLgRVIH1R8mQJ3oylM415QTa1m9TSjlvibprMLOoGEaJ5rx/45Jlsm/yNBjFWVNU+08HK15cTResoZrpM1oKTbp5tFJHsg769dh7hStZixqhtWM8dQD4h1EKF+Xgy4t7NJKzJ5T+QT409Z6yFNee3GrHIFdYZfDUlbxneyr5XuVE6Fh6cnm4Imy+DKw+fn7Od7qWO6KIuTzJMucUg=;w49VAWIMjyPt6Tl8yrSFYg=="
+secured: "Jjkyw1n/jzGXxnbvrK8IaAOfHXzMne27NqVNdysA5uiaUIzAEAQ3NsjE8seb60iW1bx2UPwr45czedaW0GEgBADRxaQiepAU3Jjy3ZfCbRyYHxm9iHKDOgvoMCzb7kWZDEGjdmQayAleKaPXcQ1+F5DBP5knUZEemT9yTzZIpHi4qJiCkgbE3N1ZVFNhx2SIJvIL9rLMh5KWks1tXY8hWd6YFWbjd5aQJ34PV9A2pciCd3yvQIGfZ9tJwnZXdJqTFDFU0LooJtrDgOixJavMFhxqOgh2zTrOQRyKsOb0+5WBPYUbcOMK8zB0ojq99khByEXPikT1dLszhguntqrabInBxZoAPPU8Nz2SvE8G4Gs=;AdB5os2YCArfK1YJLYvrIQ=="
 ---
 

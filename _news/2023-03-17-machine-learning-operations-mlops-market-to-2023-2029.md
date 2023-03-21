@@ -205,20 +205,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Market [2023-2026] | Current Status and Future Prospects"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-16T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-market-2023-2026-current-status-and-future-prospects-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The State of the Artificial Intelligence in Market | New Research Report (2023-2029)"
     excerpt: "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | Information Technology | In This Reports Artificial Intelligence in Market Provides Top Artificial Intelligence in Companies (Mariana,"
     publishedDateTime: 2023-03-20T05:45:00Z

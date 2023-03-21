@@ -42,20 +42,20 @@ related:
         height: 681
         isCached: true
   - title: "Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for ..."
-    publishedDateTime: 2023-03-20T23:56:00Z
-    webUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california-11679355670094.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
+    publishedDateTime: 2023-03-21T00:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 44
     images:
-      - url: "https://images.livemint.com/img/2023/03/20/600x338/GM-Job-Cuts-0_1679356204923_1679356204923_1679356243417_1679356243417.jpg"
-        width: 600
-        height: 338
+      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "California skeptic of facial recognition use by cops now sees an opportunity"
     excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
@@ -70,6 +70,34 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
         width: 2048
         height: 792
+        isCached: true
+  - title: "Cruise wants to test self-driving cars all over California"
+    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state. The GM subsidiary is already running an autonomous ride-hailing service in"
+    publishedDateTime: 2023-03-21T01:13:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/cruise-wants-to-test-self-driving-cars-all-over-california/article_7ad57fc6-b9fe-5bfc-8003-3b80a177c957.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/f6/af6be5f3-3f63-58b4-95ee-c36a7c52032f/6418fa90ea514.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GM's Cruise wants to test self-driving vehicles across California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
+    publishedDateTime: 2023-03-21T01:32:00Z
+    webUrl: "https://www.crainsdetroit.com/automotive/general-motors-cruise-wants-test-self-driving-vehicles-across-california"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 24
+    images:
+      - url: "https://s3-rd-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/GM%20Cruise-main_i_0.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3QaTYLQuHhLb8510ZgT6ujqqN1EV1CHaeTc9OkYCv/ltsD+M4TJnvmlNmyPjuI7+piYMfrjf+sQ9fmyRFrknt26hfOg/nKHNmI2HE0+C2JgZkrROnAH3wbo4HNJw32X4MKkOhve5CRbba7jkm5WtVfzHnkTG2fQXPT2sCQ9t9UgU9z5EkTopKSx8gggHOpT7kDRcDRFXIUWzejlEeRl0SLwgkvsvAAyPw4CODKZwuFnaoJMMGjn6vrdV+VPmjwy4TdiMNmKZhp00dK/AQADwvY9J90afUKoI7+LiuNwIotJe7wF78lUqx5j/xARiifYw2I9YRHeN3qRrbi7bjOEHS2+CI+/T9dSAD0X2//fwDJtAF3XG2DEdW2Zdf2Jj5D5nkROVE8tD/EHkv5iW75LZu+z2WXkmdNT1Z0qnXf8Ajme4Gtqsb/cEMw7XrdtITHpAwtPcIR+DH1zE3UXGPH9NQNadxnnOB/agWDIpPw0bEcC9K19sBSUv2JuXVue4Shd8knSW8kVc0WbFLdg+D8SsJA==;icHHf+f9S3APeeuN6amm6A=="

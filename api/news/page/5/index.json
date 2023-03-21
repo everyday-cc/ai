@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
+      "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
+      "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31371662",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31371662",
+      "publishedDateTime": "2023-03-15T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-from-2023-to-2028-report-on-the-ai-in-computer-vision-market.md",
       "title": "From 2023 to 2028 Report on the AI in Computer Vision market",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ...",
@@ -908,6 +951,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-15-fintech-startup-stripe-integrating-openais-new-gpt-4-ai.md",
+      "title": "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI",
+      "excerpt": "Fintech Startup Stripe Integrating OpenAI's New GPT-4 AI By Anna Tong SAN FRANCISCO - Fintech startup Stripe is starting to integrate OpenAI's latest GPT-4 artificial intelligence model into its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-03-15/fintech-startup-stripe-integrating-openais-new-gpt-4-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-gpt-4-creator-ilya-sutskever-on-ai-hallucinations-and-ai-democracy.md",
       "title": "GPT-4 Creator Ilya Sutskever on AI Hallucinations and AI Democracy",
       "excerpt": "He was the main impetus for AlexNet, the convolutional neural network whose dramatic performance stunned the scientific community in 2012 and set off the deep learning revolution. The following is an edited transcript of our conversation. <iframe width ...",
@@ -1166,111 +1252,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it.md",
-      "title": "Why Artificial Intelligence Is Becoming A Cybersecurity Imperative And How To Implement It",
-      "excerpt": "One of the most often-asked questions that I receive from customers is: How do organizations plan for the adoption of AI technology in their cybersecurity strategies? In other words, how should one get started?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61698e080de1a3a858994825/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/why-artificial-intelligence-is-becoming-a-cybersecurity-imperative-and-how-to-implement-it/amp/",
-      "publishedDateTime": "2023-03-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research.md",
-      "title": "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”",
-      "excerpt": "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
-      "originalUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
-      "publishedDateTime": "2023-03-15T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

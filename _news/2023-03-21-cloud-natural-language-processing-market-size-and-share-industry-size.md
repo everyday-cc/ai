@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing in Life Science Market (Size and Share) 2023-2029 with Growth Analysis | Survey by Absolute Reports"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The purpose of the “Natural"
-    publishedDateTime: 2023-03-16T09:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-life-science-market-size-and-share-2023-2029-with-growth-analysis-survey-by-absolute-reports-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

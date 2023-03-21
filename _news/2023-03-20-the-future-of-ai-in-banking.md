@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 296
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
-    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
-    publishedDateTime: 2023-03-16T11:00:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-music/"
-    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "AI And The Future Of Wealth Management"
     excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."

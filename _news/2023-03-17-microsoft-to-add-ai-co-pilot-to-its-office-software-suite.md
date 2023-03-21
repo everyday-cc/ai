@@ -419,6 +419,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
+  - title: "OpenAI releases latest version of artificial intelligence chatbot ChatGPT"
+    excerpt: "The US tech firm OpenAI has released its latest version of the artificial intelligence chatbot ChatGPT. The new model, GPT-4, is able to handle “much more nuanced instructions” than its ..."
+    publishedDateTime: 2023-03-17T01:58:00Z
+    webUrl: "https://www.independent.co.uk/tech/openai-peter-morgan-b2301090.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 53
+    images:
+      - url: "https://static.independent.co.uk/2023/03/15/06/02-21753200036045b7bf16c6c8703031ae.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
     excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
     publishedDateTime: 2023-03-16T22:23:00Z

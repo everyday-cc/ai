@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "2 Unstoppable AI Stocks to Buy for the Next Decade"
-    excerpt: "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ..."
-    publishedDateTime: 2023-03-16T11:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png"
-        width: 3416
-        height: 2266
-        isCached: true
   - title: "Where to Invest in Artificial Intelligence Stocks Today"
     excerpt: "Artificial intelligence is improving by leaps and bounds, and there are some clear leaders emerging today. But will they stay leaders, or will some surprising companies emerge? Travis Hoium discusses why it may not be Microsoft (MSFT 1.17%) and Google ..."
     publishedDateTime: 2023-03-18T09:47:00Z
@@ -51,15 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"
-    publishedDateTime: 2023-03-20T01:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-etfs-to-buy-for-long-term-growth-1032177583"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "2 Amazing Artificial Intelligence Growth Stocks to Buy Before They Soar"
     excerpt: "Learn More These companies are using AI to supercharge their businesses, and they might be flying under your radar. Artificial intelligence (AI) holds great promise to be a wide-ranging transformative technology for this generation. According to an ..."
     publishedDateTime: 2023-03-16T13:18:00Z

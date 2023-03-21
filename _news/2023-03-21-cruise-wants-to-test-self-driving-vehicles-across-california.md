@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cruise wants to test self-driving vehicles across California"
-excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for ..."
-publishedDateTime: 2023-03-20T23:56:00Z
-originalUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california-11679355670094.html"
-webUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california-11679355670094.html"
-ampWebUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
+publishedDateTime: 2023-03-21T00:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2023/03/20/600x338/GM-Job-Cuts-0_1679356204923_1679356204923_1679356243417_1679356243417.jpg"
-    width: 600
-    height: 338
+  - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -57,6 +57,34 @@ related:
         width: 2048
         height: 792
         isCached: true
+  - title: "Cruise wants to test self-driving cars all over California"
+    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state. The GM subsidiary is already running an autonomous ride-hailing service in"
+    publishedDateTime: 2023-03-21T01:13:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/cruise-wants-to-test-self-driving-cars-all-over-california/article_7ad57fc6-b9fe-5bfc-8003-3b80a177c957.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/f6/af6be5f3-3f63-58b4-95ee-c36a7c52032f/6418fa90ea514.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GM's Cruise wants to test self-driving vehicles across California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
+    publishedDateTime: 2023-03-21T01:32:00Z
+    webUrl: "https://www.crainsdetroit.com/automotive/general-motors-cruise-wants-test-self-driving-vehicles-across-california"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 24
+    images:
+      - url: "https://s3-rd-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/GM%20Cruise-main_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Patricia Guerrero brings parents’ lessons of ‘sharing your voice’ to California Supreme Court"
     excerpt: "Patricia Guerrero is one of USA TODAY’s Women of the Year, a recognition of women who have made a significant ... and that sharing your voice based on your unique experiences is important.” Intersectional identities meant breaking through a ..."
     publishedDateTime: 2023-03-19T10:00:00Z
@@ -72,6 +100,6 @@ related:
         height: 675
         isCached: true
 
-secured: "peEaDw1vgv/FviJhl7xkC0g+eH4DGfK6xnWY6lVU3zNk1lehAQ1rUeoRGTLxy0aVnuHPpUOjIOocP+4l2SbDsGsMEHFRsTo+cNU+TFfj6Zsyy+8lv4X7KkY5JUns4XvEY7n99Fw9SLdYAMZJT8fbo5t8tPddTQ1Xx7rjIA5PqiCFLSNIsN+ppSBpE9zNbTp83p659KNSVwVhrN/YLD0CJ9nG4nJedqnzHBS6SDybL1vBwBAFLF6uh2f7kwoxJx3npDEg+4bRFvz82BQ9rx8EYeJ+mkY16jDDRbzCukYlDFX0bGgnzUSLqsjs/NWSfI1YhdsVBdyVwBtXh/YwXcCTiDbKNnqlawEo4aG9J5bLgY8=;MzDD1NUQ/DJIQ1Zmo+bUeQ=="
+secured: "dwcHB4YiCCgfvhorHJAbLjDwBQKOC1I0nYhf1Kc0f0UZHHgwTRH9261Z2s+r6vBrI3O8JRf9JDer8cyeA/wa1AoXpmhwbZrfQz0Fp/2VWgvRQXsv3Rd0RFA3pH4vgOFv5v0/ypP7cUc4vlHmoHzBhxVzS388e87QJ6gEeKOHtrY5NKXckXMQKpoDB9uqkRVp2w5gpvOSFGaMFEMmB8YSUI6O75mSz5FHaP/JOlEaAVr2y92Ixo8bNRzL9bEfjO7GKQbeVuoZgg///y6DfM83JWZ9S0K4/H+527vj3+68Px4kDFFylDOBFPvcy2mDukO8YkUnbd9EvhEAsiC/BvgA8Ue6AIebKxDnTM73bnAYT3M=;m7z1NckEPfO9r2rhNrDSAg=="
 ---
 

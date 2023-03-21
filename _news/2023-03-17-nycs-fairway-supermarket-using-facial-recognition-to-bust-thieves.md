@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T13:24:00Z
+    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 56
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Use of facial recognition technology at supermarkets raises questions"
     excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
     publishedDateTime: 2023-03-18T04:51:00Z
@@ -69,22 +85,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 54
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Your NYC Supermarket May Know Your Face Better Than You Think"
     excerpt: "Fairway’s parent company, Wakefern, said that biometric identifier information is “helping our store reduce retail crime” — but is the tech infringing on civil liberties?"

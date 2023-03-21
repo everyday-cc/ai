@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-hi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/"
 type: article
 quality: 119
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/canvaspanorama000A.jpg"
         width: 1420
         height: 946
+        isCached: true
+  - title: "Nvidia finds strength in AI era"
+    excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
+    publishedDateTime: 2023-03-21T01:32:00Z
+    webUrl: "https://www.digitimes.com/news/a20230320PD211/ai-gpu-ai-data-center-gpu-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "/3rV7PBJW3kL9Qdfb5bvIppiQf1xpuBNTuPc6m/OHy396k24kx2wbjbc57Aaa879LrPcg2vQIe1H+O4M1AJka/t7Q96I8FJJRSFpSZIl2Q9GCOgfT38AMT3IfYcxVGs49nuCXTd508FLLofoYPMjrTphC8KFaeItE42oCi9QBKC5yvXKOUeLaBn7TxYOW24eeoyBFb3ULP9spf6muxM5jQ+p+MYESmn4DWX3WNIub15B0BJNxFwxfsR16bDFBkbJy20t9HZigJarpqRD1urlTyLfZRj6jJDQK3HeRrbAms2Q0BKGsqBMftHIBXXHXr9ZvqnmE6HhIh7EnM+I86DLWcw8Z1PKpxJHxq3gHdopX/K0oLgZgOSRo8KqAgzEvk5ID9FzOWRuOCqOZhi6Rllr7Jk7Vst4gmGqBepHoZGzOZnALeQ2yBNjzFSQ5dVK7HAzXFtxyfPCWHrIHK6+uvMVyzbCFWjK3fbhRZMTR1Jm0Ju9+QnoTG3u6WDlS41gtvH1HdTl1M0SxPvRI07SuFRsRQ==;7R+Gw//yMEbBuyRLFkayYg=="

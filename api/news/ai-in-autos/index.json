@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -177,58 +177,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-18-l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028.md",
-      "title": "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-rules-to-follow-when-driving-a-tesla-on-autopilot.md",
       "title": "Rules To Follow When Driving A Tesla On Autopilot",
       "excerpt": "Activating the self-driving capability is a very simple procedure, and when it's on, the car is mostly capable of driving down highways and well-marked roads without human intervention.",
@@ -289,7 +237,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -574,6 +522,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-developing-artificial-intelligence-for-medical-devices.md",
+      "title": "Developing Artificial Intelligence for Medical Devices",
+      "excerpt": "However, a Canadian company specializing in artificial intelligence (AI)-based monitoring of the spread of infectious diseases had already warned its customers of the risk of an epidemic in China as early as December 2019. 1 The warning had been derived ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/developing-artificial-intelligence-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-5291510_640_web.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

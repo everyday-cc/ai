@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Musicians, Machines, and the AI-Powered Future of Sound"
-    excerpt: "Fears that computers could replace composers are real. But some music-makers are finding ways to harness generative AI creatively."
-    publishedDateTime: 2023-03-16T11:00:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-music/"
-    ampWebUrl: "https://www.wired.com/story/generative-ai-music/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-music/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64125850412651fa6ee1479c/master/pass/AI-Powered-Future-of-Sound-Culture-1439768811.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Generative AI: Imagining a future of AI-dominated creativity"
     excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
     publishedDateTime: 2023-03-18T22:20:00Z

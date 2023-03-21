@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
 type: article
 quality: 63
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,15 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
-    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
-    publishedDateTime: 2023-03-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
+  - title: "Deep Learning Software Market Size and Forecast till 2029"
+    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
+    publishedDateTime: 2023-03-21T01:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
+    publishedDateTime: 2023-03-18T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

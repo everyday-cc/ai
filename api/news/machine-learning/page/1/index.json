@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-deep-learning-software-market-size-and-forecast-till-2029.md",
+      "title": "Deep Learning Software Market Size and Forecast till 2029",
+      "excerpt": "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series.md",
       "title": "Media Alert: BrainChip Illustrates AIoT Readiness at the Edge Impulse ML Series",
       "excerpt": "Please join BrainChip at Edge Impulse ML by registering for one or more of the upcoming showcases via the following links: BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market, fully digital ...",
@@ -1464,49 +1516,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable-artificial-intelligence-technology-to-the-united-states-market.md",
-      "title": "Advanced machine learning company Trellis Data brings its leading-edge, explainable Artificial Intelligence technology to the United States market",
-      "excerpt": "Headquartered in Australia, the company maintains a range of global clients across Australia, Southeast Asia and Europe Trellis Data's technology is currently deployed to multiple sectors, including government,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable",
-      "originalUrl": "https://www.asiaone.com/business/advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Stills_01.jpg?h=04d92ac6&itok=GtdwvhEh",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
-excerpt: "SAN FRANCISCO - Runway, the startup that co-created the popular Stable Diffusion AI image generator, has released an AI model that takes any text description – such as “turtles flying in the sky” – and generates three seconds of matching video footage."
-publishedDateTime: 2023-03-21T01:02:00Z
-originalUrl: "https://www.channelnewsasia.com/business/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-3360496"
-webUrl: "https://www.channelnewsasia.com/business/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-3360496"
+excerpt: "Citing safety and business reasons, Runway is not releasing the model widely to start, nor will it be open-sourced like Stable Diffusion."
+publishedDateTime: 2023-03-21T03:00:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
+  - url: "https://images.indianexpress.com/2023/03/ai-generation-tool.jpg"
+    width: 640
+    height: 355
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 628
         isCached: true
 
-secured: "sXeFstFd83rhUFyvGYDlBkoI0ClPa9+7CtqxAT3zoxgEAauJZ1KKkgSChMfKL9Q3wjeuvDI6mCDL4P044eAbjUBenncDXlqSzVhNQvaiB/HdfmKNnb0gx08DWgaqv5gqPdZgJTV9tCdAV953jQHkm5g3bGkGTxPfFLsJbEvQaBjDuLwK5abhrM7mTCtQklSkdroP1wlF0LYFTnssnKuBRO5po9OJjPMueFNbsGgh2P25939M3l0WoXDcZWUPTMFY/LDwL3TLV6yxa/qi4DCTzizTF2jlvoYNk7UzjIFugRxGlkO3gsdqOE0OUCGbIUMCDU1WUa9pRmM77LuJKueZ0cYm6Z7bcKg73VlJQr3S1w0=;Dn8yWHXFU9z0iFVafkgGwQ=="
+secured: "sl4nu8AAC8LYmIqdNKQhZcxlCHbN50n4NzBjFLl7CK4rPMyfYApsx8RYdwt39HunwAfe3srlJkGWb6xMt1ptl3DWNzPuOSw7XDXiJOSU1VJnAe6HrXvEL1syN7XOt4TseXeGqId1eIw1cBEupFxTOdvjoEN/Ecbf55s0QWbF0pDE8RU54h7Fsb9gkfPZt+YbHaFiSIU3W/UVzdhDUcZcGarUniT4vOkuIS3TwfP4b0TF9HzbBV+0W99Yp3YjYhxA7BLbJgOPohv3iIwlAOrUS3sDmEp5i0DSaXIDIiSZ6qGPxU6Bp+MzSjdu23pRMavlSTuTeHEEBGy4Q9+XlQVFK1rauWrxSNNB8+CF1qibVcU=;k+cubiSeXEYHkrcJsguLcg=="
 ---
 

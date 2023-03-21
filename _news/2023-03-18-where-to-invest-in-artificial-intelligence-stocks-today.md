@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artif
 webUrl: "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artificial-intelligence-stocks/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Motley Fool
@@ -28,33 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "2 Unstoppable AI Stocks to Buy for the Next Decade"
-    excerpt: "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ..."
-    publishedDateTime: 2023-03-16T11:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png"
-        width: 3416
-        height: 2266
-        isCached: true
   - title: "7 AI Stocks to Buy for Long-Term Growth"
     excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
     publishedDateTime: 2023-03-20T14:30:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-long-term-growth-1032179271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"
-    publishedDateTime: 2023-03-20T01:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-etfs-to-buy-for-long-term-growth-1032177583"
     type: article
     provider:
       name: Business Insider
