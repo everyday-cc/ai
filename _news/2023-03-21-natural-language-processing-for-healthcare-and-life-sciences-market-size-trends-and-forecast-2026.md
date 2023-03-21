@@ -142,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market Growth and Forecast till 2030"
-    excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
-    publishedDateTime: 2023-03-21T05:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-growth-and-forecast-till-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Machine Learning Chip Market Size, Revenue, and Forecast 2028"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Chip Market 2023 with"
     publishedDateTime: 2023-03-21T04:53:00Z

@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft announces generative AI-powered Copilot 365 to ‘change work as we know it’"
-    excerpt: "Capping an epic week in generative AI, Microsoft released Copilot 365, combining LLMs like GPT-4 with Microsoft 365 apps and Graph data."
-    publishedDateTime: 2023-03-16T23:36:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/m365copilot_business.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
     publishedDateTime: 2023-03-21T09:51:00Z

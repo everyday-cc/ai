@@ -134,22 +134,6 @@ related:
         width: 1200
         height: 1125
         isCached: true
-  - title: "Three Easy Ways to Make AI Chatbots Safer"
-    excerpt: "The tech industry is rushing headlong into the chatbot gold rush; we need prompt, focused regulation that keeps pace"
-    publishedDateTime: 2023-03-17T00:00:00Z
-    webUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/"
-    ampWebUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/0726CD04-630B-4606-8FC0B8FD43CC4B18.jpg"
-        width: 791
-        height: 496
-        isCached: true
   - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
     excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
     publishedDateTime: 2023-03-19T05:59:00Z
@@ -181,6 +165,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/17/0a4488c1-b704-47b1-9fb6-efb5e6460e79/thumbnail/1200x630g8/81b64df0fbbe8daf717cc5b9825c988b/gettyimages-1248446799.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
+    excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
+    publishedDateTime: 2023-03-21T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/03/21/google-bard-chatbot-launch-us-uk/11514309002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 28
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google is releasing its Bard AI chatbot to the public"
     excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."

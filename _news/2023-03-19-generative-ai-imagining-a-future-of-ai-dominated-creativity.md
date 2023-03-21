@@ -260,20 +260,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "The Turing Test for AI Is Far Beyond Obsolete"
-    excerpt: "For more than 70 years, the Turing Test has been a popular benchmark for analyzing the intelligence of computers. For nearly a decade, programmers have created AI reportedly beating the Turing Test while experts argue that test is an imperfect benchmark of \"true\" intelligence."
-    publishedDateTime: 2023-03-17T00:09:00Z
-    webUrl: "https://www.popularmechanics.com/technology/robots/a43328241/turing-test-for-artificial-intelligence-is-obsolete/"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: popularmechanics.com
-    quality: 37
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/man-with-robotic-features-royalty-free-image-1678926476.jpg?crop=1.00xw:0.536xh;0,0.257xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "The Future of Data Science Lies in Automation"
     excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
     publishedDateTime: 2023-03-20T09:58:00Z

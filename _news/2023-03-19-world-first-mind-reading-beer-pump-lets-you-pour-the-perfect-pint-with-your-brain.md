@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Homer' the mind reading beer pump lets you pour a pint with your brain"
+    excerpt: "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ..."
+    publishedDateTime: 2023-03-21T16:59:00Z
+    webUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883"
+    ampWebUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp"
+    cdnAmpWebUrl: "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp"
+    type: article
+    provider:
+      name: Liverpool Echo
+      domain: liverpoolecho.co.uk
+    quality: 59
+    images:
+      - url: "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Homer' the mind-reading beer pump which lets punters pour the perfect pint using just their brain"
     excerpt: "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ..."
     publishedDateTime: 2023-03-21T14:54:00Z

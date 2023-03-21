@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM CEO meets with senators on self-driving cars"
-    excerpt: "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ..."
-    publishedDateTime: 2023-03-17T00:35:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cars With Self-Driving Capabilities Are Watching You"
     excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
     publishedDateTime: 2023-03-18T00:31:00Z
@@ -71,20 +57,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "GM Wants The Feds To Ease Self-Driving Regulations"
-    excerpt: "General Motors CEO Mary Barra held a meeting with two US senators last week as the Detroit automaker wants legislation passed to increase the deployment of self-driving vehicles in the country."
-    publishedDateTime: 2023-03-19T11:18:00Z
-    webUrl: "https://carbuzz.com/news/gm-wants-the-feds-to-ease-self-driving-regulations"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 24
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Cruise Weighs Expanding Self-Driving Car Tests"
     excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
     publishedDateTime: 2023-03-21T14:18:00Z
@@ -99,6 +71,15 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
+    excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
+    publishedDateTime: 2023-03-17T20:48:00Z
+    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 2
 
 secured: "z9tgpLh6WeMWn6AaMfqfljBn4j5iUhhGCH5WGd+tE64eWa1V0uQEGggEDvAs2M2FnYMatw+gGWGz6oXiwmAIw3bZiJQDPJhTDfinyHkfWf3nOFs7RIhB589OlJfHk9RNUWCltQEGVhFurN63J8Od5eeBUUqJZzQ7BPEYtlZfS/OGe7NxlvcrUB8o59yfNbvZVtgsCsm+ZzTqZFIwUYXQkrTVMv/o5Ui1ZAOc9PoU7UIKH+ivEpF9Xfv7UW5AGUYxvK2JdZxm5ITSDRZyEz6ImmRNd0FZeyrf18zoN0bd7HdEuymfgguNSwAv/MX9KWJhISjwpARNP9oEZtgtqX/m6mUkDkmQj1hl5jQsB7uHZiDloWV+ANauzhKmcSUUfFAiPlwkUncx7tEUxMJwG/b5kpH7R9ArEQpFawryPwMTEAwXYNBZnfqjCxnTnZBqHNL6WyxxSYuvdUbcVlzXZziwaSeBAbpkLX6xnrVym5Lc4sCKM0Zz0Tv8I6X7RSFR6SlmZWCndRikVc1YfKFe/dOiOA==;4d8PKnPDmLSuy/AwSl3AlQ=="
 ---

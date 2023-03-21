@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,36 @@ images:
     width: 1007
     height: 505
     isCached: true
+
+related:
+  - title: "Build custom code libraries for your Amazon SageMaker Data Wrangler Flows using AWS Code Commit"
+    excerpt: "As organizations grow in size and scale, the complexities of running workloads increase, and the need to develop and operationalize processes and workflows becomes critical. Therefore, organizations have adopted technology best practices, including microservice architecture, MLOps, DevOps, and more,"
+    publishedDateTime: 2023-03-21T16:27:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/build-custom-code-libraries.jpg"
+        width: 1149
+        height: 574
+        isCached: true
+  - title: "Best practices for viewing and querying Amazon SageMaker service quota usage"
+    excerpt: "Amazon SageMaker customers can view and manage their quota limits through Service Quotas. In addition, they can view near real-time utilization metrics and create Amazon CloudWatch metrics to view and programmatically query SageMaker quotas. SageMaker helps you build, train, and deploy machine learning"
+    publishedDateTime: 2023-03-21T16:32:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-viewing-and-querying-amazon-sagemaker-service-quota-usage/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/best-practices-viewing-querying-sagemaker-service-quota.jpg"
+        width: 1148
+        height: 574
+        isCached: true
 
 secured: "jtXXJyTC4of848LCojgEtyyHwd5FgSyaMnZqL1ODd22W9axBtVQpuJDb3ZGhuZrNMypboyZ6Pf/PfbbSXWnSScAgVwT/ge7MQzwe6cCiV4P5v/Q7jaapBbRKorgdKjjt2K4WvfhQv7VyQDBkTFY+CcY1ypTd/xATRM1gXsVrywDeON+kZIxh/r5P7rsP529xoQ3Zs5fGvEr27GmQ0N/2eE68S68txIlQJ68+/7vabkFc1Ordh8ZliyVuTHfrJc46arhN/KJleEJgqLcMZ1vdkWsv9K0UvbnHhP8EZULY9PWZT3kgAKBEL0J6CtsZ3xHiy3SOz2WfarnrzuD9V9EqQdO/3nEGmKYkiSfCcpHgYp4=;K5f6DSFstkTexHF4pTs9iA=="
 ---

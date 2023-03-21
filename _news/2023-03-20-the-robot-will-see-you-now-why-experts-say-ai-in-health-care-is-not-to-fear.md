@@ -7,7 +7,7 @@ originalUrl: "https://www.ksl.com/article/50602488/the-robot-will-see-you-now-wh
 webUrl: "https://www.ksl.com/article/50602488/the-robot-will-see-you-now-why-experts-say-ai-in-health-care-is-not-to-fear"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1228
     height: 690
     isCached: true
-
-related:
-  - title: "The doctor will see your phone now: Sequencing and speedy diagnosis give chance of timely care"
-    excerpt: "In this Cover Story, Alan Perrott grills a leader in genome sequencing and artificial intelligence on the future of healthcare A patient walks into a consulting room and begins rattling off some complex symptoms."
-    publishedDateTime: 2023-03-16T23:40:00Z
-    webUrl: "https://www.nzdoctor.co.nz/article/news/cover-story/doctor-will-see-your-phone-now-sequencing-and-speedy-diagnosis-give-chance"
-    type: article
-    provider:
-      name: NZ Doctor
-      domain: nzdoctor.co.nz
-    quality: 12
-    images:
-      - url: "https://www.nzdoctor.co.nz/sites/default/files/2023-03/Genomes%20CR%20Olena%20Yepifanova%20on%20iStock.png"
-        width: 938
-        height: 1140
-        isCached: true
 
 secured: "jx0h5TxM/r98h0WXWYg69A/JbNnzjseT5yabYPOiQVRhzKOPWom6wVYfQ07cbNUvUoXolBDPeL2UCAT00QrHlA0+mFFVTa+eOzLBB2OsztRCGhHna1HqOEKLTiVwsAOBmuxv6sXqk7pO3960EY3Ot6yMhHrA2K699S4zBucF5AmCavWbEIEBwRBc6QSGQKHCsLXndVRZGjm6u6ue0yssOgzwLXudAQFVWXyz3cntEvDG64K7XJwWZsTrwfW2FxzCdhBG3zs9fbJ8Zr9VgLY4Qe/eNnVPqv0rz8ikZlfu6JKWiWTB96weKNSHSOJDE2IDUYqVyBXO3HAMO6VOqQbZMBbjvmfq4ZN95yNAGPdImcU=;UJR9cteK06VxDH1kSCNe6w=="
 ---

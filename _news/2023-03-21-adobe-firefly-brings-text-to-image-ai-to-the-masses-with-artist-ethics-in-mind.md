@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-ima
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
 type: article
 quality: 100
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Adobe Launches 'Firefly,' Its Very Own AI Image Generator"
+    excerpt: "It's a large undertaking, but the company does seem to have put an emphasis on establishing a set of ethics for its use of AI, and is using those ethics as a framework to build around. As mentioned, at a basic level you can generate an image of pretty much ..."
+    publishedDateTime: 2023-03-21T17:12:00Z
+    webUrl: "https://www.slashgear.com/1234478/adobe-launches-firefly-its-very-own-ai-image-generator/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/adobe-launches-firefly-its-very-own-ai-image-generator/l-intro-1679417994.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+  - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
+    excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06yPDMFqj7rof9DhuUZR8xo-1.fit_lim.size_1200x630.v1679414750.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Real challenge to build ethics into artificial intelligence"
     excerpt: "“When we talk about AI ethics or AI values, the natural question to ask is, whose ethics and values?” he tells Inquirer. Australia to develop safe and ethical AI network At Flinders University’s College of Science and Engineering in ..."
     publishedDateTime: 2023-03-17T13:06:00Z

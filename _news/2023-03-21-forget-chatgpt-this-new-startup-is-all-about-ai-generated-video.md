@@ -98,22 +98,6 @@ related:
         width: 580
         height: 363
         isCached: true
-  - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
-    excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
-    publishedDateTime: 2023-03-17T01:03:00Z
-    webUrl: "https://www.wbir.com/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/education/university-of-chattanooga-chatgpt/51-793e332b-ede2-488a-a9ed-42b89bf187e1"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 39
-    images:
-      - url: "https://media.wbir.com/assets/WTHR/images/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd/c6b4f7d5-0a05-41e1-8383-f8b80efd2fdd_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
     excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
     publishedDateTime: 2023-03-17T02:55:00Z

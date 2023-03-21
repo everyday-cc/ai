@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
-    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
-    publishedDateTime: 2023-03-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
     excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
     publishedDateTime: 2023-03-17T06:42:00Z

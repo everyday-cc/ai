@@ -41,6 +41,22 @@ related:
         width: 900
         height: 400
         isCached: true
+  - title: "Microsoft & OpenAI add AI image creation tool to Bing"
+    excerpt: "After integrating ChatGPT into Bing, Microsoft is adding a tool to it, that creates images from words using an advanced version of OpenAI's DALL-E model."
+    publishedDateTime: 2023-03-21T15:56:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/53579-107660-bing-xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The technology behind OpenAI's ChatGPT: Generative AI"
     excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
     publishedDateTime: 2023-03-19T09:03:00Z
@@ -72,22 +88,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/AI-multitool2.jpeg?w=3000"
         width: 3000
         height: 1688
-        isCached: true
-  - title: "AI Adoption: Financial Infrastructure Firm Stripe to Help Monetize OpenAI’s Products, Enhance Fintech Platform with GPT-4"
-    excerpt: "Seventy-five percent of the leading generative AI companies have signed up with Stripe to go to ... online lending, and other forms of Fintech. The Premier Event for the FintechCommunity Fintech Nexus USA 2023, theleading event for the fintechindustry ..."
-    publishedDateTime: 2023-03-16T23:33:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203760-ai-adoption-financial-infrastructure-firm-stripe-to-help-monetize-openais-products-enhance-fintech-platform-with-gpt-4/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg"
-        width: 1080
-        height: 810
         isCached: true
 
 secured: "NYnsU66aw/JUMQF6sQyejlgHCF6eSUycmQBRQV/gC5XhzLyeWALwNlNQHtRM5yjS+bYuUnE0l3dw2eHue0SarYV7VOWrSePn4/oYipkJ4fnPfL10/vqZshGM61eylhnL9mi3EE9G8SNTUfV6ydBE8dnyrp3qR8TxNwwMohXamgR9ai5fNdp6guvWE6WOluNEeW1JxxxUK6PR+0QDV045P1u2qbozZF2FxBVOuoFgi15Jt7RWWSczcEdUWWKjiRVEZ1UtQGpY0Ih+yrcEKihEwjAI7mlcJxvcM/sVjuvc6VIhPpfpWtet8Twx6X9Pak0M5RgPImNV2SXv8uPw18PKd6KENzVDsjVoYiYxGFST+PY=;+7+ndCnZWQcHwweFkiyUFg=="

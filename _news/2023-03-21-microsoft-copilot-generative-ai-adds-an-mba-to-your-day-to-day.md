@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft announces generative AI-powered Copilot 365 to ‘change work as we know it’"
-    excerpt: "Capping an epic week in generative AI, Microsoft released Copilot 365, combining LLMs like GPT-4 with Microsoft 365 apps and Graph data."
-    publishedDateTime: 2023-03-16T23:36:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/m365copilot_business.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter"
     excerpt: "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ..."

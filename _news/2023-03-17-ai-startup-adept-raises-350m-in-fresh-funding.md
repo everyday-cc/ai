@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/03/ai-startup-adept-raises-350-million-
 webUrl: "https://yourstory.com/2023/03/ai-startup-adept-raises-350-million-fresh-funding"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Week In XR: SXSW Winners, $350 Million For Adept AI, Tilia Raises $22 Million"
-    excerpt: "Adept AI Is A Unicorn. The startup ... The funding comes from Seoul, South Korea-based fintech leader Dunamu, which is joining existing investor J.P. Morgan Payments. In 2021, Oberwager acquired Linden Lab, the company behind the “Second Life” metaverse."
-    publishedDateTime: 2023-03-17T00:38:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/03/16/this-week-in-xr-sxsw-winners-350-million-for-adept-ai-tilia-raises-22-million/amp/"
+  - title: "Startup that trains AI to do tasks for you raises $350m"
+    excerpt: "Tech startup accelerator Y Combinator said Monday it was ending ... But Adept aims to go one step further than having AI give answers to questions, by having the software actually performing the task. Adept envisions the future of computing as one where ..."
+    publishedDateTime: 2023-03-18T22:09:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/startup-that-trains-ai-to-do-tasks-for-you-raises-350m/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6413a9fa7177f9e52f460b8d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/03/AdobeStock_567943961-1024x576.jpeg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "RJLse9/bNuzxhMj6m39OXx4feEHGj2f1JYeUXZx1Y8I2zaxd9wlquPJpFhEUsQlZmBdIpe/dIJHzIxU7N9K1qANARUvXrt+DnqT7rpxoZZAcpi72nJHS1pE7v5nIdiEBoX73Vjwv/MCs+201GIIJrWQuwk4XiRz9uaNz0QH03qaejRsMfkR/wJszu74Z3ygsrRptX9ToE9URb/cZ9otYTnQXpPlHTSzFPPW+k6OC6hD+ThAmE0Z6eHwqJlCFkAiQ3MAtQ8yfLOKnpODWDC5sM7lGl2uGVIO/mpCd5yhhWfPuvc4b97K8BBw88vvRrr2wvenzFiv34YvdxamKA6Rx5HWo/jsuiTVjzD0b825Im4JN/1eoFpnHzA7fyFt3Q61gAC0SPyfvOWEW+M9jPTa6QAtoPkxv5ooUraWLGtMKme1/5PeK64yx19GqPe6+uaa8bWMmYE91Z1H3diFNFCuJbEXaBl6pnZNMvyR0PtD/dM1U4Lxan7XauzbrQ7lCtyqVvDsGu3SFqUIUvAqPxQsqew==;GXWwmUFsOTUCAkynrM65ag=="

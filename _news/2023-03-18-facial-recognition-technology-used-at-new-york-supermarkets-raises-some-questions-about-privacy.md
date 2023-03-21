@@ -59,20 +59,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Amazon Hit With Lawsuit For Not Disclosing Facial Recognition Use"
-    excerpt: "Just pick up your items and walk out of the store. It's no secret that Amazon Go stores peppered throughout New York City are using AI to make this possible — facial recognition technology, to be specific. And though the method is legally sound and has ..."
-    publishedDateTime: 2023-03-16T23:57:00Z
-    webUrl: "https://www.slashgear.com/1230823/amazon-hit-with-lawsuit-for-not-disclosing-facial-recognition-use/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/amazon-hit-with-lawsuit-for-not-disclosing-facial-recognition-use/l-intro-1679010420.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Amazon sued for using facial recognition on New Yorkers without permission"
     excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
     publishedDateTime: 2023-03-17T16:26:00Z

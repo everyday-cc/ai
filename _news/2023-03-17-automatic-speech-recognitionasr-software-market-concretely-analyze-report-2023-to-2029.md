@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
-    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
-    publishedDateTime: 2023-03-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
     excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-03-20T05:55:00Z

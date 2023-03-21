@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion
 webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
 type: article
 quality: 61
-heat: 72
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://images.indianexpress.com/2023/03/ai-generation-tool.jpg"
         width: 640
         height: 355
+        isCached: true
+  - title: "Runway debuts AI model that can generate videos from text"
+    excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
+    publishedDateTime: 2023-03-20T22:20:00Z
+    webUrl: "https://siliconangle.com/2023/03/20/runway-debuts-ai-model-can-generate-videos-text/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/runway.png"
+        width: 2920
+        height: 1602
         isCached: true
 
 secured: "1XOlxacV/w+pquHm+MTM4/UzkFri2K7iX7yIGLMMc1F4n9+a7r0qB+1I/7yMBlqI3bUrLchfsssKMfQVbcN6fVJPtRLl5fFp6T+ncUNvba5UiLDx/mewTd55EolBSdfoBhhgCjUVGMpXyY/VmiriG9IDxycJlYE5PiDIFT/mrmJXJ4Lr9vDvPu+DENn1k8yE/Xpy9hICiprF3Q9YlC5JBNX3TuxzOs7Abu1P9AvlBzMMOwRKK6Dk6EXEL7tNNNet8Wxeo4TsGsg51Az8PZgBjuNfHFWQ0I1TUiyz/l6vkiVKB8BFWdUlyIQ6eM9vXV7WzJGoNhNA+/rUU8oXhliyf5ZqNlXcg4oE/N9nINWOAvI=;3yjDQ0M06RA4tDHXa2yG/A=="

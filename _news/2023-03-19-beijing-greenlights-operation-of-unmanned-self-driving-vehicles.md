@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Beijing greenlights operation of unmanned self-driving vehicles"
-excerpt: "BEIJING -- Beijing greenlighted the commercial operation of autonomous driving service without in ... operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai ..."
-publishedDateTime: 2023-03-19T07:46:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
-webUrl: "https://www.chinadaily.com.cn/a/202303/19/WS64164d23a31057c47ebb542b.html"
+excerpt: "BEIJING, March 18 (Xinhua) -- Beijing greenlighted the commercial operation of autonomous driving service without ... respectively by Chinese tech giant Baidu and autonomous vehicle startup ..."
+publishedDateTime: 2023-03-19T00:01:00Z
+originalUrl: "https://www.thestar.com.my/news/world/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles"
+webUrl: "https://www.thestar.com.my/news/world/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 中国日报网
-  domain: chinadaily.com.cn
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202303/19/64164d23a31057c4b4b783c8.jpeg"
-    width: 721
-    height: 480
+  - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: thecentersquare.com
     quality: 4
 
-secured: "/3RRVNcsdv/tx8nQ3XSth9bY/wua1nIbe3sQlgXXLK4FRKt9QXQuG2sRoNx4rxRZBE/Kpw4FJC5dF7rxEzGvrDTmEkvaX0Z/tVk24Aylu/y3BggTi8SEWFnrvQTedc3CnTJYNvZ70JENb+v/xrwkJW3dNoF3TnRnvu0rWFSKR98cTqflhhGSWZIjcmsjE+Byi+lyiRKxu9vGPqZYUWzixShWBHNkvKM0AzwBZHxH+MMVsoZ9x0oEk4Mu58HND9/ZIrQhbdbHIpuf6qsi/LEY2s7ZcQ/EKZvNR2BLwh9lmh9BjfL7/nYmcIpWFJHD3/gXoq1r48p4Chp3maWOtOwKcohKzwoExjWxz5uO0bjYsa4=;hM0MMtdJToCEPzOTyTh2lA=="
+secured: "PUpsjcaD77A62UbJTdwt4MkLyZfb/8CEP3AqACkINpI7f8yEfxGNcdt0ZgQlOYR8JjdOoJAjF90vKfHxNz90iEgytbv7asckJjWB18sJKCfreVtTEzTt2sl93n7Ky7EoJ4namUM64qfUKChzxgkwBMXJ+A8oz+ZQqxOucfaSioCgBoTvdIodyxzpiXDlNFGs2T31dI6tYkKPWJ2Py6rfxL1+nic4PpPThd1JdzNxi3K1u85Ahp98pTmI2Hdk6DChXvvY5Qt1bRKsRZGJR8rWOOq+qW/70gjFQCbuarTvNRsS8hw9MusOAdQoPfU4cop8B5flHL/Ueu8bnKvSkrwhGOPIIno9RejVfTEhX6CLj5c=;Bbv8U6pea0NSynYHFH0UVw=="
 ---
 

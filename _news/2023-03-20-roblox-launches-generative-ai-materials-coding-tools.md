@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/roblox-launches-generative-ai-material
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1199
     height: 663
     isCached: true
-
-related:
-  - title: "Nvidia launches new cloud services and partnerships to train generative AI"
-    excerpt: "At its annual GPU Technology Conference, Nvidia announced a set of cloud services designed to help businesses build and run generative AI models trained on custom data and created for “domain-specific tasks,” like writing ad copy. Under the brand ..."
-    publishedDateTime: 2023-03-21T15:43:00Z
-    webUrl: "https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-957037018.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Qal2d5dqDuz42FqLA6ZjmDLieOQsgI3id5cVAfSw5QrCE7Q4Hld0y2m4FO4fe9KH/iFIwt3AlDAACUZUDhuApaCRLqp1Mu8df8Cq3Mrn8us/uCujZF4WoLGfdl4bHIGOj9684FJhcgPLMAFSlZU7kIRVSL3AZc3/5MOWfpKj3i76U8vZzVk6RB7oBb4EbnvPulIzILuePUp+jw+6IBD4OGG27gbu05RUyB3lDdZ0dmVqvu01Pn1sgxwHfpjHlgPeFQRh+Y/ocg/AyhAIBB7bmzbJiTcCuuMm3oS9G2k+UzFEpJTlkiXp6/jK0hKzooLc7ISL2CCOMUad5C99eGjQDI5zXM84lERhuY1fziK9gQg7zntRjs7fuNRpX1WZLJLgQJ0ivUXBrehBWjsq74zuRhyWmL49TK2NU98bf+T2xzEOvIGULQh8nc3jezu4C1jjd9YxFW9datm52WgD44fiYgnSBAhc7jFW/D36TgLSGxABCR+3EEz9e8VEmJSWV4f+6dZ2u0yecbIR2Nxl4wBoHA==;3gVAdISlELUeVAoVB8clcg=="
 ---

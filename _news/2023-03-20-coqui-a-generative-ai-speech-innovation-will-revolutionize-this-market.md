@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,45 @@ images:
     isCached: true
 
 related:
+  - title: "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest"
+    excerpt: "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)"
+    publishedDateTime: 2023-03-21T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Healthcare AI Market Growth and Forecast till 2030"
+    excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
+    publishedDateTime: 2023-03-21T05:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-growth-and-forecast-till-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "AI Will Reshape The Finance Sector - Here's How"
+    excerpt: "Artificial intelligence (AI) is set to play an ever-increasing role in financial ... of one of the world's largest independent financial advisory, asset management and fintech organizations. deVere Group's Nigel Green's comments follow microsoft (NASDAQ ..."
+    publishedDateTime: 2023-03-17T20:37:00Z
+    webUrl: "https://menafn.com/1105805190/AI-Will-Reshape-The-Finance-Sector-Heres-How"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/17/V_4c78fimage_story.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence accelerates the fourth industrial revolution"
     excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
     publishedDateTime: 2023-03-18T13:36:00Z
@@ -44,15 +83,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "/R9ea/+gPzOTmfNOvlLKDdI8yYkJNN7uLweJf6nDXs3aJoiENX7gjiX9X74hEZdw97l4FO5dKUWXVDSPSct27C6S0ru1cxSwnPzY1WApceyg7yBqbVlV/2yWsJLxijMh5AhIJZR8kUN30liikJESfafl7luhyNCfDTM9nw5iybH+dab1rnvf9oXqOI3I7ffCqYA32b7njixo3e3UT5zC41/v7QRQrlpAnj7uGE8csAsKSYR14bThrCqJgMnSyrhadgNA8qfSf1LnHZqugKXj3OAxzZ7A4J0fywUfmUYJpuTvsbMMwzAOuRf9I9YVtoa4g10YDG4MTQLNEbfaH/gh9NNnprdIeSQJvFHcYn25GSdKMxfLamsVZcQqEKBplYd+H4srGXwPQIrqEgoI4IoM/Wiszy6ZEwKFG65PfXOZl3JB8Hd/lIeaBe3C8yZV4dMAA3PQ8XKtC2/n7cJNBqk4Vw9LC99ez2F3I+JQrNWoxMD30uHcUkIp8Ynmq+gLCLJ+OIctwAYcZzlM9teULGO4Kw==;G3wVhiwpnvJskn5LiCYaKA=="
 ---

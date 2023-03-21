@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features"
+    excerpt: "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ..."
+    publishedDateTime: 2023-03-21T17:32:00Z
+    webUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Rules To Follow When Driving A Tesla On Autopilot"
     excerpt: "Activating the self-driving capability is a very simple procedure, and when it's on, the car is mostly capable of driving down highways and well-marked roads without human intervention."
     publishedDateTime: 2023-03-18T03:41:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.slashgear.com/img/gallery/rules-to-follow-when-driving-a-tesla-on-autopilot/l-intro-1679000963.jpg"
         width: 1600
         height: 898
+        isCached: true
+  - title: "Tesla engineers tried to convince Elon Musk not to give up radar for self-driving"
+    excerpt: "A new report states that Tesla engineers tried to convince Elon Musk not to give up on radar for its Autopilot and self-driving effort. Tesla has a weird history with radar sensors for its Autopilot and Full Self-Driving vehicle programs."
+    publishedDateTime: 2023-03-21T15:29:00Z
+    webUrl: "https://electrek.co/2023/03/21/tesla-engineer-convince-elon-musk-not-give-up-radar-self-driving/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Elon-Musk-Twitter-deal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "How Elon Musk knocked Tesla’s ‘Full Self-Driving’ off course"
     excerpt: "Will Elon Musk ever fulfill his promise of 1 million robotaxis? (Illustration by Elena Lacey/The Washington Post; Jonathan Ernst/Reuters; iStock)"
@@ -57,17 +87,20 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
-    publishedDateTime: 2023-03-20T16:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
+  - title: "Tesla rolls out its Full Self-Driving Beta v11 update in North America"
+    excerpt: "The update allows the Tesla vehicles to use a single stack for highway and city autonomous driving requirements."
+    publishedDateTime: 2023-03-21T15:52:00Z
+    webUrl: "https://interestingengineering.com/transportation/tesla-rolls-out-its-full-self-driving-beta-v11-update-in-north-america"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/21/image/jpeg/0RDZ6LVbruynTbOS8OVHZxIqgXGpwEtGN51rx15e.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uezJ/MWAOo8piNyYpRdC6wzd+o6EScierJDztzbOXCxotN1YyoOEEenBBa/cbV6w3hylniQoX70JmP6mHLvdV6ti/nSXUiLsL0ccnQdkZZsoNFj8mAp2jm9qtyiGbN7/cwPrcLgEXq/QZuvmS46EKPzG4TZPBhEJZv1E6LMCjswpQdHRUohFBDJgVLWSeqZbBZfDaQ4RSdb+k3zSGPRElQlIOv+4VYIJDNFhNwrfGB3+AmnUcgpZCJUkTIsG+f9FXLpAeXAhgP45NZOhfD4BLzOO1Ig2qxdzvg9zUwxmZmkmUWQ3Tx9nd3XsoyZkeQold5FFjGU26Dgtc6MQENyn+rQw5IauZqhVErMkCYEBlqPhaxeh3XaAaUZFu6ySqHyInB6gelQ8JVcvOzgp2fd5cZkeGw5gO4qI3G/WRbSsN5Uu4ewJTOZscwO4RQdN9rfYtvZwKlsIAFQQCHOEbZoIKZ0ZvAJJh1173KpogAIUeO5vuF2ugI+OMG2xFHxxqyHUgTlNnYzvflYvf22l1vExGg==;olZHQzn1E38iywAQ2gMDlg=="
 ---

@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft announces generative AI-powered Copilot 365 to ‘change work as we know it’"
-    excerpt: "Capping an epic week in generative AI, Microsoft released Copilot 365, combining LLMs like GPT-4 with Microsoft 365 apps and Graph data."
-    publishedDateTime: 2023-03-16T23:36:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-announces-generative-ai-powered-copilot-365-to-change-work-as-we-know-it/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/m365copilot_business.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter"
     excerpt: "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ..."
     publishedDateTime: 2023-03-17T09:05:00Z
@@ -170,6 +154,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "c8msrrxCVtul+MwNyPgQByxBtWxN+pSUx6ktHDzUTvGhw3jU+EGA0yr5bh+gok3/jFhVH6Dv+e80CRW4mScoSoBdl3wv22C+p2AzaKjSk/HBRZll9RwfyDGQHU1w+4uns1vV/lfw1SBYlW4ZSSy1Rweu7UZflN+zWiq+I3r+Zno57zjmkyIg5U2dcehUI15KvaQ7ldfxAYYWbm1udODyaiY/HwkpPOTgT9PTIC4yOBMijMplsrosDhgXE31Zx5lMbqX2sH7Pwv7FO/nSxQA0iAGZ5VpUXEVzNiboQ3QDO8mYEEnILtb3IOXHmM35u5th7GO72D3qg/lI6staagxc2dGvOlc1gWfTTDWtgG+Hy6g=;/KqPNdIElK1NqDJvV17RFQ=="
+secured: "D0ROtoV4V24M5AUZcmUCzMjzq1EoJrgNc0nk7h3rDzvb32XdKe6zhJdmykSkYo081UBEAsB/YHX4HKHgYMKTTMx/xwgOwDUJtMXuGtkncLv+iniZq/oUdSvw+zL8/DQar5MRuaW3yMkO3VQZegY5D/urIfPSNQfeBPsIvztenlFgu1GZbrzONSJjBcJf53ydwJpKQG+dk0f2cXGPtBAXbRu1nkNaz1zKtBodE1WJHf6bR6Xm6nh5aRNFzcioMQthzJ1MSPLDw6Tu8Ya5TF9GSGkugmpRfTI0HpQBViy2wQEFnrDWghdfeHLTd3bO2chuN9RxeDWHi0Hv75yQ7KKEWgnCXaKXwLJlSslGU3t1Fo92Og+z7pIH/BaZbvS7x6iqUUgB7pNSDmol//WS6PyU8+7w0a2/ImltvkzJddcLFFbSppFaBNNh3rn2/kZjeWt0ayXf8uO6ySd0l1dQhdT7ZNDvN5qM0xW2ieLYAIUsWJ3B33sABLKPRY7+jS3jVJ5Li8oaVcTqxWIaGxeogOHJYA==;quqqoWmdx9J/UmbrGSbT5w=="
 ---
 

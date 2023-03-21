@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
+    publishedDateTime: 2023-03-21T15:32:00Z
+    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 15
   - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
     excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
     publishedDateTime: 2023-03-20T14:55:00Z

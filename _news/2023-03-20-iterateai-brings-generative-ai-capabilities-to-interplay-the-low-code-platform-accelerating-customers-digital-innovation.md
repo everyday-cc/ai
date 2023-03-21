@@ -86,6 +86,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
+    publishedDateTime: 2023-03-21T15:32:00Z
+    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 15
 
 secured: "aZaR4rIIKxt5chECS3gRV2yxoG0UuqdNKD7Q3YQkgErLv6+lbnLSIK0qHOpC8fTJTs7AYTRIQTB4kerMSSg2CMCEVbFPjxVkAkA5uZ7mHXsGvXMk0X+eL2GJ2v4uHgNKKakGmSR402AqpLfjY4QZI26KtJ3WXEwzb1+DD5B9g8rb2FOnKplhMbxzCFCqTCvno3Eki7hYy/1JSTS4iCzHJNa7Mq2Xm8iJ/DbgywDR9PaDorInQviAgCQLPXw8C0H5TW+QMYtpbl8FeuqL2i9Kf1d9Sin7ExiGAfDEnwRU+ZUZ8ajcfz46ctsu6cv83nqEUG4sFk0CFqv/DbELNle//CvY3k9h+KxGZ6rmrqBpWXA=;7s+RNmaxunT7CMM46VwiCA=="
 ---

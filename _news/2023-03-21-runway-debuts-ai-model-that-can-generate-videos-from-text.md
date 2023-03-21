@@ -24,37 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI-generated images from text can't be copyrighted, US government rules"
-    excerpt: "The US Copyright office has issued new guidance on the copyrightability of works that contain AI-generated elements.."
-    publishedDateTime: 2023-03-16T23:46:00Z
-    webUrl: "https://www.engadget.com/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html"
-    ampWebUrl: "https://www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-generated-images-from-text-cant-be-copyrighted-us-government-rules-174243933.html"
+  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
+    excerpt: "SAN FRANCISCO, March 20 - Runway, the startup that co-created the popular Stable Diffusion AI image generator, has released an AI model that takes any text description – such as “turtles flying in the sky” – and generates three seconds of matching ..."
+    publishedDateTime: 2023-03-20T13:07:00Z
+    webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 61
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/z0DrGfDE2hCafrbAOi3u2g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bf3954c0-c41b-11ed-bffd-8307d83a5179.cf.jpg"
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "A copyright battle over AI-generated art will begin in Colorado"
-    excerpt: "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ..."
-    publishedDateTime: 2023-03-21T14:55:00Z
-    webUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
-    ampWebUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
-    cdnAmpWebUrl: "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
+    excerpt: "Citing safety and business reasons, Runway is not releasing the model widely to start, nor will it be open-sourced like Stable Diffusion."
+    publishedDateTime: 2023-03-21T03:00:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
     type: article
     provider:
-      name: Fort Morgan Times
-      domain: fortmorgantimes.com
-    quality: 59
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 51
     images:
-      - url: "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700"
-        width: 1024
-        height: 700
+      - url: "https://images.indianexpress.com/2023/03/ai-generation-tool.jpg"
+        width: 640
+        height: 355
         isCached: true
 
 secured: "48KzGH4YA1AB9Hk/Cjt2VpbVCsejN7uBdFrmBWDXwg9qh1gOjK/bu7KhxGazl7G2yN1eqdszcJ58DcHApTGog7lztFtwOpq9noV02WmG0sb8qZBlxXbkCese/5gkgRAyeyXjUUt41CtjoAxui6p7jTNF3RTl2ari8VJfTlokFKZBemAvx5J73x4P+ZuiP0nBdcLOG9x36V+YbJJ9LznJkBjTzLnwlaquF05Cq5SsC2WshKnb7OxfsN1TT1rOFdw+WegWBWhNedAwbLQeqoP67WaWIxhjlc7sf0yX/lECt4ar0BWkWyT7pvQvJJ20F7Rk8OlTyHNnyOr4pe79yB8IBQk4hGNEMdtzdbHd2h61J0g=;VidGSrc3FjkMaqBtKxg2FA=="

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
-    excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \" Machine Learning Industry Data Book, 2023 – 2030 ,\" published by Grand View Research."
-    publishedDateTime: 2023-03-16T23:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-advancements-deep-learning-reinforce-machine-learning-industry-growth-/2023/03/16/9778209.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "xhOTLTmdy3QjS2XAluK+R0R5rMEMNpqk9Kcryat/kaNSMZnvHjQgfYBS0Thke0zs+r2KoP+ewFToovpo4lFzZtgabL3hlzQu4DpiZjUwrlob6SH15nysAgomxr7/o0O3aHy/ek3LdtdRZ/uABP0lLWTGFBvtcdU77QbyI+vgs7YM2mfTWTlV7koYrr7z629TGo+Ydwr7nI724z3zanCqTOoBSbT0MCjfsbD9zu4GtWzueRAQaWL8/T9lhe5bdQZaJSlAj8alHfic0nROGnwSxguKRNoe/qdGavki8k9VbayRuBPDTEDV3L7H/PYayG1dedbJ5fmnizrdZ+YvBHrAdeQn1gxCsEMz1SjGzIwqeko=;DSWLh7b/dh+Qa6welYJnSg=="
 ---

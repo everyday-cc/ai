@@ -57,6 +57,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia brings on new advances in robotics and computer vision AI"
+    excerpt: "Nvidia Corp. is expanding its tools for robotics and the artificial intelligence that power them through improvements to the platforms that developers and engineers use to train and deploy autonomous machines in factories, offices and cities. “The world ..."
+    publishedDateTime: 2023-03-21T16:22:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/nvidia-brings-new-advances-robotics-computer-vision-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 88
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-Isaac-Robotics-Platform.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nvidia introduces cloud services for customizing artificial intelligence models"
+    excerpt: "Nvidia is offering a new set of cloud services, called AI Foundations, that let businesses create and use their own AI models."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_AI_Foundations_032123.webp?w=1200&strip=all"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Nvidia’s Growing Momentum In The Public Cloud"
     excerpt: "One of the challenges of working with state-of-the-art machine learning is that the hardware is relatively ... many of which date back multiple generations. At the high end, Azure, Amazon Web Services, Google Cloud, and Oracle Cloud offer instance types ..."
     publishedDateTime: 2023-03-20T19:35:00Z
@@ -112,6 +142,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
+    excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
+    publishedDateTime: 2023-03-21T16:36:00Z
+    webUrl: "https://insidehpc.com/2023/03/nvidia-claims-iphone-moment-of-ai-at-gtc-announces-raft-of-ai-related-chips-systems-and-services/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
+        width: 600
+        height: 318
+        isCached: true
   - title: "Nvidia finds strength in AI era"
     excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
     publishedDateTime: 2023-03-21T01:32:00Z
@@ -127,6 +171,6 @@ related:
         height: 853
         isCached: true
 
-secured: "hbDBJpxWFsQC9FoqCngboer3IPQn+OFzhlUI5H8+xBJ92HD1UM3XjBCR+vm0bEvt9HPF/AlRHovuwdH9A67OCqiiHjAXTnWABy33PDLXTJA6AvDArI/jM+QV4drnkREuCM0iG6qDMCGpdjhAL/6vpXw58+HAjRfRgHUTLDD43VjILLreGZvafV31pvNXnxIyP+918EQLFX7MfUOLPw9uKuouA6hyRmtQhAnnoXHbSME65eOFXhd0Sbwzn2Y06uFkdWRCsB43JoMn1vaLV5fvy0+VpdGWk95hHD/DKRXEtH9GCA6OCh4tGDG+MR7BQ+3cQ++z4FBp3rGoUh/n+HCvuTKzyQuyCrIjESxcAlZn4ko=;n6uUlWulfu8vsAh5feS2BA=="
+secured: "EETPeG8pLutMkPE6ZE0dfqSpy9Zv88/hmZI8VcA2h/4C17Jef/iB4EqdcBxqlI/s+pP1vBRTNdwCtEWvAjeRDr8iEE2e8caLoJCIyyr4KL6KYxp+FXRGvjBUIhtNKO2wzuuwRAlMMKTzmH2IKxeTgeiq9p1tFWLO4Yz/kjxmCKcpIz6Tsi9XbCpk+bNquIgsdV7T3NsN0v9Wle74cP/qIkXKCqqm4R89zTi3VWxtyKD/wTBAabuoNSu7eJif8sRJXM1wFOgLOPZFFj+OyZx0M/od/3Lv3UUvHsIaAdvfcrLWbHewCKkpSkyV+JjAzImFc5GGvVHCPfB3RJqzESRGERrY78u8AKjKBpRwcTodUrM2jWEHhF77wFPhAJyFyWgSUwJAyMBJPoYtEdE6tDvMenwHvJvrY4JWB9wZlwy+BZJ3umM6y4THL8xvPsBbLTMpE0LWixGMM7brFAenjwhfaTtLh/6yMh41Fc1AGpayCbIzBQN+SHNLvizQ44NVbJmJfYHj7pM6mg/YnX7KcHtCug==;drOjwZyxDjaqmlb8FDn47Q=="
 ---
 

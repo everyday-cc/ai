@@ -126,22 +126,6 @@ related:
         width: 1200
         height: 1125
         isCached: true
-  - title: "Three Easy Ways to Make AI Chatbots Safer"
-    excerpt: "The tech industry is rushing headlong into the chatbot gold rush; we need prompt, focused regulation that keeps pace"
-    publishedDateTime: 2023-03-17T00:00:00Z
-    webUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/"
-    ampWebUrl: "https://www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/three-easy-ways-to-make-ai-chatbots-safer/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/0726CD04-630B-4606-8FC0B8FD43CC4B18.jpg"
-        width: 791
-        height: 496
-        isCached: true
   - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
     excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
     publishedDateTime: 2023-03-19T05:59:00Z
@@ -187,6 +171,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
+    excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
+    publishedDateTime: 2023-03-21T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/03/21/google-bard-chatbot-launch-us-uk/11514309002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 28
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ubLfRMTQLgkDKwx3Vx8ib/r3F+d+4j1fTEwp/jEkGklT7SDwktLoyuuQrIqNLevePmCJAoBntEi6Ypz+clTISZtbzVmsoxuxU8Xemazutkg6hQNTyvgm4uXUWL0Dje3o3caKm27+orzCTM1y5R8Yxib4VIgQjXmscFxChShE95txeFLuEeRONzDz1b5SEBVp4pdGgxpVIdhEqtESAMkU0TlAbPv9i+oL3eXzLpk5LwnpawMLVLK0+tcrgn7YbdCoKo/EsVHD4tPk+OWqKuSGo4odr0arzEDuP6UdSJIAYLcn6eg8+5jQWbaY4OYXB446DZugnvsQp6zHPkLuB0ZGZ03VkFHIVrKj+Tpyy0B/Ft7762LBDmilCw7npf/fbCt1mx8Tc4DaXOhyqPgDQWdLzEuVeTxd47w+UJjgiCcqaXtrH5IQQ9/9V0DWNCDX6LDPbkDXGRDoDyzZgBTs4KNTLSwP+ZaeZBn8CoDUsk2DV8tkuzsiXNhVg7oCPp+yr7T9l03FNWDh1PQT4V802WDY5A==;o+krUjIqwqE83sUg+wwmWw=="

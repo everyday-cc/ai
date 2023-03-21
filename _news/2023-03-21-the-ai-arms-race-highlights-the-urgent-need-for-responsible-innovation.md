@@ -74,6 +74,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Adobe Offers More Responsible Generative AI"
+    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
+    publishedDateTime: 2023-03-21T14:27:00Z
+    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "rKZUrWwdKEjV2kEczQkZwxC0X+fEXjEKzObUzkudsROVd6Opy16oMdtwqyc7tDGSQy2xQibT7inwPgrLBmIY43nVw79sSe9GSZ2Ljl0pYsj4YlMkRMZ5y5UisuwskWrhjFxkjugczmFdJXHwEGfWwZVi/F0SctST+QakWNjJOaLMjEE8Y8iRJXUbapmyDENa9RBuSVl36Iuhm0W7q94KlozKXg4U5w+zGVf/Uj8idBHN2LRTJSfpkjf+CAmPzl3CjBxEs5eYqLmc0obCwT/vxkRgQPa91tnUy9DVczSk9DFoTlczuAbS7mslI2Y2y9AwW/q/n0GOfj/dciLyMjGCDuwSApMHJXPUNo4ZMXWqDdx6WS31m08nJnZbN05EZ96tZmCm1Xm7xWXbkOAREDk6loKUm8ugnosE/w2WnYPfGL2H7hqW3Uns40vYUB2fo+sLeyuMvlYnFw20DOCpxoNfDqKuuj8i9e8I/TTfi7cz+E9OPBesdpf30EuwjNAMyr3zlRynwUJWgUHyb4TI9tZ/IQ==;Vdk+9DodLri5MzmpwPODwA=="
 ---

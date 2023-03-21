@@ -19,36 +19,60 @@ topics:
   - AI
 
 related:
-  - title: "COQUI : A Generative AI Speech Innovation Will Revolutionize This Market"
-    excerpt: "Ex-Mozillians raise $3.3M for Coqui, generative AI speech synthesis for all creatives Coqui enables creatives to quickly and easily create, cast, and direct AI voice actors without all the hassle."
-    publishedDateTime: 2023-03-19T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
+  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
+    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
+  - title: "Adobe Experience Manager Adds AI-Powered Content Insights, No-Code Website Editing"
+    excerpt: "New AI-powered and no-code features coming to Adobe Experience Manager (AEM) will enable marketers to create personalized content at scale with greater effectiveness."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/21/adobe-experience-manager-adds-ai-powered-content-insights-no-code-website-editing/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64175a98fd43cd008f7ffb6e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 714
-        isCached: true
-  - title: "Artificial Intelligence accelerates the fourth industrial revolution"
-    excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
-    publishedDateTime: 2023-03-18T13:36:00Z
-    webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
+    quality: 41
+  - title: "Adobe is bringing generative AI features to Photoshop, After Effects and Premiere Pro"
+    excerpt: "Firefly, as Adobe is calling the new system, is actually a family of generative AI models, the first of which is trained to work its magic on both images and font effects."
+    publishedDateTime: 2023-03-21T13:58:00Z
+    webUrl: "https://www.engadget.com/adobe-is-bringing-generative-ai-features-to-photoshop-after-effects-and-premiere-pro-130034491.html"
     type: article
     provider:
-      name: The Tico Times
-      domain: ticotimes.net
-    quality: 39
-    images:
-      - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 40
+  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
+    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
+    publishedDateTime: 2023-03-21T13:03:00Z
+    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 21
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "High-Tech Touchpoints Are Changing Customer Experience"
+    excerpt: "We see three opportunities for business leaders who want to enhance their companies’ CX and drive greater satisfaction. First, focus on frictionless commerce. Second, consider augmented experiences. Finally,"
+    publishedDateTime: 2023-03-20T12:26:00Z
+    webUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 4
 
 secured: "FSI7mXpDTEvE9AmK9UZ5iaZWW348okoKMpY0IJo4NxcK2+Gp6+QXCk1WZgqxbSfmtWSWMiwEwDoolqTreRq5a6iFwyDV1VYcjJZOmaH/DMrAK8+tT1ERbKSMKQvGD1vO3V69fjZg67nMZCBbAiX+HTLoCFhA6uULfU+tZGrF5JE+NX7vngLdYxxtUmxbDs2W2mRiWxft7PtMT465Sk/Sed0+8hgEw2CXAahuMQO+hCFL1N21CBlkHFe3B27cl6LWfwHiEwwAF1Q+4LDoUuE5v39cu6tPxHQvn4X0116WFy7em/k69M4jiL8qrpJNuGp9ZOdkbeq+Po7ytUIAVNmjdGmGBQiGymVfYpGvGQKVenU=;IOp8G73eDO1xXqpoLimxyQ=="
 ---

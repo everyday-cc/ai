@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-hi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/"
 type: article
 quality: 119
-heat: 190
+heat: 220
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://images.mktw.net/im-608401/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia brings on new advances in robotics and computer vision AI"
+    excerpt: "Nvidia Corp. is expanding its tools for robotics and the artificial intelligence that power them through improvements to the platforms that developers and engineers use to train and deploy autonomous machines in factories, offices and cities. “The world ..."
+    publishedDateTime: 2023-03-21T16:22:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/nvidia-brings-new-advances-robotics-computer-vision-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 88
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-Isaac-Robotics-Platform.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nvidia introduces cloud services for customizing artificial intelligence models"
+    excerpt: "Nvidia is offering a new set of cloud services, called AI Foundations, that let businesses create and use their own AI models."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-introduces-cloud-services-for-customizing-artificial-intelligence-models/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_AI_Foundations_032123.webp?w=1200&strip=all"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Nvidia’s Growing Momentum In The Public Cloud"
     excerpt: "One of the challenges of working with state-of-the-art machine learning is that the hardware is relatively ... many of which date back multiple generations. At the high end, Azure, Amazon Web Services, Google Cloud, and Oracle Cloud offer instance types ..."
@@ -116,6 +146,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
+    excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
+    publishedDateTime: 2023-03-21T16:36:00Z
+    webUrl: "https://insidehpc.com/2023/03/nvidia-claims-iphone-moment-of-ai-at-gtc-announces-raft-of-ai-related-chips-systems-and-services/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
+        width: 600
+        height: 318
+        isCached: true
   - title: "Nvidia finds strength in AI era"
     excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
     publishedDateTime: 2023-03-21T01:32:00Z

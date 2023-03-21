@@ -60,37 +60,49 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft adds AI tools to Office apps like Outlook and Word"
-    excerpt: "Microsoft is marketing the feature as a tool that will allow workers to be more productive by freeing up time they usually spend in their inboxes."
-    publishedDateTime: 2023-03-17T00:22:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/microsoft-adds-ai-tools-office-apps-outlook-word-rcna75373"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna75373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna75373"
+  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
+    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
+    publishedDateTime: 2023-03-21T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/200327-microsoft-logo-ew-448p-acdab6.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft laid off an AI ethics team"
-    excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
-    publishedDateTime: 2023-03-16T23:36:00Z
-    webUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/03/microsoft-laid-off-an-ai-ethics-team.html/amp"
+  - title: "Microsoft Adds DALL-E AI Image Generator to Bing"
+    excerpt: "Microsoft on Tuesday announced that it is using an advanced version of Open AI’s DALL-E image generator to power its own Bing and Edge browser. Like DALL-E before it, the newly announced Bing Image Creator will generate a set of images for users based on a line of written text."
+    publishedDateTime: 2023-03-21T16:00:00Z
+    webUrl: "https://gizmodo.com/microsoft-adds-dall-e-ai-image-generator-to-bing-1850247593"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 91
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/01/microsoft-openai-chatgpt.jpg"
-        width: 960
-        height: 540
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/437bc7da01d90b82f97eb88c6dd7b4d7.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
+    excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
+    publishedDateTime: 2023-03-21T17:28:00Z
+    webUrl: "https://www.engadget.com/microsoft-brings-dall-es-ai-image-generation-to-bing-and-edge-152749735.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/ylZZRzVcjs_9qLYNyVItDg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/7b095760-c7f8-11ed-acef-77bea38b0e95.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
@@ -172,20 +184,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft adds AI tools to Office apps like Outlook, Word"
-    excerpt: "- In this July 3, 2014,  the Microsoft Corp. logo is displayed outside the Microsoft Visitor Center in Redmond, Wash. Microsoft is infusing generative AI tools into its Office software, including Word,"
-    publishedDateTime: 2023-03-17T00:22:00Z
-    webUrl: "https://www.chron.com/business/article/microsoft-adds-ai-tools-to-office-apps-like-17843927.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/74/25/23577944/3/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Microsoft pimps Office with AI"
     excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
@@ -291,6 +289,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
+    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
+    publishedDateTime: 2023-03-21T16:35:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
     excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
     publishedDateTime: 2023-03-20T10:43:00Z
@@ -324,6 +336,6 @@ related:
       domain: iol.co.za
     quality: 21
 
-secured: "4ZqdWZwL0d7/durLhyWznVOrxV2X40jHhzQbPh5nLyXyaQDZYvI4hI6QRXn84BPhFExmpq+GZ5Y0ctNPnHF6IsE+LcLbY8ALaGgSG5ozJirXG40SNr5hj7dDNXquw9O64WuUuAYlvlP4IR1psJkxUzZHMTXq+6XaYnfonzEOk13P9C88/SNhFKtjtBITAnTFmBMu9MofMzp6Ezn1tViqw0EogEjARGz1+5Av6yd9s0cgUzdiYzxGmr7ZBGjpN0wFFs6R/vRbvMInobMjUkw1v8gr02hWa+ewzEYANUuGKzy4txCm7dHhsceU8ZQKTiW4C80gYqBYjbLQZZqHWfmTOL3HDoLokgZOJE3ES4wRUb8=;Knj+5+xziYZIzPhQKpudAg=="
+secured: "Wq9BcGAGL/PA5d3XY7GE4OdTYUmIIPBBX5TxHPQ+/inIf+HlbrCfhbCEoidHu1E3E2ENxGcPNP6ORi4B3Lg/22/69odMWb5pbmrv4f/4e9DZSSjAw1ABNdKKBIJ7KUHQmSNqgKsqcyQMzmizMpytD/42iOGIg3arHdztrwHyx/OLEI9M8i64vaiUt90j8nOuMAYECmOYdEcQF59bazHFAozXpfhvDpsYZtfWNfznauG4bUr5HocxhCjXEpqLVdOqnvsNwG4FX4Z2uoHbJ2QDN9Tjuthc8C9OG+HY+KulPgF1HkX0m2UAaZw+u6i+UfYseU7V/Q+04UOD7y/sIjeu9L5c//pixX4Z9LTjPrDFYwGUGfjD1/8YHA2fa9BOB2UZE+/aJO744NzYnlu3yACGOXI37bdz/lkzWU9fX8DaXPpI15cyElS+gZQDa4zD6aKvrtmyCTS+fyRiyXVXF2WIMfuDs+GspzXKqJEfoAUqAFLbk3viRRrsZ+P0vVlCsUteByd1wftuAXB/D4P2L1O+3g==;H9vaGQTc8VB3hn+VkIBw1w=="
 ---
 

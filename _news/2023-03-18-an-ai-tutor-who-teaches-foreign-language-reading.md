@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-ai-foreign-language.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-foreign-language.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 2880
     height: 1915
     isCached: true
-
-related:
-  - title: "ETRI introduces AI tutor who teaches foreign language reading"
-    excerpt: "ETRI has already developed AI-based conversational foreign language education technology and provided ... pronunciation evaluation technology, machine translation technology, and dialog processing technology for reading education developed by ETRI ..."
-    publishedDateTime: 2023-03-17T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/982519"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/338998e7-6d7a-4dd1-ac5d-d0f876dfe440/Rendition/low-res/Content/Public"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "L65qq1JktR7wt5zBqNb90mqPHe6aJT5imCUMWcJi1CQWaC9zrZU3RR+GWJFQJqSw6luQ/o4vcEUdQmED3ehCfYjucNKYaDj7cZUv0BZNGLj0RWBFUyGudhyYR9PNsIK2lpE5n+tS3vinjRKf4aL8sv4WMmbW23BOKmUUcTiF+2idOghVGa++QKcwKQfyzm//t8HX5y97bGywwfP0It7ITlWeVYhB1aU4S/vDDB5njVh6BiRESzKxJqk5u5DThSitrwAj2Mm//8anq+oONF3TUCk9FcBQbfqziRT2vAEhMmmSpHlEsgFzC/z72o3uIfO64fBR6ftg58heP34NOP70LNYLKvIjN2FbOB+zmcU63yuPZXIO/fh3bhJ2ZKNO1+UXW6s1cAi2NgN5vFG51sctDRiWwESFiJdiZYxlBhiOHkPoD1TqjYMdF4ibNkqkFl4t8CVmIk+xxo6dUMUP/8zQh8uq6Nzfr87lv1jy9GPo3afhQxZSmQUkThump1e/dB32X52UnaJXFY72vDOmmkdzrg==;xvd+QZ7hOn5vFDbqJs85bQ=="
 ---

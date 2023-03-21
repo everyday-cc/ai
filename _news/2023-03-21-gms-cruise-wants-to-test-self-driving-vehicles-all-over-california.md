@@ -58,20 +58,20 @@ related:
         height: 681
         isCached: true
   - title: "Cruise wants to test self-driving cars all over California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-21T02:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+    publishedDateTime: 2023-03-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California skeptic of facial recognition use by cops now sees an opportunity"
-    excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
-    publishedDateTime: 2023-03-16T23:27:00Z
-    webUrl: "https://www.biometricupdate.com/202303/california-skeptic-of-facial-recognition-use-by-cops-now-sees-an-opportunity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
-        width: 2048
-        height: 792
-        isCached: true
   - title: "GM's Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
     publishedDateTime: 2023-03-21T01:32:00Z
@@ -118,6 +104,6 @@ related:
         height: 630
         isCached: true
 
-secured: "R+NM96IGeH6mtiSJlRFZW72WQeXSEySPQ5aQRO2sAtSqJP+DCr7ZCfvuCdriDt4rM9dnUhSp6lQC254XfJUcYmqEYXV1zJJKrbEhVH31OpzM5jch6M+ajVfH9jqnFARKMRT+naQ/C4kp/4NUs3imaG9FGm16PhseOkaiUveelkGSif8sczBoVrv8x5ZAVWFFHOykfvkHf10rHbn1Rgnl98IOjxLAoPxTORGLDhz+1SYZCTzJO+0hfG0JvZfmHx2StBoYtFmkiqWsRG/TM7DN5D7iM219gPXWpveDnm8bJJ4MfJYSZ3WHDxZZOnGE2odOBmJbNmS3OfdU2TudhF2Ls4Gi9xjp1HkGmY2co39rMGk=;1FMgZ2Z7q4kEDUXv5a2dcQ=="
+secured: "nEub5vXv4gJX9mHwTDcMC4ZoRusmNqSPJrKkfP82FJAlcl+xt6rw9VkGCgQZVMnr2qFd8d+G1YmhT20KlzS8/Inqwf9VDeqQOUstmLzMBnTLB9V4cuV51httiifT1BWip6gbp3R8JfbcA6d9UFU7Lanhq2Kj+HOkELYILV+J13/3vqLLCh/4sNlBQGulqvU3xryn8xMfWCCXQ1cQOnfa2BoxGqbBsL//8DC47CfIoNAT1kt+6o70mHJv4O46V1XE7PgBB7WOMKyI6MWO2qAMzK85qbsdj5iXTEdl9o1AAPo4X6oIFZ3oRtgs9IvFX0zCMNn4Nn43OICt4SxYd+U5cD7USKQFsGZyoSBNiYv/w1O31iH2VirguBM/fBqRBtZ40QE9UU69Gs3pw57cVleDvjWipnaO5GJ2v2V3Y1MochFybd/fzuIsJhr55aMlYroR47QNYOuHwJ4HPs1Pn+bZlFm3Um7Vz+nLJom2eQxebkhpdSgwc69x20s980vjj1UAb1HzPFPGgWydob7syGmn0w==;LuNyDnYCd04j+Coq7eqLag=="
 ---
 
