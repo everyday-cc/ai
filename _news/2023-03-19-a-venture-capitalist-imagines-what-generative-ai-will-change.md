@@ -44,6 +44,22 @@ related:
         width: 760
         height: 388
         isCached: true
+  - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
+    excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."
+    publishedDateTime: 2023-03-21T14:55:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/13/92573a0e-fc47-48ea-8334-87d766b77d74/thumbnail/1200x630/ad280664913b44f4036b7e618dcd5c21/gettyimages-1246902152.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Bard waitlist – how to get an invite to Google’s AI chatbot?"
     excerpt: "If you’re trying to get an invite to their now released AI chatbot, you’re going to have to get to the ... We can’t wait to hear how people start using Bard, but we also know that large language models will not always get it right."
     publishedDateTime: 2023-03-21T15:34:00Z

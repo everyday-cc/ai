@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urge
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
+    excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
+    publishedDateTime: 2023-03-21T19:34:00Z
+    webUrl: "https://www.itworldcanada.com/article/the-urgent-need-for-better-governance-of-artificial-intelligence-highlighted-in-a-new-book-by-mila-and-unesco/533992"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 0
 
 secured: "4jBQmjOuDy6JG07Bo5TH4m2Iv0mc4qlmYxgqd01cQQLsidQ6BQk3vI0m7JQgXVqkBDnBu0kkvNRASoGzAO6AfgMPXRgXdAe2rGr/q5MyaKav2/HQrQB5SsCNZLeJT+RLsDPEKJr95RAKubbiGFnPvLWtbx2asVD52+mmAGvVB+byw5o1wbtHlesszLRLzeGhbrDMvpGHe21MiiZWTvILxdcSIIO3Gxjp+4h9Whmvp7QmH3SLXYLh/ZD+/Q+k0/enyE6ZfLgZfJO+BOEbwa/rW1ib31hPvg+ONoovhcXPBXmRYRbdMB1OO0WLIRnYJ1Sv4F6DQbnD6WsJs3qvNg/ICeQdfAJ065rSSa5c/qMLhNrOYdj1ZhjFwdefbgVC0Hrc0qvq6nZq3nPlrJPTlwUL6Fjl9UMNFV5Fwz+8l6wuvBWvz8we81H6ebgcXxI9cjd030dPlxBqJcINoua9/c+6ajTV2/M7cHESLlZtY48tDSxPdrB1NvntmkorzC30njpWsFUVw0R+cu/FMTu280Z80g==;lilD0IptERNXROoAu0eEzA=="
 ---

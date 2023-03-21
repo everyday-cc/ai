@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market Trend 2023-2028, With New Survey"
-    excerpt: "Report Highlights with 104 pages: -\"The global Artificial Intelligence market size was valued at USD 59732.12 million"
-    publishedDateTime: 2023-03-17T04:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-trend-2023-2028-with-new-survey-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and Big Data Analytics in Telecom Market 2023 Expected to Reach Significant Rate by 2029"
     excerpt: "Market Growth Report Has Segmented the Global AI and Big Data Analytics in Telecom market report based on Type (Cloud Based, On-Premise, ,), Application (Cloudera, Affirm, Fico, Amdocs, China Unicom, Iberia, Amazon, Facebook, AWS, Dell, Airtel, Google ..."
     publishedDateTime: 2023-03-17T20:14:00Z

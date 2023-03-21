@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T18:51:00Z
 originalUrl: "https://www.abc.net.au/news/2023-03-22/how-ai-heart-technology-helps-remote-patients-get-ultrasounds/102123878"
 webUrl: "https://www.abc.net.au/news/2023-03-22/how-ai-heart-technology-helps-remote-patients-get-ultrasounds/102123878"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Australian Broadcasting Corporation

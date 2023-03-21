@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-
 ampWebUrl: "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 81
 published: true
 
 provider:

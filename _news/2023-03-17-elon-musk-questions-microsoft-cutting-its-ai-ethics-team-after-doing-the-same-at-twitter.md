@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-
 webUrl: "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Mashable
@@ -26,98 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
-    excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
-    publishedDateTime: 2023-03-21T00:53:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 739
-        isCached: true
-  - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
-    excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
-    publishedDateTime: 2023-03-21T15:08:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/51bc512df0a7fcf9cbd9bff203649bb9961e637a/hub/2023/03/21/72c5b735-0d39-45be-919d-3af6f32e03cf/screen-shot-2023-03-21-at-11-06-04-am.png?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
-    excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"
-    publishedDateTime: 2023-03-17T08:13:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: engadget.com
-    quality: 102
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
-    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
-    publishedDateTime: 2023-03-21T09:51:00Z
-    webUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/"
-    ampWebUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 73
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
-        width: 794
-        height: 446
-        isCached: true
-  - title: "Microsoft’s new Copilot will change Office documents forever"
-    excerpt: "Despite reports of Microsoft laying off its ethics and society team that taught employees how to make AI tools responsibly, Friedman says Microsoft is growing the people working on these concerns."
-    publishedDateTime: 2023-03-17T14:06:00Z
-    webUrl: "https://www.theverge.com/2023/3/17/23644501/microsoft-copilot-ai-office-documents-microsoft-365-report"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/FRBC6Ge0eAbFQ33e2TAGbbl8E90=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24515603/m365copilot_business_1920x1080_web__1_.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
-    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
-    publishedDateTime: 2023-03-17T22:33:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
     excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
     publishedDateTime: 2023-03-20T12:30:00Z
@@ -127,29 +35,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
-  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
-    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
-    publishedDateTime: 2023-03-21T15:41:00Z
-    webUrl: "https://www.pharmiweb.com/pwtoday-story/syneos-health-collaborates-with-microsoft-to-accelerate-ai-across-the-clinical-to-commercial-continuum"
+  - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
+    excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
+    publishedDateTime: 2023-03-21T19:27:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58614936-nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud-399.htm"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 38
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
-    excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
-    publishedDateTime: 2023-03-20T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
 
 secured: "+/H0gIqRhbpCtpaqGVlh6fMZxYzsV1fGA0PX4wmieqmZQZfCJdlgCpiyKn+sW4H2ZWg3JjmCxbyBaUXxj0dxhPv5+yxFHOmy9ZS9dU2AWmDi2uf+IG3O8u3TawLKAF0cqZsKgyXl2X1DJ6hC/1TtVosoylvFw0kT0d20wYJwnU1cuGYpmUaZQLSIrZvTMkTV714ad61wV2RUl/spLO3xUx/PgGk+sw5wXX4TvLGWFslt5RtkcLy8g5C/q46rH4eSA8rw3RDnNCFmIscRPH6ducKQCU22nxIPQEXqxgZ3uAJE/2B9rlrAGT84AmtqdyZxmKHoq3ry5bfotcnWj0EAJSr9AodOXiPaXDfBsepnvhh0D7vUCVZjj+IZy+ja5/pjdWdzysbi7drHsquQikG4GDjrg/R29+jLHHDVEN+XDNneOBAPZuQkvorZ7LSdr9Pu8gns68Irz3iKPzB9qmuKj/4L7P2mIhG1X44pL/vDSWnhWjVhxWyE6lChMOsArWzunLkxNBwge0+ojvaxXP4PEw==;hjukH4yoO+RG5tBTrPDdZw=="
 ---

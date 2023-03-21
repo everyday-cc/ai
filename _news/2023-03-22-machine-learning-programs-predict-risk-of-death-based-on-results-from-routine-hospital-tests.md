@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T18:19:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-machine-death-based-results-routine.html"
 webUrl: "https://medicalxpress.com/news/2023-03-machine-death-based-results-routine.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Medical Xpress

@@ -2,6 +2,189 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-01-27-4-ways-fintech-changed-business-financing.md",
+      "title": "4 Ways Fintech Changed Business Financing",
+      "excerpt": "Fintech’s influence will continue to ripple in the finance world as technology advances, but here are four key impacts our industry has had so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6170329671bdc8c063550907/0x0.jpg?format=jpg&width=1200",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/01/27/4-ways-fintech-changed-business-financing/amp/",
+      "publishedDateTime": "2023-01-27T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.md",
+      "title": "“Robot lawyer” pulled from first court case over jail time threats",
+      "excerpt": "CEO of the New York-based startup DoNotPay, Joshua Browder ... being threatened with possible prosecution and jail time. The “robot lawyer” technology relies on a few prominent AI text generators — such as ChatGPT and DaVinci — to dictate responses ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/478011-robot-lawyer-pulled-from-first-court-case-over-jail-time-threats.html/amp",
+      "publishedDateTime": "2023-01-27T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence.md",
+      "title": "All In On AI: How Smart Companies Win Big With Artificial Intelligence",
+      "excerpt": "AI has been hitting the headlines recently, with generative AI, in particular, generating a great deal of interest. Two tools - the large language model chatbot ChatGPT and image generator Dall-E - have caused a big stir since launching as public betas in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d37f2aff185a2577a89c49/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/27/all-in-on-ai-how-smart-companies-win-big-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-26T22:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-deci-claims-breakthrough-inference-performance-on-intel-sapphire-rapids.md",
+      "title": "Deci claims breakthrough inference performance on Intel Sapphire Rapids",
+      "excerpt": "Israeli startup Deci claims to have achieved breakthrough performance in running computer vision and natural language processing (NLP) models on Intel’s latest Xeon processor. Delivering GPU-like AI inference performance, the breakthrough was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
+      "originalUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a264431831.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252529647/Deci-claims-breakthrough-inference-performance-on-Intel-Sapphire-Rapids?amp=1",
+      "publishedDateTime": "2023-01-26T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-sean-hannity-biden-is-mired-in-scandal-and-plagued-by-his-cognitive-decline.md",
       "title": "SEAN HANNITY: Biden is mired in scandal and plagued by his cognitive decline",
       "excerpt": "Fox News host Sean Hannity questioned whether President Biden fully comprehends and understands what exactly is going on ahead of debt ceiling negotiations in Thursday's opening monologue.",
@@ -968,206 +1151,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-co-lawmakers-look-into-artificial-intelligence-to-identify-wildfires-early.md",
-      "title": "CO lawmakers look into artificial intelligence to identify wildfires early",
-      "excerpt": "A bill was introduced in the Colorado legislature and is proposing a $2 million pilot program that may use artificial intelligence to detect wildfire early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "originalUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daa64398-7c35-4780-9515-f943a69ee32a/e774c2ef-5e3a-448c-9489-b441bf0cf811/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-lawmakers-look-artificial-intelligence-identify-wildfires-early.amp",
-      "publishedDateTime": "2023-01-26T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-nist-releases-new-ai-risk-management-framework-for-trustworthy-ai.md",
-      "title": "NIST releases new AI risk management framework for ‘trustworthy’ AI",
-      "excerpt": "Today the National Institute of Standards and Technology (NIST) released the first version of its new AI Risk Management Framework.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
-      "originalUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-12.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/amp/",
-      "publishedDateTime": "2023-01-26T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
-      "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
-      "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence.md",
-      "title": "University Of Texas, EdX Team Up To Offer New Online MS In Artificial Intelligence",
-      "excerpt": "The University of Texas at Austin is partnering with edX, a leading online learning platform founded by Harvard and MIT a decade ago, to offer a low-cost, online Master of Science degree in Artificial Intelligence (MSAI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/616fead4f21964288cb397dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/01/26/university-of-texas-edx-team-up-to-offer-new-online-ms-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

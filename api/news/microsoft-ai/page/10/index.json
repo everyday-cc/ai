@@ -2,6 +2,161 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-06-microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-torn-over-cloud-biz.md",
+      "title": "Microsoft's AI Chatbot Could Bring 21% In Gains For Stockholders, But Analysts Are Torn Over Cloud Biz",
+      "excerpt": "Analysts Gil Luria and William Jellison initiated coverage and are expecting the company’s stock to gain over 21% in the next year, projecting a price target of $270 against a current price of $223. Microsoft’s stock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/05/matthew-manuel-bhlsbx-0rnm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "GEP'S INDUSTRY-LEADING PROCUREMENT & SUPPLY CHAIN SOFTWARE NOW AVAILABLE IN THE MICROSOFT AZURE MARKETPLACE",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to GEP SMART™, to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesCLARK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
+      "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
+      "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/bright-outlook-a-brief.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
+      "publishedDateTime": "2023-01-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility.md",
+      "title": "Hyundai Motor Group’s Supernal Collaborates With Microsoft to Advance Critical Technology for Advanced Air Mobility",
+      "excerpt": "Supernal announced a collaboration with Microsoft to advance autonomy, digital operations and cloud integration technologies for the aviation industry by running advanced air mobi",
+      "sourceUrl": null,
+      "webUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "originalUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AviationPros",
+        "domain": "aviationpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-idc-marketscape-deems-sas-a-leader-for-machine-learning-operations-mlops-platforms.md",
       "title": "IDC MarketScape deems SAS a leader for machine learning operations (MLOps) platforms",
       "excerpt": "SAS has been named a leader in the inaugural IDC MarketScape: Worldwide Machine Learning Operations Platforms 2022 Vendor Assessment (doc #US48325822, December 2022). The report noted that as organizations are moving more models from experimentation to production,",
@@ -1125,196 +1280,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
-      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
-      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-685993/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
-      "publishedDateTime": "2022-12-15T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
-      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
-      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png",
-          "width": 1575,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-study-shows-eating-healthy-foods-may-slow-rate-of-cognitive-decline-later-in-life.md",
-      "title": "Study shows eating healthy foods may slow rate of cognitive decline later in life",
-      "excerpt": "While the study does not directly prove flavanols cause slower rates of cognitive decline, the cognitive scores of people who ate foods higher in flavanols declined 0.4 units per decade, slower than those who ate fewer flavanol-heavy foods. The specific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.idsnews.com/article/2022/12/study-shows-eating-healthy-foods-may-slow-rate-cognitive-decline-later-in-life",
-      "originalUrl": "https://www.idsnews.com/article/2022/12/study-shows-eating-healthy-foods-may-slow-rate-cognitive-decline-later-in-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/ids/7db1fbe6-a4e2-437d-8613-9f2d62fbfaac.sized-1000x1000.jpg?w=800&h=600",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T13:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiana Daily Student",
-        "domain": "idsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-exercise-mindfulness-dont-boost-cognitive-function-in-elderly-study-confirms.md",
-      "title": "Exercise, mindfulness don't boost cognitive function in elderly? Study confirms",
-      "excerpt": "An extensive study that looked at whether mindfulness training and exercise could improve cognitive performance in older persons showed no such improvement after either intervention. Researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/12/14/1600x900/pexels-brett-sayles-3729182_1664608913158_1671016541290_1671016541290.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
-      "publishedDateTime": "2022-12-14T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

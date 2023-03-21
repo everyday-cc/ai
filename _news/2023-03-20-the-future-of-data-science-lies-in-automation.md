@@ -149,22 +149,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Harnessing the power of AI"
-    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
-    publishedDateTime: 2023-03-17T03:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Is AI the future of Hollywood? How the hype squares with reality"
     excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
     publishedDateTime: 2023-03-18T14:48:00Z
@@ -271,6 +255,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
+    excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
+    publishedDateTime: 2023-03-20T15:42:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/03/20/in-the-wake-of-chatgpt-the-race-for-artificial-intelligence-is-on_6020062_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
     excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
     publishedDateTime: 2023-03-17T17:48:00Z
@@ -279,6 +277,15 @@ related:
     provider:
       name: Jurist
       domain: jurist.org
+    quality: 19
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
     quality: 19
 
 secured: "3CBJ2FVYZ/WO1f60D1s4v9c2obq+SmOEOb/6J45H3rCyK1S4YmUHfQZ3NZeMHKw0M/IP5+BWtzM4eENDS0lLPAcR8A5QqzNOCAcCviugFDi4PUQBaKIYv1EkYBEqhQ2R/RqjL0uRB6lwr1qUBqrgJ+92jqJ23iPCUBayXFuuEXtjrAFLkd0bp1BL+JN6qq7Nv2RKUz+EN+OWysRGcfINCl3T3Tb4ut/aAg5LZBO5X0JUYbN8mJZ+BIxW3jEYOT9EtV6YLxz+3kWpJzfRUjPm7i51EKHiU47kozHE4l4mHLLpuH5LwHtpR1IAqrWdr00IM6vi8YvHSL1Fhmwxqh4jAYzKicqjSwOa7giFy2t9GmgqYFktpRVm5gj4W9SWSmjUNQSx+A5CGmyoSC+KVkPdvm53alXdPwDmknMB9rej+iGCZZPI6W82i3Z0EnnU9TSlCxY2z3a7rK+cb8c48cAsMvbOl7pWDuydGhNxZybgeEHhZUC4mzPpX4TBLBLlabkIaZ7+btm8b+QkUOJcXGvBFw==;Z1PYqLGF6zcH8wAGmlIXrw=="

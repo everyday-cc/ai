@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
+      "title": "Microsoft lays off team responsible for ethical AI development",
+      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
+      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
+      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
+      "publishedDateTime": "2023-03-14T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually.md",
+      "title": "Santos calls for presidents’ cognitive ability to be tested annually",
+      "excerpt": "Rep. George Santos (R-N.Y.) introduced a bill on Monday that would require the sitting president to undergo an annual cognitive evaluation, after GOP presidential candidate Nikki Haley called for ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/",
+      "originalUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/02/santosgeorge_020123ag_w.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/amp/",
+      "publishedDateTime": "2023-03-13T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
       "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
       "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
@@ -151,6 +291,40 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-microsoft-adds-13-new-african-languages-on-its-translation-service.md",
+      "title": "Microsoft adds 13 new African languages on its translation service",
+      "excerpt": "Microsoft has added 13 new African languages to its Microsoft Azure Cognitive Services Translator, allowing text and documents to be translated to and from these languages across the entire Microsoft ecosystem of products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://africabusinesscommunities.com/tech/tech-news/microsoft-adds-13-new-african-languages-on-its-translation-service/",
+      "originalUrl": "https://africabusinesscommunities.com/tech/tech-news/microsoft-adds-13-new-african-languages-on-its-translation-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "africabusinesscommunities.com",
+        "domain": "africabusinesscommunities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1184,180 +1358,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023.md",
-      "title": "10 Best Nootropics, Smart Drugs, and Cognitive Enhancers of 2023",
-      "excerpt": "5:00 AM on Jun 17, 2022 CDT — Updated at 11:38 AM on Mar 6, 2023 CST Nootropics and smart drugs are dietary supplements that provide cognitive benefits such as improved focus, memory ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
-      "originalUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Wi9IMlAYpae9TG8TzIAccthnPM8=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/BYOUMGJ5VZACPFIGZDO2ARV7GI.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
-      "publishedDateTime": "2023-03-06T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-therapeutic-ketosis-for-mild-cognitive-impairment-alzheimers-and-parkinsons.md",
-      "title": "Therapeutic ketosis for mild cognitive impairment, Alzheimer's and Parkinson's",
-      "excerpt": "Review: Ketogenic interventions in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease: A systematic review and critical appraisal. Image Credit: Atthapon Raksthaput ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740699_16780700168786646.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu.md",
-      "title": "Microsoft Edge Canary can now upscale videos using the power of AI and your GPU",
-      "excerpt": "The feature uses machine learning, artificial intelligence, and the power of a PC's GPU to increase the resolution of videos to up to 720p. The functionality is now available in Microsoft Edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "originalUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DNhWfhWjxiMbh496AfG2KF-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
-      "title": "Choosing Between Azure and AWS: The Ultimate Guide",
-      "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2023_14_52_33_9477074.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
-      "publishedDateTime": "2023-03-06T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

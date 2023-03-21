@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
+    excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."
+    publishedDateTime: 2023-03-21T14:55:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/google-bard-ai-chatbot-set-for-next-stage-opens-up-waitlist/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/13/92573a0e-fc47-48ea-8334-87d766b77d74/thumbnail/1200x630/ad280664913b44f4036b7e618dcd5c21/gettyimages-1246902152.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DDpqys51fX76cGv8C7d2x2FgP3aDP8StSzfiCh9oLSjNGyVd4c6wMC3QSZxn0B/rOn3OGToE03O8xrrpOhoi9njGJN5Pu8Oq5Rd5F76jLjHcfx7F8EMouABEcvi91x6Ty1jYYikU4EHKIT5IkRrwR5PSN/iPVxPbYg8Fty/mn1SsuyPNjiablrE1Mn+ULsJAKS1JRcbIYgmEczjntCUsmmOQr8kQ9IIFukApRCc4LDiqBZ/1JrrKuGBeZMnAthIOr/+JOayoGYc+NojxwRPoNO/lW+MZxWX+Vy6k4KSJmyFaOL4NJVgrUbiIejkbcoXWUxCJ08uNWIfXocV9xyMg7JCoTvjFWvEXN+0ztfOFz2Y=;fmL1LEShOsCf+ZpG53h05w=="
 ---

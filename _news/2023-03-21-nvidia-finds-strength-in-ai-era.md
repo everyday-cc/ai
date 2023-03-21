@@ -71,6 +71,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA Eases The Complexity Of Robot Training"
+    excerpt: "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI)."
+    publishedDateTime: 2023-03-21T20:01:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg"
+        width: 1088
+        height: 725
+        isCached: true
   - title: "Nvidia introduces cloud services for customizing artificial intelligence models"
     excerpt: "Nvidia is offering a new set of cloud services, called AI Foundations, that let businesses create and use their own AI models."
     publishedDateTime: 2023-03-21T16:15:00Z
@@ -156,6 +170,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 49
+  - title: "NVIDIA unveils AI Foundations, its customizable Gen-AI cloud service"
+    excerpt: "NVIDIA debuted its AI Foundations cloud services on Tuesday -- now most anybody can build their own chatbot or text-to-image generator.."
+    publishedDateTime: 2023-03-21T17:51:00Z
+    webUrl: "https://www.engadget.com/nvidia-ai-foundations-customizable-genewrative-ai-cloud-service-161505625.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 49
   - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
     excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
     publishedDateTime: 2023-03-21T16:36:00Z
@@ -164,12 +187,30 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
         width: 600
         height: 318
         isCached: true
+  - title: "NVIDIA GTC 2023 Keynote: AI Everywhere, All At Once"
+    excerpt: "This year, Huang discussed how NVIDIA and its partners are seeking to overcome a breadth of challenges with AI technology. NVIDIA H100 NVL With NVLink Huang announced a new GPU, the H100 NVL with dual-GPU NVLink. This new GPU is based on NVIDIA's Hopper ..."
+    publishedDateTime: 2023-03-21T18:07:00Z
+    webUrl: "https://hothardware.com/news/nvidia-gtc-2023-keynote-ai-everywhere-all-at-once"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 21
+  - title: "Nvidia turns to AI cloud rental to spread new technology"
+    excerpt: "the world’s leading acceleration software suite for development and deployment of AI. NVIDIA is partnering with cloud service providers to host DGX Cloud infrastructure, starting with Oracle Cloud Infrastructure. Microsoft Azure is expected to begin ..."
+    publishedDateTime: 2023-03-21T19:19:00Z
+    webUrl: "https://infotechlead.com/networking/nvidia-turns-to-ai-cloud-rental-to-spread-new-technology-77466"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 19
 
 secured: "gb7YELxFgbL91k8XiBoCfyxBpvBs/DdZ1MBv3rgosdqVFasUFfn7Px0IB0Wqf69SzRVpkwKcTgfOdnFGytF5J27VWgD0G5RLR5EJLbDVTBhG2WEzST2bkkBeUxQb9WQVMUOqCjw+zXihiiLtqDK+SV959JHl7InXyIaeT+NIgWO8Z93igE6GJFdsc5LQG5a1sRd6vtwxptlOfBE7Qlv1Nh4/Gp/i4soFLfKHT8B27B5s7Ul5fxR8uY9ZROfW08nxQ0jAVp1KfOyinur5H4bOpFGC4ZmJUW68e37fUasva6OMLGjTO+J9nOtCCyyO1h8qSfmqZqEWePcNC6xVOspyBT2PvoPIZfjzIMohz2JT6lq6jcpFRwmAWUK4HuErfQdGEpfdhaCkCaiHMoJ2T75azPnlOafM9vyKxCH7AOAt4YCVv8T+oPlexZ8BZY+1G4+EUi1yREyl0jvdE3I9BSrR+xjgCM8msZ7Win6sOx6MxWwvdQDP/3M9hXcpRrV7lWMf7ITrrcVMcFHpxznq078auw==;OEakQoKxJV8TWkEiQU1P+Q=="
 ---

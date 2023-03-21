@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T17:59:00Z
 originalUrl: "https://www.constructiondive.com/press-release/20230320-construction-tech-startup-mercator-ai-to-accelerate-growth-with-375m-usd/"
 webUrl: "https://www.constructiondive.com/press-release/20230320-construction-tech-startup-mercator-ai-to-accelerate-growth-with-375m-usd/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Construction Dive

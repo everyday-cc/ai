@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
-    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
-    publishedDateTime: 2023-03-20T17:12:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
+  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
+    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
+    publishedDateTime: 2023-03-20T10:43:00Z
+    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 21
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
-        width: 1500
-        height: 700
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
+        width: 2842
+        height: 1372
         isCached: true
 
 secured: "+cd1M4EY/T3J9gHju80YruhFeHLAzt0hGlIJQ/Jcdd8ziZlZgecWFcVHkqM2Nt3CR71vSPgY6dKbO5hUt0+Y5aDChmsrI2nx/A5g7BaVGa88xSCVWA/P8+YcVrLWnCyKeO/0bDMNzem30I6BYrBLqSQb2QnhPzhNi4wSXJOCJuJl7YOSi/oNFlRcpdFyA0/qWcDXm/yvk5d359o4FpzDf+hafY/0uvJjKZMHiq1DvWxeckQiXpNteCjJdoiZWrsvCSvOaKiCirsKm+rgIsCNeoOq3fB3EudG0Vh/A1wWhQg4NMkJ35QCTah+t+DzFNnZdTmPI4aah9XPs9DCrf/QmvZaTEw/zpRw3v3RpOhAia/rISI/3l/ThcNkUN48bTh7LqkIL8uCfZkL+ku3g99BJHeXoVCgTvZc+dN9SLpWhe3Jww37rRzDjRW7Rjq6c3nxhuEBBMLCIffl7anK2sHLJIshdmGeT3beyiazQBPnGokaK6ZnjEAPisHmXV9sK2EFwMjL3E0M6l04545Vw+ckxA==;I1e2tvVMSbzNGgXQ8YTDBw=="

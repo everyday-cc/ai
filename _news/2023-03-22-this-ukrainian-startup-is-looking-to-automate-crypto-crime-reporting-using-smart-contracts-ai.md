@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T18:58:00Z
 originalUrl: "https://www.coindesk.com/consensus-magazine/2023/03/21/ukraine-crypto-hapi/"
 webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/21/ukraine-crypto-hapi/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: CoinDesk

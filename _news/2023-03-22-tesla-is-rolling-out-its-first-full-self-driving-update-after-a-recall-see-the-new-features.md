@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
 type: article
 quality: 78
-heat: 128
+heat: 139
 published: true
 
 provider:
@@ -101,6 +101,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla's Rolling Out a Revised Version of 'Full Self Driving' After Recall"
+    excerpt: "Tesla is pushing out an updated version of its \"Full Self-Driving\" beta, its semi-autonomous driving system that was recalled earlier this year for behavior that regulators deemed unsafe. The system is not fully autonomous, as it relies on human ..."
+    publishedDateTime: 2023-03-21T18:58:00Z
+    webUrl: "https://www.roadandtrack.com/news/a43375512/tesla-rolls-out-revised-full-self-driving-after-recall/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 33
 
 secured: "33hZK5naR0eAVE9XdzRO+7qZ/P2lx/JLu7KGbp2xOXRAaaAYTdYtrZxDcNz+4uSsJSJqwEtZlMQXwVzxhfG4PjIHSVJxZPp5dmcwHWNGR0sQxjd+2nWiKe7b77Fro+JND1R8+9HbP9prt4697H1jnBRtcW5rDeh/URAALJhmzzi1CnQqyALUMuhapUhxwvsG8UuAw3YhEeqDubldtC1lLumkXEhFKh6Q/lkWM2zo42MSwUoDjDjqZMN/vb1Ubye7SD7/YVgnS9fZYeuaG6KV1HurMZpL8PjPSlV0M7xmKEu7c7Zi3KBKB7gbq0CxanM0yURx51ULRiIKsKjTQm7Q8REmsEg7KbvFyN1/ch7sGZk=;4gXj14piYDo0dtAgPKnsIQ=="
 ---

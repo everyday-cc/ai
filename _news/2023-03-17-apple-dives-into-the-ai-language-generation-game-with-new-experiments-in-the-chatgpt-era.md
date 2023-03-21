@@ -37,11 +37,25 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 100
+    quality: 102
     images:
       - url: "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
+    excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
+    publishedDateTime: 2023-03-20T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moves-ai-pioneers-reputation-management-engine-for-chatgpt-and-other-chatbots-1032178939"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
@@ -57,6 +71,52 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
+    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
+    publishedDateTime: 2023-03-21T16:35:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 42
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "UAE-owned AI language model outperforms ChatGPT"
+    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
+    publishedDateTime: 2023-03-20T08:45:00Z
+    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 39
+    images:
+      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "ChatGPT AI now more powerful"
+    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
+    publishedDateTime: 2023-03-20T15:01:00Z
+    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 21
+  - title: "'The iPhone Moment For AI\" And Nvidia Is Taking Control Of It"
+    excerpt: "He said generative AI's ability to automate and co-create makes it set to ... Microsoft and Nvidia are bringing Omniverse to hundreds of millions of Microsoft 365 and Azure users, enabling developers to speed up and scale up to solve previously impossible ..."
+    publishedDateTime: 2023-03-21T17:49:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/03/31443447/the-iphone-moment-for-ai-and-nvidia-is-taking-control-of-it"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
     excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
     publishedDateTime: 2023-03-20T12:45:00Z
@@ -66,6 +126,24 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 15
+  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
+    excerpt: "NVIDIA today launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
+    publishedDateTime: 2023-03-21T18:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-inference-platforms-large-language-models-generative-/2023/03/21/9780846.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+  - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
+    excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"
+    publishedDateTime: 2023-03-21T19:30:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780845.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "0mkvTtYtQ3wgYjyQ961snijFo/2LuREZ+5v/dnUKGIvzb3IEq/Jp7FXQ6JfAQkNjvAYviOdPjXSv7RSMGVcQu27HXUehOPXv4jFv5l/E8iKDWkjTTwnN7rQKdYfbsgOuTtwDSCHkh0/ONOAcWEr2R2YPkSTVwrnws1CZN5gwF+qFfjQ7c6HGWZN8H1pkNmB7fWHDG+FEyA7nhOzD/jwbBw9XZy8/VyYfPCPAnNI5gdnQD2+hXGnZu03bf6v4FpngEwY+vQeLrUsmiFeB6wfOvJSE9AJo4etkXaCzHKIs4A3iLI7pEIewc4qH9C9UvZr5Tito+hjGoVymq889Ios14oefpVOlMfSpLYwMBnNupqEOo7ROFRGs95XDIf074Q1XYGHft2k7jLG0SK+eyhYmwzbu1KKHAOavZjyc9YCl9HLzkiVHoJpVWH3PN9oUEk5XH7aTaRr0Bkg5A86paXlxvQqNT0PHOdtkT6/aAWbkrHPKHTdIGMIzl3moXktxVXUj98e4nlDT9yZInfyJmyL2Og==;UZGfY1STzqmZL1xTKxzkWQ=="
 ---

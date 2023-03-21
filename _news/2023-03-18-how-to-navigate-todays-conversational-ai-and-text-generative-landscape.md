@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 47
+  - title: "Adobe launches generative AI tools aimed at marketers"
+    excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."
+    publishedDateTime: 2023-03-21T18:11:00Z
+    webUrl: "https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 47
   - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
     excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."

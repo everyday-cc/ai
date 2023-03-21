@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-21-try-bard-and-share-your-feedback.md",
+      "title": "Try Bard and share your feedback",
+      "excerpt": "We’re starting to open access to Bard, an early experiment that lets you collaborate with generative AI. We're beginning with the U.S. and the U.K., and will expand to m…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/try-bard/",
+      "originalUrl": "https://blog.google/technology/ai/try-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Asset_1_-_Bard_Hero_Prompt_xUvec91.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/try-bard/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/try-bard/amp/",
+      "publishedDateTime": "2023-03-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-adobe-firefly-brings-text-to-image-ai-to-the-masses-with-artist-ethics-in-mind.md",
+      "title": "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind",
+      "excerpt": "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
+      "originalUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
+      "publishedDateTime": "2023-03-21T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-a-psychologist-explains-how-ai-and-algorithms-are-changing-our-lives.md",
+      "title": "A Psychologist Explains How AI and Algorithms Are Changing Our Lives",
+      "excerpt": "Behavioral scientist Gerd Gigerenzer has spent decades studying how people make choices. Here’s why he thinks too many are now letting AI make the decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c",
+      "originalUrl": "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-743100/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules.md",
+      "title": "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules",
+      "excerpt": "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
+      "publishedDateTime": "2023-03-21T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-why-its-simpler-for-ais-to-write-about-art-than-for-robots-to-do-your-laundry.md",
       "title": "Why it’s simpler for AIs to write about art than for robots to do your laundry",
       "excerpt": "That’s because Sanctuary AI robots appear to be what science fiction writers have warned us about: intelligent machines that look like us and take away our jobs. Indeed, this narrative trope has been with us for as long as the word ‘robot’ has (coined in the 1920 play,",
@@ -45,21 +243,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-21-biotech-ai-startup-unlearn-adds-15-mln-and-openai-cto-to-board.md",
-      "title": "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board",
-      "excerpt": "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,",
+      "path": "_news/2023-03-21-google-is-giving-pixel-superfans-early-access-to-its-chatgpt-ai-rival-bard.md",
+      "title": "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard",
+      "excerpt": "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/biotech-ai-startup-unlearn-adds-15-mln-openai-cto-board-2023-03-21/",
-      "originalUrl": "https://www.reuters.com/technology/biotech-ai-startup-unlearn-adds-15-mln-openai-cto-board-2023-03-21/",
+      "webUrl": "https://www.androidauthority.com/google-bard-early-access-3300462/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-early-access-3300462/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,14 +267,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T02:12:00-07:00",
+      "publishedDateTime": "2023-03-20T21:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -93,58 +291,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-introducing-gpt-4-in-azure-openai-service.md",
-      "title": "Introducing GPT-4 in Azure OpenAI Service",
-      "excerpt": "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/318a6dc5-e32e-4418-8699-20f05752939d.png",
-          "width": 900,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T01:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -208,7 +354,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -355,58 +501,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day.md",
-      "title": "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day",
-      "excerpt": "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/",
-      "publishedDateTime": "2023-03-20T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -616,7 +710,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/20/filmustage-leverages-ai-to-breakdown-film-scripts-create-shooting-schedules-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -771,7 +865,7 @@
       "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -812,49 +906,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure.md",
-      "title": "KX Announces General Availability of kdb Insights Enterprise on Microsoft Azure",
-      "excerpt": "Representing a significant milestone for its strategic partnership with Microsoft, KX today announced the general",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "originalUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -918,7 +969,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 296,
       "tags": null,
       "images": [
         {
@@ -1167,7 +1218,7 @@
       "originalUrl": "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1198,57 +1249,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-3-ways-ambitious-entrepreneurs-are-using-ai.md",
-      "title": "3 Ways Ambitious Entrepreneurs Are Using AI",
-      "excerpt": "If you’re not incorporating artificial intelligence into your work in some way, you’re behind the curve. Even the most suspicious and non-technical entrepreneurs could save time and money making use of the tools available,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe4eb9a0f2b525e607b7f9/0x0.jpg?format=jpg&crop=1892,1065,x0,y39,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/",
-      "publishedDateTime": "2023-03-20T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

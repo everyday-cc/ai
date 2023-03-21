@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T17:04:00Z
 originalUrl: "https://www.biometricupdate.com/202303/uk-biometric-ethics-group-to-consider-implications-of-gait-and-voice-recognition"
 webUrl: "https://www.biometricupdate.com/202303/uk-biometric-ethics-group-to-consider-implications-of-gait-and-voice-recognition"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: Biometric Companies

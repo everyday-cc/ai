@@ -25,315 +25,268 @@ images:
     isCached: true
 
 related:
-  - title: "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov"
-    excerpt: "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,"
-    publishedDateTime: 2023-03-20T04:28:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
+  - title: "The Future Of AI In Banking"
+    excerpt: "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 111
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6417e675c4ae66004ebdc0cd/0x0.jpg?format=jpg&width=1200"
-        width: 960
-        height: 564
-        isCached: true
-  - title: "AWS Chatbot now integrated into Microsoft Teams"
-    excerpt: "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ..."
-    publishedDateTime: 2023-03-17T11:22:00Z
-    webUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html"
-    ampWebUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
     quality: 106
     images:
-      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
-    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
-    publishedDateTime: 2023-03-21T17:07:00Z
-    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
+    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
+    publishedDateTime: 2023-03-17T10:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "AI And The Future Of Wealth Management"
+    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
+    publishedDateTime: 2023-03-17T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
+        width: 1050
+        height: 590
         isCached: true
-  - title: "Microsoft Adds DALL-E AI Image Generator to Bing"
-    excerpt: "Microsoft on Tuesday announced that it is using an advanced version of Open AI’s DALL-E image generator to power its own Bing and Edge browser. Like DALL-E before it, the newly announced Bing Image Creator will generate a set of images for users based on a line of written text."
-    publishedDateTime: 2023-03-21T16:00:00Z
-    webUrl: "https://gizmodo.com/microsoft-adds-dall-e-ai-image-generator-to-bing-1850247593"
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/437bc7da01d90b82f97eb88c6dd7b4d7.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "How AI is driving the future of technology"
+    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
+    publishedDateTime: 2023-03-19T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
+    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI"
+    excerpt: "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ..."
+    publishedDateTime: 2023-03-17T09:18:00Z
+    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235"
+    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 71
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
+        width: 1500
+        height: 1500
+        isCached: true
+  - title: "Robotics, AI, and the evolving nature of work"
+    excerpt: "Mar 2023 \\| 04:54am IST Robotics, AI, and the evolving nature of work. Shanti Maria Fonseca “There will be fewer and fewer jobs that a robot cannot do better. I want to be cle"
+    publishedDateTime: 2023-03-19T18:24:00Z
+    webUrl: "https://www.heraldgoa.in/Edit/Robotics-AI-and-the-evolving-nature-of-work/202638"
+    type: article
+    provider:
+      name: Herald
+      domain: heraldgoa.in
+    quality: 71
+    images:
+      - url: "https://www.heraldgoa.in/uploads/news/big_202638_0.png"
+        width: 547
+        height: 246
+        isCached: true
+  - title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
+    excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"
+    publishedDateTime: 2023-03-17T10:56:00Z
+    webUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 67
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Is AI the future of Hollywood? How the hype squares with reality"
+    excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
+    publishedDateTime: 2023-03-18T14:48:00Z
+    webUrl: "https://www.aol.com/news/ai-future-hollywood-hype-squares-140040559.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 59
+    images:
+      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/888522f7d3731caf2f66cb69183483db"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
+    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
+    publishedDateTime: 2023-03-18T12:27:00Z
+    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 58
+    images:
+      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
-    excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
-    publishedDateTime: 2023-03-21T17:28:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-dall-es-ai-image-generation-to-bing-and-edge-152749735.html"
+  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
+    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
+    publishedDateTime: 2023-03-17T23:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/ylZZRzVcjs_9qLYNyVItDg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/7b095760-c7f8-11ed-acef-77bea38b0e95.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-03-18T11:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
-        width: 868
-        height: 489
-        isCached: true
-  - title: "Inside The Infrastructure That Microsoft Builds To Run AI"
-    excerpt: "Key to all of this is getting the right supercomputing infrastructure into the field, and that job falls on Nidhi Chappell, general manager of Azure HPC and AI at Microsoft. Chappell’s team takes on all of the workload optimized compute, storage ..."
-    publishedDateTime: 2023-03-21T14:38:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-hardware-rack.jpg"
-        width: 768
-        height: 1024
-        isCached: true
-  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
-    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-747723/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
-    excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
-    publishedDateTime: 2023-03-21T04:34:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-early-access-3300462/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
-    excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moves-ai-pioneers-reputation-management-engine-for-chatgpt-and-other-chatbots-1032178939"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Nuance and Microsoft Announce the First Fully AI-Automated Clinical Documentation Application for Healthcare"
-    excerpt: "Groundbreaking Nuance DAX Express is the next milestone in an expanding portfolio of solutions combining OpenAI's GPT-4 with proven"
-    publishedDateTime: 2023-03-20T12:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuance-and-microsoft-announce-the-first-fully-ai-automated-clinical-documentation-application-for-healthcare-1032178616"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-  - title: "Nuance, Microsoft bet big on GPT for healthcare"
-    excerpt: "Microsoft's engineering and market resources and the scale of the Azure cloud, paired with Nuance's long-standing experience in healthcare and its commitment to patient data privacy and responsible use of AI,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/nuance-microsoft-bet-big-on-gpt-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Microsoft pimps Office with AI"
-    excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
-    publishedDateTime: 2023-03-17T10:16:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56546-microsoft-pimps-office-with-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
+      name: Finextra
+      domain: finextra.com
     quality: 54
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4bf657d3d4c3bd5f6177382bcc993a64_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        width: 2250
+        height: 1500
         isCached: true
-  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
-    excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
-    publishedDateTime: 2023-03-17T15:59:00Z
-    webUrl: "https://www.shine.cn/biz/tech/2303177395/"
+  - title: "The future of cloud computing, from hybrid to edge to AI-powered"
+    excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
+    publishedDateTime: 2023-03-20T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/"
     type: article
     provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 54
-    images:
-      - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
-    excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."
-    publishedDateTime: 2023-03-20T17:00:00Z
-    webUrl: "https://ehrintelligence.com/news/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
-    ampWebUrl: "https://ehrintelligence.com/news/amp/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
-    cdnAmpWebUrl: "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
+    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
+    publishedDateTime: 2023-03-21T12:43:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
     type: article
     provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 54
-  - title: "OpenAI releases latest version of artificial intelligence chatbot ChatGPT"
-    excerpt: "The US tech firm OpenAI has released its latest version of the artificial intelligence chatbot ChatGPT. The new model, GPT-4, is able to handle “much more nuanced instructions” than its ..."
-    publishedDateTime: 2023-03-17T01:58:00Z
-    webUrl: "https://www.independent.co.uk/tech/openai-peter-morgan-b2301090.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
-    images:
-      - url: "https://static.independent.co.uk/2023/03/15/06/02-21753200036045b7bf16c6c8703031ae.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
-    excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-chatgpt-and-generative-ai-can-transform-your-business/445066"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 46
-  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
-    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
-    publishedDateTime: 2023-03-18T15:50:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
+  - title: "AI could make the future role of education increasingly to be in support of human development"
+    excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
+    publishedDateTime: 2023-03-20T08:32:00Z
+    webUrl: "https://jerseyeveningpost.com/voices/2023/03/20/ai-could-make-the-future-role-of-education-increasingly-to-be-in-support-of-human-development/"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 45
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-        width: 1920
-        height: 2400
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
-  - title: "UAE-owned AI language model outperforms ChatGPT"
-    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
-    publishedDateTime: 2023-03-20T08:45:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
-    images:
-      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
-    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-18T02:36:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
     type: article
     provider:
       name: Law
       domain: law.com
-    quality: 38
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
         isCached: true
-  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
-    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
-    publishedDateTime: 2023-03-20T10:43:00Z
-    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
+  - title: "Harnessing the power of AI today"
+    excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."
+    publishedDateTime: 2023-03-20T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2023/03/21/2253140/harnessing-power-ai-today"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
     images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
-        width: 2842
-        height: 1372
+      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
-    excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
-    publishedDateTime: 2023-03-21T09:56:00Z
-    webUrl: "https://www.inc.com/jason-aten/the-smartest-thing-about-microsofts-copilot-ai-feature-is-name.html"
+  - title: "The Future of Data Science Lies in Automation"
+    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
+    publishedDateTime: 2023-03-20T09:58:00Z
+    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 34
-  - title: "ChatGPT AI now more powerful"
-    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
-    publishedDateTime: 2023-03-20T15:01:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
+    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
+    publishedDateTime: 2023-03-17T17:48:00Z
+    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
+      name: Jurist
+      domain: jurist.org
+    quality: 19
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
 
 secured: "vBfCwCIoQ5viGNZW/5kJahGAPMdyavkGrpy8TrK7zVH8kaS1oX5oOyDJBuTw+eLQ850paQmNPHe+yw27WmHSyMqYtHU6n+JP6GuRgNBgVctXI0XGWbS9cJ6hkzcMiT9zJ+FbD2C9L26T7XfSOYiltKxQNpOMEDOCjJH8VeUerwRk6qpe4xCSN6D0ExRLtDbZe/sQLHJXKUtgvpvUviLSo5+26eXrt5iEQE1WsVKdtFU+fcvrmkANKu7ioEcQH6ce17AnOOoph5IZXoIS54MKpAa1IpbC3CioNVyZdtQrRVk+A06OsbVqwGem6ElPEtupnGPx/y4t4rNN2O4GS85pjc4vQMc4sZyNN2sfODWkT0cSJOfR/TrXrxanzR2YrJEAKl/nkGXHJXWUUaxVQEDDsavc69tuejuof61XepQDRUkWOM9TdQatzE+f+wS/DoE5JSO4B67X+bU4EM5ya81vlCcbeZWyslyCi39EnvBoKWoFqbQ41jmwzJda/UijLSuU4YRX5VKuG0TkG6F+ATKsxw==;2/hRZVwdSDDxpi8IwfLuyQ=="
 ---

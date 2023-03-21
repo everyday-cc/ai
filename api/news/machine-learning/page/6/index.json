@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-06-machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025.md",
+      "title": "Machine Learning Chip Market 2023 | Top Vendors, Industry Size, Share and Growth and Forecast up to 2025",
+      "excerpt": "The Machine Learning Chip Market (2023-2025) Research Updated Report | Market includes the most useful information such",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-artificial-intelligence-and-machine-learning-market-to-reach-high-globally-by-2025-research-reports-world.md",
       "title": "Artificial Intelligence and Machine Learning Market to Reach High Globally, by 2025| Research Reports World",
       "excerpt": "The Artificial Intelligence and Machine Learning Market (2023-2025) Research Updated Report | Market includes the",
@@ -1315,59 +1360,6 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
-      "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
-      "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg",
-          "width": 1567,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T09:45:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

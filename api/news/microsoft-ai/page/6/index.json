@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-07-microsoft-and-5-other-ai-pick-and-shovel-plays.md",
+      "title": "Microsoft and 5 other AI pick-and-shovel plays",
+      "excerpt": "So, what is the best way to play the AI trend and benefit from companies succeeding in the sector? We think a prudent strategy is to invest in companies building the tools to sustain the industry’s growth – the ‘pick-and-shovel’ plays of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
+      "originalUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-now-ai-can-talk-the-frenzy-continues-with-news-from-soundhound-and-microsoft.md",
+      "title": "Now AI Can Talk? The Frenzy Continues With News From SoundHound and Microsoft.",
+      "excerpt": "Stocks in the field of artificial intelligence have been red-hot since the start-up Open AI launched the chatbot ChatGPT in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
+      "originalUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-top-10-it-companies-in-the-world-2023.md",
+      "title": "Top 10 IT Companies in The World 2023",
+      "excerpt": "IT companies provide organizations with a range of services and solutions that can assist them in improving their operational efficiency and services, bringing them up to par with those provided on a",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/top-10-it-companies-in-the-world-2023-101675753777651.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ibm-research-touts-ai-supercomputer-for-foundation-ai.md",
       "title": "IBM Research Touts AI Supercomputer For Foundation AI",
       "excerpt": "with ChatGPT from OpenAI presenting the most visible sign that AI is finally having its “iphone moment”. The models do not require supervision, but do require an enormous amount of computation.The OpenAI supercomputer hosted by Microsoft Azure ...",
@@ -994,205 +1142,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-a-quicker-return-to-school-may-help-kids-with-concussions-study-says.md",
-      "title": "A quicker return to school may help kids with concussions, study says",
-      "excerpt": "Keeping a child home from school for “cognitive rest” after a concussion may do more harm than good, a study suggests. The analysis, in the journal JAMA Network Open, shows an association ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
-      "originalUrl": "https://www.washingtonpost.com/wellness/2023/02/04/kids-teens-concussion-rest-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5KA7BEY3FS6IAHEYND2J6IC6M.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-t-mobile-sets-industry-leading-2040-net-zero-commitment.md",
-      "title": "T-Mobile Sets Industry-Leading 2040 Net-Zero Commitment",
-      "excerpt": "Vice President and Principal Analyst, Melody Brue, dives into T-Mobile's announcement to achieve net-zero emissions across the company's entire carbon footprint by 2040.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd47ce21711884479afecc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
-      "publishedDateTime": "2023-02-03T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-chatgpt-just-became-the-fastest-growing-app-of-all-time.md",
-      "title": "ChatGPT just became the fastest-growing 'app' of all time",
-      "excerpt": "\"No, OpenAI's GPT-3 language model, which powers ChatGPT, is not an app, it's a machine learning model designed to generate human ... Microsoft has also launched: the Azure OpenAI Service to provide developers access to GPT-3.5; DALL•E 2, the AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea66b908cc583f45fc75034683d42807a63cc563/2023/02/03/105ba195-9733-419a-85be-d90a2aeb898f/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-just-became-the-fastest-growing-app-of-all-time/",
-      "publishedDateTime": "2023-02-03T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-fridays-top-tech-news-google-and-microsoft-prepare-to-do-battle-over-ai.md",
-      "title": "Friday’s top tech news: Google and Microsoft prepare to do battle over AI",
-      "excerpt": "Plus fresh details on Meta’s next AI headset, and another smart home company begins its Matter transition. It’s funny, Google has been promoting its AI efforts for years, but something about the mainstream attention ChatGPT has been getting,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/2/3/23584222/february-3-2022-tech-news-liveblog",
-      "originalUrl": "https://www.theverge.com/2023/2/3/23584222/february-3-2022-tech-news-liveblog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/pfq0TWl_P9f0DjxCbWmQk184U34=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16019274/acastro_181017_1777_brain_ai_0003.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

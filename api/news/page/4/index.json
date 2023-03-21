@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-03-18-how-to-navigate-todays-conversational-ai-and-text-generative-landscape.md",
-      "title": "How to navigate today’s conversational AI and text generative landscape",
-      "excerpt": "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/",
-      "publishedDateTime": "2023-03-17T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-17-your-next-negotiating-partner-artificial-intelligence.md",
       "title": "Your Next Negotiating Partner: Artificial Intelligence",
       "excerpt": "Now, it appears that chatbots, powered by artificial intelligence, may be entering mainstream usage. The question is, can they recognize a good deal when they see one? Perhaps not. But for people on the front lines of negotiation, AI-powered chatbots may ...",
@@ -114,7 +61,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -166,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -218,7 +165,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -554,6 +501,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-17-aws-chatbot-now-integrated-into-microsoft-teams.md",
+      "title": "AWS Chatbot now integrated into Microsoft Teams",
+      "excerpt": "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "publishedDateTime": "2023-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-best-practices-for-leveraging-artificial-intelligence-and-machine-learning-in-2023.md",
       "title": "Best practices for leveraging artificial intelligence and machine learning in 2023",
       "excerpt": "In many ways, this year will come to be remembered as the one when artificial intelligence (AI) and machine learning (ML) finally broke through the hype, delivering consumer-focused products that amazed millions of people. Generative AI, including DALL·E ...",
@@ -666,7 +666,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -707,6 +707,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-elon-musk-questions-microsoft-cutting-its-ai-ethics-team-after-doing-the-same-at-twitter.md",
+      "title": "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter",
+      "excerpt": "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs",
+      "originalUrl": "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03rEPLuRYTk95zyZUp24ARf/hero-image.fill.size_1200x675.v1679002828.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1198,58 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-mozilla-wants-to-put-ethics-back-into-ai-with-the-responsible-ai-challenge.md",
-      "title": "Mozilla wants to put ethics back into AI with the \"Responsible AI Challenge\"",
-      "excerpt": "These algorithms respect neither limitations nor ethical principle in content building, so Mozilla is thinking about a new approach for a truly responsible AI business. Mozilla's latest attempt to save the future of the Internet goes through the creation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html",
-      "originalUrl": "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-16-image-19.jpg",
-          "width": 2000,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

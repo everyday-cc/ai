@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3?amp"
 type: article
 quality: 81
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Google’s AI chatbot Bard rules search giant has ‘monopoly’ in antitrust case"
+    excerpt: "Google’s own AI chatbot, Bard, ruled the company has a “monopoly on ... hiccups were likely to occur as the public gained access to Bard. “As more people start to use Bard and test its capabilities, they’ll surprise us. Things will go wrong ..."
+    publishedDateTime: 2023-03-21T20:46:00Z
+    webUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/"
+    ampWebUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 54
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Google Bard AI hands-on: A work in progress with plenty of caveats"
+    excerpt: "Google has made Bard more widely available to users in the US and the UK today, and I have been spending some time with the company's chatbot to see how its generative AI compares to ChatGPT and Bing AI."
+    publishedDateTime: 2023-03-21T18:55:00Z
+    webUrl: "https://www.engadget.com/google-bard-ai-hands-on-a-work-in-progress-with-plenty-of-caveats-170956025.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 47
   - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
     excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
     publishedDateTime: 2023-03-19T16:49:00Z

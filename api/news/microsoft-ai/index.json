@@ -2,6 +2,270 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps.md",
+      "title": "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps",
+      "excerpt": "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 462,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "publishedDateTime": "2023-03-21T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances.md",
+      "title": "Nvidia partners with Google Cloud to launch AI-focused hardware instances",
+      "excerpt": "Nvidia has partnered with Google Cloud to launch new hardware instances designed to accelerate certain AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/",
+      "originalUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-957037038-nvidia.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/",
+      "publishedDateTime": "2023-03-21T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai.md",
+      "title": "Nvidia will bring AI to every industry, says CEO Jensen Huang in GTC keynote: “We are at the iPhone moment of AI”",
+      "excerpt": "This follows Microsoft Azure’s private preview announcement last week for its H100 virtual machine, ND H100 v5. Meta has now deployed its H100-powered Grand Teton AI supercomputer internally for its AI production and research teams. And OpenAI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Keynote-Wrap-Up-Image.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
+      "publishedDateTime": "2023-03-21T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip.md",
+      "title": "For AI's 'iPhone moment' in ChatGPT, Nvidia unveils a large language model chip",
+      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
+      "publishedDateTime": "2023-03-21T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser.md",
+      "title": "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser",
+      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 647,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
+      "publishedDateTime": "2023-03-21T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
       "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
       "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
@@ -43,110 +307,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-introducing-gpt-4-in-azure-openai-service.md",
-      "title": "Introducing GPT-4 in Azure OpenAI Service",
-      "excerpt": "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/318a6dc5-e32e-4418-8699-20f05752939d.png",
-          "width": 900,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T01:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day.md",
-      "title": "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day",
-      "excerpt": "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/",
-      "publishedDateTime": "2023-03-20T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Microsoft AI"
       ]
     },
@@ -204,102 +364,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure.md",
-      "title": "KX Announces General Availability of kdb Insights Enterprise on Microsoft Azure",
-      "excerpt": "Representing a significant milestone for its strategic partnership with Microsoft, KX today announced the general",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "originalUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend-kasparov.md",
-      "title": "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov",
-      "excerpt": "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6417e675c4ae66004ebdc0cd/0x0.jpg?format=jpg&width=1200",
-          "width": 960,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/",
-      "publishedDateTime": "2023-03-19T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-19-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
       "title": "The AI arms race highlights the urgent need for responsible innovation",
       "excerpt": "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team.",
@@ -308,7 +372,7 @@
       "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -443,6 +507,103 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-aws-chatbot-now-integrated-into-microsoft-teams.md",
+      "title": "AWS Chatbot now integrated into Microsoft Teams",
+      "excerpt": "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "originalUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html",
+      "publishedDateTime": "2023-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-elon-musk-questions-microsoft-cutting-its-ai-ethics-team-after-doing-the-same-at-twitter.md",
+      "title": "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter",
+      "excerpt": "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs",
+      "originalUrl": "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03rEPLuRYTk95zyZUp24ARf/hero-image.fill.size_1200x675.v1679002828.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Microsoft AI"
       ]
@@ -1356,146 +1517,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-lays-off-team-responsible-for-ethical-ai-development.md",
-      "title": "Microsoft lays off team responsible for ethical AI development",
-      "excerpt": "Related video: Bing Has Exceeded 100 Million Daily Active Users, Microsoft Says Tech giant Microsoft has reportedly laid off its entire team responsible for the ethical and sustainable outcome of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
-      "originalUrl": "https://www.independent.co.uk/tech/microsoft-layoff-ai-ethics-team-b2300237.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2023/01/25/09/SEI141636847.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
-      "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
-      "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "originalUrl": "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 500,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/",
-      "publishedDateTime": "2023-03-14T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually.md",
-      "title": "Santos calls for presidents’ cognitive ability to be tested annually",
-      "excerpt": "Rep. George Santos (R-N.Y.) introduced a bill on Monday that would require the sitting president to undergo an annual cognitive evaluation, after GOP presidential candidate Nikki Haley called for ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/",
-      "originalUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/02/santosgeorge_020123ag_w.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/3898547-santos-calls-for-presidents-cognitive-ability-to-be-tested-annually/amp/",
-      "publishedDateTime": "2023-03-13T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

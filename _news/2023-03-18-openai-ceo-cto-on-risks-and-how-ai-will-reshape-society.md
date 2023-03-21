@@ -72,22 +72,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "OpenAI CEO Sam Altman says AI will reshape society, acknowledges risks: 'A little bit scared of this'"
-    excerpt: "The CEO behind the company that created ChatGPT believes artificial intelligence will reshape society as we know it, but admits there are extraordinary risks."
-    publishedDateTime: 2023-03-17T01:57:00Z
-    webUrl: "https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 42
-    images:
-      - url: "https://s.abcnews.com/images/US/sam-altman-5-abc-gmh-230315_1678991270555_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "nU3qSst41OXYf/18499L1kxmydQrDJN0ZdtHJva9QK54LTSWSjQtvM0iRUOwwJ+Q2jV+AuhbRNtv0/QWaQVtouLgzuxYiM+3JReD5u+6OXbd+V4Zk9+iqCUBrgwkNq+NTbI6SwyRIF+D1LCMgClVJ1Iq8wXPhqL1KTDE4w5xKLd45q4mbZQs8BOfhSJSezHa4wqS9Tu7dYnyS/f485wM5u7dMFWEcOeT6Yu5nciW78A4MP0eYdD7rseiSt/wfwdt68inzVM6u4JFkJZ7KjrNext/hQFy1W7sBaxgdWgzrzTWRKNolydU2YWa52ZQ3tQLV+Or5IKu2In0nm9NZ0Dl51cw2+jtn5kNE0lydMRxscUJiQiw1Ug0+uPy4EnLjeUqnKsVYl5O/tG6NcLdv5OyacV1BkANJY26MYPGCwByu3U908+Qz7wzWjpNPwTbBOVh5wFGR8KGyAKWQ7DpqpE+11Zx6LAIGShi5X2b++MSVcMWIHBtZ7YIkV9SDnyz4bZTdsN24QQRyZPdE/I8j5PlDQ==;2bec9hQaETvE4RZCceohvg=="
 ---

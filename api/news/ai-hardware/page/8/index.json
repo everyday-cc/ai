@@ -2,6 +2,138 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-05-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Machine learning, or AI, involves training a system ... and improve the quality of care. In the financial services industry, via the company’s 2016 acquisition of Promontory Financial Group ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
+      "title": "Edge AI Chip Company Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
+      "excerpt": "IRVINE, Calif., Jan. 04, 2023 (GLOBE NEWSWIRE) -- Syntiant Corp., a provider of deep learning solutions for edge AI applications, today introduced the Syntiant NDP115 Neural Decision Processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30276482/edge-ai-chip-company-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-new-nvidia-ai-tech-unblurs-grainy-youtube-videos.md",
+      "title": "New Nvidia AI tech unblurs grainy YouTube videos",
+      "excerpt": "You’ll need a 30 or 40 series Nvidia GPU to make it work, however. As part of Nvidia’s CES 2023 presentation, the company unveiled RTX Video Super Resolution. This new AI tech will upscale videos to 4K in both Chrome and Edge browsers.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "originalUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2023/01/nvidia-upscaling-example-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
       "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
       "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
@@ -1269,153 +1401,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-the-best-gpus-for-4k-to-make-your-games-look-the-best.md",
-      "title": "The best GPUs for 4K to make your games look the best",
-      "excerpt": "Fortunately, the state of the GPU market has improved lately, making 4K gaming more affordable (though not cheap). Here are our picks for the best GPU for 4K.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
-      "publishedDateTime": "2022-12-13T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech.md",
-      "title": "AMD Launches RDNA 3, RX 7900 XT and XTX, Its Next-Gen GPU and Tech",
-      "excerpt": "It's the first GPU built from chiplets ... It enables AMD to add dedicated AI acceleration and improved raytracing accelerators -- a weakness it's traditionally had versus Nvidia's RTX cores ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
-      "originalUrl": "https://www.cnet.com/tech/computing/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2a4131d4a1ba02aba09a3d7a5983127ede479eed/hub/2022/11/03/2bd5ceb3-2182-494e-8e36-9419850d260c/amd-radeon-rx-7900-series-gpu-3.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amd-launches-rdna-3-rx-7900-xt-and-xtx-its-next-gen-gpu-and-tech/",
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities.md",
-      "title": "Yan receives NSF grant to advance multi-GPU supercomputer abilities",
-      "excerpt": "The $275,573 grant will be used to support Yan’s project, titled “Massively Parallel Graph Processing on Next-Generation Multi-GPU Supercomputers.” The impact of this project will be significant, considering that the nation is replacing Central ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
-      "originalUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uab.edu/news/media/k2/items/cache/c0dd4284d41c24140acd705579c738fa_XL.jpg",
-          "width": 900,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

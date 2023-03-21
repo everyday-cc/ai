@@ -60,18 +60,34 @@ related:
         height: 681
         isCached: true
   - title: "Cruise wants to test self-driving cars all over California"
+    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
+    publishedDateTime: 2023-03-21T02:35:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Cruise seeks permit to test self-driving vehicles beyond SF, across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-21T12:22:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    publishedDateTime: 2023-03-20T20:05:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 44
+    quality: 40
     images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/04/5982e715-63f5-4774-abf5-ddf6b74e8b4d/thumbnail/1200x630/1a2e77e9d241aaac467f36e5f453c868/cruise-car.jpg"
         width: 1200
         height: 630
         isCached: true

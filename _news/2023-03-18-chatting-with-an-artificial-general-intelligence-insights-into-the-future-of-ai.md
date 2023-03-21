@@ -153,22 +153,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Harnessing the power of AI"
-    excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
-    publishedDateTime: 2023-03-17T03:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/harnessing-the-power-ai-3273366?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/17/deepmind-ggexpf_ykau-unsplash.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Is AI the future of Hollywood? How the hype squares with reality"
     excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
     publishedDateTime: 2023-03-18T14:48:00Z
@@ -259,6 +243,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
+    excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
+    publishedDateTime: 2023-03-20T15:42:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/03/20/in-the-wake-of-chatgpt-the-race-for-artificial-intelligence-is-on_6020062_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Future of Data Science Lies in Automation"
     excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
     publishedDateTime: 2023-03-20T09:58:00Z
@@ -281,6 +279,15 @@ related:
     provider:
       name: Jurist
       domain: jurist.org
+    quality: 19
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
     quality: 19
 
 secured: "Ko8C+9DDL8gl9iySVYJx1YXbs7GMU9q01wXl1w7juuzCRYOBIBBdkXbJlF3g+9Hdp9/rhiaJ+eTThw6kF4lcRmOScpSvaB+iMwKeNIMu9YP3NqTljilBr24d5fQZMHYvs0M/hEE7O0A7t7ktv8ngxdAdJVj5giXpheXUsIP6FEdHtx3lcaB4kn4CEuecc0L+ZuvLSwGhNpm2JkUzoeNn98JRXZ4MTIfMP3r2bpSvNrqnC+PwwwRP2NnFC/UsV7EPt3aOPo15RH1+CO+5EkEhJAGpjngETfR/VO8S4hM92DE4Mv2xns8sSzEOtwuJYswJAyT8T2tzXH8Mm3/ivLMDxgZuWBHjaCYXlPJTXLiX32pX8uiKkaEUy9J6hn9n1pwoi8HH9MM/CNOAMTWu8VI73ugF/Nj762b20Sw43ySPhtQgoKF52VYn6WnBG+aieWGmZzdYwguS6x5FDXvDThlLFseM0318QIuGCZBs5n2w4CgxKFtv0O0n5q/HVNmIciP7nb5xoPzh1ImVklgQlDb4Pw==;+Fa+Y4sp4qea8x6+N5L47A=="

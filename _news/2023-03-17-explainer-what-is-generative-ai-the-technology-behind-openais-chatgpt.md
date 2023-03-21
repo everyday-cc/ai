@@ -44,19 +44,19 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
-    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
-    publishedDateTime: 2023-03-20T17:12:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
+  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
+    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
+    publishedDateTime: 2023-03-20T10:43:00Z
+    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 21
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
-        width: 1500
-        height: 700
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
+        width: 2842
+        height: 1372
         isCached: true
 
 secured: "Eg9MMzIE6vDkE/ldk8hvX9KbCwu9j5yu9hoRY1qVAsncN14EXvOhoPszDf8EjMTugSH1D6JPq4Jltp1n4lNvD6rcbHqeUylXD/04bwdKyqAH+SSJv+LJEiYFBOTleB9YmdCoQcaC4x45UyzS3/TaK35OJNqfy5JDPRKWAlis2lBRJzP72mCmbfCtFK0CkDy6m+85/SM5zBgUNEnb//jRazAxg63ErywcgpwjvzueNw6BckYMh9ESd4rD2oc0rqmovgfgf6xgaKlJf9B/yJ2dRk3NDr2tonOQs+W3gpOcj9PhincXCJc+K1If36O1bFz9kcm42IC7z5/sb0e2yP4bJ8wXNEMKNJ4JgW+Jat2DJjdslzgO3IAE1o6EZJDl+y2FLfvOQ9DiBqAnwj2L8T53O4/MrqW81KZDwn3CSYlj1f5ifFEh4p8vOC1JSnArSGnrxkinNBn+70lGjcuIOzKNq+H7IXJ5VQIzqDcNTH1hy/sSBhwejzeuKDABFge3cQ9fTFC1DUtGSoPn6DiAsVm2Aw==;9VM5ST/W5cmYbppnDDf1hg=="

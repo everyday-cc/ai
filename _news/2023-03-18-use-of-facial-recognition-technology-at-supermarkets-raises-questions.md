@@ -99,7 +99,7 @@ related:
     provider:
       name: ABC7 San Francisco
       domain: abc7news.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920

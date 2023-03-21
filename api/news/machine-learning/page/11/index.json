@@ -2,6 +2,60 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-20-cloud-machine-learning-market-2022-swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028.md",
+      "title": "Cloud Machine Learning Market 2022 - SWOT Analysis, Business Standards, Value Chain and Sales Channels Analysis 2028",
+      "excerpt": "MarketsandResearch.biz has introduced a new report entitled Global Cloud Machine Learning Market Research Report 2022-2028, which encompasses the regional & global industry facts forecasted to acquire profit-making appraisal across the projection period from 2022 to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-2022---swot-analysis-business-standards-value-chain-and-sales-channels-analysis-2028-2022-12-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-12-18-artificial-intelligence-in-healthcare-service-market-2023-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
       "title": "Artificial Intelligence In Healthcare Service Market 2023 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
       "excerpt": "\" Artificial Intelligence In Healthcare Service Market \" Insights 2022 - By Applications (Patient Data and Risk Analysis, Lifestyle Management and Monitoring, Precision Medicine, In-Patient Care and Hospital Management,",
@@ -1387,49 +1441,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
-      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
-      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
-          "width": 1920,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
-      "publishedDateTime": "2022-12-08T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

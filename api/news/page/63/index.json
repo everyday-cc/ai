@@ -2,6 +2,212 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-02-01-how-ark-invests-cathie-wood-is-investing-behind-the-artificial-intelligence-boom.md",
+      "title": "How Ark Invest's Cathie Wood is investing behind the artificial intelligence boom",
+      "excerpt": "Ark Invest's Cathie Wood said Wednesday said artificial intelligence is the most important catalyst in every corner of her disruptive innovation strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107081717-1656420743920-gettyimages-1235989104-AFP_9PZ89E.jpeg?v=1675264560&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-getting-started-with-azure-openai.md",
+      "title": "Getting started with Azure OpenAI",
+      "excerpt": "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
+      "originalUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
+      "publishedDateTime": "2023-02-01T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
+      "title": "NASA partners with IBM to build AI foundation models to advance climate science",
+      "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
+      "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI-e1675215120724.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
+      "publishedDateTime": "2023-02-01T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-a-new-ai-voice-tool-is-already-being-abused-to-make-deepfake-celebrity-audio-clips.md",
+      "title": "A new AI voice tool is already being abused to make deepfake celebrity audio clips",
+      "excerpt": "ElevenLabs' AI speech synthetizer is being used to generate clips featuring voices that sound like celebrities reading or saying something questionable..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
+      "originalUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/7dc12ee0-e5b0-11ec-b977-a345e4c04815",
+          "width": 8553,
+          "height": 5846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
+      "publishedDateTime": "2023-02-01T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-self-driving-bus-project-to-test-journeys-without-staff-on-board.md",
       "title": "Self-driving bus project to test journeys without staff on board",
       "excerpt": "A project developing what the Government believes will be the world’s first full-size self-driving bus service will test if smaller vehicles can operate without a staff member on board.",
@@ -950,179 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-future-of-the-900-billion-us-trucking-industry-could-be-decided-in-california.md",
-      "title": "The future of the $900-billion U.S. trucking industry could be decided in California",
-      "excerpt": "As California regulators explore new rules to put self-driving semi-trucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "originalUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/1356161/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F03%2F5d92cb284b151fc96928b901d3a4%2F422909ceb5124913a7d5f0932967d6fb",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
-      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
-      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "publishedDateTime": "2023-01-31T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-laptops-get-ai-chips-smart-software-engines-to-boost-efficacy.md",
-      "title": "Laptops get AI chips, smart software engines to boost efficacy",
-      "excerpt": "NEW DELHI: Earlier this year, Chinese laptop maker Lenovo unveiled four gaming laptops with an embedded artificial intelligence (AI) -powered chip called Lenovo LA AI. Combined with Lenovo AI Engine+, the chip will allow the laptop to automatically tune ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy-11675178489033.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy-11675178489033.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/01/31/600x338/laptop_1675180595247_1675180600772_1675180600772.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy/amp-11675178489033.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy/amp-11675178489033.html",
-      "publishedDateTime": "2023-01-31T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-wesh-2-exclusive-meeting-sophia-the-ai-robot.md",
-      "title": "WESH 2 Exclusive: Meeting Sophia the AI Robot",
-      "excerpt": "SANIKA: ROBOLAND FEATURE SEVERAL ROBOTS, LIKE ROBO THESPIAN, ROBO I-PAL, EVEN A ROBO FISH, BUT ONE SPECIAL ROBOT IS THE MAIN ATTRACTION, SOPHIA. WESH 2’S JASON GUY HAS THE STORY. >> MY NAME IS SOPHIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "originalUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/ae4ebf35-5ee0-4848-a320-2d48bc3ab273/ae4ebf35-5ee0-4848-a320-2d48bc3ab273_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "publishedDateTime": "2023-01-31T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

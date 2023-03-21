@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
-      "title": "Chinese firm to launch robot taxis",
-      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
-      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
-          "width": 561,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
-      "publishedDateTime": "2023-03-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
       "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
       "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
@@ -194,7 +150,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1385,6 +1341,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
+      "title": "Understanding the world of artificial intelligence and its future impacts",
+      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

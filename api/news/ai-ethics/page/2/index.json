@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-25-chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should.md",
+      "title": "ChatGPT and ethical decision making: It’s not what can be done, but what should",
+      "excerpt": "It’s important to remember that ChatGPT is an impressive research ... the Microsoft AI chatbot Tay, which was shut down after it began posting offensive tweets, and Facebook bots that created ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "originalUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "publishedDateTime": "2023-02-24T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-cryptocurrency-miners-are-leading-the-next-stage-of-ai.md",
       "title": "Cryptocurrency miners are leading the next stage of AI",
       "excerpt": "Cryptocurrency miners are converting their mining rigs to facilitate AI processing, and the implications could be both legal and financial.",
@@ -1285,49 +1338,6 @@
         "name": "The Conversation",
         "domain": "theconversation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029.md",
-      "title": "Data and AI Ethics Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029",
-      "excerpt": "In 2023] The Global Data and AI Ethics Market Size (110 Report Pages) is estimated to be worth USD million in 2021 and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

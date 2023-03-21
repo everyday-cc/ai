@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T19:34:00Z
 originalUrl: "https://www.fool.com/investing/2023/03/21/why-amazon-stock-rallied-on-tuesday/"
 webUrl: "https://www.fool.com/investing/2023/03/21/why-amazon-stock-rallied-on-tuesday/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Motley Fool

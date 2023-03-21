@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Future Growth of the Deep Learning Software Market Size 2023-2029"
-    excerpt: "Deep Learning Software Market 2023 with 107 Pages Report and enhance with extents shares into sub-counties are covered"
-    publishedDateTime: 2023-03-17T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-deep-learning-software-market-size-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Facial Recognition Market Size and Forecast till 2029"
     excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
     publishedDateTime: 2023-03-21T00:54:00Z
@@ -174,6 +160,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Networks Market Size, Fundamentals And Forecast Analysis 2023 to 2031"
+    excerpt: "Mar 21, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Neural Networks Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
+    publishedDateTime: 2023-03-21T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-fundamentals-and-forecast-analysis-2023-to-2031-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

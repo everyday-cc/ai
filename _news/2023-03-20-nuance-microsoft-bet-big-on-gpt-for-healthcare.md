@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps"
+    excerpt: "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ..."
+    publishedDateTime: 2023-03-21T19:52:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 112
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov"
     excerpt: "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,"
     publishedDateTime: 2023-03-20T04:28:00Z
@@ -42,37 +58,67 @@ related:
         width: 960
         height: 564
         isCached: true
-  - title: "AWS Chatbot now integrated into Microsoft Teams"
-    excerpt: "Amazon Web Services has integrated its AWS Chatbot into Microsoft Teams to allow enterprise users to interact with AWS cloud resources from within the chat application. AWS Chatbot, which was ..."
-    publishedDateTime: 2023-03-17T11:22:00Z
-    webUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.html"
-    ampWebUrl: "https://www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3691291/aws-chatbot-now-integrated-into-microsoft-teams.amp.html"
+  - title: "Introducing GPT-4 in Azure OpenAI Service"
+    excerpt: "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s"
+    publishedDateTime: 2023-03-21T08:00:04Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://images.idgesg.net/images/article/2018/05/communication_language_text_speech_chatbot_artificial_intelligence_by_wutwhanfoto_gettyimages-649188276_1200x800-100757295-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/318a6dc5-e32e-4418-8699-20f05752939d.png"
+        width: 900
+        height: 400
         isCached: true
-  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
-    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
-    publishedDateTime: 2023-03-21T17:07:00Z
-    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+  - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
+    excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
+    publishedDateTime: 2023-03-21T00:53:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 739
+        isCached: true
+  - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
+    excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
+    publishedDateTime: 2023-03-21T15:08:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/51bc512df0a7fcf9cbd9bff203649bb9961e637a/hub/2023/03/21/72c5b735-0d39-45be-919d-3af6f32e03cf/screen-shot-2023-03-21-at-11-06-04-am.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
+    excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"
+    publishedDateTime: 2023-03-17T08:13:00Z
+    webUrl: "https://www.engadget.com/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: engadget.com
+    quality: 102
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Adds DALL-E AI Image Generator to Bing"
     excerpt: "Microsoft on Tuesday announced that it is using an advanced version of Open AI’s DALL-E image generator to power its own Bing and Edge browser. Like DALL-E before it, the newly announced Bing Image Creator will generate a set of images for users based on a line of written text."
@@ -102,22 +148,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-03-18T11:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
-        width: 868
-        height: 489
-        isCached: true
   - title: "Inside The Infrastructure That Microsoft Builds To Run AI"
     excerpt: "Key to all of this is getting the right supercomputing infrastructure into the field, and that job falls on Nidhi Chappell, general manager of Azure HPC and AI at Microsoft. Chappell’s team takes on all of the workload optimized compute, storage ..."
     publishedDateTime: 2023-03-21T14:38:00Z
@@ -134,47 +164,88 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
-    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
+  - title: "Microsoft & OpenAI add AI image creation tool to Bing"
+    excerpt: "After integrating ChatGPT into Bing, Microsoft is adding a tool to it, that creates images from words using an advanced version of OpenAI's DALL-E model."
+    publishedDateTime: 2023-03-21T15:56:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 74
     images:
-      - url: "https://images.wsj.net/im-747723/social"
-        width: 1280
-        height: 640
+      - url: "https://photos5.appleinsider.com/gallery/53579-107660-bing-xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
-    excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
-    publishedDateTime: 2023-03-21T04:34:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-early-access-3300462/"
+  - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
+    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
+    publishedDateTime: 2023-03-21T09:51:00Z
+    webUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 73
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
+        width: 794
+        height: 446
+        isCached: true
+  - title: "Microsoft’s new Copilot will change Office documents forever"
+    excerpt: "Despite reports of Microsoft laying off its ethics and society team that taught employees how to make AI tools responsibly, Friedman says Microsoft is growing the people working on these concerns."
+    publishedDateTime: 2023-03-17T14:06:00Z
+    webUrl: "https://www.theverge.com/2023/3/17/23644501/microsoft-copilot-ai-office-documents-microsoft-365-report"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/FRBC6Ge0eAbFQ33e2TAGbbl8E90=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24515603/m365copilot_business_1920x1080_web__1_.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft adds Image Creator to Bing, plus GPT-4 now available in Azure OpenAI Service"
+    excerpt: "“Coursera is using Azure OpenAI Service to create a new AI-powered learning experience on its platform, enabling learners to get high-quality and personalized support throughout their learning journeys,” said Mustafa Furniturewala, senior vice presiden ..."
+    publishedDateTime: 2023-03-21T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-adds-image-creator-to-bing-plus-gpt-4-now-in-azure-openai-service/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+  - title: "Microsoft Introduces GPT-4 in Azure OpenAI Service"
+    excerpt: "Microsoft today announced that it will be making GPT-4 available in preview in Azure OpenAI Service. The company said that customers can start applying for access to GPT-4 today."
+    publishedDateTime: 2023-03-21T18:21:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-introduces-gpt-4-in-azure-openai-service/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Microsoft-was-looking-for-ways-to-compete.jpeg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
-    excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moves-ai-pioneers-reputation-management-engine-for-chatgpt-and-other-chatbots-1032178939"
+  - title: "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board"
+    excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
+    publishedDateTime: 2023-03-21T09:12:00Z
+    webUrl: "https://www.reuters.com/technology/biotech-ai-startup-unlearn-adds-15-mln-openai-cto-board-2023-03-21/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nuance and Microsoft Announce the First Fully AI-Automated Clinical Documentation Application for Healthcare"
     excerpt: "Groundbreaking Nuance DAX Express is the next milestone in an expanding portfolio of solutions combining OpenAI's GPT-4 with proven"
@@ -185,6 +256,47 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
+    excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
+    publishedDateTime: 2023-03-20T13:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-announces-release-notes-copilot-released-on-microsofts-azure-marketplace-1032178775"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
+    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
+    publishedDateTime: 2023-03-19T09:03:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "How AI experts are using GPT-4"
+    excerpt: "Several leading AI companies had major product releases. Google said it was giving developers access to its AI language models, and AI startup Anthropic unveiled its AI assistant Claude. But one announcement outshined them all: OpenAI’s new multimodal large language model,"
+    publishedDateTime: 2023-03-21T11:05:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/21/1070102/how-ai-experts-are-using-gpt-4/"
+    ampWebUrl: "https://www.technologyreview.com/2023/03/21/1070102/how-ai-experts-are-using-gpt-4/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/21/1070102/how-ai-experts-are-using-gpt-4/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/AI-multitool2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Microsoft pimps Office with AI"
     excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
     publishedDateTime: 2023-03-17T10:16:00Z
@@ -213,6 +325,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
+    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
+    publishedDateTime: 2023-03-17T22:33:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
     excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."
     publishedDateTime: 2023-03-20T17:00:00Z
@@ -224,98 +350,74 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
-  - title: "OpenAI releases latest version of artificial intelligence chatbot ChatGPT"
-    excerpt: "The US tech firm OpenAI has released its latest version of the artificial intelligence chatbot ChatGPT. The new model, GPT-4, is able to handle “much more nuanced instructions” than its ..."
-    publishedDateTime: 2023-03-17T01:58:00Z
-    webUrl: "https://www.independent.co.uk/tech/openai-peter-morgan-b2301090.html"
+  - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
+    excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."
+    publishedDateTime: 2023-03-20T13:01:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-used-tens-of-thousands-of-chips-to-build-openai-supercomputer/"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 53
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 51
+  - title: "Microsoft brings GPT-4 to its Azure OpenAI service"
+    excerpt: "By utilizing ChatGPT’s natural language processing and machine learning capabilities, [The Office Depot Corporation] aims to streamline its internal operations and drive business success. Of course, by bringing GPT-4 to Azure OpenAI Service, Microsoft is ..."
+    publishedDateTime: 2023-03-21T18:51:00Z
+    webUrl: "https://bgr.com/tech/microsoft-brings-gpt-4-to-its-azure-openai-service/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 51
+  - title: "Railtown AI Technologies' app using AI to streamline software updates debuts on Microsoft's Azure Marketplace"
+    excerpt: "Railtown AI Technologies Inc (CSE:RAIL) announced that the first of its AI-powered Co-Pilot solutions is available for purchase in Microsoft's Azure Marketplace. The company’s Release Notes Co-Pilot is now available by paid subscription to over 400,000 ..."
+    publishedDateTime: 2023-03-20T13:39:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1009556/railtown-ai-technologies-app-using-ai-to-streamline-software-updates-debuts-on-microsoft-s-azure-marketplace-1009556.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 50
     images:
-      - url: "https://static.independent.co.uk/2023/03/15/06/02-21753200036045b7bf16c6c8703031ae.jpg?quality=75&width=1200&auto=webp"
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC8yMDIyLTEyLTEzLTA5LTE4LTA0LTlkOTFiY2EzNWU0NWZhYjBiMzI2ODA2NzNjN2U5ZWFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
-    excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-chatgpt-and-generative-ai-can-transform-your-business/445066"
+  - title: "Syneos inks deal with Microsoft for AI-powered clinical trials and marketing platform"
+    excerpt: "The agreement announced this week centers on an advanced analytics platform, which Syneos built on Microsoft’s Azure technology, that enables agile deployment of machine learning to support the analysis, design and execution of clinical trials and ..."
+    publishedDateTime: 2023-03-21T18:14:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/syneos-inks-deal-with-microsoft-for-ai-powered-clinical-trials-and-marketing-platform/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 46
-  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
-    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
-    publishedDateTime: 2023-03-18T15:50:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
+      name: MM&M
+      domain: mmm-online.com
+    quality: 44
+  - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
+    excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
+    publishedDateTime: 2023-03-17T16:53:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/17/semantic-kernel.aspx"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 41
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-        width: 1920
-        height: 2400
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
-    excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
-    publishedDateTime: 2023-03-20T15:42:00Z
-    webUrl: "https://www.lemonde.fr/en/economy/article/2023/03/20/in-the-wake-of-chatgpt-the-race-for-artificial-intelligence-is-on_6020062_19.html"
+  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
+    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
+    publishedDateTime: 2023-03-21T15:41:00Z
+    webUrl: "https://www.pharmiweb.com/pwtoday-story/syneos-health-collaborates-with-microsoft-to-accelerate-ai-across-the-clinical-to-commercial-continuum"
     type: article
     provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 39
-    images:
-      - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "UAE-owned AI language model outperforms ChatGPT"
-    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
-    publishedDateTime: 2023-03-20T08:45:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
-    images:
-      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
-    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: PharmiWeb
+      domain: pharmiweb.com
     quality: 38
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
-    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
-    publishedDateTime: 2023-03-20T10:43:00Z
-    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
-        width: 2842
-        height: 1372
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
@@ -326,15 +428,56 @@ related:
       name: Inc
       domain: inc.com
     quality: 34
-  - title: "ChatGPT AI now more powerful"
-    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
-    publishedDateTime: 2023-03-20T15:01:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
+  - title: "Microsoft Bing’s New ‘DALL-E’ Feature Lets You Create AI Images"
+    excerpt: "On top of adding pressure to its workforce, the search monolith also recently invested $300 million in the AI start-up Anthropic, which was founded by a former employee of OpenAI. This investment falls majorly short of Microsoft's recent $1 billion ..."
+    publishedDateTime: 2023-03-21T19:04:00Z
+    webUrl: "https://tech.co/news/microsoft-bing-create-ai-images"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
+      name: Tech.co
+      domain: tech.co
+    quality: 34
+  - title: "Microsoft and Adobe introduce AI image generator tools as competition heats up"
+    excerpt: "Artificial intelligence art generators have become ever more popular with the introduction of OpenAI LP’s DALL-E and Midjourney, which take text prompts and turn them into beautiful, often surreal artwork. Today, Microsoft Corp. announced that it’s ..."
+    publishedDateTime: 2023-03-21T18:09:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/microsoft-adobe-introduce-ai-image-generator-tools-competition-heats/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+  - title: "Nvidia Set to Reveal New AI Chips, Technologies at Annual Conference for Developers"
+    excerpt: "Huang told investors Nvidia would launch its own cloud computing service Microsoft built a system with more than 10,000 Nvidia chips for OpenAI The boom in AI has helped drive Nvidia shares up 77 perc"
+    publishedDateTime: 2023-03-21T11:55:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/nvidia-to-reveal-new-artificial-intelligence-ai-chip-technologies-at-annual-conference-3880672"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 28
+  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
+    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
+    publishedDateTime: 2023-03-20T17:12:00Z
+    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
     quality: 21
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
+        width: 1500
+        height: 700
+        isCached: true
+  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
+    excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
+    publishedDateTime: 2023-03-20T12:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "nr/7igi1wv0zMBb6hlQBpR8ejCJbDwifQ0xQIp80tdfXDv2N4Ml3/XW85YPWBmMj0qsfRZakHpMHVdLIllSrPvX95BeRlH8sq7iDWBoI1PXduT/MXJUG857poIum9C1PBYYwmEODhcNV3rC61DNFgOql1XMx2w6fMPuo+Md1VY0NVBv+VmtDNzsYkJZhkMti2QwrxbQtlhAr5SLFvj4HQ/CcL9kZkxoJuWtLYPGHOojqpiJi5cFMqRmpPgspgATFxTk58GuFgaRs+i6ar5ucD0mytIdIaIW/gG8l29GbrEUXd9B9PLs3mscrNwHzE5YJllFhP7X40j3CMksnBEhWjKnGDuGWm5K1OCU/s/eKDt8=;uap7QkwKRkGmufINHbfKtQ=="
 ---

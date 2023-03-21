@@ -97,6 +97,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Tesla's Rolling Out a Revised Version of 'Full Self Driving' After Recall"
+    excerpt: "Tesla is pushing out an updated version of its \"Full Self-Driving\" beta, its semi-autonomous driving system that was recalled earlier this year for behavior that regulators deemed unsafe. The system is not fully autonomous, as it relies on human ..."
+    publishedDateTime: 2023-03-21T18:58:00Z
+    webUrl: "https://www.roadandtrack.com/news/a43375512/tesla-rolls-out-revised-full-self-driving-after-recall/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 33
 
 secured: "H6kVY+jtTY8EWlYUncQGghQlVoJp47KkWavu9ytUtAafIGsGi9VB7xHZt6LPAbjnUA4mCD5Jdwls+ZX7x7e+CSwgUcaNjLRvbZ09ZIQtaedMEB3JwIWt3ffWsSiqK92elJunCBc7V7KOn6SHqTAaqs8Mv6G0FaArTc/ecAyLNQXUuixU0q91ALIIFzvgXZT/yXnIjJc5vJcfy70mAkmvYdR58VfXYsocNXBVfxS7/tBH0wFRjNwbTuydF12roWKw85g//Q342MqGof1NxrgSmcdMsr/iDIocYjiQDw8jqU5ecFXya77UHt2GCvWEH+Z+7aqJpeLdAHLxRKZ9KlYkuUBIt0wZTD8KZ+NtoUoA3VILxc6iS+qU/7fxOOrzkF/uzuFawAfsUlaf3ADKxip4G8RYrjWnK3bV13MPJA5KtiOMg1h1Cvnhrmg7QE38C6QJBcErwe3+nPDhPCDdRhayQt7ZCBFpdQVOtTJbGbgTCMFV+t2iiGH/ETcAAaS946F4t8Mx/S7ZUed9lQ99abZjlQ==;ii0suwRpTs1KZr38nU1nag=="
 ---

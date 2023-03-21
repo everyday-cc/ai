@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems.md",
+      "title": "OSM Worldwide Partners with Ambi Robotics to Automate Parcel Sortation with AI-Powered Robot Systems",
+      "excerpt": "Ambi Robotics solutions are powered by AmbiOS, the company’s proprietary operating system that leverages advanced simulation-to-reality (Sim2Real) artificial intelligence (AI). This breakthrough technology enables Ambi Robotics systems to be hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems",
+      "originalUrl": "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/2f715622-41f7-4b52-a574-f3a223194538.jpg?crop=true&height=430&t=1678916395&width=640",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps.md",
+      "title": "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps",
+      "excerpt": "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 462,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
+      "publishedDateTime": "2023-03-21T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-google-ceo-tells-employees-that-80000-of-them-helped-test-bard-ai-warns-things-will-go-wrong.md",
       "title": "Google CEO tells employees that 80,000 of them helped test Bard AI, warns 'things will go wrong'",
       "excerpt": "“As more people start to use Bard and test its capabilities ... as the company tries to keep apace with the quickly evolving advancements in generative AI technology over the last several months — especially Microsoft-backed OpenAI and its ChatGPT ...",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/21/google-ceo-pichai-memo-to-employees-on-bard-ai-things-will-go-wrong.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -61,7 +156,7 @@
       "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -252,7 +347,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -291,7 +386,61 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances.md",
+      "title": "Nvidia partners with Google Cloud to launch AI-focused hardware instances",
+      "excerpt": "Nvidia has partnered with Google Cloud to launch new hardware instances designed to accelerate certain AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/",
+      "originalUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-957037038-nvidia.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/",
+      "publishedDateTime": "2023-03-21T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -396,6 +545,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai.md",
+      "title": "Nvidia will bring AI to every industry, says CEO Jensen Huang in GTC keynote: “We are at the iPhone moment of AI”",
+      "excerpt": "This follows Microsoft Azure’s private preview announcement last week for its H100 virtual machine, ND H100 v5. Meta has now deployed its H100-powered Grand Teton AI supercomputer internally for its AI production and research teams. And OpenAI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Keynote-Wrap-Up-Image.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
+      "publishedDateTime": "2023-03-21T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -510,7 +712,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -550,7 +752,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -562,7 +765,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -614,7 +817,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -666,7 +869,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -706,7 +909,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -718,7 +922,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -815,7 +1019,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1217,7 @@
       "originalUrl": "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1053,204 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-try-bard-and-share-your-feedback.md",
-      "title": "Try Bard and share your feedback",
-      "excerpt": "We’re starting to open access to Bard, an early experiment that lets you collaborate with generative AI. We're beginning with the U.S. and the U.K., and will expand to m…",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/try-bard/",
-      "originalUrl": "https://blog.google/technology/ai/try-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Asset_1_-_Bard_Hero_Prompt_xUvec91.gif",
-          "width": 2096,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/try-bard/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/try-bard/amp/",
-      "publishedDateTime": "2023-03-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-adobe-firefly-brings-text-to-image-ai-to-the-masses-with-artist-ethics-in-mind.md",
-      "title": "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind",
-      "excerpt": "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
-      "originalUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
-      "publishedDateTime": "2023-03-21T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-a-psychologist-explains-how-ai-and-algorithms-are-changing-our-lives.md",
-      "title": "A Psychologist Explains How AI and Algorithms Are Changing Our Lives",
-      "excerpt": "Behavioral scientist Gerd Gigerenzer has spent decades studying how people make choices. Here’s why he thinks too many are now letting AI make the decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c",
-      "originalUrl": "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-743100/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules.md",
-      "title": "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules",
-      "excerpt": "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "publishedDateTime": "2023-03-21T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

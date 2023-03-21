@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T19:33:00Z
 originalUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-to-almost-double-by-2031-2023-03-21"
 webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-to-almost-double-by-2031-2023-03-21"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: MarketWatch

@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-
 ampWebUrl: "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: VentureBeat

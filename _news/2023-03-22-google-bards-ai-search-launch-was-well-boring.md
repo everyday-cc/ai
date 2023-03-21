@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T18:46:00Z
 originalUrl: "https://www.pcworld.com/article/1666669/google-bards-ai-search-launch-was-well-boring.html"
 webUrl: "https://www.pcworld.com/article/1666669/google-bards-ai-search-launch-was-well-boring.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC World

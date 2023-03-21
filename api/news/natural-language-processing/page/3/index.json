@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-16-fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages.md",
+      "title": "Fraudsters are using machine learning to help write scam emails in different languages",
+      "excerpt": "Business Email Compromise attacks are effective and costly -- and by using translation tools, attackers are going after a wider range of potential victims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
+      "originalUrl": "https://www.zdnet.com/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d9786550c67acbeb1602d3fb710cd24875c75f9b/2023/02/16/5b62641b-4d10-498a-aab0-58ff38683275/getty-a-businesswoman-looking-at-a-laptop-while-alsoe-examining-paperwork.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
+      "publishedDateTime": "2023-02-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages.md",
       "title": "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages",
       "excerpt": "Moveworks delivers state of the art machine translation by combining some of the world's most advanced generative AI and large language models — including OpenAI's GPT-3, Google's RoBERTa model ...",
@@ -1301,49 +1355,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-liberal-senator-andrew-bragg-will-publicly-lobby-peter-dutton-to-embrace-indigenous-voice.md",
-      "title": "Liberal senator Andrew Bragg will publicly lobby Peter Dutton to embrace Indigenous voice",
-      "excerpt": "Bragg’s ‘five reasons the voice is right’ position paper may go unheeded after opposition leader tells party there was no need to settle its position as it awaits more detail",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/feb/08/liberal-senator-andrew-bragg-publicly-lobby-peter-dutton-to-embrace-indigenous-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T19:33:00Z
 originalUrl: "https://www.standard.co.uk/news/crime/google-high-court-deepmind-nhs-royal-free-hospital-b1069000.html"
 webUrl: "https://www.standard.co.uk/news/crime/google-high-court-deepmind-nhs-royal-free-hospital-b1069000.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: London Evening Standard

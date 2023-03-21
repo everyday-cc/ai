@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
+    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
+    publishedDateTime: 2023-03-21T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 Best AI Chatbots in 2023"
     excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
     publishedDateTime: 2023-03-20T21:23:00Z
@@ -83,7 +99,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
         width: 600
@@ -119,6 +135,22 @@ related:
         width: 1200
         height: 1125
         isCached: true
+  - title: "Google opens sign-ups for its Bard AI chatbot"
+    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot ... a large language model. LLMs are essentially advanced deep learning algorithms, with a range of abilities that include translation ..."
+    publishedDateTime: 2023-03-21T20:29:00Z
+    webUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large-100917127-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
     excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
     publishedDateTime: 2023-03-19T05:59:00Z
@@ -151,20 +183,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI tech firms eager to join chatbot trend"
-    excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
-    publishedDateTime: 2023-03-21T00:47:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/21/WS6418eb76a31057c47ebb5863.html"
+  - title: "Google releases Bard, its competitor in the race to create AI chatbots"
+    excerpt: "Internet giant Google will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft."
+    publishedDateTime: 2023-03-21T20:14:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 41
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
-        width: 700
-        height: 466
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
     excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
     publishedDateTime: 2023-03-21T17:29:00Z

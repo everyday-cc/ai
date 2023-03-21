@@ -69,6 +69,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 56
+  - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
+    excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
+    publishedDateTime: 2023-03-21T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
+    ampWebUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/21/Digital-images-and-photography-in-Photoshop-2.jpg?auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
     excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
     publishedDateTime: 2023-03-21T13:00:00Z

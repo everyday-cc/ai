@@ -87,6 +87,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
+    excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
+    publishedDateTime: 2023-03-21T19:34:00Z
+    webUrl: "https://www.itworldcanada.com/article/the-urgent-need-for-better-governance-of-artificial-intelligence-highlighted-in-a-new-book-by-mila-and-unesco/533992"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 0
 
 secured: "zwAOD1G35UUkwnnOUuiaDqxxi4lgyko8/vV3Ti49ZHuOwPdidSl6xznrnA1owCO+tY21xZ44o1tu67Jh6gW2sym/+6V8JFrLJLmOyQFm4kYPjmViH06yxQSbamjJ/HwJd7jMYxQHkFv5SvUkz+cq/Uf1Cfnr4aUI3XhmyOPf+WYZgLcNKZLvH76y0BAHnqGZ+GhdA37zW3IQvA3eMbV7fO9wy9nU6HDlhDCDJ0IEusonh4vzWnt/GQ/mQlqJEs/6tdWmz9c77p1GLtWQO2zZWFYfxBHe5KLSUFBBD2BkpTiP3V48aMWFllxkjIGxYi+kasByCJFq2jwrE5qSYVU96b+W7eZuon2hlIyFh2Z6xRI=;Ppa+5f7kFmIKYnKKWnRLhg=="
 ---

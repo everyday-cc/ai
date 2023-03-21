@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-01-18-tesla-employee-testifies-autopilot-video-was-actually-staged.md",
-      "title": "Tesla Employee Testifies Autopilot Video Was Actually Staged",
-      "excerpt": "Elluswamy claimed that the video was not an accurate portrayal of a Tesla’s so-called self-driving capabilities at the time and Andrew McDevitt, the lawyer representing Huang’s family ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
-      "originalUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fa6eecf6bc8a6fcfca54c6ecfeac5942.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
       "title": "What's Going On With Baidu Shares",
       "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
@@ -1373,6 +1321,51 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-manufacturing-finance-among-industries-to-benefit-from-whats-next-in-ai-for-2023.md",
+      "title": "Manufacturing, Finance Among Industries to Benefit from What's Next in AI for 2023",
+      "excerpt": "From the hen house to the warehouse, to real-world robots that may already have a role in your house, AI seems like it's everywhere. That's because with a steady stream of new research and innovative applications reaching into nearly every industry and business sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
+      "originalUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/2023_ai_whats_new_graphic_v2.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
       ]
     }
   ],

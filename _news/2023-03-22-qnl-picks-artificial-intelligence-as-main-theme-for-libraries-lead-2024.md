@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T19:39:00Z
 originalUrl: "https://www.gulf-times.com/article/657914/qatar/qnl-picks-artificial-intelligence-as-main-theme-for-libraries-lead-2024"
 webUrl: "https://www.gulf-times.com/article/657914/qatar/qnl-picks-artificial-intelligence-as-main-theme-for-libraries-lead-2024"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Gulf Times

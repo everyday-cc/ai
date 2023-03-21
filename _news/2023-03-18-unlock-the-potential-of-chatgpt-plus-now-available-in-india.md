@@ -59,6 +59,22 @@ related:
         width: 401
         height: 325
         isCached: true
+  - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
+    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
+    publishedDateTime: 2023-03-18T11:25:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
+        width: 868
+        height: 489
+        isCached: true
   - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
     excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
     publishedDateTime: 2023-03-19T03:44:00Z
@@ -75,6 +91,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
+    excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-chatgpt-and-generative-ai-can-transform-your-business/445066"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 46
   - title: "Apple may update Siri as it struggles with ChatGPT"
     excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
     publishedDateTime: 2023-03-17T16:30:00Z
@@ -91,17 +116,6 @@ related:
         width: 580
         height: 363
         isCached: true
-  - title: "New Jersey becomes the latest state to be influenced by artificial intelligence ChatGPT"
-    excerpt: "As the artificial intelligence chatbot ChatGPT continues to make waves around the country, New Jersey is now seeing its influence take hold in full effect. News 12's Brian Donohue chatted with a Princeton student who is trying to help people figure out ..."
-    publishedDateTime: 2023-03-17T02:55:00Z
-    webUrl: "https://newjersey.news12.com/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    ampWebUrl: "https://newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    cdnAmpWebUrl: "https://newjersey-news12-com.cdn.ampproject.org/c/s/newjersey.news12.com/amp/new-jersey-becomes-the-latest-state-to-be-influenced-by-artificial-intelligence-chatgpt"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 29
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
     publishedDateTime: 2023-03-18T11:02:00Z

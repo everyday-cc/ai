@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-eth
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/"
 type: article
 quality: 74
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fujitsu and Ochanomizu University establish new AI ethics research lab, leveraging AI technologies to promote gender equality"
-    excerpt: "Mar 16, 2023 TOKYO, Mar 17, 2023 (JCN Newswire via COMTEX) -- Fujitsu and Ochanomizu University today announced the establishment of the \"Fujitsu-Ochanomizu University Social Collaboration Program for AI Ethics\", a new joint research laboratory to develop ..."
-    publishedDateTime: 2023-03-17T02:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fujitsu-and-ochanomizu-university-establish-new-ai-ethics-research-lab-leveraging-ai-technologies-to-promote-gender-equality-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fujitsu & Ochanomizu University Establish AI Ethics Research Lab, Leveraging AI Technologies To Promote Gender Equality"
     excerpt: "Fujitsu and Ochanomizu University today announced the establishment of the \"Fujitsu-Ochanomizu University Social Collaboration Program for AI Ethics\", a new joint research laboratory to develop AI solutions contributing to the solution of gender equality ..."
     publishedDateTime: 2023-03-17T06:23:00Z

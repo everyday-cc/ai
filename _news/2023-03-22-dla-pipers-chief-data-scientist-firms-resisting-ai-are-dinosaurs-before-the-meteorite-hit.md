@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T19:12:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/03/21/dla-pipers-chief-data-scientist-firms-resisting-ai-are-dinosaurs-before-the-meteorite-hit/"
 webUrl: "https://www.law.com/legaltechnews/2023/03/21/dla-pipers-chief-data-scientist-firms-resisting-ai-are-dinosaurs-before-the-meteorite-hit/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Law
