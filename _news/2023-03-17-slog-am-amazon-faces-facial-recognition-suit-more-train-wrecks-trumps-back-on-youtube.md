@@ -117,6 +117,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Are facial recognition cams like the ones in China coming to a store near you?"
+    excerpt: "A New York City store recently admitted to tracking its customers with Chinese facial recognition cameras. Here's what you should know."
+    publishedDateTime: 2023-03-21T00:00:00Z
+    webUrl: "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/"
+    ampWebUrl: "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 55
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2023/03/kk-article-20230321-hikvision-chinese-cameras-us-grocery-stores-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon sued for installing facial recognition ID"
     excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
     publishedDateTime: 2023-03-17T09:46:00Z

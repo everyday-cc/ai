@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/"
 type: article
 quality: 104
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/7d6f8ad93058dc76124df00bd4b321756f9d8701/hub/2022/04/22/7248d0ba-a255-4cc6-9adc-1b3816f88f4d/microsoft-logo-2022-638.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
+    excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
+    publishedDateTime: 2023-03-21T00:53:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 739
         isCached: true
   - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
     excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"

@@ -3,23 +3,22 @@ category: news
 title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
 excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
 publishedDateTime: 2023-03-20T13:24:00Z
-originalUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+originalUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -48,6 +47,20 @@ related:
     excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
     publishedDateTime: 2023-03-20T02:34:00Z
     webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "3D Facial Recognition Market Size and Forecast till 2029"
+    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
@@ -140,6 +153,6 @@ related:
       domain: abc7chicago.com
     quality: 16
 
-secured: "Bc4rdURAJA4jySyJne1dQ7qQv86ZaTKRqtEVxHx8Y/tetapy4cjQPNuLZ9WZ+NcJU5NBbFEHGrNdVCwFF3sLCjEU1MlS1wzAU228F+ciX7RDLxDnDdtXL/SHkWd1C6iFiHCIsxIowOTIRdQ3gdUKYBQSYd0p3zTXMOmIldwxy7HqbQD76qS69FznPt1JNg/c9mUz+pAj0X2FJu5N0wBsp1ICvCXh9t+gWg0vLE0oC7hsynzDzJaTbx8u1kuElnt9Yd9Zlj5+BZcdFkxjTQWjiaWr8yH/KtD/0u5vOcF+KCdytEzDUmeJYFUt/jgShGfgUfiyV08WeK4O8J7lW1Rw0ku7UAL6Y1H71OEz3YmxVSg=;YlpN66YyAuXiONklFfbM5A=="
+secured: "FAwbvAXXt0NiKvlJ4v31KQjcovu5pKkTsxkBoJyIpRHpbdxQmjJ9ndKntGBvVd98S22YNW9xExcKMhCkaamPdnf7486Ym+s4NolwH264B9UIolxTL12EDMGTYGlDn31jKhQmXsBSNOJgNkKhSbDtN3LY1Ut5i8HKIYWBTjeAqTaZHGOSxw+sGxkQMhVIi1kixIQbnlfQQwtXn0gzDgwxTjR6AlR4fNjf1yQO8nOwkyPQr811W9dfj8s5bkAccbem+BfLFfPFFG+MqCu6Rr5G8P5yzEdbNhOZBWf3sdxjpqYneYZgn/tfDdYHarcwVWLdT7mAby9eVPpTiNSdwN1mV4XiHinGan2zdaWhpNz6CyU=;KxtwpG5duUdgQsXOx0TxmA=="
 ---
 

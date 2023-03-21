@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
+    publishedDateTime: 2023-03-17T16:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Intelligent Voice Recognition market research report aids expansion in industry revenue"
     excerpt: "Intelligent Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
     publishedDateTime: 2023-03-18T01:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets
 webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023BarraBloomberg.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "GM Wants The Feds To Ease Self-Driving Regulations"
+    excerpt: "General Motors CEO Mary Barra held a meeting with two US senators last week as the Detroit automaker wants legislation passed to increase the deployment of self-driving vehicles in the country."
+    publishedDateTime: 2023-03-19T11:18:00Z
+    webUrl: "https://carbuzz.com/news/gm-wants-the-feds-to-ease-self-driving-regulations"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 24
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "rlR8cUF8h6MRa5Q3J2hsqYk7vS5cfkDcJ1Ijxlq5Qxrei4WkXBl5Nyi4i4aSnGSoAI9h6vDAKYTrJZioMxkP3Onkhy5i2willE6ovhrJSpuglGm5SgN4cU5KEo9BbK2wBK/+VCEn+7tBAOlpaE0rR385lpkFcJd+fNa66fVoUDJQsRM5OuXxEFLyWUupZ7KoZjUVcH26R9AOEnNgNQXLgWoH7ki8gjnqmZpf3gZ2iSK7mlbKkaxKjMlXX1qlZX7f7VJWKVkT1sB9qE8ToPFhypYq+oe8EYgyQeSNRO3B4pqKHujjj+dAa2KVKp17PF8tMHyON5ktubvvYleRye5IR3oahQrJBVApdSpdtoZLFDw=;7n2dciS2DmtgKkS8e5RW8w=="

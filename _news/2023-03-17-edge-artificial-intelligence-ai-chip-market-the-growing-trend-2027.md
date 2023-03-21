@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-artificial-intellig
 webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15"
 type: article
 quality: 99
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -215,15 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "How AI can make marketing more effective"
-    excerpt: "Once you’ve used AI to optimize existing marketing content, it’s time to start generating new materials. Here are a few of the best AI tools to help you create new marketing content. In a word: no. Conversational AI is a tool that can provide new ..."
-    publishedDateTime: 2023-03-16T08:47:00Z
-    webUrl: "https://www.fastcompany.com/90866508/marketing-ai-tools"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "WHBvdUKgs7RGSSFzBpFmiOlumKUlhZk0GrghXIJ6RLuDawYSoW5JXT3pdxvHvYIhjzSDajuHPL/FH6UMqssbIrT4R4QS8c4jSsuKWSywdCtTqYQ439HwvKMZleWPpqzA0pHvOo92YKA/Wq0reu/ZM3aO1hgE4F3WJ0YdLE+IawOkbdM8NNJsng4ZKCaP+xHBEZbtkHmaiIjxrWg1y4K+gvXFvsh3+gyga0J727FTsbKQyKszPJvtOJmvm0Sm8GBtB/LeBYOWCp3QPgwG2yXIQ5MzY+vTDxiNJ2KrzMlBAoOHvZD3FQBJKf69P4er40aCRB8XZ30GbnHJzpgAe7dtnxaEfju3zbqSGSAXarcLi9M=;pZBLpNhTChADnqvy3byfzQ=="
 ---

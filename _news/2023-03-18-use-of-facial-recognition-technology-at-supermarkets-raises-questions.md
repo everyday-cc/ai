@@ -55,17 +55,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Market Size and Forecast till 2029"
+    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
     publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 56
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 54
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920

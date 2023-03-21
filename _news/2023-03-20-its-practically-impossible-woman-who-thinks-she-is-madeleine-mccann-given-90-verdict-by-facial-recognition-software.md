@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Madeleine McCann: Polish woman Julia Faustyna most likely not missing girl, according to facial recognition"
+    excerpt: "The results of a facial recognition assessment on the Polish woman claiming to be missing toddler Maddie McCann have been revealed, with the Swiss company behind the test calling it ‘over 90 per cent accurate’."
+    publishedDateTime: 2023-03-21T01:01:00Z
+    webUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074"
+    ampWebUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 41
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-10104074/651e3340c94fc6b5477eda3ae6d96c4d8a61c7b0-16x9-x0y3w2448h1377.jpg?imwidth=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "OunOYCaIXqpOlo2ccl621+bCczMPgsmwRqKEGsHLlmG9b0REbc/Zpr398MlPA8lzu6LcUFny/OFavRmr4Y/gWJwyiMhVAgllmHGDvx5lBwhpwMv+OuJyZHp08QFYFbuJwEBJQJjsNZzyn37HGaAVUPgFZJdUoqOI5ese64bhgw+y7n7/+fmCL+q5gYSbA094nDQzDHgGkXLnjcnaSXyUCjqwZS2g6RlUJemJNoJ7hIJtDSefu4yB1+zL0N+jvYm4pZQZKLNOJFBgxhkibyFVD9m0v0//F1S26pwJc3Bixtdq6YiZGo/lspunwF5T94eU5LUxjXbzdz89tAdoV0IH7r32FijkF2GKuWSuSpxBq9/W8912eueITm7HrjnmczZPyA42cnhjcIk/jv3NyhDobLounpmcGdiJJRJq7/liicAeEd7N8KaOo8BjyhuFBT03r8lhGOyaQ35LnLBA1Amq8dxYI+Iy9yPMCfXlNdH+QsWsqL9+Lj/dYF07K6/iy7r6YMqMSeBh6ziZeV36ZoUm9A==;jebJbYJAkNmIywmSsbR/Iw=="
 ---

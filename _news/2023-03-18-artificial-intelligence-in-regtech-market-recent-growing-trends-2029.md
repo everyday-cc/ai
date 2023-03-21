@@ -215,15 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "How AI can make marketing more effective"
-    excerpt: "Once you’ve used AI to optimize existing marketing content, it’s time to start generating new materials. Here are a few of the best AI tools to help you create new marketing content. In a word: no. Conversational AI is a tool that can provide new ..."
-    publishedDateTime: 2023-03-16T08:47:00Z
-    webUrl: "https://www.fastcompany.com/90866508/marketing-ai-tools"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "zRPvO4MyLA2w04Sf3H9x+uXTadz89ZgiYeEcH/OObf3QsusrGikRwGXRShChuxZmU13YnGGLLZUrAPZKfXenR48DWilGszWpWBH0f52ijzznx+RqUzmLtjR3ahO1MbsX7VQ9NhgaRlpNPKZumffMSHDiQvXwmUcot7QuOG4GYFQzOlA4liBGcqAdrq1HFyMKVDA4uQai8ipreTzZB6wskqsBwi8NIJXsqQbw35+15rojPwx4jeyKHnJPIF+1dZVxH3ZJjBj5baB/kHJrnlCCuikt3Lta9yPwOWxzhWk79c+TeMoXAdbpjHtIqaIX+R5GEMGLJ/ikDmdj96cpBNuDJnaaiszMNJtxGef2u9yBAxg=;xouYtKgcgi2GYacC1TCQyw=="
 ---

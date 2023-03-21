@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/20/beyond-the-hype-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/20/beyond-the-hype-what-you-really-need-to-know-about-ai-in-2023/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "What You Need To Know About Liability In Self-Driving Car Accidents"
+    excerpt: "Taking the world by storm, self-driving cars have been all the rage ever since they hit the market. Their advanced technology and superior design have also significantly contributed to their ..."
+    publishedDateTime: 2023-03-18T19:08:00Z
+    webUrl: "https://menafn.com/1105807968/What-You-Need-To-Know-About-Liability-In-Self-Driving-Car-Accidents"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/R&AN_f5841image_story.jpeg"
+        width: 800
+        height: 449
+        isCached: true
 
 secured: "365NdP3G2g2Kuw0T5Tgh/XfRMqBtTfbdCI4peaaJ5IsPJCi4/3++ExJfoGoTjdCdXhrsouxN9HIOttnBzcKVZSI4OjSMHM+TojB4Z4XK4VfZXzKCeN/Viv/JeYDKutJF2AzJGA0jfItZE4mUb7o4tSgADPeRwN1/oeI0fFTSo6VE2uEQ2KzjfD7H29MzyvNXK7jPv1N/xMRRW50rEk3PWRr/zBYh3Hzb11ySEpQpIkYzYHeumT0kGp20+Ify9RXb9t9y+ft2wt1kaajzIDGDI4TQkikbSFrRloJq3EfV/GszNY3zmlwlH+lkV1Stw3r/JjbaLy7rmMnGaKqXIscJtbb56eN+GJf2pf3L9WD0t340SkB7C7RTuSo9UJuwUfSanHp6oe45qHDbYclopX/joa/oSnx/enSwLJZZ1acr/TRu8JGmqJrQgF9qsAhFktN1F/74mIKUm/7/sxRjTDSPicXF8gxKM1mdVUXrABS3gmwn2Jl32PrSkPQb+s8tytsmO4h5ZmUBFOrLy+UoCdwhyQ==;Tm/Ugmn5L04vjd/9/sxnRw=="
 ---

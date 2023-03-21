@@ -146,22 +146,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Exploring Top Trends of Artificial Intelligence in 2023"
-    excerpt: "The use of Artificial Intelligence (AI) has now permeated many aspects of ... from chatbots and virtual assistants like Siri and Alexa to automated equipment and self-driving automobiles. The technology used today most frequently to produce AI is machine ..."
-    publishedDateTime: 2023-03-16T08:00:00Z
-    webUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023"
-    ampWebUrl: "https://www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
-    cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/exploring-top-trends-of-artificial-intelligence-in-2023/m-lite"
-    type: article
-    provider:
-      name: Speaking Tree
-      domain: speakingtree.in
-    quality: 61
-    images:
-      - url: "https://www.speakingtree.in/b/820658-1350-420-5-1678952056/exploring-top-trends-of-artificial-intelligence-in-2023.img"
-        width: 959
-        height: 420
-        isCached: true
   - title: "The stupidity of AI"
     excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
     publishedDateTime: 2023-03-16T13:13:00Z

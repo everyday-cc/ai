@@ -214,15 +214,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI can make marketing more effective"
-    excerpt: "Once you’ve used AI to optimize existing marketing content, it’s time to start generating new materials. Here are a few of the best AI tools to help you create new marketing content. In a word: no. Conversational AI is a tool that can provide new ..."
-    publishedDateTime: 2023-03-16T08:47:00Z
-    webUrl: "https://www.fastcompany.com/90866508/marketing-ai-tools"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "Sw7/Y1PXNWxtT0pkm8/4SrE8GNGZoU0amXKU8nXtq/y7VLVyGobrVCGF6zGqnbv+t8c8B7madB0+uxs7U/O4cWVXUNB0r5ST5p3sJFa6hdTY0ZwfFR3lSYeZBCxgLMutfnkl2dB9Y0U/SqhmoOAnHElShGduySq/5uh+ZdSTU2X8A8P53u5QP3Lq3MZdxKmD9GVQI3Vntk7U4eFcoQxKAuleLT0Z5GaV+5mw47N5gjaIQENtSVz4lVAvovOZHNb2E6FmbtGbYXYLFmSXqV3/uKOXqBdT2RgrlE/zdtftAyMinUd4G+ZyIsdRgDISMEUnaSAQWBRV7MS1SkVjaHZiEGlS7j1fOyyNnKzoc5sOfeE=;egiMYy8UiPETnpRQ6ewYSw=="
 ---

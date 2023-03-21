@@ -72,22 +72,6 @@ related:
         width: 800
         height: 750
         isCached: true
-  - title: "Baidu shares fall after disappointing AI chatbot debut"
-    excerpt: "But China's strict censorship and US restrictions on chip sales could limit Baidu and other Chinese companies' AI ambitions. ChatGPT is blocked in China, but the American software is gaining a base of Chinese users who use virtual private networks to get ..."
-    publishedDateTime: 2023-03-16T07:55:00Z
-    webUrl: "https://www.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
-    ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20230316-baidu-shares-fall-after-disappointing-ai-chatbot-debut"
-    type: article
-    provider:
-      name: Radio France Internationale
-      domain: www.rfi.fr
-    quality: 59
-    images:
-      - url: "https://s.rfi.fr/media/display/2e64a3b0-c3cf-11ed-8ca6-005056a90321/w:1280/p:16x9/48e8aa1be592c890b623a75ccfba438b9c2efd3a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence expert weighs in on the rise of chatbots"
     excerpt: "What if a chatbot comes across as a friend? What if a chatbot extended what could be perceived as intimate feelings for another? Could chatbots, if used maliciously, pose a real threat to society? Santu Karmaker,"
     publishedDateTime: 2023-03-17T16:22:00Z
@@ -186,19 +170,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu unveils ChatGPT-rival Ernie Bot; 650 companies sign up"
-    excerpt: "HONG KONG (AP) — Chinese search giant Baidu unveiled its artificial intelligence ... AI cloud, autonomous driving and in smart devices. The Ernie Bot launch comes months after OpenAI’s ChatGPT ..."
-    publishedDateTime: 2023-03-16T08:58:00Z
-    webUrl: "https://www.whec.com/science-technology/baidu-unveils-chatgpt-rival-ernie-bot-650-companies-sign-up/"
+  - title: "AI tech firms eager to join chatbot trend"
+    excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
+    publishedDateTime: 2023-03-21T00:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/21/WS6418eb76a31057c47ebb5863.html"
     type: article
     provider:
-      name: news10nbc
-      domain: whec.com
-    quality: 39
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
     images:
-      - url: "https://www.whec.com/wp-content/uploads/apimg/2023/03/China_Baidu_63657.jpg"
-        width: 512
-        height: 341
+      - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
+        width: 700
+        height: 466
         isCached: true
   - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
     excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."

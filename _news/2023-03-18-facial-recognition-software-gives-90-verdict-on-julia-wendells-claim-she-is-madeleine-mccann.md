@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://www.nzherald.co.nz/resizer/Y0PrjgtEd-SvCXz69M5Jqs2EMiw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TDHRVQ3M3ND4NJNIBGBJLI3XYA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Madeleine McCann: Polish woman Julia Faustyna most likely not missing girl, according to facial recognition"
+    excerpt: "The results of a facial recognition assessment on the Polish woman claiming to be missing toddler Maddie McCann have been revealed, with the Swiss company behind the test calling it ‘over 90 per cent accurate’."
+    publishedDateTime: 2023-03-21T01:01:00Z
+    webUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074"
+    ampWebUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 41
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-10104074/651e3340c94fc6b5477eda3ae6d96c4d8a61c7b0-16x9-x0y3w2448h1377.jpg?imwidth=1200"
+        width: 1200
+        height: 673
         isCached: true
   - title: "'It's practically impossible': Woman who thinks she is Madeleine McCann given '90% verdict' by facial recognition software"
     excerpt: "A woman who thinks she is Madeleine McCann has been given a near-conclusive verdict after a test by a Swiss facial recognition software company."

@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Four Reasons Self-Driving Cars, Not Drones, Will Deliver Your Packages"
+    excerpt: "Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ultimate ..."
+    publishedDateTime: 2023-03-17T21:38:00Z
+    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 4
 
 secured: "oAGc8ZmMaCOGNVcy/s6Uq4Wsqt77E6JERBADcefNYVXoglMXgWhmsAlenxYxUcFP66GWgATs7BXj7X0pXL+CJbMBt+u09jAh+2ojvg5/dDubfrzTPDs3XJWuyKKV5RekMc71d9g2SXkwdKyNK+Ku9MOWe/V5f7zNMSj/m0yaY0Jhrqn02cazg7orv8trAJSA99Kly67XmFtNv7FvZOlWo8Clz862Rj47KkT8thrtJwRLocVl1kPdQ5VvxI3yfiQ8dO0uhR7E6kAQqJZ90BX4IBZo4ilcXATmSvTQyU68JunsaYvLL/bmAHxUd/Wo1KVft+5urnS/4F6AzoOncvcfBEZ6PFeXJKYyimxizTASgyvwLfUPuUWbkx/PR4/sCRJ40r55qeDeq9Kwo+QHdXZWt+Wn01X1yLm2zwOtq2u96dO5Z6oPKuGZMeo/rN/kdDvP9VWNykvzWl8XDtlxalH+LlLgObahpF6AHXevqVOPuj1/dWHQD/8SxlzZh7naiAYweL1xhXY0TNcfCJI/m8253w==;R4Doe19eF0oda/4Lor5njQ=="
 ---

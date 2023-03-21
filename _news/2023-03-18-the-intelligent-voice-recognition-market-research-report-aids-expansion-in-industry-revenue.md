@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
+    publishedDateTime: 2023-03-17T16:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Device Market 2023 : Geographic Expansions, Technological Innovations In The Market"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market ..."
     publishedDateTime: 2023-03-17T07:48:00Z

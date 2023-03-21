@@ -248,20 +248,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market Foreseen To Grow Exponentially Over 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market 2023 with 127 Pages Report and enhance with extents shares into sub-counties are covered in this ..."
-    publishedDateTime: 2023-03-16T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-foreseen-to-grow-exponentially-over-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence-Emotion Recognition Market Growth 2023-2028, With New Insights"
     excerpt: "Mar 18, 2023 (The Expresswire) -- Report Highlights with 121 pages:-\"The global Artificial Intelligence-Emotion Recognition market size was valued at USD 875.88 million in 2022 and is expected to expand at a CAGR of 18.15% during the forecast period ..."
     publishedDateTime: 2023-03-18T16:19:00Z
@@ -271,20 +257,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Courses for C-suite Executives Market Is Booming Globally Forecast 2023-2029"
-    excerpt: "Mar 15, 2023 (The Expresswire) -- Artificial Intelligence Courses for C-suite Executives Market 2023 with 107 Pages Report and enhance with extents shares..."
-    publishedDateTime: 2023-03-16T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-courses-for-c-suite-executives-market-is-booming-globally-forecast-2023-2029-2023-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

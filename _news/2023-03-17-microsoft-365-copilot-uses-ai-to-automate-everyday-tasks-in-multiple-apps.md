@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
+    excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
+    publishedDateTime: 2023-03-21T00:53:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 739
+        isCached: true
   - title: "Elon Musk Questions Microsoft's Decision to Layoff AI Ethics Team"
     excerpt: "Among the employees affected were the company's entire ethics and society team in the artificial intelligence (AI) sector. The team was responsible for assessing the potential risks and harm posed by AI and then discussing those issues during product ..."
     publishedDateTime: 2023-03-16T15:07:00Z

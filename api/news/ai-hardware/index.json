@@ -253,7 +253,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -305,7 +305,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1094,20 +1094,20 @@
     },
     {
       "path": "_news/2023-03-10-groq-adapts-metas-chatbot-for-its-own-chips-in-race-against-nvidia.md",
-      "title": "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia",
-      "excerpt": "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ...",
+      "title": "Groq adapts Meta's chatbot for its own chips in race against Nvidia",
+      "excerpt": "The move is significant because Meta's researchers originally developed LLaMA using chips from Nvidia Corp (NVDA.O), which has a market share of nearly 90% for AI computing according to some ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533",
-      "originalUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533",
+      "webUrl": "https://www.reuters.com/technology/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-2023-03-09/",
+      "originalUrl": "https://www.reuters.com/technology/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-2023-03-09/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg",
+          "url": "https://www.reuters.com/resizer/-W4frXaSmf0PlA0gh3XXO6r4Wus=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GLNZQLDHR5NL5IPYY4D6W6TP2Y.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1115,14 +1115,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1",
-      "publishedDateTime": "2023-03-09T15:49:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T00:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
