@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Cellebrite Announces Enhanced Solution Capabilities for Digital Investigations"
-excerpt: "Cellebrite Announces Enhanced Solution Capabilities for Digital Investigations Cellebrite's latest AI-enabled Investigative Analytics Solution, Pathfinder X, equips investigators with new breadth of investigative"
-publishedDateTime: 2023-03-21T11:01:00Z
-originalUrl: "https://www.asiaone.com/business/cellebrite-announces-enhanced-solution-capabilities-digital-investigations"
-webUrl: "https://www.asiaone.com/business/cellebrite-announces-enhanced-solution-capabilities-digital-investigations"
+title: "Cellebrite Announces Enhanced Solution Capabilities For Digital Investigations"
+excerpt: "PETAH TIKVA, Israel and TYSONS CORNER, Va., March 21, 2023 (GLOBE NEWSWIRE) -- cellebrite di ltd. (Nasdaq: CLBT), a leading global provider of Di"
+publishedDateTime: 2023-03-21T13:01:00Z
+originalUrl: "https://menafn.com/1105827952/Cellebrite-Announces-Enhanced-Solution-Capabilities-For-Digital-Investigations"
+webUrl: "https://menafn.com/1105827952/Cellebrite-Announces-Enhanced-Solution-Capabilities-For-Digital-Investigations"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Notified-GlobeNewswire-Color-Large_219.jpg?h=10d202d3&itok=OsWL-tkX"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "vzCJpd7kqi+B9Wq3GwMAWePc98VIVcMrAaOEE/PpYFwIMxqIBfsfAjoBRnxmvRASvWC9OeXVHZm/inr31KqnOAM/w2bRjmyy6VLMSJYGykWyB/NB7SBGijBWyUYwsqNBCDO000NMLR4Wu3xNY6geZqK8akGh316wRiQ5hEk1fsyabtdkGjC++hrM2pwvkXjXy7QNohfNb0FkcI396SprEB+pHoLYQPHMY69h6dXoBqs1QwTSIYdXZoid7vR2+5qJbCML892G20nxMXNMxMooamWi6/s6Lot8e+X3Wl29aF5QWQMI724E/04njjQ1NplfywKJAb9SPSHNIyI2aZzGKQ3tCoGTt8m3vSlWZJA1L1c=;Jazh2FO+l4u8ZYREh691fA=="
+secured: "+IABZt8W5tVxDUllXXBWPbZLAX0bqjtfY62Bv9hSml5r9tUhy9qsS1bM3/ncXV6Bc4H1ucxxmGbxHOx5Y+Sb57uRawlX+sY/OUa3hLsS+lbkYbteDOJrVM0PDKZTJLt+bip4eL0GGEGV36aQH617NreG3czdag0EtcCLczd0gH5WsOtER9Z/AHrjw9nKfr4gOg3gEl2Jwte2fHLE1OAT9j16RL9zryoNLZBK0wQz9w1vJBC1pC7fQFe//+Q/hvUXCcneLMxcXWtNW1ufFnztNXps5QsJPvjnYdAKef8u82Obz3sE1At7ABKAk8c8DIjsOMRK99qiqrE6TAP/CC3zYpCeYAWwm43xE/eGDKYlQSI=;VvQU6cD+N96bwIgcR1xWqg=="
 ---
 

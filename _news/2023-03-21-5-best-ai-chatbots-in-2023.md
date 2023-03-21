@@ -21,6 +21,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
@@ -195,6 +197,6 @@ related:
         height: 466
         isCached: true
 
-secured: "k986Qp9497CGMR5lL09gTapuKFTzZay9jvx133IzeoyY1z6PoeuepHlx6mXnC9sSNA4/3lCcOfHih9GmdtOBg3SRqD0T0+qfMHGs1yFJ1wQ6qfs8Z9+K+jteLbsCfXIxS3jaP6024pg6vWv42ougrvTrDrE9o/hVFjrlWR1m3X587PC+PJUBizclKOWO6HLA49qrbBoYieTLLUqT9LIRi0AHc6OiPVIdJCR2C8BjtfiC3iVKVMohePT0y3s8Vrkv59Q5FdOA5Ug4a1OdctlYm/JMpuN3lK8xRa/RpYxgR5OAHfye6avjxoofoCLG1njznCj0rWbtZ/TxXlYnJMBsAXrD/02EERa228U0/PIpWVo=;VPDx06o9ILoEy3PAjiVz3w=="
+secured: "1BHYDGdBURnxyQinj14mzarz63uRlzfaFK2iBw1EcBdDUXmReoMOpha6gXYOOYEj3ZFr9qgu4iAWZzz2yS9Mbr2qGOmZJ8A56TXjf/D39ObLe4f8jgX6awSV1FiTboIo1IdTnD06sMr+uy9asesDfLFQPtFpmlu7zosMFr9sN9J2JyXyvKKMLvDH7sYlCgsOgHQpq8ys0hVy0ukRo71N/j+C3mTg3C/ZHg8EvFG511vh/LXfG0/G604ydgCu3TAGNM9rdPKquOkkhFjOq7HkWxdlWWMbuvNO2T79Lehaq/87eTHmS0UTy0IcZLECf+Bs5mDa5talxQNx/s031ZGyU/Ku2WtAdyZssD/GxrS0C1X2EkLUStbK9SVcLd+zmzJK5WpRIssX6sXtsIDs7ZyVOAFzJflek7fuDJsji2vYwkuo+r0YE2yRZdgcIlyl3jNg8b+JNp36tFGUthq8I9rvEQYjY+lOoc+g6vAfQPHuxIn23HkRv1r90cMQTM7iLTGzk1d3AmEWQ/EmwNakWtnnJQ==;Uzl0/17s3whe0RKTMMmZ9Q=="
 ---
 

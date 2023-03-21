@@ -1,31 +1,20 @@
 ---
 category: news
 title: "New Research Reveals That Employees with All Levels of Digital Skills Boost Hong Kong’s Annual GDP by US $47.5 billion"
-excerpt: "AWS has trained over 100,000 individuals in Hong Kong with cloud skills since 2014 HONG KONG SAR - Media OutReach - 21 March 2023 - (AWS), an Amazon.com company, today released new research that shows that employees with basic through to advanced digital skill levels in Hong Kong increases the city's annual gross domestic product (GDP) by US $47."
+excerpt: "AWS has trained over 100,000 individuals in Hong Kong with cloud skills since 2014 HONG KONG SAR - Media OutReach - 21 March 2023 - Amazon Web Services (AWS), an Amazon.com company, today released new research that shows that employees with basic through to advanced digital skill levels in Hong Kong increases the city's annual gross domestic product (GDP) by US $47."
 publishedDateTime: 2023-03-21T10:23:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/03/21/new-research-reveals-that-employees-with-all-levels-of-digital-skills-boost-hong-kongs-annual-gdp-by-us-475-billion/208056"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2023/03/21/new-research-reveals-that-employees-with-all-levels-of-digital-skills-boost-hong-kongs-annual-gdp-by-us-475-billion/208056"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2023/03/21/new-research-reveals-that-employees-with-all-levels-of-digital-skills-boost-hong-kongs-annual-gdp-by-us-475-billion/208056"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2023/03/21/new-research-reveals-that-employees-with-all-levels-of-digital-skills-boost-hong-kongs-annual-gdp-by-us-475-billion/208056"
+originalUrl: "https://www.asiaone.com/business/new-research-reveals-employees-all-levels-digital-skills-boost-hong-kong-s-annual-gdp-us"
+webUrl: "https://www.asiaone.com/business/new-research-reveals-employees-all-levels-digital-skills-boost-hong-kong-s-annual-gdp-us"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "nlMv2jyw+7LwzcFDmDbvnjmfwTrmtHOR8p88xoFmTVsOBOE8iuP5NW9OlchhdRkAPumc/N521ZCGm9vsQpqhhEq0VrZ5BRnVmqWwp0L6RWuaVLQNf7tNt48smv7qM2990BDCGFzqVRKhIx14RFy6lxYNn8f6TjrWBmm9fTDMCnlHh63E/V/85Zkf0KkqmZjsje/ajYo0gwiuBP9soxI0kqAks1JniULrvK6AQETh3hLSM2lRuX9vtjkV+2oaJZITrWqM1L6v9I9DyEOzh9D2UoS16FEVmZjcYhHyYQJ/22NLAoQIHUubzYD1XD5EjFKrNIgMnhrlHEPLf0OL4tpRmuvPWI+XlCI0/bP1k2xKVMk=;8HUOzuWKfcUS0tgNuu8LkA=="
+secured: "ldivlbwDgVqC2CwGQGARv6QOugoAC+wClsigHW0K4KpUwyjPhiei4neS2fgVyhljsrO522vwhjeRZb0fIO/m7G9tRMwR9RQtIGNIARmX4hewon4GvlMT1MO5uZJDJ6PUnrwYgKHbeLVoX9MAurZDA3oScuDHDZ2x+D24ofZ0E0veyLNH+MBSJCmBub/mp9VkFqMslELQmNkh6neUh+Ofeo7xInBCaOV0XZXtWCno/Xr5HqWBpJBtxKuVNZLT0AC5A/YAAWIwUx8uJ9dTnCLFEET/xsvoN03JqVHTpfSwaq01XfS94QdKTtMXZ8MhKrOtiSFmJzdyVOz0OLqj+dVNtanMYuswweWa50HV8zSQ8U4=;6p9IhHaB2Dox5hzuibczqg=="
 ---
 
