@@ -2,7 +2,7 @@
 name: "Aidoc"
 overview: "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist"
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://aidoc.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=r3g_VCI2B4U"
 
-secured: "w6OdPKR7vUwClwPS64IcCSLcCQ4nHkZ8L0kbrHcP+GQYB3rOzTiojFnNIzzuj3yC7be3HulNJJwdZGg114LAHBwbXdW50L25JcDgx2dXjHOmrJ8G/bl51Ri1QG3O+AY3uiGbSAabToRP5B2zCJgK5IA6JLV18WnvD1SfGzknMNbSPefVxYAwHa/sPsVGDDe2Il9KJMDnPzZQT1o9qt3g9NliUE66AUh3OaGqnGee/70fRdxYZlqCbFwQGvJDNa+OP6vnkmBzqJ5c11mFW0xZD63Sp5NA73ovH7yyJqxh4qxLRp9MDMWlVf7NijNggjVI8oYgX8/HAZ8cg72ZlUSnkmVV5ynluZnbFL2mXOJd5HRiq1BNDwXqltqdXFQcjYidH6OHCqw+a64kMeNrp/m0ZQLl7qF2RwYV7FxCgBwcOJM=;CT9g77GVOv0Pc/O+J13Paw=="
+secured: "oKnjsokofmKrlHyTssjRwrFtJVoWc6PorAoggDEQJEZJN4CAVxYYJm6d9Atg5NsmtkqWrLroTJuaNMFFXH4BLXbwZWNPfSobeFbIF/JZDLEFqU2UseN8xI43O0YK7FlyZxnl+35B/gngEzqmAAxtfQs9oCcne8nvY80TFzJ0wX7b580xJsO8FdEZhCfe0+ss85OXwHwWQYlusMAPGGdp43z7CTj0qiNqhcuXplfB+L451jcMje+Rqnb8qPLkzapmI+JhukESxxveylDgZn9DZBaGXpGfzQfxBq+qrf4nR0J4In72kyVtGjQB5XA9HGXQd7YwCWad5ziyK7W1YWUwXsS1iytaLR9UhaVnoflIDckioYPpDdIzfObD0uWvuJjLRvM8tKIxur5ApigFdqygFdSAMS/LEM47Kvbokwlli9c=;DkDMQYkl5k24R81hvclOUw=="
 ---
 
