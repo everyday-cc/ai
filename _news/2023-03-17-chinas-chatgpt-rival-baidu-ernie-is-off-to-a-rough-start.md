@@ -187,6 +187,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
+    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
+    publishedDateTime: 2023-03-16T17:51:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
+        width: 1600
+        height: 1119
+        isCached: true
   - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
     excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."
     publishedDateTime: 2023-03-16T16:46:00Z

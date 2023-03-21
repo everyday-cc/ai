@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "The Truth About Artificial Intelligence and Creativity"
-    excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
-    publishedDateTime: 2023-03-17T19:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
+  - title: "How AI-Powered Video Enhancement Is Transforming Real-Time Communication"
+    excerpt: "Social media, entertainment, mobile gaming and the metaverse are all finding new ways to incorporate AI-powered video enhancement technology to enhance the user experience."
+    publishedDateTime: 2023-03-20T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.coindesk.com/resizer/XpZJzstQjpqzDfTJfQ5GyIbkKkU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WNFD47LZ2FEI7MG4DASDKMHUWY.jpeg"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63875816f331e568f2c8a8ba/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "V5Mk7ROiUtngJX5kItPgZHdIMeTF83P2vg90b+VzbyPjEVDsJ9Jk7VOZPjSOrS6V6B3tb+ca++l7Wk+lHg/G17Y/Bz+k+9pgqYejSKcXSzuYB3qvQHlUBw+e+i2gVp4LtQxRpbZ6t1eadprJAm2OCK40S1NjMnTBjMmLYIaloO7v+yYZ8rVO/0rRWilsPV+3S52EsRcG+/YDRcb0uKazzPWGXz9asBaTkQcuWxJnlmYKeMsZh1KlfGAkjmpjV3/LwFqo62db19obiPhukcafaAA9l6krRNSheVD9B8cquXvwZkx6nrkgC4u9ZjXfHN9Ole2WQ4HyeDYzrqKlHIZ/7hhFuCerGYtwVEfkQzyAXuhx2mIT7du1geUuOnir+1WTDTypTRSL8H8TElfW0jhUsQs8s1mfVQ3FCMEWANRI3BsXU8D0B5PhWk1bS7xybKagjk3M/lRhDJ+M7Y/EhiOjb2riMRilW2mnLPk6tUUvMndkdYjEpd6wV92WUWiBW9i5MF9QmVvrpsR5vfrS4lB/BQ==;G7Qr8VWnC/g+GSpkfWwMlA=="

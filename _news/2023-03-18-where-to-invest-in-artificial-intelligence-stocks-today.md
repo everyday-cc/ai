@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artif
 webUrl: "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artificial-intelligence-stocks/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
+    publishedDateTime: 2023-03-16T19:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "7 AI Stocks to Buy for Long-Term Growth"
     excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
     publishedDateTime: 2023-03-20T14:30:00Z

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 804
         isCached: true
-  - title: "Fairmatic raises $46M to bring AI to commercial auto insurance"
-    excerpt: "The startup raised $46 million in a funding round led by Battery ... A and this new capital will be used to accelerate our lead in bringing the full power of AI to commercial auto insurance. Fairmatic is making strategic hires across the globe and we ..."
-    publishedDateTime: 2023-03-16T12:04:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-993491068.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Startup that trains AI to do tasks for you raises $350m"
     excerpt: "Tech startup accelerator Y Combinator said Monday it was ending ... But Adept aims to go one step further than having AI give answers to questions, by having the software actually performing the task. Adept envisions the future of computing as one where ..."
     publishedDateTime: 2023-03-18T22:09:00Z

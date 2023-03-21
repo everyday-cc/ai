@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
         width: 1500
         height: 1500
+        isCached: true
+  - title: "Robotics, AI, and the evolving nature of work"
+    excerpt: "Mar 2023 \\| 04:54am IST Robotics, AI, and the evolving nature of work. Shanti Maria Fonseca “There will be fewer and fewer jobs that a robot cannot do better. I want to be cle"
+    publishedDateTime: 2023-03-19T18:24:00Z
+    webUrl: "https://www.heraldgoa.in/Edit/Robotics-AI-and-the-evolving-nature-of-work/202638"
+    type: article
+    provider:
+      name: Herald
+      domain: heraldgoa.in
+    quality: 71
+    images:
+      - url: "https://www.heraldgoa.in/uploads/news/big_202638_0.png"
+        width: 547
+        height: 246
         isCached: true
   - title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
     excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"

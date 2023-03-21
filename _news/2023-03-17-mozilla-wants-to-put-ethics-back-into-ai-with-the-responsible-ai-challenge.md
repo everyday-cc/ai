@@ -39,7 +39,7 @@ related:
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 54
+    quality: 56
 
 secured: "zCSuK6nHFJ2D0ed0uONHPnV2ZvD5vH/WDnCXQaZ0sER9I1VyjXHmV1oC3/AUbY874R2QAjqAaJHMl3DXkuCp+eFtCexi1HaBZo1bouhoRLAlwgQLSewju7EnGGd6ToWVq/dqZcDcQP0UQRa81mBaR72LuYJ7kwJCmhK0sHp1qzeu+CIfkAAjIyFrZ1BoCg0h5zuvihuDsGrF7lAj4D6VBRxXbnsbvPeqZqtB8HH9szkknkXod7Fv7uA4k+ftG9eanZZmeyLEu8WlXzYIKGgLhB97EzS1YLS9D3bMkOjRndkJALr5A+ex9IjykPENUPBgJqE8BYf3RijUsDvRxKjMC97O2tJTsIvmmizs1liHhmxghXMD7CFtxuuoR3d0oMoROVFumMCKyOwdUfvT5Q0RjsYaj19OE+aLAIENZ/vYEfmarbSCbldKbLOCPeZyH0F2AVv7GFPG6V02zbiOEiqc+RWz9BdNCCfehichYbnuVFGb2hHCaWStIkX1L399KMN3L2AEwQnbraPL6pydLPCKAA==;wEocSMfchvbE6HIKEKHXRQ=="
 ---

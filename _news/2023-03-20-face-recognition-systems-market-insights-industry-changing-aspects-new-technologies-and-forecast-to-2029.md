@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Software Market Size and Forecast till 2029"
-    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
-    publishedDateTime: 2023-03-21T01:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
+  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
+    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-03-20T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
     type: article
     provider:
       name: MarketWatch
@@ -43,15 +43,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-20T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-and-forecast-till-2028-2023-03-20"
+  - title: "3D Facial Recognition Market Size and Forecast till 2029"
+    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market Growth and Competitive Landscape 2023-2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Automatic Speech"
+    publishedDateTime: 2023-03-21T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
+    publishedDateTime: 2023-03-17T16:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
+    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
+    publishedDateTime: 2023-03-17T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -80,6 +136,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
+    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -121,20 +191,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
-    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
-    publishedDateTime: 2023-03-19T05:22:00Z
-    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "Qvm++4yrwuHbsFvhOLlEARM9G1Y6TfMypSW7Cm9rZeiCA/ukfogaRh3+4sWXm0gXsbDhb+GkuEJGG2N46O+CI65YGbjy/4+5F7NwKehle2VL3lumtwF9XPHOBEoiLALBR3goqpbh/prUxYfeKKyNMpHtOdgdWswOQKlzuPGV1CqLe7gY99S96bu03C2U7WiRaKnXXis95mlXv31UrVTjgtETmg5U0RExJyrcvXuHlT0kXArt6vyq7tni+MMbO66XGJDuU0rjVJq1YSm6If+P2IV8aEQegtZdDoYwVh1Z4/5etF3Obk8b7Uzsba2kyDfkGmuP7dARZwzyeLUG6r19kZDWEoaQ7LbqEskdLsyp/cA=;orxU8E6rdKmlAR6LMjy9uA=="

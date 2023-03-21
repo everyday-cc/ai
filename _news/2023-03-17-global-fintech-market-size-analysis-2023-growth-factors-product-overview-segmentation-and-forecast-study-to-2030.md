@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Staffing Challenges, Regulation for Digital Assets and the Metaverse are Some of Fintech’s 2023 Trends"
-    excerpt: "SRM (Strategic Resource Management), an independent advisory firm serving financial institutions and other industries across North America and Europe, recently shared commentary on the trends it predicts will make the most-significant impacts in 2023."
-    publishedDateTime: 2023-03-19T07:00:00Z
-    webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 8
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/aabcf7a/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa1%2F80aec323458089245d30becf9c51%2Fbusinessman-atm.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "qXv00Zw+Cip664BcATuorVoSTKiad/wlk0TvtqCEDDjrgQzPyYtXmybv996ot1rVcPWtyWxkHhTqaWv+gVDTtNWAAWX+pQnWYQev6hFzZFGJE6DdRFyxx8aS7LMhCCPd14gEEmM4qFtuvrDYUky6F94Wy/IbqwERQm0S2R3gLsuR8LXSU+rjiXo3crP/nW6ViVDaHDoSJmWAPO12a0dCnjlr3P2FJc3HqatsoWvc7BlIEPkuipeQOKlDlvsuKBElbkYaIVYNyeI44DF0byDUvH+e9/9FO9qy44eRwQ8XVdra8Aphc36mnfIEJcvrPWq47Aef+x0huvNUqonT5IHvbj5y1EyUSv7ORh0IzLSOFuY=;lE1bp8U1amjpTS+wugj3dw=="
 ---

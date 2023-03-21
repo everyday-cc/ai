@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market: The Growing Trend 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- “Computer Vision in Artificial Intelligence (AI) Market” Size 2023 Top Key players Profiled in the Report are (Image Recognition ..."
+    publishedDateTime: 2023-03-21T04:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 95
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) Chips Market Size Report Analysis, 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [114 Insights] Top “Artificial Intelligence (AI) Chips Market” Size 2023 Key players Profiled in the Report are [, NVIDIA, Advanced ..."
     publishedDateTime: 2023-03-16T23:01:00Z
@@ -141,6 +155,20 @@ related:
     excerpt: "Mar 17, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition Software Market in ICT Industry. The Global Face Recognition Software market is valued at Multimillion USD ..."
     publishedDateTime: 2023-03-17T20:04:00Z
     webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-recent-growing-trends-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning System Market Growth and Forecast till 2028"
+    excerpt: "What is the Deep Learning System market growth? Deep Learning System Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028."
+    publishedDateTime: 2023-03-21T03:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-and-forecast-till-2028-2023-03-20"
     type: article
     provider:
       name: MarketWatch

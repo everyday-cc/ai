@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holl
 webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -26,17 +26,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "21 AI tools for content, image, sound, and video creation"
-    excerpt: "Use these AI image, video, and sound generators to easily create content—including pitches, podcasts, and music."
-    publishedDateTime: 2023-03-20T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90867920/best-ai-tools-content-creation"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "0aODj7QzT6iKFNse5PWDRpwo4Oc7O8dyM5TcORgVQT0JtjG3dzmGNTOY2T2JJD8tprSsI6K6VpJ5kYhVqLF+mjmpSbqZtvnYbt/Usx0TbU20nq6hmmWsCx187zdQ9x2wThkL4plw9fgwd6oPH4UmuHzH4YpJrhYVoKUO0pOLZsP3hZ87W9ciUsnUsg4HfqpQjgB7WENqVsNjBm7HOoMN+SUNGVI7Ae5AwUAWTFy79Ud7us9vHcL10VgsTAnq6EuGCHkOFX7x27pCNyiucxE0quXaUlPQKG75T6qRATMHx1ukRTcTeBGdiqNY/EYPgsyEvpaGhr7UO1rL63+cMbYNcVgbz6vg57U2bd6PACIsc3ZAp7K5iyTIBI6AOO3mXhVcA9tiEPolLuTnyzGIoxPpkdOncnVoZp5zEmzhLnNtElgGhloaisJhndfHz7CXeJUt5uMahOCeZl+kgMSI3HjszC+SNWPH5ZaegWM9VTuvbIENlsGYGk0z68KdQqVAptw9eSPDplwFm9s98P71hWsOdQ==;O13PED31qX8wVW7ISo9OsA=="
 ---

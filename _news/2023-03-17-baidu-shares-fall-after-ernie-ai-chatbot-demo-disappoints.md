@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/chinese-searc
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
         width: 700
         height: 466
+        isCached: true
+  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
+    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
+    publishedDateTime: 2023-03-16T17:51:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
+        width: 1600
+        height: 1119
         isCached: true
   - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
     excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."

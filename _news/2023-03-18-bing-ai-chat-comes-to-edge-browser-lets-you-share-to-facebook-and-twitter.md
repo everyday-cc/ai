@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets
 webUrl: "https://www.pcmag.com/news/bing-ai-chat-comes-to-edge-browser-lets-you-share-to-facebook-and-twitter"
 type: article
 quality: 65
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hackers have used ChatGPT brand to take over Facebook accounts"
-    excerpt: "Photo (c) Bill Hinton - Getty Images When the artificial intelligence (AI) platform ChatGPT burst into ... ChatGPT functionality inside a Chrome browser extension. Hackers entice Facebook users to load the extension using ads on the platform."
-    publishedDateTime: 2023-03-16T12:10:00Z
-    webUrl: "https://www.consumeraffairs.com/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 44
-    images:
-      - url: "https://media.consumeraffairs.com/files/news/Hacker_hands_concept_Bill_Hinton_Getty_Images_1.jpg"
-        width: 900
-        height: 604
-        isCached: true
   - title: "Facebook Parent Meta to Lay Off 10,000 Employees, Close 5,000 Open Job Postings"
     excerpt: "Following layoffs of 11,000 workers in November 2022, Facebook parent company Meta announced on March ... Zuckerberg also revealed Meta’s commitment to one of today’s hottest technologies, AI: “Our single largest investment is in advancing AI and ..."
     publishedDateTime: 2023-03-16T15:18:00Z

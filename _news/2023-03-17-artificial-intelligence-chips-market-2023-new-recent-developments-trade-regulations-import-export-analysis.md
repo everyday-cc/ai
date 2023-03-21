@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
-    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
-    publishedDateTime: 2023-03-17T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
-    publishedDateTime: 2023-03-17T16:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Intelligent Voice Recognition market research report aids expansion in industry revenue"
     excerpt: "Intelligent Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
     publishedDateTime: 2023-03-18T01:46:00Z
@@ -70,34 +42,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market 2023 : Geographic Expansions, Technological Innovations In The Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market ..."
-    publishedDateTime: 2023-03-17T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
+  - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
+    excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \"Machine Learning"
+    publishedDateTime: 2023-03-16T16:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58572678-advancements-in-deep-learning-reinforce-machine-learning-industry-growth-grand-view-research-inc-008.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
-    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
-    publishedDateTime: 2023-03-17T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+  - title: "Advancements in Deep Learning Reinforce Machine Learning Industry Growth - Grand View Research, Inc."
+    excerpt: "The machine learning industry size will witness a notable gain in the wake of the growing use of AI and IoT devices, according to the \" Machine Learning Industry Data Book, 2023 – 2030 ,\" published by Grand View Research."
+    publishedDateTime: 2023-03-16T23:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-advancements-deep-learning-reinforce-machine-learning-industry-growth-/2023/03/16/9778209.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "xhOTLTmdy3QjS2XAluK+R0R5rMEMNpqk9Kcryat/kaNSMZnvHjQgfYBS0Thke0zs+r2KoP+ewFToovpo4lFzZtgabL3hlzQu4DpiZjUwrlob6SH15nysAgomxr7/o0O3aHy/ek3LdtdRZ/uABP0lLWTGFBvtcdU77QbyI+vgs7YM2mfTWTlV7koYrr7z629TGo+Ydwr7nI724z3zanCqTOoBSbT0MCjfsbD9zu4GtWzueRAQaWL8/T9lhe5bdQZaJSlAj8alHfic0nROGnwSxguKRNoe/qdGavki8k9VbayRuBPDTEDV3L7H/PYayG1dedbJ5fmnizrdZ+YvBHrAdeQn1gxCsEMz1SjGzIwqeko=;DSWLh7b/dh+Qa6welYJnSg=="
 ---

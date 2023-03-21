@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai
 ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic0923841.jpg?itok=iH1cRB3j"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "j2ZQ0I/2zIPGajIl0NdathkFnc4T9XGJpheE67C7AgJRLDk+ZOs8akwAEilt8ZZBIWioT0eeutgDcA0vlmheoWfio30xcwFcLU2xUMCgS0rWWVU6imKJ5xrGTcyUda+WJKoxtC9gIJ3buH4+sHmWXvOaoWT7Tyco2ldhcG68Vd7pv3QUeTGRGW+d8r65HNN7H6P2jPyqqNVYssTbZXueFN5RarExCDz7VHI0+cv9NJ6xmrrOpfwnqo5/M3+BgtRBtgWr5w9sbvbShAkLYWxwW68zBCIDn/UXYQWoHphs+FWOMWDqSgBaJZITzM0JsedyzOrK7yG8OtV3MOGyyobgxRP/pIpy0mD+5pHKWc8VphI=;q7BCK4xN25bp78UJBh34wA=="
+secured: "bjSQn7JEkb61DZIR/d3ZPI2/1kbPUldHGo+ws9yRO+rlXSZIZfQU+mg5b4csGAwi+WficVMVmKP+vAev5t/7MnR4RoaQZZSAvJnwXQ2DCkMMs8bBaDqZTt/dt4nbua5SBRkOEEsVChKTcSGHe87SM1TZBi985J61eQkw90SZG9sTSQnnVanp1gJOl+yezpWrEFjInaeLxBiP7NaaPNwiVIk7N4lO90bsEV0l/5ANO04LGXa7YQAZxPWLlmFB+h3JYBkVd8XthscjpbKBcuMhBDhtfMMIp7XObyCXqAxpap9YWzf8iJn6Tduef9e0Ot7DTG+F4FvUKvBXyS/CVxxo71IPlGdC+Uhxw+/J9VDr0xGBJPziC8zp0xSb7gCdzm+YDAY7qp4iY4NgYANVZrSdL2EBcdzYhWQn4a02d6DHPWvgd4+BaxNgPGCfr9sJxv2HNoniGS1zQisQoDyXO+6l1JIr14s5uayDAJjcSJiNzVav7NPPA06/UaL7BzuAOqCpYZl1p4uHIjIjF+kunICwfQ==;M6ifPx0f/rv6cgr7UNOG0w=="
 ---
 

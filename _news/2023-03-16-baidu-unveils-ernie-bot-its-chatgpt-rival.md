@@ -193,6 +193,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
+    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
+    publishedDateTime: 2023-03-16T17:51:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
+        width: 1600
+        height: 1119
+        isCached: true
 
 secured: "Fz+TDO0EGgRBrPSuVxqGA377RPlm8hwTTK+ZrgvWjeb4NjcWkWu9c2FrISL85ySjyigWgSpflA2ODLusbG8VvPm7p6p4JsViFGa6uXoMIjfQLo015Vikw6h8tdfs8AotOS++lNcm0PNLaRSoYZrwEonqbhMxS7eYIzM4nQKfUWtOqVtKa4JbmhNNbuEPxdGiJZYJop5xiv+969cNmi+y4gm1Z9+wO5QJrV4jdMVZyVR7g7n+sGqAp3ZdOkzbw724JluztkD2s+jzIS6SFPOfjk9b+fw1eCnL6NE9gyIPLE8TDUMNOKLJHm2l+EB9u1jTqTKD8/+MDgISVNM4ATPWhtFNTugAHNs1Xf3HbHNvdj4=;07df8UZP0ELfFMBxgA9apQ=="
 ---

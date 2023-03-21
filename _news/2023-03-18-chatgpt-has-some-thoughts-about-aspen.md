@@ -164,20 +164,6 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 29
-  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
-    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
-    publishedDateTime: 2023-03-16T12:17:00Z
-    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
-        width: 678
-        height: 452
-        isCached: true
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
     publishedDateTime: 2023-03-18T11:02:00Z
@@ -206,15 +192,6 @@ related:
         width: 1200
         height: 810
         isCached: true
-  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
-    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
-    publishedDateTime: 2023-03-16T12:36:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 23
 
 secured: "6FCUJSgh3O1dTgROygKGbhkdlTBfDKJBEcwax7gZalq6swtRmVBILs30Y4l6m2ST/EWJ6KEM/pOjn+JTfyB3RiDn2sYTfyjx45d9uvuNhDjIFf7kLOWUY+FI/c8I/gRquLcpbCtJD7CqDc0NmuLDMd/xf1CJYH40Ko5sqhKf/OR/vnk43wUgrHqG3GPyjB+UUt1pVmtxkzzQ6oI/92TD6oLqr2LtSJH8T9xfF+Jhu9V6R20fxzB8rxVUqdh4g+YAmNYGjBFuvvnouCs6Z8omZmGsrvV/ZwEsRZLVjH3AYGO6cP4BivSb9fz37yz6E0nF7TVEetThM74mWVXI+bIG6qZ51UvHk//yjR3xtvcmlkbmaNE5ZyD0coOLyp2kxK9WxE9QWoiuHMyMSV4g1LkVntIYlsQSed/orPKqBKH5d3lXOjrsXShk8Bou6g8A/DPO5o1VLGzI6NTGs5FHytTaNR4fpdr5mX5i991bBskZTp5QGw62cUCSwpNp3YloP/9KHjISOnwWKSJDzazL8v21jg==;RF6Q6J5bSdnvxb+pUv8vOg=="
 ---

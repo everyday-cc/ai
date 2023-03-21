@@ -121,6 +121,20 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Robotics, AI, and the evolving nature of work"
+    excerpt: "Mar 2023 \\| 04:54am IST Robotics, AI, and the evolving nature of work. Shanti Maria Fonseca “There will be fewer and fewer jobs that a robot cannot do better. I want to be cle"
+    publishedDateTime: 2023-03-19T18:24:00Z
+    webUrl: "https://www.heraldgoa.in/Edit/Robotics-AI-and-the-evolving-nature-of-work/202638"
+    type: article
+    provider:
+      name: Herald
+      domain: heraldgoa.in
+    quality: 71
+    images:
+      - url: "https://www.heraldgoa.in/uploads/news/big_202638_0.png"
+        width: 547
+        height: 246
+        isCached: true
   - title: "The stupidity of AI"
     excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
     publishedDateTime: 2023-03-16T13:13:00Z

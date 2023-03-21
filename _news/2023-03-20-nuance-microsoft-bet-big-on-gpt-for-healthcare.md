@@ -283,6 +283,20 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 65
+  - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
+    excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
+    publishedDateTime: 2023-03-21T04:34:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-early-access-3300462/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft begins making Bing Chat AI searches available to everyone"
     excerpt: "It appears that Microsoft has opened up the new ChatGPT-powered Bing search engine to nearly everyone who wants to use it.."
     publishedDateTime: 2023-03-16T18:02:00Z

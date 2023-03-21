@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM CEO Barra Sees Room for an AI Chatbot in Your Car"
+    excerpt: "If GM CEO Mary Barra has her way, your vehicle could soon feature an artificial intelligence \"bot\" designed to make driving easier. Find out how at TheDetroitBureau.com."
+    publishedDateTime: 2023-03-16T17:51:00Z
+    webUrl: "https://www.thedetroitbureau.com/2023/03/gm-ceo-barra-sees-room-for-an-ai-chatbot-in-your-car/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 39
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2023/01/GM-CEO-Mary-Barra-speaking-REL.jpg"
+        width: 1600
+        height: 1119
+        isCached: true
   - title: "Baidu unveils ERNIE Bot, its ChatGPT rival"
     excerpt: "Baidu, China's search engine giant, has unveiled its answer to OpenAI's ChatGPT service. It's the latest version of the company's ERNIE (Enhanced Representation through Knowledge Integration) Bot ..."
     publishedDateTime: 2023-03-16T16:46:00Z
@@ -196,6 +210,6 @@ related:
       domain: aol.com
     quality: 19
 
-secured: "4oLjRwfyoqMxH2UUEvI8y5TM5yqj6cwRcYfaYuvHIZgRGoCez7PvS9EZk1a/0IB6BxLtkkIBOlnk6pjDCjx6g5cs0Mk/vWNZbuc3L6C/h5hVd8v7CFtQZ5MuB3d8eOpXCcqe29cirXPq4NsfIRICDv/icnfpvbAQ+i4BGwYzoZZXSdOnkiqVoiB/jz8u+Ru/WhLrVXnbolvECE4V8eqjJiB9QG3O5TE9uR8eBkiogmI/b8MSEUBs1RHl7HoMtF5XBDvlEIDyOYo4FMDQEMn0ZMCTxsElgzTkhTf16SXzExk1IAPpyzfHsKUsgvGIbsyMBEdpSvVrd6cdl+hic9xSjNnmC4VVJ4vGGTBT6bHckK4=;KoMjDQwaXwciEJ0V48Wwvg=="
+secured: "GwG1gBjtMw3xRGDgxiWi8BYThXXR8jGHy/tSrmnaaxV9XdJWvN9qKbPFBilqgNGLSFY3rYyPfKs1F4wto4p/0LUscb/eMoNRBJrHyvDyNgCsc9BkkK9k6xmaRMArEWtW6dA+UXqQC/n8CMeJXDcAUfhEFu/YAquW1mlgg1C5JtDjVmPbc5qUPganS2lXJ6uAqE4rcEWJN5Wf/rJ6nKjLKsH0RmrqsTNk/omJyCDV63lRiJEdsxDukFgDrWMLn6KL1aV0uXolD+6HN9mkvxA4OFs4SvdOA9DxH227O0KSYPF5ivR2IsJfo4hz4KWqYYUAN0M6EYnJM2XW5E3982i+OPFRAMFBDzPDII6I2RaoIB6TOdZHLkYsEmBSUIm+7DvHonbWgn9KDJ3RsBIH7SsB+9vNi0XqNgLPnuLN44qvTjrPnW0+SZzSlzq0cqsDIDqL4x7QzxEO+1YIr0d2KxYxgnViDMvUIy2MLj3E6JCPvIMI5j15CWewlbsDxbV15GJmndizcxDPxe7hYjzHH0+L6w==;nu+Kq/88lzR1sSmBMHyySw=="
 ---
 

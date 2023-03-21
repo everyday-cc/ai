@@ -39,22 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Hackers have used ChatGPT brand to take over Facebook accounts"
-    excerpt: "Photo (c) Bill Hinton - Getty Images When the artificial intelligence (AI) platform ChatGPT burst into ... ChatGPT functionality inside a Chrome browser extension. Hackers entice Facebook users to load the extension using ads on the platform."
-    publishedDateTime: 2023-03-16T12:10:00Z
-    webUrl: "https://www.consumeraffairs.com/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    ampWebUrl: "https://www.consumeraffairs.com/amp/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    cdnAmpWebUrl: "https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/hackers-have-used-chatgpt-brand-to-take-over-facebook-accounts-031623.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 44
-    images:
-      - url: "https://media.consumeraffairs.com/files/news/Hacker_hands_concept_Bill_Hinton_Getty_Images_1.jpg"
-        width: 900
-        height: 604
-        isCached: true
 
 secured: "CgPcOcp+Uc0HNTGPED4NEDQ40M5mxZ7/LyxtQYKQ+oSGzJbvBpOl4dhxyBGoJKBn5pN4kcZEacxoSFf2sgyZ+lfDm1ZBD1+Ht+CxFSAxIuhVIvtJRDSdwKOk4apvGJsWTlNjMoTllEtcTp2SqQfb50+LQqehDMHuBRRvkO/j2cK8qFbp8WWmvBEqVs6RlcJUnshOAB760tH4Aia3Zej3Td3L2iYjvQdxLtlWgGmsW8GucseYdAAS+Y4Gol0iR1GL4vxRRfPsuAmtfH9suH/1UzMQWYrYlkweHLhU8W1SJyTIhhF858LwuZzskkEnYJNJSQu4OuVa+LOa0aVQwTHk6vIKMsdl9RANrqab3CX9yMIAurhlFnshp/PKT/LRugtWIIZ5i7fTLD6pZIFDnyQvYNnK7HnbVLBTA74oEYET7kVpvQXRU8CxX05/ExBOjX71lCNPYHaP38b3s7Zsr9UNrWV+Do70KqH7g2TlEp0swTwspDWDY6USf5+yimPlnYly/u8OM7E20Q3VLYcmFcS4Gw==;cX+heeY7GyYPOZmASGWZjw=="
 ---

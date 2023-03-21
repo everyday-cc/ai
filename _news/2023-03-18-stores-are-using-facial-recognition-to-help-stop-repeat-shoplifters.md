@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Who’s Using Facial Recognition Technology?"
+    excerpt: "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ..."
+    publishedDateTime: 2023-03-21T04:26:00Z
+    webUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html"
+    ampWebUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Amazon sued for not telling New York store customers about facial recognition"
     excerpt: "Amazon did not alert its New York City customers that they were being monitored by facial recognition technology, a lawsuit filed Thursday alleges. In a class-action suit, lawyers for Alfredo ..."
     publishedDateTime: 2023-03-17T06:49:00Z
@@ -53,19 +69,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon Go Store Accused of Violating NYC Facial Recognition Laws"
-    excerpt: "Filed Complaint Rodriguez Perez v Amazon by GMG Editorial on Scribd Amazon denies the claims and a spokesperson said in an emailed statement to Gizmodo, “We do not use facial recognition technology in any of our stores, and claims made otherwise are ..."
-    publishedDateTime: 2023-03-16T20:05:00Z
-    webUrl: "https://gizmodo.com/amazon-amazon-go-amazon-prime-facial-recognition-1850234189"
+  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
+    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
+    publishedDateTime: 2023-03-16T21:14:00Z
+    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
+    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
+      name: New York Post
+      domain: nypost.com
+    quality: 76
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5bd7407c82f529d53af76aa31e27d299.jpg"
-        width: 1200
-        height: 675
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Amazon Hit With Lawsuit For Not Disclosing Facial Recognition Use"
     excerpt: "Just pick up your items and walk out of the store. It's no secret that Amazon Go stores peppered throughout New York City are using AI to make this possible — facial recognition technology, to be specific. And though the method is legally sound and has ..."
@@ -113,35 +131,49 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Are facial recognition cams like the ones in China coming to a store near you?"
-    excerpt: "A New York City store recently admitted to tracking its customers with Chinese facial recognition cameras. Here's what you should know."
-    publishedDateTime: 2023-03-21T00:00:00Z
-    webUrl: "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/"
-    ampWebUrl: "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp"
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T13:24:00Z
+    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 55
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 56
     images:
-      - url: "https://www.komando.com/wp-content/uploads/2023/03/kk-article-20230321-hikvision-chinese-cameras-us-grocery-stores-1200x675-1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Slog AM: Amazon Faces Facial Recognition Suit, More Train Wrecks, Trump's Back on YouTube"
-    excerpt: "New Yorkers sue Amazon: Our least favorite local bookseller faces a lawsuit from New Yorkers because it didn't disclose facial recognition technology in a NYC Amazon Go store. \"New York is the only major city which requires businesses to post signs if they ..."
-    publishedDateTime: 2023-03-17T15:33:00Z
-    webUrl: "https://www.thestranger.com/slog-am/2023/03/17/78906465/slog-am-amazon-faces-facial-recognition-suit-more-train-wrecks-trumps-back-on-youtube"
+  - title: "Face Recognition Device Market 2023 : Geographic Expansions, Technological Innovations In The Market"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Face Recognition Device Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin Market ..."
+    publishedDateTime: 2023-03-17T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2023-geographic-expansions-technological-innovations-in-the-market-2023-03-16"
     type: article
     provider:
-      name: The Stranger
-      domain: thestranger.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://media2.fdncms.com/stranger/imager/u/large/78906610/gettyimages-1147596821.jpg"
-        width: 700
-        height: 467
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Use of facial recognition technology at supermarkets raises questions"
+    excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
+    publishedDateTime: 2023-03-18T04:51:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/use-of-facial-recognition-technology-at-supermarkets-raises-questions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Amazon sued for installing facial recognition ID"
     excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
@@ -171,6 +203,57 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-17T22:11:00Z
+    webUrl: "https://abc7ny.com/nyc-fairway-facial-recognition-shoplifting/12968998/"
+    type: article
+    provider:
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 37
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:41:00Z
+    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: abc13
+      domain: abc13.com
+    quality: 36
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
+    publishedDateTime: 2023-03-18T14:34:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 33
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T18:24:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 16
 
 secured: "UercU2Xp1UkkWLwAd/dttPOc8Sp1iIf99eRgQmOKZ53aKzZ/G45x/xJKA5NpbxQGl8qyYwzSdKaCFWH1ez9/K5gaehiWUyfdFOQ6vTz2R80zu00u1Y/scxYEgQm6afTBmqc6LgdFNtv5ZHPq/CQGRik+ZrARM391iX8n+jIY5Uwiwk4lvHu+tsQAEaDfZz7TLmRDnZyt5bdIrGkryXMLme56yQv0hftv9V9WJ4Ogub7e/3PrJwD4oy0VLjTx+Mbmt+/TNc+Mahe7BXXOk+R8ubZmDeBklgOv2e1u1oQZBoTzs7WSB+d3lVuf23JMkNAKGZ5ZsEQ5DIkPvOOgE8rfv+Q8fqdRbnSTUdPHTeSH57APZpYSTwLtNz2d2XLnGaXbZ9ccIIalETUpvOQg0NU5t4zrdPhb6tzG6eZ8qWrkk3Ws25KkgfXhsF2inUfKTmT07Qa6MP2IHfhOVS/cfKhBtsNb7HKkRg7PkBaBCOR3DxokdLYQM89PjxGujHhqPm1eJh5WyY1dzP05haaXjRaqEg==;o0N/YFNzCmJP6pMGYnmCUQ=="
 ---

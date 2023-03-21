@@ -8,7 +8,7 @@ webUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethic
 ampWebUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 related:
   - title: "Mozilla wants to put ethics back into AI with the \"Responsible AI Challenge\""

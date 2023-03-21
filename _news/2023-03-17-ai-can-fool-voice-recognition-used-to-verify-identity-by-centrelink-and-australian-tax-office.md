@@ -25,28 +25,20 @@ topics:
   - AI
 
 related:
-  - title: "Voice system used to verify identity by Centrelink can be fooled by AI"
-    excerpt: "Exclusive: Voiceprint program used by millions of Australians to access data held by government agencies shown to have a serious security flaw"
-    publishedDateTime: 2023-03-16T13:02:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai"
+  - title: "Australian gambling machine maker licenses Konami facial recognition"
+    excerpt: "The new Synk Vision will enable players to sign in and use Independent Gaming machines without using the traditional magnetic player card."
+    publishedDateTime: 2023-03-16T19:49:00Z
+    webUrl: "https://www.biometricupdate.com/202303/australian-gambling-machine-maker-licenses-konami-facial-recognition"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
-  - title: "Cybersecurity funds should go towards beefing up Centrelink voice authentication, Greens say"
-    excerpt: "Shoebridge said the government should also audit agencies using voice recognition to ensure any further security flaws were identified and fixed. “The government’s main objective with the use of such technologies is to cut operating costs as opposed to ..."
-    publishedDateTime: 2023-03-20T04:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "968Bu4DNI+8To/TYw7Adu3wB5SkSepNmqFeftinGFX5/G3I3ir+2CP/MpkBP7M+8DSb0DoEAWgJaY6jQKAUi94v+DuysAAFyFfjffC9HGS1p9qUeTMI1Y95wgJ226Hn6X2sJuuacX9O8vDRuBT2IkyFdyuPuGRrnsGSHc3Bhc+8JcWEAT6GSmjKhN5Q+DxB3gzHA7sAnvTPBSjZofclGfDhFmDHV34QSXKMEV/RwPJKHkAkEP3UAXYA4kCuq7ipCHNy+TCWoAaEIM73LN4mF1FK6mEscEmrokotn7+OgZfTW3tsiMLcXOxBRELCzu8aphCuWp8dA74n1UQD5+/w9hKOzBS9W695/e5YX0dHqiMc34by1bw7UMSxSDOLVKFoy15qJRZFsRzXBPpRqwyvJZYalGQLWuoIlNLI+2fRXwtGCYMzcFwPSESF2iIkXc+h+C36BBYjpHCJcYxoFFCvxzg0i1zTGJLeU72cLdRQ5jscUzx6udJX3gC15rISe3Q82/zf3uywMhH9e4KrfSba7xg==;/FxCwvKPuIN2V05Ccz2+ow=="
 ---

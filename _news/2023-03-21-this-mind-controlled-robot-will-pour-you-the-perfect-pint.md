@@ -3,8 +3,8 @@ category: news
 title: "This mind-controlled robot will pour you the perfect pint"
 excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
 publishedDateTime: 2023-03-20T20:30:00Z
-originalUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
-webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+originalUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+webUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
 type: article
 quality: 39
 heat: -1
@@ -102,6 +102,6 @@ related:
       domain: scotsman.com
     quality: 0
 
-secured: "SbEvpd3YlRMJrQaGsbaMfciR7/PjgST3n9iw6dJ/BQbDjVxEPnpgf9Qby76p5jFE0q3leV+V1vnYl7J24xkwXi4MR2BulTa3z0vOEGq4iI7xqPTmGB/ILPYI6BAuHalL7HY54fpfyEifodKXaTr5XLsfHK2depSAxP6025/VmnZitegW/Ng0kVkWwGXBlVNxCJCMbTOp/a5MxWoUetTirq6a2gW+nz8LySKHbUw9PoY5JN95vvmIOOdZ0gfVxg0hD7Q3Xd0B1TPoMXLsJwmBhqVmyghsb48fWYHl/80rIHcNvHSoqvjZIttmK6Ow+Wt7HccgCUXA4Bc+8iUUysG4s6rbGQHRh0Y8UEJiMCfYNGA=;UyPlWWfigMRfHlNeSPM30w=="
+secured: "zbZ27gh8vd2qT7NUItbldFD1yrIigij1RhT5+xAzs91ZSNPp05F3BGsjSwhpYP4qe1d0ib4DDzngvofXz80XQuB1J6+Hta+2R0g4giu42kuk4KPapz3nnW++l7GmkepUnBE9n0rxt3kcGlmabrdZvopBmDdyzdmi3GE0ox0859UX02niEqU9QOnjIc0lGcmechlvAhDw1VWpmRrWsZk49TgnivZpRbwfX/7Iy8WyHoUcS3rTXtfcrk/bwxXf6EgCzUjZ8Gcu8WJbh0CzEraVG2vI5CaamlY4X+im/gk/XuCK9r+DzeGLkahEvLDxQql3Wi226Fm+ssm9mnxd4FiwikO4WVE2UHIjcTNL1XyZAd4=;orEF6TWrxzqMBNtlPAlasA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 199
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       name: News 12 Networks
       domain: news12.com
     quality: 29
-  - title: "ChatGPT-4 Language Model Can Handle Text And Images"
-    excerpt: "GPT-4 is the fourth-iteration new innovative language model created by Open AI. Language is a new way to show a massive leap in Natural Language Processing (NLP). The advanced language can understand and generate human-like text."
-    publishedDateTime: 2023-03-16T12:17:00Z
-    webUrl: "https://www.techjuice.pk/chatgpt-4-language-model-can-handle-text-and-images/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 24
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2023/03/images-40.jpeg"
-        width: 678
-        height: 452
-        isCached: true
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
     publishedDateTime: 2023-03-18T11:02:00Z
@@ -210,15 +196,6 @@ related:
         width: 1200
         height: 810
         isCached: true
-  - title: "I Got a First Look at OpenAI's GPT-4. Here's How It's Going to Revolutionize Industries Worldwide — Even More Than ChatGPT."
-    excerpt: "One of the most notable areas of progress is in natural language processing (NLP) technologies. As a testament to this progress, OpenAI has released its latest brilliant language model. Based on the remarkable accomplishments of its predecessors ..."
-    publishedDateTime: 2023-03-16T12:36:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/i-got-to-use-openais-gpt-4-heres-why-its-a/447647"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 23
 
 secured: "Bdax7+4raGNbS8EwMWXu5e3rJEvQqlp85kzS6oHQUj7qvgYoo3myU8TCP7tmTiWHtanX+7JS8s15Cqa1vQkt9LrHI78Lywnc8IdCUkjkMjwoDXKNwZzJUDPJA3ef8CFgr/sE51Hn2RIdXYVaM0tkU+XVVe9iF5TGhiVEyfgPljFM/DkesDkmxa8b2m8GBu+V3ehZjDUOHuHgharcsbrx9rx56/J3mVRvbJ3CV8cVcZVmCvNsfTcfHeBpwJp74vqiKF6L4i5LvhjjCXcBdUQh3tuyNBIW7FN6CftVBSetX2Q62CwgJl1ysCeHCy5FFbagEasHGykxZ854VtUoP+avWxsIU4IkK9JJjOanglxAvyGiqkqrRirVTKI8JTunliByq+lyhG4vRAdfU4JAaVuPdnqKtnqoHgZxZORRjfN5pFBg/PxlGDRtoGsT7jkt8D5I0Ph6T0MAv/Huhik7Z5vIckewIS3olSv08RbhPcV67boTpIaQd2w6wNB1HC+sZlhvDho8oHbNXXYqc3eJh9t4QQ==;q6DUbpPd97+3yh2h5QaMIQ=="
 ---

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
-    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
-    publishedDateTime: 2023-03-16T21:14:00Z
-    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
-    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
     excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
     publishedDateTime: 2023-03-20T02:34:00Z
@@ -59,103 +43,155 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+  - title: "Automatic Speech Recognition Market Growth and Competitive Landscape 2023-2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Automatic Speech"
+    publishedDateTime: 2023-03-21T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Use of facial recognition technology at supermarkets raises questions"
-    excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
-    publishedDateTime: 2023-03-18T04:51:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/use-of-facial-recognition-technology-at-supermarkets-raises-questions/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Your NYC Supermarket May Know Your Face Better Than You Think"
-    excerpt: "Fairway’s parent company, Wakefern, said that biometric identifier information is “helping our store reduce retail crime” — but is the tech infringing on civil liberties?"
-    publishedDateTime: 2023-03-16T18:35:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/nyc-supermarket-uses-face-recognition-software-but-why-and-wheres-the-info-going/4157198/?amp=1"
+  - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://media.nbcnewyork.com/2023/03/Fairway-w-sign-inset.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-17T22:11:00Z
-    webUrl: "https://abc7ny.com/nyc-fairway-facial-recognition-shoplifting/12968998/"
+  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
+    publishedDateTime: 2023-03-17T16:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
     type: article
     provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:41:00Z
-    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
+    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
+    publishedDateTime: 2023-03-17T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
     type: article
     provider:
-      name: abc13
-      domain: abc13.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:34:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+  - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
+    publishedDateTime: 2023-03-18T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T18:24:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+  - title: "Voice Recognition Market Size and Forecast till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- The \"Voice Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-and-forecast-till-2029-2023-03-20"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 16
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
+    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market Top Players and Forecast till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Speech Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-16T13:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-top-players-and-forecast-till-2028-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
+    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
+    publishedDateTime: 2023-03-17T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
+    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
+    publishedDateTime: 2023-03-17T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1RtL/L1M8clP7lcTKx2zK00zxzMeB2L1FeKWaghavZi/B2QKLpCg5C1UZsAOn0bzEi5mPuSkTTTOE/aqPNuhFqY3nnIJajvwzEmg1UBijkW0rFwJxZOAOIFf6rWv/Qk/cpAnBtE0HOrZorhvXKWk2pZpnvQbg1mGEU7zxQo1PwYQoigRcYXYGSzcSKY60Yn95pb3UiTJr43WMdRSfqSkksiN8IY2m/b77GH7xtrRYYcAZK/6ug3u+DqLoHwoTKkbzilRIyMMUYY9vwAZ3wVQKvOZeMFqQZurIXmEYaZEaqOxZbJ9vncggPGIqnovMWxg6ZHB9umx+bG6NiggxZZTpUpiWBB5uNpYi/Vqn1CA/EA=;9esTiHA9KjTGBNklFXQTyg=="
 ---

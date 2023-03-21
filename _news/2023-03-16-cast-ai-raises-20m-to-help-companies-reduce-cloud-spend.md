@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-compani
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fairmatic raises $46M to bring AI to commercial auto insurance"
-    excerpt: "The startup raised $46 million in a funding round led by Battery ... A and this new capital will be used to accelerate our lead in bringing the full power of AI to commercial auto insurance. Fairmatic is making strategic hires across the globe and we ..."
-    publishedDateTime: 2023-03-16T12:04:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/fairmatic-raises-46m-to-bring-ai-to-commercial-auto-insurance/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-993491068.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
     excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
     publishedDateTime: 2023-03-16T16:08:00Z
