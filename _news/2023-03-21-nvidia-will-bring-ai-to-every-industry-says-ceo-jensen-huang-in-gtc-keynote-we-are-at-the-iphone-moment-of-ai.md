@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/Keynote-Wrap-Up-Image.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 637
     isCached: true
 
-secured: "JBIu7mKWs8pRkgFpoI9Ch8M/siOOlaiT7h7iuQC5CuKuwVxy35JLMN79Pj2p/X0IwKZ4R2HLF03Pj+RoKM+llNSuWgyvkjKZeqMcNs8maSNAEANQ+NqSfR4ymHRlUoOpDegUXq6NWxPVtp+hpETngfgH9ChLg81hpLIfo7KfSc3wehfrqOmbUu9uAhhCcim9OH6vkL7xWnMHvLPu1mGnPhvlS7IZUNgZnUOtsjf3YNufwRC8HjWb9mTn/0BXWmqHkYlWwAJo5t3zP+a5BzwRdyQulpwPBGX6EMWMmCXemr3P7RGtbb2z1tDz+eLMakNCbncKFT6YfV7uxjkLNWnjbQDapI89BFE3HFawgGP2kEA=;gJzrEhz4UQ4ghsIdB3Lykw=="
+secured: "f7/sAKLkdE55L9ZAzCN/e8LZ+wY2U3av7K726rBJYIjlxON1b2MoFe1a9oJl7T8Xljvwqgis1mclmfapmri7CfND1/VDaeN4d3nnHcihXSOXClPcT4RydqAXZhrYSX3WReB27asJO3dq5IEzQMXRGMaWeovbxZRne8Qemc1kiy8ICxpioez3DrZd5mjHs7PnhB2bINjkyQFdAbbffbw+a+UcrcySnDIJR3wnjdSC4FrnAnYDtQekxaJ5U2LVYGWPChQVD/Tty9kYner5Y87/gUuexNYTwzRjiUk7ypf498rQtD1cUIcAE8v7swlE6pcSvUKYzouAWYdHxM/DYNlurUSbhJx9s6IyO9wkKoXHFKXN5dNN2ZyfoDkZ+zYduL88pzqkZfYmHlPOAkAVTfhhGUsy9dnk8aVFkhKtLIs3lJTQK4Rcz0z9vKr2Mu8nDTWlqgmdO0KVxpVJiikKLI0SZ4dNZytxzu81Gk4dwxgeF/3s0nLk1ONvVNeJbh3CG/FiupAYzywx+6qU+6Wbq3X7rg==;AC7O/J+A1ZNAQSXzhY2/tw=="
 ---
 

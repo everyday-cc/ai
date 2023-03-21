@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all"
@@ -41,6 +42,6 @@ related:
       domain: gadgets360.com
     quality: 28
 
-secured: "jjsphXYCGgibRqgZxccwqV0PogLpmc74deucOAjHgFoPsTQiuZAosDK2+FNSRWbfPOIqokBx8yy2PocxrPZX5NHkLIt0dqcwuWecDrBNW/rMScXm8YhX/XacebJcpBSjKDifDIwPBgio7RzhNukPCqQjqbcrYB4gDqcIJQo8/tc7VxkL6ysxgxNUrTbmbZXdb5IX1mh7TKlQzjRRL/M/29h84jgfFh6V4dyrp0JDeqWLB+LRCL+JwVg41yEz0W3UEdPqEjrBNmvbOICLAavHEzdXMlc7xWDAk8r6A7zSJbJHcRbBf3EBetgxRP9dTTzVkXasowSVXTOTgUKpqNnK5w9OscKwuvdhyMQqntYFzVM=;4My5bO2+TRlqlV44vWBpNQ=="
+secured: "nZVfwTC3DDsNYrm3O2dM5qoj8EnYhTgmTsAF7qPCAgjW6TH1ztKQxr4a/qr3LZ/xbQ0Hi5tFvc38KIfu/Ia+SZjDBUDxJ6R/6n0d97hiGAB04HwtA4MADCIcXgWr6JKmM/o29mvQaC4HDlaA7gGeAUQ5x7ATWYhIlKSQUJsG6Wp6vENhI1lXcJTwi6hWouYDUNq0+VWuOyrDKV1r/1uM1yNwRXdwvrC45oFeJTamKt26oofsXEdi99k5JdnyP55yKPmG0010e+4fdxhdvwq/tfqjYmc26/vvywwLwTAQFGhn0NwY3dasMwsDiqEKCNgn4wdWGMzvcFc1+yjQxALrfvGe9iK1+BdCjwxTgJctkWwtoE3nQRmXgeX5+2VdLQYQZNIjXmgxD4siRONhqSCBDXrOiPkmDi1q0CrAJOsXSoECaU5IVzndB07eu5ujDC2MCaBWoIsW9nfXwdvarWDvCt1wQACxo3FovHMfFxPRSoYpZtZL+ntlzt/TVdkwKAGpNuBMElw624skLZNMcynV9g==;E8AhWbm+gC/Vr6fjg2X3RQ=="
 ---
 

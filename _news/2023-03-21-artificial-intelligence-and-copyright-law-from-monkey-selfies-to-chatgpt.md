@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
@@ -335,6 +336,6 @@ related:
       domain: iol.co.za
     quality: 21
 
-secured: "v40zd+M88vzkLORFd79AgbrqE8yqqojGrcctNS8gu+IaFVYBLh3RtKLtC/KII2ZP11GIL7Hv/XgSzu7UTTHmKkatL+LswVu57/DRq7zhI7vo2nIQQlsfSzdfkn78SZR8FvUVS5N6fuqHRCU1D/6+8aAd4rIyHJgfdag0Ej4yTvdtW5v6YZd50/DoNxUnsB8yQF0Z2CiLgERS7kAM4GcabyIHkXlcctzn96eU2wOKO8djV2HaGypjmnppGNo1G/LwvgyVUqp1efO0D4afUYTek/5Ub6IoHbkSmh8JsaCWNKA533R2qQNr90WSZIJt7CIem74Yx/Epj2ojXD/NnGlv38uJ3hTH6UkWKUG1ouiWXxE=;zuiw/zfJJafPOQPCwC8mQQ=="
+secured: "PTHS9sqhTHk/YlsWWBiR6rb569AkhhFrGDg3zb/fY5xrfAdSLHyXgAp/tUfT0ioqnwjTea6TobDGExceq3v48ykdTeDjtkVGw/CYAXupGvdCl0tQiUSH/BfLGIHXwxul51YgMzZk2l44iBqxY0d8B+NA1yUFik2khbgmV/l9N/JSAZPS7gGBMpyHzWDuIrcvNryEdYRfRj0bg1BQ2gNmmBPelDm5q2hPAJbq/R1VDd+9T+iiIP3yoUAeUQ4fhCluGE2A1N/LEFpwoWvmLOfdHpoaerdO5lixz7CU/xfi9kxDw5jVsy0VYKbX3q8ldMeKP/VR9+lMbP+jLa8OUOwfCuvCVo03CzXyQJLMsERzGUMtBGqi370vrb3347ldJZRuvlpfxN/mf6/2RMR/s5WkXu1ArzDtc3WiOUL8FgWYkzAXCQ60jiteAJ1rKnp6ptRGvAz3Ha0OCieqnGOQZtPbSDY2+Ym6sTc5F97vqk+wSEq0N29goXaruKhEQ5kfyjeiFnt2yECT2McQGbOigSXPYw==;o8YWCV2ohfuvl6yMhtUGBw=="
 ---
 

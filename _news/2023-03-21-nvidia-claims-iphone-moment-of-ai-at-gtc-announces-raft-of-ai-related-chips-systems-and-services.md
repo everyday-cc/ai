@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
@@ -171,6 +172,6 @@ related:
         height: 853
         isCached: true
 
-secured: "HtLHyn+A9T5nalMgFCN2R2qHEuv2i04Bvqv778ZzVw5etIi4HMoUqA15SonllV5cbPkFAFRgRaxGi1O9m1+iQVXXv6wUVUmyNAnzQqew8tztbYinsHP4FHLJgXqaqoV+w3gLMC5qWD4ytt+LwYha/DtGsY0LAv+E7KpX5W7ArQMGcPcfRbQ9kxGJNr6AqCVWqNS2brtWy8UEHJOwotRdQcdqsF580UVoOkYhPjhoU84aaKBNKmI0QDKT4kx0h83UMcUD9LsThEtA9FV+OhqUEzGrS6sUhm/uPuSHMea3ZOScoUW7RG0M9dSSbZfhnULvUrBXBYLP3yOvYqkDJcNEiznjd30QdrkFzez9NJgbmq0=;pv13PshsTzOVltcg3HwxlQ=="
+secured: "YCYXmwH+3nJgWQq4i0b2fWaW4n0uprPXnvMPGPedGyOwfAlXUaGAnTUKN4I8KAavFph95gPhmC4pg43/EsBtn9QwzjUglVb+bWILMuDEPtycmcpg4ii/xaybbr7z1GGFd1JYtwtu6ysGaQtH1OpgbTzsXUZiKvlC7b7QqrmvMK+213MAS77mJ9bayAWJS1+ewArFn+VJlOReuYkIFQx3Gv+2embGvlJauQO1Tpoy60DAsEgqOd/U1obIaysOMQLydo0CwUJj31iPFMY3Iqib14fcvxyBGFhdZfvBeNUsAJqdk6AwCZMBFPE+ispRRhsi36uoZGEsatjQ91B5Yc0K4sef1RvIdFV/zx0nOP04Xa9XeeLEwbr0Bbd5patf0mBeLb0UX1YJcxut2ybULM9NWctx9mkCZzL5jcSpMdf+LvlB+dM3IJvLU3DSTtCqry4LUmAjiiesLXc+wk7LQgkFoAy6h5MWa9m5nqowDDw10YaTWTEmHgC5OZtYblQmSwMkEzBLy48oLDPqgegsRT0aEg==;0ByhrLS8ODU77B4HuH8gLg=="
 ---
 

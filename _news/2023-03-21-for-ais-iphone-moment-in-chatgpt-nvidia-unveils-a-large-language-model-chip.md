@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -71,6 +72,6 @@ related:
       domain: sacbee.com
     quality: 15
 
-secured: "Mw42z/JtFWpVbIljOCcj8epcCT5KJCbK/iEgF6Iaz0P7Tzc16jkTeHCYgkX9BvR0SCCCNJuO9XdW/ucwthvXyFOw/x32Dic7vF7R0Pc3ZF5g44t0hMocdJENPi8fHoZELRkSSJrgBlKqLoktIImcuT5v8x1K3UrSDKm2pDEX2+ZI/sokgYOEEnXPtTdrCLqmPNDQIL2f8X9DHORhMkkVdkzXgBlWcHZ2whbCCzqJmyReXWBjZNlZee3XADo1ylZspmOY+RajYs6VBHNCqz/wAsOoilw/F0mn4XtJ5DCN0KJa/Mq2VFNuighMbEyYISqlYCUDj3TDxEz0uMKNHchx0s28KM8R2j0qSUgIumtfZ+Q=;7Z64SLvHS5QpB1l+OgWIwQ=="
+secured: "DnnofeNus57bsWxFOprf7fJLzXNguEZsUu1qtIZxmcYr95XLV+u6OjN8tzohh8vM8Q5VEAM8/KQGt4kGR+2pkOwoz5L10ik+sp4+oZVJg+TwtI49e3FS18CUZK6nQxixZPnaoW5MVfpP8g5Dl4ZZ/jFDN6ShPlF46SBzNSkuQrY7p28UtFQgiYXPZqm/sP24Dwi0BKLwfoJAS+im65/yXv5Onz9ffZmJ8sCCT9ydifr7/emle0V/yUm1Pe7m1Nwbv7LVQY6/bxMiQQbSI+mWLuFspzQh6KYNrn8Iw6DZNkTEMx6maY4Cya/O8vtZ9RLrd4LRR23BjLm3DhXth8ju4wkbdmmj6tihkZ1R0bYGPsGEYiSfWFCNNWS1Cea6uBEApCQuc9wDUetParY/iZX6eRc8xsCQe+pzGHQ6r2GbNig76foGWG4HoviYtH58FuZotTCsZJfR+BMA4v32G6PXjhh8aoKMzo/b5qbo8hZp3RzFggDBE+wA66DA5ZUqcUXFUGH9ON4ey+4h0kr/kcowag==;1Jdt/y4zr9njG1uBe5O3IQ=="
 ---
 

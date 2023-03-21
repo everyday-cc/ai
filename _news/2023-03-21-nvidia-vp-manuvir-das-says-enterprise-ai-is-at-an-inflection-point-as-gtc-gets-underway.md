@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 935
     isCached: true
 
-secured: "4gsKI2zVMhLQeWH/M30mfUF3Q1sTYf3xslad9Etcipz79hRu6zHo4c8l1iKbpCVe1GPUyt028TOgSbQDqgwo/+3ibdaUdTnt3n/baarHjVNB5tFntqhh506YCkNePn1L3CRMoi+2SnidLQlCjaip73nwvD2sMzOKhgxRTNVXCChZSNHiPAQxDNK1/PJ0t1HG8WhPWQRaXlS9UpVKVYjEyiUQmbXqaPLQWjI1+WOkRqnhANi2rA0HmbB+3bSWlwhkaQoOvokKbCqHrhDrAIOpbXiF0V1qrfmoz4vHuUQ8MEkq2I3SD9UAPQMWtDMlUVuXZeSrufq2F+JMjKvrcnFwIVzZdfbeawbscso8ZrzrE0I=;1zylsl5FKWq+mCPokaKPFA=="
+secured: "n2UWb+MLHSAZfTPjif2H3Yy4AddCrbAvDJWuz86Izb+GgTbjeU/vYOYpOhWt4XjlPfR1S/j0Xm5P1SMQv0BtXAsEjmJBpomSXHPGnndt5MIRT4uM7AzW+KZqEUfA+bwqPs1dc476QagagFcZSAegKGOeD2fFPkYLpWX9lhaH+nM+9QhcffiagOCaYUyq4FskLED+7+JHbFeRgvIqg0fy4ZUA32LtTSNEI9mNS19PPJsUT6XkzSkAn1KymEwY+hwpR/hf0IKfR6t25ru8Dd0+ORzqLdzabw3pBZ1Gkum0KwfarX6e/omD89J9c297viobFLvpU7M67VlfiChQKZgNVaQ9vD0J2w5gq9fzJftWwN4CVWCHhPKgSTP7+Hwz3tWXGx8U0kK9tQtIwFRJTFldIjUhCuMcPh+fQjESLMPpwXfEcwLQidwzKQ6k/xP97Hdv4qV3j0TLUogAATkrRje7TQG0dROcyd5pW05GK84Qba5uZB0Uz1+nVEAQSRow9aUo2T/NEVDuHPbaF7BWw9lBcQ==;JyALcmmwiq9UFLvvEi/jPw=="
 ---
 

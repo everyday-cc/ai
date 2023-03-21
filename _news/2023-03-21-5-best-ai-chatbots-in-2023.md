@@ -24,6 +24,7 @@ topics:
   - AI in Autos
   - Facebook AI
   - IBM AI
+  - Google AI
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
