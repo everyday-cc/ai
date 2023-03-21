@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cruise wants to test self-driving vehicles across California"
-excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-publishedDateTime: 2023-03-21T00:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
+excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+publishedDateTime: 2023-03-21T00:40:00Z
+originalUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+webUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -100,6 +100,6 @@ related:
         height: 675
         isCached: true
 
-secured: "747av68+pE2MHM9fMrL+8pWRl6nxVPqykLr2NXlrylDvR8HPfYFf8FNK4djXEm1q0Ddao6XKrinxb0Z+wnjH1Ta+hNdVjTiZbzZNwd30Skx56n2oI4QBrNteTkYDOMOCGYVG/IlTvvRHFkalMHQ87CI+fIoBIE5t2s75q+Zh+UEf/UBSoVQbyuk2JkbBH+FzN6wXeJfsDnQJ+SNaIWaioNtywP4IBelgiv9NRautpDRqxcB8JkX/uGwjm8uwiq18oD6UO7nv6lT8aFIKB34hAVA0Rf4uCMgqo4FtzlHV6bUGt9d45cxJELG+n+9JvJ13SY5veQF/KV0QQdqV81xEYa/dxon5w8auMiho3A91Mam9R3riU7O9elyzNEBToG0vXYgopuGmwIYI7IbOozz7VGBSyHaBUwxHCRTCqXprORo6RBNiern0ICNZvsQPRIi3i4QO7OGiG8XLRdFlMjx3Qml6b0/yIE2NBc5rTySuziSfgVNrvpeCQxe4wliyqyl/y7ReuiczRJI2iTX8OcBqiw==;nlfeMQbGAjEDSHCEofOEYw=="
+secured: "kCeGCl7YlEzU6oyTVCryYeqqYcJqwM3Zs+f7KCBZZ9NvSv74oVZEFflfwdMgQsnwZCc2Ww63qaQCiyK1FaBQsR4sZrMLpx0Kc4lRsThtm5eU+Sd7HZTXgcWLnG0e1oYT2gvufp6FccwEQUQgMq9DL8tMleAYFOEM1YsxYGfQTgv5rUUrRLZoXx43V2MDaCIpXFn+UEmZP/a6WjgBsT96mJNfWgplM/T1mnzI2rf6gn8ekW2qcfxSbp0Dp8rWtt1bIM3uaGnJLoEzEjUvcBtXMoUujaBu6Iwvaqh+qOH5ZzMn0Bp/+68GDOvQ57QMrr7iNmiJj0e/m3yvlZXNv3Zd0060OjnvV5ySR0kh6DyW5rs=;o9LlNmWi9BFNnBQ+1q9Epw=="
 ---
 

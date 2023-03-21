@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 306
+heat: 286
 published: true
 
 provider:
@@ -139,22 +139,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
         width: 375
         height: 249
-        isCached: true
-  - title: "The stupidity of AI"
-    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
-    publishedDateTime: 2023-03-16T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
-        width: 620
-        height: 372
         isCached: true
   - title: "Harnessing the power of AI"
     excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
@@ -306,15 +290,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 19
-  - title: "Meaningful uses of artificial intelligence for marketers"
-    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
-    publishedDateTime: 2023-03-16T13:03:00Z
-    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "7EvcI91NBwOWP6EX0IhS5hnYNIgvNEdFgKDXJT55Z3LZYb/Ib3XWRuvINKst7RtWzx1bQNhtHzrMju7IIbkOzkfURMfL6Yxy74VCacIHD42YOFguKEdG+BNJFYOkJaPy40n4xE5ehraZvEM3UUNXUJ8JNFwCSYPImsEPtRsfk9cpICvarBKbAHCSVCAqP64uC41c6tLreJzTpKHlaHlpUuLsRGr9LJSWb1pdiCKHQ7gZjOIwWk70xe17fa1KjT9z7yq7eUvTL1vUVYgukoOX7xRJOJm4P28k27i4RtowasIs1PzExLMqxvFKuTHFSyAoZnWMsPgXWeoqd4b8pqCzzC1v8u765YATce/XMiGL6t0=;rYzLh88itSC2aSM3XNwE/A=="
 ---

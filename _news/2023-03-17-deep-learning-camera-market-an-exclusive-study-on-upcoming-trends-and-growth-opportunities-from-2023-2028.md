@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2028-2023-03-17"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -29,20 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Medical Artificial Intelligence Market Analysis: Understanding the Current State and Future Trends 2023-2028"
-    excerpt: "The Medical Artificial Intelligence Market is an exciting and dynamic industry that promises growth and innovation for players looking to capitalize on its potential. As highlighted in the Medical Artificial Intelligence Market Research Forecast 2028 ..."
-    publishedDateTime: 2023-03-16T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-16"
+  - title: "Automatic Speech Recognition Market Growth and Competitive Landscape 2023-2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Automatic Speech"
+    publishedDateTime: 2023-03-21T04:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-concretely-analyze-report-2023-to-2029-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2023 Future Trends and Forecast 2029 | Google, Baidu, iFLYTEK"
+    excerpt: "New Jersey City/USA- The Intelligent Speech and Voice Recognition Market research report 2023 focuses on the part"
+    publishedDateTime: 2023-03-17T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-future-trends-and-forecast-2029-google-baidu-iflytek-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence- Emotional Recognition Market To Grow By USD 836.2 Billion By 2033 || US Crisis Impact"
+    excerpt: "NEW YORK CITY, NEW YORK, UNITED STATES, March 18, 2023 /einpresswire.com / -- The global artificial intelligence-emotional recognition ... learning technologies in various industries such as healthcare, automotive, and retail. Additionally, rising demand ..."
+    publishedDateTime: 2023-03-18T08:36:00Z
+    webUrl: "https://menafn.com/1105807038/Artificial-Intelligence-Emotional-Recognition-Market-To-Grow-By-USD-8362-Billion-By-2033-US-Crisis-Impact"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_f127fimage_story.png"
+        width: 778
+        height: 407
+        isCached: true
+  - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
+    excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
+    publishedDateTime: 2023-03-20T19:34:00Z
+    webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
 
 secured: "2AfyGwbGAYcQEv489dWXh9iTJpGATB9H8jsHbvW6WA+ZowLUZrfHmSSsRuD71guGbymk/OCEeNMf4KOe/TVitZmgxZoLAd6Dgqeujp2YpxbBIfEWQJGuSEllqprG60b2nq75KxPcZJwgB9NbqmLLrYLChFlZ4YzjCCrI7y2tzgYOAp3eDp4LGyFWQ3SvqE2dfY3+Pe2fdG318KqtFynTG2Uy6lVJMoNjn0WghKhFKG7LWuBl3KOotSaUmx0Uq0yicx8kf0wouw3bHSCIGzFkrO1tpntV+QJdi/1xhvji+UVwswO+4gqFdl+j/k62UfkF7u9xyTy5F7+f2ZRx6vPyQYXDUL5abKbexS2a0Sj3EkU=;L4CWULfHkcv5J3qnUSo5Gw=="
 ---

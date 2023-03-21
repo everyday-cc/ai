@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: MarketWatch
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
-    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-03-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3D Facial Recognition Market Size and Forecast till 2029"
-    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
-    publishedDateTime: 2023-03-21T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market Concretely Analyze Report 2023 To 2029"
     excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition(ASR) Software Market” Size 2023 Key players Profiled in the Report are [,"
     publishedDateTime: 2023-03-17T06:42:00Z
@@ -71,66 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Market Is Booming Globally Forecast 2023-2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Facial Recognition Access Control Solutions Market 2023 with 122 Pages Report and enhance with extents shares into sub-counties are covered ..."
-    publishedDateTime: 2023-03-17T16:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-is-booming-globally-forecast-2023-2026-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
-    excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
-    publishedDateTime: 2023-03-17T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-with-latest-industry-trends-size-market-share-by-application-and-regional-forecast-2023-2033-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
-    publishedDateTime: 2023-03-18T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Size and Forecast till 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- The \"Voice Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
-    publishedDateTime: 2023-03-20T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+  - title: "Deep Learning Camera Market-An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- Deep Learning Camera Market Size 2023-2028 | New Report (87 Pages) | In This Reports Deep Learning Camera Market and its business scene ..."
+    publishedDateTime: 2023-03-17T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2028-2023-03-17"
     type: article
     provider:
       name: MarketWatch
@@ -155,43 +71,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Top Players and Forecast till 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Speech Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
-    publishedDateTime: 2023-03-16T13:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-top-players-and-forecast-till-2028-2023-03-15"
+  - title: "Artificial Intelligence- Emotional Recognition Market To Grow By USD 836.2 Billion By 2033 || US Crisis Impact"
+    excerpt: "NEW YORK CITY, NEW YORK, UNITED STATES, March 18, 2023 /einpresswire.com / -- The global artificial intelligence-emotional recognition ... learning technologies in various industries such as healthcare, automotive, and retail. Additionally, rising demand ..."
+    publishedDateTime: 2023-03-18T08:36:00Z
+    webUrl: "https://menafn.com/1105807038/Artificial-Intelligence-Emotional-Recognition-Market-To-Grow-By-USD-8362-Billion-By-2033-US-Crisis-Impact"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
-    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
-    publishedDateTime: 2023-03-17T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-03/18/EP_f127fimage_story.png"
+        width: 778
+        height: 407
         isCached: true
-  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
-    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
-    publishedDateTime: 2023-03-17T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+  - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
+    excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
+    publishedDateTime: 2023-03-20T19:34:00Z
+    webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
 
 secured: "3fGx5vRDIvNpacqju3lVyBit8i3RFnBND5dE3DThBPL2msrjQiAA7ANlNgt8tz3EK/EJd5fqpB3akTLmDZjDBsquOHSYn/q+SjZLkvPYs1EZCSEgEgTucvqGr82hS50QRtBYn3j6Wh/4AphFaCAmlbnORPY+J2kLzooYQAVz5zo/Yc7vn2FjYBNTKRjmOFQfT3nA5IzbC5yNrOYHBVQ88OZOe/apIwza0Ko0KD/2sIbx4o0DnpCGAKyq3vtw4vi9sjCz+6yKssW0knO+QeS8NS/PZ+zjuq3voHp2kKw660JfWhG1Ie6uxmP5aqcS1jGRNJDyiYK+nPV+QOqSn/bVLUt1dg6TtvcBAl4FLavDKgM=;sz+G8N7UbQ5//2Bim0ssbQ=="
 ---

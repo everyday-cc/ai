@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-man
 webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cast AI raises $20M to help companies reduce cloud spend"
-    excerpt: "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ..."
-    publishedDateTime: 2023-03-16T15:04:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
+  - title: "Zenoss Launches Real-Time Kubernetes Monitoring"
+    excerpt: "It has become the de facto standard for running containers in production at scale, including in cloud environments such as AWS, Azure and Google Cloud ... Zenoss Cloud leverages the most powerful machine learning and real-time analytics to give companies ..."
+    publishedDateTime: 2023-03-16T16:41:00Z
+    webUrl: "https://www.datanami.com/this-just-in/zenoss-launches-real-time-kubernetes-monitoring/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
-        width: 1200
-        height: 804
-        isCached: true
-  - title: "Startup that trains AI to do tasks for you raises $350m"
-    excerpt: "Tech startup accelerator Y Combinator said Monday it was ending ... But Adept aims to go one step further than having AI give answers to questions, by having the software actually performing the task. Adept envisions the future of computing as one where ..."
-    publishedDateTime: 2023-03-18T22:09:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/startup-that-trains-ai-to-do-tasks-for-you-raises-350m/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 37
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/03/AdobeStock_567943961-1024x576.jpeg"
-        width: 1024
-        height: 576
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
+        width: 1664
+        height: 674
         isCached: true
 
 secured: "kD6ZfGz5svl8AmaQUI+mAn6R+aRiOpcxN0WNeLGUAoVl2Cfim9S7uHwovwFCAtGC0EXytcZi/AF9fPaR2m7WCtuX9GmJDmsH3PvhOrmFpu245IC3md7qWzfeBwAXhE3B3f8ooW/raNLK1WNoDEKJqxQZpu13ZbUR4r5G1Tj4J6iuvFZt+sCW9W7GY8pSZRUjaXJBlHq1W2nU9LLcw8Uuy/k1mccuegzj7NRHdDRvHWO4QZzGjx1rMgb5v+LM4jk82sAuMX17OOEz2R/aoEeQ8wOORS/U+9pkbvJCSBB5lKMli0d3+MrOMtD/akVmGn0KMLMiDNh5TVeWqhM9wyIV0KuSS72NzsESgSo9nvn3Vm1sRlfd4XZmke0hclZoIthHawntVXTonILnuQm6gduJt3n8VrQJsq/veYT46axNmfajdyhKmmHnBRQyRlNY5k5MadoXmWAFdATrKkJTPtNAWtS/p2LbbNvSQxljHsNUPbdnpp5Dgx1EKuh8Y8KFgdBVfcABXEqaUYvF3BJ2/hLIfA==;xYT5SStKSS7Ow5Harcv0jA=="

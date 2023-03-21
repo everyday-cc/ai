@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-software-m
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,48 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market Major Players, Anlysis and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-21T03:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size, Trends and Forecast 2026"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare"
+    publishedDateTime: 2023-03-21T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GPU Database Market Top Players and Forecast till 2028"
+    excerpt: "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in"
+    publishedDateTime: 2023-03-21T04:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Computer Networks Market Size and Forecast till 2028"
     excerpt: "The \"Artificial Intelligence in Computer Networks Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-20T06:33:00Z
@@ -43,19 +85,89 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
-    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
-    publishedDateTime: 2023-03-19T05:22:00Z
-    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
+  - title: "AI Platforms For Healthcare Industry To Reach $4.3 Bn In 2024: Report"
+    excerpt: "The market for Artificial Intelligence (AI) platforms for the entire healthcare industry is set to grow to $4.3 billion"
+    publishedDateTime: 2023-03-20T15:41:00Z
+    webUrl: "https://menafn.com/1105817989/AI-Platforms-For-Healthcare-Industry-To-Reach-43-Bn-In-2024-Report"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 1
+    quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
-        width: 600
-        height: 314
+      - url: "https://menafn.com/updates/pr/2023-03/20/I_ef0fdimage_story.jpg"
+        width: 400
+        height: 220
+        isCached: true
+  - title: "Voice Recognition Market Size and Forecast till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- The \"Voice Recognition Market\" study describes how the technology industry is evolving and how major and emerging players in the industry ..."
+    publishedDateTime: 2023-03-20T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI platforms for the healthcare industry to reach $4.3 bn in 2024"
+    excerpt: "AI platforms for the healthcare industry to reach $4.3 bn in 2024 - The market for Artificial Intelligence (AI) platforms for the entire healthcare industry is set to grow to"
+    publishedDateTime: 2023-03-21T03:44:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ai-platforms-for-the-healthcare-industry-to-reach-43-bn-in-2024-nid-221781-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/9.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Medical Artificial Intelligence Market Analysis: Understanding the Current State and Future Trends 2023-2028"
+    excerpt: "The Medical Artificial Intelligence Market is an exciting and dynamic industry that promises growth and innovation for players looking to capitalize on its potential. As highlighted in the Medical Artificial Intelligence Market Research Forecast 2028 ..."
+    publishedDateTime: 2023-03-16T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in fintech Market Size 2023 Comprehensive Growth, Growing Trends, Top Players Analysis and Regional Forecast 2031"
+    excerpt: "Global AI in fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics, size and growth,"
+    publishedDateTime: 2023-03-20T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-2023-comprehensive-growth-growing-trends-top-players-analysis-and-regional-forecast-2031-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Data Science and Machine-Learning Platforms Market Statistics and Industry Share Analysis Forecast 2023-2028"
+    excerpt: "Global Data Science and Machine-Learning Platforms Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www ..."
+    publishedDateTime: 2023-03-17T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-platforms-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NAjlC1eIbnI3wLosNbfn4aNkxaeIIe58fuHQCaqgbESF7emeXqWkroAvPntQl5AclDZCyhHQ/MSEKx4tYdskRDdei7Vm6C8fCgphVKPrZ0KNWQI3nUcvYIvCDzOe/9Lc5GZEvV1sYNuy2R/P6FxzKU4xxrkQ48vCMyvjCVZLKcOrfMbcSmEOAQFH0xxjyXa1/rX9GyQEKw36wSv+0R4mKZxpplUKmYTTkS+KLuHj5Y7llAfcSOa5FRgTt/ko8cAsWagL668MlN5aZ7WihWRPmQtD2gscXhs7qU4EqmtsMCDA96A2SztB/JTqD0oO4Yn78qb6qW5sTnfKjqSXf//VFcMm5+dqLe3UVejsQn22Yyc=;aVQLJ/+LwFTNUO9eS5hOSw=="

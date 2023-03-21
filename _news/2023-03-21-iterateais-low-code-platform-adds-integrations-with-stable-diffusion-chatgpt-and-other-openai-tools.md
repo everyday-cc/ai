@@ -23,6 +23,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "Course5 Intelligence Integrates OpenAI's GPT Models with their Enterprise Analytics Platforms"
+    excerpt: "Analytics & AI solutions company, Course5 Intelligence, today announced the integration of Microsoft-backed OpenAI's GPT (Generative Pre-trained Transformer) models with their AI-based Augmented Analytics platform,"
+    publishedDateTime: 2023-03-21T07:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/21/9780076.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+
 secured: "wMdxrQwsAggtrmZp7Ri/41q/EEKExl6uvCVSWkXC9x4zM7BbQrWnRrZv/PCvX8W3iPmXPFYajfyKe+1i2zuqbZCp53pLbLd5d+SuGKNASgDIgaiH7XJ1RvS2IZsAuRnl69IRVtn1huA6fQaLDxUp/OTTRtC5cOYLP595fv5v2x/XjgXwLTB5u1fZxSVUwRJGRwaQUQVCytMT7iLtNcrbTXkNRFqCeaeloH3m+8k/yvfhLCBnCXSK7oD0JWULuyNrXMDk1cv51x67FdXuPUnZqPO02Hxjh4bMpVhGOeMEXHFTaJw5kTh3Z62v9WgamjGzQiZZg/FgfS7SJzlLxn+a3bRGrRA6qhMOs93m6hq8kQ4=;ZALoEJbpbVpJaMcKelJtJg=="
 ---
 

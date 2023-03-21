@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets
 webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/17/5e71d3261842978c51e058958517ff65.jpg?quality=80&resize=1280,720"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GM CEO meets with senators on self-driving cars"
+    excerpt: "General Motors CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with ..."
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98723192,imgsize-131198,width-1200,height=765,overlay-etauto/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Barra meets with U.S. senators on self-driving cars"
     excerpt: "WASHINGTON -- General Motors CEO Mary Barra met with two key U.S. senators on Thursday as the automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with Senate Commerce Committee Chair Maria Cantwell ..."

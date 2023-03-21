@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "After year of downsizing, DataRobot unveils new AI platform"
-    excerpt: "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ..."
-    publishedDateTime: 2023-03-16T14:56:00Z
-    webUrl: "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "DataRobot Unveils New AI Platform, Ushering in the Era of Value-Driven AI"
     excerpt: "New capabilities and integrations with Microsoft Azure OpenAI Service and SAP ® solutions help accelerate time to value for enterprise customers DataRobot today announced the release of DataRobot AI Platform 9.0, along with deeper partner integrations ..."
     publishedDateTime: 2023-03-16T16:11:00Z

@@ -271,15 +271,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
-    excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
-    publishedDateTime: 2023-03-16T13:25:00Z
-    webUrl: "https://www.techradar.com/news/gpt-4s-smash-success-could-hamper-ai-usage-for-microsofts-b2b-customers"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
   - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
     excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
     publishedDateTime: 2023-03-21T04:34:00Z
@@ -534,15 +525,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
-  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
-    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
-    publishedDateTime: 2023-03-16T13:35:00Z
-    webUrl: "https://mynorthwest.com/3858278/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 17
 
 secured: "7LF1RsCSu0lLb7IbdlkzGAMC5BElGiaHy10OR2MO9Pf5EJZMR1ysP5bCqvcDiLyfJQ6EooX52pUAjQjmSvbBC8BdFN5+UQ6Ctp3/QA3PfnShXDFldgdfUCl85i17yVzfQDyhzQZrnSBJzNZKgst8Nty6UhOr6Cz8+NbS8biry0t1wTzxC2B/2x4Y4E2zysAfhzX8UbqAvRdMBecvTmLBt2Ic9M/49wGkl0URMA4AAeeImaXp0cn7Yb14ySLMguPP9eGUiSZ/+ICiAfA1ttEELXwCH1cyIm+Qhd4smFwBNstjCarXIgs0kw88o8EEehnUboAxCPLoaQqgYAJBjLXIBGiXjk/5WKReObXaaI5/vINr8bxsrHhODVVm1ozGrUktcA0Gs0zK1+LZiHmQVRLwWUyv62mMiu2tVQ93Fqce0IgwxoqZNZ4yWj7EPl3nGr0sJoMhRVYv0Z8EAWUlYM2uvN6cqTM06AgbLkdyIXm99OucwIDp0h6hqTaFJZRNrusJyNCr4bGiXaNixWh+GQWyIw==;qBkw5c1iLamVTVci2tDEBg=="
 ---

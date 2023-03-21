@@ -151,22 +151,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "The stupidity of AI"
-    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
-    publishedDateTime: 2023-03-16T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Is AI the future of Hollywood? How the hype squares with reality"
     excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
     publishedDateTime: 2023-03-18T14:48:00Z
@@ -301,15 +285,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 19
-  - title: "Meaningful uses of artificial intelligence for marketers"
-    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
-    publishedDateTime: 2023-03-16T13:03:00Z
-    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "kRQf8gldZBsAlj6jQsQzNywrb4GO76oyRIziqN9C2X/Nw5+pTFpwQjRZKwx5QKivjG/2ZRTWikA3cDAHw4OgtxMz61AL7CM2DMGmJxRD+MPUyV2khnYumVmzyus/HcPVSrbYlcjFIUC4sGWzZsFNqMC+qoKbyomJJPU8OvORBUlf0lrbC5WX4bcPzr3Txk5lpSQ5Sj4tFK+cTDf+J03rw90DtRSbyVmTRkEFjnxPVr89OBgrKMrMjCSAg7MIdfSYMbCFJJAsHvKJ3EqOzkwjlAOV5UzzM+lL33tDyKCGTPB4aCN17E7xqf5r8N/pciAsNgUZ4CaUYIDynJeweZInwFcNNY0ZBTW3ifY97t1F+WY=;bXXHnAI/Ww2M+VRWUd0Frw=="
 ---

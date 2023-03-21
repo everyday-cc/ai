@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-intelligent-voice-re
 webUrl: "https://www.marketwatch.com/press-release/the-intelligent-voice-recognition-market-research-report-aids-expansion-in-industry-revenue-2023-03-17"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
+    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-03-20T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chips Market 2023 : New Recent Developments, Trade Regulations, Import Export Analysis"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- \"Artificial Intelligence Chips Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market Research Archive of Kingpin ..."
     publishedDateTime: 2023-03-17T07:48:00Z

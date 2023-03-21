@@ -141,15 +141,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Chinese search giant launches AI chatbot with prerecorded demo"
-    excerpt: "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ..."
-    publishedDateTime: 2023-03-16T13:22:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "China’s ChatGPT rival Baidu Ernie is off to a rough start"
     excerpt: "Fangbo Tao, CEO and founder of AI startup Mindverse and a former AI scientist at Alibaba and Facebook, echoed the sentiment. “Under the pressure of models like ChatGPT, domestic large language model companies in China have indeed launched similar ..."
     publishedDateTime: 2023-03-16T19:46:00Z

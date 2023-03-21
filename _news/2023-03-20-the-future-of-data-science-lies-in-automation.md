@@ -149,22 +149,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "The stupidity of AI"
-    excerpt: "Artificial intelligence in its current form is based on the wholesale appropriation of existing culture, and the notion that it is actually intelligent could be actively dangerous"
-    publishedDateTime: 2023-03-16T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/16/the-stupidity-of-ai-artificial-intelligence-dall-e-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/d8e4da628885d59b71e2cbef804ae5206ae79a9e/217_204_3483_2091/master/3483.jpg?width=620&quality=85&auto=format&fit=max&s=a49d61169317b4bf10f5f52fdf1c447b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Harnessing the power of AI"
     excerpt: "Amazon SageMaker is a cloud-based machine learning platform that provides tools for building, training, and deploying machine learning models on the Amazon Web Services (AWS) platform. SageMaker ..."
     publishedDateTime: 2023-03-17T03:03:00Z
@@ -301,15 +285,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 19
-  - title: "Meaningful uses of artificial intelligence for marketers"
-    excerpt: "You’ve undoubtedly heard the continuous influx of news about OpenAI’s ChatGTP and now Google’s Bard, as they introduce expanded ways of utilizing artificial intelligence (AI) in business and beyond. AI is rapidly transforming the way marketers ..."
-    publishedDateTime: 2023-03-16T13:03:00Z
-    webUrl: "https://www.fastcompany.com/90864486/meaningful-uses-of-artificial-intelligence-for-marketers"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "3CBJ2FVYZ/WO1f60D1s4v9c2obq+SmOEOb/6J45H3rCyK1S4YmUHfQZ3NZeMHKw0M/IP5+BWtzM4eENDS0lLPAcR8A5QqzNOCAcCviugFDi4PUQBaKIYv1EkYBEqhQ2R/RqjL0uRB6lwr1qUBqrgJ+92jqJ23iPCUBayXFuuEXtjrAFLkd0bp1BL+JN6qq7Nv2RKUz+EN+OWysRGcfINCl3T3Tb4ut/aAg5LZBO5X0JUYbN8mJZ+BIxW3jEYOT9EtV6YLxz+3kWpJzfRUjPm7i51EKHiU47kozHE4l4mHLLpuH5LwHtpR1IAqrWdr00IM6vi8YvHSL1Fhmwxqh4jAYzKicqjSwOa7giFy2t9GmgqYFktpRVm5gj4W9SWSmjUNQSx+A5CGmyoSC+KVkPdvm53alXdPwDmknMB9rej+iGCZZPI6W82i3Z0EnnU9TSlCxY2z3a7rK+cb8c48cAsMvbOl7pWDuydGhNxZybgeEHhZUC4mzPpX4TBLBLlabkIaZ7+btm8b+QkUOJcXGvBFw==;Z1PYqLGF6zcH8wAGmlIXrw=="
 ---

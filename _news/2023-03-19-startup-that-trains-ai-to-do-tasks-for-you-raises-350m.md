@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cast AI raises $20M to help companies reduce cloud spend"
-    excerpt: "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ..."
-    publishedDateTime: 2023-03-16T15:04:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/"
-    ampWebUrl: "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/"
+  - title: "10 stocks that are gaining market share for their disruptive innovations like AI, according to a portfolio manager"
+    excerpt: "Artificial intelligence has dominated the conversation when it comes ... They are a service and product supplier specifically for cell and gene therapy-based companies. IDEXX Laboratories (IDXX) is dominating the veterinary healthcare space by continually ..."
+    publishedDateTime: 2023-03-18T12:52:00Z
+    webUrl: "https://www.businessinsider.com/stocks-gaining-rapid-market-share-ai-disruptive-technology-2023-3"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
+      - url: "https://i.insider.com/6414ab320308e0001855448f?width=1200&format=jpeg"
         width: 1200
-        height: 804
-        isCached: true
-  - title: "Kubernetes operations and cost management startup Cast AI raises $20M"
-    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced that it has raised $20 million in new funding to take advantage of the significant opportunity as the market for cloud-native solutions is experiencing hypergrowth."
-    publishedDateTime: 2023-03-16T16:08:00Z
-    webUrl: "https://siliconangle.com/2023/03/16/kubernetes-operations-cost-management-startup-cast-ai-raises-20m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/09/castai.png"
-        width: 1197
-        height: 673
+        height: 600
         isCached: true
 
 secured: "OfkLoCIp5L8BdbfNp8pp1F6dVVegXDLebAcjNyHj1WNoTwABPN0MyCZOZEn2545WlfESOB+n81iFWK94cO23ETGqsdeCTf2mMzGXFyVO0WsFGdpu/lrog613eMrxWkIzNcV0CxT/SXapYGq8Yf0FJzP14pzNLdL0pk1PL7spXC1puOHIP0FvmsjdwuDgzJR8lhfqn649kSAILP5lmfpxM5Tx5e3VO0rWG3jitR7TPnPWi6dgksvStHaA51GFhNo7mIvR5DwGEUXL8sf2XjMIMELiRGfa9+gjAz8aeVehg41MNPIXr+hLbziZjvusHmD2dt9I1d9fuLsWPzxTXE5egc/iNeBODJSBizwAorTsVltVvdTkEUX1wwK2CTotsdYV5d9zGjYTDmtWXsLRa3jYfEzsLHkcjt1qK62zJfkzn41R2RVpwM0rmToOhzRsEeF2BWjAIiKAdz3fwLHOnp2v5974AFuX/Tl4Gj+INNvy/AmOZf59lT2BIGNju7sGI6SctRy/ACgD6L1M1bsYiuEkJQ==;azOLv8N6pGnWk8e7szWFYw=="

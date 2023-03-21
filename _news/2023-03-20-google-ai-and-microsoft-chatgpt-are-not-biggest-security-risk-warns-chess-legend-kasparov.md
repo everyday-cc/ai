@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
 type: article
 quality: 111
-heat: 491
+heat: 471
 published: true
 
 provider:
@@ -264,15 +264,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GPT-4's smash success could hamper AI usage for Microsoft's B2B customers"
-    excerpt: "Being short on GPU power could also mean that small and medium-sized businesses who want to jump on the AI bandwagon with Microsoft might be hamstringed, as Microsoft is likely to prioritize enterprise users and the public sector. It’s quite a conundrum ..."
-    publishedDateTime: 2023-03-16T13:25:00Z
-    webUrl: "https://www.techradar.com/news/gpt-4s-smash-success-could-hamper-ai-usage-for-microsofts-b2b-customers"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
   - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
     excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
     publishedDateTime: 2023-03-21T04:34:00Z
@@ -536,15 +527,6 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 21
-  - title: "What can ChatGPT maker’s new AI model GPT-4 do?"
-    excerpt: "Here’s a look at San Francisco-based startup OpenAI’s latest improvement on the generative AI models that can spit out readable text and unique images: OpenAI says GPT-4 “exhibits human-level performance.” It’s much more reliable, creative and ..."
-    publishedDateTime: 2023-03-16T13:35:00Z
-    webUrl: "https://mynorthwest.com/3858278/what-can-chatgpt-makers-new-ai-model-gpt-4-do/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 17
 
 secured: "5Bnq1F6H59D275KaGHzXsDpYqbt8JxNfwAUEZ68iCr4NhTBDCDAEY2KZYIm0p1Z40LrJzxnuDTlIPODtNVUu1pwioo78HfIiNErXLiLC4eFC8WVBlvuJOpstNBhq5F1vsyoBu0ZmRZLRwe50Fn+q/LwhqWd3/JFbhKXmkVnCIqlorIAFbQ4Ffoo0BeRiaUoPrbm0LcjYr0OrgrHjAKqWt4HCr+67V6Srf0EhD0XudtGGqiwraVwPW51V5VOv5iIG1fNoU3/gT6Ye051IZLwueJssyKqWPgY1nFo0I5LoasXYp5rhFMb9quPtAm8vbk2ImmFQL/tLFnAfGYe8T95+3dCEeLTZtxhsQ+4zyzScBQ2Tplhtuzyi2IMSlURaS86RL+IPh6mrvy5cn/8VYsppnj7+PBOtvZrkpIqOz36PR4pSQPpLQGndjyOn/88rpXiWatLpUeTXt5FIOMiXtRZASMO7R3MhsMXMQ+KFP8oUeOvuJCsDeCHbIfUMk4/n8rvjlBkVt6LT/gdV1Du21uzXfg==;DhT9ex49zDTaL2rZAFOE5Q=="
 ---
