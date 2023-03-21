@@ -7,7 +7,7 @@ originalUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero
 webUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero-california-usa-today-women-year/69820508007/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,84 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "California Voice: Recall of self-driving Tesla cars doesn’t go far enough"
-    excerpt: "California’s Office of Traffic Safety needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed full self-driving"
-    publishedDateTime: 2023-03-19T21:43:00Z
-    webUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/"
-    ampWebUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 58
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/02/SJM-L-TESLAFSD-0217-1.jpg?w=1024&h=681"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Cruise wants to test self-driving cars all over California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-21T02:35:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/cruise-test-driving-vehicles-california-98002600"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-21T00:40:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "California skeptic of facial recognition use by cops now sees an opportunity"
-    excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
-    publishedDateTime: 2023-03-16T23:27:00Z
-    webUrl: "https://www.biometricupdate.com/202303/california-skeptic-of-facial-recognition-use-by-cops-now-sees-an-opportunity"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
-        width: 2048
-        height: 792
-        isCached: true
-  - title: "GM's Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
-    publishedDateTime: 2023-03-21T01:32:00Z
-    webUrl: "https://www.crainsdetroit.com/automotive/general-motors-cruise-wants-test-self-driving-vehicles-across-california"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 24
-    images:
-      - url: "https://s3-rd-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/GM%20Cruise-main_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3QaTYLQuHhLb8510ZgT6ujqqN1EV1CHaeTc9OkYCv/ltsD+M4TJnvmlNmyPjuI7+piYMfrjf+sQ9fmyRFrknt26hfOg/nKHNmI2HE0+C2JgZkrROnAH3wbo4HNJw32X4MKkOhve5CRbba7jkm5WtVfzHnkTG2fQXPT2sCQ9t9UgU9z5EkTopKSx8gggHOpT7kDRcDRFXIUWzejlEeRl0SLwgkvsvAAyPw4CODKZwuFnaoJMMGjn6vrdV+VPmjwy4TdiMNmKZhp00dK/AQADwvY9J90afUKoI7+LiuNwIotJe7wF78lUqx5j/xARiifYw2I9YRHeN3qRrbi7bjOEHS2+CI+/T9dSAD0X2//fwDJtAF3XG2DEdW2Zdf2Jj5D5nkROVE8tD/EHkv5iW75LZu+z2WXkmdNT1Z0qnXf8Ajme4Gtqsb/cEMw7XrdtITHpAwtPcIR+DH1zE3UXGPH9NQNadxnnOB/agWDIpPw0bEcC9K19sBSUv2JuXVue4Shd8knSW8kVc0WbFLdg+D8SsJA==;icHHf+f9S3APeeuN6amm6A=="
 ---

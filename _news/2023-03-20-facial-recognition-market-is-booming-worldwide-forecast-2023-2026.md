@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-21T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "Computer Vision in Healthcare Market with Latest Industry Trends, Size, Market Share by Application and Regional Forecast 2023-2033"
     excerpt: "The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2031 at a CAGR of 21.3% in"
     publishedDateTime: 2023-03-17T06:53:00Z

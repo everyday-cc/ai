@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace.md",
+      "title": "AI News Roundup | AI Advancements: Google and Microsoft, Germany's healthcare robots, and AI in the workplace",
+      "excerpt": "Google, Microsoft aim to increase productivity through AI integration in popular productivity apps. Google and Microsoft are on a mission to remove the drudgery from computing, by",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/9-garmi-robot-in-germany.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-roundup-ai-advancements-google-and-microsoft-germanys-healthcare-robots-and-ai-in-the-workplace-10287821.html/amp",
+      "publishedDateTime": "2023-03-21T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-india-has-45000-open-jobs-in-artificial-intelligence-teamlease.md",
+      "title": "India has 45,000 open jobs in Artificial Intelligence: TeamLease",
+      "excerpt": "The company said while the expected salaries for freshers in data engineering roles in India is up to Rs 14 lakh per annum, ML engineers at the same level earn up to Rs 10 lakh.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/hiring_pic.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html/amp",
+      "publishedDateTime": "2023-03-21T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries.md",
+      "title": "Cleveland Clinic And IBM Launch World's First Quantum Computer Dedicated To Healthcare Research And Biomedical Discoveries",
+      "excerpt": "IBM has used artificial intelligence to reduce drug development cycles from ... 17 years for a scientific discovery in a research lab to become an approved test or therapy for patients. Successful research and acceleration in this area by Cleveland Clinic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6418ba489bbf5a66100aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/",
+      "publishedDateTime": "2023-03-21T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Major Players, Anlysis and Forecast till 2028",
       "excerpt": "The \"Artificial Intelligence (AI) in Healthcare Market\" study describes how the technology industry is evolving and",
@@ -10,7 +150,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1267,136 +1407,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
-      "title": "Artificial intelligence could help detect breast cancer: study",
-      "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
-      "originalUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LLZSV63TI5FEZIKVKAEDJVKO5M.jpg",
-          "width": 2916,
-          "height": 2233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
-      "publishedDateTime": "2023-03-05T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Staten Island Advance",
-        "domain": "silive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-government-funding-to-accelerate-research-in-ai-healthcare-technologies.md",
-      "title": "Government funding to accelerate research in AI healthcare technologies",
-      "excerpt": "Tens of thousands of patients across the country could benefit from quicker, earlier diagnoses and more effective treatments for a range of conditions - as the government invests nearly £16 million into pioneering artificial intelligence research (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "publishedDateTime": "2023-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-lewis-can-artificial-intelligence-be-evil.md",
-      "title": "Lewis: Can artificial intelligence be evil?",
-      "excerpt": "In the year 2050, the world was a vastly different place, controlled by advanced AI systems that governed everything from transportation to health care. However, a series of bizarre incidents began to occur across",
-      "sourceUrl": null,
-      "webUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
-      "originalUrl": "https://www.vaildaily.com/opinion/lewis-can-artificial-intelligence-be-evil/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vaildaily.com/wp-content/uploads/sites/7/2022/07/MarkLewis-1-683x1024.jpeg",
-          "width": 683,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vail Daily",
-        "domain": "vaildaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

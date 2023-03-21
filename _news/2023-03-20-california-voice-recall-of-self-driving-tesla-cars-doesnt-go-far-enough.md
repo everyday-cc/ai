@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-d
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
 type: article
 quality: 58
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: Marin Independent Journal
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is saving homes and lives in California during wildfire season"
+    excerpt: "From fire detection and predictive analysis to evaluation of vegetation moisture levels, AI has assumed center stage in California's fight against seasonal wildfires."
+    publishedDateTime: 2023-03-21T14:20:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6bceca88c0c7464f0c2a5fb16920f95e858be61f/2023/03/20/26ed3479-b94e-402a-a086-efed13a034a2/ucsd-supercomputer-center.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cruise wants to test self-driving cars all over California"
     excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
     publishedDateTime: 2023-03-21T02:35:00Z
@@ -87,19 +103,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Patricia Guerrero brings parents’ lessons of ‘sharing your voice’ to California Supreme Court"
-    excerpt: "Patricia Guerrero is one of USA TODAY’s Women of the Year, a recognition of women who have made a significant ... and that sharing your voice based on your unique experiences is important.” Intersectional identities meant breaking through a ..."
-    publishedDateTime: 2023-03-19T10:00:00Z
-    webUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero-california-usa-today-women-year/69820508007/"
+  - title: "GM's Cruise wants to test self-driving vehicles all over California"
+    excerpt: "Detroit — General Motors Co.'s Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco ..."
+    publishedDateTime: 2023-03-21T15:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/03/21/gms-cruise-wants-to-test-self-driving-vehicles-all-over-california/70033356007/"
     type: article
     provider:
-      name: Redding Record Searchlight
-      domain: redding.com
-    quality: 13
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 24
     images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/23/USAT/033798f3-3843-4521-ba4e-9c4f67b40f67-XXX__S7A5106.JPG?crop=5471%2C3078%2Cx0%2Cy278&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2022/12/16/PDTN/9e0831d9-114b-408c-98d2-1c8c4ea2cf60-AP22350461779888.jpg?auto=webp&crop=1023,575,x1,y74&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
 
 secured: "pHkc53GXWRLJPhYowUuSG4gccqfTI7KDwM67jLIv7V+rkJJ1RbrW/uGERfTEYmxk6h2fBEbws8GBd87Gj8wfHVF+abh0StX/PRM0vjixt/zgoqGkk912ttqET9QQ19gpGkdACFeuhcV5EBhpaM0wsls3Nk77LUQIMIhNm2IQSqJ6Vnhz27Nd+f0yklt5nc8zuPd6Qb2BXZGSnUU1FaF5eHFgk4cdQqhUpUb+XkSPn/Gz/hqkv31Dn8T2Oz093ZuAJcONi/aCxBbebOa+odmR2u2KSWrUgOYg65nBpn7ZefyozxXDJoQV+T/JHcvglxGJattALSQVnAsrT9cTHwyQxOkzry1LYfpIBZ/HOv6ik5VQleEC9zt+Lqb9GhHtzAuo1JZEO/tV3gIBng0qKBEHsYIIwBT4EiRcOKsnDvLcdt1JDYmRmsIhy4iYEt6ToLGDlbdVJDzLixqHJxxpMpIuMQIppxn64qrPkwK6RTYBwib+pVPwHg4+FD0sX7BJEXjvKKMzN2Rmqc7gtElSLCC23A==;MVUieOnaeEKWCKh2e/er+w=="

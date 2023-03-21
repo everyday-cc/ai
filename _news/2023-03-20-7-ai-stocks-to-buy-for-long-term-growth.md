@@ -37,15 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "3 AI Stocks That Are Revolutionizing the Auto Industry"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Auto AI stocks are a great investment opportunity for investors."
-    publishedDateTime: 2023-03-16T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-revolutionizing-the-auto-industry-nvda-f-gm-1032174037"
+  - title: "What AI Should You Invest In Now? Expert Answers"
+    excerpt: "Artificial intelligence (AI) is changing the way humans work, live, and play. Personal Finance Guru we have done some research into how AI can make you money, and which AI would be a smart investment"
+    publishedDateTime: 2023-03-21T11:01:00Z
+    webUrl: "https://techround.co.uk/news/what-ai-should-you-invest-in-now/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: TechRound
+      domain: techround.co.uk
+    quality: 19
   - title: "How to be a leader in an AI-powered world"
     excerpt: "On the other, you need to reassess the skills that are important in an AI-powered workplace. For example, critical thinking, effective communication, adaptability to technology, and the ability to build and maintain relationships with others are human skills that will remain valuable and in demand."
     publishedDateTime: 2023-03-21T03:59:00Z

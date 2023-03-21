@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13127
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312743&cat=PR News Wire"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
-    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
-    publishedDateTime: 2023-03-16T19:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312466&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Altair Announces Altair RapidMiner: One Converged Platform for Data Analytics and Artificial Intelligence"
     excerpt: "TROY, Mich., March 16, 2023 /PRNewswire/ -- Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI), announced the rebrand of its entire data analytics and AI suite as Altair RapidMiner, uniting all data ..."
     publishedDateTime: 2023-03-19T20:37:00Z

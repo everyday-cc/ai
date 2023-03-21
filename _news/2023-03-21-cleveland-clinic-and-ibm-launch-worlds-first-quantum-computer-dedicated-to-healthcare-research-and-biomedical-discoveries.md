@@ -1,0 +1,53 @@
+---
+category: news
+title: "Cleveland Clinic And IBM Launch World's First Quantum Computer Dedicated To Healthcare Research And Biomedical Discoveries"
+excerpt: "IBM has used artificial intelligence to reduce drug development cycles from ... 17 years for a scientific discovery in a research lab to become an approved test or therapy for patients. Successful research and acceleration in this area by Cleveland Clinic ..."
+publishedDateTime: 2023-03-21T14:04:00Z
+originalUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/"
+webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/"
+ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
+type: article
+quality: 63
+heat: 73
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6418ba489bbf5a66100aff98/0x0.jpg?format=jpg&width=1200"
+    width: 624
+    height: 441
+    isCached: true
+
+related:
+  - title: "Cleveland Clinic and IBM Unveil First Quantum Computer Dedicated to Healthcare Research"
+    excerpt: "\"By combining the power of quantum computing, artificial intelligence and other next-generation technologies with Cleveland Clinic's world-renowned leadership in healthcare and life sciences, we hope to ignite a new era of accelerated discovery.\""
+    publishedDateTime: 2023-03-21T01:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31430613/cleveland-clinic-and-ibm-unveil-first-quantum-computer-dedicated-to-healthcare-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31430613"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31430613"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
+secured: "23/6F1UM5MqNF4BAm+ahUk7pXB6h5sw7wvyNpexhCCVXc9Gf0bw1TysWYwf1eXktzCEwWlqZ7oL7lRBr7s56L5e6eUxr9XR6R1+hkkHgMSN92M3FFHX3Wfu4j6lUY+bt6YTCew8Ikh9M4c/mImCXgOjOmK9UqL5u6TgYfF9aRvK+05cqm6E8IftEg/iUB2N901aOSlPQ5ziWhyBanIGRVGfz2m8NUKlVe/2KBNX+ZmPTHNqMaDyFZbHXI4WpqqreiHr1gZiFqnRIL7onqCnCInMVR8zHiP+hBsDRs2ryZXtSMHOOQxhKjuOSfaEFkF2hFr/zJDIe0BkQujOj87huXvoE3TIagfsPpWYdAuJ8niw=;VE5NI7C2N84C9vBU1M6vPw=="
+---
+

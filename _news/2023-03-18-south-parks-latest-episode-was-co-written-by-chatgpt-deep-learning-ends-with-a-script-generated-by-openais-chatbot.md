@@ -27,21 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "I was wooed by ChatGPT: New AI Romeos are ‘scary’"
-    excerpt: "The AI tool, currently in public beta mode, costs $15 to access, though that price tag is expected to increase once the product is fully launched. A since-deleted Reddit post had readers debating the ethics of men using an AI doppelgänger to score dates."
-    publishedDateTime: 2023-03-20T22:38:00Z
-    webUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/"
-    ampWebUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
+  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
+    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
+    publishedDateTime: 2023-03-17T10:32:00Z
+    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008538607-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
+    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
+    publishedDateTime: 2023-03-17T11:17:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 50
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
+    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
+    publishedDateTime: 2023-03-20T17:12:00Z
+    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 21
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
+        width: 1500
+        height: 700
         isCached: true
 
 secured: "+cd1M4EY/T3J9gHju80YruhFeHLAzt0hGlIJQ/Jcdd8ziZlZgecWFcVHkqM2Nt3CR71vSPgY6dKbO5hUt0+Y5aDChmsrI2nx/A5g7BaVGa88xSCVWA/P8+YcVrLWnCyKeO/0bDMNzem30I6BYrBLqSQb2QnhPzhNi4wSXJOCJuJl7YOSi/oNFlRcpdFyA0/qWcDXm/yvk5d359o4FpzDf+hafY/0uvJjKZMHiq1DvWxeckQiXpNteCjJdoiZWrsvCSvOaKiCirsKm+rgIsCNeoOq3fB3EudG0Vh/A1wWhQg4NMkJ35QCTah+t+DzFNnZdTmPI4aah9XPs9DCrf/QmvZaTEw/zpRw3v3RpOhAia/rISI/3l/ThcNkUN48bTh7LqkIL8uCfZkL+ku3g99BJHeXoVCgTvZc+dN9SLpWhe3Jww37rRzDjRW7Rjq6c3nxhuEBBMLCIffl7anK2sHLJIshdmGeT3beyiazQBPnGokaK6ZnjEAPisHmXV9sK2EFwMjL3E0M6l04545Vw+ckxA==;I1e2tvVMSbzNGgXQ8YTDBw=="

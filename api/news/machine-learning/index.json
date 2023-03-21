@@ -53,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 238,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -342,6 +342,49 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-drives-growth.md",
+      "title": "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth",
+      "excerpt": "Distribution by Therapeutic Areas and Key Geographical Regions: Industry Trends and Global Forecasts (2nd Edition),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31386216",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31386216",
+      "publishedDateTime": "2023-03-16T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1205,6 +1248,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-deepfakes-and-disinformation-pose-a-growing-threat-in-asia.md",
+      "title": "Deepfakes and Disinformation Pose a Growing Threat in Asia",
+      "excerpt": "The growing commercialization of deepfakes will bring new challenges to the Asia-Pacific’s information space. Recent news on the use of computer-generated avatars by a pro-China influence campaign has once again aimed a spotlight at the usage of deepfakes.",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2023/03/deepfakes-and-disinformation-pose-a-growing-threat-in-asia/",
+      "originalUrl": "https://thediplomat.com/2023/03/deepfakes-and-disinformation-pose-a-growing-threat-in-asia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-11T00:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
       "title": "Real-time fraud detection using AWS serverless and machine learning services",
       "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
@@ -1412,102 +1489,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning.md",
-      "title": "‘Pan-variant’ COVID vaccine could defang future strains thanks to machine learning",
-      "excerpt": "A new approach to vaccines with a machine learning twist could put an end to boosters and seasonal variant shots, MIT researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/achiko-aptamer_and_covid.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
-      "publishedDateTime": "2023-03-09T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-sales-of-countrys-first-manga-made-with-neural-net-use-starts-in-japan.md",
-      "title": "Sales of country’s first manga made with neural net use starts in Japan",
-      "excerpt": "The author of the Cyberpunk Momotaro shared impressions of the process of creating the manga with the aid of the neural network. \"The artificial intelligence does not always create an image ...",
-      "sourceUrl": null,
-      "webUrl": "https://tass.com/world/1586259",
-      "originalUrl": "https://tass.com/world/1586259",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phototass3.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20230309/1384257.jpg",
-          "width": 1080,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tass.com/world/1586259/amp",
-      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/world/1586259/amp",
-      "publishedDateTime": "2023-03-08T20:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TASS",
-        "domain": "tass.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

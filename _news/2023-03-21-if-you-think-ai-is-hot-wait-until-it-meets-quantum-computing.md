@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/sap/2023/03/21/if-you-think-ai-is-hot-wait-until-it-meets-quantum-computing/"
 webUrl: "https://www.forbes.com/sites/sap/2023/03/21/if-you-think-ai-is-hot-wait-until-it-meets-quantum-computing/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

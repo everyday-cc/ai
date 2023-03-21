@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Rep
 webUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Report"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Job Openings in India Offer Salary of Rs 10 Lakhs"
-    excerpt: "There are over 45,000 artificial intelligence job openings in India at present, and this is due to increased use of new age technologies"
-    publishedDateTime: 2023-03-20T07:35:00Z
-    webUrl: "https://www.dqindia.com/artificial-intelligence-job-openings-in-india-offer-salary-of-rs-10-lakhs/"
-    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-job-openings-in-india-offer-salary-of-rs-10-lakhs/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-job-openings-in-india-offer-salary-of-rs-10-lakhs/amp/"
+  - title: "India has 45,000 open jobs in Artificial Intelligence: TeamLease"
+    excerpt: "The company said while the expected salaries for freshers in data engineering roles in India is up to Rs 14 lakh per annum, ML engineers at the same level earn up to Rs 10 lakh."
+    publishedDateTime: 2023-03-21T14:12:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html/amp"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 36
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/hiring_pic.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "India Has 45K Job Openings In Artificial Intelligence: Report"
     excerpt: "There are 45,000 Artificial Intelligence (AI) job openings in India, with data scientists and Machine Learning (ML) engineers being among the most sought-after careers, according to a report on Monday."
     publishedDateTime: 2023-03-20T17:05:00Z

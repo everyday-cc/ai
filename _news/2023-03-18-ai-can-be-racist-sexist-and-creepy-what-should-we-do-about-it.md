@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

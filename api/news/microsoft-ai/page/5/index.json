@@ -2,6 +2,154 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-10-dementia-only-causes-about-41-of-cognitive-decline-study-identifies-other-predictors.md",
+      "title": "Dementia only causes about 41% of cognitive decline: Study identifies other predictors",
+      "excerpt": "Cognitive decline naturally occurs as we age, with a common belief that dementia is the cause in most cases. Researchers at the Ohio State University say there are more factors causing cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-decline-predictors-besides-dementia",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-decline-predictors-besides-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/02/senior_dementia_aging_news_732x549_thumb.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boomthe-ai-race-is-on.md",
+      "title": "Microsoft Announces New Generative AI Search Using ChatGPT; Bada BING, Bada Boom—The AI Race Is On",
+      "excerpt": "but clearly Microsoft is serious about taking the lead in the AI war of the tech giants. At least for now, it has presented some nice-looking solutions that feel well-thought-out, that fit cohesively into the company's other products and services and that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5787d44cbba5b369d9cc3/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/amp/",
+      "publishedDateTime": "2023-02-09T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-ai-has-helped-design-over-100-chips-should-we-be-worried.md",
+      "title": "AI has helped design over 100 chips, should we be worried?",
+      "excerpt": "One client, STMicroelectronics, achieved the first-ever commercial design tape-out using AI on the cloud (in this case, Microsoft Azure). According to Philippe d'Audigier, the SoC hardware design director at STMicroelectronics, the system increased their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
+      "originalUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-09-image-24.jpg",
+          "width": 2500,
+          "height": 1449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-microsoft-stock-ai-opportunity-much-bigger-than-just-bing.md",
       "title": "Microsoft Stock: AI Opportunity Much Bigger Than Just Bing",
       "excerpt": "“That said, we see an even bigger enterprise opportunity that could expand to $22B by CY26E leveraging AI transformers further into four product categories: GitHub, Microsoft 365, Teams, and Azure AI services.” What’s more, Microsoft’s AI endeavors ...",
@@ -1193,126 +1341,6 @@
       "provider": {
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ibm-research-touts-ai-supercomputer-for-foundation-ai.md",
-      "title": "IBM Research Touts AI Supercomputer For Foundation AI",
-      "excerpt": "with ChatGPT from OpenAI presenting the most visible sign that AI is finally having its “iphone moment”. The models do not require supervision, but do require an enormous amount of computation.The OpenAI supercomputer hosted by Microsoft Azure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/02/07/ibm-research-touts-ai-supercomputer-for-foundation-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets.md",
-      "title": "Renesas Positions Its Microcontrollers For The Digitally Transformed Automotive Industry And Consumer And Industrial Markets",
-      "excerpt": "From the cars we drive to the appliances in our homes, and the smoke alarms that keep our homes safe, microcontrollers (MCUs) are in just about everything. Renesas is the world's largest supplier of MCUs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-ai-event-live-blog-all-the-announcements-as-they-happen.md",
-      "title": "Microsoft AI Event LIVE Blog: All the announcements as they happen",
-      "excerpt": "MS built new balances, and are able to scale unlike anyone else. \"We're committed to learning with you.\" Sarah Bird, Responsible AI Lead, Azure, is now on stage. \"We have been preparing for this moment for many years.\" \"Since 2017, we have been investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "originalUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
         "images": null,
         "publishers": null,
         "authors": null

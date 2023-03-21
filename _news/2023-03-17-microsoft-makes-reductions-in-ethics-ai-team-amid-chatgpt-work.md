@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-excerpt: "The statement said, \"The Ethics and Society team played a key role at the beginning of our responsible AI journey, incubating the culture of responsible innovation that Microsoft’s leadership is ..."
-publishedDateTime: 2023-03-17T03:06:00Z
-originalUrl: "https://www.turnto23.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-webUrl: "https://www.turnto23.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
+excerpt: "Microsoft says it hasn't \"de-invested\" in its ethics team as it pursues its ChatGPT AI project. Reports pointed to layoffs in that area."
+publishedDateTime: 2023-03-16T22:23:00Z
+originalUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
+webUrl: "https://scrippsnews.com/stories/microsoft-reduces-ethics-ai-team-furthers-chatgpt-work/"
 type: article
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: scrippsnews
+  domain: scrippsnews.com
 
 topics:
   - AI Ethics
   - AI
   - Microsoft AI
 
-secured: "t8tt2Tx/ybY84itgTV56/ORfLZ02lQkMNz/hfP4Z6oAhEzjqx8fUO1IpU2z3bR7o5rvbJnSIcf1AYlg3odG1SdRWPKtJoUh5h8xA7CG3/A6mdVAUTag5MHnMSoeBfgC9iemK6TUOusVG1JOhRtAhwxsOAf+1Zi570fotGZLK9U1XbvfRpbW+s3YtzaeqEhpnYWdlp6O6+Iv4bADHxkTOMLT7j/bPGRjmNxKiWC3qITN+u6Xl2X/ibeuH6zoxPCHESmx9uMJAmA0AjO8pFqxOfQqFNPXbF84EaY3jaH6xzoSGDRK2pOQQoQ/3oUEo3/mgRh1CosWDwdC8bpQFfjozI4Eg8KIclaH9WdCp/NmLZh0=;gUHBY6++P1GDudwtTYqFjg=="
+images:
+  - url: "https://cdn.scrippsnews.com/images/videos/m/1679006239_Wz7rHZ.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "43rrYBniyM8Gw1n0zTKcPhl8jSfLmyXZ65xGvY7d37/kaUQU1ennCru1fYQ/+hElp9oUKByjz3elkl7xJFqsE0S3DPbIg0uX0uoLJMLYXlOb8HpltGtfGtDTZQ7UprxyJXswdv0L86/uXRDr8ukfRL1CIdz5Uu/NgIhpmCe74SXlex1wg36oN8E7ua6x+8GFO1GfGn5iFUpu72b2lownFry/M97J7XNOpOh8x2i8M1rsn5d9bnbmnRDdb+l6NOSvuZfcpzy4Gy4kCjUDilu5wCfMlaLqSyobSvSa9O9GfqUpU+BOX/fiZfgbx4XuiVtk7mbjKtvX5DIOKYWsgwhooTWxgGrVTeLmm2TYit41rqo=;/zq4bJwd9ZAhjd3juZje/A=="
 ---
 

@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Psychologist Explains How AI and Algorithms Are Changing Our Lives"
+    excerpt: "Behavioral scientist Gerd Gigerenzer has spent decades studying how people make choices. Here’s why he thinks too many are now letting AI make the decisions."
+    publishedDateTime: 2023-03-21T12:59:00Z
+    webUrl: "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-743100/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "‘ChatGPT said I did not exist’: how artists and writers are fighting back against AI"
     excerpt: "From lawsuits to IT hacks, the creative industries are deploying a range of tactics to protect their jobs and original work from automation"
     publishedDateTime: 2023-03-18T15:01:00Z
@@ -46,6 +60,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How AI Will Change Chip Design"
+    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
+    publishedDateTime: 2023-03-17T07:22:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
 secured: "0vcrrwhb3y75umABFfPSdThjzh9+M2Ph8y6IRjbDcppQaVIKnfjtRpXhY93CBGHBwRqvvm1cWMvb3RgmCzSQNLoACerxJGwz3yJpPm584kewj57klpRNCB9RRnc9RFq3VmCv7cBbRBL6kXAfeGbswAS8IKieHHXIp+NxF099vgVeuO/B0AkxnpUkWI9OL4qIMyAuhkduusB7hIpfsGLovso+/UMIg//7sAkvNsHejhu2ma9pAdKCwPNouTX/r4J6NtbAc+4qHrtfA8EEmqpYjCfq1zO7+sXw7ZsI38eI5Dw/8XzyNYbG5gQXa3vAlsB5RqH2ABHjlQwLAXkT13U/2AojiRWq2H0/f01cq8v4hEVCJuC87jV9svJDZMNrIXHboQgPW57pmGc160BkFlUCmEjnqxF/z5ufskV+ip/Cg4NrCHkt7+wNmAbNoJkaQC//ObDPtUuUvwQM2t7CocUE82mM6wVFKox2r2xP83/4hZQ+9G5vZCtzafZ9GulGybkadXzs9BaeHaLHnNfutotLVA==;LDSVpCTmDLy3oGzLH8GHPQ=="
 ---

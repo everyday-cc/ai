@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 739
         isCached: true
+  - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
+    excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
+    publishedDateTime: 2023-03-21T15:08:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 104
+    images:
+      - url: "https://www.cnet.com/a/img/resize/51bc512df0a7fcf9cbd9bff203649bb9961e637a/hub/2023/03/21/72c5b735-0d39-45be-919d-3af6f32e03cf/screen-shot-2023-03-21-at-11-06-04-am.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
     excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"
     publishedDateTime: 2023-03-17T08:13:00Z
@@ -92,22 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft says new AI program will work in conjunction with its apps"
-    excerpt: "Microsoft on Thursday announced a new AI program that will help users generate documents, presentations, and emails."
-    publishedDateTime: 2023-03-16T19:41:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/03/16/Microsoft-Copilot-Office-word-excel/5761678988079/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 74
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5761678988079/2023/1/5571e72bbc340737f4d56b9cd8f6dd91/v1.5/Microsoft-says-new-AI-program-will-work-in-conjunction-with-its-apps.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
     publishedDateTime: 2023-03-21T09:51:00Z
@@ -147,6 +147,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 51
+  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
+    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
+    publishedDateTime: 2023-03-21T15:41:00Z
+    webUrl: "https://www.pharmiweb.com/pwtoday-story/syneos-health-collaborates-with-microsoft-to-accelerate-ai-across-the-clinical-to-commercial-continuum"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 38
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
     publishedDateTime: 2023-03-20T12:15:00Z

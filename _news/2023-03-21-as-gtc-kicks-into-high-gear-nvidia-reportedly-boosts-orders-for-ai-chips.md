@@ -89,6 +89,29 @@ related:
         width: 1420
         height: 946
         isCached: true
+  - title: "Nvidia announces tech for speeding up chip design at AI conference"
+    excerpt: "Nvidia has come to dominate the field for selling chips used to developing generative AI technologies, which can answer questions with human-like text or generate fresh images based on a text prompt. Those new technologies rely on the use of thousands of ..."
+    publishedDateTime: 2023-03-21T15:45:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-announces-tech-speeding-chip-design-ai-conference-3362941"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--lnq3STjb--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-21t100448z_1_lynxmpej2k0aw_rtroptp_3_autos-tech-jlr-nvidia.jpg?itok=LSAkJAwK"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "How to watch Nvidia’s AI announcement at GTC"
+    excerpt: "Nvidia’s GPU Technology Conference is in full swing, but it’s CEO Jensen Huang’s keynote address that has everyone waiting with bated breath. He’s expected to make major announcements about Nvidia’s future AI developments and how Nvidia GPUs will ..."
+    publishedDateTime: 2023-03-21T12:13:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-nvidia-ai-gtc/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
   - title: "Nvidia finds strength in AI era"
     excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
     publishedDateTime: 2023-03-21T01:32:00Z

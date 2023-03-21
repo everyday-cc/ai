@@ -2,17 +2,17 @@
 category: news
 title: "Long COVID has some weird symptoms. Face blindness may be one them."
 excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme, some with the condition can't even recognize themselves ..."
-publishedDateTime: 2023-03-20T17:30:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
-webUrl: "https://www.palmbeachpost.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
+publishedDateTime: 2023-03-21T15:36:00Z
+originalUrl: "https://www.freep.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
+webUrl: "https://www.freep.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Computer Vision
@@ -40,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "bqcEfvIvaWSbhCbv58KN1Be2Y8C4Mx8Wi/wSF6ArLShAVyZcItWChLwFBfyg5oS/er6rnoZIerAfOYD8+NCLYzd6eeK9OdDV3Yz7l28L7UM1i5SwX8ZFEqXJtFiZ2OVXefsxcYYV4vBdne+kmEsEdqvW5MXW8CB8/imMQRsiisC+A81Mxn+sAO7Fy2RHZcsFnOkMebTu4Kuqzj47YUQ1hYG+rtQQXS9MOh4pWMWMMW/qV/MEYalDIFb05Mdzof/KtahOeTzBTYxZKOu2Vc6Dy6ZXg6CYMDguw+UWLfRnWNEUwBdZj/DI5D1eNBpln8lPsaehL7qDY1xAC98WHKO9UBYfSiAd4d8xSbnngyJpwEA=;+KgELxslFBfhOZFK9GHF2A=="
+secured: "6VkMQxsIigVLwQkH3IIwXypZMxPmwBhKf/4j42AcKobhcGThZ34HqqEurWeX8WQXKdxUZmd8H24LkcyVXYaiaLRIFsNFif4+QbXJ2vmOMAZigElsjzBFnDO9Uta2GkjSfRaVlNuAyl1eCJxvdxbs5J9uKMfHGcRgGTV0yeSwcLPkifECDYeEPYBjlkMDqwY3KVgGblzy5uxg6gSjy71GNc9syhXUbNJ5CdZXpCQ3MriE6/RRPBd/zbKfUrVm2//bO44wfKc9WFifhCErGM07AU7BOjdi9pkzpimUwHOOAXKFpwyqwoH5a63AXfkVzks6U8Fcp4ojLsGDyzChdM5eGdsfhTzU98Ecqy7AIyWlo1A=;H/zDqtgPXFKlqwbXFIB1vw=="
 ---
 

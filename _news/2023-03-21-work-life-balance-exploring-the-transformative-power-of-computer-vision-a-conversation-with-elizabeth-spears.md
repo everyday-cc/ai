@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T12:13:00Z
 originalUrl: "https://www.environmentalleader.com/2023/03/work-life-balance-exploring-the-transformative-power-of-computer-vision/"
 webUrl: "https://www.environmentalleader.com/2023/03/work-life-balance-exploring-the-transformative-power-of-computer-vision/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Environmental Leader

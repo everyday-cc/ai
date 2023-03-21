@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T12:00:00Z
 originalUrl: "https://www.fleetequipmentmag.com/progressive-autonomous-truck-development/"
 webUrl: "https://www.fleetequipmentmag.com/progressive-autonomous-truck-development/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Fleet Equipment Magazine

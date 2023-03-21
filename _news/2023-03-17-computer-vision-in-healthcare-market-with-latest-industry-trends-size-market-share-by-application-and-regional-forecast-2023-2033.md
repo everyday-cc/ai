@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-21T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
     excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-03-20T05:55:00Z

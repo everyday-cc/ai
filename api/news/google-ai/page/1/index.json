@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-21-try-bard-and-share-your-feedback.md",
+      "title": "Try Bard and share your feedback",
+      "excerpt": "We’re starting to open access to Bard, an early experiment that lets you collaborate with generative AI. We're beginning with the U.S. and the U.K., and will expand to m…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/try-bard/",
+      "originalUrl": "https://blog.google/technology/ai/try-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Asset_1_-_Bard_Hero_Prompt_xUvec91.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/try-bard/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/try-bard/amp/",
+      "publishedDateTime": "2023-03-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-edmonton-ai-guru-rich-sutton-has-lost-his-deepmind-but-not-his-ambition.md",
       "title": "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition",
       "excerpt": "The University of Alberta professor is a pioneer in AI and until recently ran the DeepMind lab in Edmonton until Google pulled the plug This is a new conversation series by Donna Kennedy-Glans, a writer and former Alberta cabinet minister,",
@@ -1382,58 +1434,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-how-ai-is-improving-agriculture-sustainability-in-india.md",
-      "title": "How AI is improving agriculture sustainability in India",
-      "excerpt": "A look at how AI can help agriculture and sustainable farming in India.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "originalUrl": "https://blog.google/technology/ai/how-ai-is-improving-agriculture-sustainability-in-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ak_2_qhJiQ80.max-1300x1300.png",
-          "width": 1300,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

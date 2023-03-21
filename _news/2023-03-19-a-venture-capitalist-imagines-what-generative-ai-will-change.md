@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what
 webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,59 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
-    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
-    publishedDateTime: 2023-03-17T10:32:00Z
-    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
+  - title: "Google says its “Bard” generative chat AI is out, launches waitlist"
+    excerpt: "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ..."
+    publishedDateTime: 2023-03-21T15:29:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
     images:
-      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg"
+        width: 760
+        height: 388
+        isCached: true
+  - title: "Google Bard waitlist – how to get an invite to Google’s AI chatbot?"
+    excerpt: "If you’re trying to get an invite to their now released AI chatbot, you’re going to have to get to the ... We can’t wait to hear how people start using Bard, but we also know that large language models will not always get it right."
+    publishedDateTime: 2023-03-21T15:34:00Z
+    webUrl: "https://www.videogamer.com/news/google-bard-waitlist/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 37
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/Google-bard-waitlist.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Generative AI: Will it change the way we use apps?"
-    excerpt: "Both firms are making generative AI platforms and models a part of their cloud offerings too, Microsoft Azure and Google Cloud. Since Google and Microsoft are also among the biggest cloud service providers in the world, this means more firms will be able ..."
-    publishedDateTime: 2023-03-20T17:39:00Z
-    webUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps-11679333963063.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/generative-ai-will-it-change-the-way-we-use-apps/amp-11679333963063.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2023/03/20/600x338/primerpic_1679334183486_1679334189233_1679334189233.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Artificial Intelligence Will Bring Social Changes in China"
-    excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles, file taxes, understand images, as well as match or even ..."
-    publishedDateTime: 2023-03-17T13:49:00Z
-    webUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 39
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "yBlXzqKkesqrAxjDFM4a4SlsYiCO+M9ph9LFWCoiJa5yRIFZp1RyXwoxbGyplk9L4+lNOthMM3iGnXIq6ZQjCnF4tV5bzmbsS5NL4LmaY2CprU5DbyKCGwOphkDXn7fX/YLvHGkTC2qKmed41sunIzPLY1HHcEq8Zx/7XxLX76QPyS1sv3PElh4npBx5WI7Whl7TwBlcUWvPjz31I/mUb1R9mN2Opim97vNpKdzSvI0lu3ZvVtVh44Bm/DRQDJ9Rg4t55qm4JzZApc/I09ALKSz22h8+gN7q8yQsSox40ZDI/p2tBVzOHgC4arC029MWO9GVF6QCdVCYVVhDo+SD1+qgEwLLRwNXLnKpqdT4Jy6kcmhLKMoxbASojPvWTu7yG5N0LbZ6Ku1wXIL8iJ2p6RX8L1iCJEh/Vm0JR0iVq8yWwPWMxT207ylUMMR+OFINwHLL8VgguvA8VupYplIoIG2hZ7325e4JNR4Uq8bwKl7/QU1nqGvGkXv0cLf0r/ZkyO9K2Ejvdxiwl4lxirHeFQ==;mkfEnLD84tuLRDmuKOXTXQ=="
 ---

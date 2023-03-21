@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Chips Market Size Report Analysis, 2023-2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- [114 Insights] Top “Artificial Intelligence (AI) Chips Market” Size 2023 Key players Profiled in the Report are [, NVIDIA, Advanced ..."
-    publishedDateTime: 2023-03-16T23:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-size-report-analysis-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI in Computer Vision Market Highlights 2023-2028, With New Report"
     excerpt: "Mar 17, 2023 (The Expresswire) -- Report Highlights with 116 pages:-\"The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast period, reaching USD 14367.51 ..."
     publishedDateTime: 2023-03-17T13:07:00Z
@@ -132,20 +118,6 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 16, 2023 (The Expresswire) -- Cloud Natural Language Processing Marketinformation for each competitor includes (, SAP SE, Verint Systems Inc., Apple Inc, Microsoft ..."
     publishedDateTime: 2023-03-17T13:49:00Z
     webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence In RegTech Market Growth 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others) of Artificial Intelligence In RegTech Market and study the impact of Russia ..."
-    publishedDateTime: 2023-03-16T20:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-regtech-market-growth-2023-2029-2023-03-16"
     type: article
     provider:
       name: MarketWatch
@@ -407,6 +379,31 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+  - title: "Artificial Intelligence Based Medical Device Market: The Growing Trend 2030"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-21T02:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-the-growing-trend-2030-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "IoT in Healthcare Market worth $289.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The large-scale adoption of medical devices can be attributed to the growing need for cost-effective and efficient solutions for delivering healthcare services ... the internet of things (IoT), and artificial intelligence, have contributed significantly ..."
+    publishedDateTime: 2023-03-21T14:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31440294/iot-in-healthcare-market-worth-289-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31440294"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31440294"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Global Enterprise Artificial Intelligence Market Size Report Analysis, 2023-2029"
     excerpt: "Mar 16, 2023 (The Expresswire) -- [113 Insights] Top “Enterprise Artificial Intelligence Market” Size 2023 Key players Profiled in the Report are [, IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP,] most important ..."
     publishedDateTime: 2023-03-17T03:08:00Z

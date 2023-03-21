@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/artificial-intelligence-job-openings-in-indi
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-job-openings-in-india-offer-salary-of-rs-10-lakhs/amp/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -18,31 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "India Has 45K Job Openings In AI: Report"
-    excerpt: "There are 45,000 Artificial Intelligence (AI) job openings in India, with data scientists and Machine Learning (ML) engin"
-    publishedDateTime: 2023-03-20T23:42:00Z
-    webUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?383860"
-        width: 400
-        height: 250
-        isCached: true
-  - title: "India Has 45K Job Openings In Artificial Intelligence: Report"
-    excerpt: "There are 45,000 Artificial Intelligence (AI) job openings in India, with data scientists and Machine Learning (ML) engineers being among the most sought-after careers, according to a report on Monday."
-    publishedDateTime: 2023-03-20T17:05:00Z
-    webUrl: "https://www.india.com/technology/india-has-45k-job-openings-in-artificial-intelligence-report-5955332/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 19
 
 secured: "y35m5zxAXsses/dCz/nyohM2JAEI54OPPpzmc6eBbpj43w7eeJ4DF338zyLtu2fd+TLfiZjuriLHn98piGtQKf9fysiiwwl5EtC2YmiGxYFIlSDPoKhddI4fKLeprtevDphROqxPR/Z5VAhvvbI0zb4aZ6YeK3TiQZWBTOCpi8mYtVEGAH99nV2KCOIxHABblbmbyMMUFFPY5YGdGROAvWQ+fJwx/75V0NMMTF+3EtUhaoqnoeCGyTU24KPo0G3XJ0U/dizXX75DmdHV/faanDPH7pgahOrgLAYsQPgzeuvilhoinEzEPlPBbNcc/qyRn5inZe1j+Dpli5wPq+URvnBkWXQb/cnmi5PsH1Z9PBI=;/X2zBFwn1LOrrOqAJpYHRw=="
 ---

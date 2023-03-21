@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-20-california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough.md",
-      "title": "California Voice: Recall of self-driving Tesla cars doesn’t go far enough",
-      "excerpt": "California’s Office of Traffic Safety needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed full self-driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/",
-      "originalUrl": "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2023/02/SJM-L-TESLAFSD-0217-1.jpg?w=1024&h=681",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/",
-      "publishedDateTime": "2023-03-19T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
       "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
       "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
@@ -237,7 +194,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -437,7 +394,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1374,6 +1331,49 @@
       "provider": {
         "name": "BusinessWorld",
         "domain": "bworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows.md",
+      "title": "Drivers not ready for fully self-driving car, recent AAA survey shows",
+      "excerpt": "While the interest in partially-automated vehicle technology grows, a recent AAA survey shows that drivers are becoming more fearful of fully self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "originalUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4145f552-7abf-4325-b52e-bef95378a236/thumbnail/1200x630/6082d81cddfe2819760ac5d2246671ee/auto.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
+      "publishedDateTime": "2023-03-05T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -59,22 +59,6 @@ related:
         width: 401
         height: 325
         isCached: true
-  - title: "Chinese tech giant Baidu releases its answer to ChatGPT"
-    excerpt: "It’s also unclear when the bot will be integrated into Baidu’s other products, like its search engine or self-driving cars, as the company promised. Compared with the rollouts of ChatGPT and GPT-4, Ernie Bot’s release felt rushed. The presentation ..."
-    publishedDateTime: 2023-03-16T21:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
     excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."
     publishedDateTime: 2023-03-18T14:18:00Z
@@ -106,22 +90,6 @@ related:
       - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Can ChatGPT Get Bored?"
-    excerpt: "There’s been a great deal of attention in the past few months surrounding the possibility that ChatGPT, the artificial intelligence (AI) language model developed by OpenAI, could be conscious. While the raging debate around this suggests that what looks ..."
-    publishedDateTime: 2023-03-16T20:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-engaged-mind/202303/can-chatgpt-get-bored?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 44
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/bored%20robot2.png.jpg?itok=IOAm_12q"
-        width: 1528
-        height: 800
         isCached: true
   - title: "UTC professors learning to use ChatGPT to their advantage as it changes the game"
     excerpt: "Its intuitive natural language processing capabilities and 24/7 availability make it an excellent resource for students and faculty.\" The program creates realistic human-like responses to just about any prompt. If you need to see it to believe it ..."
@@ -192,6 +160,15 @@ related:
         width: 1200
         height: 810
         isCached: true
+  - title: "Forget ChatGPT — this new startup is all about AI-generated video"
+    excerpt: "ChatGPT may be stepping up its game with the release of GPT4 but it has been beaten to the punch in the race to create AI-generated video. The previews on Runway’s own site are interesting. The videos resemble super-charged GIFs,"
+    publishedDateTime: 2023-03-21T12:16:00Z
+    webUrl: "https://www.tomsguide.com/news/forget-chatgpt-this-new-startup-is-all-about-ai-generated-video"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 17
 
 secured: "3J9XLAIj0LBBMxNIe1uLwBx6n+EgNtZGTVsvZQOfpDxj+8F3Q8WxH0JtSXWPlL4TAJjQKuwxyS+WK4VZoGEcjsX9w++xevnz1gusdngs36m8it6IM+Pe1l12HTnkmf2f2wZb7wmv3EHU898NnoQOCItEPYTcfOyjU4dd/dEa2JIr1OgpBC4txcmr9MJ9oPXj4WVSzHzVIVuJGEiFyT3iNZH29jLWV8LpF6fiSBXx7vjIll71kGLughkcM/U/j2QUfDxAK4B8CxBXCNiUI7aoXqnBFVurOqP4D1W9hdB098veGG6w7HQ0/Ot65yu+eY/0XUERI4PZzZSN7aJxtFn1tnNEgtgta/KTzlUJj3XcjwBckSXRlSk/sjsmyMDoLvzyCsAyg5RKW9lxXdwzGV6jMIqKw52OiQDE9t5gsNVa/EqHoRETReGd9tzccBJ/Szw9PgSaN+ZH1DGJOT/HOSmBK/2rLtJaTGblYpanHvVQoH5UhSejrPhNC3+nyoAfJDnXFHI79QE4OIaNqhxAG2gqQw==;sRxvhM9bW1CCPjaCv0Jgvg=="
 ---

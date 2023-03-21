@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-17T00:00:00Z
 originalUrl: "https://phys.org/tags/deep+learning/"
 webUrl: "https://phys.org/tags/deep+learning/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

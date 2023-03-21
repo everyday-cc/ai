@@ -53,20 +53,6 @@ related:
         width: 400
         height: 220
         isCached: true
-  - title: "Medical Artificial Intelligence Market Analysis: Understanding the Current State and Future Trends 2023-2028"
-    excerpt: "The Medical Artificial Intelligence Market is an exciting and dynamic industry that promises growth and innovation for players looking to capitalize on its potential. As highlighted in the Medical Artificial Intelligence Market Research Forecast 2028 ..."
-    publishedDateTime: 2023-03-16T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-artificial-intelligence-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in fintech Market Size 2023 Comprehensive Growth, Growing Trends, Top Players Analysis and Regional Forecast 2031"
     excerpt: "Global AI in fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics, size and growth,"
     publishedDateTime: 2023-03-20T05:12:00Z

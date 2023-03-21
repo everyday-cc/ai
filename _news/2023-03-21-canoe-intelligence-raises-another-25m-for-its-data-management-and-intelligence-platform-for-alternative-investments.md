@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T13:29:00Z
 originalUrl: "https://www.alleywatch.com/2023/03/canoe-intelligence-alternative-investment-intelligence-data-management-platform-jason-eiswerth/"
 webUrl: "https://www.alleywatch.com/2023/03/canoe-intelligence-alternative-investment-intelligence-data-management-platform-jason-eiswerth/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: alleywatch.com

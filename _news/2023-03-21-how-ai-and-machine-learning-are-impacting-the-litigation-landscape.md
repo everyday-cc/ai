@@ -50,6 +50,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
+    excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
+    publishedDateTime: 2023-03-21T15:23:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/21/google-bard/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "You can’t stop generative AI fraud"
     excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
     publishedDateTime: 2023-03-20T04:00:00Z

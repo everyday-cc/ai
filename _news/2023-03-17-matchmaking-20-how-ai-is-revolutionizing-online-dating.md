@@ -210,6 +210,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
+    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
+    publishedDateTime: 2023-03-21T12:43:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
   - title: "AI could make the future role of education increasingly to be in support of human development"
     excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
     publishedDateTime: 2023-03-20T08:32:00Z

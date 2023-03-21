@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T13:26:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/julie-stern-joins-patient-discovery-as-chief-technology-officer-1032181943"
 webUrl: "https://markets.businessinsider.com/news/stocks/julie-stern-joins-patient-discovery-as-chief-technology-officer-1032181943"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

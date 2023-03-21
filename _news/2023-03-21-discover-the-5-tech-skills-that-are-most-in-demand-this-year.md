@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T13:43:00Z
 originalUrl: "https://venturebeat.com/business/discover-the-5-tech-skills-that-are-most-in-demand-this-year/"
 webUrl: "https://venturebeat.com/business/discover-the-5-tech-skills-that-are-most-in-demand-this-year/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

@@ -1,20 +1,31 @@
 ---
 category: news
-title: "Cellebrite Announces Enhanced Solution Capabilities For Digital Investigations"
-excerpt: "PETAH TIKVA, Israel and TYSONS CORNER, Va., March 21, 2023 (GLOBE NEWSWIRE) -- cellebrite di ltd. (Nasdaq: CLBT), a leading global provider of Di"
-publishedDateTime: 2023-03-21T13:01:00Z
-originalUrl: "https://menafn.com/1105827952/Cellebrite-Announces-Enhanced-Solution-Capabilities-For-Digital-Investigations"
-webUrl: "https://menafn.com/1105827952/Cellebrite-Announces-Enhanced-Solution-Capabilities-For-Digital-Investigations"
+title: "Cellebrite Announces Enhanced Solution Capabilities for Digital Investigations"
+excerpt: "Cellebrite DI Ltd. (NASDAQ:CLBT), a leading global provider of Digital Intelligence (DI) solutions, announced today the global launch of"
+publishedDateTime: 2023-03-21T11:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31434763/cellebrite-announces-enhanced-solution-capabilities-for-digital-investigations"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/g31434763/cellebrite-announces-enhanced-solution-capabilities-for-digital-investigations"
+ampWebUrl: "https://www.benzinga.com/amp/content/31434763"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31434763"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "+IABZt8W5tVxDUllXXBWPbZLAX0bqjtfY62Bv9hSml5r9tUhy9qsS1bM3/ncXV6Bc4H1ucxxmGbxHOx5Y+Sb57uRawlX+sY/OUa3hLsS+lbkYbteDOJrVM0PDKZTJLt+bip4eL0GGEGV36aQH617NreG3czdag0EtcCLczd0gH5WsOtER9Z/AHrjw9nKfr4gOg3gEl2Jwte2fHLE1OAT9j16RL9zryoNLZBK0wQz9w1vJBC1pC7fQFe//+Q/hvUXCcneLMxcXWtNW1ufFnztNXps5QsJPvjnYdAKef8u82Obz3sE1At7ABKAk8c8DIjsOMRK99qiqrE6TAP/CC3zYpCeYAWwm43xE/eGDKYlQSI=;VvQU6cD+N96bwIgcR1xWqg=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "hHYFN1hyAgNm4VXFS5teW7bLxkVhUo5XMvpmdV8bISm9K+v0hsPRdCcTcdJ4UMdD+LGObTvb5GjSxq99gleEzt5WcpUK09tD43p/bzwoayHiDKYmmHNpPGdX9HKdndTx5qnlyqtH4pBYGWHEiWLtF5m3xhQBTgmpmGxIdyXwpzvpZzFDvm6iEvJH8C7RrHXKa0M3lxJxx2FGi1bI2zGTLIZCAFjjuv8fG2J2DNDaPTKmvbfyGftVrzS/IGVpX5Cduo2x5XuCXzPUZ+GFQj9GzO0D+5Y23Fsix3OQo55BRCtxxj/uXTJh1uhll86in+NCkFn85lx7TTvQarKvjshl30sUVtwJYssTHopa1o4qErA=;QL0mPe6yamtz5Jsq9aPTfw=="
 ---
 

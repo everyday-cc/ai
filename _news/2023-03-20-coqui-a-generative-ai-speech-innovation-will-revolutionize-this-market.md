@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Things Marketers Should Know About Generative AI in Advertising"
-    excerpt: "The creative industry is slowly beginning to use the technology, captivated by its ability to spin out ideas and mop up drudge work, but leery of its sporadically kooky output."
-    publishedDateTime: 2023-03-16T19:13:00Z
-    webUrl: "https://www.wsj.com/articles/five-things-marketers-should-know-about-generative-ai-in-advertising-5381c1d0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-739027/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence accelerates the fourth industrial revolution"
     excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
     publishedDateTime: 2023-03-18T13:36:00Z

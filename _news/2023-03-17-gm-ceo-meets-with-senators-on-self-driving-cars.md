@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets
 webUrl: "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
+    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
+    publishedDateTime: 2023-03-21T14:18:00Z
+    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "rlR8cUF8h6MRa5Q3J2hsqYk7vS5cfkDcJ1Ijxlq5Qxrei4WkXBl5Nyi4i4aSnGSoAI9h6vDAKYTrJZioMxkP3Onkhy5i2willE6ovhrJSpuglGm5SgN4cU5KEo9BbK2wBK/+VCEn+7tBAOlpaE0rR385lpkFcJd+fNa66fVoUDJQsRM5OuXxEFLyWUupZ7KoZjUVcH26R9AOEnNgNQXLgWoH7ki8gjnqmZpf3gZ2iSK7mlbKkaxKjMlXX1qlZX7f7VJWKVkT1sB9qE8ToPFhypYq+oe8EYgyQeSNRO3B4pqKHujjj+dAa2KVKp17PF8tMHyON5ktubvvYleRye5IR3oahQrJBVApdSpdtoZLFDw=;7n2dciS2DmtgKkS8e5RW8w=="

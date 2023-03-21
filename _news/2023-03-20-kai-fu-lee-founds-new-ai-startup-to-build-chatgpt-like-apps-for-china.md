@@ -72,22 +72,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Your Microsoft apps are getting an AI revamp. Here's what we know"
-    excerpt: "Generative AI is coming to Microsoft 365 apps, too. Here's how it might improve your workflows. Just days after Google announced the generative AI makeover of Google Workspace, Microsoft made a similar announcement."
-    publishedDateTime: 2023-03-16T20:41:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-365-copilot-uses-ai-to-optimize-its-office-apps-heres-how-you-can-take-advantage/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5b1c5979c558457dddab43f541689748a20bbc60/2023/03/16/9ef2e04c-36d3-4796-8c24-172aa213ee95/screenshot-2023-03-16-at-3-27-42-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft laid off an AI ethics team"
     excerpt: "According to Arstechnica (via Platformer), Microsoft has just axed an AI ethics team following the mass layoffs within the company that affected 10,000 employees. The team was responsible for monitoring and reducing the social harms caused by Microsoft AI ..."
     publishedDateTime: 2023-03-16T23:36:00Z
@@ -104,52 +88,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Microsoft makes reductions in ethics AI team amid ChatGPT work"
-    excerpt: "The statement said, \"The Ethics and Society team played a key role at the beginning of our responsible AI journey, incubating the culture of responsible innovation that Microsoft’s leadership is ..."
-    publishedDateTime: 2023-03-17T02:58:00Z
-    webUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work"
-    ampWebUrl: "https://www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/microsoft-makes-reductions-in-ethics-ai-team-amid-chatgpt-work?_amp=true"
-    type: article
-    provider:
-      name: WKBW
-      domain: wkbw.com
-    quality: 91
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c89660b/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1679006239_Wz7rHZ.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Business Chat is like the Bing AI bot but as a personal assistant"
-    excerpt: "According to Microsoft, by using grounding to focus the AI on your business’ trove of data, it can create relevant, accurate responses to natural language prompts, like “Did anything happen yesterday with [customer X]?"
-    publishedDateTime: 2023-03-16T20:13:00Z
-    webUrl: "https://www.theverge.com/2023/3/16/23642832/microsoft-virtual-ai-assistant-business-chat-microsoft-365"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/rLC0dOkozsbBDSAnlJoUMRqkcAM=/0x0:1115x609/1200x628/filters:focal(558x305:559x306)/cdn.vox-cdn.com/uploads/chorus_asset/file/24513069/business_chat_teams.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Microsoft: 365 Copilot chatbot is the AI-based future of work"
-    excerpt: "Through the use of a chatbot interface and natural language processing, users can ask questions of Copilot and receive human-like responses, summarize online chats, and generate business products. Copilot in Word, for example, can jump-start the creative ..."
-    publishedDateTime: 2023-03-16T19:54:00Z
-    webUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691109/microsoft-365-copilot-chatbot-is-the-ai-based-future-of-work.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/microsoft-screenshot-2-100938628-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
     publishedDateTime: 2023-03-18T11:25:00Z
@@ -165,6 +103,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
         width: 868
         height: 489
+        isCached: true
+  - title: "Inside The Infrastructure That Microsoft Builds To Run AI"
+    excerpt: "Key to all of this is getting the right supercomputing infrastructure into the field, and that job falls on Nidhi Chappell, general manager of Azure HPC and AI at Microsoft. Chappell’s team takes on all of the workload optimized compute, storage ..."
+    publishedDateTime: 2023-03-21T14:38:00Z
+    webUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/"
+    ampWebUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 76
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-hardware-rack.jpg"
+        width: 768
+        height: 1024
+        isCached: true
+  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
+    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-747723/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
     excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
@@ -258,20 +226,6 @@ related:
       - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
         width: 576
         height: 324
-        isCached: true
-  - title: "Microsoft's Stunning Copilot AI Demo Could Change Office Work Forever"
-    excerpt: "Or, as he elaborated, it will give you an idea \"that’s not perfect but still gives you a head start.\" Translation: Microsoft wants you to know that their newfangled AI assistant could end up misleading you, and making a mess of your day at the office."
-    publishedDateTime: 2023-03-16T20:37:00Z
-    webUrl: "https://futurism.com/the-byte/microsoft-copilot-ai-office"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/microsoft-copilot-ai-office.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
     excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."

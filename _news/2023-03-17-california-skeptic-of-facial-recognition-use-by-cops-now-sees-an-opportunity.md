@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is saving homes and lives in California during wildfire season"
+    excerpt: "From fire detection and predictive analysis to evaluation of vegetation moisture levels, AI has assumed center stage in California's fight against seasonal wildfires."
+    publishedDateTime: 2023-03-21T14:20:00Z
+    webUrl: "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/6bceca88c0c7464f0c2a5fb16920f95e858be61f/2023/03/20/26ed3479-b94e-402a-a086-efed13a034a2/ucsd-supercomputer-center.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California Voice: Recall of self-driving Tesla cars doesn’t go far enough"
     excerpt: "California’s Office of Traffic Safety needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed full self-driving"
     publishedDateTime: 2023-03-19T21:43:00Z
@@ -87,19 +103,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Patricia Guerrero brings parents’ lessons of ‘sharing your voice’ to California Supreme Court"
-    excerpt: "Patricia Guerrero is one of USA TODAY’s Women of the Year, a recognition of women who have made a significant ... and that sharing your voice based on your unique experiences is important.” Intersectional identities meant breaking through a ..."
-    publishedDateTime: 2023-03-19T10:00:00Z
-    webUrl: "https://www.redding.com/in-depth/news/2023/03/19/patricia-guerrero-california-usa-today-women-year/69820508007/"
+  - title: "GM's Cruise wants to test self-driving vehicles all over California"
+    excerpt: "Detroit — General Motors Co.'s Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco ..."
+    publishedDateTime: 2023-03-21T15:33:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/03/21/gms-cruise-wants-to-test-self-driving-vehicles-all-over-california/70033356007/"
     type: article
     provider:
-      name: Redding Record Searchlight
-      domain: redding.com
-    quality: 13
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 24
     images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/23/USAT/033798f3-3843-4521-ba4e-9c4f67b40f67-XXX__S7A5106.JPG?crop=5471%2C3078%2Cx0%2Cy278&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2022/12/16/PDTN/9e0831d9-114b-408c-98d2-1c8c4ea2cf60-AP22350461779888.jpg?auto=webp&crop=1023,575,x1,y74&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
 
 secured: "kxQRsBIghxD8CtldtSEK8sHnhFc0aEZ5c++eco5rmStxon9YVXeAkhpCzekrcbBvWakioOODK2V5hfI7cZ6n1E7sqCKodf4mvPakysJa+XrCu8WuvbjxFRF4jsU9FWjPGRHysrHthKc9YqFU/Lx7FyqszgfCu+U+UWlLzhOtW4j+jwxnSbhktLLNSl3uVs2yMH6Xac/RWdvGup9Z7zqfcspoT3l/Myz4I9gTVE2IdI4YbC+YWRchYcsLlJyFhtErw0ZC8HacK5hDOg2M4Qi49TNzI1QAARAm3qGauRTx3OHElSY0B5W4MoIL3LCRQjOQbYR/2uW9aJf/qQkAlGkKSydW2m+2+27Sm1UHYAqrzjCeSqA+kYNWCztDnd+gwl7HSFakHbfy+LKYsrhtP/O1jxmjh7Q5c8l8XsaCpK71xcfeO/Gngdmw+KsmPhmjlkWfwEbAoPKdSbSH00UamjVjOXbD8kvLlRjKQ+U0SDAQFlCstxLnYP9X6qjD99BotowXZoMytrosKId6MhL1+crvsQ==;sgdSlQKgphHr/kUXf9CkcQ=="

@@ -59,6 +59,36 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "Google Lets People Start Trying Bard, Its Own AI Chatbot"
+    excerpt: "The search giant is rolling out access to the AI chatbot starting in the US and UK. Google on Tuesday said its opening up access to Bard, the search giant's own AI-powered chatbot to rival services released by Microsoft and OpenAI."
+    publishedDateTime: 2023-03-21T14:38:00Z
+    webUrl: "https://www.cnet.com/tech/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a0a8caca9b0abae681e5e9c5ab62da450b8e1f37/hub/2019/03/21/575b30e7-e727-4026-a352-c7cd21c4ced2/gdc-2019-google-cloud-gaming-video-games-0065.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "5 Best AI Chatbots in 2023"
+    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
+    publishedDateTime: 2023-03-20T21:23:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 75
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
+        isCached: true
   - title: "What happens when your AI chatbot stops loving you back?"
     excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
     publishedDateTime: 2023-03-18T17:40:00Z
@@ -72,20 +102,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
         width: 800
         height: 750
-        isCached: true
-  - title: "5 Best AI Chatbots in 2023"
-    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
-    publishedDateTime: 2023-03-20T21:23:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
-        width: 600
-        height: 424
         isCached: true
   - title: "Artificial intelligence expert weighs in on the rise of chatbots"
     excerpt: "What if a chatbot comes across as a friend? What if a chatbot extended what could be perceived as intimate feelings for another? Could chatbots, if used maliciously, pose a real threat to society? Santu Karmaker,"
@@ -102,22 +118,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-chatbot.jpg"
         width: 1920
         height: 1064
-        isCached: true
-  - title: "Chinese tech giant Baidu just released its answer to ChatGPT"
-    excerpt: "Accompanied by art created by Baidu’s image-making AI, he showed examples of what the chatbot can do, including solve math questions, write marketing copy, answer questions about Chinese literature, and generate multimedia responses."
-    publishedDateTime: 2023-03-16T22:04:00Z
-    webUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/"
-    ampWebUrl: "https://www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/16/1069919/baidu-ernie-bot-chatgpt-launch/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/Robin-Li-1-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
         isCached: true
   - title: "What Happens When Your AI Chatbot Stops Loving You Back"
     excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
@@ -167,15 +167,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "China’s ChatGPT rival Baidu Ernie is off to a rough start"
-    excerpt: "Fangbo Tao, CEO and founder of AI startup Mindverse and a former AI scientist at Alibaba and Facebook, echoed the sentiment. “Under the pressure of models like ChatGPT, domestic large language model companies in China have indeed launched similar ..."
-    publishedDateTime: 2023-03-16T19:46:00Z
-    webUrl: "https://techcrunch.com/2023/03/16/baidu-chatgpt-launch-china/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI tech firms eager to join chatbot trend"
     excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
     publishedDateTime: 2023-03-21T00:47:00Z
@@ -190,6 +181,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Google is releasing its Bard AI chatbot to the public"
+    excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."
+    publishedDateTime: 2023-03-21T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90868871/google-releasing-bard-ai-chatbot-to-the-public"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "o53UFgk3ANnvi3uT6+JJoYQdk5EauHU8eZ6tIfiyfAsjrfz6TzOd2UOS2ckrz+WXSEwQmogJFxQH4S14/Wzo5S5pDSJ8R9Yyh5U/sFaL6YQTgUqDPH/FE+LNQm9CJC2sxHwvqLyry+HTmmqRKbDJpHflYyIGOb6r9ao5VLHXPxZ4U/oSMadrZEYymnDWGpRgxeommG7LILo5bZn+i62i9I9Ys4jIcx4mQ8BWoJcKSYp1XMur6KRY51EZG2DMaC+9l1Co9h5VdzOUT2Xi2KaRrzQ8qAe/59AJZH/Qd2YR3b1qiWm2sw+gbA+PkkUujXegbS0/xPpvQIG8erJ5qTu63yfPTkSx0P8lGZXEoeOmM3TuQpL8NDUg08XNO20/Pt6/HqMtqtWC/8B8EF8npECUlBdAhQaCmc6T/8fZ/L+2MmiuLGraRxlNNqJqVTxAVDDJxkY+gABj61RcbN2vaBKG8JV4+XyVaB7j9bm26OWFz1/wSbickZrRefjb0RZLeb5KF2nlbOJuHM/tB2bCmeLn9Q==;aab4ejni0qLHB+yQLss20g=="
 ---

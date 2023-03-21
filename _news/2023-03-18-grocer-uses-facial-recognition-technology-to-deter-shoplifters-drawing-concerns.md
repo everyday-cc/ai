@@ -58,38 +58,6 @@ related:
         width: 6720
         height: 4480
         isCached: true
-  - title: "Amazon faces class action lawsuit over facial recognition technology in New York stores"
-    excerpt: "The suit alleges that Amazon Go stores in New York failed to comply with a law that requires businesses let people know when their biometric information is being tracked. NBC News' Kevin Collier and Danny Cevallos have more details."
-    publishedDateTime: 2023-03-16T20:11:00Z
-    webUrl: "https://www.nbcnews.com/now/video/amazon-faces-lawsuit-over-facial-recognition-technology-in-new-york-stores-165442629767"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165442629767"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165442629767"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 81
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678997434946_now_daily_b_collier_amazongo_230316_1920x1080-2lft9o.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "NYC’s Fairway supermarket using facial recognition to bust thieves"
-    excerpt: "An Upper West Side supermarket is using facial recognition technology to bust thieves as a wave ... is collecting customers’ personal information — such as eye scans and voice prints — in an effort to stop the scourge of shoplifters wreaking havoc ..."
-    publishedDateTime: 2023-03-16T21:14:00Z
-    webUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/"
-    ampWebUrl: "https://nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/16/nycs-fairway-store-using-facial-recognition-to-bust-thieves/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/fairway-facial-recognition-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Amazon Hit With Lawsuit For Not Disclosing Facial Recognition Use"
     excerpt: "Just pick up your items and walk out of the store. It's no secret that Amazon Go stores peppered throughout New York City are using AI to make this possible — facial recognition technology, to be specific. And though the method is legally sound and has ..."
     publishedDateTime: 2023-03-16T23:57:00Z
@@ -233,6 +201,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
+    excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
+    publishedDateTime: 2023-03-21T13:20:00Z
+    webUrl: "https://menafn.com/1105828120/Human-Rights-Activists-Raise-Concerns-Over-Misuse-of-CCTV-Facial-Recognition-Technology-in-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
     publishedDateTime: 2023-03-20T18:24:00Z

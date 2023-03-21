@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-19-ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths.md",
+      "title": "AI in opioid addiction: Artificial intelligence can play a big role in treatment, preventing deaths",
+      "excerpt": "By attaching to opioid receptors on nerve cells in the brain, spinal cord, gastrointestinal tract and other body organs, they impede the transmission of pain signals. In order to streamline the procedure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
+      "originalUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/19/600x338/AI-andrea-de-santis-zwd435_1676774094264_1676774106929_1676774106929.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
+      "publishedDateTime": "2023-02-18T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
+      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
+      "excerpt": "EDMONTON - Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "originalUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/02/10/celebs-tout-ice-baths-but-science-on-benefits-is-lukewarm/20230210000212-63e5d2a6f4f61b813a06223fjpeg.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "publishedDateTime": "2023-02-18T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-funding-new-research-to-operationalize-safety-in-artificial-intelligence.md",
+      "title": "Funding New Research to Operationalize Safety in Artificial Intelligence",
+      "excerpt": "The Center for Advancing Safety of Machine Intelligence (CASMI) at Northwestern University ... The development of intelligent decision-support tools (DSTs) in the healthcare industry often excludes patients from the process. Maia Jacobs, Slivka Professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "originalUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/images/news/2023/funding-new-research-to-operationalize-safety-in-artificial-intelligence-diakopoulos-helberger.jpg",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mccormick.northwestern.edu",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-breakthroughs-in-artificial-intelligence-mean-new-work-for-congress.md",
       "title": "Breakthroughs in artificial intelligence mean new work for Congress",
       "excerpt": "NBC News Senior Congressional correspondent Scott Wong and New York Times technology columnist Kevin Roose join Meet the Press NOW to discuss new frontiers in artificial intelligence and potential congressional regulation.",
@@ -1295,118 +1424,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata.md",
-      "title": "Artificial intelligence facilitates low-cost drug repurposing: GlobalData",
-      "excerpt": "(File) GlobalData, a data and analytics company, on Friday said that the contemporary drug repurposing techniques using advanced artificial intelligence (AI) are gaining traction in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
-      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Pharma.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
-      "publishedDateTime": "2023-02-10T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence.md",
-      "title": "McGill University experts trace predict recurring lung cancer with artificial intelligence",
-      "excerpt": "Lung cancer is the leading cause of cancer-related deaths in Quebec and Canada, killing more individuals than prostate, colon and breast cancers combined. Thanks to tissue samples from almost 500 lung cancer patients,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-08T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
-      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

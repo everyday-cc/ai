@@ -155,6 +155,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare AI Market Growth and Forecast till 2030"
+    excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
+    publishedDateTime: 2023-03-21T05:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-growth-and-forecast-till-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Machine Learning Chip Market Size, Revenue, and Forecast 2028"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Chip Market 2023 with"
+    publishedDateTime: 2023-03-21T04:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-revenue-and-forecast-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
   - title: "Machine Learning Data Catalog Software Market Size, Revenue, and Forecast 2028"
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Machine Learning Data Catalog Software"
     publishedDateTime: 2023-03-21T04:58:00Z
@@ -183,6 +201,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Video Games Market Size, Trends and Forecast 2029"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Video Games"
+    publishedDateTime: 2023-03-21T05:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-size-trends-and-forecast-2029-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "Deep Learning Chipset Market Outlook: Predictions and Projections for 2028 And Beyond"
     excerpt: "Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration ..."
     publishedDateTime: 2023-03-20T19:39:00Z

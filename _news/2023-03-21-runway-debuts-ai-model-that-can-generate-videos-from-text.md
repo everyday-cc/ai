@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A copyright battle over AI-generated art will begin in Colorado"
+    excerpt: "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ..."
+    publishedDateTime: 2023-03-21T14:55:00Z
+    webUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
+    ampWebUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+    cdnAmpWebUrl: "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+    type: article
+    provider:
+      name: Fort Morgan Times
+      domain: fortmorgantimes.com
+    quality: 59
+    images:
+      - url: "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700"
+        width: 1024
+        height: 700
+        isCached: true
 
 secured: "48KzGH4YA1AB9Hk/Cjt2VpbVCsejN7uBdFrmBWDXwg9qh1gOjK/bu7KhxGazl7G2yN1eqdszcJ58DcHApTGog7lztFtwOpq9noV02WmG0sb8qZBlxXbkCese/5gkgRAyeyXjUUt41CtjoAxui6p7jTNF3RTl2ari8VJfTlokFKZBemAvx5J73x4P+ZuiP0nBdcLOG9x36V+YbJJ9LznJkBjTzLnwlaquF05Cq5SsC2WshKnb7OxfsN1TT1rOFdw+WegWBWhNedAwbLQeqoP67WaWIxhjlc7sf0yX/lECt4ar0BWkWyT7pvQvJJ20F7Rk8OlTyHNnyOr4pe79yB8IBQk4hGNEMdtzdbHd2h61J0g=;VidGSrc3FjkMaqBtKxg2FA=="
 ---

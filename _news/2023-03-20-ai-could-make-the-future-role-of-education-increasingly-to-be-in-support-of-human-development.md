@@ -221,6 +221,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
+    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
+    publishedDateTime: 2023-03-21T12:43:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
     publishedDateTime: 2023-03-18T02:36:00Z

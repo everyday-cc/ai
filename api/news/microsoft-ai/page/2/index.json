@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
+      "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
+      "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 811,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg",
+          "width": 760,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
+      "publishedDateTime": "2023-03-13T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts.md",
+      "title": "15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts",
+      "excerpt": "Artificial Intelligence (AI) is an emerging technology that has wide-ranging applications across various industries and significant implications for society. It is transforming the global economy and national security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
+      "originalUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1",
+      "publishedDateTime": "2023-03-13T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.md",
+      "title": "ChatGPT and Generative AI are booming, but at a very expensive price",
+      "excerpt": "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 421,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "publishedDateTime": "2023-03-13T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-dvt-hosts-webinar-on-ai-accessibility.md",
       "title": "DVT hosts webinar on AI, accessibility",
       "excerpt": "Preddy discussed the use of AI and demonstrated how to use Microsoft’s Azure OpenAI and GPT-3 to scan websites for accessibility issues. Preddy explains that AI can be viewed as either a threat or an opportunity for humanity. He believes in the latter.",
@@ -1206,135 +1358,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-how-do-patients-feel-about-postoperative-cognitive-dysfunction.md",
-      "title": "How do patients feel about postoperative cognitive dysfunction?",
-      "excerpt": "Following a 2022 The Guardian article discussing cognitive changes that can arise after surgery, 84 comments were submitted and published online. More recently, researchers performed qualitative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740698_16780670480418117.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-cognitive-impairment-in-multiple-sclerosis-tied-to-diet.md",
-      "title": "Cognitive Impairment in Multiple Sclerosis Tied to Diet",
-      "excerpt": "Among 563 MS patients in a clinical cohort, higher adherence to a Mediterranean diet predicted a 20% lower risk for cognitive impairment (OR 0.80, 95% CI 0.73-0.89), reported Ilana Katz Sand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103374.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-report-ai-startup-inflection-in-talks-to-raise-up-to-675m.md",
-      "title": "Report: AI startup Inflection in talks to raise up to $675M",
-      "excerpt": "Inflection has not yet launched a product and offers little information about its plans on its one-page website. The startup first made headlines last May after a regulatory filing revealed it had raised $225 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
-      "originalUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Image-5.png",
-          "width": 1034,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

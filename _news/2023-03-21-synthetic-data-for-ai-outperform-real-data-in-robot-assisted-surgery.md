@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T13:48:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-synthetic-ai-outperform-real-robot-assisted.html"
 webUrl: "https://medicalxpress.com/news/2023-03-synthetic-ai-outperform-real-robot-assisted.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Medical Xpress

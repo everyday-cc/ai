@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-21T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/adobe-bets-on-generative-ai-with-firefly-tool-to-create-images-from-text/"
 webUrl: "https://venturebeat.com/ai/adobe-bets-on-generative-ai-with-firefly-tool-to-create-images-from-text/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -18,6 +21,35 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind"
+    excerpt: "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ..."
+    publishedDateTime: 2023-03-21T13:05:00Z
+    webUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 100
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Real challenge to build ethics into artificial intelligence"
+    excerpt: "“When we talk about AI ethics or AI values, the natural question to ask is, whose ethics and values?” he tells Inquirer. Australia to develop safe and ethical AI network At Flinders University’s College of Science and Engineering in ..."
+    publishedDateTime: 2023-03-17T13:06:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 56
 
 secured: "3if2usHNjNB0r538qosbIx4k7ms8kyNcX2QvAKd/lYC2uzw4Tq6k9lMTfRZmCWkzUxtJBhmIKdxIqKogC96s8E99sbA4ge8fDwtA/8uJQvB2C9zvpb9azJVUpd0P53waqXB1uDXgrJoOpv3CBsWzA4H2O7f3yc8X43VXgZH29auVYy5EttQp2Dp3LNUzgFq7TPy6G0eq12pgJg3W1Fi3VklcGo2qVKrerPGneO/UGrTOf/cC3Z/E74GOck/WBxlw1Cm+00c7M6+V86mMSfe1e8sTbI8xaKOca3v5+QnRFkqrr307lDam269Zl/hQfurXgvrIwhELPcfko1/N9aElIzgxharbACF9zojjqYHjPui0umgH/ckmBcKfD8sc9+f76pXWfNrBQMOVMFnv7GkbISSaJXuvvnrkR+hC0CneqafIOTYDbtOa0x2V+uwpqEN2zXyu2qdXv2zYU5fM2tCZZAHVAPjiOCyrcQ537ZF3RnQ6SQjL1QcfyyZKg9o2lNithKzQ1NQAfj9mPZ5Y8YxStg==;dF12o/BF+cFDDHJwvf14IQ=="
 ---

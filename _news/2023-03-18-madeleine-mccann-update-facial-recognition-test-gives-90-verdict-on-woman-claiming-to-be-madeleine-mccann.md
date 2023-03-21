@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition tech reveals Polish woman is NOT Maddie McCann"
+    excerpt: "Facial recognition technology has revealed that the Polish woman who claims to be British toddler Madeline McCann is probably not the missing girl who was snatched from her parents’ holiday villa in 2007. Julia Faustyna, 21, did not match photos of ..."
+    publishedDateTime: 2023-03-21T15:12:00Z
+    webUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8"
+    ampWebUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
+    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
+    type: article
+    provider:
+      name: Canoe.com
+      domain: canoe.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2023/03/Julia-Wendelt-Instagram-Feb24.jpg?quality=100&strip=all"
+        width: 888
+        height: 666
+        isCached: true
   - title: "Julia Wendel most likely not Madeleine McCann - facial recognition comparison"
     excerpt: "Photos of Julia Wendel, who also goes by Julia Faustyna, failed to match photos of Madeleine McCann in a facial recognition comparison of the two. Shortly after Wendel came out with her claims that she is Madeleine McCann, Swiss company Ava-X ran photos of ..."
     publishedDateTime: 2023-03-19T14:52:00Z
