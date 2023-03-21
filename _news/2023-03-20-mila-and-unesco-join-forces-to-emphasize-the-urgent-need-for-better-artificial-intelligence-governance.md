@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-20T15:12:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
 type: article
-quality: 1
+quality: 3
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"

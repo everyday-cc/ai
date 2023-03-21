@@ -1,22 +1,28 @@
 ---
 category: news
-title: "India has 45K job openings in AI: Report"
-excerpt: "having a basic understanding of AI and its applications can give individuals a competitive edge in the job market. It's never too late to start upskilling, and investing in AI skills can provide long-term benefits for individuals and their careers,\" added ..."
-publishedDateTime: 2023-03-20T19:55:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20230321/4052275.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20230321/4052275.html"
+title: "India Has 45K Job Openings In AI: Report"
+excerpt: "There are 45,000 Artificial Intelligence (AI) job openings in India, with data scientists and Machine Learning (ML) engin"
+publishedDateTime: 2023-03-20T23:42:00Z
+originalUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Report"
+webUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Report"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?383860"
+    width: 400
+    height: 250
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Job Openings in India Offer Salary of Rs 10 Lakhs"
@@ -40,6 +46,6 @@ related:
       domain: india.com
     quality: 19
 
-secured: "5AloRH2etv/uxS121lC9+ilZmJtLwadET3quipIlKpNIKY8vJobKf13vntz7leb0EFZSykSSduP7H1UBSwX8edGDOET9qcJfTD+vCQhYF8T7o3leJhkW4Sf0UXJ5sL74jil51xXYMKqs0QtqP6G7k1jdPLnXZABO+aYK6BCCxF969gzcCSbQJcr3WzFE4H8hDcE2bM+eTUAZpqAmTArIuBWY6bS7D45aROrcfAoexNIeNBREGJvi8R4yNpwgPznD+6OU2yIquwWOk5ueGFrVjS8h7UckgHMGRAKXgE+rWjfxvM2fX5lkj7+Glbx+pupFzJEc2eO3s8eANMuQN6aOgqv5/fH0tsIVAODV+jIqKMQ=;aJXWma2VZlH7yWu4TmGnvg=="
+secured: "MAysuOoIpgRYELtG7tEcYLyGxfueRrnMeequLuymHK0zZ9KFmEgsHM84CEK+5JBO9q4dF9qXYAYD4DnffFJ7Do+jUYSll6G5eh9BSFRFhXK7spRfUlWz49b4mjTg5BqLWI21ChL0z3OK4ESPK6GtgaM4mQXcBmQJtUeVdr4Yoe1+bIrM9O0Zo6J18Vh0iQ+1Dl/WAlfGW1Gy6a/CoBgjPdpDl1+0gVelfu4vsfHCeQwq+eVieEdUhbDBWZVCXhcbEYTSDFLpKKP51Hf/EhxPYNsvxtW8gGUvz0Z1PiGbS1lFbapYguCYY2TFOCc/aQ2PM0DwbJrGmR31faoPvO1n3X4LGuZ9Ck+3o+fK6Aj++Wc=;kMBlVsI6gxmREH69BED7ag=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Save up to $500 on robot vacuums and get a start on your spring cleaning"
-    excerpt: "What sets the JetBot AI apart is an onboard ... WiFi-enabled robot vacuums can be synced with a smartphone app to control scheduling, manual start, and cleaning settings, as well as telling ..."
-    publishedDateTime: 2023-03-16T05:11:00Z
-    webUrl: "https://www.aol.com/self-emptying-lidar-equipped-robot-221118513.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/X3ds0XA9BKM2u7bGRRR0hQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDA-/https://media.zenfs.com/en/aol_mashable_370/418ed8745b59770fba58e0943d223754"
-        width: 1200
-        height: 700
-        isCached: true
-
 secured: "mkiDx8lovkcXpglBgel4qzMlr5HKP0TTUSVe1m4LoZwddv2n2Rwg8SvSv8ctDSOMHP4gspYBoJHJa709mRk/ZgGhJ6RES7cp3lA+rdIOu+VtM4/MqeG+HGsTmEO9LfruKpoKORT2ZkafxngDWyeA4J/EbxUiLMOSFvtk9aNPqBJKjcoUAKVQSNoXwl0bWZXWM3zxumnUIEa9tLhQF8ksA9kCQnDslHenNF3EwJmuqHjjgHRBp5s78emk3ERY6vpW8/8+uj5aavYcE34uucXKLHx/DI+a4R8r4ILqRDdI5KaaNS2KezMIWTk9LMDWieY+4bDUdu3QxdXxfeGc8zxLMppWQ3KnkhBSSqHQ2/yrGvQ=;PSOWmkJpHUP/716mmjaSAA=="
 ---
 

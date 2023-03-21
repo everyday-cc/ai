@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-10-pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning.md",
+      "title": "‘Pan-variant’ COVID vaccine could defang future strains thanks to machine learning",
+      "excerpt": "A new approach to vaccines with a machine learning twist could put an end to boosters and seasonal variant shots, MIT researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/achiko-aptamer_and_covid.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/pan-variant-covid-vaccine-could-defang-future-strains-thanks-to-machine-learning/amp/",
+      "publishedDateTime": "2023-03-09T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo.md",
       "title": "AI chip startup Mythic rises from the ashes with $13M, new CEO",
       "excerpt": "Mythic, an AI chip startup that last November reportedly ran out of capital, rose from the ashes today with an unexpected injection of fresh funds. Mythic this morning announced that it closed a $ ...",
@@ -1137,49 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-bay-area-airports-adopt-facial-recognition-to-process-travelers.md",
-      "title": "Bay Area Airports Adopt Facial Recognition to Process Travelers",
-      "excerpt": "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
-      "originalUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
-      "publishedDateTime": "2023-03-08T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

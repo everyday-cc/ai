@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Deep Learning Market 2023-2028: Industry Share, Size, Growth Analysis, Leading Companies, and Forecast"
-    excerpt: "Global Deep Learning Market Trends: The market is currently experiencing growth owing to the expanding applications of deep learning solutions in cybersecurity, database management and fraud detection systems. Additionally, they are employed in the ..."
-    publishedDateTime: 2023-03-16T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2023-2028-industry-share-size-growth-analysis-leading-companies-and-forecast-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/Tt1Tj0kpjlRCqwy3e/bQB23F/v3NPD9dnf+vNJab63Z4W6iKaDj48XQjJhcE4r25oOhya5a6E0cmYYF/ZphzAk5sTfuO7qe03iSMXg8czwhUMNA6Qpvdiim6/ouAndkTKDMEglpUSpU9ViY3TZ+B7KTcPyLCG4RMcks6iRMEi+/ogKmAcEoZPra5XEgP91TVKriMzSwr6iU4PTQm2yNCYmMKpG04Bpa7mD5JTL83XIEs6m4MTz0AyhpDRnYc8nXZdVUMB4dJNJ0Y/K69IhXaJjEobUEWwUuZM65COEhXOz9ZS93AzwitXHgXAieJ3N4DAn1E3+o4M5x3vmqY9UFJbVPKKdZKpv0GY1WyN4Gb+Q=;JjSr5sIQMTbQMqWLb+FBiw=="
 ---

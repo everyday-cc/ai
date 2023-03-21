@@ -69,20 +69,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The AI doctor will charge you now"
-    excerpt: "“AI means a brilliant doctor on your phone,” Srinivasan wrote ... A notable example of this was the laboratory startup Theranos, which successfully lobbied state governments to allow patients to order their own tests, then offered them at rock-bottom ..."
-    publishedDateTime: 2023-03-16T07:03:00Z
-    webUrl: "https://www.bostonglobe.com/2023/03/16/opinion/ai-doctor-will-charge-you-now/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 37
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/MoneTz6hLVawK1GINRGdvokt82w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/5BQFZHDBHRAJBJODH46QI7GGLU.jpeg"
-        width: 506
-        height: 337
-        isCached: true
 
 secured: "vxDfuKORVtzdJJ+qC972WBiU1i313rzMqfOxBZXZuUhI0TXC7Qi0ssvUjz2zl91o2AB1svBRk6IwwBPRCSg2wjRUkAF62Lid4oIydUWLnRjhVuvT4tx3vz/0hdJ0a6MbXG+z4W/ThTYVon6dgFM+TLIPZm4lDutsTwfBl+6yeOiqBbW864oqZm4Rfd/H+7cFy9i+UAwkLiNABko9BNXJCE62JEDs9s6R0zFcHSKB2RBTsnhMsP2LuKXb4v/QzsyAcoxx6zs8NBNOEpo3G3UlumTVtung3TaIj/2QaBTNqWWMCuExRw5FhZ4hz2j4vgJ/t7ypYnA3kdnAJ6OT3TB+xoG2IU478hxim75pqRa1rCA=;8c/u6s2e6B7nnAg4z20LMQ=="
 ---

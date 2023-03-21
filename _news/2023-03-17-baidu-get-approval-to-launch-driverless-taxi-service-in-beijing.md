@@ -110,6 +110,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver"
+    excerpt: "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides."
+    publishedDateTime: 2023-03-19T13:18:00Z
+    webUrl: "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu-launches-robot-taxis-human-driver/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 55
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/9eaabf5583f91062.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Baidu gets approval to launch driverless taxi service in Beijing"
     excerpt: "Chinese tech giant Baidu has won a permit to operate a fully driverless ride-hailing service in Beijing. The firm plans to deploy 10 fully autonomous vehicles in a technology park developed by the government,"
     publishedDateTime: 2023-03-18T10:30:00Z

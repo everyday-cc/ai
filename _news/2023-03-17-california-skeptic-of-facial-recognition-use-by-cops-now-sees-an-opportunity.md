@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Cruise wants to test self-driving vehicles across California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for ..."
+    publishedDateTime: 2023-03-20T23:56:00Z
+    webUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california-11679355670094.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2023/03/20/600x338/GM-Job-Cuts-0_1679356204923_1679356204923_1679356243417_1679356243417.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Patricia Guerrero brings parents’ lessons of ‘sharing your voice’ to California Supreme Court"
     excerpt: "Patricia Guerrero is one of USA TODAY’s Women of the Year, a recognition of women who have made a significant ... and that sharing your voice based on your unique experiences is important.” Intersectional identities meant breaking through a ..."
     publishedDateTime: 2023-03-19T10:00:00Z

@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market: The Growing Trend 2060"
-    excerpt: "Pages] Top “Artificial Intelligence Systems in Healthcare Market” Size 2023 Key players Profiled in the Report are"
-    publishedDateTime: 2023-03-16T05:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-the-growing-trend-2060-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "From 2023 to 2029 Report on the Artificial Intelligence (AI) in Education market"
     excerpt: "Mar 16, 2023 (The Expresswire) -- “Artificial Intelligence (AI) in Education Market” information for each competitor includes [ ALEKS, Cognii, Microsoft, Liulishuo, AWS, Carnegie Learning, Jenzabar, Jellynote, Century-Tech, Bridge-U, Google ..."
     publishedDateTime: 2023-03-16T17:28:00Z

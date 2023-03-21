@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
-excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
-publishedDateTime: 2023-03-14T18:35:00Z
-originalUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
-webUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
+excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new ..."
+publishedDateTime: 2023-03-14T19:05:00Z
+originalUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
+webUrl: "https://www.nasdaq.com/articles/adept-latest-ai-startup-to-raise-big-nabs-%24350m"
 type: article
 
 provider:
-  name: news.crunchbase
-  domain: crunchbase.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-images:
-  - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
-    width: 900
-    height: 506
-    isCached: true
-
-secured: "A6VUVd1aIV0eACGrzoi5ClpKBwanJzCjYCqvNDwPGDL0DvNB9KMvlFlQhQhE9D6MshN8bVb8NFXC4RrE8WZb4xIRntUtPoUFEJfJcN/QynSgbS+5+5iA0kv01uuwjuH6V7Cq9TQ/E11eNcoHREPNdn5zm+qX3vlvBGPQVLRlemHUIuwlDDZIWx/uK9TRU/A5EaKE9KChdszhshaST2ELeenEEeecQKsUGF2d9Q9N5/WJWsLnUbi1Zz3dy7l66XSBYdAttQwQJ+x467TspjpAi6FVRej5D1Am8m2OJonXYk/bIxl6cY9q2Kc1tkRYu8J0CZSzpcgUrFyK4vvXjXeYYUjmj0ValAauO8JwIWMqJPc=;b8wG1j0SK+sqK+hoRzNq1Q=="
+secured: "bQNXznVWyMGUGp3/BV428S5nPuZsNAyy7WzYKRr5eP+BxkUQdOKscH9soTs9KUORUeADuRs3XqsQXu9PQzKvGDchapsXJHXV+9v9QrJ/5OXNYU5wB89PxivFSc30kGjrIybr5DDlU4upIwei/8iQchkXYPzvsz8ZX+j4aBXeOY3wHi6LpjyLpymauS5/cWs9soE7FpjOmX4r9LUNROSG8bBVCn1cWycuU+S98keOPulUfUEq7bTNlgiXmuACiEA7pSu1OBKkIHwYb07OFEJ7QDFMV6q+KEy/ym/MWHUfMiG4UAI3j1XpPlQ4hgeQNHe/MQjbMUpFJ1Tp46I5KHbVIUyTrUGLzaffqWSJSuS8evA=;oxfCM2Tv0Aq/wJTRxbUgFw=="
 ---
 

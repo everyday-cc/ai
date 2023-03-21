@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-d
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise wants to test self-driving vehicles across California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for ..."
+    publishedDateTime: 2023-03-20T23:56:00Z
+    webUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california-11679355670094.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/cruise-wants-to-test-self-driving-vehicles-across-california/amp-11679355670094.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2023/03/20/600x338/GM-Job-Cuts-0_1679356204923_1679356204923_1679356243417_1679356243417.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "California skeptic of facial recognition use by cops now sees an opportunity"
     excerpt: "A deputy managing director of the Electronic Frontier Foundation says the proposed facial recognition law will erode privacy rights."
     publishedDateTime: 2023-03-16T23:27:00Z
