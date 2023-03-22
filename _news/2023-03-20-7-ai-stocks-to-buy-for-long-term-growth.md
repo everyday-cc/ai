@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "The 3 Best AI Stocks to Buy Right Now"
+    excerpt: "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ..."
+    publishedDateTime: 2023-03-22T09:43:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Where to Invest in Artificial Intelligence Stocks Today"
     excerpt: "Artificial intelligence is improving by leaps and bounds, and there are some clear leaders emerging today. But will they stay leaders, or will some surprising companies emerge? Travis Hoium discusses why it may not be Microsoft (MSFT 1.17%) and Google ..."
     publishedDateTime: 2023-03-18T09:47:00Z
@@ -37,24 +51,29 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What AI Should You Invest In Now? Expert Answers"
-    excerpt: "Artificial intelligence (AI) is changing the way humans work, live, and play. Personal Finance Guru we have done some research into how AI can make you money, and which AI would be a smart investment"
-    publishedDateTime: 2023-03-21T11:01:00Z
-    webUrl: "https://techround.co.uk/news/what-ai-should-you-invest-in-now/"
+  - title: "The World of Robots to be Guided by Artificial Intelligence"
+    excerpt: "Under the guidance of artificial intelligence, the robots will learn to move with humans and interact with the environment, learning stepwise methods on how to adapt to various circumstances they may encounter."
+    publishedDateTime: 2023-03-21T16:19:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13731"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 19
-  - title: "How to be a leader in an AI-powered world"
-    excerpt: "On the other, you need to reassess the skills that are important in an AI-powered workplace. For example, critical thinking, effective communication, adaptability to technology, and the ability to build and maintain relationships with others are human skills that will remain valuable and in demand."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90868225/how-to-be-a-leader-in-an-ai-powered-world"
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 54
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13731_16794151756504502.jpg"
+        width: 1000
+        height: 408
+        isCached: true
+  - title: "The 3 Best Artificial Intelligence ETFs to Buy for Long-Term Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips If a tech-related trend is hotter than artificial intelligence (AI), I’d"
+    publishedDateTime: 2023-03-20T01:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-etfs-to-buy-for-long-term-growth-1032177583"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "msSZHgOCl3n29hNx+AoNY3X6FexVIO6qYP3F5SfaVSS+iW0z+h7EIAMv7ySBPgfXybVbHtZubVcMwLlFqBf/JdisxnzRS/aj9H/uJpnSg304npqJWEU/Vke/hPOk0aEeWic+Cb8eu5ndlPyeIDpLNApwVPiRHUvMbB71qxQp+5GLH9VtdxRct23OJaFJLcZpJG5DlbNuLiNWHt5XkqjI45K1k9WAE5GfvDA/sugGgS78SlVk5hzt90EP9ADOgfsK5D3IZt5bap7qzizti2lOwWmIrr5yXWnrN27O5eQZ8XGaQVvuaCp9tAn52HwJpJUwu3dIpnFnQ7V5nsoyb1mh5WlsylCPcY9VBizXsK0guGeWbgErOlh06oPc/GFTzrObaOp5+mSqJXEfUXof92n0CRFigZnAJUNkkEOVIunmAuv1qYuAK147U4GJkiO2Fp3g3U2h68NGj37ZjXlqAnPu/2QIcvGgobtV+4t1vJ5b+oCxLhI/bgae+x7MQkCfpx3qdoDc5CGa+CWaiEb9b+qE1w==;m/j9zrI3QMHYlvyLc6QNog=="
 ---

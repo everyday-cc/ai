@@ -84,6 +84,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Adobe unveils new image-generating AI tools designed not to plagiarize material"
+    excerpt: "For its line of advertising and marketing software, Adobe is also introducing text generating and conversational AI tools powered by models including Microsoft Corp.’s Azure OpenAI service. Salesforce Inc., which competes with some of Adobe’s ..."
+    publishedDateTime: 2023-03-22T09:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/22/adobe-unveils-new-image-generating-ai-tools-designed-not-to-plagiarize-material"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/22/1990032.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "e5lx7mk9aHzWUFd4mDw+yAgaN99FcVVXPcYgzVdKi847gfymUONEwfq/DamPQbqo9xH4Q8YcfbqTbAgZTtpwtvxMb810BobzE53uP1/0MGLZAudRdp25tQytPnYwHFTkINMaJaV/dlHw6D/l6f2ZEIFYKXJR8N54ocZMgktNAVO5EsSJCvPNVmizCNWYj6pCmWpitLv+DYateNLDSwLWLlfWc1e43uWp3Wllw/HWVJc+fvZu9k2Ph960U0mhKhAp+fZyL/seRBj0E0dUKEL+8BX9K4fBCpIoJuvn4f1X0e4MR/HUZBgffmmne78yjopuAmPWAHBBIvF1QXzqU/2qN2vQ3KcsRF8MYhixRQd1mj4=;V/0ZKyqQJ38iHoh7OACRvw=="
 ---

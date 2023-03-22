@@ -278,6 +278,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 21
+  - title: "Nvidia lets any enterprise access an AI supercomputer"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Nvidia turns to AI cloud rental to spread new technology"
     excerpt: "the world’s leading acceleration software suite for development and deployment of AI. NVIDIA is partnering with cloud service providers to host DGX Cloud infrastructure, starting with Oracle Cloud Infrastructure. Microsoft Azure is expected to begin ..."
     publishedDateTime: 2023-03-21T19:19:00Z
@@ -288,6 +297,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "+wtyNnq0+w/7hdmWfD+X8N4O4oSrgapLGgWafaS2apwZSY3aWbAwc0tk4u1oBnO+8+RGj/Ii6zLTQc3UPCpVpt6NCFMPmpNpaGzlZ+p/jz23Bfe5rVN+GTI9oI+KRy/Uk88CJyaJQkNj/6qa0fTdkrYsq34pHLM9sXIMt0BDsVEqCBywlroAYRula9FJeSI1isvRngZ0MeOrn6EjCOXhTzzlPj+H/ucEDSLJT2xsWOz2fiNUanra1/7qg0ltzPrJgFlIfYMTiQCfd9649vGVan+3FVbsMZbSBfkPvMVm92y7TWYrix0t+xKwffqE7wvn34EohFlPnvMSoK7H+rxSTCLFMLtfv6tL9Gh4iOjdp/s=;nlvlGnNzV7ZpSMovmQCXvQ=="
+secured: "dtUaFNifdkD5j/uX1+OPiTl8pTjhCrzutvIYCKQV75T76cRsCCqff6IeskTZLYW1N2SgoapTSKD8MxBAzZrN1hmcefFYH+QLObQvp1A3vWuTAxMI0lKJo97pxPT/fiC0ASA/mlLyToHBEtQXyz1BVmSgLKr3GSju6oElKR/25Y1FeN0DeiYCEyi9W1fZBgdU13cBjHdri86teikObSWsfXn9yLbWOgJQg3zl8z3yweTu7bsadgcmZ8fhSfNtaQEMxghSwUo9l4liBcltmRH1jYDCrSrCajy8gIBC9kpzIyMxyuX01J/zbbPoGt9GmXaWhmr/ut81ivSvxydvE6Fq5OlZYm+8xjPYmMWQhxdIruU5Tu9GEW/Ta182J0PejBLaDCxxYysGNl6sAww8vV8poA1FYs7X+Ppdu2lozdMfw6ftWMNZloZTMS+66IGCaKZK9vBYSZX7f0dRQWc4KP3oGlqwvsbU9saL+XGTDE1ozKajBWf8ela5g9YYfyxPcCUnwTJ4rIVFcqMdNOQTOo+DLg==;cCGvIoObdlCvMqpLJ7WzbQ=="
 ---
 

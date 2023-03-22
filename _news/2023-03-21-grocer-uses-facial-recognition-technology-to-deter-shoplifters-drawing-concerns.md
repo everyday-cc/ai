@@ -8,7 +8,7 @@ webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-tech
 ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -59,22 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon sued for using facial recognition on New Yorkers without permission"
-    excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
-    publishedDateTime: 2023-03-17T16:26:00Z
-    webUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission"
-    ampWebUrl: "https://www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/amazon-sued-for-using-facial-recognition-on-new-yorkers-without-permission.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 57
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2023/03/932/470/Amazon-Go.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Use of facial recognition technology at supermarkets raises questions"
     excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
     publishedDateTime: 2023-03-18T04:51:00Z
@@ -104,20 +89,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Amazon Sued Over Facial Recognition Technology"
-    excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
-    publishedDateTime: 2023-03-17T15:41:00Z
-    webUrl: "https://www.manufacturing.net/video/video/22766770/amazon-sued-over-facial-recognition-technology"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/03/mm1233.641480a35d683.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Stores are using facial recognition to help stop repeat shoplifters"
     excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
@@ -182,6 +153,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "cIo69/vJPiqem5SGjIQ3A9kuoqtXaa+6iddzvDZIzMHik57AjBFeNTQ6toFy6yaaJfnPmALhjG37dAmLEiqeN+PyhutJRMVxYv4pKSLQcT3kXVmU1avUubFWbJ/9n5wh2uw/Jwk1X7Lj4781+UUkW0HeAZ0UFsw1V5h4l96d93NHO8F/rpWV7THKozGpWKrNacSSuhi8RNo8HgJw3MBj9xO0wX6PLcpggcBx+E3mTFbXlANn1Elbv+3RzgJrVj7Pnle5r5u+C6IXat8WgKMyovBe+h5SrsY36HqEzDkIbUMMuqQy9kMzsPCvqFOtwXYonTfTEy2aw9h+MSmhUY/zQgja6FG6+RlENyfHyzFoQ6I=;WZ0PCjzFtGE60g+AAnw2hg=="
+secured: "4i/1o52H/4jRsiLpOvg+p2UktG1VF6wm1358i3gZRTdjedhOE6p9VhZWJ8rLBkGFI/rBto9/dwCXdnWplD4Iz17j/ElzsvZK/qKlTsBhV6cirg0vWP7uLDRE3GNNyXbDSiUHh8NUPA5Cg9p+sWacElUPpXXJqXdQ2ao/hOUQmCIOdcrPJdmhk9BRmcm5b9fVhPvEdhtXIDKVRovrxvqiH+rfKu4ml1FXH4B4JuMNtJh7D6R69tjHRHUuwYgsKB7KmXJ7IDD1KLYpGwNVK2eAroOFJG5nLqCxGQjvrg1DKG/e5XfXbw5/lpa6w+4AIKkhlL/ULY5NGnRta0ZCnHkM/k4vYmW8ou5ElS9zA3/lpBYofsDF+wJSA2s4fxDpODvYio1kcznp3CpqtTr+QLjNcHhfD6ptPdYiVHmhxZhIyxLlH6DRlHS4AiwaROqZzSXG3w+hRmSLXI8aGBbDnMQNGNPZNYp6zgQT4pes3RvnTtb8KvRsMCOhsF4j/ALk1ZP6SQTcY3tOu3mKXbSGIrCKmw==;/InUR5qExVZxt4PiyHTrag=="
 ---
 

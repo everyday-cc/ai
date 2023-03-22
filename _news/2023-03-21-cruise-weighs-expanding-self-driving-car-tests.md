@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cars With Self-Driving Capabilities Are Watching You"
-    excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
-    publishedDateTime: 2023-03-18T00:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/"
-    ampWebUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/17/5e71d3261842978c51e058958517ff65.jpg?quality=80&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GM CEO meets with senators on self-driving cars"
     excerpt: "General Motors CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with ..."
     publishedDateTime: 2023-03-20T13:45:00Z
@@ -57,15 +41,20 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
-    excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
-    publishedDateTime: 2023-03-17T20:48:00Z
-    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
+  - title: "GM Wants The Feds To Ease Self-Driving Regulations"
+    excerpt: "General Motors CEO Mary Barra held a meeting with two US senators last week as the Detroit automaker wants legislation passed to increase the deployment of self-driving vehicles in the country."
+    publishedDateTime: 2023-03-19T11:18:00Z
+    webUrl: "https://carbuzz.com/news/gm-wants-the-feds-to-ease-self-driving-regulations"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 2
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 24
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "2ctXNBmPkIZY3BnJ9OX0sLqjh+7ijm9CGpTCh56TBhpZfMrBhMqbvi48ltZ14E5wSxSwk2qTLDZ1vQ3sQOd80u3aN1L3HhKNo2FF8O05H7d34HpuvEUULvkExtsvlBxE6BmkFxZxCTaA28b4YJ8tWKWZNN4aC2zVU+AhRsPED5/6qINFqW65G+KBDb6Bg0w21u0/e+iZjtU9l0rWJ+QaELhf0xdZhCd0TcPR6/cWnqkmVw1gHjLvEFipy2R3vA8qN/J++PjkS8JRKMrq0+tfdU1hgg9fMtAgMcQVLEyWy03O1J7uWNKMravrPf06ZtCa+UscAHfH/DJncLTyZ2LysAcOiqWDglkxOfQTwPELOx0=;aSKn0TnY2bgBbAgKECFlyQ=="
 ---

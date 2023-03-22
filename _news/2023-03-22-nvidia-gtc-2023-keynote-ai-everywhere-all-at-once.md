@@ -278,6 +278,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Nvidia lets any enterprise access an AI supercomputer"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Nvidia turns to AI cloud rental to spread new technology"
     excerpt: "the world’s leading acceleration software suite for development and deployment of AI. NVIDIA is partnering with cloud service providers to host DGX Cloud infrastructure, starting with Oracle Cloud Infrastructure. Microsoft Azure is expected to begin ..."
     publishedDateTime: 2023-03-21T19:19:00Z

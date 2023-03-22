@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcase
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Your Next Negotiating Partner: Artificial Intelligence"
-    excerpt: "Now, it appears that chatbots, powered by artificial intelligence, may be entering mainstream usage. The question is, can they recognize a good deal when they see one? Perhaps not. But for people on the front lines of negotiation, AI-powered chatbots may ..."
-    publishedDateTime: 2023-03-17T15:58:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/"
+  - title: "How to be a leader in an AI-powered world"
+    excerpt: "On the other, you need to reassess the skills that are important in an AI-powered workplace. For example, critical thinking, effective communication, adaptability to technology, and the ability to build and maintain relationships with others are human skills that will remain valuable and in demand."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90868225/how-to-be-a-leader-in-an-ai-powered-world"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64148cdad249225dc8ac663b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 754
-        isCached: true
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "uOaDYRfhe8SZTBNNCB6m1KIyqHafAT+oHYF+mtkLgbkc3YTerJHTJujzRmL7gpfDNArEnREu8xcn/ie/7Q1LUFn8l0kBhpl36H0+sjZto3RVCfF4hhGC0sCWODXBMjlgXae9q+2gdvO/FDVT+5ric0ppZQqM/ly+BsC6Sa5rvBFDg2hw1wMrjKlKSo7mbp/5shIVX/MeATPGGjXsrFqWz5ilb/M/rIBoif7HrO0kNABcfejg/Sip8Z8Vl5oYOLwwgk5sru1EO69WMzhyh9oR2Eq4YG5Oy9bttcaPjv8TZ30/neKgUhUfxeIVWNNgAKatNJrSqUFSE/14UAxUgf7FSTxnaU3Ewh5ZU+V+X82gC9rR676BKkpNaUmypRrp0ONpB+EVnBzXHcg2W1Idr4/ATV+3Of7nYqcMMEyGTxp3WYgPtds5AUil8p/SeMDzzuqaAEU4Dp21KFY11p8udvSO/aaClL/c+urmDlLeA0uc5812YdenoAStZwNWhZ1KlB/QRTnJdMkgDL0m3LHJhOEfBA==;tcL+/cGjVE+LNfQr5Z7U1Q=="
 ---

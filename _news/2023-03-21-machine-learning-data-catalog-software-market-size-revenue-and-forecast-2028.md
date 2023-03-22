@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Trends and Forecast 2030"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence Chipsets Market"
+    publishedDateTime: 2023-03-22T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Size and Forecast till 2031"
     excerpt: "The \"Face Recognition Systems Market\" study describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-22T02:43:00Z

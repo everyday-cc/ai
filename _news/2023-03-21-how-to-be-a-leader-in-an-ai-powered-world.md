@@ -18,38 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Where to Invest in Artificial Intelligence Stocks Today"
-    excerpt: "Artificial intelligence is improving by leaps and bounds, and there are some clear leaders emerging today. But will they stay leaders, or will some surprising companies emerge? Travis Hoium discusses why it may not be Microsoft (MSFT 1.17%) and Google ..."
-    publishedDateTime: 2023-03-18T09:47:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/18/where-to-invest-in-artificial-intelligence-stocks/"
+  - title: "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace"
+    excerpt: "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ..."
+    publishedDateTime: 2023-03-20T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/725092/ai-stocks.png"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200"
+        width: 480
+        height: 236
         isCached: true
-  - title: "7 AI Stocks to Buy for Long-Term Growth"
-    excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
-    publishedDateTime: 2023-03-20T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-long-term-growth-1032179271"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "What AI Should You Invest In Now? Expert Answers"
-    excerpt: "Artificial intelligence (AI) is changing the way humans work, live, and play. Personal Finance Guru we have done some research into how AI can make you money, and which AI would be a smart investment"
-    publishedDateTime: 2023-03-21T11:01:00Z
-    webUrl: "https://techround.co.uk/news/what-ai-should-you-invest-in-now/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 19
 
 secured: "HOcj/SeDDFKFFAN2wZb5XNmYFZnbaSs22bwQJcg2JAu9Yc4oG9a2y0bhEcPl+WGePquZT5qS8MujC2BaLzmWTeY2Y82uE6X72qCKPFLyjmUuryDrX3hji1CGD0gPHB8y7IpKIUvko3WwHpQRU+5PyFlF3DF1CP36o7zA5EwfEAh/VzuPdHuZh1slaJjkIjQ5nF8Sam/VSUgdrjPAWuvAwGb6UCyWUAK1mekQaPE436OM5N2g+ppjW5TrTGd7vxPrWSAWC04OoNwsYWwXA7DUrfVrzO+lAbwc0W4WDoBj6ucKvdXvhsWSjYLUxvjH7ELTFH3rUhFY4OmUqepC/CLu9vJ2i86jZCI2OJaH+559IuGAYvdmU87EVan7bCd7F2qTO0BhPW9OQ2T6MqWo9Xwr33AYHR569Q+n1b/Z4V0NZ/4/IRPaMtJaiiUyuXhnX+s3QJRz8qlsREYE09aXVWK7dJ4BHGuMt4P3viUSsi4N6tnHVNjfIYqrzqLKwuzDQOs94B61JkiIafI/TuhTN1hBmg==;P/uM0oSnlth7Db766O5ObA=="
 ---

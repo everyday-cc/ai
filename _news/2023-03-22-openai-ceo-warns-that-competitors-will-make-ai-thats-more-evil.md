@@ -145,6 +145,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
+    excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
+    publishedDateTime: 2023-03-22T08:17:00Z
+    webUrl: "https://www.androidauthority.com/daily-authority-march-22-2023-3300899/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 80
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
     excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
     publishedDateTime: 2023-03-21T21:54:00Z
@@ -322,20 +336,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
-    excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
-    publishedDateTime: 2023-03-17T15:59:00Z
-    webUrl: "https://www.shine.cn/biz/tech/2303177395/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 54
-    images:
-      - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
     excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
     publishedDateTime: 2023-03-17T22:33:00Z
@@ -425,20 +425,6 @@ related:
       name: MM&M
       domain: mmm-online.com
     quality: 44
-  - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
-    excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
-    publishedDateTime: 2023-03-17T16:53:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/17/semantic-kernel.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 41
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
     publishedDateTime: 2023-03-21T15:41:00Z
@@ -541,6 +527,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "V+JrUYD1rcT3qu52a6tiMrWfbcECsYHqTzY7W3xvCm71YAnbgnpQFBI3AqdfvQrm5bgwBOYx427SXC2GOz6yQXoQcIJniBpgz3r5gKcgD9HIp3QFuPyuGnLUFNau/g6rbikUYMsBHU0sfumabKIm5VcOfBNoo6G2NKxSj7ckTOQAwAaTyJyhcdKkuUnE/ny3wIsDVJ/o1iLzL7C181o4d9GjgkLyc5XcHSpwp+LdDNfpx/4xenritdoYrmsmJLdcm9Agf7/peM4rDWjEXlD5m3odWqPSfHp2zi69cUVqbH+f+nov85P18rkvsgWFrTbpgJOF0dy6gpCdd+niH9W50OOR8p078nvLCk6sADdVH1E=;zeffItA6MESvceTKINdsvw=="
+secured: "QRpCggHm7a2bbU7SMiG0hMcSur1kel4q+D6twmpzKmfnhfBEY0iKcwE7WKLiJiSUWfF0Kg3YIAffDtu8NDVQ62wtHxKAwGZ8eFd9/e6OFMop7uLrsx7bHyKwfCt6CmS43jBP5z2DL+vVQavvYWOLyjLekMcfBPqPWiLAB8yTPtsGvPLE7jBNhlxKg7hV/QpgEuZKuijxMlxQKoep/o7Hw70jlqNMXA1kj82Oto89dqtYJlZ7PxAscTWbJHFCv0LdqC1ItdDB+aFwM+QTRS6kWFycLrqgcngfzHiviynulRq8px5MuYa2qFLI1l0mGBRqgScJglneRam0Y4qr1X0taltKxleO2rJNlOTbiD3XJ1ejfZqdxdgj33cQymJXjn6+baScPx2hRt1vzaA9QEpwJtSRF5acrMfpc+dHwD0TgBq2F31WsJWVZ+Cp+eJY8lNsbSz0qUrJNSSSDU8q+CGjMCInGu2MCgDh6n3/WyLcjFlHMQBk9INoP5MvcsbpDoGCmHscUXukNEAtZJBlKhlqnA==;0H9vezTwCaTme66PkPGYlw=="
 ---
 

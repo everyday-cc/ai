@@ -19,33 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
-    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
-    publishedDateTime: 2023-03-21T21:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
+  - title: "The State of Self-Driving Cars: Autonomous Advances"
+    excerpt: "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the"
+    publishedDateTime: 2023-03-20T11:06:00Z
+    webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
+      name: TechSpot
+      domain: techspot.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg"
+        width: 4000
+        height: 2666
         isCached: true
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
-    publishedDateTime: 2023-03-20T16:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
+  - title: "Cars With Self-Driving Capabilities Are Watching You"
+    excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
+    publishedDateTime: 2023-03-18T00:31:00Z
+    webUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/"
+    ampWebUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 44
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/17/5e71d3261842978c51e058958517ff65.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
+    excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
+    publishedDateTime: 2023-03-17T20:48:00Z
+    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 2
 
 secured: "EbnyQSb3B1WxD68YxntHZXfSzmBRnrpCpKaYk2hvwtMlSFTUHWf5JxaUCAkbZoFknksq7bMf/dbbqL7H/nLTAoCHzYNwmMcO1HXG4ZT04CHTXmm007rLGp5nS6vVR/MB+/tvCBxlGy4mastOOyDxm8HJHNbYsXwkrPAPncKXbvULaggy8344CvTiWGlHC5inhSl1toA2gSuAgqd1TRsgIDaxx18fFFaFl5xHU2LUoCQYFCpYm12iYKFV+Itf7QyDeO/aC8almopAb16qbzApolj4JQB86MlQ2AQub5KK8Hi1zWQdXZe7Lsd46s7ukxb0W2XLrrBirvA3YNaYzWIJGxod6CjR3RV8Z8YWLLYk+ds=;oV2x2KUhaAb+qVt21sd72A=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "The State of Self-Driving Cars: Autonomous Advances"
+    excerpt: "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the"
+    publishedDateTime: 2023-03-20T11:06:00Z
+    webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 54
+    images:
+      - url: "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg"
+        width: 4000
+        height: 2666
+        isCached: true
   - title: "Cars With Self-Driving Capabilities Are Watching You"
     excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
     publishedDateTime: 2023-03-18T00:31:00Z
@@ -35,36 +49,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GM CEO meets with senators on self-driving cars"
-    excerpt: "General Motors CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with ..."
-    publishedDateTime: 2023-03-20T13:45:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
+    publishedDateTime: 2023-03-22T05:11:00Z
+    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
     type: article
     provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98723192,imgsize-131198,width-1200,height=765,overlay-etauto/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
-    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
-    publishedDateTime: 2023-03-21T14:18:00Z
-    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
-        width: 470
-        height: 246
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "zdl12rre05Leu2CcaIgH5dlhmMoj43D6T/cREXp5ePkeJ6UULl9DB8WVDwbSr4k6EbbjiN4jrqGUy0ilzznDQiZPR9tn5O2ZtRSCoOufUDVB1U+T68dIaTCTvpv2teWSbhtKfn4ZXJCwRAwmFWC9dVCc7q4SxfecLZlds4ClO5Gb1XJwQnEQEougY92LIJ7972FUUBGBID999qUUJAe1hf5t2NKf/8Mz0tFXz1tf3qQrWIKbFEuLP2DvIevs72R5DRdggfPPEbQWqLCbeFgO/xMc7RqBB8imHJB2+dOXXhEfK3r62DUo7/E8IH0JvMOnbrsB52Lk0Qr7pWTPDUlYQNZ8gTFii05cwjLb6+MxjJl/1y8OyzLH5hS/CafHbXsNYo4ZPxRLQmtVB0eLTCudXjd1ND7OxBiWBQwVW+su4u4aeiIeM6ljdgz2agoRxlAONPr7m8cwLdpIEpveNjXHqhgVD8UqN2Uv0m/JGibPRkSZVPaHTDRaly6QZTBFJguFvRPKjIDJhhHwce2Cbv1A/Q==;MwzlxPKFeLtV54zg8lr3jQ=="
 ---

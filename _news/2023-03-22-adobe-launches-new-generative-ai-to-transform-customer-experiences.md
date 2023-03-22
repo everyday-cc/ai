@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Adobe Launches New Generative AI To Transform Customer Experiences"
-excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that aims to redefine how"
-publishedDateTime: 2023-03-22T07:47:00Z
-originalUrl: "https://menafn.com/1105833841/Adobe-Launches-New-Generative-AI-To-Transform-Customer-Experiences"
-webUrl: "https://menafn.com/1105833841/Adobe-Launches-New-Generative-AI-To-Transform-Customer-Experiences"
+title: "Adobe launches new generative AI to transform customer experiences"
+excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
+publishedDateTime: 2023-03-22T09:48:00Z
+originalUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
+webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-03/22/I_b988cimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -214,6 +214,20 @@ related:
         width: 1087
         height: 547
         isCached: true
+  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
+    excerpt: "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly"
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58619787-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 36
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/c4a523c8-126a-4745-a363-5f47daf1d9bd"
+        width: 617
+        height: 342
+        isCached: true
   - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
     excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."
     publishedDateTime: 2023-03-21T19:28:00Z
@@ -288,15 +302,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
-    excerpt: "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
-    publishedDateTime: 2023-03-21T23:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780952.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
     excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
     publishedDateTime: 2023-03-21T15:32:00Z
@@ -334,6 +339,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "1IwIZB/SUSYHma30aDygR2SngWJm4JrDw9tlzdZqmBi+Nl0Kt3NNAdlPNxZbK5wuNzp6Lbk8EN1TENZ5OI/oCfyWpSo5oWxXOtzUsVpzhBUguNNPkTiv2qvowHJsXDejQLAhaeOKPsc4Ia84yyny+I6k4+SzBSE81inolrSK5Yp1gpGvHuvLVC1fKZ5JPsWx9mII5sV0IiOYzUCgk44ndfssYSXw433vZp7WINb3ekVH1oQbPKjP1Gzf7EYhfL+GVCySbDIeiuwxKynCMjiMkfpnnC4RmdDdrtNcDuHtLjz7LeTQw6+p2tjW7YJ21cisKthT3CYddqRSDFtQ7U9cinXY/IcetOBVAjjzjjw4AOA=;dh73jJOFzQMBWySImInP4w=="
+secured: "jJgwU1vZ105qyKQIrZqGvJ5SlenhNQPyvuNsjwqUm8/JG8FH/bI4JljOaqrcGZaJG517SUxCHtQeidTjqdAaxT/gZuVZMlTQI79OjGqsYG6mRfnuQNlitz93F9Z6GkL375QbcoquwDCLruM6SWSKQPxZXMvePQjiwulKu279/oCcQwV0C0UExUQt3846af7jMwN4FLMfjQEMnokkbbei3OKwMoNnXJbAD34VNlsNBb0Mb4JbNxX5d9EPbJ1qlXXLxIepEwcUIfZhJYEBh5W2OsjwQp8BFbXSbQpz/5YV5GlsvEFAXdK4rDyFuC24ZgGnhVunFwpFg/iHR9b6s1hgzYadw6slV0Tvbx6W5RH8opc=;Pj1lW81pvViGIGcs0C51rA=="
 ---
 

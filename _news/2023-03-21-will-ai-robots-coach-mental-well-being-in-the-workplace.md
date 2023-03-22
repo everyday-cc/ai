@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "The World of Robots to be Guided by Artificial Intelligence"
-    excerpt: "Under the guidance of artificial intelligence, the robots will learn to move with humans and interact with the environment, learning stepwise methods on how to adapt to various circumstances they may encounter."
-    publishedDateTime: 2023-03-21T16:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13731"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 54
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13731_16794151756504502.jpg"
-        width: 1000
-        height: 408
-        isCached: true
 
 secured: "w2sDfN/NmEMtQuSISkjBdv+ytLbq1jt5cap3lmOGyyYWEqq3p6lDhyitarZwCZWvEuNwRE+I8onAuC+pQPQ3P+s64eD/Bahwl4RFRsi3cYozHREBrdfk/vH82TYdMyCTtPE1XYE/eTw2cUCempkYgoMyIfIk78dghYN2obRbQq5f5FdDaaQGR8m6gJOzTvpBWQsicB0RrUuYWIx3AQaIf16HsvpFI2a4GYUL84Q6yogk7DSoOb72hWdtbFG92/dM21ajRFkYfDtuC303+K5ccsh5e9GszCIuZde9hy1NVI3BpOtCfQ9b3zYwkdf4Z6nBCLmaAToad0zEOU3NeNDX9X4aKAMQvA/mrJcEmNeSwa1AyYx+4AC3tMudIK7+s/sLhDZW37u/fC3W4UjJ/yRaTxir98/76TOfxRTsH7CWHkVs7bYvF1aYV567CsDH5UUkmZA60SlYmMPNK8KPXnYxakLsTHPwKInhMicbHrz5RlthNmIKcY2xXtt8AdJQr8PV+wfteFfZCnTW9ucmRIfHYw==;Y+uqP9hJ5FdyOdeY1zIVVA=="
 ---

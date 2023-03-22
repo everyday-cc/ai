@@ -51,20 +51,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "GM Wants The Feds To Ease Self-Driving Regulations"
-    excerpt: "General Motors CEO Mary Barra held a meeting with two US senators last week as the Detroit automaker wants legislation passed to increase the deployment of self-driving vehicles in the country."
-    publishedDateTime: 2023-03-19T11:18:00Z
-    webUrl: "https://carbuzz.com/news/gm-wants-the-feds-to-ease-self-driving-regulations"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 24
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "mLlaEXTh2EjQ5qhmfPCMkpizw68CvKuWG0rGbBIoKoFsSDaoaBeLWG+afj0jcnm+t3S4G7JCS41ih0UDlh1jm4dGrmKu5q/HNkKaZUM5eIrud7YAn/Bfh44oAOCA/X10hJKJOe1NbxYydPeQDvmGsMrGaPDxe5F+22JGOsdQ50e+Ldp5HRSpVpNJFp5eVh4Lit4whyuverbFb8e1A6bS//rxyIy9h2WkHollN3GJ3cBljESE/sgSOh3FPRx19yvbuetjUjOZCCnQnJhmE8dlhGWylQrLXizB3fRcHD1iezn49NlvQ2BLpc0QCq/rBsK6gVOLipT/WvgwUMxv9PjEMZK1r0BnXZDrR5O1tQpEW6fUyz0TuwJ3vnzmmj2eOHmkKoTVvh9gJpPYypvI//+nnu66h0kK7YvZzfpFNqxWMOwpWj7ldCPXgVPU+Ac8clGdVObiECx1Oc2KCuL5ewM7pbakvXXJsXpmOveKLGeJw080hnIhb/1Szue44CY5NrTqXuI0CNcXRK1z8RIluVTzIQ==;dRO8m9zjgu9AwDNzejN6iQ=="
 ---

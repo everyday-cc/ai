@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-ma
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 88
-heat: 278
+heat: 288
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
     excerpt: "The \"GPU Database Market\" Study Describes how the technology industry is evolving and how major and emerging players in"
     publishedDateTime: 2023-03-21T04:10:00Z
     webUrl: "https://www.marketwatch.com/press-release/gpu-database-market-top-players-and-forecast-till-2028-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Trends and Forecast 2030"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence Chipsets Market"
+    publishedDateTime: 2023-03-22T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21"
     type: article
     provider:
       name: MarketWatch

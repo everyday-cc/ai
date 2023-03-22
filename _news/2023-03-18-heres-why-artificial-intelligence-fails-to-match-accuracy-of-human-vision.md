@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/here-s-why-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New study identifies how AI fails to reproduce human vision"
-    excerpt: "When a human spots a familiar face or an oncoming vehicle, it takes the brain a mere 100 milliseconds (about one-tenth of a second) to identify it and more importantly, place it in the right context so it can be understood,"
-    publishedDateTime: 2023-03-17T16:30:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-human-vision.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-human-vision.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-human-vision.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/new-study-identifies-h-1.jpg"
-        width: 949
-        height: 749
-        isCached: true
   - title: "Why Artificial Intelligence fails to reproduce human vision [Details]"
     excerpt: "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable."
     publishedDateTime: 2023-03-18T12:17:00Z

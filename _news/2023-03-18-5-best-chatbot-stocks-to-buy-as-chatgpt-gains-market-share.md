@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply."
-    excerpt: "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ..."
-    publishedDateTime: 2023-03-17T15:24:00Z
-    webUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/"
-    ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
     excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
     publishedDateTime: 2023-03-21T17:07:00Z
@@ -57,21 +41,35 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Will ChatGPT& AI replace the need for formal education?"
-    excerpt: "And any Ai will continue to be created ... For example, it can aid in assessments and language translation to make educational materials more accessible, support tutoring, and provide additional resources and explanations. The risks involve the potential ..."
-    publishedDateTime: 2023-03-17T15:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/will-chatgpt-ai-replace-the-need-for-formal-education/?source=app&frmapp=yes"
+  - title: "Google's Bard AI chatbot is now open to users in the US and UK. Here's how it works"
+    excerpt: "Google's AI chatbot, Bard, is a competitor to OpenAI's ChatGPT, which Microsoft invested in. Bard will be available to some users in the US and UK."
+    publishedDateTime: 2023-03-21T14:00:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3"
+    ampWebUrl: "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 81
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-5.png"
-        width: 401
-        height: 325
+      - url: "https://i.insider.com/6418b947833b31001947c885?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "5 Best AI Chatbots in 2023"
+    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
+    publishedDateTime: 2023-03-20T21:23:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 77
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
         isCached: true
   - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
@@ -105,21 +103,63 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
-    excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."
-    publishedDateTime: 2023-03-18T14:18:00Z
-    webUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/"
-    ampWebUrl: "https://www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/18/unlock-the-potential-of-chatgpt-plus-now-available-in-india/amp/"
+  - title: "AI love: What happens when your chatbot stops loving you back"
+    excerpt: "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ..."
+    publishedDateTime: 2023-03-18T11:29:00Z
+    webUrl: "https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/4q2SKSKc-8d4xCLVI3VKBitHlN4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MM2VJ67XK5L6DDVJ4QJNMGJFHU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "What happens when your AI chatbot stops loving you back?"
+    excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
+    publishedDateTime: 2023-03-18T17:40:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-love-idCAKBN2VK061"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
+        width: 800
+        height: 750
+        isCached: true
+  - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
+    excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
+    publishedDateTime: 2023-03-21T04:34:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-early-access-3300462/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What Happens When Your AI Chatbot Stops Loving You Back"
+    excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
+    publishedDateTime: 2023-03-18T11:36:00Z
+    webUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186"
+    ampWebUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 59
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/02/how-to-use-chatgpt-1200x691.png"
+      - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
         width: 1200
-        height: 691
+        height: 1125
         isCached: true
   - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
     excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
@@ -137,6 +177,164 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "I was wooed by ChatGPT: New AI Romeos are ‘scary’"
+    excerpt: "The AI tool, currently in public beta mode, costs $15 to access, though that price tag is expected to increase once the product is fully launched. A since-deleted Reddit post had readers debating the ethics of men using an AI doppelgänger to score dates."
+    publishedDateTime: 2023-03-20T22:38:00Z
+    webUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/"
+    ampWebUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008538607-1.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
+    excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
+    publishedDateTime: 2023-03-22T04:45:00Z
+    webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "AI vs EU: ChatGPT upends Brussels' intentions for regulation"
+    excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology — and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon ..."
+    publishedDateTime: 2023-03-22T08:42:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 59
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-03-22/1052758_010609_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Why did Stanford take down its Alpaca AI chatbot?"
+    excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
+    publishedDateTime: 2023-03-22T00:42:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "ChatGPT shakes up European Union's plans to regulate artificial intelligence"
+    excerpt: "The European Commission, the EU's executive arm, first announced a plan in April 2021 for an AI rulebook, and the European Parliament hopes to finalise its preferred AI Act text this month"
+    publishedDateTime: 2023-03-22T08:24:00Z
+    webUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html"
+    ampWebUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 56
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/What-ChatGPT-thinks-of-China-banning-AI-language-models-for-the-public-because-it-cant-be-censored-2.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "China keenly developing homegrown AI GPUs for chatbot apps"
+    excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20230322PD200/ai-gpu-china-ernie-bot-generative-ai-ic-design-distribution.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+  - title: "Google’s AI chatbot Bard rules search giant has ‘monopoly’ in antitrust case"
+    excerpt: "Google’s own AI chatbot, Bard, ruled the company has a “monopoly on ... hiccups were likely to occur as the public gained access to Bard. “As more people start to use Bard and test its capabilities, they’ll surprise us. Things will go wrong ..."
+    publishedDateTime: 2023-03-21T20:46:00Z
+    webUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/"
+    ampWebUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 54
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Interactive Hrtech Startup Amara Transforms Employee Experience With An AI Chatbot"
+    excerpt: "Being an AI chatbot, Amara chats with employees at critical touchpoints ... across the globe and is continuing to move on the growth trajectory. The early-stage startup has a headcount of 31 and expects to reach 50 by the end of FY22-23."
+    publishedDateTime: 2023-03-18T07:13:00Z
+    webUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048"
+    ampWebUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 51
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amara_1679122496.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
+    excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
+    publishedDateTime: 2023-03-19T05:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/ea83ce1a739dc69379eabf0f02e799cd3b329403/0_139_4256_2554/master/4256.jpg?width=620&quality=85&auto=format&fit=max&s=fb54023a24b30e8cb7a1163511425ae4"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "South Park's latest episode was co-written by ChatGPT: 'Deep Learning' ends with a script generated by OpenAI's chatbot"
+    excerpt: "The creators of South Park employed help from OpenAI's ChatGPT to create the latest episode titled 'Deep Learning.' The fourth episode of season 26 shows several boys of Stan's class using the chatbot to write essays and send text messages to girls - and ..."
+    publishedDateTime: 2023-03-17T20:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11873595/South-Parks-latest-episode-Deep-Learning-written-ChatGPT.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11873595/amp/South-Parks-latest-episode-Deep-Learning-written-ChatGPT.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11873595/amp/South-Parks-latest-episode-Deep-Learning-written-ChatGPT.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/03/17/20/68835871-0-image-a-26_1679086228334.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
     excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
     publishedDateTime: 2023-03-20T13:00:00Z
@@ -146,21 +344,139 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 46
-  - title: "Apple may update Siri as it struggles with ChatGPT"
-    excerpt: "They will be twice as determined now to evolve further innovation in the natural language processing that is core to both technologies. But at this stage in terms of implementation they do appear to have fallen behind. Though appearances, as GPT ..."
-    publishedDateTime: 2023-03-17T16:30:00Z
-    webUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691054/apple-may-update-siri-as-it-struggles-with-chatgpt.amp.html"
+  - title: "AI tech firms eager to join chatbot trend"
+    excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
+    publishedDateTime: 2023-03-21T00:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/21/WS6418eb76a31057c47ebb5863.html"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 44
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
     images:
-      - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
-        width: 580
-        height: 363
+      - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
+    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
+    publishedDateTime: 2023-03-19T16:49:00Z
+    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
+    excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."
+    publishedDateTime: 2023-03-22T09:10:00Z
+    webUrl: "https://techxplore.com/news/2023-03-chip-war-censorship-hobble-chinese.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/baidus-ai-chatbot-has.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Google opens sign-ups for its Bard AI chatbot"
+    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
+    publishedDateTime: 2023-03-22T06:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "With AI-powered ChatGPT, the watchword is verify, don't blindly trust"
+    excerpt: "It’s not always accurate and at times it has added information I didn’t add.” He uses ChatGPT, launched by OpenAI in November, for numerous purposes including creating event listings for LISTnet gatherings."
+    publishedDateTime: 2023-03-22T08:00:00Z
+    webUrl: "https://www.newsday.com/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
+    ampWebUrl: "https://www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 39
+  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
+    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
+    publishedDateTime: 2023-03-20T10:43:00Z
+    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
+        width: 2842
+        height: 1372
+        isCached: true
+  - title: "Google releases Bard, its competitor in the race to create AI chatbots"
+    excerpt: "Internet giant Google will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft."
+    publishedDateTime: 2023-03-21T20:14:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "Google's Bard AI chatbot has now been released to the public"
+    excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
+    publishedDateTime: 2023-03-21T19:42:00Z
+    webUrl: "https://www.newscientist.com/article/2365601-googles-bard-ai-chatbot-has-now-been-released-to-the-public/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/21183855/SEI_149177734.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Forget Bing AI - some Pixel superfans can now test out Google's Bard chatbot"
+    excerpt: "Google's Bard AI got off to a faltering start - to put it mildly - but this is a hint that we might see a public release of the chatbot before too long."
+    publishedDateTime: 2023-03-21T13:58:00Z
+    webUrl: "https://www.tweaktown.com/news/90796/forget-bing-ai-some-pixel-superfans-can-now-test-out-googles-bard-chatbot/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90796_01_forget-bing-ai-some-pixel-superfans-can-now-test-out-googles-bard-chatbot.jpg"
+        width: 620
+        height: 348
+        isCached: true
+  - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
+    excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
+    publishedDateTime: 2023-03-21T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/03/21/google-bard-chatbot-launch-us-uk/11514309002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 28
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
@@ -212,6 +528,15 @@ related:
     provider:
       name: Tom's Guide
       domain: tomsguide.com
+    quality: 17
+  - title: "Google is releasing its Bard AI chatbot to the public"
+    excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."
+    publishedDateTime: 2023-03-21T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90868871/google-releasing-bard-ai-chatbot-to-the-public"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 17
 
 secured: "fNfBpFf1/QxpbZEmt3z2egWJnzxNVmVkVE4KPBtAvbP50LnTWdDZW0myJx4Df4+ImUWihtNjqm8cvS/6GaZcqGZOeOumXOyHqON9nk+aKfmMZd/Q7NJ6DbzTpUKYAfQuuvIFIqQEqHzqsa64xFRfcUZygxcV9sCASup6iJFFKt6IRSfYSzuXXO75tYStw/aYHqsU48lq5cSs4G+hOowHU7X5vprqH6lTys3XLvTqSIOlT2Wq6R6WQ8uqCw1LvgmznxNQVKPFG0LsoAYEokL/VJglMPI3jKHTB1tKlmP34sgtGULGE35bYTDM7+cR6QxfEBI0BgO6psCyhyR3t4Fnf+2A3Jv6iMGJIJoNkm82HAY=;BqPzpcjnb8u76ljI+TmPkw=="

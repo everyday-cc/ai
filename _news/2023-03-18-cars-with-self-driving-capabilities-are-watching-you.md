@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabiliti
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,36 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "GM CEO meets with senators on self-driving cars"
-    excerpt: "General Motors CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with ..."
-    publishedDateTime: 2023-03-20T13:45:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+  - title: "The State of Self-Driving Cars: Autonomous Advances"
+    excerpt: "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the"
+    publishedDateTime: 2023-03-20T11:06:00Z
+    webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
     type: article
     provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 44
+      name: TechSpot
+      domain: techspot.com
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98723192,imgsize-131198,width-1200,height=765,overlay-etauto/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars.jpg"
-        width: 1200
-        height: 765
+      - url: "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg"
+        width: 4000
+        height: 2666
         isCached: true
-  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
-    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
-    publishedDateTime: 2023-03-21T14:18:00Z
-    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
+    publishedDateTime: 2023-03-22T05:11:00Z
+    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
-        width: 470
-        height: 246
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
   - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
     excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
     publishedDateTime: 2023-03-17T20:48:00Z

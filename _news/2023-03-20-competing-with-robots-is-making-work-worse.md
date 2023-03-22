@@ -24,6 +24,22 @@ images:
     height: 779
     isCached: true
 
+related:
+  - title: "Competing with robots is making work worse (Opinion)"
+    excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we're just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
+    publishedDateTime: 2023-03-22T08:00:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/robots-ai-chatgpt-work-stress-life-balance-tech-17852338.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/64/71/61/13868139/4/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
 secured: "k28YFSS5VDPIRJLZWcyYOkvSp/lwf5s2xTP7qlYzHBKslOhPlWPn0xsxWIXJYjKPUPTnu6vTBKvpXoRRSS+by2SM9AdRkBiWlwpmjSx6NBW3F+XYXf/AHDKCbajYY3ED2szwfMH/+OF6AmGMns5+ViUjetBwU9nLBDb3FIM/b0fqrjq7RzFx6rNPTPZz0k62/oasykic71pOsMCXWj+HNN7gh0KpDiv5SU/Pw708s4vpICea9xJgPPTFJdmRE6OUGBxZkyvUXSV9GEokOQlebrn8UErFiSfHU6mzUaosusxmfGiuMUlnj3Lc6d5tL/GNUCGRXlm+uAxgovn1iQbamWM08LRinFtk8qrSi+XeXAg=;EK9ysyO2vz78mV/LHyrR/g=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "Kroger lands deal for self-driving truck deliveries"
-    excerpt: "Get ready because the empty truck cabs in motion are coming. Gatik, which is involved in autonomous middle-mile logistics, has announced a multi-year commercial collaboration to transport customer orders within Kroger’s Dallas distribution network. The ..."
-    publishedDateTime: 2023-03-17T15:40:00Z
-    webUrl: "https://www.supermarketnews.com/retail-financial/kroger-lands-deal-self-driving-truck-deliveries"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 24
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Kroger_Ocado7_0_1.jpg"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Four Reasons Self-Driving Cars, Not Drones, Will Deliver Your Packages"
     excerpt: "Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ultimate ..."
     publishedDateTime: 2023-03-17T21:38:00Z

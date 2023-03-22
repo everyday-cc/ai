@@ -42,14 +42,14 @@ related:
   - title: "This mind-controlled robot will pour you the perfect pint"
     excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
     publishedDateTime: 2023-03-20T20:30:00Z
-    webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+    webUrl: "https://madison.com/news/world/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_5d953917-f933-5e2f-b384-afb744139d95.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Madison.com
+      domain: madison.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/d9/5d953917-f933-5e2f-b384-afb744139d95/6418ae4b4dcd0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

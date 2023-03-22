@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning programs predict risk of death based on results from routine hospital tests"
-    excerpt: "In recently published findings, the research team built and trained machine learning programs based on 1.6 million ECGs done on 244,077 patients in northern Alberta between 2007 and 2020. The algorithm predicted the risk of death from that point for each ..."
-    publishedDateTime: 2023-03-21T18:19:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-machine-death-based-results-routine.html"
+  - title: "Machine Learning Programs Predict Risk of Death Based on Results From Routine Hospital Tests"
+    excerpt: "Using ECG data, a new machine learning algorithm was able to predict death within 5 years of a patient being admitted to hospital with 87% accuracy. The AI was able to sort patients into 5 categories ranging from low to high risk of death."
+    publishedDateTime: 2023-03-21T19:32:00Z
+    webUrl: "https://neurosciencenews.com/machine-learning-mortality-22838/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Neuroscience News
+      domain: neurosciencenews.com
     quality: 28
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-progr.jpg"
-        width: 2075
-        height: 897
+      - url: "https://neurosciencenews.com/files/2023/03/ai-death-prediction-neurosicences.jpg"
+        width: 770
+        height: 513
         isCached: true
 
 secured: "eP7bF9jNACR8lY98NFHlEJ/oPltKQG+wRHaeatvp6j/IQjX0i3uuZng2AG5ANAUpxSws0YJc2Z27davKeUr8eIuTiAv5ED9pA5wlWjYqFydmJiqegzEb52fkyfpxDxuq6+vtFmXzJEz6QskPjsiNXdwM6jecH0v5sqLQcOYvA1mlRfHvrGtasx40WHjoUYNKskB1wzX5hLe0xWRlTJbKsfFQI2qvBJ58vdVgW5RlGUypMNy5at5RdgeLg0h2YWwZrdCXlau9QD6Cbu0Z1JzXO/BfsNKrGr4vGQ1zd9nGx8gs5SOppyaG6TEVYhDe83QIWsfyMwlb21Zm1NsfLTTmdZa7Dy3D8Lu7pcxa4l70hrM=;nJp3JDWWEMc1hFXTGSkErA=="

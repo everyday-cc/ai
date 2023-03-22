@@ -3,23 +3,23 @@ category: news
 title: "This mind-controlled robot will pour you the perfect pint"
 excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
 publishedDateTime: 2023-03-20T20:30:00Z
-originalUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
-webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
+originalUrl: "https://madison.com/news/world/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_5d953917-f933-5e2f-b384-afb744139d95.html"
+webUrl: "https://madison.com/news/world/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_5d953917-f933-5e2f-b384-afb744139d95.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/d9/5d953917-f933-5e2f-b384-afb744139d95/6418ae4b4dcd0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -63,6 +63,6 @@ related:
       domain: scotsman.com
     quality: 0
 
-secured: "v4cHeK3xCwDjLe0rosdOTtPT/twz4ADB9K3TL7/CHkZZV91jVU1BdUHt8Endnz7PusDoJayG1brxssiHbVORTR3O7j/pJGxUR38WKy9gNZcr97wCuuHIT5Bnlw7PjHNu2cT607A69VTdLBIrjV8hJ74g0OczUqRR9heElbhzcl91WrUgt335pfhUxeWvdElmr/LoriXP2s18qCZdW3tqggjP1skFiSO0loGGzwQIMkjv6axLMoAyLCZTmi4iCvWI4s1X21g9g1hGKAJXpIeO38Ip9OK8aNKPGofXfBlp1DJHSxkGB/Z0s1s7fJBjgqF0paDjFZxyuofyANXMB22E0K7dhcu4Bz3N9i7PkX6g+Ch1iBFIVLv0TipaC7MeKMbrh9PvkOaRIbb39QmEAGXMwncHh3SMoZ0BBARAehbeMoSCkngE0FoQcr1xu5ewFGZk954NFq5odtTdDHG5NGG2yzkxg4B0SOIdMEhMLJkFVqXQ4pM6E+Kq+E57nbq95C434OxPPWk+Eozwuv1jabNbDg==;k8cCCimA+ejA4klIzUIcOg=="
+secured: "/grgZ2hvF8GF/1jUdNna4EqEAJq8okocXEk8hdEN0CHuKqpNBZ5xZJbmR4YN+YUSFb+XPTM/bJ35J1fAuGErgni++HRiA7bZZpx9ri/VuyB4zPJXHgKg8P/zNfBpwUy/zKVfCW1kN2CPGpbHE603rqw0SonQ0nxQgc+eSYt+FXwcgYEkWZAaeUY+MDNAh2izUgfXvL2qbDMxfdnQyXQxWg5T7saYfNT01M0a5Q8j46MT9M2vKKqB0WhRAA4zAoED4GwMfXfbA5funYfAoRUqJ9QfRzPd02FkgpX99XUDw8n1TX0EZR0MWS87kWK3ZyhaeYwNeyeE1ECHyUrk+SQvu1ZNkGRSIamsYf3+fUIOtrw=;KMF2aEFo1qNklYx471mItg=="
 ---
 

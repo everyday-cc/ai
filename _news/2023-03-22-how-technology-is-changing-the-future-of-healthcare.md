@@ -159,19 +159,19 @@ related:
         width: 2560
         height: 1703
         isCached: true
-  - title: "Artificial intelligence in the workplace"
-    excerpt: "algorithms and artificial intelligence systems are effecting workplaces. It suggests what unions and government can do to help workers. The Canadian Labour Congress is an affiliate of the ITUC. RadioLabour is the international labour movement’s radio ..."
-    publishedDateTime: 2023-03-17T16:57:00Z
-    webUrl: "https://rabble.ca/podcast/artificial-intelligence-in-the-workplace/"
+  - title: "Look: Stunning Photos Show Dubai's Museum Of The Future Re-Imagined By Artificial Intelligence"
+    excerpt: "Dubai's Museum of the Future is the most beautiful building in the world. And now, artificial intelligence has reimagined the torus-shaped structure in ways not thought possible previously. The Government of Dubai's Media Office has shared some stunning ..."
+    publishedDateTime: 2023-03-22T08:44:00Z
+    webUrl: "https://menafn.com/1105834654/Look-Stunning-Photos-Show-Dubais-Museum-Of-The-Future-Re-Imagined-By-Artificial-Intelligence"
     type: article
     provider:
-      name: rabble
-      domain: rabble.ca
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://rabble.ca/wp-content/uploads/2023/03/rl-rabble-2.png"
-        width: 865
-        height: 440
+      - url: "https://menafn.com/updates/pr/2023-03/22/KT_da453image_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

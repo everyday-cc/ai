@@ -43,20 +43,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "GM Wants The Feds To Ease Self-Driving Regulations"
-    excerpt: "General Motors CEO Mary Barra held a meeting with two US senators last week as the Detroit automaker wants legislation passed to increase the deployment of self-driving vehicles in the country."
-    publishedDateTime: 2023-03-19T11:18:00Z
-    webUrl: "https://carbuzz.com/news/gm-wants-the-feds-to-ease-self-driving-regulations"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 24
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/900x600/1119000/200/1119240.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Are self-driving cars here? Experts say they could soon revolutionize trucking, rideshare"
     excerpt: "The future of autonomous technology was a focus of several sessions at South by Southwest as industry experts and executives discussed what could be on the horizon for self-driving vehicle technology, including its potential uses in trucking and rideshare."
     publishedDateTime: 2023-03-18T12:23:00Z

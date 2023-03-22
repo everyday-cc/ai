@@ -145,6 +145,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
+    excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
+    publishedDateTime: 2023-03-22T08:17:00Z
+    webUrl: "https://www.androidauthority.com/daily-authority-march-22-2023-3300899/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 80
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
     excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
     publishedDateTime: 2023-03-21T21:54:00Z
@@ -322,20 +336,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
-    excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
-    publishedDateTime: 2023-03-17T15:59:00Z
-    webUrl: "https://www.shine.cn/biz/tech/2303177395/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 54
-    images:
-      - url: "https://obj.shine.cn/files/2023/03/17/a8bca6ec-57f3-4e21-98b1-956e43268bde_0.jpg"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
     excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
     publishedDateTime: 2023-03-17T22:33:00Z
@@ -425,20 +425,6 @@ related:
       name: MM&M
       domain: mmm-online.com
     quality: 44
-  - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
-    excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
-    publishedDateTime: 2023-03-17T16:53:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/17/semantic-kernel.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 41
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
     excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
     publishedDateTime: 2023-03-22T06:04:00Z

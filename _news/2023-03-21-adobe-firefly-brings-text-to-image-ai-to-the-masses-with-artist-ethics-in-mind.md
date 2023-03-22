@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-ima
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
 type: article
 quality: 100
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Adobe unveils new image-generating AI tools designed not to plagiarize material"
+    excerpt: "For its line of advertising and marketing software, Adobe is also introducing text generating and conversational AI tools powered by models including Microsoft Corp.’s Azure OpenAI service. Salesforce Inc., which competes with some of Adobe’s ..."
+    publishedDateTime: 2023-03-22T09:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/22/adobe-unveils-new-image-generating-ai-tools-designed-not-to-plagiarize-material"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/22/1990032.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "NlyloyG5CbPYhPl0+8DnzBNK/+fF+AXBDwzSBX/Q0a4zfH1tqvqKm0a9FCFgqhHnApEjH+4+qUM+dB4iuY69PhLRvyZMyC2IpbkcH5JspVhUsJKuhV+u7/ln1ZuSPXvoOnWMMJQUKIcAO8WiW1zWWo+BTa1ZnHN55pPaUS9J3zqukCQNPpcUi39cu8ZyZOm9fQsrOgRmEfnyhhb5XNsB7MhJA4kUoyww+iDceiZ/6+l6VdHkJNoBPKK+YRHHTeMqwvdw9LTriJ1iMWDc/g1LsxUd2ah6x3C7GNCKZ0fbxUTSLI68Vg370jRHruqFztn5PBljb8sxk/WYbtfRcm7FvTty/LZkY0yZdXocqZibXuBwevupG4JrVDlWB7CHVDDkS8rjEb2V0ZalNKZbi/9bpiu0XH1A4X91rgUFkr/d9boF6R5X3BK5mQf1v+XaZ3r3apvKX9uEefm663uatAdRX4bAG6OYgYEGwzVro5wawum+MEpIAOLeT2KFtzP+zlysND+z+gtEJ5qK8UGp5g2zng==;RacaIUyx9xGyxOIhcbbZow=="
 ---

@@ -286,6 +286,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 21
+  - title: "Nvidia lets any enterprise access an AI supercomputer"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "wu8xvcFUuhCtvP9qDMmyFwtgL3yA79KN0ysW/g3QItFrf6gRCabfeM49AamSgqt62K/m39ZO7vpF/J0ZXbZyFl5jJABaRMzBdBmQw4ckGyTvK8Mt8iU1OPtHIqgHKQLFVxhQFqPPWCHQ4FNc5TAZ4nm2HXzq5ioE8VFSNEEs7YHwleSzwhIRY1pl/iZQQxQzYuYQXthmA6iEv6cYm7/UHYnGOPmyA54UwvORX730CWZUor5YLi+tixXamvv1tLxj69s08J7AGt1ICqvLbw36t8sgH5hGBVsIO2OGZoiBBMJhf/W2ZJrdpLqERIB8Nrz21VubywuWsvctH2NFkfj7CbD7mfQFp7NRERlDA/s5w2BthHyU5ZaV5Bxs/87JkHmVGDTwZBJCdkfMKSiKwkM4PDAhKYai8dkFpdbWCWamD5uJVspz6TXAZFgsgkwFm/k9N6WJV1GUQm8rCV7ZxcxSd9oOYgBks25vSs4xpm+dnOeNeqETQg24EHGc6bpjPMY/E7QN+mTgTBaylKKgX0vlhA==;FiLq3bHkZRoAbynnDPjAPA=="
 ---

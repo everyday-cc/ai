@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Oil and Gas Market 2023 with 114 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-22T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bUSaYZe+C0Nvn5UVqDfgCyqExSktOSJ3NMUqZTGfu6icgG89203EPyA3hY1DZ8vcWipCvv4RlZNpPEtwhTkIegQK2CLv/r6Zl/LABDOPzv7hrmx6i2MwEgZsp09JV/JnR003U2XLT8+ITcFvQlI2Yt6+x4xizP4ncJToZjErTyBSHf1R//g7eyZ7/6V9GTlWdeFh9vITN71LaieOAzFLWwvWpt7y6/99p6aNmaRTyK2iDVqd8zMel5PvNlqzeIZq/jXr+/ahOSfV+gfnkzLsh5WPuIXB0uQMTkPWCq+upRUpLOuOJDr4uJvo7qPloyEahbNgFIZzy2kf7fos1It7ZArlW52IXMNJEuHl/wGWhJs=;fYvBeV1Mmm1TrsLbzD1sPg=="
 ---
