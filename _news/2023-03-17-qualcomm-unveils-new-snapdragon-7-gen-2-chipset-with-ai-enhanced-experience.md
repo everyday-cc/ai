@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm announces Snapdragon 7+ Gen 2: 50% faster CPU, 2x GPU"
-    excerpt: "Taking care of the graphics is an unnamed Adreno GPU, which as per Qualcomm ... Snapdragon 7+ Gen 2’s Qualcomm AI engine promises to offer twice the AI performance of its predecessor, with 40 percent performance per Watt gains. There is also AI Super ..."
-    publishedDateTime: 2023-03-17T10:56:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/articleshow/98732729.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/amp_articleshow/98732729.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/qualcomm-announces-snapdragon-7-gen-2-50-faster-cpu-2x-gpu/amp_articleshow/98732729.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98732671,width-1070,height-580,imgsize-201234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
-        isCached: true
   - title: "Qualcomm unveils more powerful Snapdragon chip for mid-range smartphones"
     excerpt: "The chip’s new Adreno GPU packs twice the performance of the previous graphics unit, which is good news for mobile gamers. The Snapdragon 7+ Gen 2 boasts 13% improved power efficiency for longer-lasting battery life. In terms of AI capability ..."
     publishedDateTime: 2023-03-17T11:44:00Z

@@ -19,29 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk questions Microsoft cutting its AI ethics team after doing the same at Twitter"
-    excerpt: "After Microsoft laid off its AI ethics team, Elon Musk tweeted about it. However, he didn't mention that he did the same to Twitter's AI ethics team too. Credit: STR/NurPhoto via Getty Images Artificial intelligence is having a big moment right now in the ..."
-    publishedDateTime: 2023-03-17T09:05:00Z
-    webUrl: "https://mashable.com/article/elon-musk-ai-ethics-safety-microsoft-twitter-layoffs"
+  - title: "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser"
+    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ..."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 92
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/03rEPLuRYTk95zyZUp24ARf/hero-image.fill.size_1200x675.v1679002828.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 647
         isCached: true
-  - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
-    excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
-    publishedDateTime: 2023-03-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/noahbarsky/2023/03/20/microsoft-ai-move-is-exactly-what-mba-students-need-employers-want-and-slumping-b-schools-dread/"
+  - title: "DDN Takes The Next Step To Simplify AI Supercomputing Adoption"
+    excerpt: "DDN Announces Compatibility with NVIDIA DGX H100 Systems and New Partnership with Lambda to Address the Needs of Enterprises Seeking to Accelerate A"
+    publishedDateTime: 2023-03-21T19:04:00Z
+    webUrl: "https://menafn.com/1105830719/DDN-Takes-The-Next-Step-To-Simplify-AI-Supercomputing-Adoption"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "AH+dAA8A7AAHPPCkIu0fS6EW6y/vrvziefTQIVTzQZxK42TS9syZb0Y0tNgBQ8S7h2fmdgl+wguGJ2KCZXJ3DdE6bflbd1JLzTwiXNQntCT+k+45D8dyc5kpd8FXtCYNKZqXH6+Efi8/oSTQ5NVwoQhNP/hRkZSX3i0G4h53mH4pzHslboK9boAOYFNN/QvfF2IPEtXn4MXxajVZfYphpbHkVM95HMivMVEjRDziAh7dm+aQ4jjbVKKBv02y9wuxyNOJ/iLlp4hM736fSCBRTUfg4N7DjRA3R11CV7PpeCrKxWI0dUDw5l5GREmrHALtqiL1xlF3fZBC64OOBPHHvOSHGrygYjYsCeUpJCc8jv7M9pwTc1iKPNCFzHf8P1t/C0Ngavx6JuQSIHrLCx65lTBHqpbocvtpFQW6jp43s+lAP0J9kqSiGzOuw50tKN40AuyRU9PYi7VH4fgBc5tHhdBiE7JWLwk1aJWepqyLcn3dMv1plk+kuhJ4bAcIFLfOXwLoOHBRl5fX9rMsOe5QCg==;fCXMxCM0Tah+p6zSfBcytQ=="
 ---

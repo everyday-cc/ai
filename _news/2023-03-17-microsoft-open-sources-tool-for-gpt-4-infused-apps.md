@@ -323,20 +323,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft pimps Office with AI"
-    excerpt: "“Today we are at the start of a new era of computing and another step on this journey,” Nadella said. “You can say that we’ve been using AI on autopilot and now moving from autopilot to copilot,” he added. Microsoft pointed out that while its AI ..."
-    publishedDateTime: 2023-03-17T10:16:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56546-microsoft-pimps-office-with-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4bf657d3d4c3bd5f6177382bcc993a64_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Microsoft unveils AI office copilot in fast-moving race with Google"
     excerpt: "The technology company previewed a new AI \"copilot\" for Microsoft 365, its product suite that includes Word, Excel, PowerPoint and Outlook. Microsoft Corp on Thursday trumpeted its latest plans to put artificial intelligence into the hands of more users,"
     publishedDateTime: 2023-03-17T15:59:00Z
@@ -376,6 +362,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
+  - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
+    excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
+    publishedDateTime: 2023-03-21T21:34:00Z
+    webUrl: "https://www.macrumors.com/2023/03/21/bing-ai-image-creation-microsoft/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 53
+    images:
+      - url: "https://images.macrumors.com/t/qhsiw54VkHcJa_hg5TJewpV8k1M=/2560x/article-new/2023/03/bing-image-creator-experience.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
     excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."
     publishedDateTime: 2023-03-20T13:01:00Z

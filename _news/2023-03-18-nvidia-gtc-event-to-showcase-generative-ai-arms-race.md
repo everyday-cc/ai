@@ -55,7 +55,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-Isaac-Robotics-Platform.jpg"
         width: 1600
@@ -242,6 +242,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Nvidia GTC puts focus on generative AI"
+    excerpt: "Nvidia is showcasing its latest technologies and breakthroughs in a variety of areas, including AI and the metaverse, particularly generative AI, at its ongoing GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T01:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230321PD217/generative-ai-inference-platform-large-language-model-nvidia-paas-platform-as-a-service.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230321pd217_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "NVIDIA GTC 2023 Keynote: AI Everywhere, All At Once"
     excerpt: "This year, Huang discussed how NVIDIA and its partners are seeking to overcome a breadth of challenges with AI technology. NVIDIA H100 NVL With NVLink Huang announced a new GPU, the H100 NVL with dual-GPU NVLink. This new GPU is based on NVIDIA's Hopper ..."

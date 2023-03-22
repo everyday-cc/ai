@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
+    excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
+    publishedDateTime: 2023-03-20T03:58:00Z
+    webUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/"
+    ampWebUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 24
   - title: "Using embedded fintech to grow your credit union’s membership and deposits"
     excerpt: "In a world where acquiring members and retaining them is critical but hard to accomplish, using an embedded fintech approach can provide credit unions"
     publishedDateTime: 2023-03-20T07:30:00Z

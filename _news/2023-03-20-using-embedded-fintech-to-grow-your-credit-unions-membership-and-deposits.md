@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/using-embedded-fintech-to-grow-your-cred
 webUrl: "https://www.cuinsight.com/using-embedded-fintech-to-grow-your-credit-unions-membership-and-deposits/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
+    excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
+    publishedDateTime: 2023-03-20T03:58:00Z
+    webUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/"
+    ampWebUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 24
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z

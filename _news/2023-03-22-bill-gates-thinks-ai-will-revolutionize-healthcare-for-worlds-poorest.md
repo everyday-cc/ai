@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
+    excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
+    publishedDateTime: 2023-03-21T20:01:00Z
+    webUrl: "https://www.aol.com/finance/bill-gates-ai-does-everything-170040707.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/z5GxlTQ.j13xh3bf8moBIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e6fd16625aa654f2e45a8d5f40c6f49"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "RTiKQbPnlO2OkjHrLxQZjzLeF24tZ+meSAE5JBR0hzj7yN9Mh+Vd+e+xgk1OhnVHwsScewxTyQToUMddM6T8eqLUlF0iZAG2gqtpS+ijU8RKsYjbVc7Xc7WhTX9GWz6xp4II+pQiENN25QeDajP8sT+lFTEnVQ6ouOK+4yzfU+5t/Rsh/FP19tViT6/YqcdQOWi0qI3VejUhJxNibfuKz9Wxj9qYB7nPwpGNF3HbUTCW/OEiLVv8UKzMzSxXZtF5EVEdmy2cBsU2w5Luh2N0BEq5GHxbK9zoI+/PWRJNM+AOQqKdVjRuihom5FPPkbguYD67DLCK6zUzn28lkbC7sbplO4sSofvC+scvPM7eZINNrz3p8v72qcPkdqeVdYGdJpqqEqpY7huIVnhCNHoAYtsQlScAiWNrfz1BDKZPeHh+lz0lc8J5JH/1HH42haWsjNI8ZJ0s83tt7FuLr+M+cy9sCmsTV/6N9Hjo7yGwTVMQ7Ak7kYVhpllwYsxWeUPRxc1gwGww7ze2J/YMcnSiqA==;0BgeV8GYFADPuw+9YmsKGA=="

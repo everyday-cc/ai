@@ -60,6 +60,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Study highlights complicated relationship between AI and law enforcement"
+    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
+    publishedDateTime: 2023-03-22T02:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
   - title: "Don’t overlook independence in Responsible AI"
     excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"
     publishedDateTime: 2023-03-17T13:00:00Z

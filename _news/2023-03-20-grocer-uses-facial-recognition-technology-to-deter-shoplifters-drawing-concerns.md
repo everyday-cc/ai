@@ -3,23 +3,22 @@ category: news
 title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
 excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
 publishedDateTime: 2023-03-20T13:24:00Z
-originalUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+originalUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -89,20 +88,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon sued for installing facial recognition ID"
-    excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
-    publishedDateTime: 2023-03-17T09:46:00Z
-    webUrl: "https://www.fudzilla.com/news/56544-amazon-sued-for-installing-facial-recognition-id"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/ee019b5f98d7cef91d2bfeeeb8abc00c_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Amazon Sued Over Facial Recognition Technology"
     excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"
@@ -190,6 +175,6 @@ related:
       domain: abc7chicago.com
     quality: 16
 
-secured: "kSeSHLDvb5Hs6QR6x1pYsa5Cd6EJNq9XGsbs1cqekp5SKh/o/tyaKGUDOG/yscfl1KIA2tojW57ishUs51E32OJAjWlIhaqUY3CunKWeNEaCmBR+1vw0m5ww0Ju02txDax4DADSAITOM3qet6dX/CYx5WDehcc1h3r0q2U1ZDKyCwNIDy+qzVjx6nb6rxTYhFZ+y0WkbMZ77gpwkNXccDI33VlxYD7RshUExChGyoB5+iv56hqJMrzArh1BgohUy76huLjY1vphIp/qFlL2Em8mskcOjBxJr2zlhNCd3tf10uTM5oo6aMpxBwcYv3QTAmJtil7kPbNg49GRDwYat22iA52d8n5WVezocPXd2RKxzTavo4WduoejBHQlgqkf8O+g6aWhWQAumGXFaimhO1dw4BcmMwPh9T3OiHIW97kPJIsVlDPXl34arVIY36VnokvRkkfQQeXRcZcXgv+CUkXtldQA+MWpY3jjYX2ZIsJX/F9oHasuhWP6GWvn3Uf6eRzHmlX9oCAK0SDat8j+moA==;meWMo+ysz0zQQZFnmGqzFw=="
+secured: "iCIbY6P92HXU/U1Ks+vdZzyIRVyhK0UuOulQgWC3ChjCjVWDwRu5UHWMSAn0xxUTSwmvzNtR9oEagguz3Fe+T6NmLMOYk0UmWf0tx+0j+KYuQuk7KBkI2DwI9qLqq8IfPw9dGZqTxKW86OhlPPIIN8FbMEJQj1faotXihVP2aAoWK+lWuBZZitkAx+wcNDal5zrSZqwpFeUyXDehh0FOpgqeXtXbzLwKAOJ3oyOhjmKKtanaPhBmybn7YSnCWBsnngSYtS83MVLI8LK8u48m9YstLyfiBhB043fTdDIuCLfed5YlPNf+6sgQBDQ74iL7tSihoY7/A2Q27U1Hhyn7nrHEj6ANkayF89n9EXYQ9nI=;ofIxxicQszv8egibslf67w=="
 ---
 

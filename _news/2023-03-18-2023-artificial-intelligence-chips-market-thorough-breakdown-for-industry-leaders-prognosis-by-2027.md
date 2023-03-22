@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
+    excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
+    publishedDateTime: 2023-03-20T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
     publishedDateTime: 2023-03-18T05:39:00Z

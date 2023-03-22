@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Explainer: What is Generative AI, the technology behind OpenAI's ChatGPT?"
-    excerpt: "Generative artificial intelligence has become a buzzword this year, capturing the public's fancy and sparking a rush among Microsoft and Alphabet to launch products with technology they believe will change the nature of work."
-    publishedDateTime: 2023-03-17T10:32:00Z
-    webUrl: "https://www.reuters.com/technology/what-is-generative-ai-technology-behind-openais-chatgpt-2023-03-17/"
+  - title: "I was wooed by ChatGPT: New AI Romeos are ‘scary’"
+    excerpt: "The AI tool, currently in public beta mode, costs $15 to access, though that price tag is expected to increase once the product is fully launched. A since-deleted Reddit post had readers debating the ethics of men using an AI doppelgänger to score dates."
+    publishedDateTime: 2023-03-20T22:38:00Z
+    webUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/"
+    ampWebUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/X-8Rs26IvQ5F9SF-wMk4biJxs40=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FWJEJRQLOBO5RJW3UGCZZB3DTA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
-    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
-    publishedDateTime: 2023-03-20T10:43:00Z
-    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
-        width: 2842
-        height: 1372
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008538607-1.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "+cd1M4EY/T3J9gHju80YruhFeHLAzt0hGlIJQ/Jcdd8ziZlZgecWFcVHkqM2Nt3CR71vSPgY6dKbO5hUt0+Y5aDChmsrI2nx/A5g7BaVGa88xSCVWA/P8+YcVrLWnCyKeO/0bDMNzem30I6BYrBLqSQb2QnhPzhNi4wSXJOCJuJl7YOSi/oNFlRcpdFyA0/qWcDXm/yvk5d359o4FpzDf+hafY/0uvJjKZMHiq1DvWxeckQiXpNteCjJdoiZWrsvCSvOaKiCirsKm+rgIsCNeoOq3fB3EudG0Vh/A1wWhQg4NMkJ35QCTah+t+DzFNnZdTmPI4aah9XPs9DCrf/QmvZaTEw/zpRw3v3RpOhAia/rISI/3l/ThcNkUN48bTh7LqkIL8uCfZkL+ku3g99BJHeXoVCgTvZc+dN9SLpWhe3Jww37rRzDjRW7Rjq6c3nxhuEBBMLCIffl7anK2sHLJIshdmGeT3beyiazQBPnGokaK6ZnjEAPisHmXV9sK2EFwMjL3E0M6l04545Vw+ckxA==;I1e2tvVMSbzNGgXQ8YTDBw=="

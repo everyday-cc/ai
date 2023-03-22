@@ -84,6 +84,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
+    excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
+    publishedDateTime: 2023-03-21T20:01:00Z
+    webUrl: "https://www.aol.com/finance/bill-gates-ai-does-everything-170040707.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/z5GxlTQ.j13xh3bf8moBIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e6fd16625aa654f2e45a8d5f40c6f49"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "s0QkhIOfLUDNzOqzp/K8mgmTnKZgwF7HWuQ2ACT8t5WnTeArEMSLUUQIA25PVYIbvGH0V4PaKxclUTGqNIBa7qELzY2e79sxincLNCeAniJ4yfYxcwJRiLVsEr79SvmZa+m0Gv8z36CZzybS94Grw7KOAOPVhBDgAo11c6tXqWxbvMqIHFWlWqjcudrePkwc0LL3GiRLyH1u2HOZHa1tSvHex4RGi91Iev60zmyD14Z8YFQNnkgSl5JqezSmaQYpyP/cSddZsZ0C5/nOoUNKTHvgoNNGNYKjQD3TKcYQVitY3xkcmmURpDAHGqDRGWEyRNqTmBeWTMKfTEfo8xmE2I01ScJ5GhqNbsGh/jvCBFA=;x1OfnW3j4b7jl6bVVlbQJg=="
 ---

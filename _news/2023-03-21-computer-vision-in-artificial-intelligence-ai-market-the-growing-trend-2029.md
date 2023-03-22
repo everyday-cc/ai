@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20"
 type: article
 quality: 95
-heat: 325
+heat: 335
 published: true
 
 provider:
@@ -229,6 +229,20 @@ related:
     excerpt: "Mar 18, 2023 (The Expresswire) -- Report Highlights with 121 pages:-\"The global Artificial Intelligence-Emotion Recognition market size was valued at USD 875.88 million in 2022 and is expected to expand at a CAGR of 18.15% during the forecast period ..."
     publishedDateTime: 2023-03-18T16:19:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-growth-2023-2028-with-new-insights-2023-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
+    excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
+    publishedDateTime: 2023-03-20T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2029-2023-03-20"
     type: article
     provider:
       name: MarketWatch

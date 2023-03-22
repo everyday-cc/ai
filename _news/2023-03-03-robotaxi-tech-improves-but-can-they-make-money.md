@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Robotaxi tech improves but can they make money?"
-excerpt: "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ..."
-publishedDateTime: 2023-03-03T08:09:00Z
-originalUrl: "https://www.bbc.com/news/business-64742934"
-webUrl: "https://www.bbc.com/news/business-64742934"
-ampWebUrl: "https://www.bbc.com/news/business-64742934.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp"
+excerpt: "Driverless robotaxi services open to the ... on their own in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar systems."
+publishedDateTime: 2023-03-03T03:47:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-64742934"
+webUrl: "https://www.bbc.co.uk/news/business-64742934"
+ampWebUrl: "https://www.bbc.co.uk/news/business-64742934"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Autos
@@ -27,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "NhgaACgp6ZU78le+m7ZEj6GuDtokWXN6aKutxEv19tkbBphKLYwhQIWmykRxtAo9Bl12p6tm9rdWRwOzZTtUzetYoRHQooxtthCDfKzYJF+T3BoqaHHp8gbRtAbuaBVg48xPfzSSVlPMvYRHjqo0qpkHC2AqGEI2SMr5bZc4gBllcZ2RvtRt+E04E9oDJ9sAxs64KmN47NhaXRYpxWp2U12crIdZZl7EhlVdeEHK/NTdNT/xtzQ5VayqBlaXIOTS48Rk5/uDvnpK51W3tUUjSjZTFg/+qMhtzqCSfaJJX523xq2rRVxWhOzGlyXxAGwVd6whCUKB5b8cGrW+so37HnqDwonokid5+0EKon0r9nY=;di32cUWihqryGmO5ZLSqwA=="
+secured: "6ZtkQSa66hg93T1BhDR1kigvqKFtZkjJE8vAc8QoVWOunf+0cdAuyXN/noIVTBSeSF4PTZVzyqwM9kuf5lQ3VhJam3qswHEdamNM69NYlcq+vOlFfQ/VxPND3HQV/qa/eM5RBWRV8VXp25BDJqXPIQvbSv2duJ03rhBZY4rNoLux0TgPlrBtlXO3N0trZY8PrmfFnmFp9aC8xu8axc8PqqK7J0NpmIIliwEQ1aGUTpFxCUdL2E7EE2zd+jk9fg+2ZshMyyZ34E6z6/ohJe15jtKl1Zv8NLPFgiCGgoXEH1fSL3Sud6njc6KiqGd1jGqRvDMi2RwrM7R6zqThOmYSDyeC8ovBgS9z1SJrrfrnKuo=;WSigeJ0n8SEa0rfJuY0LRg=="
 ---
 

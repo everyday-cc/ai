@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
+    excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
+    publishedDateTime: 2023-03-21T19:27:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58614936-nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
   - title: "DDN Takes The Next Step To Simplify AI Supercomputing Adoption"
     excerpt: "DDN Announces Compatibility with NVIDIA DGX H100 Systems and New Partnership with Lambda to Address the Needs of Enterprises Seeking to Accelerate A"
     publishedDateTime: 2023-03-21T19:04:00Z

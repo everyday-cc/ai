@@ -43,6 +43,20 @@ related:
         width: 951
         height: 577
         isCached: true
+  - title: "Nvidia brings on new advances in robotics and computer vision AI"
+    excerpt: "Nvidia Corp. is expanding its tools for robotics and the artificial intelligence that power them through improvements to the platforms that developers and engineers use to train and deploy autonomous machines in factories, offices and cities. “The world ..."
+    publishedDateTime: 2023-03-21T16:22:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/nvidia-brings-new-advances-robotics-computer-vision-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 90
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-Isaac-Robotics-Platform.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia GTC event to showcase generative AI ‘arms race’"
     excerpt: "Read: Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore Read ... long semiconductor shortage triggered by the COVID-19 pandemic flipped to a chip glut in mid-2022, some analysts expect growth in that important data-center ..."
     publishedDateTime: 2023-03-17T21:42:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://images.mktw.net/im-608401/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Nvidia brings on new advances in robotics and computer vision AI"
-    excerpt: "Nvidia Corp. is expanding its tools for robotics and the artificial intelligence that power them through improvements to the platforms that developers and engineers use to train and deploy autonomous machines in factories, offices and cities. “The world ..."
-    publishedDateTime: 2023-03-21T16:22:00Z
-    webUrl: "https://siliconangle.com/2023/03/21/nvidia-brings-new-advances-robotics-computer-vision-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 88
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-Isaac-Robotics-Platform.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "As Nvidia pushes to democratize AI, here’s everything it announced at GTC 2023"
     excerpt: "This includes Nvidia L4 for producing AI video; Nvidia L40 for 2D/3D image generation; Nvidia H100 NVL for deploying large language models; and Nvidia Grace Hopper — which connects the Grace CPU and Hopper GPU over a high-speed 900GB/sec coherent chip-to ..."
@@ -238,6 +238,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Nvidia GTC puts focus on generative AI"
+    excerpt: "Nvidia is showcasing its latest technologies and breakthroughs in a variety of areas, including AI and the metaverse, particularly generative AI, at its ongoing GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T01:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230321PD217/generative-ai-inference-platform-large-language-model-nvidia-paas-platform-as-a-service.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230321pd217_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "NVIDIA GTC 2023 Keynote: AI Everywhere, All At Once"
     excerpt: "This year, Huang discussed how NVIDIA and its partners are seeking to overcome a breadth of challenges with AI technology. NVIDIA H100 NVL With NVLink Huang announced a new GPU, the H100 NVL with dual-GPU NVLink. This new GPU is based on NVIDIA's Hopper ..."

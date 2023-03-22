@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://abc7news.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 56
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Use of facial recognition technology at supermarkets raises questions"
     excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
     publishedDateTime: 2023-03-18T04:51:00Z
@@ -89,19 +73,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon sued for installing facial recognition ID"
-    excerpt: "Amazon \"forgot\" to tell its New York City customers that they were being monitored by facial recognition technology, a lawsuit claims. Lawyers for Alfredo Perez said that the company failed to tell visitors to Amazon Go convenience stores that the ..."
-    publishedDateTime: 2023-03-17T09:46:00Z
-    webUrl: "https://www.fudzilla.com/news/56544-amazon-sued-for-installing-facial-recognition-id"
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
+    publishedDateTime: 2023-03-20T13:24:00Z
+    webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: 6abc News
+      domain: 6abc.com
+    quality: 54
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/ee019b5f98d7cef91d2bfeeeb8abc00c_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Amazon Sued Over Facial Recognition Technology"
     excerpt: "The role of Amazon in the downfall of traditional brick-and-mortar retail has been well-documented, but the e-commerce titan still sees a role for in-person shopping — particularly for food. The company acquired natural foods chain Whole Foods for nearly $14 billion in 2017,"

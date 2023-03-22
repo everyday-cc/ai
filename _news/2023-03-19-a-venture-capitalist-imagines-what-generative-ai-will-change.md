@@ -44,6 +44,22 @@ related:
         width: 760
         height: 388
         isCached: true
+  - title: "Google Lets People Start Trying Bard, Its Own AI Chatbot"
+    excerpt: "The search giant is rolling out access to the AI chatbot starting in the US and UK. Google on Tuesday said its opening up access to Bard, the search giant's own AI-powered chatbot to rival services released by Microsoft and OpenAI."
+    publishedDateTime: 2023-03-21T14:38:00Z
+    webUrl: "https://www.cnet.com/tech/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-lets-people-start-trying-bard-its-own-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a0a8caca9b0abae681e5e9c5ab62da450b8e1f37/hub/2019/03/21/575b30e7-e727-4026-a352-c7cd21c4ced2/gdc-2019-google-cloud-gaming-video-games-0065.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
     excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."
     publishedDateTime: 2023-03-21T14:55:00Z

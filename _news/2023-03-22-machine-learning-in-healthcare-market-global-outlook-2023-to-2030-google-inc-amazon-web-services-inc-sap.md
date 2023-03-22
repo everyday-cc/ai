@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "2023-2028 Neural Network Market Insights and Demand Outlook"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ..."
+    publishedDateTime: 2023-03-22T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5jV02l7n9HJvG7qgv39K/31WKZuyfo7SQHGuPE1X6vFePzJmtU03k4rWQuEH2Ojlqjr/YuyJ9a9EFhTkRMZXqSCtQvyKnhQ7M8ajJLATGVzxubHXHmHB0WovfnHDl5LKabFr5HLc2s/xFEhJS0moBqRV8kE4a9VYvKV0Q0efvoys9Fi7gjOHMBV7GuOMbt7bkaxqlwMrbec9stxzMrvyvA/dmUuQcn3dCRXc31/I8nU9md1YhVGXCmKSAkfGqDUsHqLKtN79brs2k7k0Drk5Pi/Pf8TSQcGitTJCxFyVSSgUnmM5Hf9mj85zj/7uxfkjSaI+II3KwLpp4LC9QRuAs6pB0U5+o5pT00upHKiee20=;B+vOCqWY+1iALruJH0oDHg=="
 ---

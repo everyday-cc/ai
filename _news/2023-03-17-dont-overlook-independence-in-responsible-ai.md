@@ -74,6 +74,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Study highlights complicated relationship between AI and law enforcement"
+    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
+    publishedDateTime: 2023-03-22T02:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
   - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
     excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
     publishedDateTime: 2023-03-21T19:34:00Z

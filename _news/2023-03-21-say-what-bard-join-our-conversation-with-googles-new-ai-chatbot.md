@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Roblox launches its first generative AI game creation tools"
+    excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
+    publishedDateTime: 2023-03-22T03:57:00Z
+    webUrl: "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    ampWebUrl: "https://www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
     excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
     publishedDateTime: 2023-03-21T11:46:00Z

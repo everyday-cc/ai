@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
+    excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
+    publishedDateTime: 2023-03-21T19:27:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58614936-nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
 
 secured: "eeQ6pGMMupC2rEhaV1hqMoiAZEiailJBviyz6v8OtFFaVecMp7MDj7oTu4XabUQZ9V6HK+LImDDXMp1H7ARlhQhzu9kxpvjJHir9/da5TXKN2bCWre16Zsy0aw9YnHD7nE0msJsARNXacKJ92zvuGY0J/UJk8RxdPYVObtMKbdScEle2cOEuwl7hdJfY94uL3gxWdE0uT7K1OpHHRyPx41ylWQDvTApkoME2fTXKC/Y2TzLXfGM5zbwTLkfuFS6bkiHPXMm1ZY7HEA8RkK0MJQMHcHqOVhaiFEzVQZErzbVA3XxbV6i4XadgWJhkJJ/VHXLN8ZFx84klrLSQCUvui3rQm3FSoGnosWde8jA02tE=;9Kec1ehE2glstvVodUYYCw=="
 ---

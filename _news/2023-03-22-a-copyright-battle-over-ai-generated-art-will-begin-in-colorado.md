@@ -2,26 +2,26 @@
 category: news
 title: "A copyright battle over AI-generated art will begin in Colorado"
 excerpt: "When Jason Allen won the digital-art competition at the Colorado State Fair last year, he sprayed fuel on a debate about the role of artificial intelligence in the art world. Now the Pueblo-based game designer,"
-publishedDateTime: 2023-03-22T01:46:00Z
-originalUrl: "https://www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
-webUrl: "https://www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
-ampWebUrl: "https://www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
-cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+publishedDateTime: 2023-03-22T02:17:00Z
+originalUrl: "https://www.ocregister.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
+webUrl: "https://www.ocregister.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
+ampWebUrl: "https://www.ocregister.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TwinCities.com
-  domain: twincities.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.twincities.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064-1.jpg?w=1024&h=700"
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064-1.jpg?w=1024&h=700"
     width: 1024
     height: 700
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 700
         isCached: true
 
-secured: "z+uBukidp8tKhI/0tQ02ZJFnoChzoIQgXJtm52mYbKOEB4g4u6Z6eFbakgKFY7Z8UqWuY01k1Mc0alajpZzQnLx2hN9R+xes9MnZzfXxqVlimL8JyY8S1az2TC5hgJwdJ4mEqDxCQjIjCV5dboo6mReFkopODpxyVFT4Dn7p+KFs/iDhOdH4BSZFVTBTmFrkAI5l5HQtGqgDBA+ygiz6F8cFv/5gnVP5QHE0Tfk2j2/2hSYh7YEjNMWQ17oZxlsH8GArRmjqtjIoRS2O6/CWgzgTei/QWGIWhHQYC8Ox8YeHs49yIpM1UsvneK5DBMTywsagnydye3QWHs79u77dSWca45HUPcn6SX/gBAwHVeQ=;wIntwixh3ZVTRUtnHg/9Mw=="
+secured: "iY4ftLSYOKOWxPEzlDg6Sv4kEls+PJNwmiI9SxYpORggxYi6wehPNHzHrmed8kJV8RL8SjvyHn86tMgLR736eegWqFFgad9KQ/OcWU3EnmsXl3vtYEpO2gt9u1r+XdJHEgopSFogHJnoB5tjfEI8mG2gDlBIJ/9NwqTCbd15WQ0nLfa+KJL5dyPxwTo2cILWcx7n2tjwdWEMnfPHW1T1DK4Ln71EP1BdsEbh2Fc2U+Wo80JZ4Fs7RTbkovv+nMGEZyWwFs3Kq1C4yrtosR9TFV8t8fTJqjl9IzJH8EWBd+RS74T2cPanZKIxL2vShS+GwPH0vySsQAA3Fc3TcAkEm7pPEZXmlQWHwXefB4bwQPw=;6QZEspsI4sQG2DNJDIOuJQ=="
 ---
 

@@ -238,6 +238,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
+    excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
+    publishedDateTime: 2023-03-20T05:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 Artificial Intelligence Chips Market: Thorough breakdown for industry leaders Prognosis by 2027"
     excerpt: "The Salt Therapy Market sees the quick introduction of new goods and innovations. For companies who are active in the market, this offers both chances and difficulties. A dynamic and ever-changing sector of the economy, with new products and technologies ..."
     publishedDateTime: 2023-03-17T20:22:00Z

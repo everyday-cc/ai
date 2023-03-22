@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-p
 webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
 type: article
 quality: 82
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -160,20 +160,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Beijing Makes Baidu City’s First Fully Driverless Ride-Hailing Service Provider"
-    excerpt: "Beijing has granted internet giant Baidu the Chinese capital city's first license for fully driverless ride-hailing service providers. Apollo Go, Baidu Apollo's robotaxi mobile platform, will deploy 10 fully driverless vehicles in Beijing's Yizhuang Economic Development Zone,"
-    publishedDateTime: 2023-03-17T09:04:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 50
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-becomes-beijing-first-fully-driverless-ride-hailing-service-provider/38960022216389.jpg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
     excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"

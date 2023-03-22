@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Matchmaking 2.0: How AI Is Revolutionizing Online Dating"
-    excerpt: "With the rise of AI, we are beginning to see the benefits of machine learning, natural language processing and computer vision in a wide range of industries, including online dating. What The Future Holds For Online Dating With AI The use of AI in online ..."
-    publishedDateTime: 2023-03-17T10:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/17/matchmaking-20-how-ai-is-revolutionizing-online-dating/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&crop=2558,1704,x0,y0,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "AI And The Future Of Wealth Management"
     excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
     publishedDateTime: 2023-03-17T12:30:00Z
@@ -105,36 +89,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
         width: 1200
         height: 679
-        isCached: true
-  - title: "Hashtag Trending March.17 – The future of robots, TikTok spying, Apple and AI"
-    excerpt: "Could a robot be your next customer? Tik Tok is spying on Americans. And why is Apple so silent when it comes to AI? Welcome to Hashtag Trending ... Full service is expected to start as early as next year, so when your package arrives, on time and ..."
-    publishedDateTime: 2023-03-17T09:18:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-march-17-the-future-of-robots-tiktok-spying-apple-and-ai/533235?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 71
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
-        isCached: true
-  - title: "Reliable Robotics And Aswin Sarang Driving The Future Of Robotics In Dubai"
-    excerpt: "Reliable Robotics, led by Aswin Sarang, is driving robotics innovation in Dubai with autonomous systems for logistics, agriculture, and construction"
-    publishedDateTime: 2023-03-17T10:56:00Z
-    webUrl: "https://menafn.com/1105798560/Reliable-Robotics-And-Aswin-Sarang-Driving-The-Future-Of-Robotics-In-Dubai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 67
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?910711"
-        width: 375
-        height: 249
         isCached: true
   - title: "Is AI the future of Hollywood? How the hype squares with reality"
     excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."

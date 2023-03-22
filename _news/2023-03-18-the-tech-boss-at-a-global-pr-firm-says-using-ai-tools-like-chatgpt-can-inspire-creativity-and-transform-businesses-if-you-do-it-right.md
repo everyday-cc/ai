@@ -45,19 +45,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "John Oliver is wrong to worry about ChatGPT. AI can help us solve complex problems."
-    excerpt: "And not just because we both hail from the land of fish and chips, Morrissey and Monty Python ... specifically the Microsoft-financed chatbot ChatGPT. “The problem with AI right now,” Oliver said, “isn’t that it’s smart. It’s that it ..."
-    publishedDateTime: 2023-03-17T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2023/03/17/hbo-john-oliver-gets-wrong-artificial-intelligence-chatgpt/11464792002/"
+  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
+    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
+    publishedDateTime: 2023-03-20T10:43:00Z
+    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
+      name: TechNode
+      domain: technode.com
+    quality: 37
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/12/06/USAT/d5f3a6cd-84fe-4999-8ff5-416379eeae0d-john-oliver_1.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
+        width: 2842
+        height: 1372
         isCached: true
 
 secured: "YmnX6BSF1rNx7paVf1UEuuxqDHukuFWzg+d5SrWBLZV/OYowSq/FHCwnTsVCEnVEsFqd1h5r1Is/8jLbYNF3jrkcTJORAUzHKM2vb9CB0/r8Gbh/ewNwhCMP4e49durruD+K/nUOeIhEyh3AXdHVHt+aLc2g/zWv9nHda9o/NcgdfKXWpgPc0Pe20SNp4Q9l/RbaNLHe0PY4wpxpMLXCUWD056cgabwtBT6zBasV368g0RpsxA33KZvNSUb2bE33ovsSN6ek6UsZ7DFnVksHDk2zAi2G9PGnZYRrLZyxEhBOsWroafLhFM7MgNGY+1ZWrG8pOmiSjmvNgOhEw4VOM2YZEzIE2mDHD/wRz/+extrZeeg4hk4TKaNBRmGQPdFMTod3DfKgoTXIQeRrQDWekOGbx7O3ehne+S316ymalNkIClpUt0KZrvxk1ybOoIyerrlaizG0NFp5ulqE26Ut4uolsgRivJjsthlaHtWsRkGy/Po6Ui/XWOLaAgIWkPTp/hhCN3Pbmkl7LQWb1qTKeA==;Xt2OaVishpFl0eKrX8posQ=="

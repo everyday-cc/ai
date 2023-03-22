@@ -289,8 +289,8 @@ related:
     quality: 15
   - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
     excerpt: "NVIDIA today launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-21T18:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-inference-platforms-large-language-models-generative-/2023/03/21/9780846.htm"
+    publishedDateTime: 2023-03-21T20:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780846.htm"
     type: article
     provider:
       name: TMCnet
@@ -306,6 +306,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "UnvImTnlEbH5PN0fMq0u36czVRghcSAyBk6Ipfhwq79BuXTuz7p76z7tZ2RvbtdRMIzaJssBogRRk9T2BTpGER/oP4IVHX1sI6EgWd1BTyym1MVwkzdM1mD3IiM5Qk2pXVk7rU1SSLSgGS9++4dSeHBBh4RM59BaMZKNeCe49S8PTJ2BO6HnfN+87qcjdaIBnHGJmshuiIHf68ruEhO5Zm9ncCSVGUU0W1FsnnxBCBZTXlR92ZQkmTOp4yoWhiVbUuV1fJvrwwruogYB3d7/PN0QGcbX7KRwXQ5EFuYfuE7pcu7GViPbIMDPnIAGXxe7MP33vlt/Hy/aa36dAk5XQL9AdYb0Et6e3agEeAasPOE=;RcMPHoIasIGhouqyUf8rCw=="
+secured: "ZqXQWV0uqJUEcsFx5jKMUUEMZIn1/YL11fIjALe0Ub0Q0bpowrw7ryfi3yhLe8f9H2gbhCRh2mBuNizDCFKzFbl733Li/cErx6ixzhuYwQeTqC5+8Fgg35sAbOQsfJUe/OpuDtGeDlaYIaemYTGbuu7knTQxK2ZQkAE4tsVGzuxawTwmdrx6BYWth+8lNglMgro9TurffVluq3usI3xZmDia5Vc7e8R9XFg9UGf5w/H1DklvJz++8Fa7hIScVEcnHM+t/XVSnciz45kYaJGdfkRvej2rXdqiv9y9yg1MlUEbSZXbkf7TzwCZbXJEXGdfX0WSZC+Robxs9PEcWPAZl0m0V18OiGQ1lim39byZvj7mKkLRvFAapjmIMEQLjO3DTS3z5udI5MIOUn9QaHNotZ2sHC+UuFqWxywd+xqJyPmSYvtHBdFRZoqyXbyKhgKwtcKRxRiXKNKI2P8QqcAYfCkD1LPTUPJkcdzEeM7GBjWXeSSERfLeDBFKqnX4JXMnncy1PRhUhMix7fOik9TJtw==;qxXozL0Wp1Cev+daPP3Pmw=="
 ---
 
