@@ -393,6 +393,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
+    excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
+    publishedDateTime: 2023-03-22T05:39:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/484737-nvidia-unveils-new-ai-chips-coming-to-amazon-google-and-microsoft-cloud-services.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 45
   - title: "Syneos inks deal with Microsoft for AI-powered clinical trials and marketing platform"
     excerpt: "The agreement announced this week centers on an advanced analytics platform, which Syneos built on Microsoft’s Azure technology, that enables agile deployment of machine learning to support the analysis, design and execution of clinical trials and ..."
     publishedDateTime: 2023-03-21T18:14:00Z

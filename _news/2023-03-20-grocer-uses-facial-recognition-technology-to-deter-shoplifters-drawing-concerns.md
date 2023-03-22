@@ -142,6 +142,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:40:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 34
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
     publishedDateTime: 2023-03-18T14:34:00Z
@@ -165,15 +179,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T18:24:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 16
 
 secured: "iCIbY6P92HXU/U1Ks+vdZzyIRVyhK0UuOulQgWC3ChjCjVWDwRu5UHWMSAn0xxUTSwmvzNtR9oEagguz3Fe+T6NmLMOYk0UmWf0tx+0j+KYuQuk7KBkI2DwI9qLqq8IfPw9dGZqTxKW86OhlPPIIN8FbMEJQj1faotXihVP2aAoWK+lWuBZZitkAx+wcNDal5zrSZqwpFeUyXDehh0FOpgqeXtXbzLwKAOJ3oyOhjmKKtanaPhBmybn7YSnCWBsnngSYtS83MVLI8LK8u48m9YstLyfiBhB043fTdDIuCLfed5YlPNf+6sgQBDQ74iL7tSihoY7/A2Q27U1Hhyn7nrHEj6ANkayF89n9EXYQ9nI=;ofIxxicQszv8egibslf67w=="
 ---

@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu Gets Permit To Roll Out Fully Driverless Robotaxi Service In Beijing"
-    excerpt: "Chinese artificial intelligence company Baidu Inc. BIDU has received permit to provide fully driverless robotaxi services in Beijing. What Happened: With the permit, Baidu has become the first provider of fully driverless robotaxi services in the capital ..."
-    publishedDateTime: 2023-03-17T12:19:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31396225/baidu-gets-permit-to-roll-out-fully-driverless-robotaxi-service-in-beijing"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31396225"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31396225"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Baidu_Photo_by_testing_on_Shutterstock.jpeg?width=1200&height=800&fit=crop"
-        width: 902
-        height: 601
-        isCached: true
   - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
     excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
     publishedDateTime: 2023-03-18T10:50:00Z

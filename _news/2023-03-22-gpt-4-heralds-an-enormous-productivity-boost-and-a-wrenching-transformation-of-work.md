@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/calumchace/2023/03/21/gpt-4-heralds-an-eno
 ampWebUrl: "https://www.forbes.com/sites/calumchace/2023/03/21/gpt-4-heralds-an-enormous-productivity-boost-and-a-wrenching-transformation-of-work/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/21/gpt-4-heralds-an-enormous-productivity-boost-and-a-wrenching-transformation-of-work/amp/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/641a42842943fec84bbdef19/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "bxhomiKnL2wvQJK+iC2gA09cAp6MN4fxJtqxxARQTXgke59M+FIYpF+kKEwcD/3sJf/qtsrCvxiYsars83IjBFm7uO+PA+tKU2k0lugAbmrhHfVAi6wbYUHf0aOqor7eu1ERfzcXeqr6IUz8FicDeNrbTSRDGjrJ4LNjQX+rsAwhpTmB/RBpLydTRC39NC6FQtm2Rm1Dg4G71cusglh0coNcFj8g67DdmE8K3Mcr3Q8nMNIpm/aVQocNqdWBFfgNpwZeJzZ9zctmCaVI+mDO2wqRid77SlMwIe9zW++GWUImkOx+GG1FRu6V3knNl4Zaf/EdCh/8NPh75eW6sCJ7KpYxR2jmpwZdj4L9bqFN0Vw=;f07UNbDOAZnkFBBvGIBFaQ=="
+secured: "XkBEhisKU11JUB3x4jJlYHCEpx5dUcehc2r7a3rpJrRb5Nnws8E1v7fWaxRKWTGFfr6MUmUogZ0ZRL+T2HpwECmAFqEl2+2bcoG4J5jtVKsVUfVNhM0O5mN9jf0QDCi2w0hbsaZIs80zWoxV52MvmX4PXhzrDf5d5ilI+g77p9+KJ1VW+7LCrVgo4ICMuhwl7id9GsT3lJmJI43wVielCrJeoRfJLbSFEtIpoCu3HenMVv36PELj82j43AgR7T0etPuo3yFVm86fek7tPC75zghRdQGlVuF287pa3Qxq4kOSBWFvULS5R9qDdmuMlTKUrH+I8LauOlhSFvvLptHjmFkhyqPXkxbGBM6MXwOOK92VoC1ZSaUKwTICVQa5V93KlQi2aFbp5CASK/HMCT6p7Gl70uHpHxra8AR09xd0EH0TrJfaSO3xelcnMg+Cz7/C4a/V8rvzAzmtgZkoacsl2zfhE25bZTVXOmmsVe109Z32eOQBJkNs9JTWTFGp3Sjc78B2RnVo5mH+npIxzsiZVQ==;iVh6M0KbF2htNyb63zdGjQ=="
 ---
 

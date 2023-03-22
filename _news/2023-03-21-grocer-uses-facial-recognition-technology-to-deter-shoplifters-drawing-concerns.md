@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-publishedDateTime: 2023-03-20T18:24:00Z
+excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+publishedDateTime: 2023-03-21T16:40:00Z
 originalUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 16
+quality: 34
 heat: -1
 published: false
 
@@ -17,7 +17,12 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Who’s Using Facial Recognition Technology?"
@@ -175,6 +180,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "BPzp9bABCcy2UUapN+VNZa4P8z05qNfH83IDAsv4k1tNGDrFAIlYxOgWIqcPkucZwT6aLLoR4dGYmMMOW2pkK3Gs4zDO8pWHWAgISKHiJbte1JlIIHp0bStGPR6NskYv06zLceB2LIjSxD8ftFN2BN7/RLLe/Nk9nFFaw9F9t4yjFH+e+P4y1vq0AaJG7JALkgCzIDmuSH6mmhDdgKXO7FoP2ssZl+8mdQSjxLwf/7Xg1yP6wBidUVRG5N/ACoOk/633XY1neOHSWAfHfXpgXPBGBqbOvNfrdiXMOEzDxZe/uHAuvRyEWjn3qZUtX+0FdVmK0Z/7HGWCsdvv3AO1qNgDc2TUxKE5MdkoQlO8cWjqgP2xE1cbhjs3jiwxOkputIsiuFY4agr7z6sp5Vns1PzyTRuyAxSqWjVNdjXWot3DMomEDq7UVzTjJLLtLB+AjQ1teKaBJ9aPQ6Xski3MeIi4nqKBzFTZrrhcauGW02tW8vabek6gBa2CWivjJCthIcNsti0hT2hIVkpsv+3Z5w==;OtWJRPRcBA8h1w+ktgxoog=="
+secured: "1+sv2CzdUnCpTy3GKXMFsGy23rvkXL7w31tmDMHqvJb5oN/TeXmxO3jF4xCPDmjTMiBSODwhKIJWwvTNvcNTH7RxNZZKzYCZ6J5lIg0QCR1mCg5fj4KKdHcxcKspMcYbB+4SXtvrzHylWEkpiJZGf6JbloqgJk5lu6p/0WhA6rqNpenDWScvh1bL4X6gJ2qRQg43AaiipYkwT6W2pPMCMYdCJ/+dUBh7wHMulI2jGd7ZsIc7hndOJjCdQHRmxUOknxZLXI37OXUJSNPkXtTLiWjgQKNbe9SPCMZFfCNOpilkCafHpsVIgLmOpyX0LqmJmXqc4NVHfgHN4cdn3aVKjHLRtI5ao1u20Z2f8WQULmo=;HzXMwME7WeLOntirVBre5g=="
 ---
 

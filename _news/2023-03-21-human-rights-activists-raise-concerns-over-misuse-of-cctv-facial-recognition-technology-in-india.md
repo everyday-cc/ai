@@ -150,6 +150,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:40:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 34
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
     publishedDateTime: 2023-03-18T14:34:00Z
@@ -164,15 +178,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T18:24:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 16
 
 secured: "vzZEPndaAi0FXQd596hNFlHZ40WsILhrTUIkHrt9kaUYSpllrDsku5PAhA0nfFXhU+eAyDpAKkQpJUoFLzwqkm4lvxNGp27rwhmlcHx4miqP1+foBvTyfDDRJw+LrXh9mGrukHAWJkAod59osbruEScgSR8Q5PiXXv5lOli0GSX8AkW5VEiCFdRK+2c0TyXr0pl7o5xkcUXRkAyoGzB9dCWWF5Sbsstq9Gq1wZ+2X7BYXbmuiI/P237VbHthRoL8nBsImOh3BCOBZClm0SFJ2xuVtkrDAYfLi2cfsj2/A7EkpxaXVuicacRWxyvlVK45SHEPawzvrNz19yyGhVUyYAWn4Y7RRKkLaHWpKWw/gFycjZWq2h6JRjlDiftjJTcLaSAb3Pdsw4u1A2XUY2M8IppHyi/mzaEHoZ35Mawgt46ho583G52Wa8CqwkXFxQfWpbGWGiy8gHlkuP091XJylCXhb3NKTS0YPVgagTAAS5H4Ov2Ecyg89pOcsF4SYpJ1Khff1bWM806eiIIoKwehDQ==;x/7gnxWFWRgQQMbcudCeOg=="
 ---

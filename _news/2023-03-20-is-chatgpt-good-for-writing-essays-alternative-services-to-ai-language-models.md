@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
-publishedDateTime: 2023-03-20T12:45:00Z
-originalUrl: "https://www.sacbee.com/software-business/article273266260.html"
-webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
+publishedDateTime: 2023-03-20T13:45:00Z
+originalUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Natural Language Processing
@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
+    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-747723/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
     excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
     publishedDateTime: 2023-03-20T14:00:00Z
@@ -48,22 +62,6 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
@@ -126,6 +124,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "IlQ1lRa+d5+BnSJDMBaQA+G2FDJanf5WeRfq4wFndMYMo/BuP81C437H8pXno6b21hSTt/8WIsZDsr3j0k41n6wFp6If+9aJC0ZFRUw8lUibY92KA1jf/6t+CRejD/m0QY0FhyrGtzZolNdFtayIgvLgq/qh664FWQgdXBmV/6m4DJKK+DWLYzqfp/9IP6POlJvQGHRhHrq2sGF6K9YhnxPW5qO97Ga4NF9SRSzF/i7kTF4FByHIHD4cfz7eDdSxr1tV8Zo6u9Y8abnwXNYG2AlMw7y4bPT+e+mhiB4UrSWE08GbU0g8rDqrYu7is1wneO+PHOYS6aPi7kROIaWO2gVQ7GOoYxbGYA8KA4mTKLM=;5Kgluta9r2Fjxnit9oXGWg=="
+secured: "jzTHBmP1JCMgLrUD+5lUCX6fui5BD3VK7UbgcaeVnJTEREZpYzCPjf925DEjh0V/cla8TQ6NDeo/dGILB51HM7yaukpb3Z8Q0lExhaXkQOPcOqqpjMUGyjEYdnNy6gwuGEOdRJdAkjwpcA89qiQCjqc29Ip7H1EBJ16nSlcdLlwAp2zVyqYe2h0vUn1sVVO7YvWsqctuSPVqZ9O5nJMF0cy+IcQGHRuumT2yJ7G7yaDWnwxuTkxcPX6DFdyAH1qJGC7cgkfS+6XV5ogHrBI7g4ZEt1ohQbTl6ATBbTnwVa5M7g163wBfkt/urB+H9cfiK1sX/cR8ngdAw2rMeCirgSotXdlOFJvfyBJwhbWBrPE=;aZKR5+V7s3GmB9Cy8v67BQ=="
 ---
 

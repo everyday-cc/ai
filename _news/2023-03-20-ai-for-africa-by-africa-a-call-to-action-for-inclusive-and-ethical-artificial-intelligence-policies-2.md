@@ -36,22 +36,6 @@ related:
         width: 1600
         height: 914
         isCached: true
-  - title: "What Industrialising Machine Learning Means For South Africa’s Insurance Sector"
-    excerpt: "McKinsey indicates that there are a number of new technologies that are driving these and other benefits across sectors – and one of the key emerging trends creating value and positive impact is industrial Machine Learning."
-    publishedDateTime: 2023-03-17T12:27:00Z
-    webUrl: "https://techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/"
-    ampWebUrl: "https://techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/?amp=1"
-    cdnAmpWebUrl: "https://techfinancials-co-za.cdn.ampproject.org/c/s/techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/?amp=1"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 57
-    images:
-      - url: "https://techfinancials.co.za/wp-content/uploads/2021/02/pexels-gabby-k-5849552.jpg"
-        width: 640
-        height: 375
-        isCached: true
 
 secured: "AD54duJUB1Mhi4s5uUmgs0qgig96EysjKnlSg5qPYXbVlKP6tIw4yXSZGyvJxc/qeU9757hlEllcjYM8GU6DrPg+xsvKbbGce160dsuxl7Z18vb1LpN0VRyNajXyfZRXlb3dKPh8lWbVpz0NRjkwvArAIOdNZ4ALYiE5gIlhS4g10VoacN2lEb2uwideKgdCFv6bZTV9nAZgWMawlkJ8+aBNWW9N8Rt1iPkcQK+N7VkV3IlVDNPuTCmsJ+dfYXEEKhQN29CMJBSVKWEo5mOAAc/jZAGjW7i7DWsnvbx8J7mRYU+fixzdIV8DGfT0vcRv6+9E1sqsH8dBSfGlroK1aTX5j7Nhry0jhH1lRw6K5zt3rfchoQ9AnfSV5PJCxWiBS5gf6vxW2SlRyM0tUA1IjbKsZF4UhIPucMCeSBzUV0Ay1ODGOFBEbtX++vfm1QD/wzutziWuqaXdIuAwA1PMtecDQzHlceZRxQ4ESi75/mbXUCwZVGFp80R7kFAhDdZmHIRGmKBsLbHcsufGwa+bvA==;9oDYYVTOPet2xz3ZwO6H5w=="
 ---

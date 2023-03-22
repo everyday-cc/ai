@@ -9,7 +9,7 @@ ampWebUrl: "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute
 cdnAmpWebUrl: "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Industrialising Machine Learning Means For South Africa’s Insurance Sector"
-    excerpt: "McKinsey indicates that there are a number of new technologies that are driving these and other benefits across sectors – and one of the key emerging trends creating value and positive impact is industrial Machine Learning."
-    publishedDateTime: 2023-03-17T12:27:00Z
-    webUrl: "https://techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/"
-    ampWebUrl: "https://techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/?amp=1"
-    cdnAmpWebUrl: "https://techfinancials-co-za.cdn.ampproject.org/c/s/techfinancials.co.za/2023/03/17/what-industrialising-machine-learning-means-for-south-africas-insurance-sector/?amp=1"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 57
-    images:
-      - url: "https://techfinancials.co.za/wp-content/uploads/2021/02/pexels-gabby-k-5849552.jpg"
-        width: 640
-        height: 375
-        isCached: true
   - title: "AI for Africa, by Africa: a call to action for inclusive and ethical artificial intelligence policies (2)"
     excerpt: "Concerns The proliferation of AI technologies in Africa is not without its challenges, as foreign companies and governments have been known to introduce technologies that have questionable benefits for local communities."
     publishedDateTime: 2023-03-20T13:06:00Z

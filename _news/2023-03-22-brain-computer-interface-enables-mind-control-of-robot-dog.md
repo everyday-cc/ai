@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Brain-Computer Interface Enables Mind Control of Robot Dog"
-excerpt: "According to the scientists, their brain-machine interface solution is able to control and command the movement of a robotic dog with 94 percent accuracy."
-publishedDateTime: 2023-03-22T01:07:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
+excerpt: "A new peer-reviewed study published in ACS Applied Nano Materials demonstrates a new type of AI-enabled brain-machine interface (BMI) featuring noninvasive biosensor nanotechnology and augmented reality that enables humans to use thoughts to control robots with a high degree of accuracy."
+publishedDateTime: 2023-03-22T00:35:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Making mind-controlled robots a reality"
+    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow people to operate devices such as robots and machines solely through thought control."
+    publishedDateTime: 2023-03-20T15:54:00Z
+    webUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/mind-control-robots-a.jpg"
+        width: 871
+        height: 554
+        isCached: true
   - title: "Mind-control robots a reality"
     excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
     publishedDateTime: 2023-03-20T18:27:00Z
@@ -37,6 +53,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "zEix2YOnV9W0jlAWvSICvjphaYtnp85JPJ5YYFcLQJDqHyBALZ+WIULUcKQXYFbnIGSPD3F8m9eBW8As7EEf4pawk0N2CHNZ5cDeI6qPQ3qaZAnZKnUjbkyONrflj6mthNA4rsnJRpIgzIJEf6iu9wzVbJ2c275Yl5+yN4wLgdUt++KPcg0dAyySj1fJlKihdYg9Jm2m02noZ8wYJqQZfImxsv4nzQOWNlFIrKxwU93vbMPo/On9dajXKxR7YUVMr3nBCc9/WUXRpJ6Usau3AXc9pGf5d0GpZSNagMeCtCUDgcxIpqs381CMlJAWVcZXi9bYTnuzbSOKGeVxc5PNR1wRKUC4GIxIqfPrRXhWgi9MJN/9HP6D7nsgATbPMXywrd09zDN3yPnUaIoLIr/DZdwn3M2PmnY0ExsGd56++6Q6sEp4+5QzqvXIWF2h7ZZaaktL4SPcISl+EB6jr8SdrDXwB3WSBO5FwBMrkgRqDY28iOzyjTrC4o7vgSEuWY11bclMqoZr3aG4r8MVz5Gkug==;H0fLg4+xQBYIKQtStHBzbA=="
+secured: "hM0pe3lV4Afmsb2PUsQHS9bc3HUEfUxFcVY7O/m5kPio+Iq7ORbsVzTRyjDrfj9VEkZSMQKSRByjgi9jF2baHM/Pxvx/sIzUWGBJY4fCZyOvX3Lq9vouNdadl11G967R0CVMq3y101SWWkLNct3aygnWxhwXdwMecG3UH8YEJ1Qm8baC/+hIA1xi37y0rzJuAsdkclie819NJiTCxVQXHJ7MWFCvD1xBRZQB31t3beOtoVi/UZSHou8N9f26dh2Q+n+LXgfId5We1WoLVj9SqaM+MkfgVc6el/tajBk9IC+XrHSOE9Ew1sD8k1AxGeWZOw98gvlw8jKZxaQgjz5MTGiNYLViiFn+cMbSutiQNwo=;il2Ex5liA7FdCwemyOcHHg=="
 ---
 

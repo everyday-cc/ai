@@ -27,71 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-17T22:10:00Z
-    webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
+  - title: "Brain-Computer Interface Enables Mind Control of Robot Dog"
+    excerpt: "A new peer-reviewed study published in ACS Applied Nano Materials demonstrates a new type of AI-enabled brain-machine interface (BMI) featuring noninvasive biosensor nanotechnology and augmented reality that enables humans to use thoughts to control robots with a high degree of accuracy."
+    publishedDateTime: 2023-03-22T00:35:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic77155.jpg?itok=kEySPcAo"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-17T11:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
+  - title: "Mind-control robots a reality"
+    excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
+    publishedDateTime: 2023-03-20T18:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230320102104.htm"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-18T20:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895?at_medium=social&at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=BBCBristol"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "This mind-controlled robot will pour you the perfect pint"
-    excerpt: "When I say “mind reading robots” what's the first thing that comes to mind? I’m willing to bet you thought of some campy horror movie from the 80’s, but actually,"
-    publishedDateTime: 2023-03-20T20:30:00Z
-    webUrl: "https://omaha.com/news/science/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
-    excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
-    publishedDateTime: 2023-03-20T13:03:00Z
-    webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 0
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "kQgxEZ7wzoKZgl4xf+QxCpbs/WUXT7iOoBKCUe5u5S08+xvafrnKEjPzoJspRRZtgdM2mpgkUUQro8dKYV4b70BSj5z5EH7rrId7DqKmeCIGy9eWomtfse1/Yw9TLanX+5VDoZC5npNfPMLXd2mI7OqFavG4RjKa7ucu39qKNW9KgOuqzRfPLnGiqboP+J1PtGdP06pUatHcr3hejyxipoDBPfFy0zq9rQEat+8wQsZe99AW/Hm51EDg6m8pzNJm1KnKLTlb9fAzMw2LFwy76gZme/weR99H4TtaE2ssmSfj+6dEe9zGQ9yQKPF5j7MCQMxT/AwHVctolxpQszp2BsHvr9TRe97mSC/xOfr2na5gb1YSuhcDvbN4dRSu47kQ14m9Uyusp9IVi1WEZgMEPk+8ym2EgNMq9wE+a9D4MLZXKmElOi9uZTShh/qB+2VYajM866mZl9EcY1qAw8/hZGQKJD6HPojvVtGE3QXSBS/f8EiFOnq8kBbZ7IRQ2MeRBVMEfE0rkln0llP2D8h+nQ==;2/Q6fNoC9pwkb/R9Uo+sYA=="
 ---

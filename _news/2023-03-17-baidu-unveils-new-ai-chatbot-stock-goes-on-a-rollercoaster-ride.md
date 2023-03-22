@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -105,6 +105,34 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/17/0a4488c1-b704-47b1-9fb6-efb5e6460e79/thumbnail/1200x630g8/81b64df0fbbe8daf717cc5b9825c988b/gettyimages-1248446799.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI tech firms eager to join chatbot trend"
+    excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
+    publishedDateTime: 2023-03-21T00:47:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/21/WS6418eb76a31057c47ebb5863.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Google's Bard AI chatbot has now been released to the public"
+    excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
+    publishedDateTime: 2023-03-21T19:42:00Z
+    webUrl: "https://www.newscientist.com/article/2365601-googles-bard-ai-chatbot-has-now-been-released-to-the-public/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/21183855/SEI_149177734.jpg"
+        width: 1350
+        height: 900
         isCached: true
   - title: "Google is releasing its Bard AI chatbot to the public"
     excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."

@@ -35,29 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Qualcomm Unveils New Snapdragon 7+ Gen 2 Chipset With AI-Enhanced Experience"
-    excerpt: "a chipset that offers AI-enhanced experiences, high-speed 5G, and Wi-Fi connectivity. Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, according to the ..."
-    publishedDateTime: 2023-03-17T12:32:00Z
-    webUrl: "https://menafn.com/1105803077/Qualcomm-Unveils-New-Snapdragon-7-Gen-2-Chipset-With-AI-Enhanced-Experience"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?149420"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Qualcomm unveils more powerful Snapdragon chip for mid-range smartphones"
-    excerpt: "The chip’s new Adreno GPU packs twice the performance of the previous graphics unit, which is good news for mobile gamers. The Snapdragon 7+ Gen 2 boasts 13% improved power efficiency for longer-lasting battery life. In terms of AI capability ..."
-    publishedDateTime: 2023-03-17T11:44:00Z
-    webUrl: "https://mybroadband.co.za/news/smartphones/484301-qualcomm-unveils-more-powerful-snapdragon-chip-for-mid-range-smartphones.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 18
   - title: "Qualcomm Unveils Game-Changing Snapdragon 7-Series Mobile Platform to Bring Latest Premium Experiences to More Consumers"
     excerpt: "Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, AI-enhanced experiences and high-speed 5G and ..."
     publishedDateTime: 2023-03-17T14:42:00Z

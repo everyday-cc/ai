@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand"
+    publishedDateTime: 2023-03-20T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-industry-report-2027-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PGI to help make cutting edge AI-based healthcare tools"
     excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
     publishedDateTime: 2023-03-20T01:54:00Z
@@ -52,20 +66,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 51
-  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
-    publishedDateTime: 2023-03-20T10:06:00Z
-    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?827085"
-        width: 445
-        height: 250
-        isCached: true
   - title: "Adobe Offers More Responsible Generative AI"
     excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
     publishedDateTime: 2023-03-21T14:27:00Z

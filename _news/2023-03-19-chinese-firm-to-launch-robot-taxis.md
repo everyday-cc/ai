@@ -30,8 +30,8 @@ images:
 related:
   - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
     excerpt: "This has made it difficult for Chinese companies to buy chips including Nvidia's A100 and its successor H100, considered the gold standard for large-scale AI training systems. \"There is a real question whether a domestic supply can be generated in the ..."
-    publishedDateTime: 2023-03-22T03:48:00Z
-    webUrl: "https://www.bangkokpost.com/world/2533696/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race"
+    publishedDateTime: 2023-03-22T05:57:00Z
+    webUrl: "https://www.bangkokpost.com/tech/2533696/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race"
     type: article
     provider:
       name: Bangkok Post

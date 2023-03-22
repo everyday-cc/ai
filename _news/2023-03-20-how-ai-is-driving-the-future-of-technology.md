@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI And The Future Of Wealth Management"
-    excerpt: "of business and technology professionals at wealth management firms anticipate increasing spending on emerging technologies over the next 12 months."
-    publishedDateTime: 2023-03-17T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/"
-    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/03/17/ai-and-the-future-of-wealth-management/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6413b4be6655c06820cf9faf/0x0.png?format=png&crop=1050,590,x0,y35,safe&width=1200"
-        width: 1050
-        height: 590
-        isCached: true
   - title: "Generative AI: Imagining a future of AI-dominated creativity"
     excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
     publishedDateTime: 2023-03-18T22:20:00Z
@@ -169,6 +153,20 @@ related:
       - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
         width: 2560
         height: 1703
+        isCached: true
+  - title: "Artificial intelligence in the workplace"
+    excerpt: "algorithms and artificial intelligence systems are effecting workplaces. It suggests what unions and government can do to help workers. The Canadian Labour Congress is an affiliate of the ITUC. RadioLabour is the international labour movement’s radio ..."
+    publishedDateTime: 2023-03-17T16:57:00Z
+    webUrl: "https://rabble.ca/podcast/artificial-intelligence-in-the-workplace/"
+    type: article
+    provider:
+      name: rabble
+      domain: rabble.ca
+    quality: 39
+    images:
+      - url: "https://rabble.ca/wp-content/uploads/2023/03/rl-rabble-2.png"
+        width: 865
+        height: 440
         isCached: true
   - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
     excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."

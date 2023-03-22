@@ -39,36 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Making mind-controlled robots a reality"
-    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow people to operate devices such as robots and machines solely through thought control."
-    publishedDateTime: 2023-03-20T15:54:00Z
-    webUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/mind-control-robots-a.jpg"
-        width: 871
-        height: 554
-        isCached: true
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-17T11:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "A mind-controlled beer-pouring robot has landed"
     excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
     publishedDateTime: 2023-03-18T20:42:00Z
@@ -93,6 +63,6 @@ related:
       domain: scotsman.com
     quality: 0
 
-secured: "kkDvz7pmHHEy7D2O87wpfk65noP46QUYQm1ME/sYglNcyVRGOgawwU8QeuQlTVfM49ZTAGv9V5MnjYTHB3ZWXvl/nkM1ZisEl9H1NiZ1UIaDe/p4dgsl7V0CC/U9pfaI+fyiDY1Xg6sWvZ7r6dO4hz716iQrRv3CevMaNXlidL+RuaCuHl9SBzv68C48S9r8RkeHCT8vfko/bvgOHRxJ+I3Qm2RwccYIdUjP3OVB2wgGrNBNftJkb9hGIaS4TxCnWvqHhh3NP220LmhZRSHb33SZ5Q0VRw68g/ldwe6Mzlp10vACQSYqyUX/+jElDkr0F6uzfmYEAzezHShcVO5eRuMTsnCdb852qZVpe9An7B4=;Tx4FPHYuF7YOKU9c2JY2uw=="
+secured: "v4cHeK3xCwDjLe0rosdOTtPT/twz4ADB9K3TL7/CHkZZV91jVU1BdUHt8Endnz7PusDoJayG1brxssiHbVORTR3O7j/pJGxUR38WKy9gNZcr97wCuuHIT5Bnlw7PjHNu2cT607A69VTdLBIrjV8hJ74g0OczUqRR9heElbhzcl91WrUgt335pfhUxeWvdElmr/LoriXP2s18qCZdW3tqggjP1skFiSO0loGGzwQIMkjv6axLMoAyLCZTmi4iCvWI4s1X21g9g1hGKAJXpIeO38Ip9OK8aNKPGofXfBlp1DJHSxkGB/Z0s1s7fJBjgqF0paDjFZxyuofyANXMB22E0K7dhcu4Bz3N9i7PkX6g+Ch1iBFIVLv0TipaC7MeKMbrh9PvkOaRIbb39QmEAGXMwncHh3SMoZ0BBARAehbeMoSCkngE0FoQcr1xu5ewFGZk954NFq5odtTdDHG5NGG2yzkxg4B0SOIdMEhMLJkFVqXQ4pM6E+Kq+E57nbq95C434OxPPWk+Eozwuv1jabNbDg==;k8cCCimA+ejA4klIzUIcOg=="
 ---
 

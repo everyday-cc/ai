@@ -402,6 +402,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
+    excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
+    publishedDateTime: 2023-03-22T05:39:00Z
+    webUrl: "https://mybroadband.co.za/news/cloud-hosting/484737-nvidia-unveils-new-ai-chips-coming-to-amazon-google-and-microsoft-cloud-services.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 45
   - title: "Microsoft Open Sources Tool for GPT-4-Infused Apps"
     excerpt: "That's the company behind the groundbreaking ChatGPT chatbox powered by advanced natural language processing (NLP) technology that has captured the public's attention perhaps more than any other app, ever. ChatGPT is based on a the previous GPT-3.5 LLM ..."
     publishedDateTime: 2023-03-17T16:53:00Z

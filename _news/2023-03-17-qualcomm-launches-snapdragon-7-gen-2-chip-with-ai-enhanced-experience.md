@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/qualcomm-launches-sn
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/qualcomm-launches-snapdragon-7-gen-2-chip-with-ai-enhanced-experience-2023-03-17-855414"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Unveils New Snapdragon 7+ Gen 2 Chipset With AI-Enhanced Experience"
-    excerpt: "a chipset that offers AI-enhanced experiences, high-speed 5G, and Wi-Fi connectivity. Snapdragon 7+ Gen 2 provides exceptional CPU and GPU performance fueling swift, nonstop gaming, dynamic low-light photography and 4K HDR videography, according to the ..."
-    publishedDateTime: 2023-03-17T12:32:00Z
-    webUrl: "https://menafn.com/1105803077/Qualcomm-Unveils-New-Snapdragon-7-Gen-2-Chipset-With-AI-Enhanced-Experience"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?149420"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Qualcomm unveils more powerful Snapdragon chip for mid-range smartphones"
-    excerpt: "The chip’s new Adreno GPU packs twice the performance of the previous graphics unit, which is good news for mobile gamers. The Snapdragon 7+ Gen 2 boasts 13% improved power efficiency for longer-lasting battery life. In terms of AI capability ..."
-    publishedDateTime: 2023-03-17T11:44:00Z
-    webUrl: "https://mybroadband.co.za/news/smartphones/484301-qualcomm-unveils-more-powerful-snapdragon-chip-for-mid-range-smartphones.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 18
   - title: "Snapdragon 7+ Gen 2 Benchmarks: Qualcomm's New Midrange Mobile Chip Tested"
     excerpt: "It also has a new Qualcomm AI Engine that offers twice the performance of the Snapdragon 7 Gen 1. Rounding out the package is the Snapdragon X62 modem for theoretical download speeds of up to 4.4Gbps. Qualcomm Snapdragon 7+ Gen 2 Benchmarks While the chip ..."
     publishedDateTime: 2023-03-20T17:31:00Z

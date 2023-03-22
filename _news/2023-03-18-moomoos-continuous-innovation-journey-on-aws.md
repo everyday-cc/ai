@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-moomoos-continuous-innovation-jour
 webUrl: "https://www.tmcnet.com/usubmit/-moomoos-continuous-innovation-journey-aws-/2023/03/17/9779030.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Moomoo's Continuous Innovation Journey on AWS"
-    excerpt: "To bring end users an enriching investing experience, moomoo will also deploy AWS artificial intelligence and machine learning services for service innovation. For example, moomoo is using Amazon Translate, a neural machine translation service ..."
-    publishedDateTime: 2023-03-17T13:03:00Z
-    webUrl: "https://www.asiaone.com/business/moomoos-continuous-innovation-journey-aws"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Mar2023/image_5026784_37504063_0.jpg?itok=EVvY0aCu"
-        width: 599
-        height: 337
-        isCached: true
 
 secured: "9rN/8LjH17u5L0SS3ctz/3k6W1BP2uJMsQ/f+NxBZZ7tnsFEpf6wqb1Q4OguX1NXeherv2hn2V0MM1B+VeZ01GC++0zkAx8E+skgf69x2wPuRaFBXpnaKVUScXEw/pLjLb8miYWE9UdV+YoO5lEOywfF2InfTLwFdxJ4ZOQzt06BqS38vTXCiTwqdw0iSuz1g/jZ+r9SBwymyR7Nwoo0/nCGZ/5SwXjwn6VzVp2YP3hHZGXnMWTcMlQuSizNio4f7GetCxMvlUfaNz8FLLEnp78/ZHCHoD+mVsZkArwcOh3dkENgX17iFq/df/q8gaAPbtARy48Guj+01lTs81LkEZT5yfR4jIKWzdtDnOg0B8c=;v/H1ASODMtCSB/TwHtFyyg=="
 ---

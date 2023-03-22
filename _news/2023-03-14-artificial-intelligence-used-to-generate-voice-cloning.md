@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678761361048_now_staytuned_gsc_ai_voice_230313_1920x1080-blmx8n.jpg"

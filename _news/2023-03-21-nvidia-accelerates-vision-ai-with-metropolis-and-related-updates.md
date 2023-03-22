@@ -242,6 +242,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 29
+  - title: "NVIDIA Launches DGX Cloud, Giving Every Enterprise Instant Access to AI Supercomputer from a Browser"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... Solutions (CCC), and digital-business-platform provider ServiceNow are among the first AI pioneers using DGX Cloud. “With NVIDIA DGX Cloud and NVIDIA BioNeMo, our researchers ..."
+    publishedDateTime: 2023-03-22T04:32:00Z
+    webUrl: "https://www.businesswireindia.com/nvidia-launches-dgx-cloud-giving-every-enterprise-instant-access-to-ai-supercomputer-from-a-browser-83678.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 24
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_83678.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA Hopper GPUs Expand Reach as Demand for AI Grows"
     excerpt: "NVIDIA H100 GPUs Now Being Offered by Cloud Giants to Meet Surging Demand for Generative AI Training and Inference; Meta, OpenAI, Stability AI to Leverage H100 for Next Wave of AI SANTA CLARA, Calif.,"
     publishedDateTime: 2023-03-21T18:44:00Z

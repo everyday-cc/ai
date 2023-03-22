@@ -33,36 +33,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Making mind-controlled robots a reality"
-    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow people to operate devices such as robots and machines solely through thought control."
-    publishedDateTime: 2023-03-20T15:54:00Z
-    webUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/mind-control-robots-a.jpg"
-        width: 871
-        height: 554
-        isCached: true
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-17T11:55:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "A mind-controlled beer-pouring robot has landed"
     excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
     publishedDateTime: 2023-03-18T20:42:00Z

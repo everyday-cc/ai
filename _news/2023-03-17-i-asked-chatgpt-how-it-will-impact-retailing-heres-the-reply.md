@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       - url: "https://images.techhive.com/images/article/2016/06/screen-shot-2016-06-13-at-10.56.13-am-2-100666127-large.jpg?auto=webp&quality=85,70"
         width: 580
         height: 363
+        isCached: true
+  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
+    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
+    publishedDateTime: 2023-03-18T15:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
+        width: 1920
+        height: 2400
         isCached: true
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."

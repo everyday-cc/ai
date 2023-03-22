@@ -69,20 +69,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
-  - title: "Don’t overlook independence in Responsible AI"
-    excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"
-    publishedDateTime: 2023-03-17T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in-responsible-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 41
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
     excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
     publishedDateTime: 2023-03-21T19:34:00Z

@@ -5,9 +5,11 @@ excerpt: "The Michigan Department Of Transportation has postponed its March 22 p
 publishedDateTime: 2023-03-20T18:28:00Z
 originalUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.html"
 webUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.html"
+ampWebUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
+cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/7/fb/7fb70e92-dd9f-11ea-bcef-bbae2de749ca/5f359ba20f300.image.png?resize=1024%2C577"
+    width: 1024
+    height: 577
+    isCached: true
 
 related:
   - title: "Ann Arbor public meetings on I-94 lanes for self-driving vehicles postponed"
@@ -35,21 +43,7 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "Beijing greenlights operation of unmanned self-driving vehicles"
-    excerpt: "BEIJING, March 18 (Xinhua) -- Beijing greenlighted the commercial operation of autonomous driving service without ... respectively by Chinese tech giant Baidu and autonomous vehicle startup ..."
-    publishedDateTime: 2023-03-19T00:01:00Z
-    webUrl: "https://www.thestar.com.my/news/world/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "K4TmTTiUy730cOclkxTQTlsjci0KdbGrg8ZFFhcrj95bJx2EjpuM49WocvrqbPEEbGN++DS2Od3g8AmyA/Iwg5Ck6zPUHfAQuJiuNy1aiDia94lhv1gx5alHCxPcROOtUfh4V0I43FNJiUxrsswHn8Y4GfrMacvcwcc04Gn+T5kZUiCXBlBdwssAXdXtifubi1RCAxQGe6ls04HLeiIJjge7x3GyzObuTmZVk0d9Ig0x+9mqFDvIIzq0IX88HH9ZtqAxlq7HwP7WhQmHf5gqUmasbjgejGzDA5kGd19//GV9xXK/R7M2CS/kvfbrSA0buFhpnAMMk2p4gbZS4BVJ8fG1bSbrxNysq1cFxtjGqfo=;OJd/AZYLgB7JZtwbK1QuNw=="
+secured: "yHLzDv+/U7jg7dGaRT7PKF0TvwCs/FgyI/0ZaJs0VWQB+6fRLHrE2E499UyIxznB638hDbuMTbicCwCQ7jqhbbBE64sdC4AEXW4WOF+e5pHfWsro0+vYjWP2MxnY9dgjKX7CntS4fFzt5IhoXPP6vPavcfSA2dgmEDVmfFUV3o5XGHjDn1AjAQ+Gv9tsTnbDDdldstUcbPAA6swcW1w7kPn5g81F1sPOhqxJt2a1V6/gl/d7uA76o1MYNV7nErs4Lbc9AZ2nUBED2gn7arAACxY6N43nilHpo6/k6bDbcmd99tqnbGZrJiYAXv3vfT8iqjEpu5vsIFEt3VfPVe75B0kpP870jOwZC9JvaRsPBrk=;4mTz18PHcd0os7WnYrjM9w=="
 ---
 

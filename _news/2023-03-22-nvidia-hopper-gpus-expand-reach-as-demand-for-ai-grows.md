@@ -245,6 +245,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 29
+  - title: "NVIDIA Launches DGX Cloud, Giving Every Enterprise Instant Access to AI Supercomputer from a Browser"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... Solutions (CCC), and digital-business-platform provider ServiceNow are among the first AI pioneers using DGX Cloud. “With NVIDIA DGX Cloud and NVIDIA BioNeMo, our researchers ..."
+    publishedDateTime: 2023-03-22T04:32:00Z
+    webUrl: "https://www.businesswireindia.com/nvidia-launches-dgx-cloud-giving-every-enterprise-instant-access-to-ai-supercomputer-from-a-browser-83678.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 24
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_83678.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lilbits: AI everywhere, aCropalypse and the Windows Snipping Tool, and NVIDIA’s new GPUs for mobile workstations"
     excerpt: "After spending 5 years as the head of Intel’s graphics department (spearheading the company’s drive into discrete GPUs) Raja Koduri is stepping down to launch a generative AI startup. Koduri was previously at AMD and spent 4 years stint at Apple."
     publishedDateTime: 2023-03-21T23:04:00Z

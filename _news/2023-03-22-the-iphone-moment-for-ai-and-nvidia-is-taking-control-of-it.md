@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
+    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-747723/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
     excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
     publishedDateTime: 2023-03-20T14:00:00Z
@@ -48,22 +62,6 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
@@ -117,13 +115,13 @@ related:
       domain: iol.co.za
     quality: 21
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
-    publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 15
 
 secured: "rAc9rUiUIGn3vjFb4HODSrbmm45hz33zcrtNLbBMUEDaNWuS3sr4B983rhklN5yhhA3stUQD+0nHG1hhxHe0Yg4S6TZO4b/7Ff95jfuNbFAKLWaNk0wHhXJr978YnhR1C4SJYaSA9QU1iowR4yzzIqrK+3ih/zQ0rVantVFIeL3mtJJryOB4yIZ7QQEsC4D6Em0vyTs0Gg9KorAe8vwB30nlRusCPv35M3mkOIrj+PFqL/HszMGw8/UMOKfXqWFHMmv4HFY8N5CVGy3TMksPyb8unIBCC+Tn1L1Ezgt/nOVVOUJ94Fg4JGHWpVuNWlcBLYCvQX57CEAmzZH9wuyDbiT8JbOgAEBVrxqsoUysc4w=;HYdjwX0rKqCxqEduscEeCA=="

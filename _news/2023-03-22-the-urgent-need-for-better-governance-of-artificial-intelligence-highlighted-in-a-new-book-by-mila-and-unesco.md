@@ -75,20 +75,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
-  - title: "Don’t overlook independence in Responsible AI"
-    excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"
-    publishedDateTime: 2023-03-17T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in-responsible-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 41
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "GitaDB3Dpc2Kpf4FYQ81aBxTXEATnqyisPpFVGYU2LdIpoUMXlAh6Y8Tov/sXgeqsPokMmk37U2aju1hgfvKuzXif/kN7NNCL1l2hTByLLfSp8Nqd6iN6OF7OVHbKrVIlPk1ZmVxp9VJgxLpZ8zz95YrmIrV5YAz1xjSBYSexUQl1cMs+fadByB4wpFvOE9cB4IA5I1GyadEUQC4jpmyRZPFbZwN9W8/Jxy4SSzsAmL/PxC8BdWr8kxvGk/yqBtru5a+Agj9Az+DoG1CzLqdNTLoh0CaRQCFl3RESo35xHKD1XK1vBgFEtqfuqsLQxgvKuvVL6v3RC4TVnf6uGh+Ze2c1joifH8GRCwyw6Ph6afwOdRa0FKt0atrP+fR65AxmJHmotF5K0Rwh46DbR7BBNBAKZlDHsUPZNCAegPyzjqvPzWEJeEwtO6Ffe4hkaMpUtBjVUs1w5VNQMILIbTQ058rkOoQXVHmb+5evztmQ36aBlN9C94Qf08sAxe1AHRQn5iTWw5K5Z/f//tpCdwQOA==;WR71PxFIJzyJqdtSAvDWqw=="
 ---
