@@ -2,7 +2,7 @@
 name: "VoiceBox Technologies"
 overview: "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI"
 type: "profile"
-heat: 50
+heat: 31
 
 website: http://www.voicebox.com/
 
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
 
-secured: "NkWichvvkMMCTXu2mEIocRW+oP3KIjrf1LETYLu/yHBdsJdoUmEgz7/SHVcaM47moh9kTwx3So+jHCCs72URm3IL7I/lmUYmJ0hWG8bZg/RvSImEHtbHhvAlnb1IyeCqkC1X3jii3oHWVasY1Wmj+dN6JC6ee+M5RjWCl/0xSeDMuRd/c7TAfWcI8aH9Slh1XEBtQzgv5MYm43x/UWcOXuEyvoi1GgDdcGk3onab0BwU9SFcvjcOd5a6i6SPLfLo1fuk8YOGw3GsTj/gdIaOoXE8xjg9pxOQenxkCXS/oX55yTLpmIJPOxBBocfZ563x37hsk4VE3siAqxq04AO+qyuY7xOE1ClDzUR1C9mUAN5GjxrlpmQg/XQO8wVgfXeFrR8XNX0buXOZMoUugOxsrw==;MCl7HJNMDCQwgIaq7lG7kw=="
+secured: "Omgmmi8nnECRSLK51BEBlzPiSbUJsegjVSxfXUb5LofLjmZwEeQclUuoSqYSpmmy4pZUUXvXZzdcbzZ/JZpt/nJdomJe9sw1xGohU/n6nU86hJkbu/yXRE3IDv7u+3M+SrYBUpXrvDjXobouOEm9TBuu+GOxrac6Jf4PNcDrobWQdjWIawOJFPYu2e85uNot61lA3nCwU5ttOxA5/Wl2+9oopKWjwT105kRhLp/1OZwn8YZd1zIkegVFutZuwECP6U25aUJKhKVGdh83+Vt9Cg16z+vn4udWeQIa4LgwZbvJ3rz3sZgQR4EElNvaiLwkl2frE8doGJCQW3SV+sLe+nB999WahmHrTuKoBOcaF/2C6QXZHbx8pumqoOZnrgSem8e5Ne1jpL2d+OdzcRo8jw==;i4Pd2yZA4u17Qpu+PgUgSA=="
 ---
 

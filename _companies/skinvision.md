@@ -2,7 +2,7 @@
 name: "SkinVision"
 overview: "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO"
 type: "profile"
-heat: 42
+heat: 72
 
 website: https://www.skinvision.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sknvsn"
   url: "https://twitter.com/sknvsn"
-  followers: 2093
+  followers: 2094
 
 size: 11-50 employees
 yearFounded: 2011
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=eAcjCkwsIy0"
 
-secured: "4QigXCChknvMByBdoR2S4NZR9wMQ7Bnlfe4OnSjlb3E+LHVgiqExyPs8n8M7Q0os48RhoCFepDJEgZd68sSmfHKwH8hHb+uuqjPxgDZsBIv30mlgSrQMfFfXJLPcWUYWEn+2a3qKWJhb8LarUAa4R7W6ZQObfPIn5cUjgTsxJpPbm9FtGx+QET8CkLRwPu6BYUckqNdpwV/Mps+1uOD/TsQJG1rOnrNViO7d6OCEvwbHG4Ja2GQ8vPEVL5KP6HK4SKL4AO4nV4QBhYAQ7CeKSWqJF7qL/s+B/NH+fLfjp8K+GfXSXjbh43ZVDwCtk8xtHgJXQPTYu8nPmCBszBbpTEnbdYwBDg29/A0DFuVTd87OJoi9ssRk3MV0WtF0A5TzaMaLodNSDumWD6pGQ2g9aiHyxlPk/YXsVUAAZbNPLDA=;SY9SwJz43tXi/SW0FKGb7A=="
+secured: "iU7Ll8cle9CAA0NMtq8YjXcOcWE3gAy+W4YfC+1UYV3o8YG3Lm57xlMlhFBwrH7thwjWyW2hhVD4oRlI2hOP7e8YacAXn1Q6DjWkuDFvpgPW/4coYaEY1RKTVRC+pZ0owEolmmttWH0fHaZeyCw/qo98kY2istlRH/I6elb9qgqyUE9T21Bs3ORJd707IAYAUXCwD8DQkEuCRy/vw08ifEJxMGqJaejAWs5nIxjf2FS0gjz1PRSwrSJF4pzbWNOk3N1mCFjSNtnWs8olAJpUEKpUH7PV8Fj399JT5U5fh1esY2C0jn7dNHyxuYTN38IxNUWOyFLRIXDeNOWsjpmoZrnzAIWaYeYJFdqtao0zpG/7X9LXcO4TOsXOKttAu2PZNr1BG2LHsqxI6f8YetecFYdIhGFA94ka844Ixofx2ZY=;wAUGjyxuV1Gd0CnFkJgd/w=="
 ---
 

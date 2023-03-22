@@ -4,7 +4,7 @@ otherNames:
   - "Viz.ai Inc."
 overview: "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care."
 type: "profile"
-heat: 64
+heat: 72
 
 website: https://www.viz.ai/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "viz_ai"
   url: "https://twitter.com/viz_ai"
-  followers: 2418
+  followers: 2421
 
 size: 51-200 employees
 yearFounded: 2016
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3P9aVwDOig"
 
-secured: "vEdHV8+eYC9RXvR3MVSjf5qBjA7pyqUJyMpKEnF6XjZLsy5MYdwvbHRPwkqN+ut/HzN486TkNLcENG3bkEQk0MmJd0KpsjytRPMdZpEu90iaNDxIsc7Xfvx1gor/ypV6aSVy8oad4MX9ZuFVX+BTSTtaDctY0iIuDaq9KxNJJKIWJVNMibqRn1q7SaE3ti6NsxOYyiofPjQZkq/CGkGmqM2TObGqS2om8/Qdm3ER+uqb7SR4J6STwkT13AsfbXQYITB/a2zG4lIoyo5h9s3zmE293FQeYA7JmPmOu9ONQ1jtE/Q0bx62/FyN/7l9Uqlrqe4UQChK9SE10C9uRiiiLDyVcqnsTwFZUiEQQUAyGb7JCd1akMljCtkev4S9A5j7sj4pPxpjMJHykIzKfA1m1vPhb64fB2rOdhptqh07qiQ=;K1OGn3chKyDl8rEYH29acQ=="
+secured: "m2XRGg4vbiGuKV5zCtQsH6NmjhRwJbrGG/GQCa3Fp3sa1bAt2+ubBWMw77dZ3TrmofVj7cIsBSTa7ym+5Z5mXljT4iei+GcNde7B3v4yv6VfeNWy7blygPDg3anOcaG0D0nMV3pB5Z17rcnKQ94ehEO6HhvrRND0v65Q0IoIyrStStDJw3AFD3LHDhBXLyIJzxfHNQJSnM3eaHK8zEQ5sSh+i3BB8hZjhjJggqeKPoMX8sFVKwUCttvOC22CUQH1NYwQpQHvMB/OkFz1516x8p8jOiICKEYaE5TUeX4UuH/mo//N+3hARadnd4yeX2CShNXzDpyuvlAClex2XAlvZvf/ds4XZI7Gx7OSMftYBx5yvWLzkpkUiNFuP48HG3jSYh6rPGY6qlOLPz9QEpYOma97M1XslunUgQxOIr9V30c=;UPAge++pF1W97aJQy9rRkg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Deep 6 AI"
 overview: "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss."
 type: "profile"
-heat: 50
+heat: 31
 
 website: https://www.armorblox.com/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "IA/W9HzpSFNAdPYPfFEDrLTtdTg3f/SAkPZMY2DMZulYkmBULI3JJjrlPXW2nr5WnqrkrqBEw6O8RY1UD4HSXD3dlf3XkHOX9bfxotwx67ogvKXQmIgcYdtU/TRTTh5oW0qnt3NN9fz7sFRGOExKXDKDg3OvCuYmrXSgO8CPt9jgt3Lx+wb6nxi036ncoXs/eE1JGMSfVgEVx2or4AS2zZGq/RVB+pcF6QQV9yW9ZokpZOhShf175ndh2UfZqznHahtInZttBS/rLC93XQm9utIy8kIAtamxO4IgNKe8ghCZid4e2tXGINzm0HDa9cjOhRq476/lMoV2sgUmiLzbY5f/WCvhclS9AkmvwZ3A386Y9sYM6xcWEUHOn7I7rlUbsmIrnf9gVz7Kgm3DbHhnDQ==;NxQEJy7o3qmCBHmP1RdsKQ=="
+secured: "7vH8zZomVyCfIlTKlDwP3X8XCnyEJR/TNCRCgYicS9P17/re8/W+6yFq3hZWdclfGbeaKhrCtn7vIC0IjmVRNVCtIwHtwyzWF02zb/qFpbdprW3Jue6XHM8rrhrRKDy0pU5Hz1k7VMlTerSYVdhWb2zza1mPTcdtDhFZ1lwkQNBY89JgD1Prn8M5KGlyMVmWDNsEsUu2B2Er/XcbDOD3pq+Hun4dScywnDcUCXOG0PId6tjYH/eYivBQ+HDhlNqfdT30QQQdaegNqOoeGOarpVE3gKImnAaC/69xrblgBkk+7LsMEl1170MvY0RouOarbd9ODLE+FQl9JKef8dvHoHrSMz0df0ZYvyP66XY6dMXaOJ8V99ZFw5MNqPfm1DJdKvPGrDOzfOnXXCR7gtUDjw==;mK4stLh3yEuGQ/NqmSzXhg=="
 ---
 

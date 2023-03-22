@@ -2,7 +2,7 @@
 name: "LabGenius"
 overview: "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™)."
 type: "profile"
-heat: 64
+heat: 41
 
 website: http://www.labgeni.us/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "labgeni_us"
   url: "https://twitter.com/labgeni_us"
-  followers: 2547
+  followers: 2548
 
 size: 11-50 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=wy1AobL6x44"
 
-secured: "PhD8C95nBKjIz7ThHI7cSp/ex6z1ptzA71G1a19F1zMLBhseyzrhvd422y8c2Ksz7KeYs3BSv8I1DwEnho9nj48xR1gp+EsAzNEruzwXKaLY3/drLmSysFt5iAopOUvo18OoId01OkSgpucHjbiaKzbbvj/tCsM/tmpcWtDqe7kQlacoDY5dDSjJTaUMnsUaTfQsbQrcOepiUy4KJmYo+BXPXwAcllEkKyprUDivfHhwZV8nZX9iLX0Nes+hTit85z3g79NR8a1hH5dVTZQqxX6up0Ai5Y32obPnwgVYVs5e33URFiVX1ikIKBaoSqr/KWlIjetANITGkpgGAqKGW2biczpmQxPJBH0HdQjweHCUHGKamaBtE4+vqYse0j3bbffX2YH0xHBBHijpg+gNhm9lzZskFwT4JZrnV3Ns9Qk=;LP2a02QE362P3EeUAc+sjA=="
+secured: "FDGoO+C5zFomfnOqGSWAPWU8qwhPVCXV5TEGFdPYDY2ukA8Em5dSkDqVjovqHN7eNaWD9m0MWKTyo5zJOTqWUU54+K0J8nSvWSSIgo25+KQsKOiyQSjKXVsOJLZnh2cKbIKNeBJbik9UogtB8ePO3yU+9ldvbXzKYuJH7G7cya40hXexzMEVWGSkbKSzcUqFE40cTGNiORU0OdU2XUZrQnLs5KMR+WNkRnAbcyxlqVpawlHGfrWeLNa2a8B8I/8E9j8q6mYQYnOSa1YWrBGUnMJAWm+fKeGT/DZqRfab0f5FfVdZ4zOiVBey9bIMY1L/zBpKIOaiSmysINcAiUdsMnBS0T2qVFg/rzpMIXZixDBdlBHlfTHfwlQCgfbFuFZKelqH6bUAeVyD16mF+xyFR/IUofesvIDXuG9sk8/CYrc=;bcXJJqL9I6IYg+/aBrG5/Q=="
 ---
 
