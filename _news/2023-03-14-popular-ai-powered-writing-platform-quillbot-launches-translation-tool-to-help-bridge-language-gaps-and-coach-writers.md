@@ -5,8 +5,6 @@ excerpt: "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the app
 publishedDateTime: 2023-03-14T13:17:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
-ampWebUrl: "https://www.benzinga.com/amp/content/31340022"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31340022"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "ZZ0o8z6ZV1Kgsq4hnAzqrZHzsYSCYoQ+nwpaVaVZkJM58HhiBZLfXr+LQ76sddI0QrWQtZ0+mkekroTp5oBJe6isqmBQ/fbm2xGfLLolxUeNbVGxsZN/zHsLRM2hJ3Eo67a5IXvAcPNIsHANV0V/9qP/2mzv/e4hD4Swma/cxgDwFod12kFuBBpop9ImHJixh3J8G/IyahVyBY7BfiDFvSu3oEadRaBZKhg4rtcnSrI3oYJCuaMoGcjqQEegG9b5yBP8c30SlVyREfiaHn9QCUa1iNRWA3swI4o7JgrZrrQWxzUR7YamXY3Cnv43sI69Vk4H8az6eMORvwzE5a4i8ZEwuwH/ZmFOSzXE+Ewm5Sw=;FvU5yHGnkPl7j9DzoFvERA=="
+secured: "qSfoLtA3JaGiAVYn0t/GiWlARfpbk1PnyrzU28P6GEixtTTkmIR/qUVSKRSJxsv1JDR5GJW2k7f+f7miqRmXNdHqcA7Z6HCsyyzl5S+jbtwb1XwP4l/hpGf2zzyGTDuL/9UyReFwbTxt7bYcf3c1jhJMSKVf51H5I8UAVvkKKSwZDwGh61SVFE9QXnKFL4KLM9BDs/h7wmUEbxVxN6f/RsK16LrVymP5OEajGUt5USEzs8GW+Q+2CLx+xNEbRIK3ghvXGS/xsM844I1UHD2j0YBeXLUgthC4bGnYl4qEj69eCIKBZl1DJ/NY1PIu97kS0FVE6Y09ovTKpEHaPFZzEiHHjuW4vAlwfAFWEEfXKjM=;gm2eff4GLQxAeGq0kwHuPA=="
 ---
 
