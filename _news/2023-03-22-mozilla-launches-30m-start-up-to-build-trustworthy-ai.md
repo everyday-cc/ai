@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Mozilla Launches AI-Focused Startup"
+    excerpt: "Mozilla, the organization behind the Firefox browser, launched an artificial intelligence focused startup Wednesday, called Mozilla.ai. \"The vision for Mozilla.ai is to make it easy to develop trustworthy AI products,\" Mark Surman, Mozilla's executive ..."
+    publishedDateTime: 2023-03-22T17:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/mozilla-launches-ai-focused-startup/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mozilla-launches-ai-focused-startup/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mozilla-launches-ai-focused-startup/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/ff5780e5629ebbec515d37832c42980886f16da2/hub/2022/04/12/2ca4ed6b-469b-4336-bcf2-e2d7d648e77a/firefox-browser-logo-2022-001.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules"
+    excerpt: "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices"
+    publishedDateTime: 2023-03-21T10:40:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 73
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All"
     excerpt: "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ..."
     publishedDateTime: 2023-03-22T15:19:00Z
@@ -38,6 +70,43 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Mozilla Launches New Mozilla.ai Startup"
+    excerpt: "Mozilla announced today that it’s launching Mozilla.ai, a new startup dedicated to building a “trustworthy, independent, and open-source AI ecosystem.” Mozilla.ai will receive $30 million in initial funding from Mozilla, and the foundation is hoping ..."
+    publishedDateTime: 2023-03-22T14:46:00Z
+    webUrl: "https://www.thurrott.com/cloud/280920/mozilla-launches-mozilla-ai-startup"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/Mozilla-AI-startup.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
+    excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."
+    publishedDateTime: 2023-03-22T16:49:00Z
+    webUrl: "https://siliconangle.com/2023/03/22/mozilla-launches-mozilla-ai-focus-trustworthy-ai-30m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/artificial-intelligence-3382507_1920-geralt-Pixabay.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules"
+    excerpt: "FliQi specializes in providing comprehensive courses in AI-ML learning for over 25 state and central government job exams. Leveraging its expertise in this field, the institution is poised to expand its offerings by launching educational courses for other state competitive exams and additional skill-based courses in the coming years."
+    publishedDateTime: 2023-03-21T21:37:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230321/4052498.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 33
 
 secured: "dr5+3NeVSpwxFYBR+daVQJPOgj1RjqDGXmZnquVxuo6MW3XLrPT3tuY/p/r29Fr3E/K21TmrTGA9aieWaKYbjAk197qsGQOu5W/m40moInQCQeliKP8Mj94Wy36KWL/ZUNeEibz5EIFsUbwwDL4WnuCSv4jLwPK9cDIKfXMPDzXhnF+qJeBBR3qpwQ8VghukN8xh54ra2GBX2opCtzHGvToGNcp0ZKzwA2UmKm14OOnhnaVrTPqzgSY/ojNnUs/VhmQqOufKTAdxwJhP6FK2sLA3F1EpfRVrj2Dt4pEg9/cxP0lXjWhBNtliblkOzTt3ivd+k3DW1eR+WM2joOf5vYxpzxtaM3tfblzJec9da84=;8bB/KJc4NXxth3UiIo5qdQ=="
 ---

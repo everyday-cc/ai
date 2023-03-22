@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas.md",
+      "title": "Build a machine learning model to predict student performance using Amazon SageMaker Canvas",
+      "excerpt": "There has been a paradigm change in the mindshare of education customers who are now willing to explore new technologies and analytics. Universities and other higher learning institutions have collected massive amounts of data over the years, and now they are exploring options to use that data for deeper",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/student-prediction-sagemaker-canvas.jpg",
+          "width": 1152,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:40:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.md",
+      "title": "Light meets deep learning: Computing fast enough for next-gen AI",
+      "excerpt": "Artificial intelligence (AI) models are essential for sophisticated image classification, the most important part of digital analysis. The researchers who recently published \"Universal Linear Optics Revisited: New Perspectives for Neuromorphic Computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
+      "originalUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2023/light-meets-deep-learn.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
+      "publishedDateTime": "2023-03-22T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap.md",
       "title": "Machine Learning in Healthcare Market Global Outlook 2023 to 2030 | Google Inc., Amazon Web Services, Inc., Sap",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (Concur Wire via Comtex) -- New Jersey, USA: Global Machine Learning in Healthcare Market Overview: The Machine Learning in Healthcare market report provides a ...",
@@ -53,49 +150,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules.md",
-      "title": "Jaipur based Edu-Tech startup FliQi launches AI-ML Based Learning Modules",
-      "excerpt": "FliQi, a top-tier institution for AI-ML learning, has announced the launch of its latest offering - AI-ML Based Learning Modules. Designed to provide students with personalized learning practices",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/21/full/20230321142420.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/jaipur-based-edu-tech-startup-fliqi-launches-ai-ml-based-learning-modules-123032100753_1.html",
-      "publishedDateTime": "2023-03-21T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1420,58 +1474,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
-      "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
-      "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "originalUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-22-what-happens-to-a-large-language-model-llm-after-its-trained.md",
+      "title": "What happens to a large language model (LLM) after it’s trained",
+      "excerpt": "Different approaches to using large language models (LLMs) after they're built — their complexities and likelihood of advancement.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
+      "originalUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
+      "publishedDateTime": "2023-01-21T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-22-chief-justice-backs-ai-driven-translation-of-judgments-in-indian-languages.md",
+      "title": "Chief Justice Backs AI-Driven Translation Of Judgments In Indian Languages",
+      "excerpt": "Chief Justice of India D Y Chandrachud on Saturday indicated the use of Artificial Intelligence (AI) in giving translated copies of judgements in all Indian languages as he underlined the importance of technology in removing the information barrier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022",
+      "originalUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-01/pntn5qu8_supreme-court-getty_625x300_16_January_23.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1",
+      "publishedDateTime": "2023-01-21T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-paging-dr-ai-to-the-emergency-room-artificial-intelligence-passes-us-medical-licensing-exam.md",
       "title": "Paging Dr AI to the Emergency Room! Artificial Intelligence passes U.S Medical Licensing Exam",
       "excerpt": "We may soon see AI tools run diagnostic tests and clinical research trials on humans, now that ChatGPT and Flan-PaLM have passed the U.S. Medical Licensing Examination (USMLE).",
@@ -1305,93 +1400,6 @@
       "provider": {
         "name": "The PIE News",
         "domain": "thepienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-achieving-greater-accuracy-in-real-time-vision-processing-with-transformers.md",
-      "title": "Achieving Greater Accuracy In Real-Time Vision Processing With Transformers",
-      "excerpt": "Transformers, first proposed in a Google research paper in 2017, were initially designed for natural language processing (NLP) tasks. Recently, researchers applied transformers to vision applications and got interesting results.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
-      "originalUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/Synopsys_Vision-Processing-with-Transformers-Fig2_transformer-cnn.jpeg",
-          "width": 640,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T00:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
-      "title": "Natural Language Processing: Guiding the Way for Retail CX",
-      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
-          "width": 750,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Total Retail",
-        "domain": "mytotalretail.com",
         "images": null,
         "publishers": null,
         "authors": null

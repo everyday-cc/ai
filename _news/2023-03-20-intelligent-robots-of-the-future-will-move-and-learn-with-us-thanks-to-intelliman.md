@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Animal Learning and Intelligence News"
-    excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."
-    publishedDateTime: 2023-03-18T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Edge vision AI adds to connected intelligence theme at ew 2023"
     excerpt: "(Image EE Times/ Sally Ward-Foxton) The solutions on offer all tend to claim to offer the ability to add vision and artificial intelligence (AI ... applications ranging from self-driving robots to healthcare where vision systems are used to detect ..."
     publishedDateTime: 2023-03-21T19:59:00Z

@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Animal Learning and Intelligence News"
-    excerpt: "Feb. 7, 2023 — Can a pigeon match wits with artificial intelligence? Researchers tested pigeons' learning abilities and concluded the birds employ the same basic process, called associative ..."
-    publishedDateTime: 2023-03-18T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/news/plants_animals/animal_learning_and_intelligence/"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Intelligent robots of the future will move and learn with us thanks to IntelliMan"
     excerpt: "The new European project coordinated by the University of Bologna will develop advanced robotic systems controlled by artificial intelligence that will be able to learn the skills needed to interact with people,"
     publishedDateTime: 2023-03-20T13:30:00Z

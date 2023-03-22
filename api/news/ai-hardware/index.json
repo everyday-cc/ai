@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.md",
+      "title": "Light meets deep learning: Computing fast enough for next-gen AI",
+      "excerpt": "Artificial intelligence (AI) models are essential for sophisticated image classification, the most important part of digital analysis. The researchers who recently published \"Universal Linear Optics Revisited: New Perspectives for Neuromorphic Computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
+      "originalUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2023/light-meets-deep-learn.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
+      "publishedDateTime": "2023-03-22T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
       "title": "2 Top AI Stocks Ready for Bull Runs",
       "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
@@ -53,6 +97,49 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
+      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
+      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "publishedDateTime": "2023-03-22T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -116,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 394,
       "tags": null,
       "images": [
         {
@@ -369,7 +456,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -422,7 +509,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1406,113 +1493,6 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.md",
-      "title": "ChatGPT and Generative AI are booming, but at a very expensive price",
-      "excerpt": "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "publishedDateTime": "2023-03-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-ai-inference-processes-data-and-augments-human-abilities.md",
-      "title": "AI Inference Processes Data And Augments Human Abilities",
-      "excerpt": "Artificial Intelligence (AI ... The second-generation device also supports Vision Transformers (ViT acceleration, a neural network that is capable of many computer vision tasks, such as image classification, object detection, and semantic segmentation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640ccf931512cebf767aa26b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/",
-      "publishedDateTime": "2023-03-11T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
         "AI Hardware"
       ]
     }

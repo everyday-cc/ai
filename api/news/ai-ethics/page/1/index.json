@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-23-ethical-ai-art-generation-adobe-firefly-may-be-the-answer.md",
+      "title": "Ethical AI art generation? Adobe Firefly may be the answer",
+      "excerpt": "Since the mainstream debut of image synthesis models last year, the field has been fraught with issues around ethics and copyright. For example, the AI art generator called Stable Diffusion gained its ability to generate images from text descriptions after ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/",
+      "publishedDateTime": "2023-03-22T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-google-says-its-bard-generative-chat-ai-is-out-launches-waitlist.md",
       "title": "Google says its “Bard” generative chat AI is out, launches waitlist",
       "excerpt": "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ...",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-21-adobe-firefly-brings-text-to-image-ai-to-the-masses-with-artist-ethics-in-mind.md",
-      "title": "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind",
-      "excerpt": "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ...",
+      "path": "_news/2023-03-21-a-copyright-battle-over-ai-generated-art-will-begin-in-colorado.md",
+      "title": "A copyright battle over AI-generated art will begin in Colorado",
+      "excerpt": "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
-      "originalUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/",
+      "webUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
+      "originalUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700",
+          "width": 1024,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +128,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp",
-      "publishedDateTime": "2023-03-21T06:05:00-07:00",
+      "ampWebUrl": "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
+      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/",
+      "publishedDateTime": "2023-03-21T07:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Fort Morgan Times",
+        "domain": "fortmorgantimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -114,7 +157,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1348,59 +1391,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
-      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
-      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "publishedDateTime": "2023-02-27T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

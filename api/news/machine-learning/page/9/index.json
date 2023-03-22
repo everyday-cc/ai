@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-10-deep-learning-designed-diffractive-processor-computes-hundreds-of-transformations-in-parallel.md",
+      "title": "Deep learning-designed diffractive processor computes hundreds of transformations in parallel",
+      "excerpt": "For instance, a diffractive optical network is designed through the combination of optics and deep learning to optically perform complex computational tasks such as image classification and ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-designed.jpg",
+          "width": 920,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
+      "publishedDateTime": "2023-01-09T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-09-hdfc-limited-is-certified-as-a-best-firm-for-data-scientists.md",
       "title": "HDFC Limited is certified as a Best Firm For Data Scientists",
       "excerpt": "The Best Firm For Data Scientists certification surveys a company’s data scientists and analytics employees to identify and recognise organisations with great company culture.",
@@ -1234,49 +1277,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-leveraging-machine-learning-to-help-predict-ship-exhaust-gas-emissions.md",
-      "title": "Leveraging machine learning to help predict ship exhaust gas emissions",
-      "excerpt": "Ships, the most common means of international goods transportation, emit exhaust gases that cause air pollution at the ports they dock in. Predicting the levels of these emissions is important from an environmental standpoint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975622",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fb0bbce6-8319-4133-aafc-d13ad050b71f/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cars With Self-Driving Capabilities Are Watching You"
-    excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
-    publishedDateTime: 2023-03-18T00:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/"
-    ampWebUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
+  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
+    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
+      name: KRON4 News
+      domain: kron4.com
     quality: 44
     images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/17/5e71d3261842978c51e058958517ff65.jpg?quality=80&resize=1280,720"
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
         width: 1280
-        height: 720
+        height: 960
         isCached: true
   - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
     excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."

@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
+    excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
+    publishedDateTime: 2023-03-22T15:03:00Z
+    webUrl: "https://www.wsj.com/articles/publishers-prepare-for-showdown-with-microsoft-google-over-ai-tools-6514a49e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-748377/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "You can now use Microsoft's AI to create images using just your words"
     excerpt: "Microsoft has announced the Bing Image Creator. It uses OpenAI’s DALL.E neural network to create images from text prompts. The AI image generator is now available to try out on any browser and the new Bing preview. Just when Google opened up public ..."
     publishedDateTime: 2023-03-22T05:34:00Z
@@ -207,18 +221,18 @@ related:
         height: 1024
         isCached: true
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "Microsoft announced it would also use an AI large language model in its Microsoft 365 products. Here are the best ones on the market."
-    publishedDateTime: 2023-03-22T13:23:00Z
-    webUrl: "https://www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    ampWebUrl: "https://www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    excerpt: "The GPT-3.5 architecture is a natural language processing technology designed to interpret text inputs as if it were human. GPT-3.5 is an updated version of the GPT3 model aimed at reducing toxic and biased language. However, that doesn’t mean ChatGPT ..."
+    publishedDateTime: 2023-03-22T16:35:00Z
+    webUrl: "https://whnt.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    ampWebUrl: "https://whnt.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
+      name: WHNT
+      domain: whnt.com
     quality: 76
     images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/03/computer-software-best-microsoft-365-products-2.jpg?w=1280"
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
         width: 760
         height: 500
         isCached: true

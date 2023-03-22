@@ -58,7 +58,7 @@ related:
       domain: menafn.com
     quality: 49
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153460"
         width: 333
         height: 250
         isCached: true
@@ -76,15 +76,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "mjZmuLsbT0V+W3mWuTNS0B7ypLpBu/YS20XkyauhKzq8oPw0GCNGdFsCGYUgTBjKAtzbZvy86ifIdrANp5fuCCFuFOXgaUs6NwXGXZxzAv3e31yGLK5iOqAlH0KFXLT5B72QNrBfoyEHNzkLusMr+HM48r0/K0DZ3Xc2wRTWKDkTNb8ssGpKtPyoWMOLzj4K4VlDOJVrR+QJQxnMoZ1IcNLPyrvTnGE+71nHemvQCHk9KaJPzLzVvuVMmZChv1FprwWq3bFoTTYNGUtXx/HfUexkB7sTU1GQtfuXtx6wJUntDePmf5IZhsQD0edfUFGrKZcvMdCCXbZctBC6vMonO4JzUPy+IsAeOmqMPoFv0RM=;oKArubUfQNclx5Wf2GCWnQ=="
 ---

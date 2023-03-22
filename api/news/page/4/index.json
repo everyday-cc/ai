@@ -2,6 +2,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-20-artificial-intelligence-institute-set-up-in-south-africa.md",
+      "title": "Artificial intelligence institute set up in South Africa",
+      "excerpt": "Communications and Digital Technologies Minister Mondli Gungubele, in partnership with the Tshwane University of Technology (TUT) and the University of Johannesburg, launched the Artificial Intelligence Institute of South Africa (AIISA).",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
+      "originalUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mg.co.za/wp-content/uploads/2023/03/artificial-intelligence.jpg",
+          "width": 1600,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
+      "publishedDateTime": "2023-03-19T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail & Guardian",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series.md",
+      "title": "Media Alert: BrainChip Illustrates AIoT Readiness at the Edge Impulse ML Series",
+      "excerpt": "Please join BrainChip at Edge Impulse ML by registering for one or more of the upcoming showcases via the following links: BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market, fully digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31413103",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31413103",
+      "publishedDateTime": "2023-03-19T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
       "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
       "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
@@ -10,7 +98,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1119,109 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-your-next-negotiating-partner-artificial-intelligence.md",
-      "title": "Your Next Negotiating Partner: Artificial Intelligence",
-      "excerpt": "Now, it appears that chatbots, powered by artificial intelligence, may be entering mainstream usage. The question is, can they recognize a good deal when they see one? Perhaps not. But for people on the front lines of negotiation, AI-powered chatbots may ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64148cdad249225dc8ac663b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 754,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/03/17/your-next-negotiating-partner-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-03-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore.md",
-      "title": "Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore",
-      "excerpt": "Read: As chip sales dry up, Nvidia CFO says spending on AI will save companies money Moore was previously on the sidelines on Nvidia because he worried about data-center and gaming trends. That dynamic has “largely played out,” he wrote Thursday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "originalUrl": "https://www.marketwatch.com/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-701752/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-stock-upgraded-as-ai-deemed-too-much-of-a-megatrend-to-ignore-913e6130",
-      "publishedDateTime": "2023-03-17T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

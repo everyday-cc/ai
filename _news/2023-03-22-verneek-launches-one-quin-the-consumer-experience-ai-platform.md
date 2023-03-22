@@ -23,17 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Coke asks consumers to generate art with new AI platform"
-    excerpt: "Coca-Cola unveiled an artificial intelligence (AI) platform that is the first of its kind to combine ... \"Create Real Magic\" combines OpenAI's GPT-4, the startup’s most advanced large language model to date, and DALL-E, which generates images based ..."
-    publishedDateTime: 2023-03-21T13:22:00Z
-    webUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-marketing-art/645465/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 17
-
 secured: "gZKlCFPrmSRUa/RJh5KiB93Y48D9GUD4a/sxzXqhPx3cD8Bwwg+p7po1G5i0nxvP2IybIJnnRT7k5+s9veFmjhcQ6Pc0h6lM+/Js92bDBYSfyRsoWyqwJvjNifsauSZtwPhtBsScpJcMi7yiPZLGPIME3wIa7DJ+MxTtGpPsENd3x8sgb1dJJS4X8TvS5flYIkf6HkCiZDcuhxh0j7jihS2yFt8rbVB/mCn/xLTCUb+G2OJmN5+ZrZNSm+elwJhRFWAJHniszdwjkfkIgTCMT+FKxFsyYugua1bmyaylX+gf4YzB1KPFkZNijXbsjpKu8DRsRpOWMqg3D09dPKiaXkcKFOgx7H7gPyHzNaWcM0E=;9+KV9IckaGvndREwZubMgQ=="
 ---
 

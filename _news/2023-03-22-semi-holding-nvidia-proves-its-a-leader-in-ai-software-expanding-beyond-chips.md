@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves"
+    excerpt: "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ..."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/"
+    ampWebUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Departing Intel exec to focus on loosening Nvidia's grip on AI for movies, games"
     excerpt: "REUTERS/Arnd Wiegmann March 21 (Reuters) - Raja Koduri, the chief architect at Intel Corp (INTC.O), is leaving to start a company that aims to loosen ... lets movie and game artists easily use those AI tools whether they are using a PC, Mac, iPad or ..."
     publishedDateTime: 2023-03-21T20:51:00Z
@@ -195,6 +211,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "TYAN’s AI Inference-Optimized Platforms Add Support for NVIDIA L4 Tensor Core GPU"
+    excerpt: "TYAN, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary,"
+    publishedDateTime: 2023-03-22T16:22:00Z
+    webUrl: "https://www.datanami.com/this-just-in/tyans-ai-inference-optimized-platforms-add-support-for-nvidia-l4-tensor-core-gpu/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 49
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Adobe launches generative AI tools aimed at marketers"
     excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."

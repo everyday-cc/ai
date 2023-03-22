@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "Supermicro announces new AI development platform powered by NVIDIA"
+    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
+    publishedDateTime: 2023-03-22T16:13:00Z
+    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "DDN Takes The Next Step To Simplify AI Supercomputing Adoption"
     excerpt: "DDN Announces Compatibility with NVIDIA DGX H100 Systems and New Partnership with Lambda to Address the Needs of Enterprises Seeking to Accelerate A"
     publishedDateTime: 2023-03-21T19:04:00Z

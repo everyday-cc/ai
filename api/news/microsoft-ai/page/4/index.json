@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-22-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service.md",
+      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service",
+      "excerpt": "The Hugging Face community can leverage AWS ML services and infrastructure, such as Amazon SageMaker, AWS Trainium and AWS Inferentia, to train, fine-tune and deploy the models. With the hype and attention that LLMs have been getting, I expected AWS to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
+      "publishedDateTime": "2023-02-22T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
       "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
       "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
@@ -1425,58 +1469,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-the-inside-story-of-how-microsoft-caught-up-with-google-on-ai-and-the-unlikely-executive-who-made-it-happen.md",
-      "title": "The inside story of how Microsoft caught up with Google on AI, and the unlikely executive who made it happen",
-      "excerpt": "Google Cloud to Microsoft Azure At the time, OpenAI had just released a large language model along with a research paper on the gains that could be made by combining two existing ideas in the AI field: transformers and unsupervised pre-training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-caught-up-with-google-ai-openai-chatgpt-2023-2",
-      "originalUrl": "https://www.businessinsider.com/microsoft-caught-up-with-google-ai-openai-chatgpt-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e58a4427e5db0018ef052d?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

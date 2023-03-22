@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ubisoft-is-using-ai-to-write-dialogue-f
 webUrl: "https://www.pcmag.com/news/ubisoft-is-using-ai-to-write-dialogue-for-video-game-characters"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters"
+    excerpt: "Ubisoft announced that it's using an AI \"Ghostwriter\" tool to automatically write dialogue for some NPCs in its games."
+    publishedDateTime: 2023-03-22T15:53:00Z
+    webUrl: "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/"
+    ampWebUrl: "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1438362948.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uOnGUPZIbdhknELKU0/LAxy5WjiuDGmCKTF+tNxtfiwQ343sUJYvBmy3V1D0DCVCKWzVE16fo/kMIgKP9vxysAv39SyO6ykwZl9ZXejIgbQvsKlVGSnn3hVmjpE83WOkSoVzVJgNwf9wQUBFnA10rzXjuH985Unx/06x6gqc6Kg1pyUiRF3aMIRcferwe2ZVRAljtVlRHU3vHrVstH2Bg4fcfhj6+gsdVPxjlDMrWWTpzbjVPimwQY+H0VFlwkHpbbFfLyORqwp8KHKTO82O0ZEpgkUHTjL7t1chtOXJrYEecfaThBlxGLf42j5Gzh+ofjom9OXCAYuIr9cjEzhRLhRy8VAg5jByGa52IT0CnocOSfQ1wL7CCvPsTwhzl9ANFNLxMhkHKpxZ6B1eSD9WdhQ/Z++3BsQtNAdWmFnCYOsSZzHUHZ8lD6Eox4g35hlK55pUVfpoHLhWbKiouATDAXZDjLsz0H85qDkB+1LFIkMPT1cKmszFKc8jKJElFIP5Unof1qBp/YH82Zx6sew3EQ==;N6Du1lcI9nssgpM8VlZ4gw=="
 ---

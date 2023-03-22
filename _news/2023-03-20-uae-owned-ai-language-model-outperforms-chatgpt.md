@@ -113,6 +113,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
+    excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."
+    publishedDateTime: 2023-03-22T15:56:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31457849/nvidia-ceo-proclaims-ais-iphone-moment-has-begun-analysts-respond"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/nvidia_headquarters.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT AI now more powerful"
     excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
     publishedDateTime: 2023-03-20T15:01:00Z
@@ -132,13 +146,13 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
     publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+    webUrl: "https://www.star-telegram.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
     quality: 15
 
 secured: "WT0Iv7I9wjwsBgNsTwhh3K9JIGJThkcrQqcXNN4EoqGkhAOw0mQAyXGDSKQ4EmFbfEQxlskhs62+ZKanM0AhtvbUb2yzU1BOQ5DMTdyVUeTdr7XzK3/+s5tNglbDNzn2/JY3dxl5a6JdBq6/U/FbQSdYs9Lzzjm2URV9D4fJ2ewhBn+kncz789cNaXVqZN7XLGV1AITUkT8bPkWpyW23hU5/zKgCHW/XnFRcjS4yeUO8GbhRc+gt+4nZMag3Nc7Fu8x6xg7vqrZx8MEqOGlmOIqkqOaKHWflf56OewkZSJSRxFiO4vQ1TWkkC917DI92iRX6YDO8TK80wjr6SIZkKsi+39fukQfDnME4eRM1OU5J5zRDfeIK0+6ceb2nqLhdY1Z9nAE2333dCyFN9VMoShFonSHjlPpdO83TNRQtpLeJ5Oh7rZl6XVtRMaNq0g39UCczNj35VZw1NJ4p9Xg9tjxSARXZDQkOBVyTUU5cXb6CkKv6uiipQqkdcUFweCftd+BUrxtMsTAUFKx1jFU9yw==;5wtKPKNbdfvMQi8zYCEuGA=="

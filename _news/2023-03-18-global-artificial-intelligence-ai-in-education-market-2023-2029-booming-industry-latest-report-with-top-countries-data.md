@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2023-A Detailed Analysis till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence Platform Market Size 2023-2028 | New Report (126 Pages) | In This Reports Artificial Intelligence Platform Market ..."
+    publishedDateTime: 2023-03-22T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2023-a-detailed-analysis-till-2029-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Outlook to 2028"
     excerpt: "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions"
     publishedDateTime: 2023-03-21T04:49:00Z

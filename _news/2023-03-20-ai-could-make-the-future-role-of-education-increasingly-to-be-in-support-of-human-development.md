@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GitHub unveils Copilot X: The future of AI-powered software development"
+    excerpt: "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests."
+    publishedDateTime: 2023-03-22T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/"
+    ampWebUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all"
+        width: 1199
+        height: 673
+        isCached: true
   - title: "Generative AI: Imagining a future of AI-dominated creativity"
     excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
     publishedDateTime: 2023-03-18T22:20:00Z
@@ -119,20 +135,6 @@ related:
       - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Talk to Your Bank: The Power of AI, ChatGPT and Conversational Banking"
-    excerpt: "The rise of AI and conversational technology, though revolutionary, is racing ahead so quickly that regulators are struggling to keep up. Startups and fintech companies are seizing upon the abundant use cases in banking, disrupting the traditional industry ..."
-    publishedDateTime: 2023-03-17T23:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/23906/talk-to-your-bank-the-power-of-ai-chatgpt-and-conversational-banking"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        width: 2250
-        height: 1500
         isCached: true
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."

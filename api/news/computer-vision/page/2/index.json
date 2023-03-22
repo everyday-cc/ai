@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-01-tirupati-temple-facial-recognition-system-for-darshan-from-today.md",
+      "title": "Tirupati Temple: Facial recognition system for darshan from today",
+      "excerpt": "The facial recognition system is set to begin on an experimental basis at Tirupati temple from 1 March. The system will help the management in dealing with impersonators and the misuse of temple servi",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
+      "originalUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/03/01/600x338/Tirupati_Balaji_1677633664437_1677633664671_1677633664671.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
+      "publishedDateTime": "2023-02-28T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-amazons-no-1-best-selling-robot-vacuum-is-39-off-for-spring-cleaning.md",
       "title": "Amazon's No. 1 best selling robot vacuum is 39% off for spring cleaning",
       "excerpt": "Eufy makes some of the bestselling robot vacuums on Amazon and best robot vacuums of 2023 overall. Right now, you can snag a new Eufy robot vacuum for a great price. We've found the best Eufy robot vacuum deals at Amazon and Walmart to help you get ready for spring cleaning.",
@@ -1326,49 +1369,6 @@
       "provider": {
         "name": "Automation World",
         "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
-      "title": "State’s face recognition app for pensioners’ annual verification",
-      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "publishedDateTime": "2023-02-13T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

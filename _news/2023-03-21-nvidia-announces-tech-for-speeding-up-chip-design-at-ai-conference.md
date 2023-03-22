@@ -147,6 +147,20 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
+    excerpt: "Perhaps no tech company, not even Microsoft or Google, is better poised than Nvidia to reap significant near-term benefits from the race to build up generative artificial-intelligence capabilities. Here is the problem: Everyone already knows it ..."
+    publishedDateTime: 2023-03-22T17:26:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-748612/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
     excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
     publishedDateTime: 2023-03-22T14:55:00Z
@@ -176,6 +190,22 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/nvidia-h100-nvl-jensen-huang.jpg"
         width: 860
         height: 491
+        isCached: true
+  - title: "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law"
+    excerpt: "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development."
+    publishedDateTime: 2023-03-22T17:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-748583/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."

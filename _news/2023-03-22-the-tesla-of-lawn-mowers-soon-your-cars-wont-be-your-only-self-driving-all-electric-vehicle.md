@@ -33,21 +33,21 @@ related:
         width: 4000
         height: 2666
         isCached: true
-  - title: "Cars With Self-Driving Capabilities Are Watching You"
-    excerpt: "Self-driving cars still don’t exist, despite a decade of research and development from both start-ups and legacy automakers. But Level 2 vehicles with advanced driver-assistance systems similar to self-driving technology do exist, and those cars are more ..."
-    publishedDateTime: 2023-03-18T00:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/"
-    ampWebUrl: "https://www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/cars-with-self-driving-capabilities-are-watching-you/amp/"
+  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
+    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
+      name: KRON4 News
+      domain: kron4.com
     quality: 44
     images:
-      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/17/5e71d3261842978c51e058958517ff65.jpg?quality=80&resize=1280,720"
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
         width: 1280
-        height: 720
+        height: 960
         isCached: true
 
 secured: "EbnyQSb3B1WxD68YxntHZXfSzmBRnrpCpKaYk2hvwtMlSFTUHWf5JxaUCAkbZoFknksq7bMf/dbbqL7H/nLTAoCHzYNwmMcO1HXG4ZT04CHTXmm007rLGp5nS6vVR/MB+/tvCBxlGy4mastOOyDxm8HJHNbYsXwkrPAPncKXbvULaggy8344CvTiWGlHC5inhSl1toA2gSuAgqd1TRsgIDaxx18fFFaFl5xHU2LUoCQYFCpYm12iYKFV+Itf7QyDeO/aC8almopAb16qbzApolj4JQB86MlQ2AQub5KK8Hi1zWQdXZe7Lsd46s7ukxb0W2XLrrBirvA3YNaYzWIJGxod6CjR3RV8Z8YWLLYk+ds=;oV2x2KUhaAb+qVt21sd72A=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
+      "title": "Working with AI robots could worsen human work cultures",
+      "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures-11679507470823.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2018/12/28/600x338/Opinion_1545994499293.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html",
+      "publishedDateTime": "2023-03-22T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
       "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
       "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
@@ -436,7 +479,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1354,58 +1397,6 @@
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-robot-lawyer-donotpay-is-being-sued-by-a-law-firm-because-it-does-not-have-a-law-degree.md",
-      "title": "'Robot lawyer' DoNotPay is being sued by a law firm because it 'does not have a law degree'",
-      "excerpt": "DoNotPay, which uses AI to provide legal services, is facing a class action lawsuit filed by Chicago-based law firm Edelson.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
-      "originalUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/640c58258b8d9b0018cacd71?width=1200&format=jpeg",
-          "width": 1084,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp",
-      "publishedDateTime": "2023-03-12T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

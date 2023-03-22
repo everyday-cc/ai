@@ -62,7 +62,7 @@ related:
       domain: menafn.com
     quality: 49
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153460"
         width: 333
         height: 250
         isCached: true
@@ -80,15 +80,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "fC8Z4OoNlPqrAiXUhDpy5lx84FWEZgMGawBOOvFcj30R9AUkPas8702g5TMAwt63uzSB59/xNq4WpOa7tRhSiU5ezs3AYg1tY/JVX63ddeVpC3L7i9CNwSUoIV6pRd20mF2abetVjf+NfIEghjPvmI/pCYh8/CN9jmERNufZ8nUtqwbN4z1Jxk2r7d16M76KAEtlX9pUh9VsHghm7BYr5lVd6OeiBEA1gVyXe+2GSM15OS3S4FN5lMF1MkGwDC1e7rdSbUEXauyTTnqbcj4Ql0ps6OFdxcHa9LBM5TeJWqeWIbOQpSgHr/gubCOiQ5vqvv+zJ9x8v4H1Xa1TdelKH3G3y2RGvsUFpKmhsv4se99LSJvmptg4YdpnOhAablEgVrqMUIXffOqEBUpn5D4jA8yv0wTHEx4WVWxcUcdiFbGkboN2O9ClLzMClCJp3SiPNFWveOCzWfE0PXzHBn31gexDqLEXKNOTpjyvDRhOnqFBW/REIDsnk+7YmD8E8LqpkNmNJcq8SSTGLhIKWNKahA==;7dmSNtqM69L3GNOYwIpWvQ=="
 ---

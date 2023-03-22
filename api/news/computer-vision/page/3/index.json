@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
+      "title": "State’s face recognition app for pensioners’ annual verification",
+      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "publishedDateTime": "2023-02-13T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025.md",
       "title": "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ...",
@@ -1201,40 +1244,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-face-verification-130-from-neurotechnology-includes-improved-algorithms-for-face-recognition-and-liveness-detection.md",
-      "title": "Face Verification 13.0 from Neurotechnology includes improved algorithms for face recognition and liveness detection",
-      "excerpt": "It includes a small-footprint version of Neurotechnology’s latest facial recognition algorithm – which ranked among the top results in the NIST FRVT 1:1 evaluation – making it ideal for digital identity onboarding, payment, banking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "publishedDateTime": "2023-02-06T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions.md",
+      "title": "Automate Amazon Rekognition Custom Labels model training and deployment using AWS Step Functions",
+      "excerpt": "With Amazon Rekognition Custom Labels, you can have Amazon Rekognition train a custom model for object detection or image classification specific to your business needs. For example, Rekognition Custom Labels can find your logo in social media posts, identify your products on store shelves, classify",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/automate-rekognition-custom-labels-step-functions.jpg",
+          "width": 1149,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:45:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
       "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
       "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1390,49 +1443,6 @@
       "provider": {
         "name": "Dronelife",
         "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-tirupati-temple-facial-recognition-system-for-darshan-from-today.md",
-      "title": "Tirupati Temple: Facial recognition system for darshan from today",
-      "excerpt": "The facial recognition system is set to begin on an experimental basis at Tirupati temple from 1 March. The system will help the management in dealing with impersonators and the misuse of temple servi",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
-      "originalUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/03/01/600x338/Tirupati_Balaji_1677633664437_1677633664671_1677633664671.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
-      "publishedDateTime": "2023-02-28T17:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -62,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -787,6 +787,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-microsoft-introduces-ai-assistant-google-usm-advances-more-news.md",
+      "title": "Microsoft Introduces AI Assistant, Google USM Advances, More News",
+      "excerpt": "Google Universal Speech Model (USM) for AI Language Google researchers have ... voice-controlled devices and language translation. Google has already used the USM to develop a new speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/e768317140584cc4a0f2f6974e4f445b.ashx",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/microsoft-introduces-ai-assistant-google-usm-advances-more-news/amp/",
+      "publishedDateTime": "2023-03-10T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
       "title": "The ‘Search’ For Simpler Analytics",
       "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
@@ -964,6 +1008,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-could-a-chatbot-write-this-article.md",
+      "title": "Could a chatbot write this article?",
+      "excerpt": "This makes it a powerful tool for various applications such as conversational AI, language translation, text summarisation, and more. Its advanced AI capabilities also make it a valuable research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
+      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1350,101 +1428,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping.md",
-      "title": "Schools Are Using Voice Technology to Teach Reading. Is It Helping?",
-      "excerpt": "They try to replicate the experience of a teacher listening carefully and identifying potential problem areas in comprehension, pronunciation and letter recognition. Voice technology — especially the use of an AI bot that talks back to the learner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
-      "originalUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edsurge.imgix.net/uploads/post/image/15247/shutterstock_1682594902-1677877922.jpg?auto=compress%2Cformat&w=640&h=480&fit=crop",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
-      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
-      "publishedDateTime": "2023-03-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdSurge",
-        "domain": "edsurge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
-      "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
-      "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "publishedDateTime": "2023-03-06T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

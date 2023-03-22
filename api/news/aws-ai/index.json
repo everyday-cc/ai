@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions.md",
+      "title": "Automate Amazon Rekognition Custom Labels model training and deployment using AWS Step Functions",
+      "excerpt": "With Amazon Rekognition Custom Labels, you can have Amazon Rekognition train a custom model for object detection or image classification specific to your business needs. For example, Rekognition Custom Labels can find your logo in social media posts, identify your products on store shelves, classify",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/automate-rekognition-custom-labels-step-functions.jpg",
+          "width": 1149,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:45:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas.md",
+      "title": "Build a machine learning model to predict student performance using Amazon SageMaker Canvas",
+      "excerpt": "There has been a paradigm change in the mindshare of education customers who are now willing to explore new technologies and analytics. Universities and other higher learning institutions have collected massive amounts of data over the years, and now they are exploring options to use that data for deeper",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/22/student-prediction-sagemaker-canvas.jpg",
+          "width": 1152,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T09:40:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap.md",
       "title": "Machine Learning in Healthcare Market Global Outlook 2023 to 2030 | Google Inc., Amazon Web Services, Inc., Sap",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (Concur Wire via Comtex) -- New Jersey, USA: Global Machine Learning in Healthcare Market Overview: The Machine Learning in Healthcare market report provides a ...",
@@ -52,110 +158,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Remote monitoring of raw material supply chains for sustainability with Amazon SageMaker geospatial capabilities",
-      "excerpt": "Deforestation is a major concern in many tropical geographies where local rainforests are at severe risk of destruction. About 17% of the Amazon rainforest has been destroyed over the past 50 years, and some tropical ecosystems are approaching a tipping point beyond which recovery is unlikely. A key",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/ML-13300-quicksight2.png",
-          "width": 879,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T09:48:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit.md",
-      "title": "Build custom code libraries for your Amazon SageMaker Data Wrangler Flows using AWS Code Commit",
-      "excerpt": "As organizations grow in size and scale, the complexities of running workloads increase, and the need to develop and operationalize processes and workflows becomes critical. Therefore, organizations have adopted technology best practices, including microservice architecture, MLOps, DevOps, and more,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/build-custom-code-libraries.jpg",
-          "width": 1149,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T09:27:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     },

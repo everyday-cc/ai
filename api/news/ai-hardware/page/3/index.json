@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-01-apple-once-again-plans-to-ditch-qualcomm-chips-analyst-says.md",
+      "title": "Apple once again plans to ditch Qualcomm chips, analyst says",
+      "excerpt": "Apple analyst Ming-Chi Kuo has said for several months that Apple's attempts at creating a 5G chip were futile, but now Kuo says Apple's homemade chip will debut in the next iPhone SE and is expected to be released next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apple-restarts-plan-to-ditch-qualcomm-chips-analyst-says/",
+      "originalUrl": "https://www.zdnet.com/article/apple-restarts-plan-to-ditch-qualcomm-chips-analyst-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/790e99796e03cb917c2b9f12a9a49b93db4643df/2022/05/24/d3ac7a93-867a-4e4d-9562-1a7f646a68e9/gettyimages-1240598900.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apple-restarts-plan-to-ditch-qualcomm-chips-analyst-says/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-restarts-plan-to-ditch-qualcomm-chips-analyst-says/",
+      "publishedDateTime": "2023-02-28T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-scientists-eye-lab-grown-brains-to-replace-silicon-based-computer-chips.md",
+      "title": "Scientists eye lab-grown brains to replace silicon-based computer chips",
+      "excerpt": "Silicon computer chips are fast approaching physical limits. Replacing them with rudimentary minibrains might be the next step forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
+      "originalUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/02/28/Depositphotos_357533210_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/brain-organoid-biocomputer/?amp",
+      "publishedDateTime": "2023-02-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar.md",
       "title": "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar",
       "excerpt": "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link.",
@@ -1413,102 +1508,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-ai-is-coming-to-your-bing-and-google-searches-apples-m2-chip-and-super-bowl-streaming.md",
-      "title": "AI is coming to your Bing and Google searches, Apple’s M2 chip and Super Bowl streaming",
-      "excerpt": "AI tech called Multitask Unified Model ... my boss and TechCrunch editor-in-chief Matthew Panzarino explored the company’s latest in its M line of chips, and went deep on the M2 MacBook Pro and Mac mini models. Spoiler alert: They’re faster.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/11/ai-google-bing-apples-m2-chip-super-bowl-streaming/",
-      "originalUrl": "https://techcrunch.com/2023/02/11/ai-google-bing-apples-m2-chip-super-bowl-streaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-11T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
-      "title": "Deep Learning Processor Chip Market to Grow Significantly by Leading Players 2023 to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 09, 2023 (The Expresswire) -- \"Deep Learning Processor Chip Market\" Size, Share and Trends Analysis Report 2023 - By Applications (Automotive, Consumer Electronics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

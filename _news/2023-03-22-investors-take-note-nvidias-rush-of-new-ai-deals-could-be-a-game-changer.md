@@ -151,6 +151,20 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
+    excerpt: "Perhaps no tech company, not even Microsoft or Google, is better poised than Nvidia to reap significant near-term benefits from the race to build up generative artificial-intelligence capabilities. Here is the problem: Everyone already knows it ..."
+    publishedDateTime: 2023-03-22T17:26:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-748612/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
     publishedDateTime: 2023-03-21T22:19:00Z
@@ -166,6 +180,22 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/nvidia-h100-nvl-jensen-huang.jpg"
         width: 860
         height: 491
+        isCached: true
+  - title: "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law"
+    excerpt: "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development."
+    publishedDateTime: 2023-03-22T17:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-748583/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia has come to dominate the field for selling chips used to developing generative AI technologies, which can answer questions with human-like text or generate fresh images based on a text prompt. Those new technologies rely on the use of thousands of ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/st
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
-    excerpt: "SAN FRANCISCO, March 20 - Runway, the startup that co-created the popular Stable Diffusion AI image generator, has released an AI model that takes any text description – such as “turtles flying in the sky” – and generates three seconds of matching ..."
-    publishedDateTime: 2023-03-20T13:07:00Z
-    webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Runway debuts AI model that can generate videos from text"
     excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
     publishedDateTime: 2023-03-20T22:20:00Z

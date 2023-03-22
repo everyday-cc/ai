@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "Award-winning AI artist vows appealing copyright rejection up to Supreme Court"
+    excerpt: "AI-generated creations are made by allowing software to be ... said there are still \"so many unanswered questions about ethics, legality, and societal impact that will no doubt be the focus of conversations for the months to come.\""
+    publishedDateTime: 2023-03-22T17:24:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/courts/colorado-artist-ai-copyright-case-supreme-court"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 35
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55a1c1b/2147483647/strip/true/crop/4338x2277+0+307/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F01%2Ff7%2F1ab6115542b9a4abec2060464c07%2Fap23080575494759.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iY4ftLSYOKOWxPEzlDg6Sv4kEls+PJNwmiI9SxYpORggxYi6wehPNHzHrmed8kJV8RL8SjvyHn86tMgLR736eegWqFFgad9KQ/OcWU3EnmsXl3vtYEpO2gt9u1r+XdJHEgopSFogHJnoB5tjfEI8mG2gDlBIJ/9NwqTCbd15WQ0nLfa+KJL5dyPxwTo2cILWcx7n2tjwdWEMnfPHW1T1DK4Ln71EP1BdsEbh2Fc2U+Wo80JZ4Fs7RTbkovv+nMGEZyWwFs3Kq1C4yrtosR9TFV8t8fTJqjl9IzJH8EWBd+RS74T2cPanZKIxL2vShS+GwPH0vySsQAA3Fc3TcAkEm7pPEZXmlQWHwXefB4bwQPw=;6QZEspsI4sQG2DNJDIOuJQ=="
 ---

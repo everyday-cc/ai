@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Supermicro announces new AI development platform powered by NVIDIA"
+    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
+    publishedDateTime: 2023-03-22T16:13:00Z
+    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
     excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
     publishedDateTime: 2023-03-21T19:27:00Z

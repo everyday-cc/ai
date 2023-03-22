@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153460"
     width: 333
     height: 250
     isCached: true
@@ -76,16 +76,16 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
-secured: "1cmgVQuEE6dXt7rTYHthzqnSmHN7arWMH4qsX3nPFBaKlIYaXE2486d3OYMbCOdqjWCoZRqoAFh39h5C2xxURzfg22YSSlDjDwl4wNCsqg+dcZdqTJhaKKf6XUcqDNmdJTHJ4iyp1Cu47zYo7JYcRsuUK5Xwoqm/gBPA90kcnOVUjpHAtnbrVNXeg+6Pui5CQlfI4ajQ1JuBoFS+6vPl/7DK536K/gu0xB+CtkSJlZgjnNx4oPIkA0dsB/RBSVp9U7OgQRytOodLrVc5FTg+CfkYEh1VNE9a6wh+plxw9JxAR1e9BYc6ZYXCi8PPxr2tbaXms/gM3JLasCavMX8Atae81UD8OPVsAW/PBlIq2dU=;o8t6hlqjnVn8PKyWiVGmzA=="
+secured: "Gc6in9QqG1IDfMsw3NuGn3/uQEFvRVfvcPuyxzX3AlPpe26EYAm924Er4NE9/msDjwB3fuKSZlXV3M3q1LOu6RvRXRloG+ewip2Jz/ShrSrW2NpjIruAO/Hqqg1wWbmLMnSbCo2nAakU780YxiSKrKGirldb0HLjrbe+GORlXrsDWU061+kDfdZLhHlthMcf+Utiir2zBo5Opwc62y/Y5SI5VdDWO/iSmG21jRi+/K0zfOls6e7dst9DA1SI4lMGZr6TUX85pHyapGO45J9uAxDSoCwasNG+NRCZY2C0hsn33FnJ02tanSnmTOF8UGKTtIK/cEyH320pWvi7i06D3xEEFO76Ty31cVoyeCSaYGo=;0jXokK2/8MBIePSJtpl/Dw=="
 ---
 

@@ -182,6 +182,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
+    excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
+    publishedDateTime: 2023-03-22T13:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
+        width: 1200
+        height: 821
+        isCached: true
   - title: "What Happens When Your AI Chatbot Stops Loving You Back"
     excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
     publishedDateTime: 2023-03-18T11:36:00Z
@@ -339,22 +353,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
-    excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
-    publishedDateTime: 2023-03-22T11:16:00Z
-    webUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341"
-    ampWebUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 52
-    images:
-      - url: "https://i2-prod.irishmirror.ie/incoming/article29521540.ece/ALTERNATES/s1200/0_GettyImages-1247150492.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Interactive Hrtech Startup Amara Transforms Employee Experience With An AI Chatbot"
     excerpt: "Being an AI chatbot, Amara chats with employees at critical touchpoints ... across the globe and is continuing to move on the growth trajectory. The early-stage startup has a headcount of 31 and expects to reach 50 by the end of FY22-23."

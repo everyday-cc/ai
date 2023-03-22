@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
 type: article
 quality: 102
-heat: 195
+heat: 205
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
+    excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."
+    publishedDateTime: 2023-03-22T15:56:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31457849/nvidia-ceo-proclaims-ais-iphone-moment-has-begun-analysts-respond"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/nvidia_headquarters.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT AI now more powerful"
     excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
     publishedDateTime: 2023-03-20T15:01:00Z
@@ -137,13 +151,13 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
     publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+    webUrl: "https://www.star-telegram.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
     quality: 15
 
 secured: "DnnofeNus57bsWxFOprf7fJLzXNguEZsUu1qtIZxmcYr95XLV+u6OjN8tzohh8vM8Q5VEAM8/KQGt4kGR+2pkOwoz5L10ik+sp4+oZVJg+TwtI49e3FS18CUZK6nQxixZPnaoW5MVfpP8g5Dl4ZZ/jFDN6ShPlF46SBzNSkuQrY7p28UtFQgiYXPZqm/sP24Dwi0BKLwfoJAS+im65/yXv5Onz9ffZmJ8sCCT9ydifr7/emle0V/yUm1Pe7m1Nwbv7LVQY6/bxMiQQbSI+mWLuFspzQh6KYNrn8Iw6DZNkTEMx6maY4Cya/O8vtZ9RLrd4LRR23BjLm3DhXth8ju4wkbdmmj6tihkZ1R0bYGPsGEYiSfWFCNNWS1Cea6uBEApCQuc9wDUetParY/iZX6eRc8xsCQe+pzGHQ6r2GbNig76foGWG4HoviYtH58FuZotTCsZJfR+BMA4v32G6PXjhh8aoKMzo/b5qbo8hZp3RzFggDBE+wA66DA5ZUqcUXFUGH9ON4ey+4h0kr/kcowag==;1Jdt/y4zr9njG1uBe5O3IQ=="

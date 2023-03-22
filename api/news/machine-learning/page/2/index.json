@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
+      "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
+      "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
+      "originalUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike.md",
       "title": "What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike",
       "excerpt": "Large language models (LLMs) have come a long way; but they have a long way to go, too. How evolving techniques are advancing the technology.",
@@ -1352,51 +1404,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-systems.md",
-      "title": "Microsoft and MITRE Create Tool to Help Security Teams Prepare for Attacks on Machine Learning Systems",
-      "excerpt": "New Arsenal plug-in brings together Microsoft Counterfit, MITRE CALDERA™, and MITRE ATLAS™ to help cybersecurity practitioners better understand threats to machine learning systems Microsoft and MITRE have developed a plug-in that combines several open ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31174152",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31174152",
-      "publishedDateTime": "2023-03-02T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

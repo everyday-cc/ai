@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
+      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
+      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
+      "publishedDateTime": "2023-02-27T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should.md",
       "title": "ChatGPT and ethical decision making: It’s not what can be done, but what should",
       "excerpt": "It’s important to remember that ChatGPT is an impressive research ... the Microsoft AI chatbot Tay, which was shut down after it began posting offensive tweets, and Facebook bots that created ...",
@@ -1303,40 +1356,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands.md",
-      "title": "Scams, deepfake porn and romance bots: advanced AI is exciting, but incredibly dangerous in criminals’ hands",
-      "excerpt": "One of the biggest headlines in the gaming community last week involved a deepfake porn scandal. Such material is one example of how generative AI can cause immense harm.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "originalUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "publishedDateTime": "2023-02-05T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

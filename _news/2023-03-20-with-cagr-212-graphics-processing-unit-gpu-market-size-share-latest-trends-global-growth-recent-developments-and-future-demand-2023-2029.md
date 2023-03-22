@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "With 14% CAGR, IoT in Healthcare Market Trends, Demand, Growth and Future Scope 2023 To 2029 | Medtronic, Cisco Systems, Agamatrix"
+    excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the final copy of the detailed research report on the IoT in Healthcare Market."
+    publishedDateTime: 2023-03-22T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-with-14-cagr-iot-healthcare-market-trends-demand-/2023/03/22/9781633.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "e/HuyPujuIKBzRWgGrkCptuwwmRLUSlscuQAPJm2cPP9YGqXsBmqUGIMNFkwav8xtY2HtOHglU5GR3aXl/sWIlGkIt0gNYZqYgv7JkHVeHsXQbnp9qyhyIiuT3xk8KqARVPQ8iKcP7+YnmNsy72CkTE5u2w8mQUufR6Ilkvaf7fdwY5WEyUszDvFU2dXrgRwT/lvv2WLuXrPkJ9GPZU3pLiNFQublrBA9z9ETzePwQ4bgtOgISrzigyoT7IiN2eferjMRsryXJhtRxa9Y5o5YkxZEyPbHMX2lkGsXT49VYsE5qCSDzKgcDIzkFABZrcn4ta0D2V5Tq6hrYHksCCR6NvdNkQZ/Dn6vl9+RSTJb4E=;f5QuoFzbi8+36pj765VmIg=="
 ---
 

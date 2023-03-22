@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "Ethical AI art generation? Adobe Firefly may be the answer"
+    excerpt: "Since the mainstream debut of image synthesis models last year, the field has been fraught with issues around ethics and copyright. For example, the AI art generator called Stable Diffusion gained its ability to generate images from text descriptions after ..."
+    publishedDateTime: 2023-03-22T17:28:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 104
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/adobe_firefly_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind"
+    excerpt: "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ..."
+    publishedDateTime: 2023-03-21T13:05:00Z
+    webUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 100
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
     excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
     publishedDateTime: 2023-03-22T13:30:00Z
@@ -33,6 +65,78 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Roblox launches its first generative AI game creation tools"
+    excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
+    publishedDateTime: 2023-03-22T03:57:00Z
+    webUrl: "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    ampWebUrl: "https://www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Adobe Launches 'Firefly,' Its Very Own AI Image Generator"
+    excerpt: "It's a large undertaking, but the company does seem to have put an emphasis on establishing a set of ethics for its use of AI, and is using those ethics as a framework to build around. As mentioned, at a basic level you can generate an image of pretty much ..."
+    publishedDateTime: 2023-03-21T17:12:00Z
+    webUrl: "https://www.slashgear.com/1234478/adobe-launches-firefly-its-very-own-ai-image-generator/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/adobe-launches-firefly-its-very-own-ai-image-generator/l-intro-1679417994.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+  - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
+    excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06yPDMFqj7rof9DhuUZR8xo-1.fit_lim.size_1200x630.v1679414750.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
+    excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."
+    publishedDateTime: 2023-03-22T15:45:00Z
+    webUrl: "https://gizmodo.com/text-to-video-ai-art-generator-runway-modelscope-ai-1850249431"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
+    excerpt: "SAN FRANCISCO, March 20 - Runway, the startup that co-created the popular Stable Diffusion AI image generator, has released an AI model that takes any text description – such as “turtles flying in the sky” – and generates three seconds of matching ..."
+    publishedDateTime: 2023-03-20T13:07:00Z
+    webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 61
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Adobe enters the age of generative AI with creative and enterprise apps"
     excerpt: "To support this work, it has set out a framework of AI ethics and is applying a formal review process within its engineering teams to try to ensure the AI it pumps inside its products reflect company need and human values. A blog post on the company site ..."
@@ -50,6 +154,22 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
+    excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
+    publishedDateTime: 2023-03-21T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
+    ampWebUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/21/Digital-images-and-photography-in-Photoshop-2.jpg?auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative AI’s Next Frontier Is Video"
     excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
     publishedDateTime: 2023-03-20T13:00:00Z
@@ -58,6 +178,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 47
+  - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
+    excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-bets-on-generative-ai-with-firefly-tool-to-create-images-from-text/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
     excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
@@ -82,6 +211,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Adobe Summit - generative AI takes a front-row seat"
+    excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
+    publishedDateTime: 2023-03-22T16:21:00Z
+    webUrl: "https://diginomica.com/adobe-summit-generative-ai-takes-front-row-seat"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 39
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-03/Screenshot%202023-03-22%20at%2016.17.21.png"
+        width: 764
+        height: 440
+        isCached: true
   - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
     excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
     publishedDateTime: 2023-03-21T13:03:00Z
@@ -91,29 +234,24 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 21
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "Coke asks consumers to generate art with new AI platform"
+    excerpt: "Coca-Cola unveiled an artificial intelligence (AI) platform that is the first of its kind to combine ... \"Create Real Magic\" combines OpenAI's GPT-4, the startup’s most advanced large language model to date, and DALL-E, which generates images based ..."
+    publishedDateTime: 2023-03-21T13:22:00Z
+    webUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-marketing-art/645465/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
-        isCached: true
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 17
 
 secured: "FMdzu1RZic0A1AlXDOk5p74ZRbDr5PHREGE9BpgitVsnkOstcCBfOgYyz4lIsrYLA1F+Y0OAROfSRHmHk9qthjZZAhE6ka0rajGPx3y5URi0tW0vUhTk7qYb730UbfyXQK40/v5VRi7M9yjt6vFmKn2Gwe31w1YaW+pwqGzOPRf4Av7KBF83Rwf33PLPfnFO0OY0KO+6f06W8rB7mpeIzKbEk4WHOIpUJz/4YZbX47L+TNfcYbjnRzf3wKNJ0Z/2KhrIT3mst1LtEjAQQSJVTINcP8I0OZLjv4s/C2mKh5sKM7Dc+wIp8uzgZhtvlP4ngj+ppIUK9AwgotiPEXjjVHJS8MATp/6ajE6ouOpuHa1dYXUQD01YBTMHvlABJ5RT74Y8ioDgh4NzMY66JB8/ST+OfF82dMsKUTCg5xo8c/7QMP+U178gX9+8WQnOsknSVGK+bkXetiWvb1g3Yh0oASL+aBB7F7u00fSohGzlS6KNe/sCrDu22hsP6Qejwr5Y1jh8BKKKC6HHrwnUj4jOgQ==;ZcbBHL/4hCqArbyxsIisOA=="
 ---

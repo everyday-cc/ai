@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
 publishedDateTime: 2023-03-20T12:45:00Z
-originalUrl: "https://www.sacbee.com/software-business/article273266260.html"
-webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+originalUrl: "https://www.star-telegram.com/software-business/article273266260.html"
+webUrl: "https://www.star-telegram.com/software-business/article273266260.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Fort Worth Star-Telegram
+  domain: star-telegram.com
 
 topics:
   - Natural Language Processing
@@ -121,6 +121,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
+    excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."
+    publishedDateTime: 2023-03-22T15:56:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31457849/nvidia-ceo-proclaims-ais-iphone-moment-has-begun-analysts-respond"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/nvidia_headquarters.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT AI now more powerful"
     excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
     publishedDateTime: 2023-03-20T15:01:00Z
@@ -140,6 +154,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "CPMPDKdNiY2k+pLeSJxIawJUsLH9w7MsASi2cX/lF32v3HfNrf7wIz+I4i8VgRBhr4P+76/emOWbWO7QY1JI8jCLpFAfIWowCYrA0dcF+dCrvaHadNrHDP7U9aPynUiKbKuwihe2BuFnKvq79b2aIzavXehdEDCWAmK1Ey65qwSaqL9d1TB7npjlH3wzssl6D+3vAB7+tWyQulKEreGlNcWe4c2jU49+1MDufheBMR5gIaHgGmWv6uM7ThnjxrirRP8J0FWwDlWcgIFehPchEjIaUbvwtFBnFo7qvJkMKkuHxJBR4jY6y5w/k/T5HOz3tzMh1wDZZKGIdmlkmWfH2ckwXmG5pRF4Qhrkzbh/8MU=;zZdnQQsoCPlb6cnLMjZMIg=="
+secured: "gUgjtd4kvg2Ewcehf/aDjqo9kLxV/lNsyjcLpgU/HyzkXIWwZf7+vvIR1RF6cRKcnG1ewU4bTckuDQaAK8Z/sXt1LpVghhXvbNMPucw/y0fM8QyYnbQz9mffljetWFnDbGbba2rpqiI7H+jgGBroo3hdEnOazlUrHPTpmLyQVTQisYG5ekFQ7iLwcSK7Owrk/wI7zqEF0uttTcqLspO9s9xJCmtNE+7l0yAPvxaO7IdLJ6uQY5BfBJoqHI9hyimQgtoxfRzhCJeDxf284+fN8o/mHC7gT/eU4EK7ZTX2KfMpJqIv6hWUkk4CDI+FAIFq1JejZNX2f9jjImVXRiyeSdqLH68d2XcKvZIz02CGFGg=;+SjiGG7LvEq8zZhn0EoDlA=="
 ---
 

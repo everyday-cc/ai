@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
 type: article
 quality: 84
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
-    excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."
-    publishedDateTime: 2023-03-22T15:45:00Z
-    webUrl: "https://gizmodo.com/text-to-video-ai-art-generator-runway-modelscope-ai-1850249431"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Tjs6cNP/pGd668ReSqz8/qOLDgc+RDyo1qQKLS3G3ypSeqeE0zHVN8iuefLMlZlZD4Zg4u7RbIIgJPi+We6ynlCahkpYkMFd/GzO6z4hshHw9o6e4EgHjmjefftuCIK4467tKE+/tHKEIgqmS77hJaFpVUdjb7y3rs+HG3ZrOHWy3oZuGFCVkgw3Xbj7AhTR/8UDPLIsUfKjYBbdYFMeIigybJX28/EzlznW2pMN9oVM2Df1Hh/cvJ72JyPjAGU8JHrF4K28dsKcS6DoNwtQ4S7weBw9JNC1Xd7HmmGTJAU2R4tYrkMzFUHAXga3LitfAWEvFYt9ZDLVFFrD8kqr2pHBiLP+Ojl4fujceqj4L86PAXOlOvhkVmbFMZ/36oCoGXfznAy6wSbUbJcdirvM3nfXv1qBPOqKO+2Qx2UsOyJR27F1NsLV/ewuCtv/X5t9PNU9IZ3xkg4sVJyZUfEEqQ6CexzYHsc4Bnlw+Vo8w3pTGEQb9nqnyEMR05osuqfZCSr8uy5ht3wn+wVO6JrQgg==;dayehwGm9U0Kvlt8yJ0Rrg=="
 ---

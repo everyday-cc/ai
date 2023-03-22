@@ -19,6 +19,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Intel GPU chief Raja Koduri quits to form own generative AI startup"
+    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+    publishedDateTime: 2023-03-22T13:52:00Z
+    webUrl: "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Raja Koduri leaves Intel to start generative AI gaming software company"
     excerpt: "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced"
     publishedDateTime: 2023-03-22T10:18:00Z

@@ -39,6 +39,20 @@ related:
         width: 400
         height: 206
         isCached: true
+  - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
+    excerpt: "(NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+        width: 400
+        height: 206
+        isCached: true
   - title: "Super Micro Computer, Inc.: Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
     excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
     publishedDateTime: 2023-03-22T13:08:00Z
