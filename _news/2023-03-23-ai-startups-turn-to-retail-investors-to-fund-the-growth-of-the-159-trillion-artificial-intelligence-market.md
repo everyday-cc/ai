@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - Microsoft AI
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/000radai.png?width=1200&height=800&fit=crop"

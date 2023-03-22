@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
@@ -405,6 +406,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "KE0i5m3BjPeKQK6dMDayVTFDephuToCDimLaJNg/cPqJze2WYrkmIKbFPRV7qMC/0ynfOBnf8JO3EmZL6qD4VctbqimQnf46RIvvBUn1f99GZfpJmPTTw6KISMXNtorv44tjb0pSaia3+GNRE2l4KPrzQT9AEADDo/bUhwUPxmAvjFWwYJlRhXil4V9cfMCCvujs+nMBighyInhjFqM+ZHJl0kbA9TsTiGWBNBL7ASdIoTMbBuA65MyrzqEZlcygRNkBKJTvh1ZbpEiQoCwOigqBaqTAS3aGuXD49SrDjFxkQFXpyowvPZG4zp9Ay0EEs298Jap2wYBbrlWHqO4g/miPjBNWs9E4yre74CDGISM=;vPstVaY6Vjp0vMW3ke+HRg=="
+secured: "vyLPx6YZiud0/HGPwUNkidcdKzuz/NVEciDD/rFpobnZcXyawJ2nBaMf/lx06vDkKjnaIOCGbMP691hmkBow/+0OD8XJJ1a66rIg808Bm2dXk2xDadFNItVqNkkJS3FTU/SoqWPwAA6+7CMrAz2He5tYfhq9VWMgo/jDF/MdSOxBppcYTO74CxgX08t0a35CLvXqGKoW6HmxqhcDQ0vBR6tRLjgPKfR+FToJI8Qz4vUN1WdG8Rm7Jyr+qP7sJdIs0hOPDvTrpHrC+/6Oq3oOhNc9zUkJaqp5Qq3r0+m0nSq+CgK6PMzLOtLnxA82sMmapvn4MW8tgaAen8zIcQfYmG+KmKRRo/x+iZaDTZTNC/FKWXlg0C3KZA55lQhGKBJl5/LXnhd58NNxY6m9yENJThQB3BH8zCjw4D+rXbso+OFhVK0tp8Eylnv7qf9c3l+0XCEkiGCe9XBBCh+ItaT6CtoqysuUV4v2fQmzrUwd/JFzS8mNwnbaQWOxCOzZq2p/Y6138jsRnbwPAFiXSiIJZg==;Pxoiv8bO7FQ2z7bn4v3cKA=="
 ---
 

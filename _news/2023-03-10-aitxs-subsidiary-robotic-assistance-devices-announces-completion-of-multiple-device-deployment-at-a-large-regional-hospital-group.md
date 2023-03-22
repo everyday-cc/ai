@@ -1,31 +1,20 @@
 ---
 category: news
 title: "AITX's Subsidiary Robotic Assistance Devices Announces Completion of Multiple Device Deployment at a Large Regional Hospital Group"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (the \"Company\") (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise"
-publishedDateTime: 2023-03-10T12:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31295288/aitxs-subsidiary-robotic-assistance-devices-announces-completion-of-multiple-device-deployment-at-"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/g31295288/aitxs-subsidiary-robotic-assistance-devices-announces-completion-of-multiple-device-deployment-at-"
-ampWebUrl: "https://www.benzinga.com/amp/content/31295288"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31295288"
+excerpt: "Eight ROSA units comprising this phase of the deployment have been configured as dual-unit ROSA-P devices in addition to one standard ROSA. ROSA-P is one of the recent additions to the ROSA lineup that uses existing light poles as its primary power source whether or not the light is centrally controlled."
+publishedDateTime: 2023-03-10T14:04:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/10/9775009.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/10/9775009.htm"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "yIv26iS49UiBc8H3oVo/Kmb/zbxyFvboIUfbDsGyILrdo+3o3brAcKpKKL1FQp6nIRD9DvLn6Dt0dYqyrOJfityzjwQUSbgdKYBgpQ8McWNhYaJ2b2VlIBUwWvDk//3gbozO+/j9rs9RveQl4SYt6rGFC6h3/eylPyGwHdi3uC2Ea7dpadgxQy/rA7XG2ZK4lgZdXdhvO+yABaWGE1BNn0BRSiZ4VHNX/AAIrq9C2KSait++jh1VdrPp5on8nXAx2Dvjg2wTEQ0Fo303dl1mHd7zrCl1VgpWpF3gohB9VGdQsvVY70ZhoIyfJtsgmi4WkGU9Rsqhy18ieLYrUzQZoCCe4W1L2InRvGthg4wr+ik=;i6r/Z9ArJZO5xEku3qoUPA=="
+secured: "sSvJbmpPwOKHk/HdpfqGpw2is8nrhno6xUMwGCfpBVxDzCMv6ungNK3DOdgFPAk5I51iEpJ2cGHmnW08rnOW9GK5XwMo5fud1UPBJdEAiXX2cLlNKrPqK0h7X6M4Aaj67rrUFOa1vOClhtcq7TE8Drr4BKhlDu+19L/eL9L90glBp3Tvg0m20xxCRffIEZBic2B2yINQaMj4b3HucBZ84mAIypBgtI/RWXCCX186wP2U1XnJ7IKkEHuk39ZyigM/VFLvksSKumRs5c4rp1p64KyMTP4sziuBZlQi0HIYu8SgFfJTSRg58ygGGDgft+BIOeoZvMHDPY3MJbsGXGRrdtWAxdQo42snL4QetAeoJQ8=;tEAVG9nn+WP0C0z/e1C22w=="
 ---
 
