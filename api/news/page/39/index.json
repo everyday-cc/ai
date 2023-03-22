@@ -2,6 +2,59 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-02-13-configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk.md",
+      "title": "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK",
+      "excerpt": "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg",
+          "width": 1567,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T10:23:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029.md",
       "title": "MLOps Market Size Analysis between Top International Players through Business Aspects way 2029",
       "excerpt": "The Global MLOps market is valued at Multimillion USD 2023 and will reach multimillion USD by the end of 2029, growing at",
@@ -1140,58 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-top-5-stories-of-the-week-ai-continues-to-reign-supreme.md",
-      "title": "Top 5 stories of the week: AI continues to reign supreme",
-      "excerpt": "OpenAI-powered Bing; AWS' ML-fueled fulfillment; IBM supercomputer creating foundation models — these are among our top stories of the week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/anirudh-kCes633Hh1M-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
-      "publishedDateTime": "2023-02-11T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

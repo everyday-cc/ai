@@ -70,17 +70,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Real challenge to build ethics into artificial intelligence"
-    excerpt: "“When we talk about AI ethics or AI values, the natural question to ask is, whose ethics and values?” he tells Inquirer. Australia to develop safe and ethical AI network At Flinders University’s College of Science and Engineering in ..."
-    publishedDateTime: 2023-03-17T13:06:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 56
   - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
     excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
     publishedDateTime: 2023-03-21T13:00:00Z

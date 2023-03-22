@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-14-manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that.md",
+      "title": "Manufacturing A Specialized New, Infused Pre-Roll? There’s A Robot For That",
+      "excerpt": "Cannabis manufacturers have an increasing need for product customization which this entrepreneur says only robotics can solve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "originalUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f36260963e482477aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 887,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joanoleck/2023/03/13/manufacturing-a-specialized-new-infused-pre-roll-theres-a-robot-for-that/amp/",
+      "publishedDateTime": "2023-03-13T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-google-waymo-sues-uber-alleges-theft-of-self-driving-car-technology.md",
       "title": "Google Waymo sues Uber, alleges theft of self-driving car technology",
       "excerpt": "Uber is facing a lawsuit from Google over claims its self-driving car technology was stolen from Google's Waymo and has been used to accelerate Uber's own development. By Joel Hruska February 24 ...",
@@ -1134,58 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
-      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

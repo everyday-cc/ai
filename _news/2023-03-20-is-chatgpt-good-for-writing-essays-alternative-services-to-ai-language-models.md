@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
-publishedDateTime: 2023-03-20T13:45:00Z
-originalUrl: "https://www.miamiherald.com/software-business/article273266260.html"
-webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+publishedDateTime: 2023-03-20T12:45:00Z
+originalUrl: "https://www.sacbee.com/software-business/article273266260.html"
+webUrl: "https://www.sacbee.com/software-business/article273266260.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Natural Language Processing
@@ -62,6 +62,22 @@ related:
       - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Five AI stocks in focus amid ChatGPT frenzy"
+    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
+    publishedDateTime: 2023-03-22T07:02:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 61
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
@@ -124,6 +140,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "jzTHBmP1JCMgLrUD+5lUCX6fui5BD3VK7UbgcaeVnJTEREZpYzCPjf925DEjh0V/cla8TQ6NDeo/dGILB51HM7yaukpb3Z8Q0lExhaXkQOPcOqqpjMUGyjEYdnNy6gwuGEOdRJdAkjwpcA89qiQCjqc29Ip7H1EBJ16nSlcdLlwAp2zVyqYe2h0vUn1sVVO7YvWsqctuSPVqZ9O5nJMF0cy+IcQGHRuumT2yJ7G7yaDWnwxuTkxcPX6DFdyAH1qJGC7cgkfS+6XV5ogHrBI7g4ZEt1ohQbTl6ATBbTnwVa5M7g163wBfkt/urB+H9cfiK1sX/cR8ngdAw2rMeCirgSotXdlOFJvfyBJwhbWBrPE=;aZKR5+V7s3GmB9Cy8v67BQ=="
+secured: "IyDH+IM9cLMXYLDSoz/uENWihUgOpx+NhggyScFEjDnwhKO1O29D+IL+TB+u8ppFPm9RoFgZkBZCJ628eFhhdn9pA9NNVlyFkNprdbxoFz8xtkg9ujYStCZdB7acPjam9eds1NR0o4CUnfcFXZUdGtc9lQUEl6YRP+Fb86r3eA7IgPTKuaTqnLnUJzcWSCgqJZfghKcGZsOS63kZ5k3bSxN+rNXY0qePvMyhbxZJBk3CXmvj6p3OfIQ/pQxRIIkCMCB4UTBubGbYvwYrDF3K9ahT6sWZq91vRlSx0Qfg1exY5MKY7ZEKWK6fo1OorocsknqX6rxwiF36otUAfvAdwsVoCfU6ZXjEEcX4j3R9FqI=;C/N3WaWQziRVlljDVVcxMA=="
 ---
 

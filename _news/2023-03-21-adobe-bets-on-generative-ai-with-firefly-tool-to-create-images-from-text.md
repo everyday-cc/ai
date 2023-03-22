@@ -67,17 +67,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Real challenge to build ethics into artificial intelligence"
-    excerpt: "“When we talk about AI ethics or AI values, the natural question to ask is, whose ethics and values?” he tells Inquirer. Australia to develop safe and ethical AI network At Flinders University’s College of Science and Engineering in ..."
-    publishedDateTime: 2023-03-17T13:06:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/real-challenge-to-build-ethics-into-artificial-intelligence/news-story/7c4d3595e241530e6bd89a833d7d222a?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 56
   - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
     excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
     publishedDateTime: 2023-03-21T19:00:00Z

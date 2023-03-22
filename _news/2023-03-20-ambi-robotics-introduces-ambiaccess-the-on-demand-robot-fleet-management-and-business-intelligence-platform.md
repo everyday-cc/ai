@@ -47,15 +47,6 @@ related:
         width: 800
         height: 441
         isCached: true
-  - title: "SVT Robotics and Kardex Solutions Partner to Enable Complete End-to-End Pick and Pack Solution"
-    excerpt: "The partnership now enables Kardex Solutions customers to easily deploy and integrate AutoStore systems with additional automation technology by leveraging the power of the SVT Robotics SOFTBOT® Platform. Building upon its Kardex Control Center WES ..."
-    publishedDateTime: 2023-03-17T13:29:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/svt-robotics-and-kardex-solutions-partner-to-enable-complete-end-to-end-pick-and-pack-solution/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 22
 
 secured: "3VTmqbXZJtKvWhavbcnNCn/4Lp2wUxpLmntDFCopKxU/JDhG/x395dL/wBrsLjkTwj7t84lW+NqrYnvE4hBfbAKXn3k9/SDrqyDIgVe1K+JgE/UKenhesn/mG0iB7cMPr0biU91De84dLxyG/ZqteA+9Ee0MOs7/dyS82xMG8ZK5/OfKdIM+KDDsnW1AUb+TWGhXWCodGSebfDwF+rCctaa+NxgztYJ4wvGTb+bfmHjZSzBbtEo0h511m6xmVoraV4Gq+mCEB3c65iFBLn7aa49cn3+pMA9SI7Rd11HdF85WasXRrmuMdnel2LE/dmcKmBbgz66QJTi+RuiVtfLzKx89W6wvX5bIsKeE/IgBdMU=;9f/KSVCRkl8JH3HSD0bkKw=="
 ---

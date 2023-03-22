@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2385160-ai-powered-t
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2385160-ai-powered-tools-deepfakes-pose-challenge-of-misinformation-before-internet-users?amp"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,54 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes"
+    excerpt: "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren’t what they seem."
+    publishedDateTime: 2023-03-21T23:31:00Z
+    webUrl: "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/"
+    ampWebUrl: "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Fake, AI-generated images imagining Donald Trump’s arrest circulate on Twitter"
+    excerpt: "Twitter’s failure to label the somewhat convincing AI-generated images could potentially cause harm ... deepfakes be “clearly disclosed,” prompting users this week to start adding a “sticker or caption, such as ‘synthetic,’ ‘fake ..."
+    publishedDateTime: 2023-03-21T16:33:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/fake-trump-800x800.jpeg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Trump Hasn't Been Arrested But AI Images Keep Fooling People"
+    excerpt: "Trump told his supporters that he was expecting to be arrested on Tuesday over allegations of hush money paid to the former porn star Stormy Daniels. To be clear: The case against him exists. The Manhattan district attorney’s office has previously asked Trump to testify to a grand jury."
+    publishedDateTime: 2023-03-21T21:50:00Z
+    webUrl: "https://kotaku.com/did-donald-trump-arrested-today-yet-news-ai-midjourney-1850249881"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a4dccfd4b352a5d12ed777f2633ccef1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "sxCwIyhI9rkvX4nvn3EJiBzOy398CeoOzl6sF9ashnEr7epCoGWGcctEok47IZdWYEYwWTkS9huiWxAPv1LD20Y/MioOe0hUqcTfnIL8228mOVStAy1fNA8VvdlenGu6kFm3cF2UwUb1Bn5djEA6f6kvwZvvC9b4Q2cHRqDSFFKxyJgmraorcpDDFNUzwNBIoRvSFDAXFTrAPhrqzkUKBxoTlmXDya0yeEK04ssED71ztxSKCI6n/NgMbr6ZNJKfI0bhXyaIuBmv0zphqOr7lqwy/leEGUy5WppUFFQ2KKw3968LKvTUaf/5zQF/PNgkZCCgW/UFNiIcaMdFHgH6oYwIhGHA5pKHcLODKTmDznvle3eY24kiNTmDQgkvPyENF1/svf5EaswSyWMHrpfYX3OM7Glg+M9uPkdOitxmg6BDU2omVIVhs2/sVh3lj/RtI+0di0k+MAmnC8pyXFwXkhwh9n5w49hvu3i8VBu0yEhaZikRItfCfDrGSNvWxDv/jt4IoHVz9YVvSG6I/7aPnw==;XZ/VUrWVA4M5ITGH2X+qSQ=="
 ---

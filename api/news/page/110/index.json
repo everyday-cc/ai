@@ -2,6 +2,40 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
+      "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
+      "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974321",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974321",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction.md",
       "title": "How AI-driven sentiment analysis can enhance employee satisfaction",
       "excerpt": "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available.",
@@ -1091,57 +1125,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-vicai-raises-52m-shows-that-automating-accounting-processes-can-be-profitable.md",
-      "title": "Vic.ai raises $52M, shows that automating accounting processes can be profitable",
-      "excerpt": "Vic.ai, a startup offering AI tech to automate accounts payable processes, has raised $52 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Vic.jpg?resize=1200,855",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
-      "publishedDateTime": "2022-12-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

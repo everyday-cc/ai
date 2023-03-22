@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Next-gen Nvidia AI chips coming to cloud platforms"
+    excerpt: "At the chip maker’s annual developer conference on Tuesday, CEO Jensen Huang positioned Nvidia as the engine behind “the iPhone moment of AI”, as he’s taken to calling this inflection point in computing."
+    publishedDateTime: 2023-03-22T07:08:00Z
+    webUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/"
+    ampWebUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/03/jensen-huang-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "NVIDIA Canvas: creating panoramas with AI"
     excerpt: "The newest update to NVIDIA Canvas brings another feature where AI shows its magic: create panoramas using the new Panorama mode. ProVideo Coalition mentioned in January that NVIDIA Canvas would introduce 360-degree images that can be used as environment maps in 3D apps."
     publishedDateTime: 2023-03-17T18:54:00Z

@@ -2,6 +2,39 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-02-07-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag.md",
+      "title": "Artificial Intelligence to be a game changer in govt audit space: CAG",
+      "excerpt": "Artificial Intelligence (AI) is going to be a game changer in the public audit space as it will help in quicker and more detailed analysis during both planning and execution stages, Comptroller and Auditor General of India (CAG) G C Murmu said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-the-download-generative-ai-for-video-and-detecting-ai-text.md",
       "title": "The Download: generative AI for video, and detecting AI text",
       "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model Stable Diffusion, has released an AI model that can transform existing videos into new ones by applying styles from a text prompt or reference image.",
@@ -928,40 +961,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-ai-event-live-blog-all-the-announcements-as-they-happen.md",
-      "title": "Microsoft AI Event LIVE Blog: All the announcements as they happen",
-      "excerpt": "MS built new balances, and are able to scale unlike anyone else. \"We're committed to learning with you.\" Sarah Bird, Responsible AI Lead, Azure, is now on stage. \"We have been preparing for this moment for many years.\" \"Since 2017, we have been investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "originalUrl": "https://www.windowscentral.com/news/live/microsoft-special-event-live-blog-windows-bing-ai-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

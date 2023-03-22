@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Google opens sign-ups for its Bard AI chatbot"
-excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot ... a large language model. LLMs are essentially advanced deep learning algorithms, with a range of abilities that include translation ..."
-publishedDateTime: 2023-03-21T20:29:00Z
-originalUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html"
-webUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html"
-ampWebUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
-cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
+excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
+publishedDateTime: 2023-03-22T06:24:00Z
+originalUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
+webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large-100917127-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 900
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
+    width: 504
+    height: 315
     isCached: true
 
 related:
@@ -141,6 +139,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "ZCZCVFVczTGYqVjws7oRBMuTdI0p3UxLOv8jHvbYcb3CyF1Z7yxfGbiypUhwkBef9QcQjFscN6Q+jZmeFAsGoF+S5AC/Mj1SfzRk/CxH2Ma5kaimxI49h8MoV+xTpoWErYNrcHQKlKttlQUTugGSlYtgaiZjRVoIBo3wCGd/d8G+dCkTdZvEt43a9iFQbx4VWlh6gAiyqN2rv8qxgTCTtTk4VUn6zDLKvfhVtlyY/iiHuyLMpB7AShuK4NAYHkjiJdu1sWJbqvKfZR5w0Olvul9BoReFVMrK68VtWf0Wyxko6oCZod9lD6WQi3dcuSsA4GhoNLzCmyTE2GQihJ1z4MVnqa4BgGIJ9sP/HLD51qloN7ugoE2DvHLO5bJ2dr4/VKTDv76CkrWIO8mMWPBtmKe+uPrXaJijr3zotEavtMHB4ppI1Y5EyNZb7STnnn3OpfdMCI36hnUmwogjlUn7D8R1DQHU6Y3d6PbD58eJlt59CAX6AhCQWXhZrQkotXdL40KbOz6MHA1u1AzjyLCtpw==;jI8UdH3rMvIfLr3EPBKnaA=="
+secured: "65xiOb3vkKqxF7LmHxB0BucN4GjBJFeFa/grV9aXD1jtT+OW2Xs2lbv4W3ORwVdFV27jCKdGVOBuLB9kol1TqmxkdsDdtscpmjyFo82GhzFH6mbPdlcGZzUiRwGaBxLEIVt+VSDXw4X/lf0p6Hy5FRFNqIHR7SVJnBbEPPD/TY6EP4dG6kdBGVUYebgHG9ZvPW+SismISufqqWOPD0ES2RnZRzmkHwO+VV+j7G/bm6m7oTKQu4pBJNTCl0oE0S0nj4w9B+wdYLLCGxdqeJyrslQPI4PodW0zfPi1yuSuEKhLCaj6xMtwFg8GztuewbFza6Z7Lnr5lGCNPWo4hOSlGyPcitYn0qGWd9Wbx2GiI08=;Mb+mHYwHW74WFtv0zDfA1g=="
 ---
 

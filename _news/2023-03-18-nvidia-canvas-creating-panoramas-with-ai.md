@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Next-gen Nvidia AI chips coming to cloud platforms"
+    excerpt: "At the chip maker’s annual developer conference on Tuesday, CEO Jensen Huang positioned Nvidia as the engine behind “the iPhone moment of AI”, as he’s taken to calling this inflection point in computing."
+    publishedDateTime: 2023-03-22T07:08:00Z
+    webUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/"
+    ampWebUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/03/jensen-huang-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
     publishedDateTime: 2023-03-21T22:19:00Z

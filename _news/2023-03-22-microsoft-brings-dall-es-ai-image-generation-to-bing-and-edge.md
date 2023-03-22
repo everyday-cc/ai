@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "You can now use Microsoft's AI to create images using just your words"
+    excerpt: "Microsoft has announced the Bing Image Creator. It uses OpenAI’s DALL.E neural network to create images from text prompts. The AI image generator is now available to try out on any browser and the new Bing preview. Just when Google opened up public ..."
+    publishedDateTime: 2023-03-22T05:34:00Z
+    webUrl: "https://www.androidauthority.com/bing-image-creator-3300886/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Microsoft-logo-angled-MWC-2022.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
     excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
     publishedDateTime: 2023-03-21T21:54:00Z
@@ -182,20 +196,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
         width: 794
         height: 446
-        isCached: true
-  - title: "Microsoft’s new Copilot will change Office documents forever"
-    excerpt: "Despite reports of Microsoft laying off its ethics and society team that taught employees how to make AI tools responsibly, Friedman says Microsoft is growing the people working on these concerns."
-    publishedDateTime: 2023-03-17T14:06:00Z
-    webUrl: "https://www.theverge.com/2023/3/17/23644501/microsoft-copilot-ai-office-documents-microsoft-365-report"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 71
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/FRBC6Ge0eAbFQ33e2TAGbbl8E90=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24515603/m365copilot_business_1920x1080_web__1_.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Microsoft adds Image Creator to Bing, plus GPT-4 now available in Azure OpenAI Service"
     excerpt: "“Coursera is using Azure OpenAI Service to create a new AI-powered learning experience on its platform, enabling learners to get high-quality and personalized support throughout their learning journeys,” said Mustafa Furniturewala, senior vice presiden ..."
@@ -428,6 +428,20 @@ related:
       - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MatrixNebulaSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
+    excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
+    publishedDateTime: 2023-03-22T06:04:00Z
+    webUrl: "https://futurism.com/sam-altman-warns-competitors"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."

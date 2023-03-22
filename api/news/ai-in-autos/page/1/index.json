@@ -194,7 +194,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -864,20 +864,20 @@
     },
     {
       "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
-      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, And Opportunities To 2023-2033",
-      "excerpt": "Driverless Car Market Research B Volvo ... the growth of the market are also stated in the report. Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased ...",
+      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, and Opportunities to 2023-2033",
+      "excerpt": "Driverless Car Market, 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105746911/Driverless-Car-Market-Industry-Insights-Drivers-Top-Trends-Global-Analysis-Forecast-And-Opportunities-To-2023-2033",
-      "originalUrl": "https://menafn.com/1105746911/Driverless-Car-Market-Industry-Insights-Drivers-Top-Trends-Global-Analysis-Forecast-And-Opportunities-To-2023-2033",
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?454160",
-          "width": 375,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -887,12 +887,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T23:12:00-08:00",
+      "publishedDateTime": "2023-03-09T21:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

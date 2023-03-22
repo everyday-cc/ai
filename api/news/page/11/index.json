@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
+      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
       "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
       "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
@@ -1126,58 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
-      "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
-      "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "originalUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

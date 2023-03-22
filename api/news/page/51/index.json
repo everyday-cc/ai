@@ -2,6 +2,48 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-02-07-5-investors-betting-big-on-soundhound-ai-soun-stock.md",
+      "title": "5 Investors Betting Big on SoundHound AI (SOUN) Stock",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Shares of SoundHound AI (NASDAQ:SOUN) finished the day up by 43%, bringing the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-investors-betting-big-on-soundhound-ai-soun-stock-1032071480",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-investors-betting-big-on-soundhound-ai-soun-stock-1032071480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-machine-learning-could-turbocharge-the-search-for-extraterrestrial-intelligence.md",
       "title": "Machine learning could turbocharge the search for extraterrestrial intelligence",
       "excerpt": "The field of SETI, or the search for extraterrestrial intelligence, is accelerating to new heights thanks to developments in machine learning. “I think it’s a very important question to be ...",
@@ -879,49 +921,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-an-important-next-step-on-our-ai-journey.md",
-      "title": "An important next step on our AI journey",
-      "excerpt": "Introducing Bard, Google's experimental conversational AI service powered by LaMDA — plus, new AI features in Search coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-      "originalUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

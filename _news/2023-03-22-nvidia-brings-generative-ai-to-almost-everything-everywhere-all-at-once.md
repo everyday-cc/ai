@@ -200,6 +200,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Adobe Launches New Generative AI To Transform Customer Experiences"
+    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that aims to redefine how"
+    publishedDateTime: 2023-03-22T07:47:00Z
+    webUrl: "https://menafn.com/1105833841/Adobe-Launches-New-Generative-AI-To-Transform-Customer-Experiences"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/22/I_b988cimage_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
     excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."
     publishedDateTime: 2023-03-21T19:28:00Z

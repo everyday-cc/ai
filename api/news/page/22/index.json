@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-03-02-nvidia-report-telco-transformation-requires-artificial-intelligence.md",
+      "title": "NVIDIA Report: Telco Transformation Requires Artificial Intelligence",
+      "excerpt": "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/11/best-data-virtualization-tools.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge.md",
       "title": "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge",
       "excerpt": "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531.",
@@ -1174,49 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-tirupati-temple-facial-recognition-system-for-darshan-from-today.md",
-      "title": "Tirupati Temple: Facial recognition system for darshan from today",
-      "excerpt": "The facial recognition system is set to begin on an experimental basis at Tirupati temple from 1 March. The system will help the management in dealing with impersonators and the misuse of temple servi",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
-      "originalUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today-11677633077133.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/03/01/600x338/Tirupati_Balaji_1677633664437_1677633664671_1677633664671.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html",
-      "publishedDateTime": "2023-02-28T17:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

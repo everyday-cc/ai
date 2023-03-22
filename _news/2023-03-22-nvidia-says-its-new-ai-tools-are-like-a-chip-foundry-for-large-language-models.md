@@ -69,6 +69,22 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Five AI stocks in focus amid ChatGPT frenzy"
+    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
+    publishedDateTime: 2023-03-22T07:02:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 61
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
     excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
     publishedDateTime: 2023-03-21T16:35:00Z
@@ -116,13 +132,13 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
-    publishedDateTime: 2023-03-20T13:45:00Z
-    webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+    publishedDateTime: 2023-03-20T12:45:00Z
+    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 15
 
 secured: "7NDSZ8n83WrpYAZUlMDzrGItoIPfOzwImvqOf1d4bUSgwc/W6jd89oBXseEesJsRH6JzNRVw1NL/kgONf+nmxjprfZExtL0dRBpHNKr7RqcCvaRiBzFSND4x3T9Vh2JyaL+1nch1egJkE6DPgwJPrRUNgKcpWwa01tkzgw82sKiKoKgGXadkumn0SOHgZAWpi1uuXc3f0oEQFfYKo+QVr+z3tcawJ+oJ1kKIoK2/q8FZby0xHd6Ui7cy+3l/6PCaGAy73qP7fZInP+hFrJTCyOX2Qy8qfwNQ1G1Vu0TqIyodboZUzo9yBa1LFXGes2hTQ1REiehDg0G6c5SXgsy49CQx4QqxIvi8HaveJ0YPDQCbHCKdPTsUm8lDh9+gfnRvlw5xK7ChanM57AyR6SXywhqrymuxTBGZd0OCMIQotvGbH+lQHu7rxcTrQ5p8mScPBq50b0EoGBWtQ6ouJB82SoaPKHkVwupOS9rReoRJKvtiwJ9RtimEVUDOfIpoR69XzQcXd8ZTSfqN//H+0b9cHg==;J76GfyZbr1kQVjJxH1wN6A=="

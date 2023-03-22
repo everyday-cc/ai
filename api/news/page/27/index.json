@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-02-26-zuckerberg-introduces-metas-answer-to-chatgpt-llama.md",
+      "title": "Zuckerberg Introduces Meta’s Answer to ChatGPT, LLaMA",
+      "excerpt": "Meta, the company formerly known as Facebook, introduced its own AI today ... and we’ll make our new model available to the AI research community.” In a company blogpost published Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
+      "originalUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/573acff95a104148d9ebf8eefb830f15.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-software-engineer-who-warned-about-ai-its-a-runaway-train.md",
       "title": "Software engineer who warned about AI: ‘It’s a runaway train’",
       "excerpt": "Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET ...",
@@ -1149,60 +1201,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
-      "title": "Everything you wanted to know about AI – but were afraid to ask",
-      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "publishedDateTime": "2023-02-24T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

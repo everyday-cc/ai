@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-w
 webUrl: "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 800
         height: 441
         isCached: true
-  - title: "SVT Robotics and Kardex Solutions Partner to Enable Complete End-to-End Pick and Pack Solution"
-    excerpt: "The partnership now enables Kardex Solutions customers to easily deploy and integrate AutoStore systems with additional automation technology by leveraging the power of the SVT Robotics SOFTBOT® Platform. Building upon its Kardex Control Center WES ..."
-    publishedDateTime: 2023-03-17T13:29:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/svt-robotics-and-kardex-solutions-partner-to-enable-complete-end-to-end-pick-and-pack-solution/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 22
   - title: "Ambi Robotics Introduces AmbiAccess, The On-Demand Robot Fleet Management and Business Intelligence Platform"
     excerpt: "Ambi Robotics, the leading provider of AI-powered robotic parcel sorting systems that empower warehouse operators to handle more, today introduces AmbiAccess, a cloud-based business intelligence platform enabling customers to get even more out of their Robots-as-a-Service (RaaS) investment."
     publishedDateTime: 2023-03-20T13:38:00Z

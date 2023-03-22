@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-17-gm-ceo-meets-with-senators-on-self-driving-cars.md",
+      "title": "GM CEO meets with senators on self-driving cars",
+      "excerpt": "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T17:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-amid-thin-twitter-safety-staff-elon-musk-frets-over-microsoft-reportedly-axing-ai-ethics-team.md",
       "title": "Amid Thin Twitter Safety Staff, Elon Musk Frets Over Microsoft Reportedly Axing AI Ethics Team",
       "excerpt": "Elon Musk fusses over Microsoft Corporation MSFT reportedly firing its AI Ethics and Society team amid concerns about the reduced Twitter workforce. What Happened: On Thursday, Musk reacted to a ...",
@@ -1189,59 +1241,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-01-04-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
+      "title": "TDK Corporation: TDK to acquire Qeexo to enable complete smart edge platforms",
+      "excerpt": "Qeexo AutoML enables a no-code environment, enabling data collection and training of 18 (and expanding) different machine learning algorithms, including both neural networks and non-neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards.md",
       "title": "Options AI Awarded Best Broker For Options Trading at Benzinga Global Fintech Awards",
       "excerpt": "Options AI’s goal is to level the playing field for retail investors. NEW YORK, NY, USA, January 4, 2023 /EINPresswire.com/ -- Options AI today announced that it ...",
@@ -1060,49 +1094,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-pretax-profits-at-tuam-driverless-car-firm-surge.md",
-      "title": "Pretax profits at Tuam driverless car firm surge",
-      "excerpt": "Pretax profits at the Tuam firm at the cutting edge of driverless car technology ... generating software intellectual property with artificial intelligence. A note with the accounts said that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
-      "originalUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/resizer/DlvuTnioTDNFgvvlbQ4uAbjcVzM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EOZV4SVHRBLHHEVPK6IKNZKPZI.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
+      "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
+      "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
+      "originalUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-could-disrupt-economy.md",
       "title": "US Chamber of Commerce pushes for AI regulation, warns it could disrupt economy",
       "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
@@ -597,49 +649,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
-      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, And Opportunities To 2023-2033",
-      "excerpt": "Driverless Car Market Research B Volvo ... the growth of the market are also stated in the report. Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105746911/Driverless-Car-Market-Industry-Insights-Drivers-Top-Trends-Global-Analysis-Forecast-And-Opportunities-To-2023-2033",
-      "originalUrl": "https://menafn.com/1105746911/Driverless-Car-Market-Industry-Insights-Drivers-Top-Trends-Global-Analysis-Forecast-And-Opportunities-To-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?454160",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T23:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-10-sk-networks-invests-22m-in-the-us-ai-device-startup-humane.md",
       "title": "SK Networks invests $22M in the U.S. AI device startup 'Humane'",
       "excerpt": "SEOUL, South Korea, March 10, 2023 /PRNewswire/ -- As interest in artificial intelligence (AI) is rapidly mounting, innovative companies around the world are expanding investment and partnership ...",
@@ -764,6 +773,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
+      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, and Opportunities to 2023-2033",
+      "excerpt": "Driverless Car Market, 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1145,57 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-discord-launches-ai-focused-features-for-collaboration.md",
-      "title": "Discord launches AI-focused features for collaboration",
-      "excerpt": "Discord has announced new tools and investments to make the gaming chat platform the home for easily accessible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/discord-ai-features-collaboration-social/",
-      "originalUrl": "https://venturebeat.com/games/discord-ai-features-collaboration-social/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Conversation-Summaries-In-Product-Screenshot.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/discord-ai-features-collaboration-social/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/discord-ai-features-collaboration-social/amp/",
-      "publishedDateTime": "2023-03-09T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

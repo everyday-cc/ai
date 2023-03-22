@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Barra meets with U.S. senators on self-driving cars"
-    excerpt: "WASHINGTON -- General Motors CEO Mary Barra met with two key U.S. senators on Thursday as the automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with Senate Commerce Committee Chair Maria Cantwell ..."
-    publishedDateTime: 2023-03-17T13:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gm-ceo-mary-barra-meets-us-senators-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023BarraBloomberg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cruise Weighs Expanding Self-Driving Car Tests"
     excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
     publishedDateTime: 2023-03-21T14:18:00Z

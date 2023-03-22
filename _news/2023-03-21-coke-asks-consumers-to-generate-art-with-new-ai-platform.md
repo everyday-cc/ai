@@ -7,7 +7,7 @@ originalUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-ma
 webUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-marketing-art/645465/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How cookie-agnostic AI tools and platforms can help with online sales"
-    excerpt: "The cookieless world might be discouraging for digital space owners at first, but I believe it can actually lead to more ingenious and innovative campaigns."
-    publishedDateTime: 2023-03-17T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90864667/how-cookie-agnostic-ai-tools-and-platforms-can-help-with-online-sales"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "lit+buTftOVzTxbgZD91/B6xe/Ec4LTLDjYP/aXk/t23ST82v13btPBnr9lvPHvABud3j0m0O+va6v85Eb/+SLFQuyfN/3pzyTfgmVu2R/tXzgY7+FWKS0fQBPfmfTM0XwjlqkOqvS3aW8iXmuPuHlC5LBk/XlI1X9uAMEFNboVrm1jcMGASffZlMqf97i6eEymjYZHrveJqzHvWAuSHaah6mzLlwNFiMkTIiZuDxcWLzmqkV0u8vKoilvYTJg1ibtN+qLPOqqSin3mjQZiFg6HGrUZ9CNhFE3lQ4D5yHuxJZHl6rIFOQwHbWyCh8BcqiW3IMQ/Q15IPnCM2gyOQl4x92iyO9tGp9xHM8x55iKsOjdMAGTD/4HijPQk1ZywVrmwUTC/PtTzb7pG8i+tNJcAESbnkLwDorF0v6bG1oj1GVBOwugOnh0Dry4H+aVdwEHIN7sQGQKyUjscJF9VAES7Vv+0GsnoMqxjqdh5gAo6znPFCfYo7VvVr28xbm9LKtotE7m0RAOixT5HnB8ITTA==;E8nKpK3EhgyYrqIMi83Bfw=="
 ---

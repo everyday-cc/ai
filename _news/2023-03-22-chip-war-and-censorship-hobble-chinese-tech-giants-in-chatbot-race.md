@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
-excerpt: "This has made it difficult for Chinese companies to buy chips including Nvidia's A100 and its successor H100, considered the gold standard for large-scale AI training systems. \"There is a real question whether a domestic supply can be generated in the ..."
-publishedDateTime: 2023-03-22T05:57:00Z
-originalUrl: "https://www.bangkokpost.com/tech/2533696/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race"
-webUrl: "https://www.bangkokpost.com/tech/2533696/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race"
+title: "Chip War And Censorship Hobble Chinese Tech Giants In Chatbot Race"
+excerpt: "Search giant Baidu's lacklustre unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."
+publishedDateTime: 2023-03-22T07:24:00Z
+originalUrl: "https://www.barrons.com/news/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race-27370782"
+webUrl: "https://www.barrons.com/news/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race-27370782"
+ampWebUrl: "https://www.barrons.com/amp/news/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race-27370782"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-war-and-censorship-hobble-chinese-tech-giants-in-chatbot-race-27370782"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://static.bangkokpost.com/media/content/20230322/c1_4692251_700.jpg"
-    width: 700
-    height: 465
-    isCached: true
 
 related:
   - title: "Chinese firm to launch robot taxis"
@@ -42,6 +38,6 @@ related:
         height: 390
         isCached: true
 
-secured: "2Ru6sujyj7N+JMjyMzNjpcuT6a4JFo3bMfkUhO/LWk3Riti1sF/HV7lY7HMmTxG/3SR0QOHjVV6T9ALbRjmhw/o26UMYHS6QWaV9hWDfGxMV6aXfDWTdsepaY4t3u5yA4PKNdIyg/CxLCG+a83NUMqGdgllOUOcIB5Qt9TWtP7L2yXX75Yt7sQY2VQXGhZa+KfVLJFjV4Av9/dNyT9ej5pha4BZwXA/pV3IbkunR8o2BfToP7KcWGDanSS1JrwJG4HuLSnn5z5Vp6Y7mE6PWHxWT050cfnRmzTK4BB7tPPs89zLQtw5xvoJeorL9WRbzBoWdoEiaTt4EQyaT6CX4Jbczc7bltqcpJmehVub7Ypk=;wpA3QYvNFgInKMK37FzwTQ=="
+secured: "ChAn+1Xc4VFpTnpuhZCLCDnoocooc+Z8h9yvlKl4wMRrGFDEr7LVba+SGDp2kk30ibmyzPQJYwLG17kHbQQIXvGtoqNJzANbvYxXSi28kDRj1mweyLWNIMwEzJItxomHymHKLc/pplTXTmjrkxWzVW/U3dhIb2NiW0CGhmksrN5H5XwpANkv3U90zSDZwHDGFPecCtY/81+HD/nwZ1+JriYLDlEOhRHeigALjfoDCe5hV2/syQKiYoq6mE+30RU+jjAMTljkV2eDKx51NjwkZyuuGqfEf3r5a/nY+5Syvm24iFpP3QrqTK1rxD7R5SXPuJ6Z9FSipBoGICpJLj4On/RXCM44olFF982mmCE19xE=;qfPwM+koozwQ3N0dfBu2sg=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-02-06-qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban.md",
+      "title": "Qualcomm expects to continue supplying chips to Huawei despite US mulling broader ban",
+      "excerpt": "With the US government expected to intensify its ban on deals with Huawei by barring 4G, Wi-Fi, and AI chips, Alex Rogers, president of Qualcomm",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/02/06/qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban/",
+      "originalUrl": "https://technode.com/2023/02/06/qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches.md",
       "title": "Goa using artificial intelligence-powered robots, technology to save lives on its beaches",
       "excerpt": "Hyderabad: In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
@@ -938,49 +972,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media.md",
-      "title": "AI 'likely to be more disruptive' than first five years of social media",
-      "excerpt": "“It might be good if research on this possibility ... they are the furthest ahead. Google and Facebook are “top-tier” when it came to AI development. One engineer believed Google’s LaMDA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/business/131140875/ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media",
-      "originalUrl": "https://www.stuff.co.nz/business/131140875/ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/3/6/6/a/image.related.StuffLandscapeSixteenByNine.1420x800.262sy3.png/1675808983769.jpg",
-          "width": 1420,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

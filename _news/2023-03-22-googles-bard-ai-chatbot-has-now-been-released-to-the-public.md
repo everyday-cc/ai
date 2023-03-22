@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 1125
         isCached: true
-  - title: "Google opens sign-ups for its Bard AI chatbot"
-    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot ... a large language model. LLMs are essentially advanced deep learning algorithms, with a range of abilities that include translation ..."
-    publishedDateTime: 2023-03-21T20:29:00Z
-    webUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.html"
-    ampWebUrl: "https://www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691112/google-opens-sign-ups-for-its-bard-ai-chatbot.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/25/07/artificial_intelligence_virtual_digital_identity_binary_stream_thinkstock-100528010-large-100917127-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "China's tech giant Baidu unveils \"Ernie,\" the Chinese answer to AI chatbot technology like ChatGPT and GPT4"
     excerpt: "Beijing — Days after popular artificial intelligence tool ChatGPT's developer OpenAI released its latest version, GPT4, Chinese tech giant Baidu, best known for its search engine and map services in the country, revealed its AI answer to the world."
     publishedDateTime: 2023-03-17T15:48:00Z
@@ -129,6 +113,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
         width: 700
         height: 466
+        isCached: true
+  - title: "Google opens sign-ups for its Bard AI chatbot"
+    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
+    publishedDateTime: 2023-03-22T06:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
+        width: 504
+        height: 315
         isCached: true
   - title: "Google is releasing its Bard AI chatbot to the public"
     excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."

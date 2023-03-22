@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203931-fintech-forwardai-an
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203931-fintech-forwardai-announces-release-of-precise-api-v2-to-aggregate-accounting-data/amp/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1080
     height: 810
     isCached: true
-
-related:
-  - title: "3 High-Growth Fintech Stocks to Buy for 2023"
-    excerpt: "The fintech space caught fire during the pandemic years, with global investment growing by $335 billion. Spending surged in the sector due to increased demand for online financing, AI-driven decision-making, and usage in financial institutions. Despite the ..."
-    publishedDateTime: 2023-03-17T14:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shop-pypl-upst-3-high-growth-fintech-stocks-to-buy-for-2023-1032175898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "+6bKWq0VD4gdnSEqC4jBLAd9YlJxLknCuENqHWySqynnF8zrUMJEUpxxU5pT3cE84bwB26VxJYgcqBe30r/UxnhEAK5OnTbjp1aWqZVGqvBs9yx7kml2NTH/3/VMh97+WYcM6UG+GHM27xr+4nR9uRF+iQyladQUNDbrmaVWpwLCVaBAuDEzhNdKSNJCUjMHqfGjgjeuHASSqVhrSDzgHpS+iH7ozsda1XRTd/yIjI4Mt9o8i+gtfkpRXBorphu8wm0AAhKx4Uu/iYF2W/xLUZPal9DCsYth4aOu46qYNGSZ44I1rZCkp1iK73Maes+jKBs8KB/DiIZ9BhIJpZJR8Xl4vQ8tdvKaTIilMfKQuz9jILkGVa8MPtixlOVOvKM2FEkhzwRz+gOT905tKGmElRlmGQmlRnvGlcnqWnMLzu4EbjvopeenKtMxc93bBj6zc1pEVyz2w11pvtui/uKQ3dNDz0LwjUZGLfvQR3t3RQhGIhOuWwop+GZ0ZoOVLEdORdwJogERs/SmVgZlNzvZLQ==;gJJkhjmLbi8obWzc0JPIQQ=="
 ---

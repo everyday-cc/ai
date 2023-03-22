@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Barra meets with U.S. senators on self-driving cars"
-    excerpt: "WASHINGTON -- General Motors CEO Mary Barra met with two key U.S. senators on Thursday as the automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with Senate Commerce Committee Chair Maria Cantwell ..."
-    publishedDateTime: 2023-03-17T13:40:00Z
-    webUrl: "https://www.autonews.com/mobility-report/gm-ceo-mary-barra-meets-us-senators-self-driving-cars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/2023BarraBloomberg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
     excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
     publishedDateTime: 2023-03-17T20:48:00Z

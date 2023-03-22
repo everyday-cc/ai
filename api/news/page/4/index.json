@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-18-baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.md",
+      "title": "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing",
+      "excerpt": "SHANGHAI, March 17 (Reuters) - Baidu (9888.HK), and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Baidu's Apollo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/oJXGW_eeaDu-jubspyQ0lhWVrrI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D24D44ZNHVMFPNYB32VY2BATZE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-17T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-a-mind-controlled-beer-pouring-robot-has-landed.md",
       "title": "A mind-controlled beer-pouring robot has landed",
       "excerpt": "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers.",
@@ -1226,58 +1278,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-gm-ceo-meets-with-senators-on-self-driving-cars.md",
-      "title": "GM CEO meets with senators on self-driving cars",
-      "excerpt": "WASHINGTON, March 16 (Reuters) - General Motors (GM.N) CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gm-ceo-meets-with-senators-self-driving-cars-2023-03-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fCGG0BQIKYeKuBLV_PCQDPviSuA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UXE7GOEGVZLSDILGHMPMUZPNGQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

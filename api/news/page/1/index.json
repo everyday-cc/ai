@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-green-intelligence-why-data-and-ai-must-become-more-sustainable.md",
+      "title": "Green Intelligence: Why Data And AI Must Become More Sustainable",
+      "excerpt": "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641aadbcab36eced214b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/",
+      "publishedDateTime": "2023-03-22T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-aspecta-nabs-35m-to-build-ai-vetted-coder-profiles.md",
       "title": "Aspecta nabs $3.5M to build AI-vetted coder profiles",
       "excerpt": "While LinkedIn is helpful for displaying people’s educational and professional achievements, there exists a world of self-taught tech talent whose skills are not so easily reflected on the networking site.",
@@ -96,6 +147,57 @@
       ]
     },
     {
+      "path": "_news/2023-03-22-how-you-can-tell-the-ai-images-of-trumps-arrest-are-deepfakes.md",
+      "title": "How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes",
+      "excerpt": "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren’t what they seem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
+      "originalUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp",
+      "publishedDateTime": "2023-03-21T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-everything-everywhere-is-going-to-change-all-at-once.md",
       "title": "Everything, Everywhere Is Going to Change All at Once",
       "excerpt": "Consider just one example that most people probably haven’t even heard of — the way DeepMind, an A.I. lab owned by Google parent Alphabet, recently used its AlphaFold A.I. system to solve one of the most wicked problems in science — at a speed and ...",
@@ -156,7 +258,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -314,7 +416,7 @@
       "originalUrl": "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -357,7 +459,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 502,
+      "heat": 512,
       "tags": null,
       "images": [
         {
@@ -852,57 +954,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-21-fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter.md",
-      "title": "Fake, AI-generated images imagining Donald Trump’s arrest circulate on Twitter",
-      "excerpt": "Twitter’s failure to label the somewhat convincing AI-generated images could potentially cause harm ... deepfakes be “clearly disclosed,” prompting users this week to start adding a “sticker or caption, such as ‘synthetic,’ ‘fake ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/fake-trump-800x800.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/",
-      "publishedDateTime": "2023-03-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-21-build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit.md",
       "title": "Build custom code libraries for your Amazon SageMaker Data Wrangler Flows using AWS Code Commit",
       "excerpt": "As organizations grow in size and scale, the complexities of running workloads increase, and the need to develop and operationalize processes and workflows becomes critical. Therefore, organizations have adopted technology best practices, including microservice architecture, MLOps, DevOps, and more,",
@@ -963,7 +1014,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1207,57 +1258,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season.md",
-      "title": "How AI is saving homes and lives in California during wildfire season",
-      "excerpt": "From fire detection and predictive analysis to evaluation of vegetation moisture levels, AI has assumed center stage in California's fight against seasonal wildfires.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "originalUrl": "https://www.zdnet.com/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6bceca88c0c7464f0c2a5fb16920f95e858be61f/2023/03/20/26ed3479-b94e-402a-a086-efed13a034a2/ucsd-supercomputer-center.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/",
-      "publishedDateTime": "2023-03-21T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
