@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kroger adds self-driving delivery service in one of its large markets"
+    excerpt: "Downtown Cincinnati-based Kroger (NYSE: KR) has partnered with Mountain View, Calif.-based autonomous vehicle company Gatik to provide self-driving vehicle delivery service in the Dallas market. The service is slightly different than what Kroger is already ..."
+    publishedDateTime: 2023-03-22T19:58:00Z
+    webUrl: "https://www.bizjournals.com/dayton/news/2023/03/22/kroger-self-driving-delivery-service-dallas.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "oAGc8ZmMaCOGNVcy/s6Uq4Wsqt77E6JERBADcefNYVXoglMXgWhmsAlenxYxUcFP66GWgATs7BXj7X0pXL+CJbMBt+u09jAh+2ojvg5/dDubfrzTPDs3XJWuyKKV5RekMc71d9g2SXkwdKyNK+Ku9MOWe/V5f7zNMSj/m0yaY0Jhrqn02cazg7orv8trAJSA99Kly67XmFtNv7FvZOlWo8Clz862Rj47KkT8thrtJwRLocVl1kPdQ5VvxI3yfiQ8dO0uhR7E6kAQqJZ90BX4IBZo4ilcXATmSvTQyU68JunsaYvLL/bmAHxUd/Wo1KVft+5urnS/4F6AzoOncvcfBEZ6PFeXJKYyimxizTASgyvwLfUPuUWbkx/PR4/sCRJ40r55qeDeq9Kwo+QHdXZWt+Wn01X1yLm2zwOtq2u96dO5Z6oPKuGZMeo/rN/kdDvP9VWNykvzWl8XDtlxalH+LlLgObahpF6AHXevqVOPuj1/dWHQD/8SxlzZh7naiAYweL1xhXY0TNcfCJI/m8253w==;R4Doe19eF0oda/4Lor5njQ=="
 ---

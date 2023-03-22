@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generat
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/a0a8caca9b0abae681e5e9c5ab62da450b8e1f37/hub/2019/03/21/575b30e7-e727-4026-a352-c7cd21c4ced2/gdc-2019-google-cloud-gaming-video-games-0065.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Chat GPT vs. Google Bard: Generative AI Comparison"
+    excerpt: "Google runs it on top of its BERT AI language model as a way to answer questions, conduct sentiment analysis, and perform language translation. Its answers go far beyond those typically given during a traditional Google search. While ChatGPT can manage ..."
+    publishedDateTime: 2023-03-22T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/chat-gpt-vs-google-bard/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-30-at-12.10.38-PM.png"
+        width: 412
+        height: 410
         isCached: true
   - title: "A Venture Capitalist Imagines What Generative AI Will Change"
     excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-20-can-centuries-old-math-open-the-modern-black-box-of-ai.md",
+      "title": "Can Centuries-Old Math Open the Modern Black Box of AI?",
+      "excerpt": "A new Rice University study uses Fourier analysis and a novel approach to understand how AI deep neural networks learn to perform functions that involve complex physics—a step towards demystifying AI’s black box problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic14324.jpg?itok=Gd-tQ7kj",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/can-centuries-old-math-open-the-modern-black-box-of-ai?amp",
+      "publishedDateTime": "2023-03-19T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-artificial-intelligence-institute-set-up-in-south-africa.md",
       "title": "Artificial intelligence institute set up in South Africa",
       "excerpt": "Communications and Digital Technologies Minister Mondli Gungubele, in partnership with the Tshwane University of Technology (TUT) and the University of Johannesburg, launched the Artificial Intelligence Institute of South Africa (AIISA).",
@@ -98,7 +141,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -184,7 +227,7 @@
       "originalUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -223,6 +266,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-edmonton-ai-guru-rich-sutton-has-lost-his-deepmind-but-not-his-ambition.md",
+      "title": "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition",
+      "excerpt": "The University of Alberta professor is a pioneer in AI and until recently ran the DeepMind lab in Edmonton until Google pulled the plug This is a new conversation series by Donna Kennedy-Glans, a writer and former Alberta cabinet minister,",
+      "sourceUrl": null,
+      "webUrl": "https://torontosun.com/news/canada/ai-guru-rich-sutton-deepmind",
+      "originalUrl": "https://torontosun.com/news/canada/ai-guru-rich-sutton-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/03/Richard-Sutton-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://torontosun.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/",
+      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/",
+      "publishedDateTime": "2023-03-19T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Sun",
+        "domain": "torontosun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -279,7 +365,7 @@
       "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -520,7 +606,7 @@
       "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -572,7 +658,7 @@
       "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -605,6 +691,49 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-18-baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report.md",
+      "title": "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report",
+      "excerpt": "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html",
+      "originalUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/18/1600x900/baidu_1679136240916_1679136241185_1679136241185.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html",
+      "publishedDateTime": "2023-03-18T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1037,161 +1166,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-how-to-navigate-todays-conversational-ai-and-text-generative-landscape.md",
-      "title": "How to navigate today’s conversational AI and text generative landscape",
-      "excerpt": "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/",
-      "publishedDateTime": "2023-03-17T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence.md",
-      "title": "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence",
-      "excerpt": "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4 Sam Altman, CEO of OpenAI, the company that developed the controversial consumer-facing artificial intelligence application ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "publishedDateTime": "2023-03-17T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride.md",
-      "title": "Baidu Unveils New AI Chatbot, Stock Goes On A Rollercoaster Ride",
-      "excerpt": "Q.ai’s Emerging Tech Kit uses AI technology to sift through ... Microsoft, which made a $10bn investment in OpenAI at the start of the year, has said its Bing search engine runs on GPT-4 technology. The tech giant’s share price has risen 9.94% in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641495b9fc447d96d77ffb6c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/17/baidu-unveils-new-ai-chatbot-stock-goes-on-a-rollercoaster-ride/amp/",
-      "publishedDateTime": "2023-03-17T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

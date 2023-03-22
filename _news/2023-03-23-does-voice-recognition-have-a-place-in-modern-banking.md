@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T17:12:00Z
 originalUrl: "https://www.biometricupdate.com/202303/does-voice-recognition-have-a-place-in-modern-banking"
 webUrl: "https://www.biometricupdate.com/202303/does-voice-recognition-have-a-place-in-modern-banking"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

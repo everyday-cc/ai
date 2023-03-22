@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T16:17:00Z
 originalUrl: "https://www.dbusiness.com/daily-news/u-m-taps-ai-to-make-autonomous-vehicle-testing-99-more-efficient/"
 webUrl: "https://www.dbusiness.com/daily-news/u-m-taps-ai-to-make-autonomous-vehicle-testing-99-more-efficient/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: DBusiness Magazine

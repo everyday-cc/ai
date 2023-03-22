@@ -35,22 +35,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Facial recognition technology used at New York supermarkets raises some questions about privacy"
-    excerpt: "NEW YORK -- When you're grocery shopping, you may not realize what's being caught on camera. Some supermarkets are using facial recognition technology to catch thieves, but there are questions about privacy. On the front door of four Fairway supermarket ..."
-    publishedDateTime: 2023-03-18T03:47:00Z
-    webUrl: "https://www.cbsnews.com/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
-    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/new-york-city-grocery-stores-supermarkets-facial-recognition-cameras/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 62
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/18/f7e479e9-336d-4132-a70b-2d31bebc1dfa/thumbnail/1200x630/4e1d6d34ff4ea38d16f478f0c7ecf70e/keleshian-new-11p-pkg-f-wcbs6ejz-hi-res-still.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
     publishedDateTime: 2023-03-20T13:24:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Use of facial recognition technology at supermarkets raises questions"
-    excerpt: "When you're out grocery shopping, you may not realize what's watching you. Some supermarkets are using facial recognition technology to catch thieves, but as CBS2's Kristie Keleshian reports, shoppers have questions about privacy."
-    publishedDateTime: 2023-03-18T04:51:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/use-of-facial-recognition-technology-at-supermarkets-raises-questions/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 54
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/18/05c4c76c-c138-4c49-91e7-d45398383a53/thumbnail/1200x630/9012d5ff205044552c41f09928142610/42eebec3c1ac35857d6192523f0d8ac3.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
     excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
@@ -109,6 +79,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "FG to install facial recognition technology at airports"
+    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
+    publishedDateTime: 2023-03-22T19:39:00Z
+    webUrl: "https://punchng.com/fg-to-install-facial-recognition-technology-at-airports/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 34
   - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
     publishedDateTime: 2023-03-18T14:34:00Z

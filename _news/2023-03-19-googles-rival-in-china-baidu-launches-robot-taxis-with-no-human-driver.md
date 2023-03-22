@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "SHANGHAI, March 17 (Reuters) - Baidu (9888.HK), and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Baidu's Apollo ..."
-    publishedDateTime: 2023-03-18T02:16:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://www.reuters.com/resizer/oJXGW_eeaDu-jubspyQ0lhWVrrI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D24D44ZNHVMFPNYB32VY2BATZE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
     excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
     publishedDateTime: 2023-03-18T10:50:00Z

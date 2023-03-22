@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-12-17-as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up.md",
+      "title": "As Supply Chain Bogs Down, Autonomous Mobile Robot Sales Trend Up",
+      "excerpt": "A Vecna Robotics’ AMR moves heavy payloads through a warehouse ... tote things on a whole other level – using sophisticated sensors, artificial intelligence, machine learning and computerized pathway planning techniques to navigate their environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
+      "originalUrl": "https://www.forbes.com/sites/richblake1/2022/12/16/as-supply-chain-bogs-down-autonomous-mobile-robot-sales-trend-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-robotics-competition-kicked-off-for-delhi-government-school-students.md",
       "title": "Robotics competition kicked off for Delhi government school students",
       "excerpt": "A special robotics competition was kicked off today for Delhi government school students. By India Today Web Desk: According to a circular from the Directorate of Education (DoE), a special robotics competition is being started on Friday to foster excellence in the field among Delhi school children.",
@@ -1270,40 +1314,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-a-new-soft-robot-is-able-to-spot-injuries-and-self-heal.md",
-      "title": "A New Soft Robot Is Able to Spot Injuries and Self-Heal",
-      "excerpt": "A new study by Cornell University researchers published in Science Advances introduces an autonomous, self-healing soft robot that is not only able to identify injuries but also heal itself. The scientists plan to integrate these soft robots with artificial intelligence (AI) machine learning in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202212/new-soft-robot-is-able-spot-injuries-and-self-heal?amp",
-      "publishedDateTime": "2022-12-09T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -58,6 +58,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Buy these 6 stocks to bet on the AI boom and future-proof your portfolio, according to a senior analyst"
+    excerpt: "\"I don't think there's any denying that AI is going to be the future,\" Brian Jankowski said. \"The question is: How do you go about playing that?\""
+    publishedDateTime: 2023-03-22T17:19:00Z
+    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-data-centers-analyst-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "rMdxWLm6TGaE9VCNk9sbHA/lvEKkf2dusLC1xOizpRCBduhCm8ODJkX8IMewVI4eSCuiYS1sQv7mSYV2Qb+j5FdLcPhNkTIOeluYRHFLHod+AF/JDza5kr8lmziNnSVJLYgNquVD2JcShksam2Tf+9kfasBpZgjxbZSDwcO421SoVN/F6XtPIjG973V0+VlXM4M3XNYISz4kivlwIdpFEco4Ng/zaD+hYSfdGsZm+zQVUGfwMnvLltoFWHunOhTM10Zrxpl4vTZGfCtueIwiZYiGgyWterm7Kr7d9QM3nzttHzTOw+byxPDt0X+So4PgEx/yoMb6A1OuWQpIRV2+a2N+XOocWAqL4E1SD+DVwDcamk0kvzyNCtwMrQ+QFt9FgqjdNUH8cABqqTYJluX+wwZuiox41UGwQDtwGQByKIYRU9NcTSEBCnpujrSDiiaqS2xRxbF6omkbL5GwFqOkQ9tDd9UHLhqv1mGQqDo1XI4R6O9tgdLH6VRPZpkvDS6KkUDdxYkqKCMTuQapxNNApg==;7x17HJzIqmLR42MJZJvPig=="
 ---

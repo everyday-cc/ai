@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T16:55:00Z
 originalUrl: "https://gizmodo.com/ai-chatgpt-screenplay-hollywood-writers-guild-1850251985"
 webUrl: "https://gizmodo.com/ai-chatgpt-screenplay-hollywood-writers-guild-1850251985"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Gizmodo

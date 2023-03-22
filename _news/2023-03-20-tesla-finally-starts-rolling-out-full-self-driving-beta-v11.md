@@ -45,20 +45,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Rules To Follow When Driving A Tesla On Autopilot"
-    excerpt: "Activating the self-driving capability is a very simple procedure, and when it's on, the car is mostly capable of driving down highways and well-marked roads without human intervention."
-    publishedDateTime: 2023-03-18T03:41:00Z
-    webUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/rules-to-follow-when-driving-a-tesla-on-autopilot/l-intro-1679000963.jpg"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "Tesla engineers tried to convince Elon Musk not to give up radar for self-driving"
     excerpt: "A new report states that Tesla engineers tried to convince Elon Musk not to give up on radar for its Autopilot and self-driving effort. Tesla has a weird history with radar sensors for its Autopilot and Full Self-Driving vehicle programs."
     publishedDateTime: 2023-03-21T15:29:00Z

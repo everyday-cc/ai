@@ -274,6 +274,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
+    excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
+    publishedDateTime: 2023-03-22T20:38:00Z
+    webUrl: "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/"
+    ampWebUrl: "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 59
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial Intelligence, Web3 and ChatGPT is set to change GCC real estate"
     excerpt: "Artificial Intelligence, Web3 and ChatGPT will soon disrupt the real estate market in the GCC as Web3 technology-powered start-ups are entering the property market in a big way. The real estate ..."
     publishedDateTime: 2023-03-20T18:21:00Z
@@ -335,6 +351,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
         width: 336
         height: 224
+        isCached: true
+  - title: "Enchanted by ChatGPT, Bill Gates calls AI 2nd revolutionary tech after GPU"
+    excerpt: "Artificial intelligence (AI) is the second truly significant technological revolution in Bill Gates' 67 years of life, according to a recent blog by the Microsoft co-founder."
+    publishedDateTime: 2023-03-22T12:34:00Z
+    webUrl: "https://interestingengineering.com/innovation/bill-gates-calls-ai-2nd-revolutionary-tech-after-gpu"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/bKUV73fV7Eo9MBNXW2tyMvZ8GtUcng4pQOjWxOey.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google’s AI chatbot Bard rules search giant has ‘monopoly’ in antitrust case"
     excerpt: "Google’s own AI chatbot, Bard, ruled the company has a “monopoly on ... hiccups were likely to occur as the public gained access to Bard. “As more people start to use Bard and test its capabilities, they’ll surprise us. Things will go wrong ..."
@@ -578,20 +608,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "ChatGPT has some thoughts about Aspen"
-    excerpt: "ChatGPT describes its purpose as providing “natural language processing capabilities,” meaning it can understand and generate “human-like language.” “I was trained on a vast amount of text data to enable me to perform a wide range of tasks ..."
-    publishedDateTime: 2023-03-18T01:27:00Z
-    webUrl: "https://www.aspentimes.com/news/chatgpt-has-some-thoughts-about-aspen/"
-    type: article
-    provider:
-      name: The Aspen Times
-      domain: aspentimes.com
-    quality: 24
-    images:
-      - url: "https://cdn.aspentimes.com/wp-content/uploads/sites/5/2023/03/chatbox.jpeg"
-        width: 612
-        height: 408
-        isCached: true
   - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
     excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"
     publishedDateTime: 2023-03-19T19:30:00Z
@@ -605,6 +621,20 @@ related:
       - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/artificial-intelligence-chatbot-sentient-1370249712.jpg"
         width: 1200
         height: 810
+        isCached: true
+  - title: "From ChatGPT-3.5 to ChatGPT-4: A Quantum Leap in Natural Language Processing and Multimodal Capabilities"
+    excerpt: "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set ..."
+    publishedDateTime: 2023-03-22T15:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/03/chatgpt-35-chatgpt-4-quantum-leap-natural-language-processing-and-multimodal-capabilities/384296/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 22
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/03/22/032223gpt4NG/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Forget ChatGPT — this new startup is all about AI-generated video"
     excerpt: "ChatGPT may be stepping up its game with the release of GPT4 but it has been beaten to the punch in the race to create AI-generated video. The previews on Runway’s own site are interesting. The videos resemble super-charged GIFs,"

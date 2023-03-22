@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "AI Will Revolutionize Your Inbox"
+    excerpt: "With the introduction of new AI services from Microsoft ... Copilot is built on Microsoft’s Azure cloud platform and plays well with other Microsoft apps and Salesforce. Shortwave is built atop Gmail and prides itself on being open and decentralized."
+    publishedDateTime: 2023-03-22T19:40:00Z
+    webUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/"
+    ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b57c6c1e78edb1f70461c/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Healthcare AI Market Growth and Forecast till 2030"
     excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
     publishedDateTime: 2023-03-21T05:02:00Z

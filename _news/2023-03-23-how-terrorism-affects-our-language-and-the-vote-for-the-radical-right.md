@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T18:18:00Z
 originalUrl: "https://phys.org/news/2023-03-terrorism-affects-language-vote-radical.html"
 webUrl: "https://phys.org/news/2023-03-terrorism-affects-language-vote-radical.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

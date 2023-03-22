@@ -165,6 +165,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
+    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
+    publishedDateTime: 2023-03-22T20:41:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
     excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
     publishedDateTime: 2023-03-22T08:17:00Z
@@ -210,18 +226,18 @@ related:
         height: 1024
         isCached: true
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "The GPT-3.5 architecture is a natural language processing technology designed to interpret text inputs as if it were human. GPT-3.5 is an updated version of the GPT3 model aimed at reducing toxic and biased language. However, that doesn’t mean ChatGPT ..."
-    publishedDateTime: 2023-03-22T16:35:00Z
-    webUrl: "https://whnt.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    ampWebUrl: "https://whnt.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    excerpt: "BestReviews is reader-supported and may earn an affiliate commission. Details. Everything you need to know about Microsoft’s new AI feature Artificial intelligence is quickly becoming a part of"
+    publishedDateTime: 2023-03-22T16:57:00Z
+    webUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    ampWebUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
     type: article
     provider:
-      name: WHNT
-      domain: whnt.com
+      name: Fox2Now St. Louis
+      domain: fox2now.com
     quality: 76
     images:
-      - url: "https://whnt.com/wp-content/uploads/sites/20/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
         width: 760
         height: 500
         isCached: true
@@ -397,6 +413,20 @@ related:
         width: 620
         height: 498
         isCached: true
+  - title: "Microsoft Reveals More Partner Designations, AI Opportunity"
+    excerpt: "A second upcoming designation is for learning partners ... commitment with Azure intellectual property (IP) co-sell eligible products and services. Partners will also gain the ability to transact containers and virtual machine (VM) software reservations ..."
+    publishedDateTime: 2023-03-22T20:43:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-reveals-more-partner-designations-ai-opportunity"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027f-178ca52379f0-58443240c6f2-1000/microsoft-sign.jpeg"
+        width: 609
+        height: 457
+        isCached: true
   - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
     excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
     publishedDateTime: 2023-03-21T21:34:00Z
@@ -410,6 +440,20 @@ related:
       - url: "https://images.macrumors.com/t/qhsiw54VkHcJa_hg5TJewpV8k1M=/2560x/article-new/2023/03/bing-image-creator-experience.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
+    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
+    publishedDateTime: 2023-03-22T19:39:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 52
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
     excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."

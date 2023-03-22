@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T18:00:00Z
 originalUrl: "https://www.sandiegoreader.com/news/2023/mar/22/radar-police-profiling/"
 webUrl: "https://www.sandiegoreader.com/news/2023/mar/22/radar-police-profiling/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: San Diego Reader

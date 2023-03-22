@@ -72,6 +72,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "AI platform allegedly bans journalist over fake Trump arrest images"
+    excerpt: "Yesterday, about 50 AI-generated images imagining what former President Donald Trump’s arrest would look like spread across Twitter. The images caused confusion for some users because the Midjourney v5 engine used to create them generates such realistic-looking content."
+    publishedDateTime: 2023-03-22T17:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ai-platform-allegedly-bans-journalist-over-fake-trump-arrest-images/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
 
 secured: "6UOSFpJ+t0G9PUA2sk/WOkz66jzFQgKQ8WyEjuqCQoeDrsWc8nKThfejZJeqMhhT0+T0eBC4541kHwIqccDfDK2xoWmEIues4IEj8fjFaH9aEtZpTfJH5IwxIOpP0/qrw69UXYlCFRD/ZGscY7EyXCSwmI2yjNgsRML/xREGGqGrWx0FOINtFscoGAqD5CEN1Z9jkEJwscZk6cW99Ud7+w8S7K/PxsLpdFSAX/ntwM/Y21q4x+Xhs7t0Z5tHkOGF2lmAbVqgrIK6YsrygewW5gvlphX8gLEhs7FTY82v4ql21y91x92KNpsshOVX1ShIHJerPkq19w/YI6dDgO+GwxPi6uhPLYR2woVWjxrXvx0=;YXJTwTEGCMcRhM5b6Uh2rw=="
 ---

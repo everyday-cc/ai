@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mozilla Launches Startup to Home In on 'Trustworthy AI'"
+    excerpt: "The organization says it wants to \"turn the tide\" as companies rush to adopt generative artificial intelligence."
+    publishedDateTime: 2023-03-22T18:27:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/mozilla-launches-ai-focused-startup-called-mozilla-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/mozilla-launches-ai-focused-startup-called-mozilla-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mozilla-launches-ai-focused-startup-called-mozilla-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/ff5780e5629ebbec515d37832c42980886f16da2/hub/2022/04/12/2ca4ed6b-469b-4336-bcf2-e2d7d648e77a/firefox-browser-logo-2022-001.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All"
     excerpt: "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ..."
     publishedDateTime: 2023-03-22T15:19:00Z
@@ -57,6 +73,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Mozilla Launches AI-Focused Startup Called Mozilla.ai"
+    excerpt: "Mozilla, the organization behind the Firefox browser, launched an artificial intelligence focused startup Wednesday, called Mozilla.ai. \"The vision for Mozilla.ai is to make it easy to develop trustworthy AI products,\" Mark Surman, Mozilla's executive ..."
+    publishedDateTime: 2023-03-22T18:19:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/mozilla-launches-ai-focused-startup-called-mozilla-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 47
   - title: "Mozilla launches $30m start-up to build trustworthy AI"
     excerpt: "As AI reigns as the hot topic in the tech world, Mozilla has launched a new start-up that will focus on developing open-source, trustworthy AI products. The non-profit has revealed Mozilla.ai, which has been given an initial funding boost of $30m by the ..."
     publishedDateTime: 2023-03-22T14:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ubisoft is testing an AI tool that writes NPC dialogue"
+    excerpt: "Late last year, it was the ethics of generative AI art programs like DALL-E and Midjourney that dominated debate over its many issues, ranging from art theft to racism. Those issues are still contentious, but OpenAI’s ChatGPT app has moved to the ..."
+    publishedDateTime: 2023-03-22T21:02:00Z
+    webUrl: "https://www.polygon.com/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    ampWebUrl: "https://www.polygon.com/platform/amp/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 59
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/_trrbWMByvS9NMvDD95Fhj4Na6Y=/0x0:1448x815/1400x933/filters:focal(600x193:830x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72103800/watch_dogs_legion.0.jpg"
+        width: 1400
+        height: 815
+        isCached: true
   - title: "Ubisoft Is Using AI to Write Dialogue for Video Game Characters"
     excerpt: "I've been working at PCMag since November 2016, covering all areas of technology and video game news. Before that I spent nearly 15 years working at Geek.com as a writer and editor. I also spent the first six years after leaving university as a ..."
     publishedDateTime: 2023-03-22T12:29:00Z

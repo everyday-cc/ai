@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chat GPT vs. Google Bard: Generative AI Comparison"
+    excerpt: "Google runs it on top of its BERT AI language model as a way to answer questions, conduct sentiment analysis, and perform language translation. Its answers go far beyond those typically given during a traditional Google search. While ChatGPT can manage ..."
+    publishedDateTime: 2023-03-22T21:36:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/chat-gpt-vs-google-bard/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-30-at-12.10.38-PM.png"
+        width: 412
+        height: 410
+        isCached: true
   - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
     excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."
     publishedDateTime: 2023-03-21T14:55:00Z

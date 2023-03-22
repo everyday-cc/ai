@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
+    excerpt: "At the GPU Technology Conference on Tuesday, Nvidia Corporation’s (NASDAQ: NVDA) CEO Jensen Huang said that the “iPhone moment for AI” has started."
+    publishedDateTime: 2023-03-22T17:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ceo-proclaims-ai-s-iphone-moment-has-begun-analysts-respond-1032185627"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
     publishedDateTime: 2023-03-21T17:06:00Z
@@ -136,6 +145,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
+    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
+    publishedDateTime: 2023-03-22T15:50:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'The iPhone Moment For AI\" And Nvidia Is Taking Control Of It"
     excerpt: "He said generative AI's ability to automate and co-create makes it set to ... Microsoft and Nvidia are bringing Omniverse to hundreds of millions of Microsoft 365 and Azure users, enabling developers to speed up and scale up to solve previously impossible ..."
     publishedDateTime: 2023-03-21T17:49:00Z
@@ -146,13 +169,13 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
+    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
     publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.star-telegram.com/software-business/article273266260.html"
+    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 15
 
 secured: "KnMaxeFBZpRB94YSxW8UMtG1/QbbpZ+aPFUX+48gY/odJdr4ZTgyoCiEwZJbbnKfZI6sIKkI2gcplpEF/pUNrBUydz7QGsE8FNHbwOyv7FkHfr276uaX9H1+rVgpNMcry2OJWjuhSa+/scVosZNHnoy5YXcZDPI4dVGilGxBkBCdvyRac/PpbcBBIvoyLFA8SZJCvp6aRmIuWW8+xmU5OSKVFb76UgjJzsH4P38DQ4yJIp0GsVc1qD3/9FnNonSHsem//vPf8QYGHvWHy6QK049BXLn8jLZ4rwV64FUzICQbYpX9PB+EKOJzHczVXzqR3ivB8DHLQ2fR9CZgx3nsvZC+/BZK7ORfyUUDrEtgN+dGYQJ6fwWoehiU79bmbxQOhYS5jEOmL01J4HWYhDxNV5fPKTfe7DOv8Wl1pwg+ImiDm551EhSNEnZljwW18F7xh4oqRXIXsk+Uw0nBwB2zzx/JFSvmCpZHRfW9mgaOdDQlX4a+mv4VaJp7bhzElBFvBBhcf8RO4hXycOQDUgZFbQ==;1k/bMMaEBMyvJwCNcL2gqA=="

@@ -74,6 +74,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
+    excerpt: "At the GPU Technology Conference on Tuesday, Nvidia Corporation’s (NASDAQ: NVDA) CEO Jensen Huang said that the “iPhone moment for AI” has started."
+    publishedDateTime: 2023-03-22T17:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ceo-proclaims-ai-s-iphone-moment-has-begun-analysts-respond-1032185627"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
     excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
     publishedDateTime: 2023-03-21T17:06:00Z
@@ -130,6 +139,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
+    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
+    publishedDateTime: 2023-03-22T15:50:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "ChatGPT AI now more powerful"
     excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
     publishedDateTime: 2023-03-20T15:01:00Z
@@ -149,13 +172,13 @@ related:
       domain: benzinga.com
     quality: 19
   - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
+    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
     publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.star-telegram.com/software-business/article273266260.html"
+    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 15
 
 secured: "AXBqJAjCxMx0OMUC2gTcIhFWDPDcIaOwi5eRHRJbVYzzUFtKS4TZRCK80ci64Q/aVOODKh4YF+/nMYKWViQt9NDX80lNyxtzp9vtyW54ff32oJTigwgmj/lMf6F0OJQz30fEMo0/LZgxWHzxiKsiH5kOVyw5a/YxD7k5ObGhDx347s1zFY2AlL7NoMbVOSNtJzJ1I8RayTKjo297C16FCFI57jJibDndMIjfWzEjfsKHdIm49S9RMYALAPRo5Pg3Vl0kn7nuzuCgMyUvMQ+qHQlYOKMv8ZHt7DrK+7dVaF+Q0GPd0re8drTdZ2/wLcWGzbzKi5EQ52Az8zi9A0ZcH3RGnFaoRwcQPd2KVNQqEn/R+xz1u4Nrx3fxOQks60dLO0Hv+oXCzMp4kLt0dX4bJOD/YW/LHGM4haI43lSi6JmXWZndh70s7jLj+Rv+li0Td4q880vE07OBtMejCxFNEvZAo2FEWOdMMYjMzub/dsivi0nVWZQze2EIZAPNoP44jGjMDZWexE9tnb38rD+Viw==;VMFbeHsnlTy2jn294ofDpQ=="

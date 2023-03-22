@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputin
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Supermicro announces new AI development platform powered by NVIDIA"
     excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
     publishedDateTime: 2023-03-22T16:13:00Z

@@ -55,6 +55,20 @@ related:
         width: 871
         height: 554
         isCached: true
+  - title: "Biosensors Could Allow Robot Control Using Thought"
+    excerpt: "An advanced biosensor brain–computer interface is bringing thought-controlled robots a step closer to reality."
+    publishedDateTime: 2023-03-21T10:15:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/biosensors-could-allow-robot-control-using-thought-371348"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/371348/biosensors-could-allow-robot-control-using-thought-371348-640x360.jpg?cb=20230321"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "mT9GQ47ii7DUFmVX4URvzC0puOH1jdoqMPKCViRSEWwGvLO5a/fYiTqnp0U8VPZHhhlgCVkkCEUSfC5+/De25isZkhUPdABbhAfXiEwXNKPvE75vdRUPvJGEpr6TtIjvZlJ5QT9aVr7/GuwNg8vXphPqtYY+Ruokr4IIahN8o63UDqbULCEnk36DtAfXvCrLl9NyThbGX0OzwTIvpskz90QG4uFlYjmpH9mfm08jonWwYgS+Xtt3WamS+6slqAzRnYGORmYY4r7PmTcc35ZtHwVV1hgOYil+IknmNBvlPqLndAf66ewnlnl9FHVHSjugyqU3HCzJ1RRu1cYZ3J6GL8N/K+7xUBhUNn8NGbvFjro=;GhTwLkNwD8Hb1zvSwyLsYQ=="
 ---

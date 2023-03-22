@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T16:18:00Z
 originalUrl: "https://www.zdnet.com/article/how-to-use-dall-e-2-to-turn-your-creative-visions-into-ai-generated-art/"
 webUrl: "https://www.zdnet.com/article/how-to-use-dall-e-2-to-turn-your-creative-visions-into-ai-generated-art/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet

@@ -217,6 +217,15 @@ related:
         width: 764
         height: 440
         isCached: true
+  - title: "Adobe Announces Generative AI ‘Firefly’ Program And Wall Street Flocks Like A Moth To A Flame"
+    excerpt: "The digital media giant has announced AI generative tools will be added to its suite of apps Adobe stock rose 3.1% after the announcement, buoyed by a strong Q1 earnings report last week Things are looking up for Adobe stock after a challenging year for the tech sector,"
+    publishedDateTime: 2023-03-22T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/22/adobe-announces-generative-ai-firefly-program-and-wall-street-flocks-like-moth-to-a-flame/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 36
   - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
     excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
     publishedDateTime: 2023-03-21T13:03:00Z

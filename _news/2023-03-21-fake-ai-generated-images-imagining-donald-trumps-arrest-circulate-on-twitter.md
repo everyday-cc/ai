@@ -62,6 +62,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "AI platform allegedly bans journalist over fake Trump arrest images"
+    excerpt: "Yesterday, about 50 AI-generated images imagining what former President Donald Trump’s arrest would look like spread across Twitter. The images caused confusion for some users because the Midjourney v5 engine used to create them generates such realistic-looking content."
+    publishedDateTime: 2023-03-22T17:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ai-platform-allegedly-bans-journalist-over-fake-trump-arrest-images/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Trump Hasn't Been Arrested But AI Images Keep Fooling People"
     excerpt: "Trump told his supporters that he was expecting to be arrested on Tuesday over allegations of hush money paid to the former porn star Stormy Daniels. To be clear: The case against him exists. The Manhattan district attorney’s office has previously asked Trump to testify to a grand jury."
     publishedDateTime: 2023-03-21T21:50:00Z

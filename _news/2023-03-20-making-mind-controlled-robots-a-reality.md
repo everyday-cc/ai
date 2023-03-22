@@ -52,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Biosensors Could Allow Robot Control Using Thought"
+    excerpt: "An advanced biosensor brain–computer interface is bringing thought-controlled robots a step closer to reality."
+    publishedDateTime: 2023-03-21T10:15:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/biosensors-could-allow-robot-control-using-thought-371348"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/371348/biosensors-could-allow-robot-control-using-thought-371348-640x360.jpg?cb=20230321"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "kQgxEZ7wzoKZgl4xf+QxCpbs/WUXT7iOoBKCUe5u5S08+xvafrnKEjPzoJspRRZtgdM2mpgkUUQro8dKYV4b70BSj5z5EH7rrId7DqKmeCIGy9eWomtfse1/Yw9TLanX+5VDoZC5npNfPMLXd2mI7OqFavG4RjKa7ucu39qKNW9KgOuqzRfPLnGiqboP+J1PtGdP06pUatHcr3hejyxipoDBPfFy0zq9rQEat+8wQsZe99AW/Hm51EDg6m8pzNJm1KnKLTlb9fAzMw2LFwy76gZme/weR99H4TtaE2ssmSfj+6dEe9zGQ9yQKPF5j7MCQMxT/AwHVctolxpQszp2BsHvr9TRe97mSC/xOfr2na5gb1YSuhcDvbN4dRSu47kQ14m9Uyusp9IVi1WEZgMEPk+8ym2EgNMq9wE+a9D4MLZXKmElOi9uZTShh/qB+2VYajM866mZl9EcY1qAw8/hZGQKJD6HPojvVtGE3QXSBS/f8EiFOnq8kBbZ7IRQ2MeRBVMEfE0rkln0llP2D8h+nQ==;2/Q6fNoC9pwkb/R9Uo+sYA=="
 ---

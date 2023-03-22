@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T19:04:00Z
 originalUrl: "https://www.marketwatch.com/story/nvidia-ceo-expects-ai-revenue-to-grow-from-tiny-tiny-tiny-to-quite-large-in-the-next-12-months-f8268d1f"
 webUrl: "https://www.marketwatch.com/story/nvidia-ceo-expects-ai-revenue-to-grow-from-tiny-tiny-tiny-to-quite-large-in-the-next-12-months-f8268d1f"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MarketWatch

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-22T17:16:00Z
 originalUrl: "https://www.benzinga.com/startups/23/03/31461417/ai-startups-turn-to-retail-investors-to-fund-the-growth-of-the-1-59-trillion-artificial-intelligence"
 webUrl: "https://www.benzinga.com/startups/23/03/31461417/ai-startups-turn-to-retail-investors-to-fund-the-growth-of-the-1-59-trillion-artificial-intelligence"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 

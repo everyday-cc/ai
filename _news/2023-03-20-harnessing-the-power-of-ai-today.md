@@ -181,20 +181,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-18T02:36:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
     excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
     publishedDateTime: 2023-03-20T15:42:00Z

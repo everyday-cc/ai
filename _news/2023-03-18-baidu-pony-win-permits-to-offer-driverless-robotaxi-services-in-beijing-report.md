@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-of
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "SHANGHAI, March 17 (Reuters) - Baidu (9888.HK), and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing. Baidu's Apollo ..."
-    publishedDateTime: 2023-03-18T02:16:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 82
-    images:
-      - url: "https://www.reuters.com/resizer/oJXGW_eeaDu-jubspyQ0lhWVrrI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D24D44ZNHVMFPNYB32VY2BATZE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver"
     excerpt: "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides."
     publishedDateTime: 2023-03-19T13:18:00Z

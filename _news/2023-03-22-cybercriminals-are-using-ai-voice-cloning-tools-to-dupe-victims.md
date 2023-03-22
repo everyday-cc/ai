@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T16:01:00Z
 originalUrl: "https://www.cbsnews.com/philadelphia/news/ai-scam-voice-cloning-rising-ftc/"
 webUrl: "https://www.cbsnews.com/philadelphia/news/ai-scam-voice-cloning-rising-ftc/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CBS News

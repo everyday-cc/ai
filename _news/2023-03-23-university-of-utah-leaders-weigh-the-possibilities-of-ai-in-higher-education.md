@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T19:00:00Z
 originalUrl: "https://www.ksl.com/article/50601058/university-of-utah-leaders-weigh-the-possibilities-of-ai-in-higher-education"
 webUrl: "https://www.ksl.com/article/50601058/university-of-utah-leaders-weigh-the-possibilities-of-ai-in-higher-education"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: KSL

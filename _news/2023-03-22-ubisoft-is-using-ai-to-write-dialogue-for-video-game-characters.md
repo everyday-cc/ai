@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ubisoft is testing an AI tool that writes NPC dialogue"
+    excerpt: "Late last year, it was the ethics of generative AI art programs like DALL-E and Midjourney that dominated debate over its many issues, ranging from art theft to racism. Those issues are still contentious, but OpenAI’s ChatGPT app has moved to the ..."
+    publishedDateTime: 2023-03-22T21:02:00Z
+    webUrl: "https://www.polygon.com/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    ampWebUrl: "https://www.polygon.com/platform/amp/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/ai-artificial-intelligence/23652201/ubisoft-ai-writing-tool-ghostwriter"
+    type: article
+    provider:
+      name: Polygon
+      domain: polygon.com
+    quality: 59
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/_trrbWMByvS9NMvDD95Fhj4Na6Y=/0x0:1448x815/1400x933/filters:focal(600x193:830x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72103800/watch_dogs_legion.0.jpg"
+        width: 1400
+        height: 815
+        isCached: true
 
 secured: "uOnGUPZIbdhknELKU0/LAxy5WjiuDGmCKTF+tNxtfiwQ343sUJYvBmy3V1D0DCVCKWzVE16fo/kMIgKP9vxysAv39SyO6ykwZl9ZXejIgbQvsKlVGSnn3hVmjpE83WOkSoVzVJgNwf9wQUBFnA10rzXjuH985Unx/06x6gqc6Kg1pyUiRF3aMIRcferwe2ZVRAljtVlRHU3vHrVstH2Bg4fcfhj6+gsdVPxjlDMrWWTpzbjVPimwQY+H0VFlwkHpbbFfLyORqwp8KHKTO82O0ZEpgkUHTjL7t1chtOXJrYEecfaThBlxGLf42j5Gzh+ofjom9OXCAYuIr9cjEzhRLhRy8VAg5jByGa52IT0CnocOSfQ1wL7CCvPsTwhzl9ANFNLxMhkHKpxZ6B1eSD9WdhQ/Z++3BsQtNAdWmFnCYOsSZzHUHZ8lD6Eox4g35hlK55pUVfpoHLhWbKiouATDAXZDjLsz0H85qDkB+1LFIkMPT1cKmszFKc8jKJElFIP5Unof1qBp/YH82Zx6sew3EQ==;N6Du1lcI9nssgpM8VlZ4gw=="
 ---

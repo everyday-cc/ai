@@ -9,7 +9,7 @@ ampWebUrl: "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-c
 cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Autonomous shuttle gets new capabilities through machine learning and AI"
+    excerpt: "Autonomous transport company Aurrigo has improved its driverless vehicle’s capabilities in a project with Aston University. The two-year Knowledge Tran"
+    publishedDateTime: 2023-03-22T14:32:00Z
+    webUrl: "https://fleetworld.co.uk/autonomous-shuttle-gets-new-capabilities-through-machine-learning-and-ai/"
+    type: article
+    provider:
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 35
 
 secured: "QtlJuP4NzhkKCHa1ZSll53fN67qFx7gDCl1GBHw3/nOc6+YO5vJ8SLJr154oju1DDdbHmnDda1GAovsnW7GKH7HCtwMA5jEtZaip/XgkNsumXRicKqTjVfLe/GU7dWpYEy9Xie/dXdCQ7pE717ND+4XnG4OW5sG629aD9uDCVOfrRfuzFZ8+eihD0NlM76Go8ri4M4eOxjH9jGKYB5+iCMP1xaMeVnI+Wm/tPRHz3rKBsKA5Fkq4oC7oVPekaA8wslRWKz03sOvkFpHwvOFX2jUQYKna0MzBYPrLkFDgfCb3b3E0+yCgmY65YrOl34WG5NMJWzdj7mZvTvHdxVVini/Cw+B8ey6K5V7mxA1oeApJrEk+PCtXA2znqJb18xzWyzUvnqf9eLrNEkeFxLr7Dj/p6A3tMph+6IsgMH7fnBRImDAgA4XoAiDmd37O6sm+yt7fuLyZIxvZZ2xM2Ed8lLVaFrFM1OUmni1A7HIvP/ervfGw8VvROPylvzlLkh3YmCrkdTTIPYFaNgJKjcJ9Nw==;/7b9rDXvCKsxCGO2bdw+Jg=="
 ---

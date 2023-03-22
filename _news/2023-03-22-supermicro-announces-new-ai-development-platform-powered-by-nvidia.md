@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
     excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
     publishedDateTime: 2023-03-21T19:27:00Z

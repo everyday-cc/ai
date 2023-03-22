@@ -147,19 +147,19 @@ related:
         width: 1024
         height: 506
         isCached: true
-  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
-    excerpt: "Perhaps no tech company, not even Microsoft or Google, is better poised than Nvidia to reap significant near-term benefits from the race to build up generative artificial-intelligence capabilities. Here is the problem: Everyone already knows it ..."
-    publishedDateTime: 2023-03-22T17:26:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+  - title: "NVIDIA goes all in on AI, shares progress at GTC"
+    excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
+    publishedDateTime: 2023-03-22T21:17:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-goes-all-in-on-ai-shares-progress-at-gtc/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: SD Times
+      domain: sdtimes.com
     quality: 69
     images:
-      - url: "https://images.wsj.net/im-748612/social"
-        width: 1280
-        height: 640
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
   - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
     excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
@@ -174,6 +174,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
         width: 2560
         height: 1600
+        isCached: true
+  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
+    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
+    publishedDateTime: 2023-03-22T16:24:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-748612/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
@@ -206,6 +220,22 @@ related:
       - url: "https://images.barrons.com/im-748583/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia is winning AI race, but can’t afford to trip"
+    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
+    publishedDateTime: 2023-03-22T21:24:00Z
+    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
+    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia has come to dominate the field for selling chips used to developing generative AI technologies, which can answer questions with human-like text or generate fresh images based on a text prompt. Those new technologies rely on the use of thousands of ..."
@@ -253,6 +283,20 @@ related:
       name: YAHOO!News
       domain: engadget.com
     quality: 49
+  - title: "8 Big Announcements At Nvidia’s GTC 2023: From Generative AI Services to New GPUs"
+    excerpt: "improve GPU performance and make GPU computing more accessible. These included the DGX Cloud AI supercomputing service, the AI Foundations services for custom generative AI applications, the L4 and H100 NVL specialized GPUs, and the Omniverse Cloud ..."
+    publishedDateTime: 2023-03-22T21:28:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/8-big-announcements-at-nvidia-s-gtc-2023-from-generative-ai-services-to-new-gpus"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 49
+    images:
+      - url: "https://www.crn.com/resources/027f-1798c9f33803-b9db66b81116-1000/first-slide.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
     excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
     publishedDateTime: 2023-03-21T16:36:00Z
@@ -309,6 +353,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
+    excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
+    publishedDateTime: 2023-03-22T19:02:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/22/nvidias-data-center-platform-play-unveiled-at-gtc-2023/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "NVIDIA GTC 2023 Keynote: AI Everywhere, All At Once"
     excerpt: "This year, Huang discussed how NVIDIA and its partners are seeking to overcome a breadth of challenges with AI technology. NVIDIA H100 NVL With NVLink Huang announced a new GPU, the H100 NVL with dual-GPU NVLink. This new GPU is based on NVIDIA's Hopper ..."
     publishedDateTime: 2023-03-21T18:07:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Intelligent Voice Recognition market research report aids expansion in industry revenue"
-    excerpt: "Intelligent Voice Recognition market outlook (2023-2030) provides a thorough analysis of the market's current state, including factors such as market size, growth rate, segmentation, and key players."
-    publishedDateTime: 2023-03-18T01:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-intelligent-voice-recognition-market-research-report-aids-expansion-in-industry-revenue-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fy/2cdC90g/aCd6zMK6T0w2FfJfoGBbZ6+VT2KwF/t/o2Sy7sh65aJjE3i6pqhowVXL9tS39IMKCjuvJ3QylpGQSLXsNbpOXTunFn+TTH32az/yfkUv32zDMRn9DSU7TmHlfsxA4W1/bDFRq6RmDyQdYu9ZojCnA8jdBlB4poK93Muj0/+9EFs55DIQdPnViFqJ9CojgyHRTmshkJqhSzkMErCrFqSrRIwsiUJcYfQkVp6kFFgJapJmyjUrDeE+ViYjjrbsY4oaephfNr5InLTMfWU3xApjUdNqhGU+bBeGHZmSa4+Bng+tEul72qU6sDwYhciqyHJNWzEQQwrWl5TqVbffQkceZ9j/Np0MneOI=;7YJIXbYqQM0YyQtaZAdtKQ=="
 ---

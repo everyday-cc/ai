@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Rules To Follow When Driving A Tesla On Autopilot"
-    excerpt: "Activating the self-driving capability is a very simple procedure, and when it's on, the car is mostly capable of driving down highways and well-marked roads without human intervention."
-    publishedDateTime: 2023-03-18T03:41:00Z
-    webUrl: "https://www.slashgear.com/1231037/rules-to-follow-when-driving-a-tesla-on-autopilot/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/rules-to-follow-when-driving-a-tesla-on-autopilot/l-intro-1679000963.jpg"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "Tesla finally starts rolling out Full Self-Driving Beta v11"
     excerpt: "Tesla has finally started the broad rollout of Full Self-Driving Beta v11, a significant update that is Autopilto with the Full Self-Driving Beta software stack. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD ..."
     publishedDateTime: 2023-03-20T10:17:00Z

@@ -53,6 +53,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Supermicro Accelerates the Era of AI and..."
+    excerpt: "March 21, 2023 /PRNewswire/ --Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for AI/ML, Cloud, Storage, and 5G/Edge, today has announced that it has begun shipping its top-of-the-line new GPU servers that feature the latest NVIDIA HGX H100 8 ..."
+    publishedDateTime: 2023-03-22T19:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313596&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Super Micro Computer, Inc.: Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
     excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
     publishedDateTime: 2023-03-22T13:08:00Z

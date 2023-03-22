@@ -58,8 +58,8 @@ related:
       domain: menafn.com
     quality: 49
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153460"
-        width: 333
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?313650"
+        width: 335
         height: 250
         isCached: true
   - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"

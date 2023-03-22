@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Cancer-Testing Startup Artera Raises $90M"
-    excerpt: "Artera, which uses AI for cancer testing and personalized care, raised $90M to help distribute its flagship test in prostate cancer."
-    publishedDateTime: 2023-03-21T18:51:00Z
-    webUrl: "https://news.crunchbase.com/health-wellness-biotech/ai-prostate-cancer-testing-startup-artera/"
+  - title: "Female CEO Shares Her Experience Leading an AI Company"
+    excerpt: "63% believe having more women in AI would help remove bias from products and results. Kerry Goyette would agree with those findings. Article From Goyette: Entrepreneurial Power Could Contribute to Your Startup's Demise. Here's How to Stop It. Four years ..."
+    publishedDateTime: 2023-03-22T21:49:00Z
+    webUrl: "https://www.entrepreneur.com/leadership/female-ceo-shares-her-experience-leading-an-ai-company/448191"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 39
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Money_Stack.jpg"
-        width: 900
-        height: 506
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1679520786-GettyImages-1355060378.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
+    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
+    publishedDateTime: 2023-03-18T11:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
 
 secured: "gW0qKzTL1PP4XGLp2qG9dyYb/EvWohEH/dgrzM3Zf5DUL+iYC6VPI93GXhqiVW7xgC4wHLq+tcZ/aQGBZQgkawXTX4sX18nhE5VmGz1fU7cWrxOimLIZYO567bKIU6JGps5SFXOe2lZWL4YAOrWpiNp9wvage+tR3w3hPUEaZ5PtzgleQucb/5rofFMZuj2RuOEYKN3CsPNzoOSheysz2KQqfUPVDVMiCYv6+SWnsP1j9D8nm9EebYg+UZxMIznKnc6FKKihtBnP4QgJRlAaEn4+Skq46Vh8ylPS1gn7K8mv+CAb0DUivY7qGIKpwKhmzD83ZnFNlIVOsGSh8WfeL+9XJmONCixEzApNcrbqUms=;SXYFHRTjxmyvtCe4oWMr1g=="

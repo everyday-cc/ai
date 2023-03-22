@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -171,20 +171,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-03/22/KT_da453image_story.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-18T02:36:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2023/03/17/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Harnessing the power of AI today"
     excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."

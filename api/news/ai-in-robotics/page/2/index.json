@@ -296,6 +296,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-10-aitxs-subsidiary-robotic-assistance-devices-announces-completion-of-multiple-device-deployment-at-a-large-regional-hospital-group.md",
+      "title": "AITX's Subsidiary Robotic Assistance Devices Announces Completion of Multiple Device Deployment at a Large Regional Hospital Group",
+      "excerpt": "Eight ROSA units comprising this phase of the deployment have been configured as dual-unit ROSA-P devices in addition to one standard ROSA. ROSA-P is one of the recent additions to the ROSA lineup that uses existing light poles as its primary power source whether or not the light is centrally controlled.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/03/10/9775009.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029.md",
       "title": "Artificial Intelligence (AI) Robots Market 2023 [Latest Report] Is Thriving Worldwide by 2029",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 09, 2023 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in this ...",
@@ -1333,51 +1367,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
-      "title": "Can religion save us from Artificial Intelligence?",
-      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

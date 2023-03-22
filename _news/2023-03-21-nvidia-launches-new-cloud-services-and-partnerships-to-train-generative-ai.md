@@ -119,7 +119,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
         width: 1200
@@ -234,6 +234,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Nvidia announces H100 GPU SKU aimed at large language model and generative AI workloads"
+    excerpt: "Nvidia has developed a version of its H100 GPU specifically for large language model and generative AI development. The dual-GPU H100 NVL has more memory than the H100 SXM or PCIe, as well as more memory bandwith, key features for large AI models."
+    publishedDateTime: 2023-03-22T21:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-h100-gpu-sku-aimed-at-large-language-model-and-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia-inference-platforms.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Adobe launches new generative AI to transform customer experiences"
     excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
     publishedDateTime: 2023-03-22T09:48:00Z

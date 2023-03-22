@@ -29,7 +29,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 33
+    quality: 37
     images:
       - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/000radai.png?width=1200&height=800&fit=crop"
         width: 495

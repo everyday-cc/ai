@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-05-how-hybrid-cybersecurity-is-strengthened-by-ai-machine-learning-and-human-intelligence.md",
+      "title": "How hybrid cybersecurity is strengthened by AI, machine learning and human intelligence",
+      "excerpt": "Human intelligence combined with AI and ML models enable hybrid cybersecurity to better predict, identify and stop security breaches.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1657803103752.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
+      "publishedDateTime": "2023-01-04T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-investing-in-ai-stocks.md",
       "title": "Investing in AI Stocks",
       "excerpt": "Machine learning, or AI, involves training a system ... and improve the quality of care. In the financial services industry, via the company’s 2016 acquisition of Promontory Financial Group ...",
@@ -1326,49 +1379,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.md",
-      "title": "Feds warn against cybersecurity risks associated with automation in healthcare",
-      "excerpt": "Examples of automation in cybersecurity include machine learning and artificial intelligence, penetration testing, and automated intelligence collection. HHS said using automated technologies can help healthcare organizations detect threats more quickly and fill gaps in the cybersecurity workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/cybersecurity/feds-warn-against-cybersecurity-risks-associated-with-automation-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/13thAnnualReviewerButton.png",
-          "width": 2200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

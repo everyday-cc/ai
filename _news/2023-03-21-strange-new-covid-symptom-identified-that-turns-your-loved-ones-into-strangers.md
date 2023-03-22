@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New symptom of Covid 'turns your loved ones into strangers'"
+    excerpt: "A bizarre new symptom of Covid has just been revealed which could cause people not to recognise their loved ones. Researchers says some people who have tested positive for Covid have what they call 'face blindness'. One patient, identified as a portrait ..."
+    publishedDateTime: 2023-03-22T19:19:00Z
+    webUrl: "https://www.stokesentinel.co.uk/news/health/new-symptom-covid-turns-your-8278030"
+    type: article
+    provider:
+      name: TheSentinel
+      domain: stokesentinel.co.uk
+    quality: 4
 
 secured: "CzUgN/50fN1EPFfKIYegQ35ZDv3vHqPQ/b2an9JRRXXULBQ1Wv/rrMj6BTcfS8SeEPAl7H668Tid2ieZFyaSDvUcl7hd5qqoLSr//U10YXWIvFZzZrakfB8LSzyFL8v/CJgEYThU4TWLtaWZuJwxkaUMMkYMOp8jRdM4e4IBmF8rLP2J86GByz+Xlk5lHQgcUEdpD6LwSWNgjAI5sn9k4zr87iAwSWYC7yLTh6SrHj8qHN2W3QlXGaLZJkCQ6bx33FpBTaKBzBgvMSJy+46XLmnFzAFToeOfzwBmsyuj8EJ6j+rvFDMTRD7KXO37+HPwMu2sxeQWGHCUs8SD+Ea/OGNMXdYqnta5R7IENekIQrg=;wybQGa4gJDJNJ7wwQaYL7g=="
 ---

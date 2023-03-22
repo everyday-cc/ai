@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T18:09:00Z
 originalUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
 webUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Investing

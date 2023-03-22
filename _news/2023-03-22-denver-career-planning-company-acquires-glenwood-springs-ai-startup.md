@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T12:11:00Z
 originalUrl: "https://www.bizjournals.com/denver/inno/stories/news/2023/03/22/denver-pairin-career-planning-acquire-savviest-ai.html"
 webUrl: "https://www.bizjournals.com/denver/inno/stories/news/2023/03/22/denver-pairin-career-planning-acquire-savviest-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals
