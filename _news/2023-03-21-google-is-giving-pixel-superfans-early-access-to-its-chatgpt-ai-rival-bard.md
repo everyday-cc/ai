@@ -90,6 +90,22 @@ related:
         width: 868
         height: 489
         isCached: true
+  - title: "How AI and ChatGPT can embrace engineering education?"
+    excerpt: "Hence, large language model based generative AI platforms like ChatGPT and Bing Chat can be a ... The ability of ChatGPT to summarise, shorten, elaborate, rephrase, and translate text can also help students improve their writing skills."
+    publishedDateTime: 2023-03-22T11:44:00Z
+    webUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education-11679484916404.html"
+    ampWebUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/03/22/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1679485118056_1679485118056.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Google releases Bard, a competitor to ChatGPT, Claude and Bing Chat"
     excerpt: "The new chatbot aims to emulate human-like conversations by utilizing natural language processing and machine learning to generate realistic and helpful responses to user queries. >>Follow VentureBeat’s ongoing generative AI coverage<< In its surprise ..."
     publishedDateTime: 2023-03-21T23:07:00Z
@@ -133,6 +149,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20230318&t=2&i=1627177572&r=LYNXMPEJ2H03M&w=800"
         width: 800
         height: 750
+        isCached: true
+  - title: "Those Generative AI ChatGPT And GPT-4 Outputs And Interaction Might Be Portraying Too Much Humility For Our Own Good, Says AI Ethics And AI Law"
+    excerpt: "ChatGPT and its successor GPT-4 will often interact and produce outputted essays that seem to exhibit humility, but some in AI Ethics and AI Law worry that this is a troubling trend. Here's why."
+    publishedDateTime: 2023-03-22T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641a5f449007f9459b4b2898/0x0.jpg?format=jpg&crop=1455,819,x110,y75,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "What Happens When Your AI Chatbot Stops Loving You Back"
     excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
@@ -214,6 +246,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Artificial Intelligence, Web3 and ChatGPT is set to change GCC real estate"
+    excerpt: "Artificial Intelligence, Web3 and ChatGPT will soon disrupt the real estate market in the GCC as Web3 technology-powered start-ups are entering the property market in a big way. The real estate ..."
+    publishedDateTime: 2023-03-20T18:21:00Z
+    webUrl: "https://www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate"
+    ampWebUrl: "https://www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 57
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=f30e922d-3438-59ee-b54a-e108b5305944&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.37438&width=1200&height=675&x=1.0E-5&y=0.1381"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why did Stanford take down its Alpaca AI chatbot?"
     excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
     publishedDateTime: 2023-03-22T00:42:00Z
@@ -275,6 +323,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
+    excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
+    publishedDateTime: 2023-03-22T11:16:00Z
+    webUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341"
+    ampWebUrl: "https://www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
+    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/lifestyle/technology/pick-up-lines-chatgpt-ai-29521341.amp"
+    type: article
+    provider:
+      name: Irish Daily Mirror
+      domain: irishmirror.ie
+    quality: 52
+    images:
+      - url: "https://i2-prod.irishmirror.ie/incoming/article29521540.ece/ALTERNATES/s1200/0_GettyImages-1247150492.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Interactive Hrtech Startup Amara Transforms Employee Experience With An AI Chatbot"
     excerpt: "Being an AI chatbot, Amara chats with employees at critical touchpoints ... across the globe and is continuing to move on the growth trajectory. The early-stage startup has a headcount of 31 and expects to reach 50 by the end of FY22-23."
@@ -374,6 +438,20 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
         width: 506
         height: 337
+        isCached: true
+  - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
+    excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
+    publishedDateTime: 2023-03-21T15:23:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/21/google-bard/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
     excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."

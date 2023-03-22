@@ -25,83 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How to navigate today’s conversational AI and text generative landscape"
-    excerpt: "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ..."
-    publishedDateTime: 2023-03-17T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/"
-    ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
+  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
+    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
+    publishedDateTime: 2023-03-20T09:03:00Z
+    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
+    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 599
+        height: 800
         isCached: true
-  - title: "Roblox launches its first generative AI game creation tools"
-    excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
-    publishedDateTime: 2023-03-22T03:57:00Z
-    webUrl: "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    ampWebUrl: "https://www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+  - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
+    excerpt: "The book, Missing Links in AI Governance, includes 18 articles on AI governance ... contributions to the field of deep learning, particularly in language modeling, machine translation, object recognition, and generative models. For more information ..."
+    publishedDateTime: 2023-03-20T15:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-to-emphasize-urgent-need-for-better-ai-governance/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Generative AI’s Next Frontier Is Video"
-    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
-    excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
-    publishedDateTime: 2023-03-21T15:23:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/21/google-bard/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "You can’t stop generative AI fraud"
-    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
-    publishedDateTime: 2023-03-20T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
         isCached: true
 
 secured: "DUCCOwS25im8syQ9Cirpg1FHq7E1ClSOiB5sZXyKab8Vb5gblqpZvufnR1KwsB086BbZ5EzUyrH6wUlC+3X680PeS31rEROa4rATbSi0lDu7f5zZHHVJNKVGgOw5mNsBIXRxKk/KYYH7BZLItDMR5y/0qGG9i/K+LZl35+40PADUF8A4SLieSoBx2umysOYdXpF3SabuXAxQsir3k+QkuCqfFPMVvE64VQ8iOjJ51YDAriOBluSuzK9goOFJyLKALZYDxJiWYjGOjR9D8D2Fso+03Avld8KLkKI9enev30S4qggletTdGuhLM19B+fhaC5f4ZNn41hUUB6+3aOuBShqrIxb6z4vi+08HM8cIt8NNbol80Qof69wkNJ2m2C7QdiRJNowyQwnGqL+soB/HDBgDTh2cZL8qIjx4fK46BZpE8ea/YmdhunJSSpMxagFw+MoCgn986J8fxnnjTVVPl9wjOE90DWpnO1tInY/m36WTH8JxG9Zi1j/CrPvf7XPw/vHqsBRmGKlUDfqxqobNTQ==;6srNpQpV9jcr8mA7kxY2Tw=="

@@ -223,15 +223,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
-    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
-    publishedDateTime: 2023-03-17T17:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
   - title: "How Technology is Changing the Future of Healthcare"
     excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
     publishedDateTime: 2023-03-21T20:03:00Z

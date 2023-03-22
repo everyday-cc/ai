@@ -2,6 +2,368 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
+      "title": "Making faces: How to train an AI on your face to create silly portraits",
+      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
+          "width": 300,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "publishedDateTime": "2023-03-22T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-how-ai-could-reduce-contract-inefficiencies-and-drudgery.md",
+      "title": "How AI Could Reduce Contract Inefficiencies And Drudgery",
+      "excerpt": "Ways AI Can Be Used To Create Better Contracts Natural language processing: AI-powered NLP can be used to analyze and interpret the language used in existing contracts to identify common clauses and language patterns. This can be useful in drafting new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641a10e38556bdc74e0aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/22/how-ai-could-reduce-contract-inefficiencies-and-drudgery/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
+      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
+      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
+      "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
+      "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1009,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
+      "publishedDateTime": "2023-03-22T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
+      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
+      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
+          "width": 1800,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
+      "publishedDateTime": "2023-03-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-raja-koduri-leaves-intel-to-start-generative-ai-gaming-software-company.md",
+      "title": "Raja Koduri leaves Intel to start generative AI gaming software company",
+      "excerpt": "What just happened? Raja Koduri, the man who left AMD five years ago to become Intel's Chief Architect, is leaving the company to launch his own generative AI software startup. Team blue boss Pat Gelsinger made the announcement on Twitter, thanking Koduri ...",
+      "sourceUrl": null,
+      "webUrl": "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
+      "originalUrl": "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2017/11/2017-11-08-image-14.jpg",
+          "width": 800,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029.md",
+      "title": "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029",
+      "excerpt": "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-the-3-best-ai-stocks-to-buy-right-now.md",
       "title": "The 3 Best AI Stocks to Buy Right Now",
       "excerpt": "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ...",
@@ -10,7 +372,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -51,7 +413,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AWS AI"
       ]
     },
     {
@@ -363,7 +726,7 @@
       "originalUrl": "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -415,7 +778,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -512,7 +875,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 502,
+      "heat": 512,
       "tags": null,
       "images": [
         {
@@ -763,7 +1126,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 447,
+      "heat": 497,
       "tags": null,
       "images": [
         {
@@ -898,373 +1261,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Remote monitoring of raw material supply chains for sustainability with Amazon SageMaker geospatial capabilities",
-      "excerpt": "Deforestation is a major concern in many tropical geographies where local rainforests are at severe risk of destruction. About 17% of the Amazon rainforest has been destroyed over the past 50 years, and some tropical ecosystems are approaching a tipping point beyond which recovery is unlikely. A key",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/ML-13300-quicksight2.png",
-          "width": 879,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T09:48:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus.md",
-      "title": "NVIDIA CuLitho Computational Lithography Massively Accelerates Chip Design Using GPUs",
-      "excerpt": "accelerated computing and AI powerhouse NVIDIA has just announced a new software library, called cuLitho, that promises an exponential acceleration in chip design development times, as well as reduced chip fab data center carbon footprint and the ability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419cdea3277c488c60aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1188,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
-      "publishedDateTime": "2023-03-21T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai.md",
-      "title": "Nvidia will bring AI to every industry, says CEO Jensen Huang in GTC keynote: “We are at the iPhone moment of AI”",
-      "excerpt": "This follows Microsoft Azure’s private preview announcement last week for its H100 virtual machine, ND H100 v5. Meta has now deployed its H100-powered Grand Teton AI supercomputer internally for its AI production and research teams. And OpenAI will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Keynote-Wrap-Up-Image.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/amp/",
-      "publishedDateTime": "2023-03-21T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit.md",
-      "title": "Build custom code libraries for your Amazon SageMaker Data Wrangler Flows using AWS Code Commit",
-      "excerpt": "As organizations grow in size and scale, the complexities of running workloads increase, and the need to develop and operationalize processes and workflows becomes critical. Therefore, organizations have adopted technology best practices, including microservice architecture, MLOps, DevOps, and more,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/build-custom-code-libraries.jpg",
-          "width": 1149,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T09:27:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip.md",
-      "title": "For AI's 'iPhone moment' in ChatGPT, Nvidia unveils a large language model chip",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
-      "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
-      "publishedDateTime": "2023-03-21T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design.md",
-      "title": "Nvidia unveils Isaac Sim on Omniverse Cloud for better robot design",
-      "excerpt": "Nvidia has unveiled its Isaac Sim platform for its Omniverse Cloud, enabling engineers to work together remotely to simulate robots",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/isaac.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/amp/",
-      "publishedDateTime": "2023-03-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser.md",
-      "title": "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "publishedDateTime": "2023-03-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

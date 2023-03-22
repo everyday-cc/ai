@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 502
+heat: 512
 published: true
 
 provider:
@@ -351,6 +351,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
+  - title: "Nvidia teams up in Microsoft Azure pact"
+    excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
+    publishedDateTime: 2023-03-22T11:55:00Z
+    webUrl: "https://www.fudzilla.com/news/56576-nvidia-teams-up-in-microsoft-azure-pact"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/c8e5e25d6ca5acd51fb2adbfbdab9ff6_L.jpg"
+        width: 620
+        height: 498
+        isCached: true
   - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
     excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
     publishedDateTime: 2023-03-21T21:34:00Z

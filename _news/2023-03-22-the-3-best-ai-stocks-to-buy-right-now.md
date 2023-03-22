@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-22T09:43:00Z
 originalUrl: "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/"
 webUrl: "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/"
 type: article
-quality: 71
-heat: 111
+quality: 73
+heat: 113
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg"

@@ -229,15 +229,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
-    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
-    publishedDateTime: 2023-03-17T17:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
 
 secured: "M+dMelJdbfhu3ZeJf/ckw1STZQZuNrFPzM0eA61dUw00hpbpmRPKA6uUM1AYOyELCJ6bCriO5pcjtECUudd42qhskdpLZiGHkFR3Lc4Ghiwl2OD6DAeQxHdVGeKXfwMXO5WE3/Jhpj2E88qzE0tScTA/BPZkPbRK6EglK4OYjG9X9JjzzET5vDSyYfyChjgQAMHBFJX91P0TyHJTghSFEq6tb5ofEpe8vCKvhF3qclDwYgwqELP/kQ+PQ6N33sfFV3mDSbj5QGpJN79uzv0Th2ByLq73M+wwawzpv/9/allqG8Lzommoov1ZgrMXsPcM7bOqVvjWgTO7hOLyPqRzIzdUC/PbTIWYu5qPDuyVvvx0bfNSmMv1mAtFsqvUZg3+6fxKJs/q+bNKtDNfkVGhBmkMNgAMS26iwl9VoKypMW3WJfaczme2zFcPlzLarbTRpCZ7BNEBE/rN0GQhdrI9xZSvqy1Sts+/KLyFNZ4ANuyzKB6fBiZ93Zb/D7GoNs/Pfn3UeDVXHhnD9o6CugLC3w==;9MRjModGsgKnUCgrbQcVqQ=="
 ---

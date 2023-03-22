@@ -220,15 +220,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Navigating the International Regulatory Landscape of Artificial Intelligence: The Race for AI Governance"
-    excerpt: "Artificial Intelligence (AI ... so significant that it will transform nearly all aspects of our societies including the economy, education, healthcare, the law, national security, and beyond. It is becoming the driver for growth, competitiveness, and ..."
-    publishedDateTime: 2023-03-17T17:48:00Z
-    webUrl: "https://www.jurist.org/commentary/2023/03/mais-haddad-international-regulations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 19
   - title: "How Technology is Changing the Future of Healthcare"
     excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
     publishedDateTime: 2023-03-21T20:03:00Z
@@ -239,6 +230,6 @@ related:
       domain: healthtechzone.com
     quality: 19
 
-secured: "u+FpsTo19Sp4r1ZWwQdSn/jdLcmnKzZTutRAAMpBiOnTG+TSClWKqtrr2wPJgYgXY/m3pUP84VA0IWoyG07wE3H2K6myKt++rSwDeTAA3xg8TCOR9Qxdgv3PrlJUHOay6pfPKAZ8kq/KXFPnu81gHWgbO7AdcNr5tTqVJtG0n8uYTW3lw2pYk+5O9muqNITvj2y3KCGxg+TVPm7Jz4W65hkiCKNRJDjM1TlraNUII/Qau4s/xzp3rNHzK+3RYGBeXObREfxZwURNRQoVt6FgdPN0WMyjdlB3tMMmAIcYz9z1WoHZjzTdbltz+1xbVpLzrKAT3BAhMdFkRoYL0NvkjDe37MnPyLfJkKXRk/ImzhI=;hyR6JJ+DfX5Ptfg5eglEEg=="
+secured: "w7e3xTw8YR+0BMm7y3iidqT5PI8y40MhjyDpqxNO3b9yLGw1tZAwpwbDmHBYOWGnVQ3VbFrUQJSVt6w1FWN7kam9jJimpHWs432B89vK5pcKEK98mjjI/ZKKc3XK4UFojDJSfK1tPUVbLHzXdGgiDIiJeYRXXMKFARvWFk4RrZNCqGtl+LzcykFd/mTy9OcE7HpIYQKgmyitNktzwO2W87BrlpAPdC+n5nkNPpwIKqi79GgY0nXAzstGkz/OWb+k84EuJ5MwggLAkCX3zfxbqHA2r73bXqpDXzCusE+QzgT/vuZ0jMDvWdAFvh6dgnqqE1NJNG/2QYrw+pAC+Nxgd2IJAuIrDeQff+NkBCrVuq4k8KJHTj7IgtgbfxTvpyo/Vj3xYcjRckahLxFvGy1lPU896kkCkFok80xXCJuUB3zRBZo7ODaPqLyzyqIK4OyWiba3pypbhRkcWi1Cs96tn2EmEk5II5wTcQWeQ6v2RFURyV4qNbGcJ0CZD4lCLMBu1ryWlDa19kTo2QRyUkkyUw==;whHC2mibzOaTLsbIAvlXPA=="
 ---
 

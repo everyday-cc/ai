@@ -149,22 +149,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "NVIDIA Canvas: creating panoramas with AI"
-    excerpt: "The newest update to NVIDIA Canvas brings another feature where AI shows its magic: create panoramas using the new Panorama mode. ProVideo Coalition mentioned in January that NVIDIA Canvas would introduce 360-degree images that can be used as environment maps in 3D apps."
-    publishedDateTime: 2023-03-17T18:54:00Z
-    webUrl: "https://www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/"
-    ampWebUrl: "https://www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-canvas-creating-panoramas-with-ai/amp/"
-    type: article
-    provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 59
-    images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/canvaspanorama000A.jpg"
-        width: 1420
-        height: 946
-        isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
     publishedDateTime: 2023-03-21T22:19:00Z
@@ -278,6 +262,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 21
+  - title: "Nvidia aims to bring AI to every industry"
+    excerpt: "ChatGPT is just the start of a rapid uptake of artificial intelligence (AI) across the board. With computing now advancing at what he called “lightspeed,” Nvidia founder and CEO Jensen Huang has announced a broad set of partnerships with Google,"
+    publishedDateTime: 2023-03-22T09:58:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-aims-to-bring-ai-to-every-industry/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Nvidia lets any enterprise access an AI supercomputer"
     excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
     publishedDateTime: 2023-03-22T09:29:00Z

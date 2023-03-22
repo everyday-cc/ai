@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "What Does Fintech Mean, And How Can It Help Business Owners?"
+    excerpt: "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ..."
+    publishedDateTime: 2023-03-22T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200"
+        width: 1009
+        height: 672
+        isCached: true
+  - title: "Using embedded fintech to grow your credit union’s membership and deposits"
+    excerpt: "In a world where acquiring members and retaining them is critical but hard to accomplish, using an embedded fintech approach can provide credit unions"
+    publishedDateTime: 2023-03-20T07:30:00Z
+    webUrl: "https://www.cuinsight.com/using-embedded-fintech-to-grow-your-credit-unions-membership-and-deposits/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 22
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2023/03/bigstock-Digital-Banking-Virtual-Bank-471389381.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "A Fintech Leader, Perfios Wins the ASEAN-India Business Achievement Award 2023"
     excerpt: "The ASEAN-India Business Council (AIBC) honored Perfios for its sustained efforts in fostering Digital Transformations for the BFSI segment and helping in achieving the objective of controlling medical inflation through Smart-Insurance-Claims decisioning."
     publishedDateTime: 2023-03-19T00:01:00Z

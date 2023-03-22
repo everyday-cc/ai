@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/527703"
         width: 640
         height: 428
+        isCached: true
+  - title: "Madeleine McCann update: Facial recognition test gives 90% verdict on woman claiming to be Madeleine McCann"
+    excerpt: "However, a company in Switzerland has used facial recognition software to dispute the claim. Ava-X studied photos of both girls in detail, reports blick.ch, using a “face matching” program. The technology, developed to help police identify offenders ..."
+    publishedDateTime: 2023-03-22T11:00:00Z
+    webUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030?recirculation_test=true"
+    ampWebUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
+    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
+    type: article
+    provider:
+      name: Irish Daily Mirror
+      domain: irishmirror.ie
+    quality: 56
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article29488343.ece/ALTERNATES/s1200/1_Madeleine-McCann-missing.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Madeleine McCann: Facial recognition gives verdict on Julia Wendell’s claim to be missing girl"
     excerpt: "The Polish woman who believes she is Madeleine McCann is awaiting the results of a DNA test to prove she is the missing British girl - but the result of a facial recognition analysis has poured doubt on her claims."

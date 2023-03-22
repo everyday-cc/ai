@@ -351,6 +351,20 @@ related:
       name: EHR Intelligence
       domain: ehrintelligence.com
     quality: 54
+  - title: "Nvidia teams up in Microsoft Azure pact"
+    excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
+    publishedDateTime: 2023-03-22T11:55:00Z
+    webUrl: "https://www.fudzilla.com/news/56576-nvidia-teams-up-in-microsoft-azure-pact"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/c8e5e25d6ca5acd51fb2adbfbdab9ff6_L.jpg"
+        width: 620
+        height: 498
+        isCached: true
   - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
     excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
     publishedDateTime: 2023-03-21T21:34:00Z
@@ -531,6 +545,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "6J9jONqkrmYYwM8Pg+BvWyYguovTX8xzqU3xBnzNQ1BFyYCCJTkduCxR/yox3TzGyzzWO5+zCbXOqSAgBG0bpUSTk2BHvgrx2rq3/Eo5egpi4EOaVFuZGqQm2nVwTNfP9Fd/JZbRRNsvkHxSs0Z1eYABeRYdbZkL74eT++PpKU4y9kIf4IPfrzSkshSI2ydC2GccbRr6zBXPtadifwwRW0v51cevICE3CkWFUORI+g604HlS6JN3PakA8KhD3fZXXARwlc8S4ULXOo7FhI/kDVnP/8EaE5EpNIi8OreW3cPohy17Sb9XX9wT9mxDEjT7205zkUm0W9FyhN+GJWaNy/AXmJQ2ts8GjqGeWw45t20=;ECaZdeWQRsXp9WQUrYnofA=="
+secured: "a/sefw+JX0tgzQgJnMWcdTGxl7hZ3RgRQdpG1T4oaz3BYTi0KyuyK4WGsTMJ9XH+OO71OzqR3f7xXVd7LkEn072foy3pAGj+sBG5B+aYj75cEVuyw1Ok21pntA8z/8J52SBDmqOZyEosFVRUbHjuWiGTk3Net2Yd0ZzTLqazQnqL49QNQ5/LnCmViei7PRiPsDFg8n0BBhuSQI1vsT532CrJDssw0uOVoCsFWdwheJIP63H+s++wxcl3UAJq8NYGT/o7s6IfHSUaeV5CgUyT9BSmNTHg8Qc5Bwn+w4UK/WXzMIkgmLzxMkdPjG0l6LTklJlgF+rxtBALhw2QNjPEW7LHqoZnPZgLLVDrB70EG1MW770aEL2MuS8xbk7KL5XDl7AOK5psJ8NZ9OUeKO8fcxfGO7AMbfNEE4EWWBkyNh8mA7vCf/T3MWA8hOpDH/h2kqhbiJ9MFLZfyjYkCRwSRIHyE0QTuGZpbvNgPboTFiQNuTun0R3bDpga9n/LWxc7HkuII/ai4NuC1XehRJ6O5Q==;FccStl3Jxf5ie/qQ5jCwzA=="
 ---
 

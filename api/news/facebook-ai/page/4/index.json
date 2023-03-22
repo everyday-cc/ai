@@ -2,6 +2,112 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-20-chatgpt-stole-your-work-so-what-are-you-going-to-do.md",
+      "title": "ChatGPT Stole Your Work. So What Are You Going to Do?",
+      "excerpt": "This is true for search engines like Google, social media sites like Instagram, AI research startups like OpenAI, and many other providers of intelligent technologies. This exploitative dynamic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c9d72b995aa119ba7ba924/master/pass/ideas-chatgpt-ai-regulation-law.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-generative-artificial-intelligence-regulation/amp",
+      "publishedDateTime": "2023-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
+      "title": "Federated learning AI model could lead to healthcare breakthrough",
+      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "publishedDateTime": "2023-01-19T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool.md",
       "title": "Teachers are adapting to concerns about a powerful new AI tool",
       "excerpt": "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about",
@@ -1317,85 +1423,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-why-artificial-intelligence-needs-to-be-on-your-mind-in-2023.md",
-      "title": "Why artificial intelligence needs to be on your mind in 2023",
-      "excerpt": "Twitter and Facebook feeds, powered by artificial intelligence ... and one for Gebru’s Distributed AI Research Institute.) ReidOut Blog readers may recognize Gebru, who was ousted from Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-pytorch-machine-learning-framework-compromised-with-malicious-dependency.md",
-      "title": "PyTorch Machine Learning Framework Compromised with Malicious Dependency",
-      "excerpt": "PyTorch, a well-known machine learning framework, fell victim to a supply chain attack between Dec. 25 and Dec. 30, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "originalUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEifiFY4TB4xInGZvI7gizGIvPBUZbr9Egk3zV-NefK97gEBfE_67-u41jrPzOlaz7iS94W4hu0BamT55Wb3QxIoK69F_mYwYhM9fVaNVFrzMt0csy-wjD7fDViYLZCBN8-BP1zKl_7pqUNJbEXYYRdKYgJWc6DSJVTeQ2EFLN5rh6KuBwY-h29g2_0R/s728-rj-e3650/python.png",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "publishedDateTime": "2023-01-02T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-22T06:25:00Z
 originalUrl: "https://www.komando.com/episode/scambaiting-w-trilogymedia-facial-recognition-hits-us-stores-3-signs-your-printer-is-hacked/881161/"
 webUrl: "https://www.komando.com/episode/scambaiting-w-trilogymedia-facial-recognition-hits-us-stores-3-signs-your-printer-is-hacked/881161/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.komando.com/wp-content/uploads/2022/04/kk-img-20220309-kim-komando-today-1200x600-1.jpg"

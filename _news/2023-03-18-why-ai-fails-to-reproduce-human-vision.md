@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Here's why Artificial Intelligence fails to match accuracy of human vision"
-    excerpt: "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable."
-    publishedDateTime: 2023-03-18T13:14:00Z
-    webUrl: "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
+  - title: "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work"
+    excerpt: "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ..."
+    publishedDateTime: 2023-03-22T11:32:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Why Artificial Intelligence fails to reproduce human vision [Details]"
-    excerpt: "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable."
-    publishedDateTime: 2023-03-18T12:17:00Z
-    webUrl: "https://www.ibtimes.co.in/why-artificial-intelligence-fails-reproduce-human-vision-details-857566"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 56
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/782843/space-nasas-ingenuity-helicopter-captures-martian-sunset.jpg?w=843&h=470&l=50&t=40"
-        width: 843
-        height: 470
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "G0iWVg5vzSrs/S/zP62FhVemeXwvpJLaS8ErbS7BPrBFjfvVhQVuD8OvZ06ReKcAnKCbY9i7T76sbzMMuEqXcirxTLqP63OUH/isxH7Cm18K7zlApS2qjKuZJ3WOtxSfsEGNef8/taQ4o3KCo69NkHfUDdLQMMjUI6N4MyeDLFeSSYf4a7IBuTJ4SpsjryWW2eEgdv4PNuE21BWzkWG5HwhOOuvUiwGal+nzgBaUfXXsnrukY7nLdrF4C3hkPjB6F3ooQYZKarOMxQRx7AHEUQvEZqAeKVqnQKqA8jnO24grIiTuSjMAijeWxxd42sBx7DWBRXTX1DsG2MKRkopIZfeMS9txOL7suBtLPVDYEmlGEXoDkjdkmevnypnYIOJjWC6FlHOBRJlEsMZB65lVqmVq/k9USXC8UjfM87Z0ZbLN7v9vzRh2yetrytZhcUUDQHat4VNdc4QbCQ2463EOmbV2rbtcJ5Tbsv7LYHyHm+yMwxt8Z5FBTaFeEawKxy1Tvtok9aeBN4Rsb30mCjjQOA==;Gr6DoEycMMnKAEXnkWQ45Q=="

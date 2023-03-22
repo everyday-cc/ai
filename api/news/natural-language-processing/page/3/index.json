@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-17-google-stock-search-is-on-the-precipice-of-multi-decade-disruption.md",
+      "title": "Google Stock: Search Is On The Precipice Of Multi-Decade Disruption",
+      "excerpt": "Despite the mishap with Bard, it would be a mistake to think Google does not command a place of leadership right now in generative AI. Google was one of the first tech companies to focus and invest on AI and natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef0fd6a318f038b4171308/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/",
+      "publishedDateTime": "2023-02-16T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform.md",
+      "title": "German startup Kern AI nabs seed funding for modular NLP development platform",
+      "excerpt": "German startup Kern AI has raised a $2.9M seed funding round for a platform that helps NLP developers and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "originalUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/team_picture-1-e1676299586848.png?resize=1200,810",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
+      "publishedDateTime": "2023-02-16T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages.md",
       "title": "Fraudsters are using machine learning to help write scam emails in different languages",
       "excerpt": "Business Email Compromise attacks are effective and costly -- and by using translation tools, attackers are going after a wider range of potential victims.",
@@ -1297,74 +1402,6 @@
         "AI",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-banks-accelerate-move-to-the-cloud-with-new-oracle-banking-services.md",
-      "title": "Banks Accelerate Move to the Cloud with New Oracle Banking Services",
-      "excerpt": "With transaction volumes, customer expectations, and competitive threats at an all-time high, banks must adapt quickly to keep pace. To address these challenges, Oracle today launched Oracle Banking Cloud Services,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-kognitos-raises-675m-seed-to-bring-the-power-of-generative-ai-to-enterprise-automation.md",
-      "title": "Kognitos Raises $6.75M Seed to Bring the Power of Generative AI to Enterprise Automation",
-      "excerpt": "Kognitos launches the first generative AI platform that allows business users to automate business processes in plain English - bringing funding total to $9.35 million. SAN JOSE,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

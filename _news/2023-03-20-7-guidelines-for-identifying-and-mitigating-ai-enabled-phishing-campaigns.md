@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifyi
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: CSOonline
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
+    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
+    publishedDateTime: 2023-03-21T11:46:00Z
+    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
     excerpt: "The book, Missing Links in AI Governance, includes 18 articles on AI governance ... contributions to the field of deep learning, particularly in language modeling, machine translation, object recognition, and generative models. For more information ..."
     publishedDateTime: 2023-03-20T15:23:00Z

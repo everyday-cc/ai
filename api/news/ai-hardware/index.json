@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
+      "title": "Making faces: How to train an AI on your face to create silly portraits",
+      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
+          "width": 300,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "publishedDateTime": "2023-03-22T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-the-3-best-ai-stocks-to-buy-right-now.md",
       "title": "The 3 Best AI Stocks to Buy Right Now",
       "excerpt": "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -51,7 +103,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AWS AI"
       ]
     },
     {
@@ -316,7 +369,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -474,7 +527,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 288,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -1461,49 +1514,6 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg.md",
-      "title": "Media Alert: BrainChip Demonstrates Edge AI Processing at Embedded World 2023 in Nuremberg",
-      "excerpt": "Akida also has a unique ability to learn on device in a secure fashion, without need for cloud retraining. \"On-chip AI that learns close to the sensor, untethered from the cloud, is the future of edge devices, and we are eager to show the leaders in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ac31305369/media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ac31305369/media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31305369",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31305369",
-      "publishedDateTime": "2023-03-10T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

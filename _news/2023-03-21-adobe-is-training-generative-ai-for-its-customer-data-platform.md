@@ -47,6 +47,20 @@ related:
       name: YAHOO!News
       domain: engadget.com
     quality: 40
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
+        isCached: true
   - title: "High-Tech Touchpoints Are Changing Customer Experience"
     excerpt: "We see three opportunities for business leaders who want to enhance their companies’ CX and drive greater satisfaction. First, focus on frictionless commerce. Second, consider augmented experiences. Finally,"
     publishedDateTime: 2023-03-20T12:26:00Z

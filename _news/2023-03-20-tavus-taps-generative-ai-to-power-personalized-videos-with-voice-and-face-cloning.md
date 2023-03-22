@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
 type: article
 quality: 84
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "Tjs6cNP/pGd668ReSqz8/qOLDgc+RDyo1qQKLS3G3ypSeqeE0zHVN8iuefLMlZlZD4Zg4u7RbIIgJPi+We6ynlCahkpYkMFd/GzO6z4hshHw9o6e4EgHjmjefftuCIK4467tKE+/tHKEIgqmS77hJaFpVUdjb7y3rs+HG3ZrOHWy3oZuGFCVkgw3Xbj7AhTR/8UDPLIsUfKjYBbdYFMeIigybJX28/EzlznW2pMN9oVM2Df1Hh/cvJ72JyPjAGU8JHrF4K28dsKcS6DoNwtQ4S7weBw9JNC1Xd7HmmGTJAU2R4tYrkMzFUHAXga3LitfAWEvFYt9ZDLVFFrD8kqr2pHBiLP+Ojl4fujceqj4L86PAXOlOvhkVmbFMZ/36oCoGXfznAy6wSbUbJcdirvM3nfXv1qBPOqKO+2Qx2UsOyJR27F1NsLV/ewuCtv/X5t9PNU9IZ3xkg4sVJyZUfEEqQ6CexzYHsc4Bnlw+Vo8w3pTGEQb9nqnyEMR05osuqfZCSr8uy5ht3wn+wVO6JrQgg==;dayehwGm9U0Kvlt8yJ0Rrg=="
 ---

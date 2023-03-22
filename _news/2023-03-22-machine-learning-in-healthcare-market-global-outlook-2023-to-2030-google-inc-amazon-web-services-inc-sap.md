@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-heal
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Oil and Gas Market 2023 with 114 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-22T08:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

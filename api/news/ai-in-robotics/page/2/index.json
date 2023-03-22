@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-12-robot-lawyer-donotpay-is-being-sued-by-a-law-firm-because-it-does-not-have-a-law-degree.md",
+      "title": "'Robot lawyer' DoNotPay is being sued by a law firm because it 'does not have a law degree'",
+      "excerpt": "DoNotPay, which uses AI to provide legal services, is facing a class action lawsuit filed by Chicago-based law firm Edelson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
+      "originalUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/640c58258b8d9b0018cacd71?width=1200&format=jpeg",
+          "width": 1084,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3?amp",
+      "publishedDateTime": "2023-03-12T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-12-inker-robotics-secures-12-million-funding.md",
+      "title": "Inker Robotics secures $1.2 million funding",
+      "excerpt": "Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and delivery in robotics and futuristic technology education, has secured a USD 1.2 million funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/03/warehouse.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html/amp",
+      "publishedDateTime": "2023-03-11T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-will-ai-take-over-the-world.md",
       "title": "Will AI Take Over The World?",
       "excerpt": "As my limited vision can perceive, will attempt a classification that says there are at least two aspects of this megatrend – the risks that machines take over our (human) world (AI), and the risks that machine led worlds start to exist outside the human ...",
@@ -1283,93 +1378,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot.md",
-      "title": "Figure emerges from stealth with the first images of its humanoid robot",
-      "excerpt": "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
-      "originalUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/FIGURE01_Humanoid_2.jpg?resize=1200,666",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
-      "publishedDateTime": "2023-03-02T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

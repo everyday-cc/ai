@@ -33,7 +33,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg"
         width: 2309

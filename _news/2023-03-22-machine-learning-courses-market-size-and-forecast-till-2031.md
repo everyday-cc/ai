@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Market Size and Forecast till 2029"
-    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
-    publishedDateTime: 2023-03-21T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Software Market Size and Forecast till 2029"
     excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
     publishedDateTime: 2023-03-21T01:01:00Z
@@ -131,20 +117,6 @@ related:
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence Chipsets Market"
     publishedDateTime: 2023-03-22T03:16:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Size and Forecast till 2031"
-    excerpt: "The \"Face Recognition Systems Market\" study describes how the technology industry is evolving and how major and"
-    publishedDateTime: 2023-03-22T02:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-and-forecast-till-2031-2023-03-21"
     type: article
     provider:
       name: MarketWatch
@@ -224,20 +196,6 @@ related:
     excerpt: "Many major technology players are [Ku Zoom.ai, Microsoft, Cisco, iotum ... Based on Product Types the Market is categorized into [Solutions, Services] that held the largest Cognitive Collaboration market share In 2022. With the aim of clearly revealing ..."
     publishedDateTime: 2023-03-22T04:43:00Z
     webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-share-and-forecast-till-2031-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VOICE RECOGNITION SYSTEM Market Size and Forecast till 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The \"VOICE RECOGNITION SYSTEM Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
-    publishedDateTime: 2023-03-22T04:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-system-market-size-and-forecast-till-2031-2023-03-21"
     type: article
     provider:
       name: MarketWatch

@@ -105,6 +105,22 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Madeleine McCann update: Facial recognition test gives 90% verdict on woman claiming to be Madeleine McCann"
+    excerpt: "However, a company in Switzerland has used facial recognition software to dispute the claim. Ava-X studied photos of both girls in detail, reports blick.ch, using a “face matching” program. The technology, developed to help police identify offenders ..."
+    publishedDateTime: 2023-03-22T11:00:00Z
+    webUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030?recirculation_test=true"
+    ampWebUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
+    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
+    type: article
+    provider:
+      name: Irish Daily Mirror
+      domain: irishmirror.ie
+    quality: 56
+    images:
+      - url: "https://i2-prod.dailystar.co.uk/incoming/article29488343.ece/ALTERNATES/s1200/1_Madeleine-McCann-missing.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Madeleine McCann: Polish woman Julia Faustyna most likely not missing girl, according to facial recognition"
     excerpt: "The results of a facial recognition assessment on the Polish woman claiming to be missing toddler Maddie McCann have been revealed, with the Swiss company behind the test calling it ‘over 90 per cent accurate’."
     publishedDateTime: 2023-03-21T01:01:00Z

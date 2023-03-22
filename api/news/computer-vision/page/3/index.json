@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-13-computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025.md",
+      "title": "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-sportradar-unveils-ground-breaking-ai-driven-computer-vision-at-ice-london.md",
       "title": "Sportradar unveils ground-breaking AI-driven Computer Vision at ICE London",
       "excerpt": "Sportradar used last week’s ICE London as a high-profile launchpad for its brand-new AI-driven Computer Vision technology.",
@@ -1183,49 +1235,6 @@
         "name": "SourceSecurity",
         "domain": "sourcesecurity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
-      "title": "Facial Recognition Access Control Solutions Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -224,6 +224,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence (AI) in the Freight Transportation Market 2023 with 105 Report Pages and enhance with self-explained tables,"
+    publishedDateTime: 2023-03-22T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
     excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
     publishedDateTime: 2023-03-20T05:54:00Z
@@ -280,15 +294,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market to 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In RegTech Marketinformation ... End Users (, IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others,), and regions), recent status, development trendsa and competitor landscape."
-    publishedDateTime: 2023-03-17T18:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
     publishedDateTime: 2023-03-20T09:47:00Z

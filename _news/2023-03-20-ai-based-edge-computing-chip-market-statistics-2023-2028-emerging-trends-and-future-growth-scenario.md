@@ -219,6 +219,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence (AI) in the Freight Transportation Market 2023 with 105 Report Pages and enhance with self-explained tables,"
+    publishedDateTime: 2023-03-22T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence-Emotion Recognition Market Growth 2023-2028, With New Insights"
     excerpt: "Mar 18, 2023 (The Expresswire) -- Report Highlights with 121 pages:-\"The global Artificial Intelligence-Emotion Recognition market size was valued at USD 875.88 million in 2022 and is expected to expand at a CAGR of 18.15% during the forecast period ..."
     publishedDateTime: 2023-03-18T16:19:00Z
@@ -289,15 +303,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In RegTech Market to 2023-2029"
-    excerpt: "Mar 16, 2023 (The Expresswire) -- Artificial Intelligence In RegTech Marketinformation ... End Users (, IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others,), and regions), recent status, development trendsa and competitor landscape."
-    publishedDateTime: 2023-03-17T18:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-to-2023-2029-2023-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Artificial Intelligence Based Medical Device Market: The Growing Trend 2030"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-03-21T02:18:00Z

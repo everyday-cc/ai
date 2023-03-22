@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
-    excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
-    publishedDateTime: 2023-03-17T17:58:00Z
-    webUrl: "https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/03/Robotaxi-china-Baidu-Apollo-Go.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver"
     excerpt: "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides."
     publishedDateTime: 2023-03-19T13:18:00Z
@@ -125,15 +111,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Baidu wins permit to offer driverless robotaxi service in Beijing city"
-    excerpt: "Chinese search engine giant Baidu said on Friday it had won a permit to provide a fully driverless ride-hailing service in the Chinese capital of Beijing. With the permit, Baidu's Apollo service will"
-    publishedDateTime: 2023-03-17T19:03:00Z
-    webUrl: "https://www.channelnewsasia.com/business/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-3354326"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 34
   - title: "Beijing greenlights operation of unmanned self-driving vehicles; Chinese tech giant Baidu to lead project"
     excerpt: "BEIJING, March 19 (Xinhua): Beijing greenlighted the commercial operation of autonomous driving service without in-car safety ... which were operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai, received approval after ..."
     publishedDateTime: 2023-03-19T08:01:00Z

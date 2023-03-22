@@ -2,6 +2,470 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-02-09-the-best-dictation-software.md",
+      "title": "The Best Dictation Software",
+      "excerpt": "But the technology behind dictation software (also called speech-to-text or voice-recognition software) has some faults. These apps have difficult learning curves, and the inherent bias that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2023/02/dictationsoftware-2048px-09273-3x2-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "publishedDateTime": "2023-02-09T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-is-artificial-intelligence-helping-q-c-students-cheat.md",
+      "title": "Is artificial intelligence helping Q-C students cheat?",
+      "excerpt": "Once text or data is fed into the program, it uses an \"artificial neural network\" to generate a response. Dr. Forrest Stonedahl, an Augustana computer science and math professor, dubs the ...",
+      "sourceUrl": null,
+      "webUrl": "https://qctimes.com/news/local/education/is-artificial-intelligence-helping-q-c-students-cheat/article_e708cee8-e5de-5ac0-83f8-60448781b958.html",
+      "originalUrl": "https://qctimes.com/news/local/education/is-artificial-intelligence-helping-q-c-students-cheat/article_e708cee8-e5de-5ac0-83f8-60448781b958.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/70/e708cee8-e5de-5ac0-83f8-60448781b958/63e2ae099742a.preview.jpg?crop=1848%2C970%2C0%2C75&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "qctimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-ai-and-computer-vision-offers-real-time-data-rich-hdr-video.md",
+      "title": "AI and computer vision offers real-time data-rich HDR video",
+      "excerpt": "Xfuse, LLC now offers its Phoenix HDR ISP for the AMD Kria K26 SOM and KV260 Vision AI Starter Kit. For AI developers and computer vision engineers requiring to capture real-time, data-rich imaging streams,",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/2023/02/ai-and-computer-vision-offers-real-time-data-rich-hdr-video",
+      "originalUrl": "https://www.electropages.com/2023/02/ai-and-computer-vision-offers-real-time-data-rich-hdr-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/Opengraph/v2b.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
+      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
+      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
+      "title": "How AI and Facial Recognition Can Chill Access to Justice",
+      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
+      "title": "Taking sleeping pills could have disastrous cognitive side effects",
+      "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
+      "originalUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/526454",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/health-and-wellness/sleep/article-731037/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/sleep/article-731037/amp",
+      "publishedDateTime": "2023-02-09T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
+      "title": "Cognitive screening unevenly documented across post-acute care settings: study",
+      "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
+      "originalUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McKnight's Long-Term Care News",
+        "domain": "mcknights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-amex-microsoft-collaborate-on-expense-automation.md",
+      "title": "Amex, Microsoft Collaborate on Expense Automation",
+      "excerpt": "American Express is working with Microsoft to develop a more automated expense-reporting process built from Microsoft Cloud and AI technologies, the companies announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "originalUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ik.imgkit.net/3vlqs5axxjf/BTN/uploadedImages/2015_Site_Maintenance/BTN_OGImage.jpg?tr=w-1200%2Cfo-auto",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Travel News",
+        "domain": "businesstravelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-chung-ang-university-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
+      "title": "Chung-Ang University researchers review deep learning-based methods to detect time series data anomaly",
+      "excerpt": "Unusual observations or anomalies in recorded data are common. Detection of such anomalies has applications in identifying credit card frauds, industrial intrusion, weather changes, medical seizures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/979048",
+      "originalUrl": "https://www.eurekalert.org/news-releases/979048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d26122ba-7e91-4462-9876-9d940db47133/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence.md",
+      "title": "McGill University experts trace predict recurring lung cancer with artificial intelligence",
+      "excerpt": "Lung cancer is the leading cause of cancer-related deaths in Quebec and Canada, killing more individuals than prostate, colon and breast cancers combined. Thanks to tissue samples from almost 500 lung cancer patients,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
+      "originalUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-08T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-asian-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says.md",
+      "title": "Asian IPOs In U.S. Poised To Increase As Region’s Economies Recover, Nasdaq Vice Chairman Says",
+      "excerpt": "This week, Hesai Group, a supplier of sensors for self-driving vehicles whose investors include Baidu and smartphone maker Xiaomi, is expected to list. So far, there have been four other international listings on the Nasdaq this year, three of which were ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/asia-ipos-in-us-poised-to-increase-as-regions-economies-recover-nasdaq-vice-chairman-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e473e2f63d34b21b78da06/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-driverless-cars-available-for-rides-around-the-site-of-super-bowl-57-in-glendale.md",
       "title": "Driverless cars available for rides around the site of Super Bowl 57 in Glendale",
       "excerpt": "One unique option: driverless cars! The alternative is growing in popularity, and also highlights the big tech industry in the Phoenix region. Action News' Christie Ileto takes us along for a ride.",
@@ -584,487 +1048,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics.md",
-      "title": "Can Autoregressive Language Model In Power BI Enhance Efficiency In Data Analytics?",
-      "excerpt": "This is a Guest Blog by Mr Piyush Goel, Founder & CEO of Beyond Key In today’s world, where everything is centered around data manipulation and meeting customer demands precisely, using natural language to search through your data is the quickest approach to finding an answer from it.",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "originalUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/stories/wp-content/uploads/2023/02/AI-And-Chatbots-Opt-1-1280x720-1-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
-      "title": "Investigation Finds AI Algorithms Objectify Women’s Bodies",
-      "excerpt": "AI tools rate photos of women as more sexually suggestive than those of men, especially if nipples, pregnant bellies or exercise is involved Images posted on social media are analyzed by",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "originalUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-there-is-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
-      "title": "‘There is no Standard’: Investigation Finds AI Algorithms Objectify Women’s Bodies",
-      "excerpt": "However, “Amazon Rekognition is able to recognize a wide variety of content, but it does not determine the appropriateness of that content,” an Amazon spokesperson said. “The service simply returns labels for items it detects for further evaluation ...",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/there-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "originalUrl": "https://pulitzercenter.org/stories/there-no-standard-investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029.md",
-      "title": "Data and AI Ethics Market Future Trends Demand 2023 and Forecast to 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 08, 2023 (The Expresswire) -- Latest \"Data and AI Ethics Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (BFSI, Government and Defense ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-future-trends-demand-2023-and-forecast-to-2029-2023-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran.md",
-      "title": "Bret Taylor, Former Co-CEO of Salesforce, to Create AI Startup With Google Veteran",
-      "excerpt": "Bret Taylor, the former co-chief executive of Salesforce Inc., is launching an artificial-intelligence startup with a longtime veteran of Google, becoming the latest big name to dive into the race to try to cash in on AI. Mr. Taylor—who has backed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
-      "originalUrl": "https://www.wsj.com/articles/bret-taylor-former-co-ceo-of-salesforce-to-create-ai-startup-with-google-veteran-11675898772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-720709/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T14:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
-      "title": "The plateauing of cognitive ability among top earners",
-      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "publishedDateTime": "2023-02-08T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
-      "title": "Researchers review deep learning-based methods to detect time series data anomaly",
-      "excerpt": "This is known as \"anomaly detection\" and is performed using data mining techniques. Although deep learning methods have been extensively applied in anomaly detection, there is no one-size-fits-all technique that works for multiple applications across a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chung-ang-university-r-2.jpg",
-          "width": 940,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
-      "publishedDateTime": "2023-02-08T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-shows-off-ai-advancements-in-search-results-and-beyond.md",
-      "title": "Google Shows Off AI Advancements, in Search Results and Beyond",
-      "excerpt": "Next month, Google said it will begin onboarding developers to interact with its generative language ... AI-powered text search, Google introduced a whole suite of other improvements and expansions to existing features in visual search, Maps, and translation.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
-      "originalUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8d07e7fe131d628a3da602b3f6730e1e.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-artificial-intelligence-is-being-studied-to-improve-cancer-care.md",
-      "title": "Artificial Intelligence is being studied to improve cancer care",
-      "excerpt": "BOSTON - Artificial intelligence has been in the headlines a lot recently and there are two new ways it's being studied to help improve lung and breast cancer care. Lung cancer kills more people worldwide than the three next deadliest cancers combined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-chinas-baidu-plans-to-launch-chatgpt-style-bot-ernie-in-march-company.md",
-      "title": "China's Baidu plans to launch ChatGPT – style bot ERNIE in March: company",
-      "excerpt": "Chinese tech company Baidu is expected to launch a ChatGPT ... It has been investing heavily in AI for years in the fields of self-driving cars and chips designed to power AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202302/1285002.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-02-14/316f6ff6-300c-4027-aa88-47f45fb38bc0.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
-      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
-      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "publishedDateTime": "2023-02-08T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

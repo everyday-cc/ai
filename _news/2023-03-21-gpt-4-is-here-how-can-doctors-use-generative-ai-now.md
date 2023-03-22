@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand"
-    publishedDateTime: 2023-03-20T09:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-industry-report-2027-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "PGI to help make cutting edge AI-based healthcare tools"
     excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
     publishedDateTime: 2023-03-20T01:54:00Z
@@ -90,6 +76,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
+    publishedDateTime: 2023-03-20T10:06:00Z
+    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z
@@ -99,6 +94,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "You can’t stop generative AI fraud"
+    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
+    publishedDateTime: 2023-03-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Apple’s silence on generative AI grows louder"
     excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
     publishedDateTime: 2023-03-21T03:59:00Z

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-04-ai-translation-for-a-better-world.md",
+      "title": "AI Translation for a Better World",
+      "excerpt": "or the AI, like positive feedback. And out of that, this huge mathematical machinery learns how to translate and become better and better at that. That is just common and works for any language.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/assets/images/20230302-1/og.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
+      "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
+      "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-790970,msid-98383543/stakeholder-consultation-for-digital-india-bill-likely-from-march-rajeev-chandrasekhar.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
+      "publishedDateTime": "2023-03-02T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-ai-study-evaluates-gpt-3-using-cognitive-psychology.md",
       "title": "AI Study Evaluates GPT-3 Using Cognitive Psychology",
       "excerpt": "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology.",
@@ -1379,111 +1465,6 @@
         "AI",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-google-stock-search-is-on-the-precipice-of-multi-decade-disruption.md",
-      "title": "Google Stock: Search Is On The Precipice Of Multi-Decade Disruption",
-      "excerpt": "Despite the mishap with Bard, it would be a mistake to think Google does not command a place of leadership right now in generative AI. Google was one of the first tech companies to focus and invest on AI and natural language processing (NLP).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef0fd6a318f038b4171308/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/",
-      "publishedDateTime": "2023-02-16T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform.md",
-      "title": "German startup Kern AI nabs seed funding for modular NLP development platform",
-      "excerpt": "German startup Kern AI has raised a $2.9M seed funding round for a platform that helps NLP developers and data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
-      "originalUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/team_picture-1-e1676299586848.png?resize=1200,810",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/16/german-startup-kern-ai-nabs-seed-funding-for-modular-nlp-development-platform/amp/",
-      "publishedDateTime": "2023-02-16T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

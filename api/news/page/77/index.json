@@ -2,6 +2,515 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-01-20-orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.md",
+      "title": "Orienteering could be useful as an intervention or preventive measure to fight cognitive decline",
+      "excerpt": "The sport of orienteering, which draws on athleticism, navigational skills and memory, could be useful as an intervention or preventive measure to fight cognitive decline related to dementia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-should-government-regulate-ai-we-asked-a-robot.md",
+      "title": "How Should Government Regulate AI? We Asked a Robot",
+      "excerpt": "Artificial intelligence's potential in the public sector has grown exponentially, as have questions around appropriate guardrails. We interviewed the ChatGPT chatbot from OpenAI to see what it had to say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
+      "originalUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5d1d1b3/2147483647/strip/true/crop/950x495+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe2%2F3d%2F834edc3a810426eb0559d2e2c41d%2Fshutterstock-524344900.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
+      "publishedDateTime": "2023-01-19T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-chatgpt-is-it-possible-to-detect-ai-generated-text.md",
+      "title": "ChatGPT: Is it possible to detect AI-generated text?",
+      "excerpt": "A few weeks after the launch of ChatGPT, a powerful artificial intelligence (AI) chatbot, Darren Hick said he caught one of his students cheating by submitting a robot ... at AI start-up Hugging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
+      "originalUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/31/50/48/1000x563_cmsv2_586c42f6-6a01-56c8-bc0b-3d0c6e25cf55-7315048.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
+      "publishedDateTime": "2023-01-19T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
+      "title": "Federated learning AI model could lead to healthcare breakthrough",
+      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "publishedDateTime": "2023-01-19T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-healthcare-firm-regard-uses-artificial-intelligence-to-usher-medicine-into-the-modern-age.md",
+      "title": "How Healthcare Firm Regard Uses Artificial Intelligence To Usher Medicine Into The Modern Age",
+      "excerpt": "As with countless other companies, Regard is harnessing artificial intelligence and ... less doctors means less effective healthcare for people, particularly those who require acute care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/01/19/how-healthcare-firm-regard-uses-artificial-intelligence-to-usher-medicine-into-the-modern-age/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/01/19/how-healthcare-firm-regard-uses-artificial-intelligence-to-usher-medicine-into-the-modern-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c977e562dddc060de9af4b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/01/19/how-healthcare-firm-regard-uses-artificial-intelligence-to-usher-medicine-into-the-modern-age/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/01/19/how-healthcare-firm-regard-uses-artificial-intelligence-to-usher-medicine-into-the-modern-age/amp/",
+      "publishedDateTime": "2023-01-19T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets.md",
+      "title": "Scenario lands $6M for its AI platform that generates game art assets",
+      "excerpt": "Scenario, a startup developing a platform for creating game assets with AI, has raised $6 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
+      "originalUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/Little-Robots-collage-1-e1673991425721.jpeg?resize=1200,660",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/amp/",
+      "publishedDateTime": "2023-01-19T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-alethea-ai-debuts-generative-ai-on-polygon-blockchain.md",
+      "title": "Alethea AI debuts generative AI on Polygon blockchain",
+      "excerpt": "Alethea AI has teamed up with blockchain company Polygon to bring the power of generative AI to AI character NFTs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "originalUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/alethea-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/alethea-ai-debuts-generative-ai-on-polygon-blockhain/amp/",
+      "publishedDateTime": "2023-01-19T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-hc3-warns-healthcare-of-ais-use-in-malware-development.md",
+      "title": "HC3 Warns Healthcare of AI’s Use in Malware Development",
+      "excerpt": "In its latest brief, HC3 details how artificial intelligence (AI) can be used by threat actors to aid in malware development, forming a serious threat to healthcare cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "originalUrl": "https://healthitsecurity.com/news/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/datasecurityGettyImages-1319188207-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/hc3-warns-healthcare-of-ais-use-in-malware-development",
+      "publishedDateTime": "2023-01-19T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-fluentai-announces-collaboration-to-offer-embedded-voice-recognition-for-cadence-tensilica-hifi-5-dsp-based-true-wireless-stereo-products.md",
+      "title": "Fluent.ai Announces Collaboration to Offer Embedded Voice Recognition for Cadence Tensilica HiFi 5 DSP-Based True Wireless Stereo Products",
+      "excerpt": "Fluent.ai provides offline, noise robust speech recognition that can support any language or accent. The latest software solution allows users to trigger more than 30 TWS actions through 101 natural and flexible voice commands,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fluentai-announces-collaboration-offer-embedded-voice-recognition-cadence-/2023/01/19/9746105.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim.md",
+      "title": "Soft Robotics mGripAI uses simulation to train in NVIDIA Isaac Sim",
+      "excerpt": "Soft Robotics applies NVIDIA Isaac Sim’s synthetic data to food processing automation in efforts to improve safety and increase production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
+      "originalUrl": "https://www.therobotreport.com/soft-robotics-mgripai-uses-simulation-to-train-in-nvidia-isaac-sim/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/01/soft-robotics-chicken1-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-9-ways-we-use-ai-in-our-products.md",
+      "title": "9 ways we use AI in our products",
+      "excerpt": "Here are nine ways we use AI today to make our products even more helpful.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
+      "originalUrl": "https://blog.google/technology/ai/9-ways-we-use-ai-in-our-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_products_hero_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-nvidia-shows-how-surprisingly-hard-it-is-for-a-robot-to-pick-up-a-chicken-wing.md",
       "title": "Nvidia shows how surprisingly hard it is for a robot to pick up a chicken wing",
       "excerpt": "The chipmaker is showcasing how a robotics startup is using its simulation platform to train robots to pick up food like pieces of chicken.",
@@ -679,503 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-chinas-self-driving-car-push-hits-legal-cost-roadblocks.md",
-      "title": "China’s self-driving car push hits legal, cost roadblocks",
-      "excerpt": "Baidu, an industry leader ... Among the challenges for self-driving taxi companies is that rules on autonomous driving are set by local governments, with no nationwide legal framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2023/01/19/chinas-self-driving-car-push-hits-legal-cost-roadblocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-investigation-exposes-murkier-side-of-ai-chatbot-industry.md",
-      "title": "Investigation exposes murkier side of AI chatbot industry",
-      "excerpt": "A Time investigation has exposed the murkier side of the AI chatbot industry, highlighting how at least one startup has been using questionable practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
-      "originalUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-OpenAI-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/investigation-exposes-murkier-side-of-ai-chatbot-industry/?amp",
-      "publishedDateTime": "2023-01-18T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-us-keeps-chipping-away-at-dutch-resistance-on-china.md",
-      "title": "US Keeps Chipping Away At Dutch Resistance On China",
-      "excerpt": "Nvidia and AMD Last August, the US government ordered Nvidia and AMD to stop exporting their GPU and AI chips, as well as Nvidia's AI server called DGX, to China and Russia. It explained to Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
-      "originalUrl": "https://menafn.com/1105448347/US-Keeps-Chipping-Away-At-Dutch-Resistance-On-China",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.md",
-      "title": "Lawsuit claims IBM falsely used mainframe sales to boost AI, cloud businesses",
-      "excerpt": "A lawsuit has been filed against 13 current and former IBM executives, including CEO and Chairman Arvind Krishna and former CEO Ginni Rometty, accusing the company of securities fraud — bundling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
-      "originalUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2023/01/ibm-sign-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/419451/lawsuit-claims-ibm-falsely-used-mainframe-sales-to-boost-ai-cloud-businesses.html/amp/",
-      "publishedDateTime": "2023-01-18T19:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-fico-chief-analytics-officer-scott-zoldi-on-responsible-ai.md",
-      "title": "FICO Chief Analytics Officer Scott Zoldi on Responsible AI",
-      "excerpt": "I spoke with Scott Zoldi, Chief Analytics Officer at FICO, about how companies can ensure they are ethical and appropriate as they deploy artificial intelligence. Among the topics we discussed: As you survey the business market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/fico-responsible-ai/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/fico-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/01/eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-schools-we-need-for-the-new-cognitive-economy.md",
-      "title": "The Schools We Need for the New 'Cognitive Economy'",
-      "excerpt": "This rapidly changing environment might be called a “cognitive economy.” It requires workers who are not only literate but numerate. That means effective training in math and science and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/60/600019_5_.jpeg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/19/the_schools_we_need_for_the_new_cognitive_economy_148748.amp.html",
-      "publishedDateTime": "2023-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-translated-named-a-leader-in-idc-marketscape-for-machine-translation.md",
-      "title": "Translated Named a Leader in IDC MarketScape for Machine Translation",
-      "excerpt": "Press Release Translated, the global enterprise that pioneered AI-assisted localization services, has been recognized as a Leader in the MarketScape \"Worldwide Machine Translation Software 2022 Vendor Assessment\" (Doc #US48325622,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
-      "originalUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/translated-named-a-leader-in-idc-marketscape-for-machine-translation/amp/",
-      "publishedDateTime": "2023-01-18T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-adobe-says-no-its-not-using-your-images-to-train-ai-art-generators.md",
-      "title": "Adobe says no, it’s not using your images to train AI art generators",
-      "excerpt": "Illustration by Alex Castro / The Verge Adobe’s chief product officer, Scott Belsky, has responded to concerns regarding the company’s policies on artificial intelligence, claiming that Adobe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
-      "originalUrl": "https://www.theverge.com/2023/1/18/23560801/adobe-ai-art-generator-scott-belsky",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/IQ9lZfS-AEiVpW3_a_ao75HbUBc=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23624357/acastro_STK124_03.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-michigans-atwater-brewery-releases-ipa-created-by-artificial-intelligence.md",
-      "title": "Michigan’s Atwater Brewery releases IPA created by artificial intelligence",
-      "excerpt": "Artificial Intelligence IPA is a 6.5% brew made with a blend of Centennial, Citra, and Amarillo hops, which results in tropical and citrus flavors and aromas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "originalUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EJPLGYZV7BETJGYP34T37UYWMQ.jpeg",
-          "width": 3024,
-          "height": 2530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2023/01/michigans-atwater-brewery-releases-ipa-designed-by-artificial-intelligence.html?outputType=amp",
-      "publishedDateTime": "2023-01-18T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery.md",
-      "title": "Nick Cave Calls AI Song Written in His Style 'Grotesque Mockery'",
-      "excerpt": "Tools like ChatGPT can never experience the complex human struggles that lead to emotionally resonant songs, the singer-songwriter says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "originalUrl": "https://www.cnet.com/culture/entertainment/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/defe08f4f2ceaf8687284194a29636cd016dd62d/hub/2023/01/17/8dbff024-4f5a-4e19-9655-84dd5a112a50/1246226412.jpg?auto=webp",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nick-cave-calls-ai-song-written-in-his-style-grotesque-mockery/",
-      "publishedDateTime": "2023-01-18T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes.md",
-      "title": "This AI writing app now fixes your lousy spelling mistakes",
-      "excerpt": "Artificial intelligence is being used to cast its all-seeing eye over the written word with DeepL’s latest free writing app Write. Pitched as a rival to Grammarly, the AI writing tool is able to correct spelling and grammar mistakes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes",
-      "originalUrl": "https://www.techradar.com/news/this-ai-writing-app-now-fixes-your-lousy-spelling-mistakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fsh9XUg46KKeaptBBcvaqb-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-18T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

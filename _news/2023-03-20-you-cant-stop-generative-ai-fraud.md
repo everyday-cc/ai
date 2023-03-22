@@ -18,89 +18,98 @@ topics:
   - AI
 
 related:
-  - title: "How to navigate today’s conversational AI and text generative landscape"
-    excerpt: "Companies in this category include MonkeyLearn, Repustate and Cohere. Text translation companies use AI to translate written texts from one language to another. Companies in this category include ModernMT, TextUnited and Phrase. In the middle of the ..."
-    publishedDateTime: 2023-03-17T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/"
-    ampWebUrl: "https://venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-navigate-todays-conversational-ai-and-text-generative-landscape/amp/"
+  - title: "Generative AI Makes Headway in Healthcare"
+    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
+    publishedDateTime: 2023-03-21T22:42:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/world.technolgoy.GettyImages-1071365812.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://images.wsj.net/im-748228/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Roblox launches its first generative AI game creation tools"
-    excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
-    publishedDateTime: 2023-03-22T03:57:00Z
-    webUrl: "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    ampWebUrl: "https://www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+  - title: "PGI to help make cutting edge AI-based healthcare tools"
+    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
+    publishedDateTime: 2023-03-20T01:54:00Z
+    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
-    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
-    publishedDateTime: 2023-03-21T11:46:00Z
-    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 54
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
+        width: 660
+        height: 402
         isCached: true
-  - title: "Generative AI’s Next Frontier Is Video"
-    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
+  - title: "Indian firms use AI-ML to tap US healthcare market"
+    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
+    publishedDateTime: 2023-03-21T13:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
-    excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
-    publishedDateTime: 2023-03-21T15:23:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/21/google-bard/"
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 51
+  - title: "Adobe Offers More Responsible Generative AI"
+    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
+    publishedDateTime: 2023-03-21T14:27:00Z
+    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: Thurrott
+      domain: thurrott.com
     quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+  - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
+    excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
+    publishedDateTime: 2023-03-20T20:11:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
+      - url: "https://assets.medpagetoday.net/media/images/103xxx/103616.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
+    publishedDateTime: 2023-03-20T10:06:00Z
+    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "FMdzu1RZic0A1AlXDOk5p74ZRbDr5PHREGE9BpgitVsnkOstcCBfOgYyz4lIsrYLA1F+Y0OAROfSRHmHk9qthjZZAhE6ka0rajGPx3y5URi0tW0vUhTk7qYb730UbfyXQK40/v5VRi7M9yjt6vFmKn2Gwe31w1YaW+pwqGzOPRf4Av7KBF83Rwf33PLPfnFO0OY0KO+6f06W8rB7mpeIzKbEk4WHOIpUJz/4YZbX47L+TNfcYbjnRzf3wKNJ0Z/2KhrIT3mst1LtEjAQQSJVTINcP8I0OZLjv4s/C2mKh5sKM7Dc+wIp8uzgZhtvlP4ngj+ppIUK9AwgotiPEXjjVHJS8MATp/6ajE6ouOpuHa1dYXUQD01YBTMHvlABJ5RT74Y8ioDgh4NzMY66JB8/ST+OfF82dMsKUTCg5xo8c/7QMP+U178gX9+8WQnOsknSVGK+bkXetiWvb1g3Yh0oASL+aBB7F7u00fSohGzlS6KNe/sCrDu22hsP6Qejwr5Y1jh8BKKKC6HHrwnUj4jOgQ==;ZcbBHL/4hCqArbyxsIisOA=="
 ---

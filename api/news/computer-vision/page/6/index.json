@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-13-3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028.md",
+      "title": "3D Facial Recognition Systems Market | Key factors responsible for rapid growth in the coming years 2028",
+      "excerpt": "The Global 3D Facial Recognition Systems market 2023 to 2028 Report add an In-depth analysis on the market status of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-key-factors-responsible-for-rapid-growth-in-the-coming-years-2028-2023-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-security-technology-startup-awarded-over-4000000-for-humanitarian-support.md",
       "title": "Security Technology Startup Awarded Over $4,000,000 for Humanitarian Support",
       "excerpt": "Secured™, a service-disabled veteran owned small business security technology firm, is revolutionizing the field of drone surveillance with the first commercially-available automated AI Object Recognition & Change Detection software designed to merge sensor data in near real-time.",
@@ -1220,41 +1272,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kjrh.com",
-        "domain": "kjrh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

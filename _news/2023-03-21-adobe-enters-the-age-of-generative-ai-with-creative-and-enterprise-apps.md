@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "il9WmOX/TOi+3XFF83DXsrgKBsAV55w4xF2BB8ksFWXoCY6NnRzr638q/ljR2F1GMI6qq4m+rryrwrdOrGIzWkvYmvObMr4WRThoj03tJ5Jw1nnXqv1u8s3Bi70jz92jJ702OT+phfeJHg9j3++MJmJqQ+1d1OOjAyx0A8nqI3dZPkGoXkZXIhTAcvC40MFlqq+nB4vfGYEKUnqvcz/i9ADpGNargXtsrlQwUaofdXGWyoWSLDX1f/toithBPBkLGgWxAE41obpcAGVcSvojf9Cli2Ie86BwPuSNylBdiUwPmTeFboQP93vX2QD1XZx4a5Svj61JHGb6WeGQqwMUJzXF2/6jwwg1qltMEmdXFSyatq/mTJCj8AJEg9wsbFxu6R0gtUw4vY5Mz0DmXLBbSzcru7C3sp2D5mDcjASujlVImB7JF1X/1YZTo4+QLgNpf2YVT0xLfHRy809lBp/cc/+ogjN6fbngMrlMGUHRaSPVhJ89XascJipZuxXAao5jkzwasB+qgnIp7rfHk+cYZg==;gWT36xo+1cUyLcr1yWbdyQ=="
 ---
