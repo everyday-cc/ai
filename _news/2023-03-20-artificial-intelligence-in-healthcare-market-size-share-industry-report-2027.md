@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-20T10:06:00Z
 originalUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
 webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
   name: Mena FN
@@ -15,6 +18,74 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "z4H8I1omlm8uLjG/Vz3mPHps6HtZh23Q73cmXPCrwlVEqItiwPGj6axHx7Z+voXRhxmhEz38LUDL00F/vAM/nfIE9Ya6+vxQ7FLeATMLFSLQPeCG2zcgl1hqB3+xXRfz8T6OynQM8ARZzgOVRKRiPNIWism1VcOlOtOfNK0AbjZTR9IqDmL0Ze94AHxokHvxVWXbnDQYHWIspt1RuHuC0NUnAsg8DMMpdOQ6N0/MkinKWHbc7suw1gug0vNRMoRSkw3lC1+3PyVO4Gdb8MoKCY3UrJR7dewY8R4J2y8VO/Kgp0e/tXIQq8f9WeqGv2fDXGIKdAwKL/xy3nhXiPrxPofH8s8MeUj/MtN8fUC5o4s=;qg2/aZ9gK6p+2Cp1/9QTmA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+    width: 333
+    height: 250
+    isCached: true
+
+related:
+  - title: "Generative AI Makes Headway in Healthcare"
+    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
+    publishedDateTime: 2023-03-21T22:42:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-748228/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "PGI to help make cutting edge AI-based healthcare tools"
+    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
+    publishedDateTime: 2023-03-20T01:54:00Z
+    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 54
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
+        width: 660
+        height: 402
+        isCached: true
+  - title: "Indian firms use AI-ML to tap US healthcare market"
+    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
+    publishedDateTime: 2023-03-21T13:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 51
+  - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
+    excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
+    publishedDateTime: 2023-03-20T20:11:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/103xxx/103616.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+
+secured: "1cmgVQuEE6dXt7rTYHthzqnSmHN7arWMH4qsX3nPFBaKlIYaXE2486d3OYMbCOdqjWCoZRqoAFh39h5C2xxURzfg22YSSlDjDwl4wNCsqg+dcZdqTJhaKKf6XUcqDNmdJTHJ4iyp1Cu47zYo7JYcRsuUK5Xwoqm/gBPA90kcnOVUjpHAtnbrVNXeg+6Pui5CQlfI4ajQ1JuBoFS+6vPl/7DK536K/gu0xB+CtkSJlZgjnNx4oPIkA0dsB/RBSVp9U7OgQRytOodLrVc5FTg+CfkYEh1VNE9a6wh+plxw9JxAR1e9BYc6ZYXCi8PPxr2tbaXms/gM3JLasCavMX8Atae81UD8OPVsAW/PBlIq2dU=;o8t6hlqjnVn8PKyWiVGmzA=="
 ---
 

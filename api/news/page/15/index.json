@@ -2,6 +2,143 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-03-09-humane-a-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m.md",
+      "title": "Humane, a secretive AI startup founded by ex-Apple employees, raises another $100M",
+      "excerpt": "Humane, a secretive startup co-founded by ex-Apple employees, has raised $100 million in a fresh venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/",
+      "originalUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/",
+      "publishedDateTime": "2023-03-08T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-bay-area-airports-adopt-facial-recognition-to-process-travelers.md",
+      "title": "Bay Area Airports Adopt Facial Recognition to Process Travelers",
+      "excerpt": "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
+      "originalUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
+      "publishedDateTime": "2023-03-08T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-will-ai-chatbots-raise-digital-equity-concerns-for-students.md",
+      "title": "Will AI Chatbots Raise Digital Equity Concerns for Students?",
+      "excerpt": "Some ed-tech experts say the need to close the digital divide will only grow more urgent as Internet-based artificial intelligence tools become commonplace in schools and universities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/1e863f9/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa8%2F9a%2F2b3110904bb6ae8dcfecb0733cc2%2Fdigital-equity.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
+      "publishedDateTime": "2023-03-08T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-aaa-americans-fear-self-driving-cars.md",
       "title": "AAA: Americans Fear Self-Driving Cars",
       "excerpt": "Worried about self-driving cars?  If so, you're not alone. Fear of self-driving cars is on the rise, according to a new survey from the American Automobile Association (AAA).   AAA's annual automated vehicle survey checks in with drivers every year to gauge the temperature of how the public feels about autonomous driving tech,",
@@ -987,117 +1124,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-embodied-aigoogles-palm-e-allows-robot-control-with-natural-commands.md",
-      "title": "“Embodied AI”—Google’s PaLM-E allows robot control with natural commands",
-      "excerpt": "564b parameters makes ChatGPT with 150b seem like a simpleton. Speaking of, I'm astounded by it's (ChatGPT) apparent understanding of what I say. I have to keep reminding myself that no, it doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/civis/threads/“embodied-ai”—google’s-palm-e-allows-robot-control-with-natural-commands.1490504/page-2",
-      "originalUrl": "https://arstechnica.com/civis/threads/“embodied-ai”—google’s-palm-e-allows-robot-control-with-natural-commands.1490504/page-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-aws-selected-as-southwest-airlines-preferred-cloud-provider.md",
-      "title": "AWS Selected as Southwest Airlines’ Preferred Cloud Provider",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Southwest Airlines Co. (NYSE: LUV) has selected AWS as its preferred cloud provider as the airline advances its digital transformation initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/aws-selected-as-southwest-airlines-preferred-cloud-provider/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/aws-selected-as-southwest-airlines-preferred-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-podcast-why-pharma-marketers-need-ai-now.md",
-      "title": "Podcast: Why pharma marketers need AI now",
-      "excerpt": "In this podcast, William Grambley, CEO of AllazoHealth, explores how pharma marketers can reach their omni-channel engagement objectives with artificial intelligence (AI), anticipate patient intent, and drive next-best-action at the individual level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
-      "originalUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MM&M",
-        "domain": "mmm-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

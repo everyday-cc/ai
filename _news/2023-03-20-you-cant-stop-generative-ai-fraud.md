@@ -18,43 +18,56 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Makes Headway in Healthcare"
-    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
-    publishedDateTime: 2023-03-21T22:42:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
+  - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
+    excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
+    publishedDateTime: 2023-03-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 100
     images:
-      - url: "https://images.wsj.net/im-748228/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "PGI to help make cutting edge AI-based healthcare tools"
-    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
-    publishedDateTime: 2023-03-20T01:54:00Z
-    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
+  - title: "Adobe enters the age of generative AI with creative and enterprise apps"
+    excerpt: "To support this work, it has set out a framework of AI ethics and is applying a formal review process within its engineering teams to try to ensure the AI it pumps inside its products reflect company need and human values. A blog post on the company site ..."
+    publishedDateTime: 2023-03-21T15:57:00Z
+    webUrl: "https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.amp.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
-        width: 660
-        height: 402
+      - url: "https://images.idgesg.net/images/article/2023/03/firefly_n_letters_and_prompts-1-100938766-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 563
         isCached: true
-  - title: "Indian firms use AI-ML to tap US healthcare market"
-    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
-    publishedDateTime: 2023-03-21T13:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 51
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
+    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "Adobe Offers More Responsible Generative AI"
     excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
     publishedDateTime: 2023-03-21T14:27:00Z
@@ -69,29 +82,15 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
-    excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
-    publishedDateTime: 2023-03-20T20:11:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
+  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
+    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
+    publishedDateTime: 2023-03-21T13:03:00Z
+    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/103xxx/103616.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
-    publishedDateTime: 2023-03-20T10:06:00Z
-    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 21
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z
@@ -101,15 +100,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
+        isCached: true
 
 secured: "FMdzu1RZic0A1AlXDOk5p74ZRbDr5PHREGE9BpgitVsnkOstcCBfOgYyz4lIsrYLA1F+Y0OAROfSRHmHk9qthjZZAhE6ka0rajGPx3y5URi0tW0vUhTk7qYb730UbfyXQK40/v5VRi7M9yjt6vFmKn2Gwe31w1YaW+pwqGzOPRf4Av7KBF83Rwf33PLPfnFO0OY0KO+6f06W8rB7mpeIzKbEk4WHOIpUJz/4YZbX47L+TNfcYbjnRzf3wKNJ0Z/2KhrIT3mst1LtEjAQQSJVTINcP8I0OZLjv4s/C2mKh5sKM7Dc+wIp8uzgZhtvlP4ngj+ppIUK9AwgotiPEXjjVHJS8MATp/6ajE6ouOpuHa1dYXUQD01YBTMHvlABJ5RT74Y8ioDgh4NzMY66JB8/ST+OfF82dMsKUTCg5xo8c/7QMP+U178gX9+8WQnOsknSVGK+bkXetiWvb1g3Yh0oASL+aBB7F7u00fSohGzlS6KNe/sCrDu22hsP6Qejwr5Y1jh8BKKKC6HHrwnUj4jOgQ==;ZcbBHL/4hCqArbyxsIisOA=="
 ---

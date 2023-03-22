@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T12:29:00Z
 originalUrl: "https://www.pcmag.com/news/ubisoft-is-using-ai-to-write-dialogue-for-video-game-characters"
 webUrl: "https://www.pcmag.com/news/ubisoft-is-using-ai-to-write-dialogue-for-video-game-characters"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: PC Magazine

@@ -2,6 +2,165 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-21-machine-learning-chip-market-size-and-forecast-till-2029.md",
+      "title": "Machine Learning Chip Market Size and Forecast till 2029",
+      "excerpt": "What is the Machine Learning Chip market growth? Machine Learning Chip Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees.md",
+      "title": "How Cotopaxi Provides Sibly’s AI-Assisted Coaching 24/7 To Employees",
+      "excerpt": "The soft launch of the Sibly app occurred on February 1. “Within 24 hours, 8% of employees had downloaded and 5% had begun using,” according to Dusty Hardy at Cotopaxi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6418aa25d8af1ba8f24b289a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/",
+      "publishedDateTime": "2023-03-20T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-defining-endpoint-security-in-a-zero-trust-world.md",
+      "title": "Defining endpoint security in a zero-trust world",
+      "excerpt": "Increased cloud attacks and the need for stronger endpoint security are making 2023 more challenging than many CISOs budgeted for.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "originalUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/6-5-reasons-why-Zero-Trust-Is-The-Future-Of-Endpoint-Security.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "publishedDateTime": "2023-03-20T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-video-students-in-plainfield-learn-to-use-artificial-intelligence.md",
       "title": "VIDEO: Students in Plainfield learn to use artificial intelligence",
       "excerpt": "Students in Plainfield learn to use artificial intelligence",
@@ -206,7 +365,7 @@
       "originalUrl": "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -310,7 +469,7 @@
       "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -611,7 +770,7 @@
       "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1076,143 +1235,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
-      "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
-      "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 951,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "publishedDateTime": "2023-03-19T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-robt.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)",
-      "excerpt": "Investors may trade in the Pre-Market (4:00-9:30 a.m. ET) and the After Hours Market (4:00-8:00 p.m. ET). Participation from Market Makers and ECNs is strictly voluntary and as a result, these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "originalUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much.md",
-      "title": "Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much",
-      "excerpt": "We like HDR-pimped pics, but this latest camera controversy outlines how computational photography could set us down a dicey path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "originalUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6414e0523d47b01ba33146dd/master/pass/Samsung%E2%80%99s-Moon-Shots-Force-Us-to-Ask-How-Much-AI-Is-Too-Much-Gear-GettyImages-490137064.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "publishedDateTime": "2023-03-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

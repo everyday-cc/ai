@@ -62,20 +62,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 51
-  - title: "Adobe Offers More Responsible Generative AI"
-    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
-    publishedDateTime: 2023-03-21T14:27:00Z
-    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 39
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
     excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
     publishedDateTime: 2023-03-20T10:06:00Z
@@ -84,25 +70,12 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 29
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-  - title: "You can’t stop generative AI fraud"
-    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
-    publishedDateTime: 2023-03-20T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
+    quality: 49
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Apple’s silence on generative AI grows louder"
     excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
     publishedDateTime: 2023-03-21T03:59:00Z

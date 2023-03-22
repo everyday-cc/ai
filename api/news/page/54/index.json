@@ -2,6 +2,134 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-02-06-hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector.md",
+      "title": "HSCS Stock Alert: HeartSciences Receives Israeli Patent for AI Heart-Disease Detector",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Anastasia Zagoruyko HeartSciences (NASDAQ:HSCS)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector-1032070760",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector-1032070760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ai-stocks-rally-in-latest-wall-street-craze-sparked-by-chatgpt.md",
+      "title": "AI stocks rally in latest Wall Street craze sparked by ChatGPT",
+      "excerpt": "Shares of C3.ai Inc, BigBear.ai and SoundHound AI extended a rally on Monday as artificial intelligence becomes a new buzzword on Wall Street with the viral success of ChatGPT chatbot, attracting interest from retail punters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-stocks-rally-latest-wall-street-craze-sparked-by-chatgpt-2023-02-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-stocks-rally-latest-wall-street-craze-sparked-by-chatgpt-2023-02-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-an-extension-of-ferminet-to-discover-quantum-phase-transitions.md",
+      "title": "An extension of FermiNet to discover quantum phase transitions",
+      "excerpt": "In 2020, Google's British AI subsidiary DeepMind used a new ANN architecture dubbed the Fermionic neural network (FermiNet) to solve the Schrodinger equation for electrons in molecules, a central problem in the field of chemistry. The Schroedinger equation ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "originalUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-extension-of-fermin.jpg",
+          "width": 2880,
+          "height": 1288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "publishedDateTime": "2023-02-06T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
       "title": "3 ETFs for the Artificial Intelligence Boom",
       "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
@@ -777,108 +905,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
-      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
-      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
-      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
-      "publishedDateTime": "2023-02-06T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
-      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
-      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
-      "publishedDateTime": "2023-02-06T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies.md",
-      "title": "ChatGPT rival - Google invest in AI start-up as arms race intensifies",
-      "excerpt": "Google Cloud has invested US$300mln in AI company Anthropic following the popularisation of OpenAI’s ChatGPT, according to media reports. The deal will",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

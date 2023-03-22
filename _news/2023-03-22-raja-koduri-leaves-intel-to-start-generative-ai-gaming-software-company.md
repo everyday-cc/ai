@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Raja Koduri leaves Intel to start generative AI gaming software company"
-excerpt: "What just happened? Raja Koduri, the man who left AMD five years ago to become Intel's Chief Architect, is leaving the company to launch his own generative AI software startup. Team blue boss Pat Gelsinger made the announcement on Twitter, thanking Koduri ..."
-publishedDateTime: 2023-03-22T10:19:00Z
-originalUrl: "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
-webUrl: "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
+excerpt: "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced"
+publishedDateTime: 2023-03-22T10:18:00Z
+originalUrl: "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
+webUrl: "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Indian-origin Intel GPU chief Raja Koduri quits to start generative AI startup"
+    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+    publishedDateTime: 2023-03-22T12:17:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup/articleshow/98913026.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 30
   - title: "Intel's chief architect explained why he's leaving to launch an AI startup"
     excerpt: "Intel Corp.'s top chip architect— industry veteran Raja Koduri — is not only leaving the semiconductor giant, he's exiting the business. Koduri, whose end-of-month departure CEO Pat Gelsinger announced Tuesday on Twitter,"
     publishedDateTime: 2023-03-22T00:34:00Z
@@ -50,8 +59,8 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 15
+    quality: 17
 
-secured: "/AwXsKFI+Kw3jBjC5sqluwEpzJBBG5LeCpWsj5xAVCwvlOsA4YXl5tNvPDUqGxLL3dyZNQre/i94aVIn0QtFYuyM00dJ4Sw5pavtlzLmKmojSGgMu4HvUovW/IeCDQN4BbFTENoxSxUGUxxkqUwpxkRHzsieyKHEQMEV4/xWVbsTANDOn42CCLN0SiuSBt7qEVmYCryJtGoBWv0k+7sI08h/nF10B1qU3p7HCD1iY8KiPzLw+gpufWQotUkqccXLfUKSJiZnPtHqabwLED2Qfd7VNomMJlBXLsnECBa+DRJRCdrojiBUDOpT5HiBhU/lznPZJlFYp7Doxl0/iswc8B1NdTki3CbDe3nAYDcbZZ/X4vZ7fXsjDWRIwiMIuedrnhaz0TeZ+GxCkPfBPHT2fqhhpyBjhrifVHT516sGdyTn09YS8gGiVvQWs2Zzo7zp0zn89905+tK7bdV33khoJ7V4sWTXrdLuZFgAZSQjoxss0sz1Rik3vpTE6E/ykjUPZVPlEpp83Mwld18OpmfvcA==;r4lO3+H1WZy/P3HnaVZ91w=="
+secured: "tIfQupyF26vilTe5drNuA7rr6p4ZwOHX9R8OkNg9TEN7VP/+uSCtofptCsOXMK6mYkUmGNYabrCh0n9JesXaePZ8fkOc/x7nVNjGeDvYORV72Zk3kEd1gxPiNdbckBTijJaCElpvGzuwLVAJXYAWAjkIz1almjfXZGiTMlyF4riGngHTW/4NrP5Uq28Am8dEyQ40lk6sT9hoShsFFU7Q5l4Ky7UNCngwqtjStuDXxZ5UYUUHkvZC6li70rwAuWa0QJvWZc7TdBBOGkjTz0JanF0HuGP//9wX8th0QjN1fyWpDRZKgbdIQ4sJ+WvEqQ/dA4spmDZlNodULhAyIuZH3bJDqoORH9Q1kke+dKFQLhI=;Ligp9hhqHoC7NgxvLE06Mg=="
 ---
 

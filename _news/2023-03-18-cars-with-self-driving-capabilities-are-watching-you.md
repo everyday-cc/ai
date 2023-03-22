@@ -50,15 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
-  - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
-    excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
-    publishedDateTime: 2023-03-17T20:48:00Z
-    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 2
 
 secured: "ox9CkWaNyO4JqveegCSn+18gJ3yYA/F5EWBwLEMiMQc9XjKV49nHEXNf4sVVyurSD994nIjlkb55zN6i0pDk73IXoB0Tc0evUc5MvxcKUIgFfTw7YcEHQ76ZL1YSQgBH1MkbhwvMdq9W129a4ulIn80kFmas99TczQKco2yPYrslzI+cmx+sY6J7BA0uQVlpplCosZ+c4UNoSwewkK4K/mk7kH2VlkhgrnxFSe369HY+E1Wir7zW5IKmO1hbuU1EOFx3dHV49wBvDBeeoikaxwkpis60PyVE2j/NeOQIwj7HgdlAZy2lJJkQKarzzQb4nEg7hpdg3KkqWD9rxqlJktO1ESpRQQXPRLsEd4fZGDCuFrvavj9ZLop0KR3FFUvK16ehqu0lTaq+aXYsc9siiM7BDTAeZTKHm3QLP+V6igd4ACegrgNlyCCKStjY4bLJuZIUphGZnlWOviLCRzc89//PHXnMYNeCOgTemBmJDMjOxRzmsQbZ5ZgHr13Nqi5oyvRRMPV0ODClqW+GbKX1PA==;2gss1w5QCcRNEyU3epxuvw=="
 ---

@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Semi holding Nvidia proves its a leader in AI software, expanding beyond chips"
+    excerpt: "Separately, Nvidia launched four new \" inference platforms \" designed specifically for large language models (LLMs) and generative AI workloads. While Nvidia's chips have been essential to training the models that power generative AI applications ..."
+    publishedDateTime: 2023-03-22T15:41:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/semi-holding-nvidia-proves-its-a-leader-in-ai-software.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106747420-1602840895304-GettyImages-902419318_1.jpg?v=1679499588&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Oracle ties up with Nvidia to offer AI supercomputing service"
     excerpt: "A new AI supercomputing service, dubbed Nvidia DGX Cloud, has been made generally available on Oracle Cloud Infrastructure’s Supercluster."
     publishedDateTime: 2023-03-21T20:14:00Z
@@ -282,6 +296,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Adobe launches Firefly AI media generator"
+    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
+    publishedDateTime: 2023-03-22T13:53:00Z
+    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
   - title: "NVIDIA Hopper GPUs Expand Reach as Demand for AI Grows"
     excerpt: "NVIDIA H100 GPUs Now Being Offered by Cloud Giants to Meet Surging Demand for Generative AI Training and Inference; Meta, OpenAI, Stability AI to Leverage H100 for Next Wave of AI SANTA CLARA, Calif.,"
     publishedDateTime: 2023-03-21T18:44:00Z
@@ -323,14 +346,23 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
-    excerpt: "NVIDIA today launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-21T20:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780846.htm"
+  - title: "ASRock Rack GPU Server Platform Lineups Are Now Qualified for NVIDIA L4 Tensor Core GPUs"
+    excerpt: "The NVIDIA L4 Tensor Core GPU, powered by the NVIDIA Ada Lovelace architecture, is a universal, energy-efficient accelerator designed to meet numerous AI needs. With the NVIDIA accelerator and its full-stack AI platform, the L4 GPU delivers higher AI ..."
+    publishedDateTime: 2023-03-22T15:43:00Z
+    webUrl: "https://www.hartware.de/2023/03/22/asrock-rack-gpu-server-platform-lineups-are-now-qualified-for-nvidia-l4-tensor-core-gpus/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Hartware Net
+      domain: hartware.de
+    quality: 10
+  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
+    excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
+    publishedDateTime: 2023-03-22T12:59:00Z
+    webUrl: "https://insidebigdata.com/2023/03/22/nvidia-launches-inference-platforms-for-large-language-models-and-generative-ai-workloads/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 10
   - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
     excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"

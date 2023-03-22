@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-22-google-releases-bard-ai-chatbot-amid-competition-with-chatgpt.md",
+      "title": "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT",
+      "excerpt": "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 507,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/",
+      "publishedDateTime": "2023-03-21T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-homer-the-mind-reading-beer-pump-lets-you-pour-a-pint-with-your-brain.md",
+      "title": "'Homer' the mind reading beer pump lets you pour a pint with your brain",
+      "excerpt": "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
+      "originalUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
+      "cdnAmpWebUrl": "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
+      "publishedDateTime": "2023-03-21T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Liverpool Echo",
+        "domain": "liverpoolecho.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
+      "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
+      "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
+      "publishedDateTime": "2023-03-21T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities.md",
       "title": "Remote monitoring of raw material supply chains for sustainability with Amazon SageMaker geospatial capabilities",
       "excerpt": "Deforestation is a major concern in many tropical geographies where local rainforests are at severe risk of destruction. About 17% of the Amazon rainforest has been destroyed over the past 50 years, and some tropical ecosystems are approaching a tipping point beyond which recovery is unlikely. A key",
@@ -377,7 +523,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -620,7 +766,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -965,7 +1111,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1163,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1110,164 +1256,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-machine-learning-chip-market-size-and-forecast-till-2029.md",
-      "title": "Machine Learning Chip Market Size and Forecast till 2029",
-      "excerpt": "What is the Machine Learning Chip market growth? Machine Learning Chip Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T17:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees.md",
-      "title": "How Cotopaxi Provides Sibly’s AI-Assisted Coaching 24/7 To Employees",
-      "excerpt": "The soft launch of the Sibly app occurred on February 1. “Within 24 hours, 8% of employees had downloaded and 5% had begun using,” according to Dusty Hardy at Cotopaxi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/",
-      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6418aa25d8af1ba8f24b289a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/",
-      "publishedDateTime": "2023-03-20T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-defining-endpoint-security-in-a-zero-trust-world.md",
-      "title": "Defining endpoint security in a zero-trust world",
-      "excerpt": "Increased cloud attacks and the need for stronger endpoint security are making 2023 more challenging than many CISOs budgeted for.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
-      "originalUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/6-5-reasons-why-Zero-Trust-Is-The-Future-Of-Endpoint-Security.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
-      "publishedDateTime": "2023-03-20T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -90,6 +90,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
+    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
+    publishedDateTime: 2023-03-22T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
 
 secured: "yBlXzqKkesqrAxjDFM4a4SlsYiCO+M9ph9LFWCoiJa5yRIFZp1RyXwoxbGyplk9L4+lNOthMM3iGnXIq6ZQjCnF4tV5bzmbsS5NL4LmaY2CprU5DbyKCGwOphkDXn7fX/YLvHGkTC2qKmed41sunIzPLY1HHcEq8Zx/7XxLX76QPyS1sv3PElh4npBx5WI7Whl7TwBlcUWvPjz31I/mUb1R9mN2Opim97vNpKdzSvI0lu3ZvVtVh44Bm/DRQDJ9Rg4t55qm4JzZApc/I09ALKSz22h8+gN7q8yQsSox40ZDI/p2tBVzOHgC4arC029MWO9GVF6QCdVCYVVhDo+SD1+qgEwLLRwNXLnKpqdT4Jy6kcmhLKMoxbASojPvWTu7yG5N0LbZ6Ku1wXIL8iJ2p6RX8L1iCJEh/Vm0JR0iVq8yWwPWMxT207ylUMMR+OFINwHLL8VgguvA8VupYplIoIG2hZ7325e4JNR4Uq8bwKl7/QU1nqGvGkXv0cLf0r/ZkyO9K2Ejvdxiwl4lxirHeFQ==;mkfEnLD84tuLRDmuKOXTXQ=="
 ---

@@ -2,6 +2,161 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-17-i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply.md",
+      "title": "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply.",
+      "excerpt": "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
+      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
+      "publishedDateTime": "2023-03-17T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence.md",
+      "title": "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence",
+      "excerpt": "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
+      "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
+      "publishedDateTime": "2023-03-17T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption.md",
+      "title": "From AI challenge to AI success: How Managed AI is changing the game in AI adoption",
+      "excerpt": "The core value of Managed AI for startup businesses is the enhancement of products with AI solutions, to ensure best-in-class customer experience and quickly gain a competitive edge without large capital investment. Managed MLOps is another essential ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_570790936.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/",
+      "publishedDateTime": "2023-03-17T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-on-device-ai-is-transforming-computing-for-hybrid-workforces.md",
       "title": "On-device AI is transforming computing for hybrid workforces",
       "excerpt": "Presented by Qualcomm Technologies Inc. Traditionally, laptop performance has been measured by CPU and GPU, but on-device AI processing is now a critical third measure. And that’s especially crucial for enterprise PCs as hybrid work challenges crystalize ...",
@@ -1088,153 +1243,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery.md",
-      "title": "Meta AI Unlocks Hundreds of Millions of Proteins to Aid Drug Discovery",
-      "excerpt": "Facebook parent company Meta Platforms Inc. has created ... and perhaps speed the discovery of new drugs. Meta’s research arm, Meta AI, used the new AI-based computer program known as ESMFold to create a public database of 617 million predicted proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
-      "originalUrl": "https://www.wsj.com/articles/meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery-d0ef32fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-743974/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-apple-is-reportedly-experimenting-with-language-generating-ai.md",
-      "title": "Apple is reportedly experimenting with language-generating AI",
-      "excerpt": "Multiple teams under Apple are reportedly experimenting with language generating AI models, including the Siri team.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/apple-is-reportedly-experimenting-with-language-generating-ai/amp/",
-      "publishedDateTime": "2023-03-16T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-drives-growth.md",
-      "title": "Global Deep Learning in Drug Discovery and Diagnostics Market to 2035: Ongoing Pace of Innovation Drives Growth",
-      "excerpt": "Distribution by Therapeutic Areas and Key Geographical Regions: Industry Trends and Global Forecasts (2nd Edition),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31386216/global-deep-learning-in-drug-discovery-and-diagnostics-market-to-2035-ongoing-pace-of-innovation-d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31386216",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31386216",
-      "publishedDateTime": "2023-03-16T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

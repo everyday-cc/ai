@@ -8,7 +8,7 @@ webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-tech
 ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
@@ -73,30 +74,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stores are using facial recognition to help stop repeat shoplifters"
-    excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
-    publishedDateTime: 2023-03-17T22:04:00Z
-    webUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters"
-    ampWebUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+  - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
+    excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
+    publishedDateTime: 2023-03-22T04:47:00Z
+    webUrl: "https://www.sixthtone.com/news/1012550/shanghai-district-discourages-overusing-facial-recognition-tech-?source=channel_home"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
-  - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-17T22:11:00Z
-    webUrl: "https://abc7ny.com/nyc-fairway-facial-recognition-shoplifting/12968998/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 37
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
+      - url: "https://image5.sixthtone.com/image/5/65/75.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
@@ -107,20 +97,6 @@ related:
       name: abc13
       domain: abc13.com
     quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
-    publishedDateTime: 2023-03-21T16:40:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 34
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
         width: 1600
@@ -149,7 +125,16 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:40:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 14
 
-secured: "iCIbY6P92HXU/U1Ks+vdZzyIRVyhK0UuOulQgWC3ChjCjVWDwRu5UHWMSAn0xxUTSwmvzNtR9oEagguz3Fe+T6NmLMOYk0UmWf0tx+0j+KYuQuk7KBkI2DwI9qLqq8IfPw9dGZqTxKW86OhlPPIIN8FbMEJQj1faotXihVP2aAoWK+lWuBZZitkAx+wcNDal5zrSZqwpFeUyXDehh0FOpgqeXtXbzLwKAOJ3oyOhjmKKtanaPhBmybn7YSnCWBsnngSYtS83MVLI8LK8u48m9YstLyfiBhB043fTdDIuCLfed5YlPNf+6sgQBDQ74iL7tSihoY7/A2Q27U1Hhyn7nrHEj6ANkayF89n9EXYQ9nI=;ofIxxicQszv8egibslf67w=="
+secured: "BjLoBdoOZF20plFis3cGyUYpx31tkS+d/F1sBtneEnaiivZ4kcpc8ccz0beMtSr2ySNtK8tNIOj+x5BudxNvbHMXR223T8kUN3fX2CwWrc/cQpuFuvRLQBhrLXc1red9uvKTv9PeUaCT//bi9KHOJsc1F4mm8xX7etJgjSD+X/zAFxPTI/y6YkmU9c6BJdXqGxKMWAu9aX5IPRWMs/8thTJUOD/JDjsDD4KiJpyMsaXjoFFlzmJVV/lLtodscOsOff+oD8Xw/0hRE6lbCg8xFpgBtIRs8MCXg9W6BH6cULGnqWiTRf62a4RUJjz2JNISa7a2MD0u0fbmc1wFUxvsDHWI+CP/VkYsnksniq1EPjd0nQ5nH5cGpQtLDViuuTRn2ds+oxwPfpwtFEHUcZ7Sj+5XrDEHZhmWZZjBuaWr/naw8OIjTNNZekLUztysUUmmitXvpgOb2MUd7QGzrweEqTCtiKoRB1cU1SPdjcGqY4c2z/fB6J6MksumssnYNdTsdVCC45f++Mv2VKfm8hNi2w==;VFy3IikJy64J4iIKxMFyow=="
 ---
 

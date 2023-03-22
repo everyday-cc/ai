@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "Four Reasons Self-Driving Cars, Not Drones, Will Deliver Your Packages"
-    excerpt: "Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ultimate ..."
-    publishedDateTime: 2023-03-17T21:38:00Z
-    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 4
   - title: "Self-driving trucks to deliver grocery orders to Kroger stores"
     excerpt: "Kroger is about to add another layer of automation to its customers’ online grocery orders filled by robots at its fulfillment center in southern Dallas."
     publishedDateTime: 2023-03-20T13:00:00Z

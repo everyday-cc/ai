@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-22-the-3-best-ai-stocks-to-buy-right-now.md",
-      "title": "The 3 Best AI Stocks to Buy Right Now",
-      "excerpt": "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ...",
+      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
+      "title": "2 Top AI Stocks Ready for Bull Runs",
+      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
+      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
       "featuredContent": null,
       "highlight": null,
       "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg",
-          "width": 2309,
-          "height": 1299,
+          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
+          "width": 2121,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T02:43:00-07:00",
+      "publishedDateTime": "2023-03-22T07:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Motley Fool",
@@ -51,8 +51,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware",
-        "AWS AI"
+        "Facebook AI",
+        "AI Hardware"
       ]
     },
     {
@@ -64,7 +64,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 512,
+      "heat": 522,
       "tags": null,
       "images": [
         {

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T10:55:00Z
 originalUrl: "https://www.kentuckytoday.com/news/business/intetics-recognized-by-goodfirms-as-the-best-company-to-work-with/article_c800da1f-a3e2-5689-a7d0-bf6e42bc155a.html"
 webUrl: "https://www.kentuckytoday.com/news/business/intetics-recognized-by-goodfirms-as-the-best-company-to-work-with/article_c800da1f-a3e2-5689-a7d0-bf6e42bc155a.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Kentucky Today

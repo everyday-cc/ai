@@ -20,6 +20,47 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
+    excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
+    publishedDateTime: 2023-03-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Adobe enters the age of generative AI with creative and enterprise apps"
+    excerpt: "To support this work, it has set out a framework of AI ethics and is applying a formal review process within its engineering teams to try to ensure the AI it pumps inside its products reflect company need and human values. A blog post on the company site ..."
+    publishedDateTime: 2023-03-21T15:57:00Z
+    webUrl: "https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691134/adobe-enters-the-age-of-generative-ai-with-creative-and-enterprise-apps.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/03/firefly_n_letters_and_prompts-1-100938766-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 563
+        isCached: true
+  - title: "Generative AI’s Next Frontier Is Video"
+    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
+    publishedDateTime: 2023-03-20T13:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
     excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
     publishedDateTime: 2023-03-21T13:00:00Z
@@ -29,24 +70,38 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
-  - title: "Adobe Experience Manager Adds AI-Powered Content Insights, No-Code Website Editing"
-    excerpt: "New AI-powered and no-code features coming to Adobe Experience Manager (AEM) will enable marketers to create personalized content at scale with greater effectiveness."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/21/adobe-experience-manager-adds-ai-powered-content-insights-no-code-website-editing/"
+  - title: "Adobe Offers More Responsible Generative AI"
+    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
+    publishedDateTime: 2023-03-21T14:27:00Z
+    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "Adobe is bringing generative AI features to Photoshop, After Effects and Premiere Pro"
-    excerpt: "Firefly, as Adobe is calling the new system, is actually a family of generative AI models, the first of which is trained to work its magic on both images and font effects."
-    publishedDateTime: 2023-03-21T13:58:00Z
-    webUrl: "https://www.engadget.com/adobe-is-bringing-generative-ai-features-to-photoshop-after-effects-and-premiere-pro-130034491.html"
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 40
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "You can’t stop generative AI fraud"
+    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
+    publishedDateTime: 2023-03-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
     excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
     publishedDateTime: 2023-03-20T14:55:00Z
@@ -61,15 +116,6 @@ related:
         width: 939
         height: 466
         isCached: true
-  - title: "High-Tech Touchpoints Are Changing Customer Experience"
-    excerpt: "We see three opportunities for business leaders who want to enhance their companies’ CX and drive greater satisfaction. First, focus on frictionless commerce. Second, consider augmented experiences. Finally,"
-    publishedDateTime: 2023-03-20T12:26:00Z
-    webUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 4
 
 secured: "HCfSC4NwxR3UimISjwD/EfGmlGjsXIy8qvkMI1qhv0OtUbEWjvlLvjotckh3CV1t2yN3ZDFdNMowmlUVpBEegAPXPquOuds4djflIjxf5VvPgH9uPBEfPbI5ifI5wXHswk655Amq1nT5jvr1v44RJIEgD5Crb4Q1RoxvAuVkZ5yS3aCN0u5iYO+FSZHw/n4sXS6aoN4pXb97V9v2IoWi7iH2qbtIjr9fppv7I/KbbwVFBVW17PC4s9RBmwTurk7u4oaOybXOSmt5EzZB3lS88spkBUl/On8JD+YqpY6/uhE5iHLubKfg29qUPKAFTf8RYZBTyKSrJXF8aO7jntDz88m1XEhkomzW18oWUgROjB08PtvJlIS3NqMFgjdghBUc+G/7Q4Eqk0YCdyhTTvTh0EAbkQV223LlI9sfqrmV89DUNQ5pkbYMzMP8bQXcX3hUQ2sv3mCa2PovZCAShV0GR4p4GcIrqX38x4cAMr8jbrblx8XnDNC9dyTs9nWh32gDpnEEYqJ+587fkEP9Uc+0ZQ==;DLboI39AQ9sRPyRSDy8uTw=="
 ---

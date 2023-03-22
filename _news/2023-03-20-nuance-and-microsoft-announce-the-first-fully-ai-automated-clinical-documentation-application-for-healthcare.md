@@ -102,6 +102,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence dubbed 365 Copilot coming to documents you write, Microsoft says"
+    excerpt: "Artificial intelligence tools like ChatGPT are taking over the landscape of our everyday lives, and now Microsoft has just announced its own tool called 365 Copilot. It's meant to help people with work-related tasks, so anyone using it can be more productive."
+    publishedDateTime: 2023-03-22T15:33:00Z
+    webUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says"
+    ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 95
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57fe17cf-29ba-4f20-8547-d7a31a8d6d83/bafceabc-1b05-4a4e-ae9c-2c97359e061a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Adds DALL-E AI Image Generator to Bing"
     excerpt: "Microsoft on Tuesday announced that it is using an advanced version of Open AI’s DALL-E image generator to power its own Bing and Edge browser. Like DALL-E before it, the newly announced Bing Image Creator will generate a set of images for users based on a line of written text."
     publishedDateTime: 2023-03-21T16:00:00Z
@@ -187,6 +203,22 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-hardware-rack.jpg"
         width: 768
         height: 1024
+        isCached: true
+  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
+    excerpt: "Microsoft announced it would also use an AI large language model in its Microsoft 365 products. Here are the best ones on the market."
+    publishedDateTime: 2023-03-22T13:23:00Z
+    webUrl: "https://www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    ampWebUrl: "https://www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/reviews/br/electronics-br/computer-components-br/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 76
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/03/computer-software-best-microsoft-365-products-2.jpg?w=1280"
+        width: 760
+        height: 500
         isCached: true
   - title: "Microsoft & OpenAI add AI image creation tool to Bing"
     excerpt: "After integrating ChatGPT into Bing, Microsoft is adding a tool to it, that creates images from words using an advanced version of OpenAI's DALL-E model."
@@ -325,20 +357,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft Previews Semantic Kernel SDK for Adding AI to Apps"
-    excerpt: "Semantic Kernel, which had its first start as an \"internal incubation project at Microsoft,\" currently supports OpenAI's GPT-4 model and the Azure OpenAI service ... which can be problematic when working with AI, according to Maeda in the LinkedIn Learning ..."
-    publishedDateTime: 2023-03-17T22:33:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/17/microsoft-previews-semantic-kernel-sdk-for-adding-ai-to-apps.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0217vsm_McCaffreyDataSciLab.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
     excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."

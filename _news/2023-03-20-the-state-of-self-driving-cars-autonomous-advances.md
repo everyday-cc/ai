@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-ca
 webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 7
-  - title: "Four Reasons Why Self-Driving Cars, Not Drones, Will Deliver Your Packages"
-    excerpt: "Ten years later, Amazon is nowhere close to making that happen. Over the same period, Musk has arguably done more than anyone to advance the idea that self-driving cars, not weird little helicopters, will transport both passengers and goods to their ..."
-    publishedDateTime: 2023-03-17T20:48:00Z
-    webUrl: "https://www.thestreet.com/retailers/four-reasons-why-self-driving-cars-not-drones-will-deliver-your-packages"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 2
 
 secured: "1WEz6OHby0WRPkJiwLcASdtLugDsbEMVd+11od7wvhADsnABgYcGADUgc/c8MeuHrOizrFVp4heL+Cmfc1zP/UTo/7iIO+ykn/ShUwyYPTZ44BOrzyP1sIqZGoQx2+g08umyzF37qVAOz1uKdmeRlRw4X1lSHC3FloSPqtjy7DYutOl2dsH/NoTo6uZ/6wNEpMOQh6HiYqHOEWfD1CwVlX7xF0DacefbBrwQs8rmwoIQAp1dxvpQZIkg6cQ4YmxZ568HNuaiUXCthhnJtidgg5PTT5I2XloxYh20F5uWcqlIDZQn7FETQ2i20B5xXrNvvzTN/fksRDIYWSYn4z4un+Ppil0FmpULusuznXUSdZg=;Q8bqORqrzCl8vq49PzjfdA=="
 ---

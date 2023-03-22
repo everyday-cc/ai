@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/adobe-is-bringing-generative-ai-features-
 webUrl: "https://www.engadget.com/adobe-is-bringing-generative-ai-features-to-photoshop-after-effects-and-premiere-pro-130034491.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -20,58 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
-    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
-  - title: "Adobe Experience Manager Adds AI-Powered Content Insights, No-Code Website Editing"
-    excerpt: "New AI-powered and no-code features coming to Adobe Experience Manager (AEM) will enable marketers to create personalized content at scale with greater effectiveness."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/21/adobe-experience-manager-adds-ai-powered-content-insights-no-code-website-editing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
-    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
-    publishedDateTime: 2023-03-21T13:03:00Z
-    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 21
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
-        isCached: true
-  - title: "High-Tech Touchpoints Are Changing Customer Experience"
-    excerpt: "We see three opportunities for business leaders who want to enhance their companies’ CX and drive greater satisfaction. First, focus on frictionless commerce. Second, consider augmented experiences. Finally,"
-    publishedDateTime: 2023-03-20T12:26:00Z
-    webUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 4
 
 secured: "XxlVDpY77tMS6kFyDh+9OqVCMh3KEGcpMV61M9A5Hd5LNYxHIs/HPwRxfwVIVeUTeFO0lVbq86znhXbWgo7iMXiSHyUVt2yrdRCs9ZRlsaeYoDU3Kr5VY9HlZL3rQJfoe3ni9/BAw11jQ2NmYKT/QpTm9CY4DTheoeCORIFwEgPVCYewgnLXIx85AxPpCHkaxM4Rr1bj4WNnnxO+fvcYBp35tesdaDIlNSevuq/xVBHnXemr+VvT5hUS7h9c6LDNmMUn0tEj0/d6X5z2AiIkW8Qocmjr4mSQtanGmgVu0itgnQmPTHn32afOhLCA5UkcCGMbKKI/h45n3oPowhB/P1JVMRBI7pBgEp2l9AXTO/sPYU4HeScF4QMzxXcJpR3dik77p3DQNULerK1AyEjIU7PJ4n7TGWnUj2f2Sf7N6jBYrx22MLqldaI71hBEJuH3mKGFUG7oDxFoiVCAuSU8pAAoS/FtM2Q4ebAavNWVcknxH/3MJ0xgW90GXkbYYAnxlSeeDv7Uk4gaPHzpQX9/7A==;ukufbJQvI+D6p5vBoQCYeA=="
 ---

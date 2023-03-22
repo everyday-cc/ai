@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tavus taps generative AI to power personalized videos with voice and face cloning"
-    excerpt: "Tavus enables companies to create \"unique\" videos tailored to a specific individual, based entirely on a single initial recording."
-    publishedDateTime: 2023-03-20T16:53:00Z
-    webUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/"
-    ampWebUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
+  - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
+    excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
+    publishedDateTime: 2023-03-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 100
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/Raza-Favret-Landscape-Portrait-Final-e1679048302476.jpeg?resize=1200,675"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Generative AI’s Next Frontier Is Video"
     excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
@@ -53,6 +53,70 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
+    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
+    publishedDateTime: 2023-03-21T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
+  - title: "Adobe Offers More Responsible Generative AI"
+    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
+    publishedDateTime: 2023-03-21T14:27:00Z
+    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
+    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
+    publishedDateTime: 2023-03-21T13:03:00Z
+    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 21
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "You can’t stop generative AI fraud"
+    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
+    publishedDateTime: 2023-03-20T04:00:00Z
+    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
+        isCached: true
 
 secured: "il9WmOX/TOi+3XFF83DXsrgKBsAV55w4xF2BB8ksFWXoCY6NnRzr638q/ljR2F1GMI6qq4m+rryrwrdOrGIzWkvYmvObMr4WRThoj03tJ5Jw1nnXqv1u8s3Bi70jz92jJ702OT+phfeJHg9j3++MJmJqQ+1d1OOjAyx0A8nqI3dZPkGoXkZXIhTAcvC40MFlqq+nB4vfGYEKUnqvcz/i9ADpGNargXtsrlQwUaofdXGWyoWSLDX1f/toithBPBkLGgWxAE41obpcAGVcSvojf9Cli2Ie86BwPuSNylBdiUwPmTeFboQP93vX2QD1XZx4a5Svj61JHGb6WeGQqwMUJzXF2/6jwwg1qltMEmdXFSyatq/mTJCj8AJEg9wsbFxu6R0gtUw4vY5Mz0DmXLBbSzcru7C3sp2D5mDcjASujlVImB7JF1X/1YZTo4+QLgNpf2YVT0xLfHRy809lBp/cc/+ogjN6fbngMrlMGUHRaSPVhJ89XascJipZuxXAao5jkzwasB+qgnIp7rfHk+cYZg==;gWT36xo+1cUyLcr1yWbdyQ=="
 ---

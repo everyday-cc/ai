@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

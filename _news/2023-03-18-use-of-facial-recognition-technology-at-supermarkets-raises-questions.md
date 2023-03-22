@@ -67,36 +67,25 @@ related:
     provider:
       name: 6abc News
       domain: 6abc.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stores are using facial recognition to help stop repeat shoplifters"
-    excerpt: "The Fairway market on the corner of Broadway and West 74th street on the Upper Westside is resorting to technology to help them catch the thieves, it is now using facial recognition. It says retail theft and shoplifting has a high rate of repeat offense and drives up grocery costs for all customers,"
-    publishedDateTime: 2023-03-17T22:04:00Z
-    webUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters"
-    ampWebUrl: "https://www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/stores-are-using-facial-recognition-to-help-stop-repeat-shoplifters.amp"
+  - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
+    excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
+    publishedDateTime: 2023-03-22T04:47:00Z
+    webUrl: "https://www.sixthtone.com/news/1012550/shanghai-district-discourages-overusing-facial-recognition-tech-?source=channel_home"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
-  - title: "NYC grocer Fairway is using face-scanning technology to prevent shoplifters"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-17T22:11:00Z
-    webUrl: "https://abc7ny.com/nyc-fairway-facial-recognition-shoplifting/12968998/"
-    type: article
-    provider:
-      name: abc7NY
-      domain: abc7ny.com
-    quality: 37
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
+      - url: "https://image5.sixthtone.com/image/5/65/75.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
@@ -107,20 +96,6 @@ related:
       name: abc13
       domain: abc13.com
     quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
-    publishedDateTime: 2023-03-21T16:40:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 34
     images:
       - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
         width: 1600
@@ -149,6 +124,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:40:00Z
+    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 14
 
 secured: "+0Z2L9RAN0Bg3w2VvrJgHX3EyeYVi2dUnoMDRISQ97V+kdJMmQcO+8axok+7erQ7PgmnffSeRO8A4tjhS+ZDkC74oEiBQPzOLwYrBtmyJRrWfGiQZNcEiff3WOHdqTFs/eDrXhx0Vidbk1jL+E36jAquEDOAuykppR08PcmhFpTSN4cYlgO9oy4nKqrwoQpi8LBT3JTHTZKkijL+ICVJyEiRJvSoCnSby23JqGJYlpFVZPv6pRjHqgCgok11Pv6rIiBXJz4gG8bJtoUwJpAYfvyecuuM/CyTfNA4Dr7uSr2QBlXbQdioOXdcNz8p8w4fL420okCAta975J+EFYLZfTY2bfK4NviwL2+t2oHLdZoM4UVG4C8oQU0Ucu+7Bx6u53TKJaLWZO+D3o9kZytp+f1gH6ePnVrTN8A8lgRRrc1xoA2vrAfdZ9GXCEL//5GpL74LKEksAXL5mwbJbGwPPLh1aurU6OYClGQb4XL1XSVxSyGF0LPUIiUAifcAsXh315uq4TSWs/H9TFpPokOGFg==;z2YVtaWiMKdnOF9GkXTbbw=="
 ---

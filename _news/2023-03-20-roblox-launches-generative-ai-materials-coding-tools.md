@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/roblox-launches-generative-ai-material
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

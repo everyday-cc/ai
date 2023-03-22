@@ -56,19 +56,19 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "AI Will Reshape The Finance Sector - Here's How"
-    excerpt: "Artificial intelligence (AI) is set to play an ever-increasing role in financial ... of one of the world's largest independent financial advisory, asset management and fintech organizations. deVere Group's Nigel Green's comments follow microsoft (NASDAQ ..."
-    publishedDateTime: 2023-03-17T20:37:00Z
-    webUrl: "https://menafn.com/1105805190/AI-Will-Reshape-The-Finance-Sector-Heres-How"
+  - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
+    excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
+    publishedDateTime: 2023-03-22T15:31:00Z
+    webUrl: "https://www.wsj.com/articles/bill-gates-says-artificial-intelligence-is-the-most-revolutionary-technology-in-decades-75fb8562"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 59
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/17/V_4c78fimage_story.jpeg"
-        width: 1000
-        height: 500
+      - url: "https://images.wsj.net/im-748570/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Artificial Intelligence accelerates the fourth industrial revolution"
     excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."

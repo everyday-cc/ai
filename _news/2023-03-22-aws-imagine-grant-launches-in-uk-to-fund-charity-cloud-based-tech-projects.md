@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T12:41:00Z
 originalUrl: "https://www.computerweekly.com/news/365533453/AWS-Imagine-Grant-launches-in-UK-to-fund-charity-cloud-based-tech-projects"
 webUrl: "https://www.computerweekly.com/news/365533453/AWS-Imagine-Grant-launches-in-UK-to-fund-charity-cloud-based-tech-projects"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Computer Weekly

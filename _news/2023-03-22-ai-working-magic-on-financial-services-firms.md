@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T12:59:00Z
 originalUrl: "https://www.forbes.com/sites/chris-perry/2023/03/22/ai-working-magic-on-financial-services-firms/"
 webUrl: "https://www.forbes.com/sites/chris-perry/2023/03/22/ai-working-magic-on-financial-services-firms/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

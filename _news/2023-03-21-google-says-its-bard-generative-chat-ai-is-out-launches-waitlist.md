@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generat
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
+    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
+    publishedDateTime: 2023-03-22T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
 
 secured: "FuVvCFXw+SNPiu8pi39F40Yk9iaTseLD5rHHH4UP1z12m1VWBoWIgEl5P8Wx8C9LMDcvZG5kK7ERbclnmKH0Ek/RgqGJndqwA7K6deqLHdFoOyS16bJiZTdPrI3gFcnZH0+HxqCYrMNMHYWWT43YJ6KbMXHQ0DAHOkbk4lyP2iUy3LwXa4pcl+d5p7YvBA8hC/F4mpFAW7RjlEadVR0ISM4MwxNxrMBNOrAwK4jB7dwAXzpYH1DihtXXKXQWEuIEkJsj9OondCUTpY7sdgJNoYKhidAYhdMGpH6AhlDFQJDocnRWHy0S+niyL+r+goAbrzAxR9xeJuQlpHxc6KDJUhMIL/gHWG7JGDKnRpTWCo8=;ZRolJCUevr6VnWdOCYB8ig=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13127
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312743&cat=PR News Wire"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI and Big Data Analytics in Telecom Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Market Growth Report Has Segmented the Global AI and Big Data Analytics in Telecom market report based on Type (Cloud Based, On-Premise, ,), Application (Cloudera, Affirm, Fico, Amdocs, China Unicom, Iberia, Amazon, Facebook, AWS, Dell, Airtel, Google ..."
-    publishedDateTime: 2023-03-17T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2023-expected-to-reach-significant-rate-by-2029-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pimloc hires US sales leader, taking its AI-powered video privacy and analytics technology to North America"
     excerpt: "Pimloc, the company using artificial intelligence (AI) to anonymise personal data in videos announces the hire of its first sales leader in North America, Tom Fashola, who will serve as Vice"
     publishedDateTime: 2023-03-22T11:51:00Z

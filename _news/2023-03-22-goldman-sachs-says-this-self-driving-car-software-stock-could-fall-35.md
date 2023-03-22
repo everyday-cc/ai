@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T10:21:00Z
 originalUrl: "https://www.cnbc.com/2023/03/22/goldman-sachs-says-this-self-driving-car-software-stock-could-fall-35percent.html"
 webUrl: "https://www.cnbc.com/2023/03/22/goldman-sachs-says-this-self-driving-car-software-stock-could-fall-35percent.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: CNBC

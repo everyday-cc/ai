@@ -43,6 +43,17 @@ related:
         width: 624
         height: 441
         isCached: true
+  - title: "Cleveland Clinic, IBM Deploy First Healthcare Quantum Computer"
+    excerpt: "Cleveland Clinic and IBM officially announced the first implementation of an onsite quantum computer dedicated to healthcare research."
+    publishedDateTime: 2023-03-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
 
 secured: "NBazQNrqh75YrNuY14ylrGNG0czFdMK/xMzGscvBa9O86wky3TizhO4PUjlqvSKr9yScAh3God6W/NWCyhbGQO3aLjEsAjnX3HDjqgjHyJ4ktEXeo/gpCxiMhMFo7xLGRMm4kMUaFPpCvrYxHqHqepTRSF6I+DN9aO1vOVx3wtUde4pzgTSjRaWcYXh8xX7vrZYBmjW8FqlEZSaRalCJ7iUSvuatSuxC38iNS1ZYuGcKFX68Iz2s8bDynQXsyVGsJrB1gpA2yyaAXcva2JiM+RdpkS4O3fQqA+FSY/p5mDBXynDwxR/sTkVRtyvZkmOKSQ7GBiMMY0RMX3ms1BmHWKCyi6s1OadImzD6Ylw+n4w=;1dDE5I67sMEUQzjFAbYyiw=="
 ---

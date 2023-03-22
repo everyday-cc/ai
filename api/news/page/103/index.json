@@ -2,6 +2,143 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-12-22-riserobotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator.md",
+      "title": "RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator",
+      "excerpt": "RISE™Robotics, the Zero Emission Motion Control Company, announced today that it has been granted a key U.S. Patent for their technology, the High Reduction Belt-Driven Linear Actuator U.S. Patent",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30174912",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30174912",
+      "publishedDateTime": "2022-12-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats.md",
+      "title": "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats",
+      "excerpt": "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
+      "originalUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg",
+          "width": 480,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
+      "publishedDateTime": "2022-12-22T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-leveraging-ai-in-agency-work.md",
+      "title": "Leveraging AI In Agency Work",
+      "excerpt": "Artificial intelligence has reshaped many aspects of our business, personal and social worlds—you probably interact with AI daily and may not even realize it. As AI tools and solutions become less sci-fi and more business as usual,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
+      "publishedDateTime": "2022-12-22T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
       "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
       "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
@@ -1119,126 +1256,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus.md",
-      "title": "EKA Mobility, NuPort Robotics release Level 2- enabled ADAS e-bus",
-      "excerpt": "This allows NuPort to include progressive Level 2 autonomy and Artificial Intelligence (AI) for electric buses on Indian roads. The module that is now live, enables ADAS features in EKA Mobility’s electric buses,",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-96394212,imgsize-404810,width-1200,height-628,overlay-etauto/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/commercial-vehicle/eka-mobility-nuport-robotics-release-level-2-enabled-adas-e-bus/96394212",
-      "publishedDateTime": "2022-12-21T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ET Auto",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai.md",
-      "title": "UAE-Israel Cooperating to Develop Arabic Language Applications for Artificial Intelligence (AI)",
-      "excerpt": "Potential Israel-UAE cooperation in developing an advanced application of artificial intelligence (AI) and machine learning to understand the Arabic language and its dialects will benefit the entire Middle East region,",
-      "sourceUrl": null,
-      "webUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
-      "originalUrl": "https://www.jewishpress.com/news/science-and-tech/ai/uae-israel-cooperating-to-develop-arabic-language-applications-for-artificial-intelligence-ai/2022/12/21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jewishpress.com/wp-content/uploads/2022/12/AI-UAE-Israel-2.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jewish Press",
-        "domain": "jewishpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-study-finds-ai-assistants-help-developers-produce-code-thats-more-likely-to-be-buggy.md",
-      "title": "Study finds AI assistants help developers produce code that's more likely to be buggy",
-      "excerpt": "In a paper titled, \"Do Users Write More Insecure Code with AI Assistants?\", Stanford boffins Neil Perry, Megha Srivastava, Deepak Kumar, and Dan Boneh answer that question in the affirmative. Worse still,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/12/21/ai_assistants_bad_code/?td=rt-3a",
-      "originalUrl": "https://www.theregister.com/2022/12/21/ai_assistants_bad_code/?td=rt-3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

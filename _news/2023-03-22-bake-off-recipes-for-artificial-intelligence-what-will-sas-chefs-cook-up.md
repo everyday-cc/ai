@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T12:29:00Z
 originalUrl: "https://wraltechwire.com/2023/03/22/bake-off-recipes-for-artificial-intelligence-what-will-sas-chefs-cook-up/"
 webUrl: "https://wraltechwire.com/2023/03/22/bake-off-recipes-for-artificial-intelligence-what-will-sas-chefs-cook-up/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: WRAL TechWire

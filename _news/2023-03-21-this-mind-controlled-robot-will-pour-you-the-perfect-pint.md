@@ -25,33 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-17T22:10:00Z
-    webUrl: "https://www.bbc.com/news/av/uk-england-somerset-64989895"
+  - title: "'Homer' the mind reading beer pump lets you pour a pint with your brain"
+    excerpt: "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ..."
+    publishedDateTime: 2023-03-21T16:59:00Z
+    webUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883"
+    ampWebUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp"
+    cdnAmpWebUrl: "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
+      name: Liverpool Echo
+      domain: liverpoolecho.co.uk
+    quality: 59
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "A mind-controlled beer-pouring robot has landed"
-    excerpt: "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
-    publishedDateTime: 2023-03-18T20:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-somerset-64989895?at_medium=social&at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=BBCBristol"
+  - title: "'Homer' the mind-reading beer pump which lets punters pour the perfect pint using just their brain"
+    excerpt: "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ..."
+    publishedDateTime: 2023-03-21T14:54:00Z
+    webUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/homer-mind-reading-beer-pump-26522992"
+    ampWebUrl: "https://www.manchestereveningnews.co.uk/news/uk-news/homer-mind-reading-beer-pump-26522992.amp"
+    cdnAmpWebUrl: "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/uk-news/homer-mind-reading-beer-pump-26522992.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 39
+      name: Manchester Evening News
+      domain: manchestereveningnews.co.uk
+    quality: 45
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i2-prod.manchestereveningnews.co.uk/incoming/article26523906.ece/ALTERNATES/s1200/0_the-worlds-firs-979070.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "World first mind-reading beer pump lets you pour the perfect pint with your brain"
+    excerpt: "Thinking about pouring the perfect pint - and actually doing it - are two completely different things. But what happens if your brain was analysed by the mind-reading beer pump? What started 'eight years ago as an experiment' has now turned into a full-on business."
+    publishedDateTime: 2023-03-19T12:00:00Z
+    webUrl: "https://www.ladbible.com/community/mind-reading-beer-pump-thirsty-thoughts-homer-robot-207880-20230319"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 34
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt4a2a6d5836c3b0b1/6416f1543b399c69659bf738/thumbnail_-_2023-03-19T110234.192.png"
+        width: 844
+        height: 475
         isCached: true
   - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
     excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."

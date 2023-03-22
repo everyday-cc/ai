@@ -7,8 +7,8 @@ originalUrl: "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-w
 webUrl: "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: DC Velocity
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DataRobot Unleashes 9.0 Update and Partner Integrations to Drive AI ROI"
-    excerpt: "This integration takes the power of one of the most advanced large language model technologies that exists today in Azure OpenAI Service, and through DataRobot, drives value-centric outcomes with machine learning,” DataRobot said in a blog post."
-    publishedDateTime: 2023-03-17T20:50:00Z
-    webUrl: "https://www.datanami.com/2023/03/17/datarobot-unleashes-9-0-update-and-partner-integrations-to-drive-ai-roi/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/03/Robot-shutterstock_1090899323.jpg"
-        width: 800
-        height: 441
-        isCached: true
   - title: "Ambi Robotics Introduces AmbiAccess, The On-Demand Robot Fleet Management and Business Intelligence Platform"
     excerpt: "Ambi Robotics, the leading provider of AI-powered robotic parcel sorting systems that empower warehouse operators to handle more, today introduces AmbiAccess, a cloud-based business intelligence platform enabling customers to get even more out of their Robots-as-a-Service (RaaS) investment."
     publishedDateTime: 2023-03-20T13:38:00Z

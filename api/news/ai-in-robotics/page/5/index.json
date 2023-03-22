@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-02-10-a-soft-robotic-tentacle-controlled-via-active-cooling.md",
-      "title": "A soft robotic tentacle controlled via active cooling",
-      "excerpt": "Robotic systems have become increasingly sophisticated over the past decades, improving both in terms of precision and capabilities. This is gradually facilitating the partial automation of some surgical and medical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-soft-robotic-tentacl.jpg",
-          "width": 524,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
-      "publishedDateTime": "2023-02-09T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-09-ai-and-robot-innovation-to-boost-shanghais-economic-development.md",
       "title": "AI and robot innovation to boost Shanghai's economic development",
       "excerpt": "Employees of Shanghai-based robot firm JAKA are attending a two-week training program, with the company's global expansion plan. A dozen employees from various countries including Russia, Spain and Mexico are attending a two-week cobot operation training program at Shanghai-based JAKA.",
@@ -1192,6 +1149,41 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-using-self-driving-robot-ai-powered-monitoring-system-as-lifeguards-on-its-beaches.md",
+      "title": "Goa Using Self-Driving Robot, AI-Powered Monitoring System as Lifeguards on Its Beaches",
+      "excerpt": "Both the AI-monitored camera-based systems can monitor the surroundings, assess and detect risks, share real-time information with on-duty lifeguards so they may respond faster to avoid tragic incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
+      "originalUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
+      "publishedDateTime": "2023-02-06T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

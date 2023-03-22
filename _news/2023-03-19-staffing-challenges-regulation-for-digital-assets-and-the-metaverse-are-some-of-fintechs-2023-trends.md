@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/
 webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Meta is pushing the metaverse aside for AI"
-    excerpt: "If Meta can build out its AI capabilities, it could find itself back in Wall Street’s good graces, and earn itself the capital it needs to advance its metaverse ambitions over the coming years. Need proof of the move?"
-    publishedDateTime: 2023-03-17T20:33:00Z
-    webUrl: "https://www.aol.com/finance/meta-pushing-metaverse-aside-ai-172133535.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Dw_0txsLRj9v4PIzYF1pqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ed3b248a224a19a08561de94c919e83"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "K+E9AH7fo69F4+pLnsewNVTA9DvfFwFfrTh7BScmFdj5ZlhJOr/6iHhGs6oDsF4dQ8+Sk8CN5k5pUTjJvoX/l7nVIbYA1ND2yixXmdu4vgqJaRnRITpQ5ILM6/kTom0DEcbYVeF2yiGdDWmr/UdMXFa0fWFjk4FXgDxKMoCQ8Ui6Goc3qXnzp6Yx9oBILmk0gpi97RQJQw8JPlVtHalfvWHU/Kj7KxnVJm2TwBu8/YsmLaImmg/Wo+Ud6xG2oVympBEyU+Vl7tYY7yo0WTAn1XaJMlrtfDs8S8d+RfVYeRuFfYn9WCmRq6htnLuYS6fEZYOSDpenlZSBfvCAfUwUxM64zYLJJbv8MYR5llXZPkV0NRE9+0seZCuCFqViITqcWG2ypl3pusa3RSDAQdJZQ7IJ+fL0jUIyOm6sU1K+geU7LFEIldIhlExEW2MIVYhkWD4+s/9Txa1pqkBS+I332tnq6KRKN098He/IaNwzHc3o/EjDfjzIeW7Fd0y8qaxawsmfpc1l9oA0jvUzjIyZKQ==;cnPbGfH3xxZd1o1c1C02AA=="
 ---

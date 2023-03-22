@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clini
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Cleveland Clinic, IBM Deploy First Healthcare Quantum Computer"
+    excerpt: "Cleveland Clinic and IBM officially announced the first implementation of an onsite quantum computer dedicated to healthcare research."
+    publishedDateTime: 2023-03-22T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
 
 secured: "4ziYyFc53wfTxImNJhKMZMG2ModPTrXnSYfginx/3VNWycI7W4TU7oA4TU8O7QnWzTKxcR3vPfuQsrppbDbM97zaPusmvJb1HGGdnXQnWwxXuXGw60NKgWEJzajktVd7VPQDLWc/56DMb1EROqq4+gG6DfjE9d5qgMyKHK2J4z/6w2KkXZAQ7x0oFLrd75RnOfcgszmJW691L26Q9zs0fEOutDPolGFiyJbkFIpVVuA2hPUKQGmVECenGEO9ELNHHbsjNtpMgU6jNllyEpviYi0avH6asN1u+EyF9spAQ0gWVKcRhMFUBuLzQKp53/JI8QxjpFCivbwXSMkGOzG91m6P267X9qP3dLVtdUPneWnc+gisxv0jPTv8xShCZvm8m6KhusmKbun6CZifqvy7AZgKQivboQIZ8kEKSg3scSWWMqc6YTXgaCPeHawqbXjQlNgy6nNVwCbzrJG9kWzHKHnJn2Fho9ClgawtIToFIKvIOGWf/qHTuspUiXYG1bPS0rOKZ5HjL23z84LlAgkebA==;+120rAHGaifzQ3t+y/F1Ng=="
 ---

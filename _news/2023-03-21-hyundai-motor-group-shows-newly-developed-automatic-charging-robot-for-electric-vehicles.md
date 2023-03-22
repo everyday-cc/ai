@@ -24,6 +24,17 @@ images:
     height: 657
     isCached: true
 
+related:
+  - title: "Hyundai robot could ease EV charging, tackle mobility barriers"
+    excerpt: "3D camera-based AI algorithm to control plugging into the port. When charging is complete, the robot unplugs the cable and sends a notification to the driver's smartphone. Keeping in mind that many EV charging stations are outside and exposed to the ..."
+    publishedDateTime: 2023-03-22T12:02:00Z
+    webUrl: "https://www.greencarreports.com/news/1139123_hyundai-robot-could-ease-ev-charging-tackle-mobility-barriers"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 34
+
 secured: "WqipWWOBnbEpbQjJqWuL36IfuOOjYE/ADyib4lI6sUOILRdVr89rDJfoSW5dboHA1yVb8DHbHH9sMxyAAo+0i0AapA83O5Om6MXaZ1/0m15VdLXEp5+prShZV5QwkEhJCIJFhQyG2/LIUnr7GYjRr85qwPYG+pWEoIiKkRN+8V0eOn0i2Rkq6D4Wr6aeXvmkrp6ztDbIzwYTfN+dp3rWWr8kIqcdPRPHjbwO203lCJWfes3kKmmICbLTu7IdYeghaQGh8X5ygFGiO2TaXFzYoHb++RRy9DgF3GoXo6BZB7n6I19OWQ8cMI3jTB1sbqnoK7S53xBGX7L0S3cZC2jtR8I+4CQb60ZUXwwyX3juCHxw1kSt24xKcOJIPm7qTFcT/FTDd0YchIEMpMbz/CV35Vur6f2FeRFnhpukkjt1lBd3cORDAryFkvvWk54hru9/HgZvLuS9A3/JKuA1VqWQ4/ShKRnhb6q0MCf8JeeV+/4qSU57HfB1l9/bjwLjOoaHP31zUvcK1ew+3jqA+0qXbw==;PkEFmoseko/SgM2vnuAKjA=="
 ---
 

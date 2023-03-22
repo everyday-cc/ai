@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Raja Koduri leaves Intel to start generative AI gaming software company"
-    excerpt: "What just happened? Raja Koduri, the man who left AMD five years ago to become Intel's Chief Architect, is leaving the company to launch his own generative AI software startup. Team blue boss Pat Gelsinger made the announcement on Twitter, thanking Koduri ..."
-    publishedDateTime: 2023-03-22T10:19:00Z
-    webUrl: "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
+    excerpt: "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced"
+    publishedDateTime: 2023-03-22T10:18:00Z
+    webUrl: "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
     type: article
     provider:
       name: TechSpot
@@ -39,6 +39,15 @@ related:
         width: 800
         height: 489
         isCached: true
+  - title: "Indian-origin Intel GPU chief Raja Koduri quits to start generative AI startup"
+    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+    publishedDateTime: 2023-03-22T12:17:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup/articleshow/98913026.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 30
   - title: "Intel's chief architect explained why he's leaving to launch an AI startup"
     excerpt: "Intel Corp.'s top chip architect— industry veteran Raja Koduri — is not only leaving the semiconductor giant, he's exiting the business. Koduri, whose end-of-month departure CEO Pat Gelsinger announced Tuesday on Twitter,"
     publishedDateTime: 2023-03-22T00:34:00Z
@@ -47,7 +56,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 15
+    quality: 17
 
 secured: "0zxR7pwBpoljVcJoPbycbU2vJ3rL+rqfGdnCc8KYeShfg10uZiZRkI3+0c6pXLMScZoYzlpPz91O7xiYXcUicxBwL1ymL9uXYeadPWN9JBs1gDIXHWs5IhX5eaGrNRIzRKwm/hGAQYBqEbzthfM6fq5jN77GmvXUKhKGL9fDayLn84NuY3zOHfoZN5bohCOssCXiCZPxtKxjCQLqPjgCc8RW/Cjs/3Cu86N01zJ4byfhVkDAapwJ5sy8Mk0tb5EA8HIynEz8FjxaPf9ubhnQS+QuuFn3npWfid1NxAgTgodr58dWerUko4jcb9+hhg2iECwk722WbzSks5PprqT8bxvBRs6OeTpnct8fK2T569pCpSxANEeKySvU4CunKhPLQzWbUq7DVohgrvEIsOPLYzBWM4S1tbSreULY2UBvivM4G7NxpOlgWh0pm39i/xj+2sKh10DOcN4REm7XgGPXkok/eIIY5VmH6Q6yZIg9t8Qwi3SeLrZSygwLues6X5IxB4MnPfPIoEptKkuMIYafcA==;g9JDH8ZZBWJ6wxo/txDyHQ=="
 ---

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI and Big Data Analytics in Telecom Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Market Growth Report Has Segmented the Global AI and Big Data Analytics in Telecom market report based on Type (Cloud Based, On-Premise, ,), Application (Cloudera, Affirm, Fico, Amdocs, China Unicom, Iberia, Amazon, Facebook, AWS, Dell, Airtel, Google ..."
-    publishedDateTime: 2023-03-17T20:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2023-expected-to-reach-significant-rate-by-2029-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
     excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
     publishedDateTime: 2023-03-18T18:37:00Z

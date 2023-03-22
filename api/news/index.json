@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all.md",
+      "title": "Mozilla Foundation’s Mark Sumner On Launching An AI Startup For All",
+      "excerpt": "Mozilla, the not-for-profit force behind the Firefox browser, is launching an AI-focused startup with a mission to create an open source and trustworthy alternative to emerging heavyweights like ChatGPT. The company this morning announced that Moez Draief ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/03/22/mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/03/22/mozilla-foundations-mark-sumner-on-launching-an-ai-startup-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b1ba9a188cb2bf44b289a/0x0.jpg?format=jpg&crop=1808,1018,x0,y93,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
+      "title": "2 Top AI Stocks Ready for Bull Runs",
+      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-exploring-the-opportunities-of-generative-ai-for-improving-security-operations.md",
+      "title": "Exploring The Opportunities Of Generative AI For Improving Security Operations",
+      "excerpt": "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/",
+      "publishedDateTime": "2023-03-22T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
+      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
+      "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-708535/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
       "title": "Making faces: How to train an AI on your face to create silly portraits",
       "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
@@ -264,13 +473,13 @@
     {
       "path": "_news/2023-03-22-raja-koduri-leaves-intel-to-start-generative-ai-gaming-software-company.md",
       "title": "Raja Koduri leaves Intel to start generative AI gaming software company",
-      "excerpt": "What just happened? Raja Koduri, the man who left AMD five years ago to become Intel's Chief Architect, is leaving the company to launch his own generative AI software startup. Team blue boss Pat Gelsinger made the announcement on Twitter, thanking Koduri ...",
+      "excerpt": "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced",
       "sourceUrl": null,
-      "webUrl": "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
-      "originalUrl": "https://techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
+      "webUrl": "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
+      "originalUrl": "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -286,7 +495,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T03:19:00-07:00",
+      "publishedDateTime": "2023-03-22T03:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -361,60 +570,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-the-3-best-ai-stocks-to-buy-right-now.md",
-      "title": "The 3 Best AI Stocks to Buy Right Now",
-      "excerpt": "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
       ]
     },
     {
@@ -571,7 +726,7 @@
       "originalUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -674,7 +829,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -726,7 +881,7 @@
       "originalUrl": "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -824,21 +979,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems.md",
-      "title": "OSM Worldwide Partners with Ambi Robotics to Automate Parcel Sortation with AI-Powered Robot Systems",
-      "excerpt": "Ambi Robotics solutions are powered by AmbiOS, the company’s proprietary operating system that leverages advanced simulation-to-reality (Sim2Real) artificial intelligence (AI). This breakthrough technology enables Ambi Robotics systems to be hardware ...",
+      "path": "_news/2023-03-22-bill-gates-ai-is-most-important-tech-advance-in-decades.md",
+      "title": "Bill Gates: AI is most important tech advance in decades",
+      "excerpt": "Developed by OpenAI, ChatGPT is an AI chatbot which is programmed to answer questions online using natural, human-like language. The team behind it in January 2023 received a multibillion dollar investment from Microsoft - where Mr Gates still serves as an advisor.",
       "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems",
-      "originalUrl": "https://www.dcvelocity.com/articles/56980-osm-worldwide-partners-with-ambi-robotics-to-automate-parcel-sortation-with-ai-powered-robot-systems",
+      "webUrl": "https://www.bbc.com/news/technology-65032848",
+      "originalUrl": "https://www.bbc.com/news/technology-65032848",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/2f715622-41f7-4b52-a574-f3a223194538.jpg?crop=true&height=430&t=1678916395&width=640",
-          "width": 600,
-          "height": 338,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ABFB/production/_129072044_gettyimages-1247163886.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -846,14 +1001,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T13:29:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65032848.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65032848.amp",
+      "publishedDateTime": "2023-03-21T12:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -862,7 +1026,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -875,7 +1038,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 512,
+      "heat": 522,
       "tags": null,
       "images": [
         {
@@ -1113,152 +1276,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-google-releases-bard-ai-chatbot-amid-competition-with-chatgpt.md",
-      "title": "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT",
-      "excerpt": "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 497,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/",
-      "publishedDateTime": "2023-03-21T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-homer-the-mind-reading-beer-pump-lets-you-pour-a-pint-with-your-brain.md",
-      "title": "'Homer' the mind reading beer pump lets you pour a pint with your brain",
-      "excerpt": "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "originalUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "cdnAmpWebUrl": "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Liverpool Echo",
-        "domain": "liverpoolecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
-      "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
-      "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Hardware"
       ]

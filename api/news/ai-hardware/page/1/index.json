@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
+      "title": "2 Top AI Stocks Ready for Bull Runs",
+      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
       "title": "Making faces: How to train an AI on your face to create silly portraits",
       "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
@@ -54,60 +108,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-the-3-best-ai-stocks-to-buy-right-now.md",
-      "title": "The 3 Best AI Stocks to Buy Right Now",
-      "excerpt": "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing.md",
       "title": "NVIDIA Launches New GPUs And Services for Generative AI Inferencing",
       "excerpt": "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ...",
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 374,
       "tags": null,
       "images": [
         {

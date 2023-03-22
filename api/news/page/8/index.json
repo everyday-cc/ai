@@ -2,6 +2,166 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-15-6-ways-google-ai-is-helping-you-sleep-better.md",
+      "title": "6 ways Google AI is helping you sleep better",
+      "excerpt": "Learn how features like Sleep Profiles, Smart Wake and cough and snore detection are powered by AI to help you get better sleep.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "originalUrl": "https://blog.google/products/pixel/health-ai-better-sleep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/New__revised_0312_Keyword_blog-header-animated-final_YCPcPYO.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-can-healthcare-show-the-way-forward-for-scaling-ai.md",
+      "title": "Can healthcare show the way forward for scaling AI?",
+      "excerpt": "Azure ML, a bunch of governance models — and all the development environments around .NET, Visual Studio, and all these things that make it easier, not trivial, to build and deploy AI products. Once you’re running, you need to look closely at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "originalUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/7-Applying-AI-at-Scale-in-Healthcare.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-healthcare-show-the-way-forward-for-scaling-ai/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-how-synthetic-data-is-boosting-ai-at-scale.md",
+      "title": "How synthetic data is boosting AI at scale",
+      "excerpt": "Artificial intelligence (AI) relies heavily on large ... “During my time at Google’s self-driving car project Waymo, we used a combination of both. Synthetic data will play a big role in situations we never want to experience in the real world.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/2-Synthetic-data-to-boost-AI-at-scale.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/synthetic-data-to-boost-ai-at-scale/amp/",
+      "publishedDateTime": "2023-03-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-the-power-of-mlops-to-scale-ai-across-the-enterprise.md",
       "title": "The power of MLOps to scale AI across the enterprise",
       "excerpt": "AI and ML model developers and data scientists tell VentureBeat ... Public cloud providers AWS, Google Cloud and Microsoft Azure all provide MLOps platform support. DataRobot, Dataiku, Iguazio, Cloudera and DataBricks are leading vendors competing in ...",
@@ -1082,144 +1242,6 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-could-covid-cause-face-blindness-study-suggests-its-possible.md",
-      "title": "Could COVID cause ‘face blindness'? Study suggests it’s possible",
-      "excerpt": "\"It was like my dad’s voice came out of a stranger’s face.\" \"This one describes face recognition as one of the main deficits in the case study patient, but goes through to describe several tests used in determining different neurocognitive deficits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "originalUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94323c47-a69d-4157-ae67-20daa50a2109/3880628a-7d07-4d7e-a9b6-c8b85b25080c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/could-covid-cause-face-blindness-study-suggests-possible.amp",
-      "publishedDateTime": "2023-03-14T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-artificial-intelligence-glossary.md",
-      "title": "The Artificial Intelligence Glossary",
-      "excerpt": "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/03/17/the-artificial-intelligence-glossary/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/03/17/the-artificial-intelligence-glossary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes.md",
-      "title": "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes",
-      "excerpt": "The company said GPT-4 has capabilities that the previous iteration of the technology did not have, including the ability to “reason” based on images that users have uploaded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 402,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230131-open-ai-se-624p-35f3c4.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna74916",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916",
-      "publishedDateTime": "2023-03-14T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

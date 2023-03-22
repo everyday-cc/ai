@@ -55,22 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia GTC event to showcase generative AI ‘arms race’"
-    excerpt: "Read: Nvidia’s stock upgraded as AI deemed ‘too much of a megatrend’ to ignore Read ... long semiconductor shortage triggered by the COVID-19 pandemic flipped to a chip glut in mid-2022, some analysts expect growth in that important data-center ..."
-    publishedDateTime: 2023-03-17T21:42:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-gtc-event-to-showcase-generative-ai-arms-race-afce5206"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://images.mktw.net/im-608401/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "As Nvidia pushes to democratize AI, here’s everything it announced at GTC 2023"
     excerpt: "This includes Nvidia L4 for producing AI video; Nvidia L40 for 2D/3D image generation; Nvidia H100 NVL for deploying large language models; and Nvidia Grace Hopper — which connects the Grace CPU and Hopper GPU over a high-speed 900GB/sec coherent chip-to ..."
     publishedDateTime: 2023-03-21T23:22:00Z
@@ -148,6 +132,34 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2023/03/jensen-huang-1500-800.jpg"
         width: 1500
         height: 800
+        isCached: true
+  - title: "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank"
+    excerpt: "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ..."
+    publishedDateTime: 2023-03-22T14:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 506
+        isCached: true
+  - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
+    excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T14:55:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
+        width: 2560
+        height: 1600
         isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
@@ -238,6 +250,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
         width: 600
         height: 318
+        isCached: true
+  - title: "Nvidia, Google Join Hands To Launch AI Hardware Virtual Machines"
+    excerpt: "At its annual GPU Technology Conference, chip maker Nvidia announced its partnership with Google Cloud, which will be"
+    publishedDateTime: 2023-03-22T15:22:00Z
+    webUrl: "https://menafn.com/1105835259/Nvidia-Google-Join-Hands-To-Launch-AI-Hardware-Virtual-Machines"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+        width: 333
+        height: 250
         isCached: true
   - title: "Nvidia GTC puts focus on generative AI"
     excerpt: "Nvidia is showcasing its latest technologies and breakthroughs in a variety of areas, including AI and the metaverse, particularly generative AI, at its ongoing GPU Technology Conference (GTC)."

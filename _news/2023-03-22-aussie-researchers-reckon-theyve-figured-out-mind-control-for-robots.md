@@ -28,21 +28,14 @@ images:
 
 related:
   - title: "Mind-control robots could be a reality: Research"
-    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. The advanced brain-computer interface was developed by Distinguished Professor Chin-Teng Lin and Professor Francesca Iacopi,"
-    publishedDateTime: 2023-03-22T10:44:00Z
-    webUrl: "https://theprint.in/tech/mind-control-robots-could-be-a-reality-research/1463842/"
-    ampWebUrl: "https://theprint.in/tech/mind-control-robots-could-be-a-reality-research/1463842/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/mind-control-robots-could-be-a-reality-research/1463842/?amp"
+    excerpt: "Researchers from the University of Technology Sydney UTS have developed biosensor technology that will allow you to operate devices such as robots and machin"
+    publishedDateTime: 2023-03-22T13:16:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273657219/mind-control-robots-could-be-a-reality-research"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230322094004.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
 
 secured: "JLWN0x1Ow96f2sHXrEOXiLzJ7txUkXqx97EAlDSQKNRWI6sX+yg9tZS8d0nApm2oBINsSnLwQmBf/qI0dTH1MZ+FKojgiCQf03u3lDwkoJys/FI/x1ohet6fqVkEcAWkbyz5YswC9q8KHj5bSdSmLgs1Pi/pRkUjOfYjdAo9dsMXCEuyYdBPxJfwoA5yYvo4yKrPi7VOqXXu+R0PDk9rZoXwlUC389T37eDLAaaxSH+rLOg0L0Oj3pIAa1LLAXhJjqnD4pgfCslEc6ooOPpoS+DArfN+TTzZghrYnbSomfTLmqGsUFwv5tEBy+G2o2wSJNqVDRpuUCTTIGs8hy+5ETXm1SIPUdMkL8q7absfEp0=;d9g6AFlmcxqHcr9A7pc/Ag=="
 ---

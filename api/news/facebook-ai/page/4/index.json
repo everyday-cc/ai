@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-21-why-does-ai-art-look-like-a-70s-prog-rock-album-cover.md",
+      "title": "Why Does AI Art Look Like a ’70s Prog-Rock Album Cover?",
+      "excerpt": "Like a 1970s prog rock album cover” is a perfectly pithy way to convey what this new generative AI art scene frequently mimics. Allen’s winning entry resembles a French neoclassical painting with a sci-fi twist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/",
+      "originalUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c8932c1628debb3e3ed5fe/master/pass/collage-02.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/generative-ai-style-movement-throwback/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-style-movement-throwback/amp",
+      "publishedDateTime": "2023-01-20T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-chatgpt-stole-your-work-so-what-are-you-going-to-do.md",
       "title": "ChatGPT Stole Your Work. So What Are You Going to Do?",
       "excerpt": "This is true for search engines like Google, social media sites like Instagram, AI research startups like OpenAI, and many other providers of intelligent technologies. This exploitative dynamic ...",
@@ -1370,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook.md",
-      "title": "New Concerns That Artificial Intelligence Spreads Misinformation On Facebook",
-      "excerpt": "Of particular concern is how Facebook uses artificial intelligence - or A.I. for short - and how the technology may be helping spread misinformation online. Reporter Karen Hao has a new article about this at MIT Technology Review, \"How Facebook Got ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
-      "originalUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/6a83703/2147483647/strip/true/crop/800x400+0+0/resize/800x400!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fzuckerberg3_ap_18100671532419_websize.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

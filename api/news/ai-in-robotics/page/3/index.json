@@ -2,41 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-03-figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot.md",
       "title": "Figure emerges from stealth with the first images of its humanoid robot",
       "excerpt": "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot.",
@@ -1337,6 +1302,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
+      "title": "Inside the Studio With an AI-Guided Painting Robot",
+      "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6256108/artificial-intelligence-artist/",
+      "originalUrl": "https://time.com/6256108/artificial-intelligence-artist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

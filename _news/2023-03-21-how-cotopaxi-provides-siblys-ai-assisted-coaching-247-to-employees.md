@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-
 ampWebUrl: "https://www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/03/20/how-cotopaxi-provides-siblys-ai-assisted-coaching-247-to-employees/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6418aa25d8af1ba8f24b289a/0x0.jpg?format=jpg&width=1200"
