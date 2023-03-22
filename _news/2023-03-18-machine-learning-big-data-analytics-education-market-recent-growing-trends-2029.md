@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Marketing Market 2023 | Global Industry Report Forecast 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Marketing Market” Size 2023 Key players Profiled in the Report are [Baidu, Xilinx, Oculus360, Facebook, Amazon, IBM, Oracle, Insidesales, Samsung Electronics ..."
-    publishedDateTime: 2023-03-17T06:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-2023-global-industry-report-forecast-2029-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market [2023-2029] | Booming Industry | Latest Report with Top Countries Data"
     excerpt: "Mar 17, 2023 (The Expresswire) -- [123 Pages] Top \"Artificial Intelligence (AI) in Education Market\" Research Report offers valuable insights on Latest Industry Trends, Rising Investments, Top Key Players (ALEKS, Microsoft, AWS, Knewton, Cognii ..."
     publishedDateTime: 2023-03-18T04:09:00Z

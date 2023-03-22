@@ -36,22 +36,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Amazon sued for not telling New York store customers about facial recognition"
-    excerpt: "Amazon did not alert its New York City customers that they were being monitored by facial recognition technology, a lawsuit filed Thursday alleges. In a class-action suit, lawyers for Alfredo ..."
-    publishedDateTime: 2023-03-17T06:49:00Z
-    webUrl: "https://www.cnbc.com/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105958798-1560196431438gettyimages-1147596838.jpeg?v=1678989114"
-        width: 6720
-        height: 4480
-        isCached: true
   - title: "Facial recognition technology used at New York supermarkets raises some questions about privacy"
     excerpt: "NEW YORK -- When you're grocery shopping, you may not realize what's being caught on camera. Some supermarkets are using facial recognition technology to catch thieves, but there are questions about privacy. On the front door of four Fairway supermarket ..."
     publishedDateTime: 2023-03-18T03:47:00Z

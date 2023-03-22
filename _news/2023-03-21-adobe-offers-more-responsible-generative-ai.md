@@ -25,77 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team."
-    publishedDateTime: 2023-03-19T11:52:00Z
-    webUrl: "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
-    ampWebUrl: "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
+  - title: "Generative AI Makes Headway in Healthcare"
+    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
+    publishedDateTime: 2023-03-21T22:42:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 61
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
+      - url: "https://images.wsj.net/im-748228/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
-    publishedDateTime: 2023-03-20T17:14:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+  - title: "Artificial Intelligence in Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand"
+    publishedDateTime: 2023-03-20T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-industry-report-2027-2023-03-20"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
-        width: 600
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "There is a persistent tension between financial valuation and moral values in the tech industry. Responsible innovation initiatives were established to massage these tensions, but recently, such efforts are being swept aside."
-    publishedDateTime: 2023-03-20T08:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/articleshow/98804356.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/amp_articleshow/98804356.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/amp_articleshow/98804356.cms"
+  - title: "PGI to help make cutting edge AI-based healthcare tools"
+    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
+    publishedDateTime: 2023-03-20T01:54:00Z
+    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 54
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71074,msid-98804411/telcos-deploying-artificial-intelligence-to-reduce-subscriber-churn.jpg"
-        width: 600
-        height: 450
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
+        width: 660
+        height: 402
         isCached: true
-  - title: "Don’t overlook independence in Responsible AI"
-    excerpt: "In this contributed article, Dr Stuart Battersby, Chief Technology Officer of Chatterbox Labs, has the aim to raise awareness of a key issue in the field of Responsible AI (aka Ethical AI or Trustworthy AI),"
-    publishedDateTime: 2023-03-17T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/17/dont-overlook-independence-in-responsible-ai/"
+  - title: "Indian firms use AI-ML to tap US healthcare market"
+    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
+    publishedDateTime: 2023-03-21T13:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 41
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 51
+  - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
+    excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
+    publishedDateTime: 2023-03-20T20:11:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2019/03/Artificial_intelligence_safe_5.jpg"
-        width: 300
-        height: 225
+      - url: "https://assets.medpagetoday.net/media/images/103xxx/103616.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
-    excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
-    publishedDateTime: 2023-03-21T19:34:00Z
-    webUrl: "https://www.itworldcanada.com/article/the-urgent-need-for-better-governance-of-artificial-intelligence-highlighted-in-a-new-book-by-mila-and-unesco/533992"
+  - title: "Five things marketers should know about generative AI in advertising"
+    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
+    publishedDateTime: 2023-03-19T13:04:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 0
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Apple’s silence on generative AI grows louder"
+    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
+    publishedDateTime: 2023-03-21T03:59:00Z
+    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "9ZZ+15mOzOyMILpFdwJPYuISguFIxmAnSugerSelEUQJQRI76/FXIvqHszNGiwWnhmf1mV8/s4HBW13GIklUEvuhfrLhGKUVF5Vj4nxsHMFOb69EIWvls0lURfCKxvb73KvDL4hJFcaMxmcgDn1QB73U+j71ANCeDQtRsxHujYfSUZIczTAXYG/OnVz9mobmNInBK7W278NSUswsfSdBsY95/GkmtuIVgXECmBcX/VswCzCT5nezYoe2jO+10oIdCOTet4aVU3aEPTq7ljgV4psOWZ6M11XauRqyl6E8qTEN5mYNL9i9V33rxk7CWotDH1SpuRxsQHTmHVEbn+n0sUnANwc9KZQB7SJ+LUKsQWM=;aqDmYQ8WWUIBgSGiZmHtbw=="
 ---

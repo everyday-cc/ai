@@ -63,15 +63,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Adobe launches generative AI tools aimed at marketers"
-    excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."
-    publishedDateTime: 2023-03-21T18:11:00Z
-    webUrl: "https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
     excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
     publishedDateTime: 2023-03-21T15:23:00Z
@@ -95,15 +86,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
-  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
-    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
-    publishedDateTime: 2023-03-21T15:32:00Z
-    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 15
 
 secured: "aZaR4rIIKxt5chECS3gRV2yxoG0UuqdNKD7Q3YQkgErLv6+lbnLSIK0qHOpC8fTJTs7AYTRIQTB4kerMSSg2CMCEVbFPjxVkAkA5uZ7mHXsGvXMk0X+eL2GJ2v4uHgNKKakGmSR402AqpLfjY4QZI26KtJ3WXEwzb1+DD5B9g8rb2FOnKplhMbxzCFCqTCvno3Eki7hYy/1JSTS4iCzHJNa7Mq2Xm8iJ/DbgywDR9PaDorInQviAgCQLPXw8C0H5TW+QMYtpbl8FeuqL2i9Kf1d9Sin7ExiGAfDEnwRU+ZUZ8ajcfz46ctsu6cv83nqEUG4sFk0CFqv/DbELNle//CvY3k9h+KxGZ6rmrqBpWXA=;7s+RNmaxunT7CMM46VwiCA=="
 ---

@@ -87,20 +87,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "5 Dominating Speech AI Startups To Watch In 2023"
-    excerpt: "Deepgram's speech AI platform is designed for enterprise customers, offering advanced speech recognition, natural language processing, and data analytics. Deepgram utilizes audio-based analysis to include intonation and inflection in sentiment analysis ..."
-    publishedDateTime: 2023-03-17T07:00:00Z
-    webUrl: "https://www.ibtimes.com/5-dominating-speech-ai-startups-watch-2023-3677895"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.com/en/full/4433582/speech-ai.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "2D Animation Software Market | Evolving Role Of AI And Machine Learning To Be A Major Trend (2023-2033)"
     excerpt: "2D animation software is a digital tool that allows artists and designers to create two-dimensional animations for various applications, such as entertainment, advertising, gaming, and e-learning. Which region is the largest market for 2D animation software?"
     publishedDateTime: 2023-03-17T09:00:00Z

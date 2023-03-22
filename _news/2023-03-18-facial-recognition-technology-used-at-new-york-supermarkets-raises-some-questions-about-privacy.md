@@ -43,22 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Amazon sued for not telling New York store customers about facial recognition"
-    excerpt: "Amazon did not alert its New York City customers that they were being monitored by facial recognition technology, a lawsuit filed Thursday alleges. In a class-action suit, lawyers for Alfredo ..."
-    publishedDateTime: 2023-03-17T06:49:00Z
-    webUrl: "https://www.cnbc.com/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105958798-1560196431438gettyimages-1147596838.jpeg?v=1678989114"
-        width: 6720
-        height: 4480
-        isCached: true
   - title: "Amazon sued for using facial recognition on New Yorkers without permission"
     excerpt: "FOX 5 New York's Tashanea Whitlow reports. MANHATTAN - A class-action lawsuit was filed against Amazon on Thursday, claiming that the company did not inform its customers that it was using facial recognition technology at its NYC locations."
     publishedDateTime: 2023-03-17T16:26:00Z

@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
+    excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
+    publishedDateTime: 2023-03-21T21:54:00Z
+    webUrl: "https://www.techspot.com/news/98023-microsoft-adobe-reveal-their-new-ai-image-generators.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 77
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-37.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Inside The Infrastructure That Microsoft Builds To Run AI"
     excerpt: "Key to all of this is getting the right supercomputing infrastructure into the field, and that job falls on Nidhi Chappell, general manager of Azure HPC and AI at Microsoft. Chappell’s team takes on all of the workload optimized compute, storage ..."
     publishedDateTime: 2023-03-21T14:38:00Z
@@ -218,6 +232,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 71
+  - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
+    excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
+    publishedDateTime: 2023-03-21T23:26:00Z
+    webUrl: "https://redmondmag.com/articles/2023/03/21/microsoft-previews-gpt-4-ai-model-on-azure-openai-service.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 69
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
     publishedDateTime: 2023-03-21T09:12:00Z
@@ -418,6 +446,20 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
+    excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
+    publishedDateTime: 2023-03-21T22:12:00Z
+    webUrl: "https://www.channelnewsasia.com/business/biotech-ai-startup-unlearn-adds-15-million-and-openai-cto-board-3362966"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
     publishedDateTime: 2023-03-21T09:56:00Z
@@ -478,6 +520,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "D2gSQW2g3kkUZ+eRrMk7PQrZejNyrRfKGh32H0EMjCBGa6lM63ydTtDEkOXmjnc3w/pFA/hDHUcsVnSA+8/3OJ3V5R4OGUqbICVn9AZ7JYZpuj6ruXnMuGIUGugbY86LG0cMfZ7A9+M7w47WneYOrgX3OoX7bZbvFaOoJ6Vxx76wOzROjjMq4XOiFPRPaTOgae8JFnEAMQHAKH/ERNK/aj3ISpPvsU/GQnprdQEf2U6j8CE695+EqULFB9BynDf9+mwCS2P6lG59wNff862Yf/IS6BfQq/2BaQMG4FmYz3dytBs3+HbRejWbKMxCQFUWBQ2hM4I1VN0BVBe0Hhm8fpy0bIYrTRTINl7DSgsUwPE=;xkcmUTY5aPXFv2FntQtOaQ=="
+secured: "jEAHkp0B3i2rewpAe0U7MeEQ/coqLOQBTJ633vD24tEd5m08f0ahhS9TGgBukXhJadlmvtTkXUNm9DFjdFrnQPrEfdFlW5tX1e2KXtc9xql3jQ7qjs6B1VMsHVeU2mKpM1MQRQ/Po2/M3UuwsCmOEOlUAq6d/qaoSMnDWwi7eI6dgiwIJELUo66eZnW+6goDmQpwpeM8/XI8J/4Tw7G0W7sMVo2kH6vllXZ5LT8mZ7EWk5etgXQIF52zv+uLFmp/rtew9cV/ZfllKQuKkz4UKacY3QQmOYTqpfrqWQe6vGtZaM/GhhKByYCBn0JmuS1ta7UsNQvmSYAoJLLyM5fPntKV33TOnXQIm7a67i+TeM5cuyfPDVnZTd5SeVY2C2MTuvKmZcZQzaRdMHIfFa8D/L8UletN1q52rqEx+ifi4ENGmCzvcscVRj3ZCPG3k8wZY+yaMTPin8wqoTOvlSd+A8msAydRTowwxjyByD1++kaD0lilEDTTeHCg6Hq/fwUXZYdloI3KAzsmeo+sjOy+lA==;5wSVh34KIiz6vEd0bAtlow=="
 ---
 

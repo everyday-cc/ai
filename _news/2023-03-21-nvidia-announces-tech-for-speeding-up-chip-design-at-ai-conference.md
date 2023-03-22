@@ -71,6 +71,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "As Nvidia pushes to democratize AI, here’s everything it announced at GTC 2023"
+    excerpt: "This includes Nvidia L4 for producing AI video; Nvidia L40 for 2D/3D image generation; Nvidia H100 NVL for deploying large language models; and Nvidia Grace Hopper — which connects the Grace CPU and Hopper GPU over a high-speed 900GB/sec coherent chip-to ..."
+    publishedDateTime: 2023-03-21T23:22:00Z
+    webUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv-e1679423776142.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NVIDIA Eases The Complexity Of Robot Training"
     excerpt: "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI)."
     publishedDateTime: 2023-03-21T20:01:00Z
@@ -132,6 +148,36 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/canvaspanorama000A.jpg"
         width: 1420
         height: 946
+        isCached: true
+  - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
+    excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
+    publishedDateTime: 2023-03-21T22:19:00Z
+    webUrl: "https://www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/"
+    ampWebUrl: "https://www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/nvidia-h100-nvl-jensen-huang.jpg"
+        width: 860
+        height: 491
+        isCached: true
+  - title: "Nvidia announces tech for speeding up chip design at AI conference"
+    excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."
+    publishedDateTime: 2023-03-21T22:03:00Z
+    webUrl: "https://www.channelnewsasia.com/business/nvidia-pairs-oracle-other-cloud-providers-spread-ai-technology-3362941"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--5ZK58jwp--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-21t212558z_2_lynxmpej2k0n5_rtroptp_3_usa-china-huawei-nvidia.jpg?itok=FRNPZyd1"
+        width: 1200
+        height: 676
         isCached: true
   - title: "As GTC kicks into high gear, Nvidia reportedly boosts orders for AI chips"
     excerpt: "Analyst Tristan Gerra noted that the company's Hopper chips are likely to benefit from the growth of ... Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of the most significant developments in technology ..."

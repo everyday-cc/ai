@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-ho
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
         width: 868
         height: 489
+        isCached: true
+  - title: "Google releases Bard, a competitor to ChatGPT, Claude and Bing Chat"
+    excerpt: "The new chatbot aims to emulate human-like conversations by utilizing natural language processing and machine learning to generate realistic and helpful responses to user queries. >>Follow VentureBeat’s ongoing generative AI coverage<< In its surprise ..."
+    publishedDateTime: 2023-03-21T23:07:00Z
+    webUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/"
+    ampWebUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/4249731778_596657ac94_k.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Unlock the Potential of ChatGPT Plus Now Available in India"
     excerpt: "A model that can engage people in talks that sound natural was provided by the first ChatGPT, a milestone in natural language processing. The model’s modular architecture makes it possible to grasp the conversation’s context and give suitable and ..."

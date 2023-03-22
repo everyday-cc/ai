@@ -75,6 +75,22 @@ related:
         width: 868
         height: 489
         isCached: true
+  - title: "Google releases Bard, a competitor to ChatGPT, Claude and Bing Chat"
+    excerpt: "The new chatbot aims to emulate human-like conversations by utilizing natural language processing and machine learning to generate realistic and helpful responses to user queries. >>Follow VentureBeat’s ongoing generative AI coverage<< In its surprise ..."
+    publishedDateTime: 2023-03-21T23:07:00Z
+    webUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/"
+    ampWebUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/4249731778_596657ac94_k.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
     excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
     publishedDateTime: 2023-03-19T03:44:00Z

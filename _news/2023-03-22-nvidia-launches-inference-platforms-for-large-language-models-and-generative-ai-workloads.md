@@ -19,120 +19,253 @@ topics:
   - AI
 
 related:
-  - title: "For AI's 'iPhone moment' in ChatGPT, Nvidia unveils a large language model chip"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-21T16:26:00Z
-    webUrl: "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
+  - title: "NVIDIA Launches New GPUs And Services for Generative AI Inferencing"
+    excerpt: "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ..."
+    publishedDateTime: 2023-03-21T22:45:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641a1edc5df0ce1a2b4b2898/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 638
+        isCached: true
+  - title: "Nvidia unleashes H100, its fastest AI GPU yet, across clouds and vendors"
+    excerpt: "Nvidia’s H100 Hopper GPUs, revolutionizing AI with unprecedented speed and power, are now widely available to customers."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_Nvidia_hopper_H100_032123.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
-    excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moves-ai-pioneers-reputation-management-engine-for-chatgpt-and-other-chatbots-1032178939"
+  - title: "Nvidia’s Next-Gen AI Chips Are Coming to AWS and Google Cloud"
+    excerpt: "Nvidia Corp. introduced new chips, supercomputing services and a raft of high-profile partnerships Tuesday intended to showcase how its technology will fuel the next wave of AI breakthroughs. At the chipmaker’s annual developer conference on Tuesday ..."
+    publishedDateTime: 2023-03-21T16:48:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-21/nvidia-s-next-gen-ai-chips-are-coming-to-aws-and-google-cloud"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 101
     images:
-      - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
-        width: 400
-        height: 400
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i76hGZHSdhqU/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Apple dives into the AI language generation game with new experiments in the ChatGPT era"
-    excerpt: "The company has been known to be developing advanced AI capabilities for several years now, and it appears that they have taken a keen interest in natural language processing (NLP) and generation. ALSO READ: WhatsApp iOS users may now add voice notes on ..."
-    publishedDateTime: 2023-03-17T11:17:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-dives-into-the-ai-language-generation-game-with-new-experiments-in-the-chatgpt-era-2023-03-17-855375"
+  - title: "Nvidia accelerates vision AI with Metropolis and related updates"
+    excerpt: "This provides the ability to deploy models on any platform with standard ONNX export, automatic hyperparameter tuning with automated machine learning (AutoML), and AI-assisted data annotation. “TAO doesn’t generate any code but supports “bring your ..."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-accelerates-vision-ai-with-metropolis-and-related-updates/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidia-accelerates-vision-ai-with-metropolis-and-related-updates/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-accelerates-vision-ai-with-metropolis-and-related-updates/amp/"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 50
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/apple-privacy-1679051760.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1208578020.jpg?w=1200&strip=all"
+        width: 1200
+        height: 666
+        isCached: true
+  - title: "Nvidia partners with Google Cloud to launch AI-focused hardware instances"
+    excerpt: "Nvidia has partnered with Google Cloud to launch new hardware instances designed to accelerate certain AI applications."
+    publishedDateTime: 2023-03-21T16:58:00Z
+    webUrl: "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/"
+    ampWebUrl: "https://techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/nvidia-partners-with-google-cloud-to-launch-ai-focused-hardware-instances/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 90
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-957037038-nvidia.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia launches new cloud services and partnerships to train generative AI"
+    excerpt: "At its annual GPU Technology Conference, Nvidia announced a set of cloud services designed to help businesses build and run generative AI models trained on custom data and created for “domain-specific tasks,” like writing ad copy. Under the brand ..."
+    publishedDateTime: 2023-03-21T15:43:00Z
+    webUrl: "https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/nvidia-launches-new-cloud-services-and-partnerships-to-train-generative-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-957037018.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Departing Intel exec to focus on loosening Nvidia's grip on AI for movies, games"
+    excerpt: "REUTERS/Arnd Wiegmann March 21 (Reuters) - Raja Koduri, the chief architect at Intel Corp (INTC.O), is leaving to start a company that aims to loosen ... lets movie and game artists easily use those AI tools whether they are using a PC, Mac, iPad or ..."
+    publishedDateTime: 2023-03-21T20:51:00Z
+    webUrl: "https://www.reuters.com/article/intel-koduri/departing-intel-exec-to-focus-on-loosening-nvidias-grip-on-ai-for-movies-games-idUSKBN2VN1K0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
+    images:
+      - url: "https://www.reuters.com/resizer/oql1qx6qSkUFdLNmTd5ZvyA3C8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SIVMUZZFKJIMROCY63625TDJLE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Oracle ties up with Nvidia to offer AI supercomputing service"
+    excerpt: "A new AI supercomputing service, dubbed Nvidia DGX Cloud, has been made generally available on Oracle Cloud Infrastructure’s Supercluster."
+    publishedDateTime: 2023-03-21T20:14:00Z
+    webUrl: "https://www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.html"
+    ampWebUrl: "https://www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/10/16/datacenter-1280x1280-3-100915910-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
-    excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
-    publishedDateTime: 2023-03-21T17:06:00Z
-    webUrl: "https://www.pcgamer.com/nvidia-says-its-new-ai-tools-are-like-a-chip-foundry-for-large-language-models/"
+  - title: "Nvidia unleashes its next-generation GPUs, DPUs and AI accelerators"
+    excerpt: "AWS, along with Google Cloud, are expected to provide access soon. Besides the H100 GPU, Nvidia also unveiled some additional hardware that’s geared for specialized AI tasks. The Nvidia L4 (below) is a single-slot and low-profile accelerator for AI ..."
+    publishedDateTime: 2023-03-21T16:19:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/gtc-2023-nvidia-unleashes-next-gen-gpus-dpus-ai-accelerators/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 50
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ywgm9iiEbiRLgBTEuMzYcZ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIAH100SXMImage_dad9ab8b-4a38-4ef0-a155-f38bdc405608-prv.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
-    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
+  - title: "Nvidia set to unveil new AI chips and technologies at annual conference"
+    excerpt: "Nvidia set to unveil new AI chips and technologies at annual conference - Chief Executive Jensen Huang is presumed to disclose new artificial intelligence chips and technologies at"
+    publishedDateTime: 2023-03-21T11:57:00Z
+    webUrl: "https://www.siliconindia.com/news/general/nvidia-set-to-unveil-new-ai-chips-and-technologies-at-annual-conference-nid-221797-cid-1.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 42
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.siliconindia.com/news/newsimages/xTdG259V.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "UAE-owned AI language model outperforms ChatGPT"
-    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
-    publishedDateTime: 2023-03-20T08:45:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
+  - title: "Nvidia shows off AI push with new platforms, GPUs, partnerships"
+    excerpt: "the L 40 GPU, a new H100NVL and the new Grace Hopper CPU, which according to the company, doubles the performance over x86 CPUs on \"mainstream\" applications. Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of ..."
+    publishedDateTime: 2023-03-21T15:40:00Z
+    webUrl: "https://seekingalpha.com/news/3949489-nvidia-gtc-2023-gpu-giant-shows-off-quantum-computing-gpus"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
     images:
-      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
-  - title: "ChatGPT AI now more powerful"
-    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
-    publishedDateTime: 2023-03-20T15:01:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
+  - title: "Adobe launches generative AI tools aimed at marketers"
+    excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."
+    publishedDateTime: 2023-03-21T18:11:00Z
+    webUrl: "https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
-  - title: "'The iPhone Moment For AI\" And Nvidia Is Taking Control Of It"
-    excerpt: "He said generative AI's ability to automate and co-create makes it set to ... Microsoft and Nvidia are bringing Omniverse to hundreds of millions of Microsoft 365 and Azure users, enabling developers to speed up and scale up to solve previously impossible ..."
-    publishedDateTime: 2023-03-21T17:49:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/03/31443447/the-iphone-moment-for-ai-and-nvidia-is-taking-control-of-it"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "Nvidia unveils DGX Cloud platform and AI foundation models for generative AI training"
+    excerpt: "Microsoft Azure will also host the Nvidia DGX Cloud platform from the ... said it has combined DGX Cloud with Nvidia’s BioNeMo large language model and Nvidia AI Enterprise software to accelerate drug discovery. “With Nvidia DGX Cloud and Nvidia ..."
+    publishedDateTime: 2023-03-21T15:50:00Z
+    webUrl: "https://siliconangle.com/2023/03/21/nvidia-unveils-dgx-cloud-platform-generative-ai-training/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/NVIDIA-DGX-Cloud-Image.jpg"
+        width: 1260
+        height: 680
+        isCached: true
+  - title: "Milvus 2.3 Massively Accelerates AI-Powered Applications With NVIDIA GPU Support"
+    excerpt: "Purpose-built for AI-powered applications, Milvus stores, indexes and manages billions of embedding vectors generated by large language models (LLMs), convolutional networks and other machine learning (ML) models."
+    publishedDateTime: 2023-03-21T21:00:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780939.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 29
+  - title: "NVIDIA Hopper GPUs Expand Reach as Demand for AI Grows"
+    excerpt: "NVIDIA H100 GPUs Now Being Offered by Cloud Giants to Meet Surging Demand for Generative AI Training and Inference; Meta, OpenAI, Stability AI to Leverage H100 for Next Wave of AI SANTA CLARA, Calif.,"
+    publishedDateTime: 2023-03-21T18:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780848.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 19
-  - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
-    publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+  - title: "Lilbits: AI everywhere, aCropalypse and the Windows Snipping Tool, and NVIDIA’s new GPUs for mobile workstations"
+    excerpt: "After spending 5 years as the head of Intel’s graphics department (spearheading the company’s drive into discrete GPUs) Raja Koduri is stepping down to launch a generative AI startup. Koduri was previously at AMD and spent 4 years stint at Apple."
+    publishedDateTime: 2023-03-21T23:04:00Z
+    webUrl: "https://liliputing.com/lilbits-ai-everywhere-acropalypse-and-the-windows-snipping-tool-and-nvidias-new-gpus-for-mobile-workstations/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Liliputing
+      domain: liliputing.com
+    quality: 16
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2023/03/firefly-beta.jpg"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
+    excerpt: "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
+    publishedDateTime: 2023-03-21T23:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780952.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
+    publishedDateTime: 2023-03-21T15:32:00Z
+    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 15
+  - title: "Crystal Group's rugged hardware with latest NVIDIA GPU brings extreme performance upgrades for AI at the edge"
+    excerpt: "The NVIDIA L4 GPU replaces its predecessor-the NVIDIA T4-and incorporates a wide array of updates, like improved performance for artificial intelligence (AI) and machine learning operations. Other benefits of the NVIDIA L4 GPU include: Compact and versatile in size,"
+    publishedDateTime: 2023-03-21T20:14:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780933.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
   - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
     excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"

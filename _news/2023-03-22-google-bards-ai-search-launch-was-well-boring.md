@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Google’s catch-up game on AI continues with Bard launch"
+    excerpt: "Other AI leaders, like Meta’s chief artificial intelligence scientist Yann LeCun, have said tools released by the bigger tech companies have appeared to be less interesting and capable than ones released by smaller start-ups because they have more ..."
+    publishedDateTime: 2023-03-21T19:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/21/googles-catch-up-game-on-ai-continues-with-bard-la/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+
 secured: "JeGXpFA9uSRO81OKf2/qxqkk8FHkMD13RQhm60lDcbWUH2KtGRGHOoyqst+2X8/quPKQztTgUSj1X3T5Cxee9pk3DgtNfsa4Q9/pdjP5vsCYJNgwOJOrij3sa6Czmv19O0KYqAaC7CgVdo11/jKtezvGrnbpAYNz1zGAs30e3nNJQkiPMd7wC8TOEij+1tb6W4lK+EerEDbCIyLZ2Ggwqi5+I6imTXDRXznnKcQAWUw7l451Fv716YlIisPlJjm3qLeXL2Hd0ZTlWyWmoPvwNlMRhVpjsQOSmEtTh9mTHzYC0Zc8ewIFkwTAnUXHJIsEL/22rdsv1kqNvh/LSAypeG+mZsuFhRgv2Z96fA5AbCLaBzZvgMNcopPj3DyJ464lGdLMFFmOffVpQVgJUYXtXLVOKQuR+um/8mSqU+zmEKhsFg+aljmq3YVihkSdBFMCWLcG6GjQzeAgclvy6y0jFYhKv2xCUNdB60/jS3QMkxw4TQxX9lB0BnpdZkjpyM7zbr/C8k81iS5rwupgU70PQw==;sdJ1e/bkibXvl/n7SSxTSg=="
 ---
 

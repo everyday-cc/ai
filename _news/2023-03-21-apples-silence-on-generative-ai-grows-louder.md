@@ -18,42 +18,85 @@ topics:
   - AI
 
 related:
-  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
-    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
+  - title: "Generative AI Makes Headway in Healthcare"
+    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
+    publishedDateTime: 2023-03-21T22:42:00Z
+    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
-  - title: "Adobe Experience Manager Adds AI-Powered Content Insights, No-Code Website Editing"
-    excerpt: "New AI-powered and no-code features coming to Adobe Experience Manager (AEM) will enable marketers to create personalized content at scale with greater effectiveness."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/21/adobe-experience-manager-adds-ai-powered-content-insights-no-code-website-editing/"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-748228/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "Recent report published by research nester titled \"Global Artificial Intelligence in Healthcare Market: Demand"
+    publishedDateTime: 2023-03-20T09:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-industry-report-2027-2023-03-20"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "Adobe is bringing generative AI features to Photoshop, After Effects and Premiere Pro"
-    excerpt: "Firefly, as Adobe is calling the new system, is actually a family of generative AI models, the first of which is trained to work its magic on both images and font effects."
-    publishedDateTime: 2023-03-21T13:58:00Z
-    webUrl: "https://www.engadget.com/adobe-is-bringing-generative-ai-features-to-photoshop-after-effects-and-premiere-pro-130034491.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PGI to help make cutting edge AI-based healthcare tools"
+    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
+    publishedDateTime: 2023-03-20T01:54:00Z
+    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 40
-  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
-    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
-    publishedDateTime: 2023-03-21T13:03:00Z
-    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 54
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
+        width: 660
+        height: 402
+        isCached: true
+  - title: "Indian firms use AI-ML to tap US healthcare market"
+    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
+    publishedDateTime: 2023-03-21T13:40:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
     type: article
     provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 21
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 51
+  - title: "Adobe Offers More Responsible Generative AI"
+    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
+    publishedDateTime: 2023-03-21T14:27:00Z
+    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
+    excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
+    publishedDateTime: 2023-03-20T20:11:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 39
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/103xxx/103616.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z
@@ -63,15 +106,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "High-Tech Touchpoints Are Changing Customer Experience"
-    excerpt: "We see three opportunities for business leaders who want to enhance their companies’ CX and drive greater satisfaction. First, focus on frictionless commerce. Second, consider augmented experiences. Finally,"
-    publishedDateTime: 2023-03-20T12:26:00Z
-    webUrl: "https://hbr.org/2023/03/high-tech-touchpoints-are-changing-customer-experience"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 4
 
 secured: "bS4UHTdlT8nWJlsFawHq8TXSJJHxDB83bBGJEmSMIhTpsLVOMw+WPnxGs0jIdT8so+o62prR2nPUOhBufl6BjrEdPP0MMeZuzN/NHGdS6c6rTrkhA2Lmwmoa/DLLMspKzRtamHV3NGkWJFG/yHAS7WDeMBXiinz58yOkNAR78DkF110Qj3S0NTaCj30c8dcvRz1OyrvkNU3y7LFYNrbDjGcP/nAbsuZxx7z2yJCBuAfiRJn+lFq1JfatXxUvHOr6RMwkxXrQK8sh/7ESbjw1hY7ti+PSFjw+pv413Gm8zydM0G+ApGGHbI88DwRglZFTzFGoQ8z6UHCONTpeODd1R2qsg+Ta47RgVknTKV23+18KYvIB5JUv00k2dET0pMwW3KfvET8BpHXbQHep/6Xa7zN9uJbdX8DjPSM7F/8lRM/c/WReZYFcqzEWPDcEbVq0264j+Zk5qK9n69ocZTBXjzGgGzSxauRNJLmPX5EfZn+dceuclEx8tS03MJW+nd1Bql5TuOgGO8/qnG2IEVkcCQ==;MgyfVv/BolGcKEildvaRfQ=="
 ---

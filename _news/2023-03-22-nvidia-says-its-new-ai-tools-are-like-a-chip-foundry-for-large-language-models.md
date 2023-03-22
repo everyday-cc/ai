@@ -126,24 +126,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 15
-  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
-    excerpt: "NVIDIA today launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-21T18:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-inference-platforms-large-language-models-generative-/2023/03/21/9780846.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-  - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
-    excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"
-    publishedDateTime: 2023-03-21T19:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780845.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "7NDSZ8n83WrpYAZUlMDzrGItoIPfOzwImvqOf1d4bUSgwc/W6jd89oBXseEesJsRH6JzNRVw1NL/kgONf+nmxjprfZExtL0dRBpHNKr7RqcCvaRiBzFSND4x3T9Vh2JyaL+1nch1egJkE6DPgwJPrRUNgKcpWwa01tkzgw82sKiKoKgGXadkumn0SOHgZAWpi1uuXc3f0oEQFfYKo+QVr+z3tcawJ+oJ1kKIoK2/q8FZby0xHd6Ui7cy+3l/6PCaGAy73qP7fZInP+hFrJTCyOX2Qy8qfwNQ1G1Vu0TqIyodboZUzo9yBa1LFXGes2hTQ1REiehDg0G6c5SXgsy49CQx4QqxIvi8HaveJ0YPDQCbHCKdPTsUm8lDh9+gfnRvlw5xK7ChanM57AyR6SXywhqrymuxTBGZd0OCMIQotvGbH+lQHu7rxcTrQ5p8mScPBq50b0EoGBWtQ6ouJB82SoaPKHkVwupOS9rReoRJKvtiwJ9RtimEVUDOfIpoR69XzQcXd8ZTSfqN//H+0b9cHg==;J76GfyZbr1kQVjJxH1wN6A=="
 ---

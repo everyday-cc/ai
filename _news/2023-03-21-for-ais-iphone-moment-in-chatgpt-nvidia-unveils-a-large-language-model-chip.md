@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
 type: article
 quality: 102
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -131,24 +131,6 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 15
-  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
-    excerpt: "NVIDIA today launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
-    publishedDateTime: 2023-03-21T18:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-nvidia-launches-inference-platforms-large-language-models-generative-/2023/03/21/9780846.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-  - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
-    excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"
-    publishedDateTime: 2023-03-21T19:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780845.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "DnnofeNus57bsWxFOprf7fJLzXNguEZsUu1qtIZxmcYr95XLV+u6OjN8tzohh8vM8Q5VEAM8/KQGt4kGR+2pkOwoz5L10ik+sp4+oZVJg+TwtI49e3FS18CUZK6nQxixZPnaoW5MVfpP8g5Dl4ZZ/jFDN6ShPlF46SBzNSkuQrY7p28UtFQgiYXPZqm/sP24Dwi0BKLwfoJAS+im65/yXv5Onz9ffZmJ8sCCT9ydifr7/emle0V/yUm1Pe7m1Nwbv7LVQY6/bxMiQQbSI+mWLuFspzQh6KYNrn8Iw6DZNkTEMx6maY4Cya/O8vtZ9RLrd4LRR23BjLm3DhXth8ju4wkbdmmj6tihkZ1R0bYGPsGEYiSfWFCNNWS1Cea6uBEApCQuc9wDUetParY/iZX6eRc8xsCQe+pzGHQ6r2GbNig76foGWG4HoviYtH58FuZotTCsZJfR+BMA4v32G6PXjhh8aoKMzo/b5qbo8hZp3RzFggDBE+wA66DA5ZUqcUXFUGH9ON4ey+4h0kr/kcowag==;1Jdt/y4zr9njG1uBe5O3IQ=="
 ---

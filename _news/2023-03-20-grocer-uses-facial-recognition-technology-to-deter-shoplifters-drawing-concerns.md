@@ -43,22 +43,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Amazon sued for not telling New York store customers about facial recognition"
-    excerpt: "Amazon did not alert its New York City customers that they were being monitored by facial recognition technology, a lawsuit filed Thursday alleges. In a class-action suit, lawyers for Alfredo ..."
-    publishedDateTime: 2023-03-17T06:49:00Z
-    webUrl: "https://www.cnbc.com/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/16/amazon-sued-for-not-telling-new-york-store-customers-about-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105958798-1560196431438gettyimages-1147596838.jpeg?v=1678989114"
-        width: 6720
-        height: 4480
-        isCached: true
   - title: "Facial recognition technology used at New York supermarkets raises some questions about privacy"
     excerpt: "NEW YORK -- When you're grocery shopping, you may not realize what's being caught on camera. Some supermarkets are using facial recognition technology to catch thieves, but there are questions about privacy. On the front door of four Fairway supermarket ..."
     publishedDateTime: 2023-03-18T03:47:00Z
@@ -205,6 +189,6 @@ related:
       domain: abc7chicago.com
     quality: 16
 
-secured: "ROSAcCpO8DH55oIM8UIWKfMYsXD9yMiPVWAC3QZtpPSfCNJC4Val8HggGMAKWCY2V3lNXQgLAOCchJ89EAi8gCFsV1vBUIsMwa3AnyVnn+o0Zcj/RAtK7438HzmIAn6lZMOEKUt5YYdiayOm1tL/Au58rAjqLlyI0ZO8QE5Q9NUq7FtKIpcs1bo4jUW3P5+IOvhnDCZ7iJdPMC8umrLLW86zV/R9fv5EoHbvf+wy09GM7gq7mHBm2AHMq5lYMoYezMOuHcUdd3sqF1ZkvyZC9em/PUw1Wsrz0Fj0EB7f0cbE9E1Vt//aTfC7R3AluT4eZvcFGsfaVrVXUy95UqlYwi9wqXWAurdjW4AzERe0Ptg=;9GwkApOipdZy8F61xezo9w=="
+secured: "kSeSHLDvb5Hs6QR6x1pYsa5Cd6EJNq9XGsbs1cqekp5SKh/o/tyaKGUDOG/yscfl1KIA2tojW57ishUs51E32OJAjWlIhaqUY3CunKWeNEaCmBR+1vw0m5ww0Ju02txDax4DADSAITOM3qet6dX/CYx5WDehcc1h3r0q2U1ZDKyCwNIDy+qzVjx6nb6rxTYhFZ+y0WkbMZ77gpwkNXccDI33VlxYD7RshUExChGyoB5+iv56hqJMrzArh1BgohUy76huLjY1vphIp/qFlL2Em8mskcOjBxJr2zlhNCd3tf10uTM5oo6aMpxBwcYv3QTAmJtil7kPbNg49GRDwYat22iA52d8n5WVezocPXd2RKxzTavo4WduoejBHQlgqkf8O+g6aWhWQAumGXFaimhO1dw4BcmMwPh9T3OiHIW97kPJIsVlDPXl34arVIY36VnokvRkkfQQeXRcZcXgv+CUkXtldQA+MWpY3jjYX2ZIsJX/F9oHasuhWP6GWvn3Uf6eRzHmlX9oCAK0SDat8j+moA==;meWMo+ysz0zQQZFnmGqzFw=="
 ---
 

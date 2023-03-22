@@ -55,24 +55,6 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 21
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "gJzypdEC0/aCKyD/Qte4c1C5qwvEaWSKrvwH3nEOXlICq7Ug7bxLTgcitOA7JxiHirK3tjYE47qWvHrx7dEvsLL9OLuc46Hx7AfCtxHcNqclwnAMa8gSb0CnYDM+g+0cN4xn19lgf/4FfwyxDSeCY2q1M0AT7Nhjc/9OZQnKz9jGssR+e9k4EaHbnWDN6pwhnLgHs9V1IU/0K1wEB8YtpxRPDTGGvqXYCNAzifxaaXomi/cycmiTvKKCM/nUd6f6Ak9PzWbh1NE7DPQdLM02v4yPiESvahv7hLADjNDvedtU6WApSRC96Tf5cSSGmrPIfqw4gRD5F/ND9cVb3vqEqFclxQZ+VsKVnRNVjfgS3H1yesWMMmrHDlUp07vROwRtQA2r6JgTiJ5vVzM+uo/6xcIecSJ9+IynJxWwrQ7LklMj4PYye+OV7Ikg7/foAEiLzA97vjyZrpkXLo5kYJ70iBLClUKHxmtJf9QoXjLEEQKM/pYtUuGbJM+uAcqoALrGBm4cOFh/YnY06D9nqZxE2A==;Z8OUNVEOqtSQfZAt4BPIWA=="
 ---

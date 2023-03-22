@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-p
 webUrl: "https://www.reuters.com/business/autos-transportation/baidu-wins-permit-offer-driverless-robotaxi-service-beijing-city-2023-03-17/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 212
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu says it can now operate robotaxis in Beijing with no human staff inside"
-    excerpt: "Since the third quarter, Baidu claimed that in major Chinese cities, its self-driving taxis complete an average of more than 15 rides per vehicle per day — on par with traditional ride-hailing services. BEIJING — Chinese tech company Baidu announced ..."
-    publishedDateTime: 2023-03-17T06:51:00Z
-    webUrl: "https://www.cnbc.com/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/17/baidu-says-it-can-now-operate-robotaxis-in-beijing-with-no-human-staff-inside.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107100111-1659921398203-Image_from_iOS_64.jpg?v=1679035563"
-        width: 1919
-        height: 1279
-        isCached: true
   - title: "Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China"
     excerpt: "Apollo Go, tech company Baidu’s robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its"
     publishedDateTime: 2023-03-17T17:58:00Z
@@ -91,15 +75,22 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Baidu Wins Permit to Offer Driverless Robotaxi Service in Beijing City"
-    excerpt: "Baidu will now operate driverless robotaxi services in three Chinese cities including Wuhan and Chongqing. The Beijing-headquartered company, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies ..."
-    publishedDateTime: 2023-03-17T07:03:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-17/baidu-wins-permit-to-offer-driverless-robotaxi-service-in-beijing-city"
+  - title: "Baidu Wins China Capital City's First-Ever Permit to Provide Fully Driverless Ride-hailing Service"
+    excerpt: "Baidu marks a major global milestone in receiving the permit, becoming the first provider of fully driverless robotaxi services in the capital city of any country worldwide, with no human driver or sa"
+    publishedDateTime: 2023-03-17T14:01:00Z
+    webUrl: "https://vietreader.com/business/pr-newswire/79443-baidu-wins-china-capital-citys-first-ever-permit-to-provide-fully-driverless-ride-hailing-service.html"
+    ampWebUrl: "https://m.vietreader.com/business/pr-newswire/79443-baidu-wins-china-capital-citys-first-ever-permit-to-provide-fully-driverless-ride-hailing-service/amp.html"
+    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/pr-newswire/79443-baidu-wins-china-capital-citys-first-ever-permit-to-provide-fully-driverless-ride-hailing-service/amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 60
+    images:
+      - url: "https://cdn.vietreader.com/uploads/posts/2023-03/baidu-wins-china-capital-citys-first-ever-permit-to-provide-fully-driverless-ride-hailing-service-1.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver"
     excerpt: "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides."
     publishedDateTime: 2023-03-19T13:18:00Z
@@ -207,6 +198,20 @@ related:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
     quality: 34
+  - title: "Beijing greenlights operation of unmanned self-driving vehicles; Chinese tech giant Baidu to lead project"
+    excerpt: "BEIJING, March 19 (Xinhua): Beijing greenlighted the commercial operation of autonomous driving service without in-car safety ... which were operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai, received approval after ..."
+    publishedDateTime: 2023-03-19T08:01:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles-chinese-tech-giant-baidu-to-lead-project"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 22
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/19/1985731.jpg"
+        width: 1240
+        height: 743
+        isCached: true
 
 secured: "bsyGih+sL9NCSxKMsdWz2TZPYnA4tS/Eap2FY1LAwY8P0GgS8mQaBt1wku7CO0CUvuu1/4aa0i3dy728JBallYR8ZIwV+NmuAQzVZVmP2Z02DXhZCi761Mm+bgMvf1P+agSUS4AxRhgA1OGyg2M1brPuMVM975fImFAhXaSU4GghBl7EGpWJikO4tP30qNLRwQxdeAdtfDNHPnwqp4Aq1klYMU5Retss3aY7VBLaq2r/wzGkZlh6mitV1uvsjEbVgmXdL5guzN7CRXu8pGxsjvCtbBq78qSZVHOivNRyuo3zp1tX7ED/I4aV/3fk5MXyQ/btTfV+SDcdIcInf5OdGOstBu4CFx5+murp+PYWGqE=;AIhoHGVPEHQ4Zcs7YyhcCw=="
 ---

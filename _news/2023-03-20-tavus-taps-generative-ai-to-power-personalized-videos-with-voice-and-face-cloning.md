@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/tavus-taps-generative-ai-to-power-personalized-videos-with-voice-and-face-cloning/amp/"
 type: article
 quality: 84
-heat: 95
+heat: 96
 published: true
 
 provider:

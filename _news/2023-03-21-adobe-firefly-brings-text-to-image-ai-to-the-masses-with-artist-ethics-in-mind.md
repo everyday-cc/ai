@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-ima
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
 type: article
 quality: 100
-heat: 151
+heat: 152
 published: true
 
 provider:
