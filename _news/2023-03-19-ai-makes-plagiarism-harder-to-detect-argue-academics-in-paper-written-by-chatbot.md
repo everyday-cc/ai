@@ -170,6 +170,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Why did Stanford take down its Alpaca AI chatbot?"
+    excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
+    publishedDateTime: 2023-03-22T00:42:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "China's tech giant Baidu unveils \"Ernie,\" the Chinese answer to AI chatbot technology like ChatGPT and GPT4"
     excerpt: "Beijing — Days after popular artificial intelligence tool ChatGPT's developer OpenAI released its latest version, GPT4, Chinese tech giant Baidu, best known for its search engine and map services in the country, revealed its AI answer to the world."
     publishedDateTime: 2023-03-17T15:48:00Z

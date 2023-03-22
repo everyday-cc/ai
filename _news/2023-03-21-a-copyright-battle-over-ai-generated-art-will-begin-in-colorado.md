@@ -29,17 +29,17 @@ images:
 related:
   - title: "A copyright battle over AI-generated art will begin in Colorado"
     excerpt: "When Jason Allen won the digital-art competition at the Colorado State Fair last year, he sprayed fuel on a debate about the role of artificial intelligence in the art world. Now the Pueblo-based game designer,"
-    publishedDateTime: 2023-03-21T23:26:00Z
-    webUrl: "https://www.bostonherald.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
-    ampWebUrl: "https://www.bostonherald.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+    publishedDateTime: 2023-03-22T01:46:00Z
+    webUrl: "https://www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
+    ampWebUrl: "https://www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: TwinCities.com
+      domain: twincities.com
     quality: 59
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064-1.jpg?w=1024&h=700"
+      - url: "https://www.twincities.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064-1.jpg?w=1024&h=700"
         width: 1024
         height: 700
         isCached: true

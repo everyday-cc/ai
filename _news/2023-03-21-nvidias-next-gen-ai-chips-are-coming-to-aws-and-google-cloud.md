@@ -191,6 +191,34 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "NVIDIA brings generative AI to almost everything, everywhere, all at once"
+    excerpt: "NVIDIA unveiled four inference platforms tailored for a wide range of swiftly emerging generative AI applications."
+    publishedDateTime: 2023-03-22T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/03/nvidia-brings-generative-ai-to-almost-everything-everywhere-all-at-once/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 38
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/03/21032023_NVIDIA-L4.png"
+        width: 1087
+        height: 547
+        isCached: true
+  - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
+    excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."
+    publishedDateTime: 2023-03-21T19:28:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-debuts-host-ai-technologies-161518608.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/kr0Y8SiKtViBkF.J4SQojQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://media.zenfs.com/en/aol_yahoo_finance_433/85a728feca49cafcc9c66f34ae3f9bed"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Nvidia unveils DGX Cloud platform and AI foundation models for generative AI training"
     excerpt: "Microsoft Azure will also host the Nvidia DGX Cloud platform from the ... said it has combined DGX Cloud with Nvidia’s BioNeMo large language model and Nvidia AI Enterprise software to accelerate drug discovery. “With Nvidia DGX Cloud and Nvidia ..."
     publishedDateTime: 2023-03-21T15:50:00Z

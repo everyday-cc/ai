@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
 type: article
 quality: 104
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -190,6 +190,34 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "NVIDIA brings generative AI to almost everything, everywhere, all at once"
+    excerpt: "NVIDIA unveiled four inference platforms tailored for a wide range of swiftly emerging generative AI applications."
+    publishedDateTime: 2023-03-22T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/03/nvidia-brings-generative-ai-to-almost-everything-everywhere-all-at-once/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 38
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/03/21032023_NVIDIA-L4.png"
+        width: 1087
+        height: 547
+        isCached: true
+  - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
+    excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."
+    publishedDateTime: 2023-03-21T19:28:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-debuts-host-ai-technologies-161518608.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/kr0Y8SiKtViBkF.J4SQojQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://media.zenfs.com/en/aol_yahoo_finance_433/85a728feca49cafcc9c66f34ae3f9bed"
+        width: 1200
+        height: 638
+        isCached: true
   - title: "Nvidia unveils DGX Cloud platform and AI foundation models for generative AI training"
     excerpt: "Microsoft Azure will also host the Nvidia DGX Cloud platform from the ... said it has combined DGX Cloud with Nvidia’s BioNeMo large language model and Nvidia AI Enterprise software to accelerate drug discovery. “With Nvidia DGX Cloud and Nvidia ..."
     publishedDateTime: 2023-03-21T15:50:00Z
@@ -282,6 +310,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "BRvWTf5x4caJeJs10AhC9Pfng3yMNEmPVN7L18d0RkvVNxhu+4QSBaHoTvq3hZ+XtWtH1goD7NepU+lqAMgs/pTnbDJOc9jRe1Gz4oHuvSZf/I0ETcR/m0L2vlAJ7k3HGcYFrY48RFxSCaAwdbOaUjqOEj55sBtk0OQQlPDiwrl/UDPZCFcF+AjfTs29CrxlDOJCypUSIpO6wYQkoo5UQA5ZXhw5nyp55nh3kVlEuYpbCZvJ5qAxeCXJTogHpOpKfpXRN0+9Ys0tsreoWnZweraWF0Z1hprLyLyFUH62NvRG0C38Xpk8xkYh+ST2QtWp/6DUqU9AtoRTgLoGdVKuexVsbgqIglws1f8H4tVfDWs=;3dCX8sz6gUa2C1GyQXc5cg=="
+secured: "3fmgMzyRSljD1JlVlS6l5WuTxu8+Ktx4XfxgoBV5jmgNbq2/LPJ8FUYkVnTHIxATFGZ+jXefI29mKzuwzWQAz9ktcCFKsKGb9TaK0gj78KQ1C5+9THw7dKLSnPwwxbdQYeBHdUR8fm6ccD6wkmz6R8k/kVjUbE4zQ4GowAQE7HonQQlOQQFoex9rSP+8UFqVbYynPSpHCxNfS39gYnCBMvVHRvtv+5dNQsAqaTntra+waRY8mgbej6RrhzWjLYqgheP7v7cUSf0DqFO/+63a/B/4h1YUE17ZMqeMVnBwcHS8M/jeYa0DeydsqX2LaaPsFYFX1/J1PiJ6mRR5kl1JkCMQv4dR93aiIyJbI9I7kodsvPDXnX24CmvRqRXAyAVXj95jpe65YM2TyW1MwtE22gT3e1jSDISGtXrQrzOsP81OVCPpsoBYbJGSGcXgdLF/z68Ux/C+SBSjvpN9I+UPBrSIWVO+M8giZBBIx4bfE6Rdli6+2CxCQuhJpGPOlmbrD50rOsnr1BKx+5+3lQhuhA==;uRMmllAi/37EWqo7ouJmnA=="
 ---
 

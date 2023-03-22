@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/why-its-simpler-ais-write-about-art-robots-do
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-its-simpler-ais-write-about-art-robots-do-your-laundry?amp"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1170
     height: 847
     isCached: true
-
-related:
-  - title: "Is AI out to take your job or simplify it? Tech cos insist it is the latter"
-    excerpt: "Google revealed a big advancement in artificial intelligence, stating it will deploy a significant update to Workspace and integrate its generative AI models into almost every aspect of its productivity suite."
-    publishedDateTime: 2023-03-17T07:46:00Z
-    webUrl: "https://www.business-standard.com/article/technology/is-ai-out-to-take-your-job-or-simplify-it-tech-cos-insist-it-is-the-latter-123031700514_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 19
 
 secured: "ebXfexeFp2NK0v1mpZd066ReWuB00qwUgCsDHrlX4+o6fLw+jqQBiGotzSZfUkcTRo5kSyVBmqNZ6402ZFHegj2B5olwRU8mTnfqNZN08kWnWZvDSAFWLN47ovyiQ2pcwt6SIPBfLEeYFiWyDS5HuzbFfOpNTK3m2Sj+42xux7USDeNxKtmUG8Gnbt03DddRTd5NCsLVYRJiEHgKVmSHmnbnsvM+TPtrA1IPUsB0W0HCNk420ZTps4KT8bE73c3U1hq/MiSvoRD8YigfbWZzw3D/Dz2wYMeQV0N6fPpqQxmTgtwefduzdqgT+qxeQsMyVFLo9UeCWi35VzhR8lMURQSyQleBhdArZw+6I4np2SJnE3+scjfXHDEDxxg0fLqCu/Yfcxyfc7i1G6SUnPToV3opZhEJRbVTS/8E1gqvMS2hBH2RnIuPMOGVScAJ2oIrmg4mnBYyalROEYoxHAdQyKHoOfwl0421uLrNzOajHLxnaOX/c8mN+QYJCQkAcO6rGyIsLRjDEcz62b3lqQqLzQ==;Uc/VXu6MvNWDllD5r6fP8Q=="
 ---

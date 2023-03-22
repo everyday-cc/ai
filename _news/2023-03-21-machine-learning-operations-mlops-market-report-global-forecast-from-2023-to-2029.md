@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market Trends, Growth Analysis, Size, Share, Research Report and Forecast 2023 to 2031"
-    excerpt: "The expansion of the market for neural network software over the past several years has been largely attributed to NN software’s capacity to assess, detect, and reduce abnormalities as well as potential future issues."
-    publishedDateTime: 2023-03-17T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-trends-growth-analysis-size-share-research-report-and-forecast-2023-to-2031-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dXzsXjysgFkTRdVdb+PHU5hOQfcjk4s7BDdc24eS9IxHGkfCK0dHzuT+ftOMFKlmL0LPfWeH35V9vrRNC4uxrjvA2EQG06YuvPVBMAWQSzD2EB5za8mgaVKYEpSs/2zMGbwUHEZZvBbpGr/UmtaUKttMHAOIaIOxJs9dJiXZZsHCmFl0+lTNx0j1Phb4GrePVoH/LRAI4+9TcChtCbLhJ99tnyO3enPunkELkxpLC30c60LmuOIbK8o4PXwxnGrTOEkBaUfby2gpwwzMZJt/UVabm7DTLJYUYIS0A7gq4oLvc6AEmTGkCvCFjTxwuE25X+ZMLh3td7rnmf+H5zxJXNm2X5iZsHD8HTccetjJe7o=;ERLkid+6nIR+yDAsgJXKWA=="
 ---

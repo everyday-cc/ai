@@ -55,15 +55,6 @@ related:
         width: 871
         height: 554
         isCached: true
-  - title: "Mind-control robots a reality"
-    excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
-    publishedDateTime: 2023-03-20T18:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230320102104.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "A mind-controlled beer-pouring robot has landed"
     excerpt: "The robot reads your mind and pours a beer for you. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers."
     publishedDateTime: 2023-03-17T11:55:00Z

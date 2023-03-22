@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-eth
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/fujitsu-pushes-ai-ethics-in-small-lab-initiative/amp/"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

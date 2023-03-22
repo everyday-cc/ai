@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf
 webUrl: "https://www.wsj.com/articles/algorithms-ai-humanity-psychology-ebf1364c"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How AI Will Change Chip Design"
-    excerpt: "Artificial intelligence (AI) is making its way into every industry (including the chip design world), and for good reason. AI enables faster processes, improves decision-making, reduces human error, assists with mundane and repetitive tasks, and more."
-    publishedDateTime: 2023-03-17T07:22:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53675/how-ai-will-change-chip-design.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "YjqeVMmuUBLwE8P0IyXrxkiv8RKrHmAkhXx8MF2U4pEOKENE6NPoQ40IgBGLcxrs1vuNvbj3N070qGdyM6y6wLMoG+VLSnvuLoi1QB6oAYTvz+v67H0GWXtzL1jdgyGzlp3kd4TdX6eyYmRe6aIfjG+ONGRqJrdpmrQX/br1ZqnIEGAl4VkNl4OCYPitT10J0Nm7oNzV9TzK8bc6xCqayWMaEEDmXFe/N63RlH3HFJ2Yg7OkkjQHjShwc04SOsLybX+zlXc6ieVxDCfYzNBh8gptGJuBBCGKsO8hkWS4kXyllA99pkt0104iJ6x9bc4Ai0Xr+IHpPKHy6rN7oxfknd0gK1L45qG+z/DebYNyPkut87jZg3FpITxQ9xa1eaLhj0h7KZmIN9YVVkNqvtjAYvDrnF/wn5NwIGXDu/5DoIU07+/6KU2xOYqPvIPh6cV2oRVFzNWUdrhKqywUldo0bPCrADu/1N1hZA28o8W7+hA2eG6oVnWRQspn86C4pWBuyBmfSh4x9RhCXYlgSE6v/g==;+arCBZksaQTw4If9St0aFg=="
 ---

@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft 365 'Copilot' uses AI to automate everyday tasks in multiple apps"
-    excerpt: "Microsoft is using artificial intelligence to help eliminate drudgery at the workplace. At its \"Future of Work\" event, the company has revealed an AI-powered Microsoft 365 Copilot that, as suggested by leaks,"
-    publishedDateTime: 2023-03-17T08:13:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-copilot-uses-ai-to-automate-everyday-tasks-in-multiple-apps-151133434.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: engadget.com
-    quality: 102
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/N.17w0_XeeOLR3TJRjm0Kw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/ff0bc840-c40b-11ed-aee3-bdaab7a12ea2.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
     excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
     publishedDateTime: 2023-03-21T17:28:00Z
@@ -464,6 +448,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Google Opens Up Access to Bard AI Chatbot"
+    excerpt: "Google today began allowing users to sign up to use Bard, its AI-powered chatbot that rivals Microsoft's Bing chatbot. First announced back"
+    publishedDateTime: 2023-03-21T23:23:00Z
+    webUrl: "https://www.macrumors.com/2023/03/21/google-bard-ai-chatbot-waitlist/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/muWO1r_6WOX08sxfZrkWN0GeVFU=/1600x/article-new/2023/03/google-bard.jpg"
+        width: 1600
+        height: 872
         isCached: true
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
