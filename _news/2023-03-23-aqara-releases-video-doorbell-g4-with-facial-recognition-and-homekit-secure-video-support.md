@@ -7,7 +7,7 @@ originalUrl: "https://www.macrumors.com/2023/03/23/aqara-video-doorbell-g4-homek
 webUrl: "https://www.macrumors.com/2023/03/23/aqara-video-doorbell-g4-homekit/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aqara Releases Video Doorbell G4 with Facial Recognition to Global Markets"
-    excerpt: "This 1080p doorbell features wide compatibility with third-party smart home platforms such as Apple Home, Alexa and Google Home, and it is equipped with on-device AI to enable local facial recognition alerts and automation. Together with the Company's ..."
-    publishedDateTime: 2023-03-23T08:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31469385/aqara-releases-video-doorbell-g4-with-facial-recognition-to-global-markets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "What manuals don’t say about life with a facial recognition video doorbell"
     excerpt: "Users can lose control of their investment, antagonize their neighbors or inappropriately feed a vendor's database of faces."
     publishedDateTime: 2023-03-20T18:54:00Z

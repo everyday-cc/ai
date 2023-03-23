@@ -232,6 +232,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils new AI Supercomputing Cloud Service"
+    excerpt: "Furthermore, Nvidia announced that it will roll out the DGX Super AI Computing System, which is equipped with 8 flagship A100 or H100 chips. For those unaware, the Ampere and Hopper chips that will be available in China are basically the A800 and H800 ..."
+    publishedDateTime: 2023-03-23T12:21:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/23/nvidia-unveil-ai-supercomputing/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "Nvidia announces H100 GPU SKU aimed at large language model and generative AI workloads"
     excerpt: "Nvidia has developed a version of its H100 GPU specifically for large language model and generative AI development. The dual-GPU H100 NVL has more memory than the H100 SXM or PCIe, as well as more memory bandwith, key features for large AI models."
     publishedDateTime: 2023-03-22T21:03:00Z

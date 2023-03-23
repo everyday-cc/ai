@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=13131
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313115&cat=PR News Wire"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
-    excerpt: "HAMBURG, Germany, March 15, 2023 /PRNewswire/ -- Ever-increasing consumer demand and labor challenges are top of mind ... warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service ..."
-    publishedDateTime: 2023-03-18T19:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312812&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 24
   - title: "KÃ¶rber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service"
     excerpt: "HAMBURG, Germany, March 15, 2023 /PRNewswire/ -- Ever-increasing consumer demand and labor challenges are top of mind ... warehouse control, voice, order management, simulation and more, KÃ¶rber has unveiled its plans to extend its robotic service ..."
     publishedDateTime: 2023-03-22T18:39:00Z

@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "Comment: Autonomous vehicles are coming, is UK law ready?"
+    excerpt: "The barriers to driverless cars are not just technical ... guiding cars kitted out with specialist sensors to gather data to inform and refine the Artificial Intelligence (AI) destined to provide the brain of autonomous vehicles (AVs)."
+    publishedDateTime: 2023-03-23T12:50:00Z
+    webUrl: "https://www.theengineer.co.uk/content/opinion/comment-autonomous-vehicles-are-coming-is-uk-law-ready"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 4
+
 secured: "cUqwBaa1Fh7dEu+/Ms8PUsSUpMlFOPNs9PpQx+qEUiHl8QyX4TQ6lVmouqrBKHOwYFWUio6E0R8r/aJ2Zx/+aGXgm09CjigwvgRWnS0YVNXqzitdhYpFuz3CBJdniF/mIXIDQNIoIqBKx3YCnEnNjDq8iMszt9bBQca7uzHbyGDQTB162qbaWYTYUoDVXwdOyvgTgin3eCmTzC6HVv+PiPqv4lgDAqkrlVa1KN40+Uj8VgbH9CCnvhDawruuQl7YOSfetEMXi1QglZFF43+011HdBKH/qR3EkQC8GJ9q4fIX33XzGwev6W1Lf9wedwrCuDYHD/+CgXLiqmOc5dM0Gm/I6cbuyRO87Eh+5UV1e7J94uZEdYbw4y4JX+Xn/RXMo8ZrV3Wy2cwGWUSDEWzwHYJh/FquV5bvsMXiQm4xFngsnU4edrA+1Lxs8upYElnv0Iwoz0dUZjoxjOHh18zNZN3y4+GKgfCTMx/nPV+lRF0hf5KB29iqheIFWfRZ3gcp43X5YljVYv2KKng2p3o0pA==;wN7y0gOYzZFiaYBJa8wcnA=="
 ---
 

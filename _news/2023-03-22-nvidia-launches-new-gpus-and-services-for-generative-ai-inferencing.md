@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
 type: article
 quality: 104
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -225,6 +225,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia unveils new AI Supercomputing Cloud Service"
+    excerpt: "Furthermore, Nvidia announced that it will roll out the DGX Super AI Computing System, which is equipped with 8 flagship A100 or H100 chips. For those unaware, the Ampere and Hopper chips that will be available in China are basically the A800 and H800 ..."
+    publishedDateTime: 2023-03-23T12:21:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/23/nvidia-unveil-ai-supercomputing/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
   - title: "Adobe launches generative AI tools aimed at marketers"
     excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."
     publishedDateTime: 2023-03-21T18:11:00Z

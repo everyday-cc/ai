@@ -593,6 +593,20 @@ related:
         width: 1600
         height: 872
         isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Bing’s New ‘DALL-E’ Feature Lets You Create AI Images"
     excerpt: "On top of adding pressure to its workforce, the search monolith also recently invested $300 million in the AI start-up Anthropic, which was founded by a former employee of OpenAI. This investment falls majorly short of Microsoft's recent $1 billion ..."
     publishedDateTime: 2023-03-21T19:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 14
+  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
+    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group’s Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+    publishedDateTime: 2023-03-23T15:21:00Z
+    webUrl: "https://www.01net.it/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "A+uLIThjotHm8wJkdqMOXqDM8kvGRnsiUe/JbJKk306sXEJa6h6oiC5HgHHaUqhZ/KT9zMqg/QzBfFZTO++7F/Ysdx3ATmKMACeTuFFOVE0JbmH4QzQ/0vsFVnLB++CPujvFWctYnoiW+EFmEp8/AZLoEGxRybVj71dBS6di89pjlyjOgZ/2c3RsOG7BCHCqkVtmpnczjZEklcR/mkfFTQkACaIoFGtEfSeQck2gamW1K3esESIr3m9yzXh3cYNzDHLh+dS6RlzAthsG5q3v+rnD3r0KsCpJwYz82VzwGCHxZe6HLb7YRgiRWeHgTFfoGUxb7LwrNnJcbsEmk2/KE/JKAz4Sxu1NVJJif5S/Q+jg1O9bi1fO7i6Ff7NSBSyan1hjOuanBUoGH6W5LGuFhi71oDalE4Xyn7V+YZQJeAjzQAbkeBSmVylFMvg6kraq6KFN/8jxa1wVcAPHO0/pbj1YyvJ3CqMMiMNk5xt0ISdS+n+ZPDwFIf8t1vuN5lt6tezaO2lh1yQT516pHwoPyA==;BQc8Pnr6XQYLfLeZG83vtg=="
 ---

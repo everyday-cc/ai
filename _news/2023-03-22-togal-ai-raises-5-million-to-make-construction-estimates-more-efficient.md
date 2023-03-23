@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Here's an exclusive look at the 12-slide pitch deck generative AI startup Sutro used to score $2.2 million in funding"
+    excerpt: "Now, Campbell-Moore, alongside cofounder Tomas Halgas, are aiming to empower these everyday people with their startup Sutro, a software development service that combines low-code, AI-generated code, and custom code to help people build apps, including ..."
+    publishedDateTime: 2023-03-23T13:10:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-sutro-generative-ai-raise-seed-funding-eniac-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "9Ht/YDSA8Nel7+f2w/JHRk9gHEMSnERlI7hLb9+QcCBD5uCKlTpSJSJdqZxovXpKbFhhFEjcjngYZtsjo2in6ghDzcfTl1JCjxOa6QYC7mzqH1Bx7kvGy/Ku9dLDrllCjg7BaY50YdqyyRqmmG+XZkv96wmt2xgpRQPvfdLpuknWnrArHD6XTpH2jJlJw1W9LxmIdM1syQY3fq1wdi2xvOhhnfNX499mAj2XfbXCBGJTN88dyQSQWqfhSQB8b09eYIkPGDMvVpq9ixKehOVkmVRvD2krefe8tNUI9XSi6UY7bQv2kOOTz6x6j6+20ucVIqkOnuY6vISCf0VZMToRe0YTNiB0MCVre09hPRzzmNauN2cZvig4wslfC7JttwlG1QDH+IB9x7bAQO2LxvjP+ThlyoC5lfjYYkEXmSoWtk7pqjb1tYW2qbovVaqlsIcL06UeLayMfBvlgBeio/yMNSZozbCSR/YUHgcjmY9MbY6JNKeMrw+4zf6Zvkyz3OkZ4253xHTPu3+JXZA8w6Z21Q==;gblV9qz9OrZIQNBVjQ0pyg=="
 ---

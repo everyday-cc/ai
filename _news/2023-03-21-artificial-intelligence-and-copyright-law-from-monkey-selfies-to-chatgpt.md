@@ -186,14 +186,23 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
-    publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
+  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
+    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
+    publishedDateTime: 2023-03-22T19:04:00Z
+    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
+    excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 15
 
 secured: "PTHS9sqhTHk/YlsWWBiR6rb569AkhhFrGDg3zb/fY5xrfAdSLHyXgAp/tUfT0ioqnwjTea6TobDGExceq3v48ykdTeDjtkVGw/CYAXupGvdCl0tQiUSH/BfLGIHXwxul51YgMzZk2l44iBqxY0d8B+NA1yUFik2khbgmV/l9N/JSAZPS7gGBMpyHzWDuIrcvNryEdYRfRj0bg1BQ2gNmmBPelDm5q2hPAJbq/R1VDd+9T+iiIP3yoUAeUQ4fhCluGE2A1N/LEFpwoWvmLOfdHpoaerdO5lixz7CU/xfi9kxDw5jVsy0VYKbX3q8ldMeKP/VR9+lMbP+jLa8OUOwfCuvCVo03CzXyQJLMsERzGUMtBGqi370vrb3347ldJZRuvlpfxN/mf6/2RMR/s5WkXu1ArzDtc3WiOUL8FgWYkzAXCQ60jiteAJ1rKnp6ptRGvAz3Ha0OCieqnGOQZtPbSDY2+Ym6sTc5F97vqk+wSEq0N29goXaruKhEQ5kfyjeiFnt2yECT2McQGbOigSXPYw==;o8YWCV2ohfuvl6yMhtUGBw=="

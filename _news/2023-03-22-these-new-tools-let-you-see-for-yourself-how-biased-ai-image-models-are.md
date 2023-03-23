@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "The Download: the battle for satellite internet, and detecting biased AI"
+    excerpt: "The tools, built by researchers at AI startup Hugging Face and Leipzig University, are detailed in a non-peer-reviewed paper. Why it matters: It’s well-known that AI image-generating models tend to amplify harmful biases and stereotypes. For example ..."
+    publishedDateTime: 2023-03-23T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/03/23/1070215/download-battle-satellite-internet-detecting-biased-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 16
 
 secured: "hM627QzlPfcwwhU7FiXjWCwTIHoIBb/NkHWnV6au36yleMRKFHEFUwa1vTv3fvF20N3X38/e4i7BOXCrwrY3UG2Vq5UbepN1165Cs2OKrP+nuAVwYTuQRHiLYNvKKHl0q2sfnUqOEoZaPLleC7hdUfb7wIoZXmF6fr1VJS9UX/B2BYfZ1EtG9rMg4eq4GMbJ0096ZjNzq7fN8RvXt8qLk6aGQE5aF0+MluDIqA//cQIvFnRvfZXmahKWEvHV6EWGKfV1NPNWX1+DXjTYGg1ajio2ZPFf/kBApMYNTblRzHyJ6fec96LO9jg0z6gNVpbpAsJkTQz+O3EzRb90608ua/Q15zxy1EAJJvULp/fUqiQHKOmPlai39t/fby8s4QB5vWXcV+qssHV5FbqztYdr0vhFKeFY4NMXW9/Ux381HaF5kERzdJIcWVKk6fq/1LDRThmLzo8PkLzMacpoRv7TwDqDvKajNeDQ1As0br2dHifEqazbfz6oO1BD3vwhv5L6q9iM28o/yy0eqDJry+MBDw==;mff7s3XpPSwAwWw/XFAFQw=="
 ---

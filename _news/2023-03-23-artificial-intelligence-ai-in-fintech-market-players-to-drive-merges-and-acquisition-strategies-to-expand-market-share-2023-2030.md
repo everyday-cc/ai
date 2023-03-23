@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-23T10:48:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2030-2023-03-23"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2030-2023-03-23"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -230,6 +230,20 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ..."
     publishedDateTime: 2023-03-21T21:33:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market: Size, Share, Trend, Application analysis and Forecast 2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- A new elaborated report titled as Global Artificial Intelligence and Machine Learning Market is now released by industry research based on comprehensive study of the market. Knowledge about the future market trends as well ..."
+    publishedDateTime: 2023-03-23T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-trend-application-analysis-and-forecast-2029-2023-03-23"
     type: article
     provider:
       name: MarketWatch

@@ -265,20 +265,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Custom Nvidia chip boosts China's AI push"
-    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-    publishedDateTime: 2023-03-23T09:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "As GTC kicks into high gear, Nvidia reportedly boosts orders for AI chips"
     excerpt: "Analyst Tristan Gerra noted that the company's Hopper chips are likely to benefit from the growth of ... Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of the most significant developments in technology ..."
     publishedDateTime: 2023-03-21T11:34:00Z
@@ -367,6 +353,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T01:08:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 34
   - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
     excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
     publishedDateTime: 2023-03-22T19:02:00Z

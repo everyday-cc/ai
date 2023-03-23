@@ -51,22 +51,6 @@ related:
         width: 1199
         height: 673
         isCached: true
-  - title: "Generative AI: Imagining a future of AI-dominated creativity"
-    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
-    publishedDateTime: 2023-03-18T22:20:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
-    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "How AI is driving the future of technology"
     excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
     publishedDateTime: 2023-03-19T22:20:00Z

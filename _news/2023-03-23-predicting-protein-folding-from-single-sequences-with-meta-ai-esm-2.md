@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T13:06:00Z
 originalUrl: "https://phys.org/news/2023-03-protein-sequences-meta-ai-esm-.html"
 webUrl: "https://phys.org/news/2023-03-protein-sequences-meta-ai-esm-.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

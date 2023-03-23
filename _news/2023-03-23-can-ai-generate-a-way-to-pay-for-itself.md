@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T13:33:00Z
 originalUrl: "https://www.theverge.com/2023/3/23/23651976/ai-money-investment-vc-hype"
 webUrl: "https://www.theverge.com/2023/3/23/23651976/ai-money-investment-vc-hype"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Verge

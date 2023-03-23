@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 582
+heat: 592
 published: true
 
 provider:
@@ -588,6 +588,20 @@ related:
       - url: "https://images.macrumors.com/t/muWO1r_6WOX08sxfZrkWN0GeVFU=/1600x/article-new/2023/03/google-bard.jpg"
         width: 1600
         height: 872
+        isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."

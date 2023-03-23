@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Disney's New AI Revolution: Disney Unveils Emotionally Intelligent Robots to Captivate Audiences and Redefine Theme Park Magic"
+    excerpt: "In a spectacular presentation, a robot designed to look like the beloved bunny character ... and prominent figures like Elon Musk are regularly talking about the artificial intelligence. Read Next: The Tesla Of Lawn Mowers: Soon Your Cars Won't Be ..."
+    publishedDateTime: 2023-03-23T14:44:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31476398/disneys-new-ai-revolution-disney-unveils-emotionally-intelligent-robots-to-captivate-audiences-and-r"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/23/brian-mcgowan-se5mmozwqhe-unsplash.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "dGmFTeCX+0npL+v91zn6Ef6/liGXQG6ixroFwpxM6MThWRZ1EBS+l74lA0BmHd62QnCDCDSKoHN4i6QM+l14cVkQ0snCwWqsvVVYGEJhPqiBD/hQA1tYVFk1WC2Y4canYsmWDMsAwvMKAEBrsTZ58yo3jZ63EaFXFA6QqXMBn9LcZez7G5Q/UDupmaIJz+qb/bgUS13yA6FDQfUqh4C289MnvExmQpSWLGswQ9gO8DSv8C3EJdRckvwz7Yu3xKC1PkttaW5yZDP1b23JpODdChgTJo/CekbQ/XmwbFPdxemoT4abfLs82lh0ybzf5FSl6nKkx7RTnrHINUku7QlHp0/bYWCxKTv/FYmvc+b6h/s=;uWv9B5t8K4yADu6KTx1mJA=="
 ---
 

@@ -44,6 +44,15 @@ related:
       name: Embedded
       domain: embedded.com
     quality: 23
+  - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
+    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group’s Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+    publishedDateTime: 2023-03-23T15:21:00Z
+    webUrl: "https://www.01net.it/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "UZ6u8b56RjM3Xys286Z2nwPH5bnXFgRSrxN0Rr9XEO/Q0bbzobiyCV3sufbvpDldGbwz5x2xkaJHVaj7RkeOsqRZAUHUTTbUeGwF09nCciCBVywSu/lghy9cu2t+hv99fXid6WYnOYW9nYfrx2GemFw87iHjVN+b3vwrXWCD3z67HrIp1Q17p+zBJvLCFJmpDGLT6qnV1b7dhVrJ7TKAqS2xLMIhC2GqOJf3yaPbJs+4ipzTOtMCyf8vtm9Q3ipsaRo+b0FIbpOypCz/jDFzrhR3WB185qmBVdb5EMoMhLtuWGVdAPAW7HZyMs/ZJyN9dEAFO+LPCrODy0keEP0AqZhMet9A6JDAV+8bq6juq9A=;p2mQeKPJlC//lokhRyYMdA=="
 ---

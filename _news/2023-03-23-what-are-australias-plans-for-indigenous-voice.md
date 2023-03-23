@@ -1,27 +1,27 @@
 ---
 category: news
 title: "What are Australia's plans for Indigenous Voice?"
-excerpt: "But Voice proponents argue that recognition in the constitution of Indigenous Australians was an important element of the reform. Victoria state created an elected First People’s Assembly of Victoria in 2019 but that is focused on creating a treaty ..."
-publishedDateTime: 2023-03-23T11:47:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/australias-plans-indigenous-voice-98067981"
-webUrl: "https://abcnews.go.com/International/wireStory/australias-plans-indigenous-voice-98067981"
+excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
+publishedDateTime: 2023-03-23T15:21:00Z
+originalUrl: "https://www.ourmidland.com/news/politics/article/what-are-australia-s-plans-for-indigenous-voice-17855634.php"
+webUrl: "https://www.ourmidland.com/news/politics/article/what-are-australia-s-plans-for-indigenous-voice-17855634.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: Midland Daily News
+  domain: ourmidland.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_5071c5553ca54e833bc104657e359e5c_4x3_992.jpg"
-    width: 992
-    height: 744
+  - url: "https://s.hdnux.com/photos/01/32/02/05/23601490/3/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -40,6 +40,38 @@ related:
       - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-23T022255Z_939719998_RC2CZZ909LCY_RTRMADP_3_AUSTRALIA-POLITICS-INDIGENOUS.jpg?resize=1920%2C1440"
         width: 1920
         height: 1440
+        isCached: true
+  - title: "Indigenous Voice: Australia PM unveils plan for historic constitution vote"
+    excerpt: "Australia took a step today towards a historical referendum to give Aboriginal and Torres Strait Islanders recognition in the constitution and, for the first time, a voice on matters that affect their lives. In an emotional address, Prime Minister Anthony ..."
+    publishedDateTime: 2023-03-23T13:51:00Z
+    webUrl: "https://www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891"
+    ampWebUrl: "https://www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/world/africa-rest-the-world/australia/news/indigenous-voice-australia-pm-unveils-plan-historic-constitution-vote-3278891?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 42
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/03/23/australian_pm.jpg?itok=kx7miOtH"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Australian PM unveils question for historic referendum on Indigenous recognition"
+    excerpt: "Anthony Albanese was visibly emotional as he revealed the wording of the question he hopes to put to 26 million Australians later this year."
+    publishedDateTime: 2023-03-23T15:34:00Z
+    webUrl: "https://news.sky.com/story/australian-pm-unveils-question-for-historic-referendum-on-indigenous-recognition-12840585"
+    ampWebUrl: "https://news.sky.com/story/amp/australian-pm-unveils-question-for-historic-referendum-on-indigenous-recognition-12840585"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/australian-pm-unveils-question-for-historic-referendum-on-indigenous-recognition-12840585"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 39
+    images:
+      - url: "https://e3.365dm.com/23/03/1600x900/skynews-anthony-albanese-australia_6097520.jpg?20230323080402"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The Referendum Question Has Been Announced, So Let’s Unpack the Voice to Parliament"
     excerpt: "Details are as follows: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; The Aboriginal and Torres Strait Islander Voice ..."
@@ -179,19 +211,19 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "Indigenous Voice: Australia PM unveils plan for historic constitution vote"
-    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM. Australia's leader has unveiled crucial details of a planned referendum which could see it change its constitution for the first time in almost 50 years."
-    publishedDateTime: 2023-03-23T11:47:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/486598/indigenous-voice-australia-pm-unveils-plan-for-historic-constitution-vote"
+  - title: "Australian PM announces question for Indigenous Voice to Parliament referendum"
+    excerpt: "Albanese was clear that the Voice would not have any form of veto power over the Government or legislation. Further, it was stated that the proposed changes would “enshrine two fundamental principles: Recognition and Consultation” within the Australian ..."
+    publishedDateTime: 2023-03-23T13:21:00Z
+    webUrl: "https://www.jurist.org/news/2023/03/australian-pm-announces-referendum-question-for-indigenous-voice-to-parliament/"
     type: article
     provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 22
+      name: Jurist
+      domain: jurist.org
+    quality: 20
     images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--S-G0JUse--/t_tohu-badge-facebook/v1675889827/4LDYIJC_Albo_Hipkins_11_jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/09/Parliament_House_at_dusk_Canberra_ACT.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "How artificial intelligence is helping to detect heart disease in remote Australia"
     excerpt: "Artificial intelligence helps health practitioners perform echocardiograms to detect heart problems The technology could be developed to enable similar scanning of other body areas The trial targets people in remote areas because a national shortage of ..."
@@ -214,6 +246,6 @@ related:
       domain: theguardian.com
     quality: 9
 
-secured: "qubicvkXt2zBh10ckjBPHtFriQHzjSB6Jac9QcDV+uyTj7aoFErVe27MR1Ast3nvicNkXP/mRe7IN/ybDD1Qp4tpykEsUMeZzZ0/QquledyP4Pu4j9LIoXEzP7DUvQZYYVWW9zSibXmGGN2WUWwWoQUSY0qh0ill7EAbH+cRox7Ymz9gKD3PVxgIvVX++Y+dipAxTT33md1EJq3KeQ2CMayLGsgf3YycLJokFIAz+BptpuaQF9Nk0ZB4sziTyN6YfM08PupzK8bsCnml0icdvH81HHehsuHBskyxUR0q4POHR4yjUV5XhXLWEbXn8vlz69Gb4CQu19m7dgXAG6QucXX6F6XyElNzdnmeFqc3QNU=;TIuS/yAvlhJanvAqFdc1Qw=="
+secured: "vUaCM1Jy4zcPSmsATxsQBlpomqM84694LCIVSAqbcpMANcFmLWWH8VBk/6R0Z6uqZj8ZpBr05n31qDtwTSDlbXQ1lIbLBVFR7XfZKEbV4I3abZ5BFqmPPFR7vwIFLU/JaZuJ25fWgkT1WS5o0mTfM4vb6Ddg2PO6orWXFNQ1vVt9ikeFL73fFLQwlGDAmcXkCfgTmeCs1drTzAOeWcDLGry3pFEOWIbWFx51Bj0ka5b1+gcxkihcplLZ9HwKHLyOwuoJXtIuChBaPb0pnfa7oAFIpTX62wzuVO6Z4myq4fIgHPkSxthulVvOpign43bTvLGSwy+dvqoQAyJpiiIvj3b4TCl76algNsTsyDBFqM4=;Wwg8vBpiSEdOOR58oXB2JQ=="
 ---
 

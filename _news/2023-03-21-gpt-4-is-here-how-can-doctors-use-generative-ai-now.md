@@ -72,8 +72,8 @@ related:
       domain: menafn.com
     quality: 49
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?113529"
-        width: 369
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?459740"
+        width: 294
         height: 250
         isCached: true
   - title: "Five things marketers should know about generative AI in advertising"

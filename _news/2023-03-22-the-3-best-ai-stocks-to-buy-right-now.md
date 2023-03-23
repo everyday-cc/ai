@@ -31,38 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "2 Top AI Stocks Ready for Bull Runs"
-    excerpt: "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ..."
-    publishedDateTime: 2023-03-22T14:53:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/"
+  - title: "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares"
+    excerpt: "While rumors of Google’s death might be greatly exaggerated, what’s clear is that Microsoft will no doubt benefit from the AI revolution due to the tools and services offered by its Azure cloud computing platform.” Its share price hit an all-time ..."
+    publishedDateTime: 2023-03-23T12:51:00Z
+    webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-alex-knight-2599244-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "7 AI Stocks to Buy for Long-Term Growth"
-    excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
-    publishedDateTime: 2023-03-20T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-long-term-growth-1032179271"
+  - title: "Buy these 6 stocks to bet on the AI boom and future-proof your portfolio, according to a senior analyst"
+    excerpt: "\"I don't think there's any denying that AI is going to be the future,\" Brian Jankowski said. \"The question is: How do you go about playing that?\""
+    publishedDateTime: 2023-03-22T17:19:00Z
+    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-data-centers-analyst-2023-3"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "Chip Stock Earns Bull Notes Amid AI Buzz"
-    excerpt: "The chipmaker also launched DGX Cloud, an AI supercomputing service that can now be rented to develop technologies such as ChatGPT for $37,000 a month, with eight of its A100 or H100 chips strung together. No fewer than nine analysts hiked their price ..."
-    publishedDateTime: 2023-03-22T13:40:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/news/2023/03/22/chip-stock-earns-bull-notes-amid-ai-buzz"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 34
+    quality: 31
 
 secured: "FG5vpfDD3uS5QtqRYTtIYA+vo4LFfyRo4MG33dOZCWN/rr7VHjL9IHTxdu9+Vd1isNb/YeWjEntzXtFtY2SYi9bgJY6pTgSkCqWv7++IEsfQiKvC0yWVo+SdOwZZvehk4jgrj1NnpIVTu4d2/H5v97Ts7uFhfdbVJoXAQqcGz1wnJSAE7eocAAxdENkSs3nmAybZmk9179mCivy7C99FmRSz2FtKnmXdF0V8S8jPgk0KK/YvWCMHei1d+rJo+oDi7ltSZB5FqNdpShFhOCbQwXWdnJLOC5Jyf/2SCqgJ0QoMDZVVEcMdcXAawE45NfgcGTpdARnZ3+fkTDGRstzghxxCnHAvJE39lJbE4myFozs=;QoWbrjwCeeK7PEOiHC8nQg=="
 ---

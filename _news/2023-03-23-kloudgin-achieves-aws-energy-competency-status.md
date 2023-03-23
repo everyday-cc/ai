@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T13:19:00Z
 originalUrl: "https://www.01net.it/kloudgin-achieves-aws-energy-competency-status/"
 webUrl: "https://www.01net.it/kloudgin-achieves-aws-energy-competency-status/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: 01Net

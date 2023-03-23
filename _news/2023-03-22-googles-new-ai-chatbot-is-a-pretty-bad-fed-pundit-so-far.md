@@ -90,6 +90,34 @@ related:
         width: 600
         height: 424
         isCached: true
+  - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
+    excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
+    publishedDateTime: 2023-03-23T13:58:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-vs-google-bard-vs-microsoft-bing-which-ai-chatbot-gives-best-answers"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 71
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03hxl67L6BOEuU7RuYTxAXH-5.fit_lim.size_1200x630.v1679516177.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "A 16-Month-Old Chatbot Startup, Character.AI, Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
     publishedDateTime: 2023-03-23T10:42:00Z
@@ -119,6 +147,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
+    excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
+    publishedDateTime: 2023-03-23T15:36:00Z
+    webUrl: "https://abcnews.go.com/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/ntl-4-scott-sarina-abc-ps-230322_1679507960689_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "China keenly developing homegrown AI GPUs for chatbot apps"
     excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
@@ -309,6 +353,15 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
+    quality: 17
+  - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
+    excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
+    publishedDateTime: 2023-03-23T12:46:00Z
+    webUrl: "https://infotechlead.com/tech/character-ai-raises-150-mn-in-vc-funding-led-by-andreessen-horowitz-77512"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
     quality: 17
 
 secured: "Cf4/2yol2UpmxFrrNI1zMQID0RwrbVPd06dL8woZCrJeORJOb2Gb+fG1rPHAZQgTSZn3qGuVCcgb4Mjvc1q/+scIm2pQYrwSUNmslCs9ZVL+oUQJhubQReW51LIy764Jd+5lxXgGoiYFLcWIo08SOnb/q0pfJKdJ57OwEudm0vQyn4kte5+q3hRVhCVbq4sDjOLk4gUkQW/YVHZ9yauBNPY8ZqpBY7WPdwvMkz6uiX1tIMFASF51PM7gLkx2E4/ZDaP6Whx+NBYVR3VH6lxORbc/BxSDbnjUqZYZYVVhJZPCZo+evK1zRdrgSD1KlLMnSDKNOdWkSwso7Jk57xjmoyxbs/kYe0FcvaTKqtP4B2KjZtRvsOezBGdpg2oppyimkNXQlW1ffHkOwi7xprbMvow7cNBY5OzYoaRUkrX0MhSYdrJ7N/vLVhYdlAEk4nu3ph2uy+P1hJepTiYIGCrj4OShCr9sg7zlr8fdjEI+c4bYSJkkbpz5u5PfocZRqjO4Qv6Rc2glgYYZOecKmSj0Iw==;T1qnVal4+F2XThwaqC8+BA=="

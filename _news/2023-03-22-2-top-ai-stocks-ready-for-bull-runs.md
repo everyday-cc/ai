@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Best AI Stocks to Buy Right Now"
-    excerpt: "Better still, demand for the computing tools offered through Microsoft's Azure cloud infrastructure platform is ... In February, AWS formed a partnership with Hugging Face, a leading machine-learning development platform. AWS will make its highly regarded ..."
-    publishedDateTime: 2023-03-22T09:43:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/22/the-best-ai-stocks-to-buy-right-now/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 73
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725274/artificial-intellegence-ai-gettyimages-1345658982.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "7 AI Stocks to Buy for Long-Term Growth"
     excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
     publishedDateTime: 2023-03-20T14:30:00Z

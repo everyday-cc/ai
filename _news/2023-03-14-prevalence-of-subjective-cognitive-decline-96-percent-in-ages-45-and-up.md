@@ -3,38 +3,24 @@ category: news
 title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
 excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
 publishedDateTime: 2023-03-13T21:39:00Z
-originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
-webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
+originalUrl: "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html"
+webUrl: "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/63/d637462d-f89e-59c7-9cf1-68d3ec3c3d4c/640fb210c3946.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/fb/efb780cb-d707-595f-a158-a34145cb65e5/640fb239b878e.image.jpg?crop=600%2C338%2C0%2C50&resize=600%2C338&order=crop%2Cresize"
     width: 600
-    height: 315
+    height: 338
     isCached: true
 
-related:
-  - title: "Long-Term Cannabis Use, Cognitive Decline, and the Hippocampus"
-    excerpt: "[3] Multiple studies have shown that decreased hippocampal volume is associated with cognitive decrements. Cognitive impact on long-term cannabis users at age 45 With this introduction, I want to ..."
-    publishedDateTime: 2023-03-15T04:36:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/healing-from-addiction/202303/long-term-cannabis-use-cognition-and-the-hippocampus"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 4
-
-secured: "LvyxdJB2Duj56bgmDOGGUmh/dBmdz26ts+YS7GFFpJZH1y7fYPEJjh1aywnVYCYHS2Me/DdKGXJmX6Z5E4HXOTxiCdWVNWk82sUQHudckU3EulmHM4J6oZLfpy0CdNjZChln3zEZJ95+pRHICV9YB5WR+tuNh6MXe88jX5Gfu6/Z6k89TrZv51jLxQrzYefysZAUW3ZvTPaAxD77FqGCQrAQhzSnNm2fSVj1lTuWzlDrk6Fgc+hQxaLAULatbU13+snbDo7yvM3fPaJNabP+O2UaCT6iG68LXvXEHDCjFBKbD2PyomizL0bBFjcJnkQ72gfIDCoS3u6YRqDmWNw9Zltiw8yjqU2XIN57/mAcCxk=;/me7no69M8AQg6LZ/TZQtQ=="
+secured: "cSSV0ebf57GDjOy6C3HSqa9uOa/RJyebhvy3ygva9rA+7KH36QQrysuXhZYk9liyRBErFtqJ/KAAY/QDPnzZrzooPK07b4gKR7v8P+DnNHsoJNgtsSZi4njRRaMYJkzzqApIZ7M1nd7rLQiwXITocsSUYXupS+vde0eJnI4u4I+hjI0ZNFNPxU1NMpJRPEj5YhxuhL3nW9vbYB11+GDxwIYVY5vdjLnbmqiVB6BwE625HZJN4rIH675oQqmIJqUdxBcucEk6SfyUPQ4mUni1kLG+o+XdeKbCpUbHihb9L3am3S+6DGq239QTNV/pRCE6IZXmh/4kPKatK20xA9yLkby6qCir0UV3w5UGZYA61co=;2LSSYWd0rH9mPIqyVQIi0w=="
 ---
 

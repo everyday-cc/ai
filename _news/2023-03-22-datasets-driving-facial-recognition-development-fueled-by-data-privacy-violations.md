@@ -24,6 +24,17 @@ images:
     height: 1027
     isCached: true
 
+related:
+  - title: "Aqara Releases Video Doorbell G4 with Facial Recognition to Global Markets"
+    excerpt: "Similar to Aqara's Camera Hub G3, the Aqara Smart Video Doorbell G4 features AI-based facial recognition, which is executed locally on device for faster response and privacy protection. Moreover, facial recognition of the doorbell can be used as an automation trigger,"
+    publishedDateTime: 2023-03-23T14:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782010.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "sOFZovKqY4dCU6i2GocnYkmQvTcRyXyskmQb/JJC0HFcYJnl3MXNxHm+Bn1Qw2tISdiL2HF11YQu7S4uAvgPnViT8UzhDHII+yrrfAixvBH+npqpU6JIrxJti+PVw7YvCvkQJjq/yjaT8X+vGSn/3KYEagymq52tkPhZdHS3RknfQotJ3y3YD+NXbbXGIA8GI91QqJJoXSSXvDU4TzofyLx6CZRReRxS9sNNTzA/KYAOyUpYJbyT6ufo2qck279+XLXgyiCGmbWfQGUl8JVcf/V7Tyq2xw7NyiSjPk9m+B5dgw8d3BkQbEB+N/9V7CrTe+eEws5XDbJYhGt/k5NBJcZ2wwdnSTK3jSTukPKmsrNUXyoqblEewTnA9/1x16t3NHQbXJbVbo9h+jqCHexw1fytRoj5Hs7UdZVCCyGQWo8ONLWmIwW+GIH22ocI65f2so/sp3FOzqGAjFxdwjT37YG+v1qdt3szUvd+2wXPAU+ySrHQRtA6Oh3/CeQ5MKytQ2TvFma0drnV1sZ3RLs6nw==;9+IyP002NJoNYqBYubTdKw=="
 ---
 

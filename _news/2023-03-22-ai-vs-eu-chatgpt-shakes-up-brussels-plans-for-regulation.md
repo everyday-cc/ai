@@ -1,27 +1,29 @@
 ---
 category: news
-title: "AI vs EU: ChatGPT shakes up Brussels plans for regulation"
-excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology—and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly,"
-publishedDateTime: 2023-03-22T09:00:00Z
-originalUrl: "https://techxplore.com/news/2023-03-ai-eu-chatgpt-brussels.html"
-webUrl: "https://techxplore.com/news/2023-03-ai-eu-chatgpt-brussels.html"
+title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
+excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
+publishedDateTime: 2023-03-22T08:45:00Z
+originalUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c?refsec=topics_afp-news"
+webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c?refsec=topics_afp-news"
+ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-appeared-in-no.jpg"
-    width: 1024
-    height: 682
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -233,6 +235,20 @@ related:
       name: Newsday
       domain: newsday.com
     quality: 39
+  - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
+    excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
+    publishedDateTime: 2023-03-23T13:56:00Z
+    webUrl: "https://www.americamagazine.org/faith/2023/03/23/chatgpt-machine-learning-catholic-244953"
+    type: article
+    provider:
+      name: America Magazine
+      domain: americamagazine.org
+    quality: 39
+    images:
+      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google releases Bard, its competitor in the race to create AI chatbots"
     excerpt: "Internet giant Google will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft."
     publishedDateTime: 2023-03-21T20:14:00Z
@@ -272,6 +288,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
+    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
+    publishedDateTime: 2023-03-23T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
   - title: "Forget ChatGPT — this new startup is all about AI-generated video"
     excerpt: "ChatGPT may be stepping up its game with the release of GPT4 but it has been beaten to the punch in the race to create AI-generated video. The previews on Runway’s own site are interesting. The videos resemble super-charged GIFs,"
     publishedDateTime: 2023-03-21T12:16:00Z
@@ -282,6 +307,6 @@ related:
       domain: tomsguide.com
     quality: 17
 
-secured: "l+tFPu5Efe8NDq7srtPB3yPlgFyx/qFwc3gTJVzaJo8JTsPpV1LkzgZhhla4Jq+MJZ2kG+4MsFdyPKB6pGua7/EjDYfQFKA3uCQeetlx9ME0z5cs6mlx9Vk/zRZT5IPZukPOLA/CjfspCJgk/+EPRTR5gbRA66sUyNiU/odxkabuS2ldJ7nmyOPD0JXrGQW1Af0H+vVvxIgl8F26R5JVFJhonuDAjqerJCg++20MYLCis2axh60fv1dZrx4J9184z5ShWx/PIEm6qLUJyS/Jg08j1Ns4aB9/4txEO/GL24rO+S+xFKFqcb3B6MbcVjo8XGH9PA5Smx/imoPA/nK5wgLfYGfv+QcZB7hQMCkAG/+zVoHNLJDslwQLP7Ow85IkOXLMrrTUylTQAjPZPlmYnUxsyJOnrQ3tJhotZJYef1nj+PA4wOAL/K4lzEI27fwViLNd/u6j5Lf2g3W91EXrzYfZ21oPl1exdxxkHdgwQpgBhz1QHsWE/EM79wgnNIxIg1BTtbatawKVF+iAX53P8w==;cDUFkxbWkQt3lmYT7Oe4WA=="
+secured: "+UGp/za9luRFOKsanEioQcS8kUVy47NMiNL5y/E8RKJ96eppFy43E8ZuvUM9dVG4HncJRHYhy8T6fXh4+nyQVUf1hTr7boemsjcWyHfNAnEfWP/tSXHvP56dA8cFfcpUzDmoCLsF5yAtapg99HaDDPYoQ8WHPeZPfGSws9poTJEYL/b2JwUU10xUIWWLl015FzSGpeauuR+/HkpfXaMBTNm9iOFsyunB74FADEYQxCp5gnD/FQ7QUjN3jTH27Nbc2vmp7tDdbV6Ml3HNumA68jxyXOdxZ+r+JttKAVk8CQ4cx2zLwd7mK6dI740QJeaJzuVhCRZ9NAvVlLhxONDga3dxPVWxPHKTaSyt5qEbgEk=;5/qv550pnRH7TqpAnMtlJQ=="
 ---
 

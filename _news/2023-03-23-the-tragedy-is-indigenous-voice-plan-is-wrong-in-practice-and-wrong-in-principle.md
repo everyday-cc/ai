@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T13:46:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/the-tragedy-is-indigenous-voice-plan-is-wrong-in-practice-and-wrong-in-principle/news-story/892d29994b746436b4bc1e34cd0559f0"
 webUrl: "https://www.theaustralian.com.au/commentary/the-tragedy-is-indigenous-voice-plan-is-wrong-in-practice-and-wrong-in-principle/news-story/892d29994b746436b4bc1e34cd0559f0"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Australian

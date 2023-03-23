@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T13:14:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/business-services-becoming-more-reliant-on-artificial-intelligence-as-ai-market-value-exceeds-130-billion-301779444.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/business-services-becoming-more-reliant-on-artificial-intelligence-as-ai-market-value-exceeds-130-billion-301779444.html"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: PR Newswire

@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here's an exclusive look at the 12-slide pitch deck generative AI startup Sutro used to score $2.2 million in funding"
+    excerpt: "Now, Campbell-Moore, alongside cofounder Tomas Halgas, are aiming to empower these everyday people with their startup Sutro, a software development service that combines low-code, AI-generated code, and custom code to help people build apps, including ..."
+    publishedDateTime: 2023-03-23T13:10:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-sutro-generative-ai-raise-seed-funding-eniac-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "Togal AI raises $5 million to make construction estimates more efficient"
     excerpt: "Togal AI, a startup that uses artificial intelligence to automate the construction estimate process, raised $5 million in a pre-seed funding round backed by Miami's Coastal Construction, Tampa-based Florida Funders and other investors. The Miami startup ..."
     publishedDateTime: 2023-03-21T18:33:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T09:16:00Z
 originalUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
 webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:

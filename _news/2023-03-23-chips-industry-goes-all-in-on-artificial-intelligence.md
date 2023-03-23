@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T12:35:00Z
 originalUrl: "https://www.newindianexpress.com/business/2023/mar/23/chips-industry-goes-all-in-on-artificial-intelligence-2558797.html"
 webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chips-industry-goes-all-in-on-artificial-intelligence-2558797.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The New Indian Express
