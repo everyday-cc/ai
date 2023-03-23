@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "P31m75ofz0m0Gqhs9OPclvcbfb4n486Sw/fHCaFl+7SDi4rqZdf5pqkd+XbbopAhMJNVOcmnfZ3vddhI4pNoG6VvYjMSrLlAiGfBPfYwJSbj1UZ0K6ONqvYWCRWvrSDHc4ZsD5nbbvVSfIWG6U90A9+g4oh/LFnYUgAjljF/3pzkL6trYgDIQbRSawibypJCNoxopGUZGb+Y5sLONBgyvWNL2j3lZomjSTWB7Cn2xhfWuN9cxisGZZcASoeZptq0US9NjIg1/hDF03Et5e94SLr2++n+gRV1eg+gnIrjomzYXSLego9gXOwl9T8Hfo+J45gB4Zaf4WINXYE9Ijd7kV93TxsOpj/shalNKBbi59I=;kMy/Cv50hRVikN8fOVW6eA=="
+secured: "GhEJAAeG/LkEXlmhG1dC+tqBHXRb1ZvR5/e/6aKEtXVwqUGPgSGp310jxG8iZL+7RVFsWiAIlML9FNouii31S4GS4+Wjgll5DHnavGLWQXjOyBhvtoK7JBPtqC0Cj/1kTJ4PCze9jbpkhIJVyxvnsNssa/hjZdJON4VjYP8yBKvDhB2cOWW69Yv2zYjq7eaRGqTnmuNUkxSbR7bKgCh/v3efzb80Xv1fZYrjlz6WBPbVHJEAeqiod0g+WhXvlhXvnuVqOibiNSrPPWf7meuivaxT1v4HomlyjQVg1R4ZqCcmn5EyWDrJTnzzgAvdc1TmKx8bu0E5cW7nrhOEcWqny/9Iana9P6ca7/44tn1E5Bc=;462twx630ThN+a+CeXqMCg=="
 ---
 
