@@ -1,0 +1,95 @@
+---
+category: news
+title: "Indian-origin Intel GPU chief Raja Koduri quits to form generative AI startup"
+excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+publishedDateTime: 2023-03-22T21:33:00Z
+originalUrl: "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html"
+webUrl: "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html"
+ampWebUrl: "https://www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup-1503165300.html/amp"
+type: article
+quality: 71
+heat: -1
+published: false
+
+provider:
+  name: The Statesman
+  domain: thestatesman.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.thestatesman.com/wp-content/uploads/2023/03/39d880d47802503de43bbed95e10de03.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Intel GPU chief Raja Koduri quits to form own generative AI startup"
+    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+    publishedDateTime: 2023-03-22T13:52:00Z
+    webUrl: "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 74
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Raja Koduri leaves Intel to start generative AI gaming software company"
+    excerpt: "Having taken a leave of absence from his role as head of the Radeon Technologies Group at AMD in September 2017, Koduri a month later announced"
+    publishedDateTime: 2023-03-22T10:18:00Z
+    webUrl: "https://www.techspot.com/news/98029-raja-koduri-leaves-intel-start-generative-ai-gaming.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2017/11/2017-11-08-image-14.jpg"
+        width: 800
+        height: 489
+        isCached: true
+  - title: "Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company"
+    excerpt: "Raja Koduri tells CRN why he is leaving Intel as the company's chief architect after leading the buildout of its graphics capabilities for more than five years."
+    publishedDateTime: 2023-03-21T21:59:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/raja-koduri-main-driver-of-intel-s-gpu-efforts-to-leave-company"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027f-1796d31862fb-4f9cd94d0c0f-1000/1516284939508.jpeg"
+        width: 450
+        height: 450
+        isCached: true
+  - title: "Indian-origin Intel GPU chief Raja Koduri quits to start generative AI startup"
+    excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
+    publishedDateTime: 2023-03-22T12:17:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/indian-origin-intel-gpu-chief-raja-koduri-quits-to-form-generative-ai-startup/articleshow/98913026.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 30
+  - title: "Intel's chief architect explained why he's leaving to launch an AI startup"
+    excerpt: "Intel Corp.'s top chip architect— industry veteran Raja Koduri — is not only leaving the semiconductor giant, he's exiting the business. Koduri, whose end-of-month departure CEO Pat Gelsinger announced Tuesday on Twitter,"
+    publishedDateTime: 2023-03-22T00:34:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2023/03/21/intels-chief-architect-on-why-hes-leaving.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
+secured: "sLwNA28+O6p+OrWQeh+faNAAgZt3hvnA1G33l4Qnj2G4brVtawL+Iocd4lY4nCqXZ/FNFxmid/3Laq3cOOkRWTMTVytOWTa9qe17gm8dGWY2A6CgQq4eBFPyAvsLlzZ/C9C97WpC2ViIMNhGaBVup+e5kp85oBJh/2hOmLDgr3z8QHsiZA6WTSYCaiEM+Z7lc2PaHdCv6DAN2dOki4YgFZZgs/x95uoj8VS2xpskvV41fshpOxWWzEGSu+dyc/t/H3XBBk3qY7zb+0B7t0gnmL7r+7DZS7ehmNbNF1REF8VUiy40z+E9B8Glz5cctx8f8gL6x8ambQSda1ycVFkmOuTc1VAXVOh9qSObgRdwKzY=;3dTrPKekejjwFidsRcyIVA=="
+---
+

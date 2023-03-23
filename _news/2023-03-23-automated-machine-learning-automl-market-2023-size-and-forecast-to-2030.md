@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-23T03:07:00Z
 originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22"
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

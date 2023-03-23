@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis"
+    excerpt: "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ..."
+    publishedDateTime: 2023-03-23T09:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg"
+        width: 799
+        height: 399
+        isCached: true
   - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
     excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
     publishedDateTime: 2023-03-21T13:00:00Z

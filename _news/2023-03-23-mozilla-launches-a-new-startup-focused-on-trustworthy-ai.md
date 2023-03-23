@@ -114,18 +114,18 @@ related:
         height: 600
         isCached: true
   - title: "Mozilla introduces new startup to build open, trustworthy AI"
-    excerpt: "San Francisco, March 23 (IANS) Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes “will build a trustworthy and independent open-source AI ecosystem”. The company said that it ..."
-    publishedDateTime: 2023-03-23T07:25:00Z
-    webUrl: "https://glamsham.com/world/technology/mozilla-introduces-new-startup-to-build-open-trustworthy-ai"
+    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
+    publishedDateTime: 2023-03-23T09:23:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/mozilla-introduces-new-startup-to-build-open--trustworthy-ai.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 37
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/03/b75d2c8ffe058f3376600b465c86683a.jpg"
-        width: 400
-        height: 283
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/mozilla-introduces-new-startup-to-build-open--trustworthy-ai-2023-03-23.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Mozilla introduces new startup to set up open, trustworthy AI"
     excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
@@ -156,6 +156,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "ERL0XS8wX9HusB3Sx4t8Jdrt/TeuKZMn3er7pMPEWKitQ4WhU8ZRVJ6fgEu2TpYqsGJkwQUqKdCBolw6f6w/EbHGFRRJT5pizwtUTX2YlWaBjneG5yf3dEh4LzKR9IGAeC6dWhZILpudPYcKc2PbGsOm/y4s34cgUrd5dQWURC26coBPjUGGQkF75/+Hm18V+EWWciXd79/We84thQIctRvSLQ2h8NaJF0qs6g5IRKs2dPGBwVONsLzDVeSwXds0fxVzo4BjxRZKVllc7ngq1Mg8XSbPPXkTTS6axz5m54z/v2FADeV3KRfY7UY5VPhppASpH4I/cDJ1rwvo/3SrisLXDJ2e4clsXw6u7MHD3Zw=;09p5tBZzR6HRyjCrawOSaQ=="
+secured: "JDm9Goo0+ckxf4zPVZM0EBn+xtzV6G3HZPHkJzUCNN+bRizwmLIT5rUOqyESYsqe3lgk3+8FJIKj9MKFbxfZ7hhrrK+L6ZXkbvwt/fYSpxDZ/il8ylXBdgInTSqY5py2kgA2BIplTvWNhx1EJx3In/+PATs2qGrGlfELy4Acw68LzrZwZnGzU30WV0mkLEgFUz6Z2HkN+EG1h2/QEeoU6B82/5Jczkfk9CAh3MMIScUcYVqslTOr6ljSIXfGPYx9g8jp/FS1KOdZ7i7RG9daBzt7SIhryJoqI0plGJdtHPgoc5LmXl7LTdJEZ7IPdY9Xm5HwjjHkX0irdFQNdVJydXiDtMsx544gWsVs1r4TQcj3JvV7YUJcLCGhFoMaZigVgZCG+3ehicdDaYCORs2Uv4+c9o/AhsgncTV54RbDPOKbtJvq7x7BF4nvKE6tFJZydVTSDdDdMA4vIs3JCEXsCykpjwaH4+hWDTC7YbLTMar1ygfRTOdBYLbWe2z8KP7nQeTmUuM/RbSkfJy9bK1UsA==;fKBITTRMJDeD50DpQYcTdA=="
 ---
 

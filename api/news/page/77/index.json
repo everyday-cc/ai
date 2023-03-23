@@ -2,6 +2,153 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-01-21-orca-security-deploys-chatgpt-to-secure-the-cloud-with-ai.md",
+      "title": "Orca Security deploys ChatGPT to secure the cloud with AI",
+      "excerpt": "Orca Security announces the launch of a new integration with ChatGPT designed to secure the cloud with AI-driven remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/cloud-computing.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "publishedDateTime": "2023-01-20T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-robots-and-the-future.md",
+      "title": "Robots and the future",
+      "excerpt": "Remotely controlled robots OriHime-D, developed by Ory Lab Inc. to promote employment of disabled people, serve customers at a cafe in Tokyo, Japan November 26, 2018. REUTERS/Issei Kato ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
+      "originalUrl": "https://www.pakistantoday.com.pk/2023/01/20/robots-and-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Beta-18.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pakistan Today",
+        "domain": "pakistantoday.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker.md",
+      "title": "­­How CCC Intelligent Solutions created a custom approach for hosting complex AI models using Amazon SageMaker",
+      "excerpt": "This post is co-written by Christopher Diaz, Sam Kinard, Jaime Hidalgo and Daniel Suarez&nbsp; from CCC Intelligent Solutions. In this post, we discuss how CCC Intelligent Solutions (CCC) combined Amazon SageMaker with other AWS services to create a custom solution capable of hosting the types of complex",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ccc-intelligent-solutions-created-a-custom-approach-for-hosting-complex-ai-models-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/20/Featured-images-for-ML-11307.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T10:28:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-best-robot-vacuum-deals-under-100.md",
       "title": "Best robot vacuum deals under $100",
       "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
@@ -1049,144 +1196,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent.md",
-      "title": "Jim Keller becomes CEO of AI chip company Tenstorrent",
-      "excerpt": "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg",
-          "width": 853,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai.md",
-      "title": "M3GAN: The very real inspirations behind Hollywood's new favourite killer robot - and why we're so fascinated with AI",
-      "excerpt": "But M3GAN debuts in a world where AI and its associated ethical dilemmas are all around us, from voice assistants that we've happily invited into our homes, to an artistic robot giving evidence in ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "originalUrl": "https://news.sky.com/story/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/23/01/768x432/skynews-m3gan-film_6029033.png?20230119120450",
-          "width": 768,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai-12789840",
-      "publishedDateTime": "2023-01-19T22:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-the-6-most-important-tech-trend-predictions-for-2023.md",
-      "title": "The 6 Most Important Tech Trend Predictions For 2023",
-      "excerpt": "Here we look at the 2023 tech predictions, based on an interview with Deloitte's Chief Futurist Mike Bechtel. We discuss AI, the metaverse, decentralized systems, and even mainframe modernization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ca418536b41c24dc922d82/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/amp/",
-      "publishedDateTime": "2023-01-19T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

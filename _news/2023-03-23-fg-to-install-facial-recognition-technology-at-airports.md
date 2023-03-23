@@ -97,6 +97,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Govt to install facial recognition technology at airports"
+    excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
+    publishedDateTime: 2023-03-23T08:45:00Z
+    webUrl: "https://thenationonlineng.net/govt-to-install-facial-recognition-technology-at-airports/"
+    type: article
+    provider:
+      name: The Nation Newspaper
+      domain: thenationonlineng.net
+    quality: 54
+    images:
+      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/03/23094446/facial-recognition.jpg"
+        width: 500
+        height: 277
+        isCached: true
   - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
     excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
     publishedDateTime: 2023-03-21T13:20:00Z

@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
+      "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
+      "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
+      "originalUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T22:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands.md",
       "title": "Scams, deepfake porn and romance bots: advanced AI is exciting, but incredibly dangerous in criminals’ hands",
       "excerpt": "One of the biggest headlines in the gaming community last week involved a deepfake porn scandal. Such material is one example of how generative AI can cause immense harm.",
@@ -1356,51 +1390,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
-      "title": "Advances in artificial intelligence raise new ethics concerns",
-      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "publishedDateTime": "2023-01-10T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

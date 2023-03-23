@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Australian PM reveals question for Indigenous Voice referendum"
-excerpt: "Australia Prime Minister PM has revealed the question voters will be asked at the referendum on establishing an Indigenous Voic"
-publishedDateTime: 2023-03-23T07:36:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273659769/australian-pm-reveals-question-for-indigenous-voice-referendum"
-webUrl: "https://www.bignewsnetwork.com/news/273659769/australian-pm-reveals-question-for-indigenous-voice-referendum"
+title: "Australian PM Reveals Question For Indigenous Voice Referendum"
+excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
+publishedDateTime: 2023-03-23T09:42:00Z
+originalUrl: "https://menafn.com/1105843794/Australian-PM-Reveals-Question-For-Indigenous-Voice-Referendum"
+webUrl: "https://menafn.com/1105843794/Australian-PM-Reveals-Question-For-Indigenous-Voice-Referendum"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://menafn.com/updates/pr/2023-03/23/I_a8f83image_story.jpg"
+    width: 400
+    height: 291
     isCached: true
 
 related:
@@ -186,6 +186,6 @@ related:
       domain: theguardian.com
     quality: 9
 
-secured: "qlB604XAjpKb1bv+eIj7Tjxs3WS7UzA6AxVIPKB3nCJjGUCZqzCH7Gg0D491p2hNCBgcaFoBPcbu07Mg2Nawj0cCTdDOUrSkGap+s+6jI+aWTXE7BGsZf2US/C/8YiyivSboTdAsNIQE560Fp/eycQkoDetUQu6Dva01PY2LBgXrGHMkvMyUVrtVj54oQ9DnDYZGZFGAhBJ4ubh3jvVqMmRwgbJb9iaETJLRlCXMr8n2WuzsrSSMe5JZpNJ7s6ZUnKUb0yaDbZURqLueQ8eeVTMfZ4CB+LxMgHbYY1h/MVYZtygrH/ONqBOVwIjjyAjEuNL9WH+VYlIkp7+/OIYOZj9wjMTqlVerhB1E/xfZBCg=;58/yOgFRqvt3T2uqfnydOw=="
+secured: "fRc7BCxqrCTApO3Bnl8R4p52IFUb7R/TbGvIpjI/Ptv7xCSr7hsfdTiaqTXsSkN6umoQTgvE13BFvCC0cGcEMGEyX5v5ZhPwv3H6UFrX7DBbfGm0IGltDXzzZKESA9QRY7dBUDMFMapcnLod6/g3tSr08jaWegeakHOQvBWX62TXKuhF4eByhCSBnSYqiPZ9/NXTKIGkOWVDVpE25YUw+3ynu+ExrR+Ef1QIWeMvzip4DYcWD3LzcEuaIPpQ05htc6mzwtBnaTz/fYlCDTVAuPOAWrlWWWKa5HnEp76Wx9d4uz2WP/nGDMg4lTQgUfzhORPCsMihUUZNQlposF+9wFNPAXbl9WknsBkvJUo6+HI=;psIejRZ3WQuQLJMQVWt8qA=="
 ---
 

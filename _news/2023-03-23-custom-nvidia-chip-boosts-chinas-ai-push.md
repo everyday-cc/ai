@@ -2,9 +2,9 @@
 category: news
 title: "Custom Nvidia chip boosts China's AI push"
 excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-publishedDateTime: 2023-03-23T01:08:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
-webUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+publishedDateTime: 2023-03-23T09:45:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
     width: 720
     height: 480
     isCached: true
@@ -413,6 +413,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "Scd3VkTrR7WztY++cWKKimr85I8nvbcAWNXuuDBvmMRC+3dtcI0Y4lLbxaW4M1xcWGtu/xwwxYnhd66J0qxAOk8RDlFQoYgfSzMk5XTT0ghR7DAUlmUb8ZqwH4jDvj8rMl3Wkkae863pVsc4MSRR6XKNkDr6wCy4q8dxNC7+ieQiKctKfrLHdXTs2+wRIlZhAZbT875q7wTlkZIPm4nYf4yDMY35FBlC8eFyRWDmc0jYhcWVOi6eJNNJNDlaBsqc7atDxB5Td2YbNMo1C+v1ZMvgoQuD0tkASAjgzmAeFRttduLKVe4JeYRo6qdUk4fz+g2n3Sxzmea6SySryfTDatip5NWQC5MB71rl8lYDRLE=;WIIZrS52/CrT3xKtMGAj7Q=="
+secured: "3ZJihJR0/y3KiJsPGGveiPPCuc2+0zUGXKyHQ5xWtWft3Dxy2DqBkOdqraND93D+NT5xdqkzYVkRbSej/p2mj2AR9cWR7JvfwujJ0aGCH0YZtMKSmNu5PoWdcf5y4L1UZNJXIllNYvpUGpWqSKrmdJ7pERwicHQS9dMXvQkUtxCN6wSBr0LiwlM33TGtlS3w3P4qKb8RnLe6ztQ3r1fqTZR1ZtGtVsqX+dHRlu7o6dIQ77Y+EyknRx8YIRlFluBW0DUMkAzfhh7Y/s8jg6/uW96q2JuFv6FGACqzfvfO5WyriBaIH4i1Tgw6PSolaUT24Lz0nUa25UObGZag/qQcnRjztXPI0eX1cy6IDSD/BCE=;sypkyLpmYnFYWtRB5dsylw=="
 ---
 

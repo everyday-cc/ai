@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Canva embraces AI with a new suite of brand management features and tools"
+    excerpt: "Other new features include Beat Sync, which automatically matches video footage to the soundtrack, an AI-powered translation feature supporting over 100 languages, and Magic Write, a service that creates content from a simple text prompt. Canva has also ..."
+    publishedDateTime: 2023-03-23T07:44:00Z
+    webUrl: "https://siliconangle.com/2023/03/23/canva-embraces-ai-new-suite-brand-management-features-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
+        width: 1197
+        height: 631
+        isCached: true
   - title: "Runway debuts AI model that can generate videos from text"
     excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
     publishedDateTime: 2023-03-20T22:20:00Z
@@ -92,6 +106,6 @@ related:
         height: 466
         isCached: true
 
-secured: "zolRXyKrlrmoOnb0wBmyZ5V+OqqC7SmRpqHF/PXQpOekDfjGYmB+dbg9H3xLlxIl5is/uSiJoCyWazSnpUJhZpT0xWTuvtGbMZFO5m1peTq7bMCmpAxOKddXYWt/ljjGwmXRGUZQIKSseo/mM44DDaJxHyYMdh2IlAXYDtn6OXsfV6laJag0ioDOO/vYlpqjcEsLnqrNwABs2tAVszsIFD7oSJttbiEtMch8xPnUhK8p9Vgoi51+SqRPPYU52OTm9RxMnzcwlL62mil6LW7ErCnIR3k9KktwPIWJkvWbj4936iYbf4rGYMJcNuKQkvensTRy8ojtbPjbM4QPmsea3MtHX6rqO+cAu5lgMnKZRFI=;/mw93MwhvbHiWKULBwJlRA=="
+secured: "LAqQAO63mkuG2hU+/02W84aVTSyv4hNfCsG4P+kjrjbStKwUOUtsRTofd6N9nW8AJUnGTLHuyr64ucqhFRh1jX3CTaL6ZXxTqKBaBIePXoUuV336E8nIxo/UCvshzi7oitxcH6uXCvaNuQTV7ASzKr29EGLSzYkXcgdSsUK9ChR0rTg0jRR+YpgRFaz1cuEgJDsLMZBWE8KuvIPmYNK4YTEdvtT5en/3RBq+zPSjQLf0EkEHp7mMxv9EYIgX5lktzNm1DUMmIWhN/VtkLc3A93ffUydhejo9TpuEiuaINPT3Bb74IJfiAalqX9qRq1fKvchHLDBnxQoIEOSQMmTYXY//w9jyWWBSJGFy25qU0aQt2uTCFfhFLov8l4gUIQ+zTNSH5sEpSE44imNKROqYOcLe8q3GRzIlR5JpIhU5AIe/7+ROTurw3j13rDq1dCL/l87knxdSWhraJEVJMS3g4kw5z4tx/g1/9Od5/vhY+4k+H3gmTqajMS25a7Ql0AHZ65ONyEQbDJv7y7YvfQrTOA==;DMt451vu0LgdtptUbkHIbg=="
 ---
 

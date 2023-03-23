@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Canva embraces AI with a new suite of brand management features and tools"
+    excerpt: "Other new features include Beat Sync, which automatically matches video footage to the soundtrack, an AI-powered translation feature supporting over 100 languages, and Magic Write, a service that creates content from a simple text prompt. Canva has also ..."
+    publishedDateTime: 2023-03-23T07:44:00Z
+    webUrl: "https://siliconangle.com/2023/03/23/canva-embraces-ai-new-suite-brand-management-features-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
+        width: 1197
+        height: 631
+        isCached: true
   - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
     excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
     publishedDateTime: 2023-03-20T14:55:00Z

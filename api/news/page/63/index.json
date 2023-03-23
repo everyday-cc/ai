@@ -2,6 +2,137 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-02-03-commentary-singapore-must-clear-the-roadblocks-for-driverless-cars.md",
+      "title": "Commentary: Singapore must clear the roadblocks for driverless cars",
+      "excerpt": "SINGAPORE: Investors have poured more than US$200 billion (S$261 billion) into autonomous vehicle (AV) technology and smart mobility since 2010. Multiple countries and companies are vying for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/commentary/singapore-roadblocks-driverless-cars-autonomous-investment-benefits-risks-3249071",
+      "originalUrl": "https://www.channelnewsasia.com/commentary/singapore-roadblocks-driverless-cars-autonomous-investment-benefits-risks-3249071",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--3PaOd3Ei--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/02/02/istock-1382273420.jpg?itok=3P9EhD-L",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-how-aws-helps-lovisa-improve-personalised-shopping-experiences.md",
+      "title": "How AWS helps Lovisa improve personalised shopping experiences",
+      "excerpt": "Australia has a strong history of technical innovation, and the launch of a second AWS Region in Australia provides even greater resilience and enables more customers to develop cloud-based applications that help fuel economic development across the country,",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
+      "originalUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbiz.com.au/wp-content/uploads/2023/02/WEB-ONLY-How-AWS-helps-Lovisa-improve-personalised-shopping-experiences_feature-image.jpg",
+          "width": 1920,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailbiz.com.au",
+        "domain": "retailbiz.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security.md",
+      "title": "Quad agrees to leverage machine learning to enhance cyber security",
+      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "publishedDateTime": "2023-02-02T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-famed-stock-picker-predicts-amazon-can-have-more-robot-than-human-workers-by-2030.md",
       "title": "Famed stock picker predicts Amazon can have more robot than human workers by 2030",
       "excerpt": "Wood went on to say that the world is \"at the dawn of the robotics age,\" with innovations such as artificial intelligence and battery technology also contributing to the developments. She expects ...",
@@ -1092,144 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-facebook-posts-more-than-2-billion-daily-users-for-the-first-time.md",
-      "title": "Facebook posts more than 2 billion daily users for the first time",
-      "excerpt": "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
-      "originalUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stuff.co.za/wp-content/uploads/2023/02/Facebook-Billions.png",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
-      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
-      "publishedDateTime": "2023-02-02T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stuff.co.za",
-        "domain": "stuff.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-japanese-chip-venture-rapidus-needs-54-bln-to-begin-production-says-chairman.md",
-      "title": "Japanese chip venture Rapidus needs $54 bln to begin production, says chairman",
-      "excerpt": "Japan's state-backed chip venture Rapidus will need about 7 trillion yen ($54 billion) of mostly taxpayer money to begin mass producing advanced logic chips in around 2027, its chairman, Tetsuro Higashi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
-      "originalUrl": "https://www.reuters.com/technology/japanese-chip-venture-rapidus-needs-54-bln-begin-production-says-chairman-2023-02-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/izfAoP3EHtFt5nG9YNgNRigqQ0w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMHR4TMD45IQRJCLNGCWRX66EU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T01:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-gpt-3-use-cases-in-banking-finance-and-fintech.md",
-      "title": "GPT-3 Use Cases in Banking, Finance and Fintech",
-      "excerpt": "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "originalUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/01/GPT-3-Use-Cases-in-Banking-Finance-and-Fintech-1440x564_c.jpg?x30842",
-          "width": 1440,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechnews",
-        "domain": "fintechnews.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

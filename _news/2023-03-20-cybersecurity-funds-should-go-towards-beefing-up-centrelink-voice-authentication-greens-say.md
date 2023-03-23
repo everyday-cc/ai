@@ -25,20 +25,31 @@ topics:
   - AI
 
 related:
-  - title: "How AI fooled Centrelink, and could fool you"
-    excerpt: "Data and interactives editor Nick Evershed on how an AI-generated voice was able to fool Centrelink to access his private information, and AI expert Toby Walsh explores how this technology could make"
-    publishedDateTime: 2023-03-21T02:24:00Z
-    webUrl: "https://www.theguardian.com/australia-news/audio/2023/mar/21/how-ai-fooled-centrelink-and-could-fool-you"
+  - title: "How training and recognition can reduce cybersecurity stress and burnout"
+    excerpt: "Recognition of problem areas and access to training can alleviate ... and resilience can help individuals bounce back from setbacks and stay motivated in the face of challenges. Promoting work-life balance: Personal resources such as social support and ..."
+    publishedDateTime: 2023-03-23T09:20:00Z
+    webUrl: "https://www.csoonline.com/article/3691649/how-training-and-recognition-can-reduce-cybersecurity-stress-and-burnout.html"
+    ampWebUrl: "https://www.csoonline.com/article/3691649/how-training-and-recognition-can-reduce-cybersecurity-stress-and-burnout.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3691649/how-training-and-recognition-can-reduce-cybersecurity-stress-and-burnout.amp.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 37
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
     images:
-      - url: "https://i.guim.co.uk/img/media/fdc3be3cd8ab51000c9b21ceb48fa6b109a5ce81/42_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3f5f051cbcd7044e60bae696b254b05"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/02/07/10/shutterstock_205958041-100937265-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 801
         isCached: true
+  - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
+    excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
+    publishedDateTime: 2023-03-20T09:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-eurotech-announces-new-secure-edge-ai-portfolio-complying-/2023/03/20/9779380.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "IOHC0qQvaPgO86KdsOs74TMu7cJpn0FeAjdYazKFaze2BOS4qOh2BC9UIYSfC77eNei8tbYinbxeL+ZqC9o/dJHMJZI6i0WU0vcRG4N6Y0q8sWHzGEUPNt95QcvIqDRTXVlzVwvT+hvqj4FHMMPaT5SsN+Fgd+lzkm3uASO0aXrErP/wuu7FHynfLVj6CuRjpnuHWk86BLVv2pXwhlBLhbKVD2OQ14Xh8jmVrjHFSvWFvGSmi2v6ht3P61tNVIGO+ZJKEf3jvzHCuGQQL7DPvD/XEusTvBQeXHb9PI3TBU/PYJRlY+ISMsvwYyldyRjsJuWj4BvBbyCZlKKcUSsVeWYM/YmDRSVbwJ2dPVCZdH2++K82d3B1/nkDqsW69WaZ5ltvxkGtU4IV9C4Dm7zPrvvBP6Y1yHOFI+SvyBv4W1xFMgYGnaaUXQziO1KvU2uOkLtxG+ZAl6U9LXzBkN3FRvHYYF5t5VeQCH7Uzb70RRlfWsE+oKM3RUXqjhK19rIWhEBtd0BTXhpx10a7KuwMKg==;jEjaAg+5/eV6MN9ZZoucgA=="
 ---

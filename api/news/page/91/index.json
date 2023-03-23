@@ -2,6 +2,136 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-01-10-neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028.md",
+      "title": "Neural Network Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028",
+      "excerpt": "Pages Report] Rising demand for Medical Care Industry will drive the Neural Network segment growth over the next five years. Global Market Analysis for Neural Network Market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T00:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-achieving-greater-accuracy-in-real-time-vision-processing-with-transformers.md",
+      "title": "Achieving Greater Accuracy In Real-Time Vision Processing With Transformers",
+      "excerpt": "Transformers, first proposed in a Google research paper in 2017, were initially designed for natural language processing (NLP) tasks. Recently, researchers applied transformers to vision applications and got interesting results.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
+      "originalUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/Synopsys_Vision-Processing-with-Transformers-Fig2_transformer-cnn.jpeg",
+          "width": 640,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
+      "title": "NVIDIA would be working on AI-optimized drivers",
+      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-artificial-intelligence-in-fintech-market-is-expected-to-exhibit-a-massive-cagr-of-22-by-2030-microsoft-google-salesforce.md",
       "title": "Artificial Intelligence in Fintech Market is expected to Exhibit a Massive CAGR of 22% by 2030 | Microsoft, Google, Salesforce",
       "excerpt": "Artificial Intelligence (AI) is a rapidly growing technology that is transforming the financial services industry, often referred to as Fintech. AI is used to automate and improve many of the ...",
@@ -1028,126 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
-      "title": "Natural Language Processing: Guiding the Way for Retail CX",
-      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
-          "width": 750,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Total Retail",
-        "domain": "mytotalretail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "Scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "To investigate whether machine learning tools could accurately predict the rate of drug release, the research team trained and evaluated a series of eleven different models, including multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
-      "originalUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg",
-          "width": 2880,
-          "height": 1921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-impact-of-the-mind-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.md",
-      "title": "The impact of the MIND dietary pattern on cognitive health and incidence of dementia",
-      "excerpt": "Around seventeen population-based studies conducted in Sweden, Australia, France, the US, Spain, Israel, Brazil, and the Netherlands, have analyzed the association between MIND and cognitive health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

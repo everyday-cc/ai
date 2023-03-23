@@ -2,6 +2,137 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-19-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
+      "title": "The AI arms race highlights the urgent need for responsible innovation",
+      "excerpt": "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
+      "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
+      "publishedDateTime": "2023-03-19T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
+      "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
+      "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
+      "publishedDateTime": "2023-03-19T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Record",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
+      "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
+      "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
+      "publishedDateTime": "2023-03-18T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
       "title": "Chinese firm to launch robot taxis",
       "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
@@ -1084,161 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply.md",
-      "title": "I Asked ChatGPT How It Will Impact Retailing. Here’s The Reply.",
-      "excerpt": "The feature that’s creating the most buzz is called ChatGPT, a natural language processing algorithm that responds to prompts (questions) like an online customer service chatbot, except this one is on steroids. Instead of a list of ranked answers to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
-      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64148349e818e1c97376a1f0/0x0.jpg?format=jpg&crop=2065,1160,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/03/17/i-asked-chatgpt-how-it-will-impact-retailing-heres-the-reply/amp/",
-      "publishedDateTime": "2023-03-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-we-are-a-little-bit-scared-openai-ceo-warns-of-risks-of-artificial-intelligence.md",
-      "title": "‘We are a little bit scared’: OpenAI CEO warns of risks of artificial intelligence",
-      "excerpt": "Sam Altman stresses need to guard against negative consequences of technology, as company releases new version GPT-4",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "originalUrl": "https://www.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/150c4f58de654284c0ea9c0d6146efac782844a1/0_0_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=51af6c3bbdef8f98cd4dc1acd09990e2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/17/openai-sam-altman-artificial-intelligence-warning-gpt4",
-      "publishedDateTime": "2023-03-17T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption.md",
-      "title": "From AI challenge to AI success: How Managed AI is changing the game in AI adoption",
-      "excerpt": "The core value of Managed AI for startup businesses is the enhancement of products with AI solutions, to ensure best-in-class customer experience and quickly gain a competitive edge without large capital investment. Managed MLOps is another essential ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_570790936.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/from-ai-challenge-to-ai-success-how-managed-ai-is-changing-the-game-in-ai-adoption/amp/",
-      "publishedDateTime": "2023-03-17T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

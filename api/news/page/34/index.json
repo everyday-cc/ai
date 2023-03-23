@@ -2,6 +2,144 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-02-19-chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley.md",
+      "title": "ChatGPT sparks Artificial Intelligence 'gold rush' in Silicon Valley",
+      "excerpt": "Since its discrete release in late November, ChatGPT has become one of the fastest growing apps ever and pushed Microsoft and Google to rush out projects that had until now stayed carefully guarded over fears that the technology wasn't yet ready for the public.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/02/19/1600x900/Chatgpt_1675705434973_1676245245617_1676786774063_1676786774063.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
+      "publishedDateTime": "2023-02-18T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-19-driverless-car-market-2028-by-product-type-end-user-capacity-and-geography.md",
+      "title": "Driverless Car Market 2028 By Product Type, End User, Capacity and Geography",
+      "excerpt": "The driverless car is also known as autonomous car, robotic car or self-driving car. According to our latest research, the global Driverless Car market size will reach USD 15190 million in 2028, growing at a CAGR of 17.9Percent over the analysis period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T18:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-19-ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths.md",
+      "title": "AI in opioid addiction: Artificial intelligence can play a big role in treatment, preventing deaths",
+      "excerpt": "By attaching to opioid receptors on nerve cells in the brain, spinal cord, gastrointestinal tract and other body organs, they impede the transmission of pain signals. In order to streamline the procedure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
+      "originalUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/19/600x338/AI-andrea-de-santis-zwd435_1676774094264_1676774106929_1676774106929.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
+      "publishedDateTime": "2023-02-18T18:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-minister-artificial-intelligence-robotics-will-promote-inclusive-devt.md",
       "title": "Minister: Artificial Intelligence, Robotics Will Promote Inclusive Devt",
       "excerpt": "The Minister of Education, Mallam Adamu Adamu, has stated that artificial intelligence (AI) and robotics technology have a huge potential to promote inclusive development, while describing them as ...",
@@ -1019,152 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-gamings-renewal-of-vows-with-hollywood-and-more-on-ugcgenerative-ai-the-deanbeat.md",
-      "title": "Gaming’s renewal of vows with Hollywood and more on UGC/generative AI | The DeanBeat",
-      "excerpt": "It’s vibrant because we’ve seen gaming and Hollywood get married again, thanks to the huge success of The Last of Us television show on HBO, which continues to see millions of people watching every week and boosting sales of the game series.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
-      "originalUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/hbo-last-of-us.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
-      "publishedDateTime": "2023-02-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-combat-ai-robodogs-follow-telepathic-commands-from-soldiers.md",
-      "title": "Combat AI ‘robodogs’ follow telepathic commands from soldiers",
-      "excerpt": "Robinson and fellow soldiers did course training with the mind-reading headsets and robodogs ... A new high-tech headset allows soldiers to control robot dogs using only their thoughts.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
-      "originalUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/robodog-Newsflash-BrainRobotics-04-copy.jpg?quality=75&strip=all&w=661",
-          "width": 661,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
-      "publishedDateTime": "2023-02-17T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-roblox-is-bringing-generative-ai-to-its-gaming-universe.md",
-      "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
-      "excerpt": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "originalUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/master/pass/Roblox-Generative-AI-Materials_science.jpg",
-          "width": 1728,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
-      "publishedDateTime": "2023-02-17T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

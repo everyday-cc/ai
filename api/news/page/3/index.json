@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
+      "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
+      "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
+      "publishedDateTime": "2023-03-21T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus.md",
+      "title": "NVIDIA CuLitho Computational Lithography Massively Accelerates Chip Design Using GPUs",
+      "excerpt": "accelerated computing and AI powerhouse NVIDIA has just announced a new software library, called cuLitho, that promises an exponential acceleration in chip design development times, as well as reduced chip fab data center carbon footprint and the ability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419cdea3277c488c60aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
+      "publishedDateTime": "2023-03-21T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai.md",
       "title": "Nvidia will bring AI to every industry, says CEO Jensen Huang in GTC keynote: “We are at the iPhone moment of AI”",
       "excerpt": "This follows Microsoft Azure’s private preview announcement last week for its H100 virtual machine, ND H100 v5. Meta has now deployed its H100-powered Grand Teton AI supercomputer internally for its AI production and research teams. And OpenAI will be ...",
@@ -63,7 +167,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -800,7 +904,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1137,109 +1241,6 @@
         "name": "WFSB",
         "domain": "wfsb.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
-      "title": "Pickle launches its truck unloading robot arm",
-      "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
-      "originalUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/20230320_130151.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
-      "publishedDateTime": "2023-03-20T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-google-showcases-a-collaborative-partner-in-an-ai-powered-workspace.md",
-      "title": "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace",
-      "excerpt": "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200",
-          "width": 480,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
-      "publishedDateTime": "2023-03-20T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

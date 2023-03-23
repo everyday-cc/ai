@@ -81,6 +81,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
+    excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
+    publishedDateTime: 2023-03-23T09:42:00Z
+    webUrl: "https://www.houstonpublicmedia.org/npr/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-start/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 15
+    images:
+      - url: "https://media.npr.org/assets/img/2023/03/22/deep-fake-video_wide-aff9448244d5548a16621c82cede8c98956acc26.jpg"
+        width: 2396
+        height: 1348
+        isCached: true
 
 secured: "6UOSFpJ+t0G9PUA2sk/WOkz66jzFQgKQ8WyEjuqCQoeDrsWc8nKThfejZJeqMhhT0+T0eBC4541kHwIqccDfDK2xoWmEIues4IEj8fjFaH9aEtZpTfJH5IwxIOpP0/qrw69UXYlCFRD/ZGscY7EyXCSwmI2yjNgsRML/xREGGqGrWx0FOINtFscoGAqD5CEN1Z9jkEJwscZk6cW99Ud7+w8S7K/PxsLpdFSAX/ntwM/Y21q4x+Xhs7t0Z5tHkOGF2lmAbVqgrIK6YsrygewW5gvlphX8gLEhs7FTY82v4ql21y91x92KNpsshOVX1ShIHJerPkq19w/YI6dDgO+GwxPi6uhPLYR2woVWjxrXvx0=;YXJTwTEGCMcRhM5b6Uh2rw=="
 ---

@@ -2,6 +2,154 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-01-10-nvidia-rumored-to-be-developing-ai-optimized-drivers-with-serious-performance-enhancements.md",
+      "title": "Nvidia rumored to be developing AI-optimized drivers with serious performance enhancements",
+      "excerpt": "This is the first rumor we've seen about AI-driven driver development although we know chip makers already use AI to enhance chip research and development, this",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
+      "originalUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-09-image-12.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-ai-and-spam-how-artificial-intelligence-protects-your-inbox.md",
+      "title": "AI and Spam: How Artificial Intelligence Protects Your Inbox",
+      "excerpt": "Conversations around AI often include its role in cybersecurity prevention. AI is a powerful, indispensable tool in fighting cyber threats, but it can also comb through email inboxes to eliminate spam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ai-and-spam/",
+      "originalUrl": "https://www.unite.ai/ai-and-spam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/01/ai-spam-feature-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-attention-uses-natural-language-processing-to-help-sales-reps-sell-faster.md",
+      "title": "Attention uses natural language processing to help sales reps sell faster",
+      "excerpt": "Attention wants to fix that with its sales assistant, which uses AI tech and natural language processing to automatically fill in CRMs after calls and draft follow-up emails. The New York-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "originalUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1337983366.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/09/attention/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/09/attention/amp/",
+      "publishedDateTime": "2023-01-09T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-worlds-first-ai-generated-online-course-created-by-minnesota-startup.md",
       "title": "World's first AI-generated online course created by Minnesota startup",
       "excerpt": "World's first AI-created online course made by Minnesota start-up 04:09 MINNEAPOLIS – A Minnesota startup says it has made the world's first online course that was created entirely by using ...",
@@ -981,135 +1129,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028.md",
-      "title": "Deep Learning Computing Stick Market Reliable Business Data Analysis and Forecast by 2028",
-      "excerpt": "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Deep Learning Computing Stick market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
-      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
-      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-697502/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
-      "title": "Computer Vision Maps Christmas Lights",
-      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
-      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
-          "width": 1195,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

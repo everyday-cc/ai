@@ -89,6 +89,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Govt to install facial recognition technology at airports"
+    excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
+    publishedDateTime: 2023-03-23T08:45:00Z
+    webUrl: "https://thenationonlineng.net/govt-to-install-facial-recognition-technology-at-airports/"
+    type: article
+    provider:
+      name: The Nation Newspaper
+      domain: thenationonlineng.net
+    quality: 54
+    images:
+      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/03/23094446/facial-recognition.jpg"
+        width: 500
+        height: 277
+        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z

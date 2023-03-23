@@ -2,6 +2,153 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-03-10-on-asphyxiation-from-trains-and-other-inaccurate-predictions.md",
+      "title": "On Asphyxiation From Trains and Other Inaccurate Predictions",
+      "excerpt": "“I think there is a world market for maybe five computers,” said the head of IBM in 1943. And “What use could ... Rather than announcing that artificial intelligence will become sentient and rule us all, we should examine the various applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/technology-predictions-history/",
+      "originalUrl": "https://www.wired.com/story/technology-predictions-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/640a4ab0d6703b9a3671a876/master/pass/ideas_history_tech_predictions.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/technology-predictions-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/technology-predictions-history/amp",
+      "publishedDateTime": "2023-03-10T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-which-stores-are-scanning-your-face-no-one-knows.md",
+      "title": "Which Stores Are Scanning Your Face? No One Knows.",
+      "excerpt": "Our reporter took a five-mile walk around Manhattan to find businesses that are using facial recognition technology. Send any friend a story As a subscriber, you have 10 gift articles to give each ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/12/multimedia/00face-walk-msg-fbcl/00face-walk-msg-fbcl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html",
+      "publishedDateTime": "2023-03-10T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-artificial-intelligence-ai-in-healthcare-market-size-to-surpass-usd-2585-bn-cagr-of-3873.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market Size To Surpass USD 258.5 Bn | CAGR Of 38.73%",
+      "excerpt": "Artificial Intelligence (AI) in Healthcare Market refers to the use of AI technologies, such as machine learning, natural language processing, and computer vision, in the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
+      "originalUrl": "https://menafn.com/1105749479/Artificial-Intelligence-Ai-In-Healthcare-Market-Size-To-Surpass-USD-2585-Bn-CAGR-Of-3873",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-03/10/EP_5573cimage_story.jpeg",
+          "width": 764,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
       "title": "The ‘Search’ For Simpler Analytics",
       "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
@@ -1069,145 +1216,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker.md",
-      "title": "Architect personalized generative AI SaaS applications on Amazon SageMaker",
-      "excerpt": "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/06/ML-13166-arc-1-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T10:57:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-civilengineeringai-to-debut-new-artificial-intelligence-technologies.md",
-      "title": "civilengineering.ai to Debut New Artificial Intelligence Technologies",
-      "excerpt": "New York, New York--(Newsfile Corp. - March 9, 2023) - civilengineering.ai, a tech company working on the application of emerging technologies is utilizing the latest developments in technology to bri",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-ai-to-debut-new-artificial-intelligence-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31284143",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31284143",
-      "publishedDateTime": "2023-03-09T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education.md",
-      "title": "Artificial intelligence robots invade the classroom: The rise of artificial education?",
-      "excerpt": "The future tapped me quietly on the shoulder the other day and suggested that I take a moment to learn about the writing bots.",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
-      "originalUrl": "https://augustafreepress.com/news/artificial-intelligence-robots-invade-the-classroom-the-rise-of-artificial-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2021/02/ai-artificial-intelligence.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

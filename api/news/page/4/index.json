@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
+      "title": "Pickle launches its truck unloading robot arm",
+      "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/20230320_130151.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/pickle-launches-its-truck-unloading-robot-arm/amp/",
+      "publishedDateTime": "2023-03-20T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-google-showcases-a-collaborative-partner-in-an-ai-powered-workspace.md",
+      "title": "Google Showcases ‘A Collaborative Partner’ In An AI-Powered Workspace",
+      "excerpt": "Days later, Google debuted its own conversational AI model called Bard. It was the start of an AI race that will go down in history. Google came out strong last week with a slew of AI announcements across several platforms and business units. Here I'll ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64188c9b0923e519d8d8a87a/0x0.jpg?format=jpg&width=1200",
+          "width": 480,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/20/google-showcases-a-collaborative-partner-in-an-ai-powered-workspace/amp/",
+      "publishedDateTime": "2023-03-20T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-filmustage-leverages-ai-to-break-down-film-scripts-create-shooting-schedules-and-more.md",
       "title": "Filmustage leverages AI to break down film scripts, create shooting schedules and more",
       "excerpt": "Filmustage, an AI-powered platform that can automatically break down scripts, announced today it raised $550,000 in VC funding.",
@@ -605,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1112,94 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation.md",
-      "title": "The AI arms race highlights the urgent need for responsible innovation",
-      "excerpt": "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
-      "originalUrl": "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218",
-      "publishedDateTime": "2023-03-19T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
-      "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
-      "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
-      "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/75/f75e53ee-c4cc-11ed-ba06-bfbde1bf6eb1/641474090a371.image.jpg?resize=1024%2C678",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
-      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html",
-      "publishedDateTime": "2023-03-18T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

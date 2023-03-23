@@ -108,19 +108,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australian PM reveals question for Indigenous Voice referendum"
-    excerpt: "Australia Prime Minister PM has revealed the question voters will be asked at the referendum on establishing an Indigenous Voic"
-    publishedDateTime: 2023-03-23T07:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273659769/australian-pm-reveals-question-for-indigenous-voice-referendum"
+  - title: "Australian PM Reveals Question For Indigenous Voice Referendum"
+    excerpt: "If successful, the Voice will advise Parliament on issues relating to Indigenous peoples. It will also be put to voters that the constitution be amended to include a new chapter titled \"Recognition of Aboriginal and Torres Strait Islander Peoples\"."
+    publishedDateTime: 2023-03-23T09:42:00Z
+    webUrl: "https://menafn.com/1105843794/Australian-PM-Reveals-Question-For-Indigenous-Voice-Referendum"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Mena FN
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://menafn.com/updates/pr/2023-03/23/I_a8f83image_story.jpg"
+        width: 400
+        height: 291
         isCached: true
   - title: "Here are the words of the Voice question"
     excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; The Aboriginal and Torres Strait Islander Voice may make representations ..."
@@ -185,6 +185,6 @@ related:
       domain: theguardian.com
     quality: 9
 
-secured: "dFr22On8SaKsHmaQjjxO2afKOdbm6Zg6F4CmsGhZwnGMLlTIITSffP59PyRKKPUDoHo53wJd87467EFi3YRl3EhmoRojlaZLDC9yaMR+xDZhPkvpIVDLP3Fp0KIUidJ5UqraBB3lBqEd82EXWwnjN7ud7we+ZJBUFWndC+243CS9us+ckkfOCuWzIl6eIOaHxAHLmwUq0WSxvuEvDMcwTZsXn79XQNVHvj2wljGPJMZA3adG4qEexV2RRWJG0ZunIuZb5TGCz2Lq1mjMJ/HY5AC6RH1sA3tWt0Eh//NccRZl20CD4NvTRwzOnol/gTd3ufqFmYku0O+/LsOsGHt2ptfffqaJxSGHx4BEt3I/2JU=;DEr+l4nD7WyU4UFqh2hwjA=="
+secured: "yk0xh3R8sroYnOmN1ybjpama/LHJ3iST1DOgZ0tMhsmK4X5jmmxz0wF1q2SgkuFba5f1xTVfuChrSjGwrgKgmpFIlXah2gQHhrTBGHeLDzdEQXMasNk0dFIaVIWg0v+pBvd2Rdd4Nl6Bt86eowIC/lZ6KqqE3bkUg64LQN9jk3od+29QOyeBF635cPikInCvoxprCuKLA8+ltK5zH5dg8cavx6TMqIygSKFOLuI6oUSNhgZKegWWtkJjoMOubWWeCbWm/jZZWcRKixbDheTUN2s1ImTp3xbSZS4OOauwhDRwNnvXr88NK4admbegovj1XfdjOXoff7UlpZIZEtwrWPilO4hp6jECAA0ZFeMuCdoYcj+LOPdondvE09afnbZ4KU1W5sJpiSy0HfrqSXqh0PYkEKYGlVVF7RQAaSAe1e9TFwYvyrkTqaJgjieMG+kuiunWANmiIFktEuS8dNKCPwEaQL0CKvl81hd0wtBANMFmvXiCmW2euPwbvAppidTbnEOrSlvOkmQvv1X0H0A7CA==;z7/6yMPRvCdc1YXJlW1SGg=="
 ---
 

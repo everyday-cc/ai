@@ -2,6 +2,152 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-03-02-ai-generated-audio-of-joe-biden-and-donald-trump-trashtalking-while-gaming-is-taking-over-tiktok.md",
+      "title": "AI-generated audio of Joe Biden and Donald Trump trashtalking while gaming is taking over TikTok",
+      "excerpt": "Profanity-filled AI deepfakes of Biden and Trump chatting while gaming are very funny. But how voice AI will be used in 2024 is a more open question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3",
+      "originalUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63ff8c2ebb1d0b0018876762?width=1200&format=jpeg",
+          "width": 1199,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp",
+      "publishedDateTime": "2023-03-01T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-venture-investor-b-capital-raises-first-healthcare-fund.md",
+      "title": "Venture Investor B Capital Raises First Healthcare Fund",
+      "excerpt": "The firm has raised about $250 million for the healthcare-only vehicle and plans to devote about $250 million more to medical investments through a diversified growth fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "originalUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-youtubes-new-head-talks-2023-priorities-including-ai-podcasting-shorts-and-more.md",
+      "title": "YouTube’s new head talks 2023 priorities, including AI, podcasting, Shorts and more",
+      "excerpt": "YouTube's new head Neal Mohan penned his first letter today to creators indicating that the company will roll out generative AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
+      "originalUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/",
+      "publishedDateTime": "2023-03-01T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
       "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
       "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
@@ -1061,143 +1207,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-ms-can-the-mediterranean-diet-help-preserve-cognitive-health.md",
-      "title": "MS: Can the Mediterranean diet help preserve cognitive health?",
-      "excerpt": "“Cognitive impairment may affect over 50% of persons with MS and there are currently no effective pharmacologic treatments,” Barbara Giesser, neurologist and MS specialist at Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/03/hand-table-Mediterranean-diet-MS-732x549-thumbnail.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-how-customizing-models-is-bringing-generative-ai-to-the-enterprise.md",
-      "title": "How customizing models is bringing generative AI to the enterprise",
-      "excerpt": "SambaNova Systems today launched SambaNova Suite, which aims to help enterprises build and deploy customized generative AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/",
-      "publishedDateTime": "2023-02-28T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
-      "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
-      "excerpt": "Now a co-founder of an artificial intelligence (AI) software company, created after the viral videos aired, wants people to be more aware of the technology and how they can protect their digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/tech/2023/02/01/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos/",
-      "originalUrl": "https://www.coindesk.com/tech/2023/02/01/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/UXUd2DGQrRHPcynZrbn_HtVmKSc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YW273QENRVGABMFJPLZNX73DKI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/tech/2023/02/01/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/tech/2023/02/01/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos/?outputType=amp",
-      "publishedDateTime": "2023-02-28T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

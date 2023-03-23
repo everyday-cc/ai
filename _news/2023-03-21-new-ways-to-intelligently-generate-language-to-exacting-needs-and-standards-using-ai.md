@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chances are you’re already using AI in your day-to-day life"
+    excerpt: "Artificial intelligence (AI) in its most simple explanation refers to the application ... Of the types of digital technologies most used, the highest on the list are fintech solutions such as money transfer tools, money apps and investing tools, social ..."
+    publishedDateTime: 2023-03-23T08:15:00Z
+    webUrl: "https://it-online.co.za/2023/03/23/chances-are-youre-already-using-ai-in-your-day-to-day-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "EPAoql0JOt/U4T1fsbxHSApvCtnIvqpr0T1d5u7ca5m0C58N/DVjR1Stdrz50CGx/uTOzHQLFVq/8MkdwooDm02MrcmMIbM0mcSZURgy9ptaCaSARgHvNtrD32Rwj1zQw8WHn9rC7ifibeGFS0YYYyONfnJ2njJdiIge25Xdqj/vrR3nlNEVzLekBZdX8Y8if2DvLYq3j/rjagIRYupMdEsFuARVm6vo/Rt+bZNIabvUVLJzGRqOG1L/50nRcvo+50BdAdXwt2pdNe1efuqiO9/I3TTyWwW7czjzrq9VpndX9gmS6mXeAQyJ0l9PnkJ2j7OimLrVgimu9KxoHn+5o1nVERgbd92VM7r+Du58OBq/qz78Cf7vIQ+KrNd2QzovoMyLrcergqdrPqsoGmGa4VRoWkhg6xHn04DhR9LTWeLY3u+nE2ZBL9RjrbBfOb7eLYnR4qdvFCRAdeOrRAhUZ1gkKkMhASMm0LtU7M69C6ceWhVg3Kt6FYOp9NgazItGcqK29WnRQoXXAw1CYyvAXw==;cC0sJP954QbM+leUNaTTMw=="
 ---

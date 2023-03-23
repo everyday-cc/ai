@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
+      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
+      "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-708535/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
+      "title": "Making faces: How to train an AI on your face to create silly portraits",
+      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
+          "width": 300,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
+      "publishedDateTime": "2023-03-22T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-how-ai-could-reduce-contract-inefficiencies-and-drudgery.md",
       "title": "How AI Could Reduce Contract Inefficiencies And Drudgery",
       "excerpt": "Ways AI Can Be Used To Create Better Contracts Natural language processing: AI-powered NLP can be used to analyze and interpret the language used in existing contracts to identify common clauses and language patterns. This can be useful in drafting new ...",
@@ -518,7 +622,7 @@
       "originalUrl": "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1185,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 488,
+      "heat": 478,
       "tags": null,
       "images": [
         {
@@ -1163,110 +1267,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
-      "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
-      "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus.md",
-      "title": "NVIDIA CuLitho Computational Lithography Massively Accelerates Chip Design Using GPUs",
-      "excerpt": "accelerated computing and AI powerhouse NVIDIA has just announced a new software library, called cuLitho, that promises an exponential acceleration in chip design development times, as well as reduced chip fab data center carbon footprint and the ability ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419cdea3277c488c60aff98/0x0.jpg?format=jpg&width=1200",
-          "width": 1188,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/03/21/nvidia-culitho-computational-lithography-massively-accelerates-chip-design-using-gpus/amp/",
-      "publishedDateTime": "2023-03-21T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

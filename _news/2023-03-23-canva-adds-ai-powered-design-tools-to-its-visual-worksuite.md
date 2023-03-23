@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Canva embraces AI with a new suite of brand management features and tools"
+    excerpt: "Other new features include Beat Sync, which automatically matches video footage to the soundtrack, an AI-powered translation feature supporting over 100 languages, and Magic Write, a service that creates content from a simple text prompt. Canva has also ..."
+    publishedDateTime: 2023-03-23T07:44:00Z
+    webUrl: "https://siliconangle.com/2023/03/23/canva-embraces-ai-new-suite-brand-management-features-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
+        width: 1197
+        height: 631
+        isCached: true
   - title: "Runway debuts AI model that can generate videos from text"
     excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
     publishedDateTime: 2023-03-20T22:20:00Z
@@ -88,6 +102,6 @@ related:
         height: 466
         isCached: true
 
-secured: "YcJCbDVpG1h18Iwd0IFZMNhnXyogXSMuJEY2wxJofE+UjS/Odu+6mUBsjRYJNizPD0H1PwoBQ/HCBQFyw3RblNCXzBgWxyMuKXBwvPfQEJ9ZGRX3uwtdQ2Q3hHXxbJAkC/okhprNXxXsaDQU3FhyoUwkaqM5hZR7Ck1gSH5jiqr9JPZp6TUgbg+/bkjyqQNAA1Uojyns7NOz3vNmwuy5JS+8aTq1rxytmP4dBEe/RO0nT7HHC9oHn1jGbxdQ1b+OEX5t6pQXZrICs0EwduG8sZ1s/bWxNb6M0xoHQycBfjQBgTjQ3ka2sp2Uprhi6M/29jpbY/3F1sXkBeF23kGT6jkLKfqZw2LJSDCdxj0EglM=;K9CvjzK526wdf2WavazA7w=="
+secured: "ou4mpMqhdhmBtDK86zHYlTABLbmKU8j4sysh77q5P2QaIDBYt6+eqGI7cvhgNPbUP8Ae88/uuKdCpQS+plnza5JaRCFaFxVzxwtnlsMrXid1eM6OuP/oIdXLhMe96BprPL123anMPJA1bTlc2CEzsbr7wte5z41NUO8B8UOUmZNdy3YRg5y9M7E33AVeDUbZlWWpv/h6tC2YGSqXA8qwsBb7/PrE2hnyjn9dGpd5m9MrTt+YzFoEW7UFy+HSjSWUzYMRXUjiGgAKnhY7g6ZWTZHhUn3qzV4I/rFLMUxWII1mFa5iMahgM8KT/tC4rv6jD2mtVXktbyZK5azW8n+egzgHX5pPykkUrn6WCy7tsZS8W4HF/bz5mHdYj1DNpOtcmnPCPurEMypMff3KI9TNmQPax8qGy9c8Km0DfVLi5cWNEXQN/9cL8sepaPyVmfDCwSnxnbqumV3ZMlXiEIkzbkKrQkIlmmdX7AxFZHs6r9EC+yAPM1ZkYkR6vzvdrZTlsGf2sNeo9fXY0mAWXFYCFA==;5HgvOoZ9I2sP210I8o1X+A=="
 ---
 

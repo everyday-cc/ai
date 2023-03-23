@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chances are you’re already using AI in your day-to-day life"
+    excerpt: "Artificial intelligence (AI) in its most simple explanation refers to the application ... Of the types of digital technologies most used, the highest on the list are fintech solutions such as money transfer tools, money apps and investing tools, social ..."
+    publishedDateTime: 2023-03-23T08:15:00Z
+    webUrl: "https://it-online.co.za/2023/03/23/chances-are-youre-already-using-ai-in-your-day-to-day-life/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "New Ways to Intelligently Generate Language to Exacting Needs and Standards Using AI"
     excerpt: "Apostroph perfects AI-enabled text generation with apoWRITER, an app steps ahead of other tools for multiple uses, including localization."
     publishedDateTime: 2023-03-21T14:00:00Z

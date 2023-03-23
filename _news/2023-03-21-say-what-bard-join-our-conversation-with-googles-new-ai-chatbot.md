@@ -381,20 +381,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "5 Best Chatbot Stocks to Buy As ChatGPT Gains Market Share"
-    excerpt: "At its core, Salesforce Einstein Bot is a natural language processing (NLP) and natural language understanding (NLU) chatbot. At the end of the last quarter of 2022, 117 hedge funds reported owning stakes in Salesforce, Inc. (NYSE:CRM). The biggest hedge ..."
-    publishedDateTime: 2023-03-18T15:50:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-chatbot-stocks-to-buy-as-chatgpt-gains-market-share-1128610/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg"
-        width: 1920
-        height: 2400
-        isCached: true
   - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
     excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
     publishedDateTime: 2023-03-19T16:49:00Z

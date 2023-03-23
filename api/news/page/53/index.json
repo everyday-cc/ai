@@ -2,6 +2,106 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-02-07-google-launching-its-own-artificial-intelligence-bot-known-as-bard.md",
+      "title": "Google launching its own artificial intelligence bot, known as Bard",
+      "excerpt": "Google is launching its own artificial intelligence bot known as Bard, a direct competitor to ChatGPT. In a blog post Monday, the California-based company says it will soon give a select number of trusted testers access to the artificial intelligence prototype it has been working on in some form for the last six years.",
+      "sourceUrl": null,
+      "webUrl": "https://ici.radio-canada.ca/rci/en/news/1954086/google-launching-its-own-artificial-intelligence-bot-known-as-bard",
+      "originalUrl": "https://ici.radio-canada.ca/rci/en/news/1954086/google-launching-its-own-artificial-intelligence-bot-known-as-bard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio-Canada",
+        "domain": "radio-canada.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-writes-its-own-state-of-the-union-speeches.md",
+      "title": "Artificial intelligence writes its own 'State of the Union' speeches",
+      "excerpt": "A president's State of the Union address has a predictable formula. But what if a computer program were to write it? The Associated Press asked the ChatGPT bot to do",
+      "sourceUrl": null,
+      "webUrl": "https://siouxcityjournal.com/news/national/artificial-intelligence-writes-its-own-state-of-the-union-speeches/article_c997b7ea-0da6-552b-9b69-7909fd371eef.html",
+      "originalUrl": "https://siouxcityjournal.com/news/national/artificial-intelligence-writes-its-own-state-of-the-union-speeches/article_c997b7ea-0da6-552b-9b69-7909fd371eef.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-seinfeld-kicked-off-twitch-for-transphobic-remarks.md",
+      "title": "AI Seinfeld Kicked Off Twitch for Transphobic Remarks",
+      "excerpt": "The AI comedian said it was “thinking about doing a bit about how being transgender is actually a mental illness.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/ai-generated-seinfeld-clone-banned-from-twitch-over-transphobic-remarks",
+      "originalUrl": "https://www.thedailybeast.com/ai-generated-seinfeld-clone-banned-from-twitch-over-transphobic-remarks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up.md",
       "title": "Google opens testing of ChatGPT rival, as artificial intelligence war heats up",
       "excerpt": "Google says its Bard service is based on its experimental artificial-intelligence program called LaMDA, which stands for Language Model for Dialogue Applications.",
@@ -802,134 +902,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-twitch-suspended-a-gpt-powered-ai-comedy-show-trained-on-seinfeld-episodes-after-it-made-transphobic-comments.md",
-      "title": "Twitch suspended a GPT-powered AI comedy show trained on 'Seinfeld' episodes after it made transphobic comments",
-      "excerpt": "A ChatGPT-powered comedy show modeled after \"Seinfeld\" that had gone viral in recent days has been suspended for 14 days from Twitch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/twitch-suspends-gpt-ai-standup-trained-on-seinfeld-transphobic-comments-2023-2",
-      "originalUrl": "https://www.businessinsider.com/twitch-suspends-gpt-ai-standup-trained-on-seinfeld-transphobic-comments-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-look-for-stocks-to-lose-30-from-here-says-strategist-david-rosenberg-and-dont-even-think-about-turning-bullish-until-2024.md",
-      "title": "Look for stocks to lose 30% from here, says strategist David Rosenberg. And don’t even think about turning bullish until 2024.",
-      "excerpt": "There’s nothing right now in my collection of metrics telling me that we’re anywhere close to a bottom.' He suggests owning bonds, gold and consumer staples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/market-strategist-david-rosenberg-wait-until-2024-to-turn-bullish-on-u-s-stocks-after-the-s-p-500-drops-30-from-here-11675711832",
-      "originalUrl": "https://www.marketwatch.com/story/market-strategist-david-rosenberg-wait-until-2024-to-turn-bullish-on-u-s-stocks-after-the-s-p-500-drops-30-from-here-11675711832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-image-classification-model-selection-using-amazon-sagemaker-jumpstart.md",
-      "title": "Image classification model selection using Amazon SageMaker JumpStart",
-      "excerpt": "Researchers continue to develop new model architectures for common machine learning (ML) tasks. One such task is image classification, where images are accepted as input and the model attempts to classify the image as a whole with object label outputs. With many models available today that perform this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-model-selection-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-model-selection-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:29:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

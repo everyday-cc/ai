@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-sam-altman-says-potentially-scary-ai-is-on-the-horizon-this-is-what-keeps-ai-experts-up-at-night.md",
+      "title": "Sam Altman says 'potentially scary' AI is on the horizon. This is what keeps AI experts up at night",
+      "excerpt": "So, what do AI ethics experts - the people who are thinking ahead and trying to shape the future integration of AI into our everyday lives - think about this? While Altman claims \"current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2023/02/23/sam-altman-says-potentially-scary-ai-is-on-the-horizon-this-is-what-keeps-ai-experts-up-at",
+      "originalUrl": "https://www.euronews.com/next/2023/02/23/sam-altman-says-potentially-scary-ai-is-on-the-horizon-this-is-what-keeps-ai-experts-up-at",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
       "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
       "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
@@ -1322,40 +1356,6 @@
       "provider": {
         "name": "TweakTown",
         "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
-      "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
-      "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "originalUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

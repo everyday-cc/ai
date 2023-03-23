@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Daily Record
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann"
-    excerpt: "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ..."
-    publishedDateTime: 2023-03-18T15:19:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545"
-    ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
-    cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
-    type: article
-    provider:
-      name: Daily Record
-      domain: dailyrecord.co.uk
-    quality: 61
-    images:
-      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition tech reveals Polish woman is NOT Maddie McCann"
     excerpt: "Facial recognition technology has revealed that the Polish woman who claims to be British toddler Madeline McCann is probably not the missing girl who was snatched from her parents’ holiday villa in 2007. Julia Faustyna, 21, did not match photos of ..."
     publishedDateTime: 2023-03-21T15:12:00Z
