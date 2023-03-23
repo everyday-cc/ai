@@ -2,6 +2,39 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-02-06-ai-image-generators-that-create-close-copies-could-be-a-legal-headache.md",
+      "title": "AI image generators that create close copies could be a legal headache",
+      "excerpt": "Artificial intelligence models trained on millions of images can occasionally reproduce near-perfect copies, researchers have found, which could be significant for ongoing copyright infringement lawsu",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2358066-ai-image-generators-that-create-close-copies-could-be-a-legal-headache/",
+      "originalUrl": "https://www.newscientist.com/article/2358066-ai-image-generators-that-create-close-copies-could-be-a-legal-headache/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation-sources.md",
       "title": "AI Startup Cohere In Talks To Raise Funding At $6 Billion Plus Valuation -sources",
       "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
@@ -847,50 +880,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
-      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
-      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
-      "sourceUrl": null,
-      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
-      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamite News",
-        "domain": "dynamitenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
+      "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
+      "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-whats-next-in-2023-ai-evs-delivery-robots-and-more.md",
       "title": "What's Next in 2023? AI, EVs, delivery robots and more",
       "excerpt": "Smarter AI, electric cars for almost every budget, delivery robots — these are just some of the 2023 predictions from the Axios What's Next team. What did we miss? Give us a shout at whatsnext@axios.com.",
@@ -1037,49 +1089,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-beijing.md",
-      "title": "Pony.ai gets approval for deployment of fully driverless vehicles in Beijing",
-      "excerpt": "Pony.ai has been granted permission to deploy its driverless robotaxi in Beijing. The company is one of the first batches of companies to obtain such a type of permit to test autonomous vehicles in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-Beijing-1648159",
-      "originalUrl": "https://www.econotimes.com/Ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-Beijing-1648159",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.econotimes.com/assets/uploads/202301027cefa71f7badb7ab0_th_1024x0.jpeg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-03-08-chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi.md",
+      "title": "ChatGPT Raises Old And New Concerns About AI. A Conversation With Francesca Rossi",
+      "excerpt": "These issues are often called AI Ethics, or Responsible AI. Francesca Rossi points out that among other things, previous systems were trained on data sets which were more heavily curated, so attempts could at least be made to minimise the amount of bias they displayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640814d6de92a3987c25191c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
+      "publishedDateTime": "2023-03-08T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
       "title": "From marketing to design, brands adopt AI tools despite risk",
       "excerpt": "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT.",
@@ -1162,49 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
-      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
-      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
-      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

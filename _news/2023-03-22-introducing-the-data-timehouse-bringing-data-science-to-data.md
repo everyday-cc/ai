@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-22T15:42:00Z
 originalUrl: "https://www.finextra.com/blogposting/23929/introducing-the-data-timehouse-bringing-data-science-to-data"
 webUrl: "https://www.finextra.com/blogposting/23929/introducing-the-data-timehouse-bringing-data-science-to-data"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://kx.com/wp-content/uploads/2023/03/Timehouse-clean.png"

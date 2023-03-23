@@ -2,6 +2,57 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-01-31-how-to-choose-the-right-chief-ai-officer.md",
+      "title": "How to choose the right Chief AI Officer",
+      "excerpt": "Corporate structures should expand by establishing a Chief AI Officer and a VP of AI to better realize AI's evolving potential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1128201585-1-1-e1623141314309.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-choose-the-right-chief-ai-officer/amp/",
+      "publishedDateTime": "2023-01-30T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-report-chinas-baidu-is-preparing-a-chatgpt-chatbot-rival.md",
       "title": "Report: China’s Baidu is preparing a ChatGPT chatbot rival",
       "excerpt": "Two months after OpenAI’s ChatGPT set the internet ablaze, China’s search engine behemoth, Baidu, is aiming to launch its own artificial intelligence chatbot—which could kick off a new ...",
@@ -1164,60 +1215,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-what-greek-myths-can-teach-us-about-the-dangers-of-ai.md",
-      "title": "What Greek myths can teach us about the dangers of AI",
-      "excerpt": "How far should we go with AI? And what are the looming implications of this technology? Three Ancient Greek myths help us give an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
-      "originalUrl": "https://thenextweb.com/news/what-greek-myths-can-teach-about-dangers-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-15.jpg&signature=56160b29db2ed4aba13fef25ff153c47",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

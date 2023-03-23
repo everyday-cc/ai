@@ -3,12 +3,12 @@ category: news
 title: "Scientists at DeepMind and Meta Press Fusion of AI, Biology"
 excerpt: "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington."
 publishedDateTime: 2023-03-22T13:30:00Z
-originalUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10"
-webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10"
+originalUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
+webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 84
+heat: 104
+published: true
 
 provider:
   name: Wall Street Journal
@@ -21,6 +21,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-708535/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
@@ -39,7 +45,21 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Bandai Namco Entertainment Invests in DeepMotion to Pioneer New Forms of Entertainment with AI Motion Technology"
+    excerpt: "March 21, 2023 /PRNewswire/ -- DeepMotion, a leader in AI motion generation technology, announced today that Bandai Namco Entertainment Inc. has decided to invest in DeepMotion, Inc. (\"DeepMotion\") under the Bandai Namco Entertainment Startup Investment ..."
+    publishedDateTime: 2023-03-22T03:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31450716/bandai-namco-entertainment-invests-in-deepmotion-to-pioneer-new-forms-of-entertainment-with-ai-mot"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
-secured: "W3LEGtiduOMYvInLTruwC3xnv//nAKF6fIvrJyVApI1t126X/JeN3qy/eSJFIQuz0MuoSBuStGK6g51J6xPhFoiB4rooR2JXq2wRn8YKLo4Y4Q2hzvE0geMDTYJtYtFjr1Fi1icDxOyEPP2P0jnl1hTzbXiwN2iPpyzifZ0OLxvPs1AbdSW9YRmI2P6SQqNqRZtlE3BeT9fEbLrdiwBco1VkybdRhahlGqchSTocnfvpf46MMKMikEq05IghPWl/nF4iXOcE5AApfyZo1imf7cjt9IA+NNSNIgJcEM8cJz4Jyqt5evQaIlUpwZ5dU4f7b8FnsaBOA7xzBg7RhUl/p2CvbX/2v+xIPOTabNsIF3Vk4rA51/4+H9a7JEk6LYvrBGjwLFnom6rIqi3utDKwMMkNF1xVhnBf/qX/qLkMjHKtttdpl1So2e+rA1tozQx6jY6Mx0Fmn+AOVkzG1Wn1oRpAGvdCUH44pPhwDlvYXYzXQQHLPiB5ozMXNv1zXBDCJf47+46ubqMIXwRGMPUTvg==;v+NpvuMKKksA+3v/UCPUpA=="
+secured: "djAinDYUcSHW5tJorNtrdb9qoez7OLG5IyH3kgq0J3wmey79IX6YsSPQzomrZUw5OyR5aPMVkLICwJLeeMkFwPJyh7y7gqg1M96Oh8FiKW3HN/02tmgo5cRipCpl2FdrRBMMpuVw9Rwan+U+jwkOCUF6b5R6tPoITgOnbo3rwStuqIT83GO4er56DO6e6FGHql4SC0HbQELoqUCl/+Yu35JHIqoyrcBsxk38pj6TWvlCNSTsIqXL7Lz6JAkzYq2uovfXlWMeztCDLb87KxfJPKOcp49SyOnkc2osrV0swqCDC9X1XnvlT+1BRBpKDcpZUekj1ImzgokfW/n2AVaAOsRHlxslz6NnBbo3ZiLo9xs=;7PG26ByxFWtn43t92J625w=="
 ---
 

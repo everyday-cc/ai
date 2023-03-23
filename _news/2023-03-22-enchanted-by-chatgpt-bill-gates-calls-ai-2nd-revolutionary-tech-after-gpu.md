@@ -256,22 +256,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
-    excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
-    publishedDateTime: 2023-03-22T04:45:00Z
-    webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "AI vs EU: ChatGPT upends Brussels' intentions for regulation"
     excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology — and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon ..."
     publishedDateTime: 2023-03-22T08:42:00Z
@@ -382,22 +366,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Interactive Hrtech Startup Amara Transforms Employee Experience With An AI Chatbot"
-    excerpt: "Being an AI chatbot, Amara chats with employees at critical touchpoints ... across the globe and is continuing to move on the growth trajectory. The early-stage startup has a headcount of 31 and expects to reach 50 by the end of FY22-23."
-    publishedDateTime: 2023-03-18T07:13:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 51
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amara_1679122496.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
     excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
     publishedDateTime: 2023-03-19T05:59:00Z
@@ -487,6 +455,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "AI vs EU: ChatGPT shakes up Brussels plans for regulation"
+    excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology—and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly,"
+    publishedDateTime: 2023-03-22T09:00:00Z
+    webUrl: "https://techxplore.com/news/2023-03-ai-eu-chatgpt-brussels.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-appeared-in-no.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
     excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."

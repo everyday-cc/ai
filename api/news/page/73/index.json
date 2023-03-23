@@ -2,6 +2,49 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-01-25-more-steps-moderate-physical-activity-cuts-dementia-cognitive-impairment-risk.md",
+      "title": "More steps, moderate physical activity cuts dementia, cognitive impairment risk",
+      "excerpt": "Mild cognitive impairment is an early stage of memory loss or thinking problems that is not as severe as dementias. According to the United States Department of Health and Human Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-ted-lieu-and-a-robot-make-great-points-about-the-dangers-of-ai.md",
       "title": "Ted Lieu and a robot make great points about the dangers of AI",
       "excerpt": "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence.",
@@ -1133,57 +1176,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-midjourney-ai-based-art-generator-creates-dazzling-images-from-words.md",
-      "title": "Midjourney AI Based Art Generator Creates Dazzling Images From Words",
-      "excerpt": "AI or Artificial Intelligence is having more than its fair share of “15 minutes of fame” moment (often attributed to Andy Warhol).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/01/23/midjourney-ai-based-art-generator-creates-dazzling-images-from-words/",
-      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/01/23/midjourney-ai-based-art-generator-creates-dazzling-images-from-words/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cf62d738740383be922d82/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/01/23/midjourney-ai-based-art-generator-creates-dazzling-images-from-words/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/01/23/midjourney-ai-based-art-generator-creates-dazzling-images-from-words/amp/",
-      "publishedDateTime": "2023-01-23T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

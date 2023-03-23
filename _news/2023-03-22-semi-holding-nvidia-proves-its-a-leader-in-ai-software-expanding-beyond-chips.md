@@ -374,15 +374,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
-    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
-    publishedDateTime: 2023-03-21T15:32:00Z
-    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 15
   - title: "Crystal Group's rugged hardware with latest NVIDIA GPU brings extreme performance upgrades for AI at the edge"
     excerpt: "The NVIDIA L4 GPU replaces its predecessor-the NVIDIA T4-and incorporates a wide array of updates, like improved performance for artificial intelligence (AI) and machine learning operations. Other benefits of the NVIDIA L4 GPU include: Compact and versatile in size,"
     publishedDateTime: 2023-03-21T20:14:00Z
@@ -420,6 +411,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "E99ngANIvNH97MDHeiq78joDiZMCTq0HfLif7O/Z2XCAlzRKeSn/LQUZfAQT8IONoO6JMkVLNsaEcdNP6MFt3RiRVCZ3Bp+qX3DN0CXxee0uq9kzdeQlfWaskbhqW6+G0aQ9SZusDJwEcgB4Ivplw4G7gh9bVRbXHinec6LGOw93htQL5wIcDxmWrcW+bcYn9gQ7ICGFVR4YF3gyn+DVqFq4llgswzgfwgRuEKzhYSoBJEziwDzMTZuP1GcdN6FNPCF6v1yasKyAq3HRY/Iarno71hG0fv5CGYphM3h7mCHD0i58oVQlgUnuTIqVh05lzaMDPiCg/sgu0WhB982eM3DLpd5nRdzG6TxnJ9zQyYs=;a6n/7wygvt8dIe7g7j180A=="
+secured: "pIve/Z82kZyjjbUOv4nn4SCOQRO9EmFMW1vPZkGIvRzwwJ/83CvmUTkOE4HMGj52HFC0P5B9DPZf0TE59ePdqA5vL0kxsAfudxLdhp24ovBIksVC7ECzQgYGG+Scm4txw7OmHnIjnvEBRUDlh/uQQzjOZbcNqpeF/2n/a3o5svyjASHrq6Cccfc7tEmY38YSzr8zspH8ffQril0E1WdmWfOWAoNke7IwFd4MHF5AkiNrtVs5C8LFRIOxeM/AzyzQuvMCx5hTULtCZirodrClrAVxa9omzv/HgCyDQ1eFwzhjDTP87iQF6Js3RtDGGz7QIrkyovrGIyPBukyk5VZT4qTvP9fG5t3BRMmUHCVA++lJ2p2RXHVfq4e6ou0D4ig9AUELFsA0PECaOK04gdIlPmnp61sw9uNH8RzPcy2pIIzsAThwjAfTzvoYbJ2imfLrS5DBKcF9QQzOBe8W/3KqHWKs5Y41NMT98SAW/PgcoBBtVAxonQbE4UqeKH0NpT+6yu7MZSNqSXgO63GHl7onQg==;zHg4byA0njE9IpzUC3TlkA=="
 ---
 

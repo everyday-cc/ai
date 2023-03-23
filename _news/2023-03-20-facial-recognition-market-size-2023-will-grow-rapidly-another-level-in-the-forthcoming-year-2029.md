@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Development Market Growth by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- The \"Computer Vision Development Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
+    publishedDateTime: 2023-03-23T01:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-growth-by-2031-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Medical Imaging Market Size Report till 2029"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence In Medical Imaging Market\" Insights 2023 By Applications (Neurology, Cardiovascular, Breast"
     publishedDateTime: 2023-03-20T17:16:00Z

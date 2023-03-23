@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Could AI-powered object recognition technology help solve wheat disease?"
-excerpt: "A new project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head ..."
+excerpt: "Could AI-powered object recognition technology help solve wheat disease? Date: March 15, 2023 Source: University of Illinois College of Agricultural, Consumer and Environmental Sciences Summary: A ..."
 publishedDateTime: 2023-03-15T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/03/230315143839.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/03/230315143839.htm"
@@ -19,6 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "74O46eBrHwCkTW/Jg2TFi/1wfFLxmps16vdJbmwVLfNSfJAZA/5pIzDWNQAGNQgm78X/Sp7mma4f14iil3W63XM9xqI6gigIUntrdDBHRKC5z8a1Ej0fO7Y8dPiTnuJFxWQHQFHIKdvh8D/y95GUBx/+h6UbKXUI4WeEm71DeBE7SN6GiZCMgnKgjIgLG4lEGVQ56ZETo2YS09zRsRuj1BskQ20Sx8Zaw5CuRVEVQyMHwNAk9bQJnu/TgSiNNtN6FeC5H1AZ+/+hHiZUAeW5vB4A8DxW4pSS16vTpD4Caiwx2ftut0e4VHAaFsX7yDIYanInsQK74VJH3ZcYdH/nMdKGA+bjHmgS3eWY7XtVUF8=;+r2seEOsxlLhhs9NchzsIQ=="
+secured: "8ypH1rkLruvoMtpIogGIEDXT/fAbisAqT9ogx30kjJH9dGy2FUKxIEfiWQWCjbMRyDI8GORmUF48WPkWgPDkg77I/6BdN3ail1/8nNZ9sEapFWdfQ9v0uBK6MsktPEWQMV8PLyvj7efna4pQT/hIHjY3z6TJk+T7HJH9mOEg3jHySBSTpwWk/GYQGU1P2JKVqKgLLfzYWH04BjThkPY1LbiV9TEZM81lJgCgNBySpSeQoe4XVf4iPo/mL40JULkGZTAFF7Tg2qromTI6pgXoaB/qn+r1pFgX87ryAgUqDtv38w1HMGlG/DuNLhMZkPKlNLCWstx402lLoqHc04/p3E+R0YtXRhBv5Z2WUI+vbHw=;mywsPLQOh/6h9yOYJgo11A=="
 ---
 

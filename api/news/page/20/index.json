@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-03-05-cognitive-impairment-in-multiple-sclerosis-tied-to-diet.md",
+      "title": "Cognitive Impairment in Multiple Sclerosis Tied to Diet",
+      "excerpt": "Among 563 MS patients in a clinical cohort, higher adherence to a Mediterranean diet predicted a 20% lower risk for cognitive impairment (OR 0.80, 95% CI 0.73-0.89), reported Ilana Katz Sand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
+      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/103xxx/103374.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-04T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-generative-ai-could-lower-drug-prices-heres-how.md",
       "title": "Generative AI could lower drug prices. Here's how",
       "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
@@ -1157,49 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
-      "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
-      "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-790970,msid-98383543/stakeholder-consultation-for-digital-india-bill-likely-from-march-rajeev-chandrasekhar.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "publishedDateTime": "2023-03-02T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

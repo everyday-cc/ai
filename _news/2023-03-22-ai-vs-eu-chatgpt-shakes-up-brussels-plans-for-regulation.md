@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
-excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
-publishedDateTime: 2023-03-22T04:45:00Z
-originalUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+title: "AI vs EU: ChatGPT shakes up Brussels plans for regulation"
+excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology—and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly,"
+publishedDateTime: 2023-03-22T09:00:00Z
+originalUrl: "https://techxplore.com/news/2023-03-ai-eu-chatgpt-brussels.html"
+webUrl: "https://techxplore.com/news/2023-03-ai-eu-chatgpt-brussels.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
-    width: 768
-    height: 512
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/chatgpt-appeared-in-no.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -381,22 +379,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Interactive Hrtech Startup Amara Transforms Employee Experience With An AI Chatbot"
-    excerpt: "Being an AI chatbot, Amara chats with employees at critical touchpoints ... across the globe and is continuing to move on the growth trajectory. The early-stage startup has a headcount of 31 and expects to reach 50 by the end of FY22-23."
-    publishedDateTime: 2023-03-18T07:13:00Z
-    webUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048"
-    ampWebUrl: "https://www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/interactive-hrtech-startup-amara-transforms-employee-experience-with-an-ai-chatbot-news-271048/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 51
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Amara_1679122496.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
     excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
     publishedDateTime: 2023-03-19T05:59:00Z
@@ -668,6 +650,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "JLw6vwgIZqaYQxDMBRYLsfwbLKyiwdMZ2OIuAsYyGH5eqRBbXK+xVrxDBfb6Tu4KDCNhB1GJ1lZt7qkemA62/J4DncqUEoddetKlGZyl7P/OzEvOyfYT6FrsGzNfCsC16G3+zoTQEPBjMaH/roR9/XATxgx4zhU9z2PEy0/YBXwrDjRoBM3Hp38BxGuiQfjqtbkZRopeFOFj9tmm6JCKUrkogt1f0z67uBoTqvI94cfU13HUcJuZqkVoIhNKJ88Y9UQjyr2jbKx/AFav/2AoEeTUGKktMes3XILIq/sV1Fm4qHJSHaVljrsTsNYGmlnh35Fojh0VPjMSCgBa6tVj7S7q8/XELsQYonIFryU/7pRNOlX2sZ8slFDO8pO896MIhmcnR6pBy1t7R2vlEAPu+Jt8c12bzsUjXH+T0docuv3jLyaMb+G79od/Dm7rlws7QrZ8Xo2c3oC6Z0+16hPXOHzBqG72qrmvCvnolr8AZw3PsF0fiELW0wrT7JxDt/GvSUXa98C0n0cik99rc7kzsQ==;ghI7nzXglPHb1ADygGyjig=="
+secured: "Upr6/dW2+OdONY9gsqw5x1EfRaGcddo3kBahw6wyKbTo4sqGMgtWO64831/wfg1LWbBN6iN0eq/KVYEAeHxExgZveqSm41qZElxYtTv7qKJ8NWLOiQl2Z44MP1e6xa+UCo3Pd9rHiLRWhZmjaD1FehJTBCx//uvsjDB/1YQAt68t1VkjQa1UFeYCXTkRT/tCjAzwcScWUd58zu8cTCIPyN1i8SllkcsSPUWNE3UHvRITqrcyr6zMb6V+WXh9xgkJ/IKA/xCtDFUXfezyw25ukKmanuL2wmrTknP5X4FZUKYeZQlxR+athjPG0V6jOEkz/UB9XPvD7IQwIRF2+rKDnxy6YWzruHcL574MvrEHD5o=;ZroFWGERThzCaZ2C9RXqmA=="
 ---
 

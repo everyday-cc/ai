@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
+      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
+      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
       "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
       "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
@@ -1093,58 +1136,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
-      "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
-      "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
-      "publishedDateTime": "2023-03-06T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-02-10-sportradar-launches-computer-vision.md",
+      "title": "Sportradar launches Computer Vision",
+      "excerpt": "Sportradar has launched Computer Vision, a live tracking system for sports that utilises AI software. Computer Vision can analyse a live video feed at 120 frames per second, and collect 100 times ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
+      "originalUrl": "https://www.broadcastnow.co.uk/tech-innovation/sportradar-launches-computer-vision/5179002.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/2/2/1390522_sportradarcomputervisiontabletennis1_786333.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-is-chatgpt-woke-ai-chatbot-accused-of-anti-conservative-bias-and-a-grudge-against-trump.md",
       "title": "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump",
       "excerpt": "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ...",
@@ -1093,40 +1136,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
-      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
-      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
-      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

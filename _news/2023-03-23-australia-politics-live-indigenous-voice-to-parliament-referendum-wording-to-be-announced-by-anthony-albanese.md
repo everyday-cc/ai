@@ -61,6 +61,40 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Voice Referendum question has been announced. This is what it means"
+    excerpt: "The government and the Referendum Working Group also announced the proposed wording that will be altered in the Australian Constitution if a 'yes' vote is successful. Australian Prime Minister Anthony Albanese surrounded by members of the First Nations ..."
+    publishedDateTime: 2023-03-23T00:11:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/the-referendum-questions-and-proposed-constitutional-changes-have-been-announced-heres-is-what-it-all-means/ljj6252cg"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/771b09b/2147483647/strip/true/crop/8256x4644+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F20%2F30%2Ffe4b05e0410e96fd0fd9dfa256a4%2F20230323001778085236-original.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM"
+    excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: 1: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; 2: The Aboriginal and Torres Strait Islander Voice may make ..."
+    publishedDateTime: 2023-03-23T01:26:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/mar/23/indigenous-voice-to-parliament-referendum-question-australia-constitution-change-pm-anthony-albanese"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/23/indigenous-voice-to-parliament-referendum-question-australia-constitution-change-pm-anthony-albanese"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/23/indigenous-voice-to-parliament-referendum-question-australia-constitution-change-pm-anthony-albanese"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 9
+  - title: "Anthony Albanese reveals Voice referendum question and provisions"
+    excerpt: "The Albanese government and the Voice working group have agreed on the provisions ... “This is not about symbolism – this is about recognition.”"
+    publishedDateTime: 2023-03-23T00:54:00Z
+    webUrl: "https://www.news.com.au/national/anthony-albanese-reveals-voice-referendum-question-and-provisions/video/f2c2f0fae0d281803b1ae5a017b3cc71"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
 
 secured: "iCrDPnORRj7MSrrkuy31kq9GI1Gc+mShMlbNrLfpLwORU9BhCzKx2VQxGv45LpDlehB+++zZb00NUvReocA+M2A7I0sC4IkVxl049OeZfRUJNKtQxs3lNEOhfMMgB5VfFMi8JLcR7lWpC6ihrz2Ik7uQ3Azi/GQeeJj6E5ZN7lmY/N6IVXMxkQN6pbxotf82eHIc9w0ZMHUo/EIw5HKyiHONY2LdwyhFm8WjJLlxDXhOthpUpaPg93hPjvr2YQMnMSK1svTBxA5Nap+Tzx1B+pceIFcsv1DbbIzLq3mEmkEcIS3jqKNQN4hKcd4QPplzp14e1eqbrP/tjw6jH0OpnyA7NEhAli6eLWGZIZ9eIUE=;ph1WtIM2PrXBhJZPZNTbsQ=="
 ---

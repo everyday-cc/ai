@@ -2,6 +2,58 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-01-18-daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips.md",
+      "title": "Daily Crunch: Apple powers up 14- and 16-inch MacBook Pro models with M2 Pro and Max chips",
+      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
+      "originalUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1149447240.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/17/daily-crunch-apple-powers-up-14-and-16-inch-macbook-pro-models-with-m2-pro-and-max-chips/amp/",
+      "publishedDateTime": "2023-01-17T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-18-why-are-getty-and-shutterstock-on-opposite-sides-of-the-ai-legal-debate.md",
       "title": "Why are Getty and Shutterstock on opposite sides of the AI legal debate?",
       "excerpt": "It has become clear that Getty and Shutterstock have diverged in their efforts to deal with the escalating legal issues around generative AI.",
@@ -1110,40 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-deepminds-ai-chatbot-can-do-things-that-chatgpt-cannot-ceo-claims.md",
-      "title": "DeepMind’s AI chatbot can do things that ChatGPT cannot, CEO claims",
-      "excerpt": "Google’s DeepMind has pioneered advances in artificial intelligence since its founding in 2010, with the ultimate goal of creating a human-level AI (Alan Warburton / Better Images of AI / CC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp",
-      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ai-chatbot-chatgpt-openai-b2262862.html?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

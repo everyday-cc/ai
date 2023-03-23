@@ -2,6 +2,49 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2022-12-07-san-francisco-pauses-policy-arming-robocops-with-explosives.md",
+      "title": "San Francisco pauses policy arming robocops with explosives",
+      "excerpt": "The city’s Board of Supervisors voted Tuesday to suspend a controversial policy allowing police to deploy potentially lethal, remote-controlled robots in ... Mar changed his mind after ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
+      "originalUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/sf-robot-reversal-index.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
+      "publishedDateTime": "2022-12-06T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage.md",
       "title": "Artificial Intelligence, Talking Robots could help detect UTIs at early stage",
       "excerpt": "The £1.1 million FEATHER project, led by the School of Informatics, aims to increase an individual’s wellbeing and reduce the number of serious outcomes from incorrect or late diagnoses of urinary tract infections (UTIs).",
@@ -1085,50 +1128,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles.md",
-      "title": "Kodiak Robotics Awarded $50 Million Contract to Develop Driverless Army Vehicles",
-      "excerpt": "Kodiak Robotics, a leading self-driving truck startup, disclosed that it has been awarded a two-year, USD49 Million contract from the U.S. Department of Defense to help automate U.S. Army ground vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
-      "originalUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialbuzz.com/wp-content/uploads/2022/12/Inside-6.jpg",
-          "width": 506,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

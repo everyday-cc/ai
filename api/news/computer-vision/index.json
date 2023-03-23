@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-23-fg-to-install-facial-recognition-gadgets-at-airports.md",
+      "title": "FG to install facial recognition gadgets at airports",
+      "excerpt": "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
+      "originalUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg",
+          "width": 750,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
+      "publishedDateTime": "2023-03-22T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions.md",
       "title": "Automate Amazon Rekognition Custom Labels model training and deployment using AWS Step Functions",
       "excerpt": "With Amazon Rekognition Custom Labels, you can have Amazon Rekognition train a custom model for object detection or image classification specific to your business needs. For example, Rekognition Custom Labels can find your logo in social media posts, identify your products on store shelves, classify",
@@ -10,7 +53,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -167,7 +210,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 315,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -456,7 +499,7 @@
     {
       "path": "_news/2023-03-15-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
       "title": "Could AI-powered object recognition technology help solve wheat disease?",
-      "excerpt": "A new project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more resistant to fusarium head ...",
+      "excerpt": "Could AI-powered object recognition technology help solve wheat disease? Date: March 15, 2023 Source: University of Illinois College of Agricultural, Consumer and Environmental Sciences Summary: A ...",
       "sourceUrl": null,
       "webUrl": "https://www.sciencedaily.com/releases/2023/03/230315143839.htm",
       "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230315143839.htm",
@@ -1411,49 +1454,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
-      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
-      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
-          "width": 612,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "publishedDateTime": "2023-03-02T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

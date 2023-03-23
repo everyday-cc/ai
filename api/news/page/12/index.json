@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
+      "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
+      "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/00ai-hr-01-jlqw/00ai-hr-01-jlqw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "publishedDateTime": "2023-03-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-microsoft-adds-13-new-african-languages-on-its-translation-service.md",
       "title": "Microsoft adds 13 new African languages on its translation service",
       "excerpt": "Microsoft has added 13 new African languages to its Microsoft Azure Cognitive Services Translator, allowing text and documents to be translated to and from these languages across the entire Microsoft ecosystem of products and services.",
@@ -1112,49 +1163,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-stop-the-spies-with-the-facial-recognition.md",
-      "title": "Stop the spies with the facial recognition",
-      "excerpt": "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition",
-      "originalUrl": "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/",
-      "publishedDateTime": "2023-03-10T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

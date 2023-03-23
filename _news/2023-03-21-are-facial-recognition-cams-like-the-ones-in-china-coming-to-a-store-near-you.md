@@ -9,7 +9,7 @@ ampWebUrl: "https://www.komando.com/security-privacy/chinese-facial-recognition-
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Indications that China has made big strides in chip muscle, price for facial recognition"
-    excerpt: "A Chinese maker of measurement systems designed for 3D facial recognition says its chips outperform other chips on the international market and do it cheaper."
-    publishedDateTime: 2023-03-21T22:36:00Z
-    webUrl: "https://www.biometricupdate.com/202303/indications-that-china-has-made-big-strides-in-chip-muscle-price-for-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 47
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/10162419/ai-chip-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "jvaSE2iYaYigdtmFI4l76tuNtoqVW1//JxGVUCiz7vC09byRuBfzv4S64fdTJyfXQXTjAJSkOzfKZh0A9BRkggrtQ+ze1jM4Dgcdz2RKxFT/7QtqltVuw8w/+ITS1iH2aWlR4Da/e2BA4GfKtuxCVfthOGHgGd/da/pS4XF5mkB+nIPZoOCKY0NNAlH8DK9YNw603U3HpLbMjhR3/aKrkX/wuI2ElKa/XdYjZprODtUboGJdlIKeHsxxvK+mQcRVGDeGO40226S89FjI0CGCx/C4NZnW+/aaKpzHxbm5ZC+1ReWzwS3uezxcJf85k86bfVzuh4AJT5dPS050y4tgwnNwJce7UqdrJH/czd3kjy2G8vprKqTLg1ZPkLVVd7pSF27XB73IKfira6CWJX0t5me+ti2+3/It/MJbFxD8II/19VPJuMBh05flBnKipR+lr9VbTm3t3kftNWEdQ0k7MvSowMmAzfgbAECNPaeqTX/B3dL2mCQKLDIOtavgR7YjNvCfU6XzbqNu99gzKqb7iA==;b5/orWljTowtO/Nh5QGnoA=="
 ---

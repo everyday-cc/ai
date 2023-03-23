@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 714
         isCached: true
+  - title: "Bill Gates praises artificial intelligence in blog post, calling it 'revolutionary'"
+    excerpt: "Microsoft co-founder Bill Gates on Tuesday described artificial intelligence (AI) as \"revolutionary\" and said it will need \"rules of the road\" as it continues to develop. In a Tuesday blog post, Gates touted AI, saying it will change how people live and ..."
+    publishedDateTime: 2023-03-23T00:02:00Z
+    webUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary"
+    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-praises-artificial-intelligence-blog-post-calling-revolutionary.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1de5ea89-63db-4743-8c42-47f109937fcc/5c2392d4-be14-460d-884d-7c83d1dcb9d6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
     excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
     publishedDateTime: 2023-03-22T15:31:00Z

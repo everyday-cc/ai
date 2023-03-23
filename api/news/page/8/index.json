@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-16-for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process.md",
+      "title": "For Wells Fargo, solving for AI at scale is an iterative process",
+      "excerpt": "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "originalUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
+      "publishedDateTime": "2023-03-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
       "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
       "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
@@ -1199,58 +1250,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service.md",
-      "title": "Körber announces next phase of the journey in e-fulfillment through Robotics-as-a-Service",
-      "excerpt": "KArber's Robotics-as-a-Service (RaaS) program will provide simple access to a global network of robotics service partners for every business size and industry, emphasizing KArber's value on collaboration and dedication to meeting its customer's needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/korber-announces-next-phase-of-the-journey-in-e-fulfillment-through-robotics-as-a-service-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

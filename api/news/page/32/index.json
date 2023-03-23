@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-02-21-samsung-and-ambarella-put-ai-in-your-car.md",
+      "title": "Samsung and Ambarella put AI in your car",
+      "excerpt": "Samsung has announced that it is teaming up with Ambarella to bring new levels of artificial intelligence (AI ... Ambarella's CVflow AI engine that has a 20 times faster neural network processing capability than its predecessor, the CV2 SoC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/56369-samsung-and-ambarella-put-ai-in-your-car",
+      "originalUrl": "https://www.fudzilla.com/news/ai/56369-samsung-and-ambarella-put-ai-in-your-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/b9dbd5e95387b01c4246d095b293b91d_L.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
       "title": "5 of the best online artificial intelligence courses available for free this week",
       "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
@@ -1110,49 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-quantum-ai-australia-reviews-2023-scam-trading-app.md",
-      "title": "Quantum AI Australia Reviews 2023 – Scam Trading App?",
-      "excerpt": "Quantum AI Australia states that it uses technical analysis, trend-following methods, and machine learning algorithms to generate profits. The users have to create a free account in order to use the robot’s services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676885088.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "publishedDateTime": "2023-02-20T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
