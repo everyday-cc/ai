@@ -18,6 +18,8 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AWS AI
+  - AI Hardware
 
 secured: "JRl22cgFRdciQBzvcP7TeGCeLlIC41T5y/rHXpQM4F3C9mbyRpX21Mq++N3O8CZq1avxNj6TS0axMj4u4Q6oIcDHwqYAdlgo3TrEao5HbrUCwm7fpU5JE3JaLdFISsHpXCpWDsk5LikBtIwIjseTqxwRvzNWjkOmw1YxsxhDxyen16gAfnRgEnFLqdNveHpx5dVSo+zzoVyvVYxOu4UEMzD4/RLDxFi0bTC/hsXXtEsyNvSCC7i9yc99uNxYp4SSo3u2TCCGQBDu7qkukPhW8AoYrPkRZaAkiQWx2UQznsvQvV8ttIHKIcDKV2XHHiP1sC1EVr9IOpQQrAIXHfXrL1XNJR2sC4YZXgGRfNvP4iQ=;SNhGB3ZL1biwfs73iDoXJw=="
 ---
