@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size Escalating Demand to Drive Growth Through 2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- The Final Report will analyze the Impact of Ongoing Recession On Your Business With Smart Market Solutions to Help Your Business Gain Edge over Competitors Complete Outline of the Worldwide Artificial Intelligence (AI ..."
+    publishedDateTime: 2023-03-23T15:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-size-escalating-demand-to-drive-growth-through-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Platform Market 2023-A Detailed Analysis till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence Platform Market Size 2023-2028 | New Report (126 Pages) | In This Reports Artificial Intelligence Platform Market ..."
     publishedDateTime: 2023-03-22T12:15:00Z
@@ -116,6 +130,20 @@ related:
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
     publishedDateTime: 2023-03-20T09:53:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market Is Booming Worldwide Forecast 2023-2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) in Food and Beverages Market in ICT Industry. The Global Artificial Intelligence (AI ..."
+    publishedDateTime: 2023-03-23T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-is-booming-worldwide-forecast-2023-2029-2023-03-23"
     type: article
     provider:
       name: MarketWatch

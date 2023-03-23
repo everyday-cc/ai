@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Crypto AI Announces Its Launch, Using AI Machine Learning To Create Digital Asset"
-excerpt: "Crypto AI ($CAI) is a software application that generates NFTs through a proprietary algorithm that creates unique digital assets. These assets can then be sold on various NFT marketplaces or used as part of a larger project."
-publishedDateTime: 2023-03-23T12:01:00Z
-originalUrl: "https://menafn.com/1105841582/Crypto-AI-Announces-Its-Launch-Using-AI-Machine-Learning-To-Create-Digital-Asset"
-webUrl: "https://menafn.com/1105841582/Crypto-AI-Announces-Its-Launch-Using-AI-Machine-Learning-To-Create-Digital-Asset"
+title: "Crypto AI Announces Its Launch, Using AI Machine Learning to Create Digital Asset"
+excerpt: "Crypto AI ($CAI), an AI-powered NFT generator that uses machine learning algorithms to create unique digital assets, has announced its official launch in March 2023. The"
+publishedDateTime: 2023-03-23T06:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31469135/crypto-ai-announces-its-launch-using-ai-machine-learning-to-create-digital-asset"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/g31469135/crypto-ai-announces-its-launch-using-ai-machine-learning-to-create-digital-asset"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?459740"
-    width: 294
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: coindesk.com
     quality: 5
 
-secured: "TMr73FoLb1TMsrBZM3LoUmfxbgAVyC6fJMO3eYVW1LM32hp+VVBZLKRO01SdDe2zK5rakpLfsZfmB84mwGbeidYqy5znuF4Frxsd4G3XebIdEF1fSrQo5wcWv3Ce9DHQjRbtXcsgtijTQcGaRar3vm8+WUVfqcRlZKYJr6Us+lKlwrGdsG/RIdbRt0YtMBY79pIOtzaJa/7gB7FACqyOQAacBc5vrVMGUETU+2L6/rMWQ2cdC6yJ9jEOB9hcqI7uInJR9ZVlx9stCCG8Kp3PUhV8ybZvv3E0+EQmGgVnsRAFtyKgtsAIDDTkztFtOEUreVt93TCVD2w+x1OQBk4/SrP0IUVZhLGtK8jdZgrd6cY=;IjqzeBxNHXRj8C6u4Ml2sA=="
+secured: "IRNM1XXkZYUvbGzZjEevlsxRS7aVA1uag68PKX3lYbuilTgCHIT0N3CLak7jIp0xjHWffCKqgcyZ93n7dwGpTDkg21J/ty0xNCYyFa+jM/E/3dSQC7tPp9TTylysziG9jJ4pxuDyHgbQxQt8ZCkYQm8MVnnbbwDppi45gKdhZa+FieyRFL3McqSo/mjDNlXCIFVMiViX4T/fsbgB0H7ZbCdMLUuW2FWSEaihxLLuz5k8bJDXXTDNqcn1CLpzJqy9t/k8vqfXXeAUhl4Y7aU+EOdDAngBN3RtRvTEzzGOMMhv7Y3swd4apeQYj25LHN32Q4YKO1HR16fGhDJSHW5X1WjztzzJA3hN96hwCKYwQcM=;Sudzt/p1Swzcxmx8if1sLw=="
 ---
 

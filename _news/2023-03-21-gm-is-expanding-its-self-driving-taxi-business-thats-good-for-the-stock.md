@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Cruise plans ambitious self-driving expansion"
+    excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
+    publishedDateTime: 2023-03-23T14:48:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-seeks-self-driving-expansion-across-california"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/mOE/rSDyumaQVSSfNxVpVYMeYqCulqUyMbCxrqJrlSK8PRKw1bA0M7blJq0RNcFcPGYalQc10arRks5xZfnMt1DT70YflQ7b/8/m1rrJV8qHxZ/z0iH8BA/cgE3Q5Du2QJSnN/DSUgCtrzoTd68PNWARVwaqeWVPaDJf9QDBmgd0ObFxBVW1gL90yayv1pxxzpw/Kzrd7rfFLNUiH7EIWpZ2BmjVPa5A96dRILFpupNN0Rt348AnGe65H3+2bHRdV6Gr+Drm2sfNH2oIZDfBud1XzGD8/FFt9ziSQ+dZFpQy11/1i7emLsC0zzjqfY5oHGri4O370nvQaD5Gs6964FAXJ96IbaD4fF/TgJH5d08+FaKakbvSeBD6fPVChrIvYAM5URGioALM6OSsTu6Qs3IndRgOI47DetpqIkWTtAaL5KLMZxkRrSa6qzxWLkx9XxsQahQFmqMEVfcEvzvUXgkA8f+9HU1lS0lhB2zkGv9oMuzR4nZmgZTOSZL/TaS70nOf+2oBs1ksv9HcFcCkg==;XN1sCsmrbmbNrQLvJfGapg=="
 ---

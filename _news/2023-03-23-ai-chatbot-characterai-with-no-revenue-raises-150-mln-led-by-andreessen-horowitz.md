@@ -132,6 +132,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
+    excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
+    publishedDateTime: 2023-03-23T15:18:00Z
+    webUrl: "https://www.techspot.com/news/98049-google-bard-accused-plagiarism-publishers-fight-back-against.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-23-image-14.jpg"
+        width: 2500
+        height: 1620
+        isCached: true
   - title: "Why did Stanford take down its Alpaca AI chatbot?"
     excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
     publishedDateTime: 2023-03-22T00:42:00Z

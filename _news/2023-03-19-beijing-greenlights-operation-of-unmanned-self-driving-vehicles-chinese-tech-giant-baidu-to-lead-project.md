@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/03/19/bei
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles-chinese-tech-giant-baidu-to-lead-project"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1240
     height: 743
     isCached: true
-
-related:
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
-    publishedDateTime: 2023-03-20T17:52:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 52
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "CyKIJH9Vr42zG5vPBEOszO7deC6XsJnDwNy77GmgulxOEw+ORPIPxFkUjqIATReRIvlSOPK2GubGxkUJxoSgUGdDHXYldx/dmzHDfzSep2za0ywNX9nN6l1tpwtvHCEfVxzkb4dTLigwHzuD9HiAvxp5g0juT7CBRCR3F++1CwEsQb3UWCsKgPR2RISY5AJ4N5tIgKM4HppSGCmg/csI8/wirwokUb6xBYwZ6idelem14U2cgS2ilfjKXeQcUQHczZwdBD0bqwBq4OWKt5On7WErbaXSep3xJ99eS5EgIEhvmFtt19e0CAI2NVFxzksoFFeeoHo9ffWTubp3SDDGrDdsNuxhoO3Eu1RuMfgHTQByDjeTzZOHUzU2gZpiKiHtwKOe4h+TcL5mgy/X/Nv5XEh8jS0Ts6hzfGEY2NuA5r6K5+cwAAtHNxsNn5eZgE2YyX2F8iTEJtG1Q7N1jLRrzGSDDYP69q3ClSvj5OJzsYZaCcFiPOFafb8Petqpj6gZ3UCCMYI3nmQlMruLb3anjA==;SkABt5SUSUgxHEBJAvlZzQ=="
 ---

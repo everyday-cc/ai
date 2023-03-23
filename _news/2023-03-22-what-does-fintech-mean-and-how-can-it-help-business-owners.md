@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-do
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2023/03/bigstock-Digital-Banking-Virtual-Bank-471389381.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "A Fintech Leader, Perfios Wins the ASEAN-India Business Achievement Award 2023"
-    excerpt: "The ASEAN-India Business Council (AIBC) honored Perfios for its sustained efforts in fostering Digital Transformations for the BFSI segment and helping in achieving the objective of controlling medical inflation through Smart-Insurance-Claims decisioning."
-    publishedDateTime: 2023-03-19T00:01:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/19/9779343.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/2035247/Perfios_Wins_AIBC_Award_2023.jpg"
-        width: 400
-        height: 218
         isCached: true
   - title: "A Fintech Leader, Perfios Wins the ASEAN-India Business Achievement Award 2023"
     excerpt: "Displaying world-class capabilities, Perfios has pioneered ingenious AI/ML powered solutions by leveraging insights ... Perfios' Insights, a Fintech solution that employs intelligent OCR and Machine Learning, transformed the lending practices of Southeast ..."

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Aqara Smart Video Doorbell G4 with on-device AI facial recognition Launched"
+    excerpt: "Smart home accessory maker and Xiaomi ecological chain company Aqara has launched its first video doorbell, the Aqara Smart Video Doorbell G4, which is compatible with HomeKit Secure Video and features facial recognition. The device has a 1080p camera and ..."
+    publishedDateTime: 2023-03-23T16:20:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/23/aqara-smart-video-doorbell-g4-on-device-ai-facial-recognition-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 82
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/03/aqara-G4-launch.jpg"
+        width: 1600
+        height: 890
+        isCached: true
   - title: "Aqara Releases Video Doorbell G4 With Facial Recognition and HomeKit Secure Video Support"
     excerpt: "Smart home accessory maker Aqara today launched its first video doorbell, the HomeKit-enabled G4 with facial recognition. The Video Doorbell G4 features a 1080p camera and is compatible with ‌HomeKit Secure Video‌, along with support for local ..."
     publishedDateTime: 2023-03-23T09:38:00Z
@@ -33,6 +47,15 @@ related:
         width: 1600
         height: 890
         isCached: true
+  - title: "Aqara Releases Video Doorbell G4 with Facial Recognition to Global Markets"
+    excerpt: "Similar to Aqara's Camera Hub G3, the Aqara Smart Video Doorbell G4 features AI-based facial recognition, which is executed locally on device for faster response and privacy protection. Moreover, facial recognition of the doorbell can be used as an automation trigger,"
+    publishedDateTime: 2023-03-23T14:48:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782010.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "IUKIK8g8hRYNnoOXcxtSSvbYautDJx2Je+xuc03OCcKHgqMJ2+d7xP0NFSZG7bRTHGQ00pfat/UEdvJ/OAXGAimvIKKMtjC/v2vxYFxlTlKAu7l+YhOMziGGQdvLPCC9mN/i8zuNvCF0gbBadqZfPLIhvXE3hQxG2ASm2a+58YNen7xT4lntXC2//Ifn1u330hynya6Q+yUabynWqlVx/dPOeWT4k4fv59xnIYugO/K42dtuglw5DVIQHANfMoDeoFdbMyzbxQrxk22IfMDvF7JUp5UGOccJVp5wVoKEIdNCMjsrmuWuoqlVFHr84jn/W9UGXmV9fJ61EmwbmYXVDTfe2BV9Um4WQxyRkbkyLVc=;H6plh4873B95esprzOKf3A=="
 ---

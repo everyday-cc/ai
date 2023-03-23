@@ -212,18 +212,32 @@ related:
       domain: news.com.au
     quality: 24
   - title: "What are Australia's plans for Indigenous Voice?"
-    excerpt: "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage."
-    publishedDateTime: 2023-03-23T15:21:00Z
-    webUrl: "https://www.ourmidland.com/news/politics/article/what-are-australia-s-plans-for-indigenous-voice-17855634.php"
+    excerpt: "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a"
+    publishedDateTime: 2023-03-23T11:32:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australias-plans-indigenous-voice-98067981"
     type: article
     provider:
-      name: Midland Daily News
-      domain: ourmidland.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/32/02/05/23601490/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://s.abcnews.com/images/International/wirestory_5071c5553ca54e833bc104657e359e5c_4x3_992.jpg"
+        width: 992
+        height: 744
+        isCached: true
+  - title: "What Are Australia’s Plans for the ‘Indigenous Voice’?"
+    excerpt: "But Voice proponents argue that recognition in the constitution of Indigenous Australians was an important element of the reform. Victoria state created an elected First People’s Assembly of Victoria in 2019 but that is focused on creating a treaty ..."
+    publishedDateTime: 2023-03-23T15:10:00Z
+    webUrl: "https://thediplomat.com/2023/03/what-are-australias-plans-for-the-indigenous-voice/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 24
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/09/sizes/td-story-s-2/thediplomat_2022-09-28-060747.jpg"
+        width: 600
+        height: 399
         isCached: true
   - title: "How artificial intelligence is helping to detect heart disease in remote Australia"
     excerpt: "Artificial intelligence helps health practitioners perform echocardiograms to detect heart problems The technology could be developed to enable similar scanning of other body areas The trial targets people in remote areas because a national shortage of ..."
@@ -246,6 +260,6 @@ related:
       domain: theguardian.com
     quality: 9
 
-secured: "1B/jNbenl5zem3OQhA9i3FbBDwejSuCR+16VFvlK2HS9SKfojBIS9t+Pe8hjhhornQ+Ud1qykN+JH3mww4QUBg6BCRyP79Ki59hHWCzwZVo1h3Mr6iIO7+36A01iqzVNejaISxgf08f7ubCpId+m7mBTGyob0X5CApTz0GB11rLOLtGARWe3/TQcgFHtkyRZa1O/px1nMu1vi/jp1ly3/a+o9Ssd5H6bPyyIWmTODRToO3al3QKXeazitohP4a3IbYwXkT6I39iTy45zbZhsBQMIiTgdFQxyebr/5U/nqjOFfvW+lFeJNFPtEkB76RcAEgpIleHI8Wa/bBtloO+mJCbKI+uFzBJ8lVDd5XEPh1o=;6iJY2mb4rZFrhMTJXm1Mzw=="
+secured: "1xbPopGQw12iqYBI+MAPqOKJbrFTzAWy8mhIE6YT01FlxlR7ZcRpkKq/zHrs50krOZBaPAStcWfktq1ISBgotLRS6zOtnp16Ra208KWYsXhC8gVBWXZS1lADVC3Zo+Bx+N5gcZXhYsTTdZxOT3AMQe0uuzLtAPMBFJbItbqSSmMs/QCbXoc8dfSLkhpm8e1C+BvEHF7oYIlmLwmcgKBoV93NuDp2NkSc/+BhQ2EcpvKuA6hd8NDFwyb/02JDbNwU3plF9qh+pRHgZCRpNxinTEB4jn+ZPro2LlxtZpCBfybrVH8FiLI/kSPI77dnYpTJupru9Xg7Ad8fBO5sEvbZgomv6ZhlupNvFcOwtxxoKdIQxLyK/+nODj6mZW0dEcW/59Mf7+mbcgBSqd2LxeGj77/2/93LL1s8JUEgMUuRnFn8x8UllUiBzckxDr0ztD0GyGxVzKSx0PYg2CFN94fcCoqzK0UHu6TaIXLTjKEvKjfizfDsGDGVlSnLAqsc7WgPDe2DFAkdwdYIEVEbpTowtA==;afNGMNUF1upNVOZMca+ZAg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 592
+heat: 602
 published: true
 
 provider:
@@ -415,6 +415,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
+    excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
+    publishedDateTime: 2023-03-23T16:55:00Z
+    webUrl: "https://menafn.com/1105846065/Australias-Canva-Adds-AI-Tools-To-Take-On-Microsoft-Google"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/23/TP_bcdc8image_story.jpg"
+        width: 680
+        height: 357
         isCached: true
   - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
     excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."

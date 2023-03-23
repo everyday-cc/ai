@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
+    excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
+    publishedDateTime: 2023-03-23T15:18:00Z
+    webUrl: "https://www.techspot.com/news/98049-google-bard-accused-plagiarism-publishers-fight-back-against.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-23-image-14.jpg"
+        width: 2500
+        height: 1620
+        isCached: true
   - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
     publishedDateTime: 2023-03-23T10:42:00Z
@@ -367,6 +381,6 @@ related:
       domain: infotechlead.com
     quality: 17
 
-secured: "SvRiYX2QV3gEMccKiTCu90v9J7uAvKhDr79TQZBlGqo0S8920RkPjjb6j2v9UVL5adx1VXx6TW3onzERF3z0vYwmWjyzdbK7XvHiPFIdxWeK+raN2uuWra8KmVnFLNZsZFk2tWiFmOQvgpCsqHFf14nijDmJ9P4t+W6S1nqAieOEQPqGh0GcdIxOjiqo3EA7NEv3pLMtfxV7pHVWDB2+jStFlTGbZ4ai3Ws1ganKlPmDoJe4psZz3yzuo1E3W+2F8Sm51P9BwdCtAXK/UMRAiL68Qy6SyT2D2kCnlhGAdaEm6JGmwrfDJ5eDqi47ciaKTn/kiiUxOknCKt3sgnmAnFsM5FhJjzpIK4Mn5LXifKU=;nE997S8k1bgEQcTiKNAEZw=="
+secured: "g4FRLyiScrF5u88M+BzTIM534osqZnvkLao4XILpAZRcqfVjQ0RDT55MeI029AkKaHYNq2lofVjgMHGDy89U3HugCnBxB8MmSOYDQKaMkJ3Db3vf/eDh9WHbh0r6bctTlVoHe3U9GYGhrpbfU8ybwa4nRxGyQ7P/Ww6EGg0TAO5nWD9Gr7D8EYyxALOKFsCJqH6xzxIrDqE44+PMtTeAAGpzYh2nJxwbx39PVkCLu1eGbilKin8YOOd8EQCLtBg1NVIDNhuvby2eH+GtqkTEbh6wfVxeKcUvwD13FCipfJNlqnU2LVkQD+gOPOm6mCA/n50v3vAh85E0XvQ2mwqWlVtobRJcWrxaNrFTEyLFfsLd6cGuwqGcEPJiWAFl0lw7AO51B3NtaDYyQG5YHPeLIzNcd2WqJtKArLophLXsrTIPqTX+Lpv/WkQ47JGqfurCuB5TFk7p4zS9phhBQBnq1uFqIsgaCZwD4SJQbniopQIk3Cgk8uiRdxSurs1rvFK0e6ryDIqpd1/JyX/wrXmoqQ==;ZF/SXisbzYU4JXLEWpQcBg=="
 ---
 

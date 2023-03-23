@@ -60,6 +60,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "We need an AI rights movement"
+    excerpt: "A new dawn is breaking. This is just one of many reasons why we need to build a new field of digital minds research and an AI rights movement to ensure that, if the minds we create are sentient, they have their rights protected. Scientists have long ..."
+    publishedDateTime: 2023-03-23T17:00:00Z
+    webUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/"
+    ampWebUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2018/07/humanoid_robot_07272018_1.jpg?w=1280"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Study highlights complicated relationship between AI and law enforcement"
     excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
     publishedDateTime: 2023-03-22T02:47:00Z

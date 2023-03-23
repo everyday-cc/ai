@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
 type: article
 quality: 87
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641a5f449007f9459b4b2898/0x0.jpg?format=jpg&crop=1455,819,x110,y75,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google is giving Pixel Superfans early access to its ChatGPT AI rival Bard"
-    excerpt: "Google is giving Pixel Superfans early access to its conversational AI “Bard.” The company wants people to start using Bard to improve its knowledge and responses. This indicates that Google might be getting closer to a public launch of its ChatGPT rival."
-    publishedDateTime: 2023-03-21T04:34:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-early-access-3300462/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
     excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"

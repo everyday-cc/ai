@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-excerpt: "By using AI to generate content and responses in line with user input, AIs like ChatGPT can make life easier by automatically generating emails, essays, and mathematical solutions. Chatbot technology has been around for a while in various forms,"
-publishedDateTime: 2023-03-20T13:45:00Z
-originalUrl: "https://www.miamiherald.com/software-business/article273266260.html"
-webUrl: "https://www.miamiherald.com/software-business/article273266260.html"
+excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
+publishedDateTime: 2023-03-20T12:45:00Z
+originalUrl: "https://www.sacbee.com/software-business/article273266260.html"
+webUrl: "https://www.sacbee.com/software-business/article273266260.html"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Natural Language Processing
@@ -202,6 +202,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "3ZC9bvbgs7s7ijeNzR5qrgMLudfDlU9MCga6/+sh6lYPIkEv0SWuIfFv1TpqplCPjjw/ubNWYbLwGZPQgIzxykelidZryy1IQ/E4U4X+pnpkEBEKxHfrcIcg+/FU/kKDA+CzpGwu9H9lXp7L93FXUJm3G9b7DnEbx09iyQHzBYYH/N9AmZc6SMHohY0u/UoZSqe0kFUuqUJ9lXIFYhNNsFLc6GWtJTgXJe9gu0xAHikDjykRx4HYqdZyLwrAwtgKsUF3Mh0pPJ761cZHqYwEuRiUPZcfwng8coWz//bYKiGlRejHbTJdM66sU+6FGrMRhe9kZmLg/IXQirL26ylHgkXRpmK73rlh17aUmaSxnZg=;WZJ9gMdptSq6f2AFbIUalQ=="
+secured: "0q2F2xmelYSXagyDfhXhHxfZZvO/RO308F11jnybiK0Kcag2TAn7aEaZKXgeFqjyKpFijRWEvs89bRN/QZLHOfTT+lp0O1dNmRys2bepVr3kdkAzDB5JdQqvmUHXxm+jbLVtTHH2K6An46JpwVStbm31w76b8+grR7Belj6C7NkCl+RcRwFLVQ1fzm5stbpd2GU0ewfUwQOdhBhKkMHoCfm4fNZo5s9UisCNaI3DNwHOL8IiLmljoBH1graKoSrvCs+angyXAUWtX17qZ0ueaE/vMD89wmsbQ14iel4FMHH+SkEP5ibXw3Oq9wYViHWY1WLj+L8adxZPGb684LQXPIFRbnNH1R6Of6xfuHuGLRg=;plIV/BokIfr39c6mQcyu7Q=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-19T19:47:00Z
 originalUrl: "https://www.horsetalk.co.nz/2023/03/20/artificial-intelligence-insights-brain-injury/"
 webUrl: "https://www.horsetalk.co.nz/2023/03/20/artificial-intelligence-insights-brain-injury/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "KQrDSQ7ffEiB5Hs3+m7PFIEFcunHMIbVxdz1OASjGYKkpV+tHmyEi8rktsE85lySTfVZ8kcDK0gPlAEpFNHcVs97DC68Lm4RFL+GsC8hwn3hJYvU8tTLMC4il9M8lYECzjGTORU6WpLHLvx/oz62z5oDjeZd0CRpPsyoRZu/HQHcvf6tcNN76mwYRm00b0FZzxu+YODB24OHNfHb7wN4l6sefXh9q27kOTby9hgDSQQx1TtABRxxIQeI+Ha9jNk1WCPUsK2/TAHUj4CXK4ims0iuAqnB7x2IhY5SJD4uFqrD2VqyVRzw1TNh3k2sHdtbLxPJDgXUKhchEF/y0D+Ff2rqiluueeHPAn39V7U+fdk=;8lPUt8ZrTrG+Rfoxp9O2AA=="
+images:
+  - url: "https://www.horsetalk.co.nz/wp-content/uploads/2023/03/ai-brain-injury.jpg"
+    width: 700
+    height: 349
+    isCached: true
+
+secured: "zkBPI4+W71jETxUEazyNgK8MZQTuvz3prWy8IVEcI7tT3AQEzvUeTBTulW+ikv0zz1GTrXj4gSrtsjIie6jZjAiYVIHkQlu1zTBr1MjtKsssT3MIzhP457ThY8B8bZzD5rib5ccsUP/YcqydPm3PzkplzS5TI4Z1uhsKp2YlGHuYvjNyVSvPB2soTYwzGOArXOhg+45gag9zUpTLGdIf8APdQBcvjvIQ06zZyQjOd2XaVHs8BlfMNRPEG/6Gp0/XHHnmbVwq63iBKIN5suv8Nn3Swd+kXhnod2BjiptvRV6YKnPI3w/OVpgY6SmRNO2Wxt0uQ5o9UFjLNOsgZ4Bz4HOlyVCwHjJC7TY02NBwcjE=;3Hh2uxxpuiSfPpdsj98W6A=="
 ---
 

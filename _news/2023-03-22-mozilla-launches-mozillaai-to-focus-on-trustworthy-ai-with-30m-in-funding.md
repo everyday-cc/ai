@@ -151,6 +151,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Mozilla reveals AI startup with $30 million investment"
+    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai to build an independent open-source AI ecosystem. Mozilla is initially investing $30 million to build this new startup. “The vision for Mozilla.ai is ..."
+    publishedDateTime: 2023-03-23T17:30:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/mozilla-reveals-ai-startup-with-30-million-investment-77522"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 37
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2020/08/Mozilla-Firefox-at-MWC.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "N+N8XV5IXmMGI/6OZodxM6ACx6vEHQrfAqs0CW+hEzTMmNgboqczy3QtE1t3Ze1IdRHUJbyMn2thfESIizg1H1jKv32qJVpsMQR7PZpx3+MO69WBPqeMlpfhteUiDmgHCSJI3rl9gNpu+jo9N1WwyUfiRA1Ky83Nwhmxo09mTIi9FzDtpl60cHK2DO4hVPfw32JcaDre8dzuBPy0Cew1CuBUEYygqkSOHhEJIQ932ct1pYQnZ2XF2T91ghsQJ/dKwdMhCnFtvN3bj7m7BQ6fANQwuet9dH7Ickh3Onm1jcPmPS6j6Il/lxbTBftbod/n8VUzkmVO9wsXFPi+pFniLlXp+vb6gaHr4VbFxvE5s35E8HnA6oAkwxtifl/vBwvLuEJ0LmZQtR3Pq5/1pJeSdoqCRlEQjRIjirW+Pq0anRwGcfPesPvF77krsXREdENwggJHEOQRPFs9fHQAkOxzqs97uRCuLYbHmu+xBpxAcQNMdTlamN+myMXX2eHMB8Aq7RvTfzW55isSvFoeE2K+1w==;hAtq+u9RpYMbR6MYNKQ/tg=="
 ---

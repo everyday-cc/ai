@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/wh3Y5Pgp.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Mozilla reveals AI startup with $30 million investment"
+    excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai to build an independent open-source AI ecosystem. Mozilla is initially investing $30 million to build this new startup. “The vision for Mozilla.ai is ..."
+    publishedDateTime: 2023-03-23T17:30:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/mozilla-reveals-ai-startup-with-30-million-investment-77522"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 37
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2020/08/Mozilla-Firefox-at-MWC.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
     excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."

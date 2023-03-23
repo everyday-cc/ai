@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI startups to watch"
-excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users. Microsoft has a multibillion dollar stake in OpenAI, which is ..."
-publishedDateTime: 2023-03-23T15:15:00Z
-originalUrl: "https://www.bizjournals.com/phoenix/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/phoenix/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
+publishedDateTime: 2023-03-23T14:16:00Z
+originalUrl: "https://www.bizjournals.com/dayton/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/dayton/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
 type: article
 quality: 17
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 330
         isCached: true
 
-secured: "pujb3sCXNjZbEHWpkraBbyga7NisFvAWJk/Pbq8IteuUFEQdIvZwbB9usGbmNg/eAla7/xRfJ8KVW1VeC1IyYDsCVdrtSvUygtywq/juiMs+AcaS9Qd0R6xjBmvZbnQ04gmtUzBplW9JNIw60oy/I3oBP6TJ9Ehp47U70vwXmc4mzujrCC84qFkM0xriXt4t+80e/atSwTiz4EyVgf99ZvWkIW0MJbyoc8znnkNcXAXwK2R4EiQhiCKoH2nice4rK5PDcsMXHgw6YFIi1pzctuqwORsv/NlcnOHEtgCMnDKMU4OX0VuU0fK3fuGWClax3EESo58SJuqN4uNVA3qGoPvZIZebfD348PQ3Ks2Ykvl+bJJtSSWrZyZ+Kxptu0RJ83tQFBSTz7QH+pF7mbgOeqVyOScBzS3IBcUjUoC3SmmkN+mBzfbzhbMFSWllxTPeTCLWFLaO4X4lpuyAhtMbXfZykFJ4ouYDmaQYHHQf0029PLbV4I/xD6yRIvrBJFdI0DLF2oVO5Tsood1nA+wtNw==;WEMeX3COCNZpFk31h7chCw=="
+secured: "Urfn38AzKWlegyomV1nMHjMpojLI1RvrOQYNTLfB/61FsQCRcxHc/+RdHpGInzfv+wfXjItFBgIanoAsQqPGWpVol40Q7js/7nAGBQLZwJHBVKGfSgvsFLh1DBE2cq4LAU6edAgdm5PrAAzKeGy1Fn9bLv9CnytFa37zYreBgL/fRWhSGeamoz9YUXXsOCMC/ZoZiGVM32/I6AMmIVdAMhz/45DcZjwcQKQ/jPHtaOGiae47eb/LoING95GOFRwVzVzuu3FeHUBPs3y7OuhPH1/2LXD9QD8Y2VcDhk06qOqsTIDLtjydxR9AGtGggy6gzB9zSHfmesWr5FMMlfyVka6X163DXMQ1AL3d9GYE7AQ9+oftw3PL/ZOlBwmW3pEhkjB3q31LBhZRweI+D0xCgKwwWIoKyOGwW6hKi8S9n1KEpOmKOaRJUPEqoPp3dLe47HxwqmPg4UUZelrlFPKcqY4sgT4vFo9T1b4v6GCFCERj1al5ekbU8lGMCEAS8tBkvxtZKY8krdLgF+OQcaJQVw==;gvThuwSZiGCJP6xOYJt7hQ=="
 ---
 
