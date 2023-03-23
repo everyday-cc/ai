@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-23-fg-to-install-facial-recognition-gadgets-at-airports.md",
-      "title": "FG to install facial recognition gadgets at airports",
-      "excerpt": "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ...",
+      "path": "_news/2023-03-23-agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports.md",
+      "title": "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports",
+      "excerpt": "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ...",
       "sourceUrl": null,
-      "webUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
-      "originalUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg",
-          "width": 750,
-          "height": 420,
+          "url": "https://i0.wp.com/sass-static.s3.eu-west-2.amazonaws.com/amg/www.thisdaylive.com/uploads/Clem-Agba.png?w=1267&ssl=1&mrf-size=m",
+          "width": 1267,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
-      "publishedDateTime": "2023-03-22T17:02:00-07:00",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "publishedDateTime": "2023-03-22T20:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
+        "name": "This Day",
+        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -53,7 +54,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -210,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -262,7 +263,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -314,7 +315,7 @@
       "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {

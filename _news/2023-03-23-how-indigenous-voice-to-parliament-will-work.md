@@ -1,18 +1,18 @@
 ---
 category: news
 title: "How Indigenous voice to parliament will work"
-excerpt: "“First; recognition. As Australians ... Mr Albanese said the proposed voice would be able to respond to requests for representations from the parliament and the executive government, and will have its own resources to research, develop and make ..."
-publishedDateTime: 2023-03-23T01:04:00Z
-originalUrl: "https://www.adelaidenow.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
-webUrl: "https://www.adelaidenow.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
+excerpt: "Advocates also say enshrining the Voice would symbolise a deeper commitment to reconciliation and recognition of Australia’s First Nations peoples’ unique place in the country’s history and identity. Constitutional recognition would help to ensure ..."
+publishedDateTime: 2023-03-23T04:32:00Z
+originalUrl: "https://www.townsvillebulletin.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
+webUrl: "https://www.townsvillebulletin.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Adelaide Now
-  domain: adelaidenow.com.au
+  name: Townsville Bulletin
+  domain: townsvillebulletin.com.au
 
 topics:
   - Natural Language Processing
@@ -75,6 +75,6 @@ related:
         height: 628
         isCached: true
 
-secured: "mgHNMheNYedzZ4WfHO+lI7e7DbCZ3l6UFTR/xqFt8yE8PsRYtERMaSOCddrgdi59xY9Ao1woZ/c4klHJgb3+LlGCjZTHnx8Rebk0Rafq324w/LFg7aM5HkKgy3oKZNbbRSMeCaQcnk5zUs7ghF21pIEXR/3b++0Wyk85fL1YsGNOG77HnwcWcW1CqZ7OV1mv9faRA6odlExnVVayBBNZ9NtkTskr7K62ApJVaO2Q894zGYJ2rH2uMBKzoZRBnRPmyj5LyHlwSLZz61a+TDch1/gSC4COs4rOTMv0Ym8XJnAznHefROxUeaidMss5m7d3d8bu7CIhjHU/50lcQ5AZRT4V9GoKdy2SPlOgxjPxCyqVfl3gzeO93NX0dozQZ+BjBhR5mFdKEyg4a82CcUy2Lfm4nYk4kykE9aKJzIaRzxNa0qL9GBiXk6nLSBpuKlOp/3el+PZd2CjaEph/rQQ2MSm5nQmEecEgMFZygUe3VN3tkzZuijflRLBStGM2rJsBcwQeStXRhPyj95hfsnP9uw==;16X035lJSadsxpsdqe95qQ=="
+secured: "WRHSGgMaZANDlw0Pz984TLyNpOHw/V3bZTyIVL4LHYzjYPDx/hdybS6qOJ7S6qVN4bMsgJDmQSjrNh/jq4GopLePQQmtTP3aAdjTRF1dNBaMO0deoo68OrEc4BKaSnDZHGSNoqJihwnIDkNjiFQycypu6r8z5o0ZUZBzoaSSGIvWvRDzUNcF+58tHsAFNy1NIjnccwX4rtT12hbOqybLITwl0A1IaT+23buuikPH5hme3mJp2Un/SoL30OGHjdpL6kefeijgBssaTOEur2TaSZKkV/Ae7akiRLcOauAMuBBfrmCwBHcXUFr+bdmIJGK9t8IWLjmak2g0toGXNeVukEmaV4KFAqOxCjIep9SZHVEDr5258TNjjMiHWPVecSV4Han9N3XkwLGWdyfVcALG3tltHSsqhbjQ1dx5xO6CX1pY3lIapxAS/ska9TM1263jP+8oe/kntMu5yiG6jkxRtM8UkNLYsuG1NK94QRYN+jQIq7xC+UqRE/tMWjQb82HtucfvYxM7S2ERUwi0gPUEfg==;reMaZz34gJuB7lVAdqb85w=="
 ---
 

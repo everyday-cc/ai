@@ -25,50 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report"
-    excerpt: "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ..."
-    publishedDateTime: 2023-03-18T10:50:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/18/1600x900/baidu_1679136240916_1679136241185_1679136241185.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver"
-    excerpt: "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides."
-    publishedDateTime: 2023-03-19T13:18:00Z
-    webUrl: "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu-launches-robot-taxis-human-driver/"
-    type: article
-    provider:
-      name: Tuko
-      domain: tuko.co.ke
-    quality: 55
-    images:
-      - url: "https://netstorage-tuko.akamaized.net/images/9eaabf5583f91062.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Baidu gets approval to launch driverless taxi service in Beijing"
-    excerpt: "Chinese tech giant Baidu has won a permit to operate a fully driverless ride-hailing service in Beijing. The firm plans to deploy 10 fully autonomous vehicles in a technology park developed by the government,"
-    publishedDateTime: 2023-03-18T10:30:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/03/baidu-get-approval-to-launch-driverless-taxi-service-in-beijing/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 54
-    images:
-      - url: "https://eandt.theiet.org/media/20986/2023-02-24t091626z_1015371487_rc2dhz9j56us_rtrmadp_3_china-baidu-robotaxi.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=133235318310000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Baidu, Pony.ai won driverless robotaxi permits in Beijing"
     excerpt: "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese."
     publishedDateTime: 2023-03-19T18:17:00Z
@@ -96,20 +52,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
-    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
-    publishedDateTime: 2023-03-19T07:14:00Z
-    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
-    type: article
-    provider:
-      name: legit
-      domain: legit.ng
-    quality: 48
-    images:
-      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "CyKIJH9Vr42zG5vPBEOszO7deC6XsJnDwNy77GmgulxOEw+ORPIPxFkUjqIATReRIvlSOPK2GubGxkUJxoSgUGdDHXYldx/dmzHDfzSep2za0ywNX9nN6l1tpwtvHCEfVxzkb4dTLigwHzuD9HiAvxp5g0juT7CBRCR3F++1CwEsQb3UWCsKgPR2RISY5AJ4N5tIgKM4HppSGCmg/csI8/wirwokUb6xBYwZ6idelem14U2cgS2ilfjKXeQcUQHczZwdBD0bqwBq4OWKt5On7WErbaXSep3xJ99eS5EgIEhvmFtt19e0CAI2NVFxzksoFFeeoHo9ffWTubp3SDDGrDdsNuxhoO3Eu1RuMfgHTQByDjeTzZOHUzU2gZpiKiHtwKOe4h+TcL5mgy/X/Nv5XEh8jS0Ts6hzfGEY2NuA5r6K5+cwAAtHNxsNn5eZgE2YyX2F8iTEJtG1Q7N1jLRrzGSDDYP69q3ClSvj5OJzsYZaCcFiPOFafb8Petqpj6gZ3UCCMYI3nmQlMruLb3anjA==;SkABt5SUSUgxHEBJAvlZzQ=="

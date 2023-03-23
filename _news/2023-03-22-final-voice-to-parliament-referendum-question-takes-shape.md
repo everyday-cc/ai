@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "‘We’re all in’, declares an emotional Albanese as he launches the wording for the Voice referendum"
+    excerpt: "A legal group advised the referendum working group. The PM stressed the practical value of a Voice in closing the gap of indigenous disadvantage. While this was about recognition, he said, more importantly it was about “making a practical difference ..."
+    publishedDateTime: 2023-03-23T04:56:00Z
+    webUrl: "https://theconversation.com/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
+    ampWebUrl: "https://theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/were-all-in-declares-an-emotional-albanese-as-he-launches-the-wording-for-the-voice-referendum-202435"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 30
+    images:
+      - url: "https://images.theconversation.com/files/517084/original/file-20230323-14-6oa8u0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Australia politics live: Indigenous voice to parliament referendum wording to be announced by Anthony Albanese"
     excerpt: "Davis again stressed that the voice needed to talk to executive government ... Davis noted 2023 marked the second decade of consultation and work around Indigenous constitutional recognition in Australia, pointing out there had been at least seven ..."
     publishedDateTime: 2023-03-22T23:29:00Z

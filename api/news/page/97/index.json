@@ -2,6 +2,232 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2023-01-05-people-using-generative-ai-chatgpt-are-instinctively-making-this-ai-rookie-mistake-a-vexing-recipe-for-ai-ethics-and-ai-law.md",
+      "title": "People Using Generative AI ChatGPT Are Instinctively Making This AI Rookie Mistake, A Vexing Recipe For AI Ethics And AI Law",
+      "excerpt": "On a grander scale, all of this has vital significance related to AI Ethics and AI Law. You might find of interest my extensive and ongoing coverage of the latest in AI Ethics and AI Law at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/05/people-using-generative-ai-chatgpt-are-instinctively-making-this-ai-rookie-mistake-a-vexing-recipe-for-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/05/people-using-generative-ai-chatgpt-are-instinctively-making-this-ai-rookie-mistake-a-vexing-recipe-for-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b68be3f217d353a7e0a5f2/0x0.jpg?format=jpg&crop=3122,2082,x147,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/01/05/people-using-generative-ai-chatgpt-are-instinctively-making-this-ai-rookie-mistake-a-vexing-recipe-for-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/01/05/people-using-generative-ai-chatgpt-are-instinctively-making-this-ai-rookie-mistake-a-vexing-recipe-for-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-01-05T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-using-artificial-intelligence-to-gain-insights-into-personality.md",
+      "title": "Using artificial intelligence to gain insights into personality",
+      "excerpt": "While those questions are typically devised by subject matter experts, Hernandez has suggested an alternative source—artificial intelligence. Working with research consultant Weiwen Nie of Hogan ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
+      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel.jpg",
+          "width": 800,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-gain-insights-personality.amp",
+      "publishedDateTime": "2023-01-05T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023.md",
+      "title": "Shufti Pro Makes It To The Ultimate Fintech Awards MEA 2023",
+      "excerpt": "Shufti Pro, the leading provider of AI-powered end-to-end identity verification, eKYC, KYT, and AML solutions, has been nominated at the “Ultimate Fintech Awards MEA 2023” under the categories ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023",
+      "originalUrl": "https://www.digitaljournal.com/pr/shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/Aston-Martin-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T03:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-continental-partners-with-ai-chip-firm-ambarella-on-autonomous-driving.md",
+      "title": "Continental partners with AI chip firm Ambarella on autonomous driving",
+      "excerpt": "BERLIN, Jan 5 (Reuters) - Germany's Continental (CONG.DE) and California-based artificial intelligence chip firm Ambarella (AMBA.O) announced a partnership on Thursday to make software and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/continental-partners-with-ai-chip-firm-ambarella-autonomous-driving-2023-01-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7XVrCeBw_HDdtI3sVdtwJQYYNIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BUICUSJGKBLOTAXLFROW7SVOHE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-artificial-intelligence-and-machine-learning-in-2023.md",
+      "title": "Artificial Intelligence and Machine Learning in 2023",
+      "excerpt": "As 2022 drew to a close, once again the overblown hype surrounding fully automated driverless trucking ... significant—new kid on the artificial intelligence (AI) block is the family of natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
+      "originalUrl": "https://www.aei.org/technology-and-innovation/artificial-intelligence-and-machine-learning-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Enterprise Institute",
+        "domain": "aei.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-syntiant-unveils-ndp115-neural-decision-processor-at-ces-2023.md",
       "title": "Syntiant Unveils NDP115 Neural Decision Processor at CES 2023",
       "excerpt": "Able to run speech inferences at 280 microwatts, the NDP115 is designed to natively run multiple deep neural networks on a variety of architectures, such as CNNs, RNNs and fully connected networks. Ideal for close-talk, far-field, keyword speech and audio ...",
@@ -900,212 +1126,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-chryslers-ces-2023-concept-is-an-artificial-intelligence-powered-dashboard.md",
-      "title": "Chrysler's CES 2023 Concept Is an Artificial Intelligence-Powered Dashboard",
-      "excerpt": "Chrysler claims that STLA AutoDrive will deliver Level 3 autonomous driving and will allow “for hands off the steering wheel and eyes off the road.” The automaker also claimed that its AI can ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/chryslers-ces-2023-concept-is-an-artificial-intelligenc-1849946217",
-      "originalUrl": "https://jalopnik.com/chryslers-ces-2023-concept-is-an-artificial-intelligenc-1849946217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38592c6b9d5b6778187998e88e41f6a7.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T11:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks.md",
-      "title": "Using Artificial Intelligence (AI) to Identify Clonally Derived Cell Lines. See the Future Today, Upcoming Webinar Hosted by Xtalks",
-      "excerpt": "In this free webinar, learn how new artificial intelligence-driven imaging technology is being used to identify single cells automatically on day 0, saving days to weeks of labor and time and accelerating IND submissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks--614150-1.htm",
-      "originalUrl": "https://www.medindia.net/health-press-release/using-artificial-intelligence-ai-to-identify-clonally-derived-cell-lines-see-the-future-today-upcoming-webinar-hosted-by-xtalks--614150-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-3300-self-driving-stroller-set-to-be-next-rich-parent-must-have.md",
-      "title": "$3,300 self-driving stroller set to be next rich parent must-have",
-      "excerpt": "A Canadian startup has developed a pricey self-driving, “hands free” baby stroller which uses artificial intelligence for navigational guidance. The $3,330 Ella smart stroller will be unveiled ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/",
-      "originalUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/GluxKind.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/amp/",
-      "publishedDateTime": "2023-01-04T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-artificial-intelligence-is-about-to-defend-a-human-in-court-for-the-first-time-ever.md",
-      "title": "Artificial Intelligence is about to defend a human in court ‘for the first time ever’",
-      "excerpt": "ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in a trial in court. The AI robot will be the first to advise a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
-      "originalUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/01/MF-AI-Court-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/9999684/artificial-intelligence-defend-a-human-in-court-first-time/amp/",
-      "publishedDateTime": "2023-01-04T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai.md",
-      "title": "Citizen’s CZ Smart YouQ watch is powered by NASA research and IBM Watson AI",
-      "excerpt": "Citizen has revealed a smartwatch that’s cut through the CES 2023 noise thanks to an impressive double-whammy collaboration involving NASA and IBM’s AI-powered Watson Studio. Available in a few configurations ranging from casual and sport (costing from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "originalUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/01/Citizen-CZ-Smartwatch-CES-2023-Hot-Stuff-Lead.png",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "cdnAmpWebUrl": "https://www-stuff-tv.cdn.ampproject.org/c/s/www.stuff.tv/hot-stuff/citizens-cz-smart-youq-watch-is-powered-by-nasa-research-and-ibm-watson-ai/amp/",
-      "publishedDateTime": "2023-01-04T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff",
-        "domain": "stuff.tv",
-        "images": null,
         "publishers": null,
         "authors": null
       },

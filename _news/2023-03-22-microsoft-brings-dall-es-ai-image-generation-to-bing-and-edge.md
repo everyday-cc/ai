@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
+    excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
+    publishedDateTime: 2023-03-23T05:25:00Z
+    webUrl: "https://www.pcworld.com/article/1665426/cant-wait-for-microsofts-ai-powerpoint-switch-to-canva-instead.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/Magic-Presentations.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
     excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
     publishedDateTime: 2023-03-22T15:03:00Z

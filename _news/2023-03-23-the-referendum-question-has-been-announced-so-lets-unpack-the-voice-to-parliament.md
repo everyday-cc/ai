@@ -67,13 +67,13 @@ related:
         height: 628
         isCached: true
   - title: "How Indigenous voice to parliament will work"
-    excerpt: "“First; recognition. As Australians ... Mr Albanese said the proposed voice would be able to respond to requests for representations from the parliament and the executive government, and will have its own resources to research, develop and make ..."
-    publishedDateTime: 2023-03-23T01:04:00Z
-    webUrl: "https://www.adelaidenow.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
+    excerpt: "Advocates also say enshrining the Voice would symbolise a deeper commitment to reconciliation and recognition of Australia’s First Nations peoples’ unique place in the country’s history and identity. Constitutional recognition would help to ensure ..."
+    publishedDateTime: 2023-03-23T04:32:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
     type: article
     provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
     quality: 4
 
 secured: "aEI2JgODVRwJwLp/SqjLiagG/nn0jekh+D3+HjwR8FUPeBawxBEw7BmRZQx6jmK38OUC4ttrcrSdLZjxL6d6xawC9hSYPOtKo+9+OuH90M9do2MuSl8y8+2CfEFQ0kK88EnZwz/cQXRJ4i8/ptL7BBYDBoRtWtEGqZYbAUwt036htP+bePSyFLAlDFsmvMRNfFQpTQYHdCCWrKPBJn9fMnvi/Ch0qNGsh8Z8wzKcPZEp/39e+xzsJinUOUrX+twlopRYvLK3BQIGvJjDg/b3i3GCK5G9apMNfSamuZscPjiQQ/03t0kbP+6FTnLiTO+21p0v6tHlB5fwANY8PvX0lamHbLihxADNFTVMPJ2w3xY=;8fnvdU8IuQWHbZHMdh6oug=="

@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
+    excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
+    publishedDateTime: 2023-03-23T05:25:00Z
+    webUrl: "https://www.pcworld.com/article/1665426/cant-wait-for-microsofts-ai-powerpoint-switch-to-canva-instead.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/Magic-Presentations.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
     excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
     publishedDateTime: 2023-03-21T17:28:00Z

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-12-amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal.md",
+      "title": "AMD proved that Apple skipping 4nm chips isn't a big deal",
+      "excerpt": "AMD said at CES that its use of a 4nm process helps its new chips beat two-year old Apple Silicon, but in doing so, it revealed that a jump to 4nm was not a big deal for Apple's future chip releases.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "originalUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/52360-104443-449911-Ryzen-3-Key-Art_01_0003_5K-xl.jpg",
+          "width": 1312,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/01/12/amd-proved-that-apple-skipping-4nm-chips-isnt-a-big-deal/amp/",
+      "publishedDateTime": "2023-01-12T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
       "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
       "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
@@ -1337,49 +1380,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amd-launches-new-ai-powered-pc-chips-at-ces.md",
-      "title": "AMD Launches New AI-Powered PC Chips at CES",
-      "excerpt": "Last year was a tough one for Advanced Micro Devices The microprocessor company was hurt in particular by a sharp falloff in personal computer demand, as a pandemic-era surge in PC purchases faded away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "originalUrl": "https://www.barrons.com/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-696996/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-ryzen-radeon-chips-stock-price-ces-51672867182",
-      "publishedDateTime": "2023-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

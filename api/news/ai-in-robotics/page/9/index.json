@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-14-alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.md",
+      "title": "Alphabet robotics subsidiary Intrinsic lays off 20% staff",
+      "excerpt": "It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments. The news about the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "originalUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "publishedDateTime": "2023-01-13T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
       "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
       "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 01/13/2023. Discounted offers are only available to new ...",
@@ -1249,58 +1292,6 @@
         "name": "Autoblog",
         "domain": "autoblog.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
-      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
-      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

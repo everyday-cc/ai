@@ -2,6 +2,203 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-03-08-aws-selected-as-southwest-airlines-preferred-cloud-provider.md",
+      "title": "AWS Selected as Southwest Airlines’ Preferred Cloud Provider",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Southwest Airlines Co. (NYSE: LUV) has selected AWS as its preferred cloud provider as the airline advances its digital transformation initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/aws-selected-as-southwest-airlines-preferred-cloud-provider/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/aws-selected-as-southwest-airlines-preferred-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-podcast-why-pharma-marketers-need-ai-now.md",
+      "title": "Podcast: Why pharma marketers need AI now",
+      "excerpt": "In this podcast, William Grambley, CEO of AllazoHealth, explores how pharma marketers can reach their omni-channel engagement objectives with artificial intelligence (AI), anticipate patient intent, and drive next-best-action at the individual level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
+      "originalUrl": "https://www.mmm-online.com/home/channel/sponsored/podcast-why-pharma-marketers-need-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MM&M",
+        "domain": "mmm-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-is-expected-to-reach-359-billion-by-2031-allied-market-research.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market is Expected to Reach $35.9 Billion by 2031: Allied Market Research",
+      "excerpt": "The outbreak of the COVID-19 pandemic had a negative impact on the artificial intelligence and robotics in aerospace and defense market. Owing to travel bans, the revenue of airport operators and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/g31256559/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-is-expected-to-reach-35-9-bil",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/g31256559/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-is-expected-to-reach-35-9-bil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31256559",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31256559",
+      "publishedDateTime": "2023-03-08T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-ai-in-2023-ethics-in-the-spotlight.md",
+      "title": "AI In 2023: Ethics In The Spotlight",
+      "excerpt": "US firm Getty",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "originalUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1952584778056026783150258099093848347974-technology-computing-ai-society-politics-1.jpg",
+          "width": 1536,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "publishedDateTime": "2023-03-08T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-how-china-takes-extreme-measures-to-keep-teens-off-tiktok.md",
+      "title": "How China takes extreme measures to keep teens off TikTok",
+      "excerpt": "TikTok announced a one-hour daily limit for users under 18, but authorities in China have pushed the domestic version, Douyin, much further.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/",
+      "originalUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/douyin-tiktok-time.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/08/1069527/china-tiktok-douyin-teens-privacy/amp/",
+      "publishedDateTime": "2023-03-08T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi.md",
       "title": "ChatGPT Raises Old And New Concerns About AI. A Conversation With Francesca Rossi",
       "excerpt": "These issues are often called AI Ethics, or Responsible AI. Francesca Rossi points out that among other things, previous systems were trained on data sets which were more heavily curated, so attempts could at least be made to minimise the amount of bias they displayed.",
@@ -972,249 +1169,6 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-incident-cognitive-impairment-tied-to-stress.md",
-      "title": "Incident Cognitive Impairment Tied to Stress",
-      "excerpt": "Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window Perceived stress was linked with both prevalent and incident cognitive impairment in older adults, data from a national ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
-      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/103420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103420.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "Artificial intelligence (AI) is a field of computer ... alternative to traditional cloud computing services such as Amazon AWS or Google Cloud. PHA is the network’s native currency, and is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.md",
-      "title": "AI will drive personalized healthcare, but ChatGPT not there yet, Johns Hopkins expert says",
-      "excerpt": "While artificial intelligence will soon scan your EHR to give your physician a unique medical picture of you, AI technology like ChatGPT is still in its",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/ai-will-drive-personalized-healthcare-but-chatgpt-not-there-yet-johns-hopkins-expert-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-empowering-micro-entrepreneurs-through-machine-learning.md",
-      "title": "Empowering Micro Entrepreneurs Through Machine Learning",
-      "excerpt": "Brazil-based Zippi's mission is to provide affordable and accessible financial services to over 30 million micro entrepreneurs, many of whom face unique challenges accessing credit from traditional banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64075c41741e252b45817110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
-      "publishedDateTime": "2023-03-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
-      "title": "Is the US government ready for the rise of artificial intelligence?",
-      "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
-      "publishedDateTime": "2023-03-07T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

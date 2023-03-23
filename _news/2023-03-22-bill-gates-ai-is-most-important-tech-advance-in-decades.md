@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-65032848.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65032848.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Bill Gates: “The Age of AI Has Begun”"
+    excerpt: "Microsoft founder Bill Gates recently released a seven-page online paper titled “The Age of AI Has Begun” on March 21, 2021. “It will change the way people work, learn, travel, get health"
+    publishedDateTime: 2023-03-23T05:57:00Z
+    webUrl: "https://technology.inquirer.net/122439/bill-gates-the-age-of-ai-has-begun"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 37
+    images:
+      - url: "https://technology.inquirer.net/files/2023/03/Bill-Gates-featured-image-www.cnbc_.com_-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "cqyqtVgoSF3Xqqno20SIAuDAE+arj12dCRHFwcAjJcwaIqW1Olzb0BJcaNOL1u3lDDfJeA+uz40ebCLeIkk64rPHF55XRObOfXYDd+xMcZkpPurHzYHLB2NbI3KNnMst+t6gmyELcMMpIIxyAbIKLdxy2oD+1mss0jLMT3TLdKRb4ht3WDXDvvJbMAgYYgycvP8YLi84fLDPF7cZskNZUPmSYtfe8rlzwAuq8gef372pbVaGHVJ4DqeSfHAMY3ljVWmVwa/89mILNty2JDB42RQVGRqfhNCEuIdrFCB0PZax+FSC/sJmp1E3DgZIrz6qNALGwFHd75vakCfTZV+9THq36ijQYlGIqoMCfCFr//YwT7NC635e7vEyGS2qT6iDxQc2ehpaLJn8ZPWv0gadohxLFPFkLuudLQsafIJTNNFRjz0kOPFrjBwAnc2Knch38OWky1+Lgi2UzNI209US142529tvJGUcC1vdiQ6AVU74X3UWcyaby4U1AJZ0S8zGgJwzOIBj/MMJBXJqQ0dgyQ==;9SbGrQQy34tp3aE1mgrLTg=="
 ---

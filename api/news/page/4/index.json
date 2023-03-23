@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-20-numbers-station-raises-175m-to-bring-ai-to-your-data-stack.md",
+      "title": "Numbers Station raises $17.5M to bring AI to your data stack",
+      "excerpt": "Numbers Station aims to bring the power of GPT-style foundation models to enterprise use cases, starting with data transformation and record matching.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "originalUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1371533646.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/20/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/amp/",
+      "publishedDateTime": "2023-03-20T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-roblox-launches-generative-ai-materials-coding-tools.md",
+      "title": "Roblox launches generative AI materials & coding tools",
+      "excerpt": "Roblox has announced an open opt-in beta for two new generative AI tools that help users generate materials and assist coding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
+      "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Generative-AI-Materials.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/",
+      "publishedDateTime": "2023-03-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-how-morgan-stanley-is-training-gpt-to-help-financial-advisors.md",
+      "title": "How Morgan Stanley Is Training GPT To Help Financial Advisors",
+      "excerpt": "Morgan Stanley has been working with OpenAI to determine how generative AI systems can help with wealth management questions from its financial advisors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64186ab062f49149c34b2898/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/03/20/how-morgan-stanley-is-training-gpt-to-help-financial-advisors/amp/",
+      "publishedDateTime": "2023-03-20T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-the-future-of-ai-in-banking.md",
       "title": "The Future Of AI In Banking",
       "excerpt": "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -449,7 +605,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -621,6 +777,49 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-baidu-ponyai-won-driverless-robotaxi-permits-in-beijing.md",
+      "title": "Baidu, Pony.ai won driverless robotaxi permits in Beijing",
+      "excerpt": "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
+      "originalUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -849,6 +1048,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
+      "title": "Chinese firm to launch robot taxis",
+      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
+          "width": 561,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "publishedDateTime": "2023-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-techcrunch-roundup-7-vcs-who-are-taking-pitches-ai-best-practices-zero-based-budgeting.md",
       "title": "TechCrunch+ roundup: 7 VCs who are taking pitches, AI best practices, zero-based budgeting",
       "excerpt": "With SVB’s contagion contained, the VC community seems open to writing smallish checks for pre-revenue startups.",
@@ -947,240 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
-      "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
-      "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "publishedDateTime": "2023-03-18T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Record",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
-      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
-      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-ai-can-be-racist-sexist-and-creepy-what-should-we-do-about-it.md",
-      "title": "AI can be racist, sexist and creepy. What should we do about it?",
-      "excerpt": "I talked to Reid Blackman, who has advised companies and governments on digital ethics and wrote the book “Ethical Machines.” Our conversation focuses on the flaws in AI but also recognizes how it will change people’s lives in remarkable ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301111817-03-chatgpt-openai-stock-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/18/politics/ai-chatgpt-racist-what-matters/index.html",
-      "publishedDateTime": "2023-03-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
-      "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
-      "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
-      "publishedDateTime": "2023-03-18T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report.md",
-      "title": "Baidu, Pony win permits to offer driverless robotaxi services in Beijing: Report",
-      "excerpt": "The vehicles will not have humans in the driving seat nor safety operators. Beijing-headquartered Baidu, which generates most of its revenue from its internet search engine, has been focused on self-driving technologies over the past five years as it looks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html",
-      "originalUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/03/18/1600x900/baidu_1679136240916_1679136241185_1679136241185.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/baidu-pony-win-permits-to-offer-driverless-robotaxi-services-in-beijing-report-101679136154336-amp.html",
-      "publishedDateTime": "2023-03-18T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

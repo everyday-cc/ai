@@ -158,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-20-baidu-ponyai-won-driverless-robotaxi-permits-in-beijing.md",
+      "title": "Baidu, Pony.ai won driverless robotaxi permits in Beijing",
+      "excerpt": "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
+      "originalUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
       "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
       "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
@@ -202,6 +245,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-19-chinese-firm-to-launch-robot-taxis.md",
+      "title": "Chinese firm to launch robot taxis",
+      "excerpt": "Chinese tech company Baidu has announced that it can now operate robotaxis in a part of the capital city of Beijing with no human staff or driver inside. According to CNBC, the move eliminates the labor cost for operating self-driving taxis — up to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2017/09/21153552/Baidus-Self-Driving-Car.jpg",
+          "width": 561,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/chinese-firm-to-launch-robot-taxis/?amp",
+      "publishedDateTime": "2023-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
       "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
       "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
@@ -210,7 +297,7 @@
       "originalUrl": "https://www.business-standard.com/article/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1315,101 +1402,6 @@
         "name": "San Antonio Express-News",
         "domain": "mysanantonio.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-fords-future-self-driving-cars-could-repossess-themselves.md",
-      "title": "Ford's Future Self-Driving Cars Could Repossess Themselves",
-      "excerpt": "When automakers sell the dream of a self-driving car, they usually lean on the idea of convenience. Many drivers fantasize about cars that could park themselves without anyone present and be ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/fords-future-self-driving-cars-could-repossess-themselv-1850204376",
-      "originalUrl": "https://jalopnik.com/fords-future-self-driving-cars-could-repossess-themselv-1850204376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7351768b0eca0fa9e98d0d30ca765508.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T15:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031.md",
-      "title": "Automotive Artificial Intelligence Market Key Segments, Share, Size, Trends, Growth, and Forecast 2023 to 2031",
-      "excerpt": "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

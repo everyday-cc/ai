@@ -106,7 +106,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -149,6 +149,49 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-rtx-5000-ada-workstation-gpu-might-be-in-the-works-with-these-killer-specs.md",
+      "title": "NVIDIA RTX 5000 Ada Workstation GPU Might Be In The Works With These Killer Specs",
+      "excerpt": "NVIDIA kicked off this year's GPU Technology Conference (GTC) with a flurry of announcements and an interesting keynote about bringing AI everywhere, all at once. As part of the busy first day, NVIDIA unveiled a new workstation card based on Ada Lovelace ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "originalUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -307,7 +350,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 404,
       "tags": null,
       "images": [
         {
@@ -718,7 +761,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 278,
       "tags": null,
       "images": [
         {
@@ -1447,59 +1490,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
-      "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
-      "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 811,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg",
-          "width": 760,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
-      "publishedDateTime": "2023-03-13T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

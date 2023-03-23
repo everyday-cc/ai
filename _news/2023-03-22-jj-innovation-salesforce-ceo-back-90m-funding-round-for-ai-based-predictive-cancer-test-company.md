@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
-    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
-    publishedDateTime: 2023-03-18T11:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
 
 secured: "gW0qKzTL1PP4XGLp2qG9dyYb/EvWohEH/dgrzM3Zf5DUL+iYC6VPI93GXhqiVW7xgC4wHLq+tcZ/aQGBZQgkawXTX4sX18nhE5VmGz1fU7cWrxOimLIZYO567bKIU6JGps5SFXOe2lZWL4YAOrWpiNp9wvage+tR3w3hPUEaZ5PtzgleQucb/5rofFMZuj2RuOEYKN3CsPNzoOSheysz2KQqfUPVDVMiCYv6+SWnsP1j9D8nm9EebYg+UZxMIznKnc6FKKihtBnP4QgJRlAaEn4+Skq46Vh8ylPS1gn7K8mv+CAb0DUivY7qGIKpwKhmzD83ZnFNlIVOsGSh8WfeL+9XJmONCixEzApNcrbqUms=;SXYFHRTjxmyvtCe4oWMr1g=="
 ---

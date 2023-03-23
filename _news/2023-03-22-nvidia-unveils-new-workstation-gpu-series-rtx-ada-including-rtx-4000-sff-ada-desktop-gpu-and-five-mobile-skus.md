@@ -35,6 +35,20 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "NVIDIA RTX 5000 Ada workstation GPU is apparently in the works with 32GB of VRAM"
+    excerpt: "This would put the power requirement somewhere in the region of 200-250W. It makes sense, especially with reports that NVIDIA GPU sales in the AI and workstation sector lead to the company's stock price shooting. The NVIDIA RTX 5000 Ada Generation GPU ..."
+    publishedDateTime: 2023-03-23T03:31:00Z
+    webUrl: "https://www.tweaktown.com/news/90818/nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90818_01_nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram.jpg"
+        width: 620
+        height: 348
+        isCached: true
 
 secured: "YIwf9JS6Isb49b0ue7TIUMMdQZAS3lEGJkU3aeb9bpCvG0tgcl3s9ozpPNMBplAqmubv8cftvwRSVhxAU+IxeumWF2AS/R1+eagjXf1/Tgdx/yTihIPvagOKx0Q53rid8gog06xr6V/ML/07b3Rsn9kLt3qJ2gC+XlJxIwnkVqc1g6Tsy9jKSoswlKjAEoMWVMr3yh0jh+WGavaK0DIu5LCmaD4FA1kznIzhg26b1ms/XB+VHcdHS07cVaqDlwyqIKEX92Dk5O2oVW4Z7ZlsjhzSRm+yf1S18AzG056Cika9P+KQ2vk6ID6xH9sSCQIPE9c24ZUpvMjiT9yVyg9k7FjvIyB1wCfmrVstiopBMp81qoTntDPoJ/mtvfMtTYu/S9xCKSyJkG5jaOJ/kFFrfcNqKxfOGpSU1TZDO+W8pp4hbIunAT8N2suKwLMlGevUf1tsb94TPXrQMfyJ66bj0GjhQiWinkNgPRiISRYTb3HuNFoPltVV/C9uPxqhRzIIjrz9l5BvAwQ5lhK0+6AICw==;ajbp+R/TiuTHAP1tweYK2w=="
 ---

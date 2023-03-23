@@ -67,15 +67,15 @@ related:
         height: 628
         isCached: true
   - title: "How Indigenous voice to parliament will work"
-    excerpt: "“First; recognition. As Australians ... Mr Albanese said the proposed voice would be able to respond to requests for representations from the parliament and the executive government, and will have its own resources to research, develop and make ..."
-    publishedDateTime: 2023-03-23T01:04:00Z
-    webUrl: "https://www.adelaidenow.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
+    excerpt: "Advocates also say enshrining the Voice would symbolise a deeper commitment to reconciliation and recognition of Australia’s First Nations peoples’ unique place in the country’s history and identity. Constitutional recognition would help to ensure ..."
+    publishedDateTime: 2023-03-23T04:32:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/national/how-indigenous-voice-to-parliament-will-work/news-story/f780e12675cd5c63d87ce353a9e0db81"
     type: article
     provider:
-      name: Adelaide Now
-      domain: adelaidenow.com.au
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
     quality: 4
 
-secured: "jExI1bpoXpVpBYZlXbBB4dCpjicRkfQ92hEAy0oUZAnDB3ho01kTbtOZpAtnQY1KgTS99tPg74fN/syU1Fk7E5JVr3wcvnUWUyKRH2z4U8XU9fXWitlJ80LL0UWppWQkTI9rkVX1c175IjfoaJHQGCd0T3QSgtB9wR5oETTH28iLrY3YFshbiymYOT5+BijNzi2Y/CinuYMXIANOFKLsJ4itUlUK17YlGyeSaBnmi7FleJhVE5O9mIBeUqb42sZqFnPY7jDst5ZWRM/RVNZYJXw3Gd3uzztjy4v1kZjCt2OrDjl8mFaoatR+wPQAI5HP8eI+dAMb3KXyO4uwT6s6WFWCHVwrBNCoHr4kO7y49pQ=;rjUk/nD38uHN7WK+dvfcIw=="
+secured: "wEDsuTp3EydLFQDreR7SzXM07tdo+SZ8mJSKVC7BHMgnO3TPFo885rj99ax773w0QldNZJiNrwI7VoVgR+1JxOU43NQhpxzVvVsf58r0Q4ZfRFAUWftOxacm7dOZcBzACqtq9J2MrwTjJaK4hHZ4FwJyUwxtWNH72p6dlOE1Bg868YFkza6B8mYsazqb7em3U7ziBIPgCQ6eGfakdsisu2yOzzNmZUXfoPxeT0IRt2Cov+mDAMJ0dRjewgMg66LmEsCgUCeb9Atx+lj7aQ048y2cLvqlMznFwQBrV13pi5S66Yw8sGA9e+BXgd5000fFNheWyO9NhJOeRAkVg4np/J0uKz2E2sSB9WXhATY7Ruh3fjytdiL2wzKQo/YRLRfrdOcdjkqSLXJTxDoVg5mEGeFleAUTl0Q6LiWGtQFph7OuskrNBgD7lxQBZ+1w/q5lbOPWGttgD66UOcnR3DzgibkeEYNcopG/BeG4aAiEquVCXscazLXmg70YEiYz96X06AZBn0zO5sBfaWJvxq1DWg==;IlZrVbjBQdx+iAVEbCRs8A=="
 ---
 

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Bard AI integration is in the works for Google Messages"
+    excerpt: "A new beta version of Google Messages seems to hint at Bard integration for AI-generated replies in the works for the app."
+    publishedDateTime: 2023-03-22T23:56:00Z
+    webUrl: "https://bgr.com/tech/bard-ai-integration-is-in-the-works-for-google-messages/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/Google-Bard-1.jpg?quality=82&strip=all"
+        width: 1546
+        height: 861
+        isCached: true
 
 secured: "qgTeEaeBZoSeTWravbMc5r3hn71C+qLS2Tw65zbK5DtoYqf4W7mfnF5u9intxoVY4ImalZWUe+pY5y/3Zc/k+4M0WOufpbNyCjOhOqbFYgaVv0aOopJDG78y1xqOzVV2YsZjaXPPOcp/Osi6Vd747c96KrcpVoFimR0O80rWskeBLGSRkN+Z1dtVWkmOjgET3Ro5UD6AexqLtibcRQunIJCNXqboUJ2zrduxdSoqFkZFhRRuZ86rjNexQb34qNrSubCjqixuYYw8cKmk9/W0I9ZIUqRp55PUZpGRI2pTAqPWJJtB1jRKhd1coz159c3QMCqmt4t22hp1BLOozTActhZaFm0V7Z2I2YbPGSEzMc6UxFk+a41shArDLMuWpUL8KO78vFLb7xT56bmvocG/5XXbK0q9AAgqzgef/rB5BsExzEZGnU8wJcoHtrRanxzPJdAK7xSf1ahm1lb49RDptqw48Q3ztlxb4Clny4qcNmkeGN0PtSguyrDbcv1OMOc1sDwm948rCdfojK72xnrcbg==;XOBebfjxFVaqCghlysaiAA=="
 ---

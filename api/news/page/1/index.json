@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-23-fg-to-install-facial-recognition-gadgets-at-airports.md",
-      "title": "FG to install facial recognition gadgets at airports",
-      "excerpt": "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ...",
+      "path": "_news/2023-03-23-canvas-new-ai-tools-might-replace-your-video-editor.md",
+      "title": "Canva’s new AI tools might replace your video editor",
+      "excerpt": "and they can automatically translate it with Canva’s new AI-powered translate feature that supports more than 100 languages. Once you have the initial design, Canva has Magic Edit and Magic Eraser to help you refine it. Magic Eraser speaks for itself ...",
       "sourceUrl": null,
-      "webUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
-      "originalUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/",
+      "webUrl": "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/",
+      "originalUrl": "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg",
-          "width": 750,
-          "height": 420,
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/canva-magic-edit.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp",
-      "publishedDateTime": "2023-03-22T17:02:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp",
+      "publishedDateTime": "2023-03-22T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports.md",
+      "title": "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports",
+      "excerpt": "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/sass-static.s3.eu-west-2.amazonaws.com/amg/www.thisdaylive.com/uploads/Clem-Agba.png?w=1267&ssl=1&mrf-size=m",
+          "width": 1267,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "publishedDateTime": "2023-03-22T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +93,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -93,6 +146,90 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1.md",
+      "title": "Artificial intelligence is rapidly developing, but how does it work? Experts explain. (Part 1)",
+      "excerpt": "For many of us, the term artificial intelligence conjures up images of science fiction movies. But what is it really? As AI technology becomes a bigger part of our world, Lester Holt sits down with Tristan Harris and Aza Raskin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
+      "originalUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-1-166337605617",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/x_nn_films_lho_ai_230323_Video_Mixdown_1_frame_353-7v5di9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166337605617",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166337605617",
+      "publishedDateTime": "2023-03-22T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview.md",
+      "title": "AI ‘race to recklessness’ could have dire consequences, tech experts warn in new interview",
+      "excerpt": "Artificial intelligence has developed rapidly in recent years, stoking concerns that the technology is being released too quickly and without enough testing. Lester Holt speaks with Tristan Harris and Aza Raskin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-race-to-recklessness-could-have-dire-consequences-tech-experts-warn-in-new-interview-166341189759",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679526691700_nn_lho_ai_revolution_warnings_230322_1920x1080-0edt0f.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166341189759",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166341189759",
+      "publishedDateTime": "2023-03-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -202,48 +339,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-23-artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-2.md",
-      "title": "Artificial intelligence is rapidly developing, but how does it work? Experts explain. (Part 2)",
-      "excerpt": "AI development is happening faster than anyone expected, and it’s quickly raising new questions about how it will impact every aspect of our lives. In an interview with Lester Holt, Tristan Harris and Aza Raskin, co-founders of the Center for Humane ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-2-166337093927",
-      "originalUrl": "https://www.nbcnews.com/video/artificial-intelligence-is-rapidly-developing-but-how-does-it-work-experts-explain-part-2-166337093927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/x_nn_films_lho_ai_230323_Video_Mixdown_1_frame_46-gzdlmp.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo166337093927",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166337093927",
-      "publishedDateTime": "2023-03-22T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-23-testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta.md",
       "title": "TestGPT, a generative AI tool for ensuring code integrity, is released for beta",
       "excerpt": "Codium AI released a beta version of its generative AI-powered code-integrity solution, TestGPT, to assist developers in testing their code.",
@@ -252,7 +347,7 @@
       "originalUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -303,7 +398,7 @@
       "originalUrl": "https://www.entrepreneur.com/leadership/female-ceo-shares-her-experience-leading-an-ai-company/448191",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -551,7 +646,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -804,7 +899,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -847,6 +942,49 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-rtx-5000-ada-workstation-gpu-might-be-in-the-works-with-these-killer-specs.md",
+      "title": "NVIDIA RTX 5000 Ada Workstation GPU Might Be In The Works With These Killer Specs",
+      "excerpt": "NVIDIA kicked off this year's GPU Technology Conference (GTC) with a flurry of announcements and an interesting keynote about bringing AI everywhere, all at once. As part of the busy first day, NVIDIA unveiled a new workstation card based on Ada Lovelace ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "originalUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1057,7 +1195,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1097,162 +1235,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
-      "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
-      "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6419e430c1773afe3e88e9f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1009,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/",
-      "publishedDateTime": "2023-03-22T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-a-us-agency-rejected-face-recognitionand-landed-in-big-trouble.md",
-      "title": "A US Agency Rejected Face Recognition—and Landed in Big Trouble",
-      "excerpt": "He’d decided that Login.gov, which provides a secure way to access dozens of government apps and websites, wouldn’t use selfies and face recognition to verify the identity of people creating new accounts. “The benefits of liveness/selfie do not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/641a4ef3b19ad4e3186e06c8/master/pass/US-Govt-Breaks-Its-Own-Facial-Recognition-Rules-Business-1247661398.jpg",
-          "width": 1800,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp",
-      "publishedDateTime": "2023-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.md",
-      "title": "How Ford and VW's multibillion-dollar self-driving car project failed",
-      "excerpt": "Ford and Volkswagen invested billions into self-driving startup Argo AI to match rivals such as Uber, Tesla and Google. In October 2022 the project shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107062410-1652798050614-Argo_Driverless_3.jpg?v=1679486401",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
-      "publishedDateTime": "2023-03-22T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

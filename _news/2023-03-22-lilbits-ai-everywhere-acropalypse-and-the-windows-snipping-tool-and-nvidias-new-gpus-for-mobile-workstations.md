@@ -368,6 +368,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
+    publishedDateTime: 2023-03-21T15:32:00Z
+    webUrl: "https://www.01net.it/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 15
   - title: "Crystal Group's rugged hardware with latest NVIDIA GPU brings extreme performance upgrades for AI at the edge"
     excerpt: "The NVIDIA L4 GPU replaces its predecessor-the NVIDIA T4-and incorporates a wide array of updates, like improved performance for artificial intelligence (AI) and machine learning operations. Other benefits of the NVIDIA L4 GPU include: Compact and versatile in size,"
     publishedDateTime: 2023-03-21T20:14:00Z

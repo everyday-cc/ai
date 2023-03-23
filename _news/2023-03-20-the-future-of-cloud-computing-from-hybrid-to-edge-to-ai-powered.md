@@ -116,22 +116,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
-    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
-    publishedDateTime: 2023-03-18T12:27:00Z
-    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 58
-    images:
-      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Are Roblox’s new AI coding and art tools the future of game development?"
     excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
     publishedDateTime: 2023-03-21T12:43:00Z

@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-01-05-chryslers-ces-2023-concept-is-an-artificial-intelligence-powered-dashboard.md",
+      "title": "Chrysler's CES 2023 Concept Is an Artificial Intelligence-Powered Dashboard",
+      "excerpt": "Chrysler claims that STLA AutoDrive will deliver Level 3 autonomous driving and will allow “for hands off the steering wheel and eyes off the road.” The automaker also claimed that its AI can ...",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/chryslers-ces-2023-concept-is-an-artificial-intelligenc-1849946217",
+      "originalUrl": "https://jalopnik.com/chryslers-ces-2023-concept-is-an-artificial-intelligenc-1849946217",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38592c6b9d5b6778187998e88e41f6a7.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-3300-self-driving-stroller-set-to-be-next-rich-parent-must-have.md",
+      "title": "$3,300 self-driving stroller set to be next rich parent must-have",
+      "excerpt": "A Canadian startup has developed a pricey self-driving, “hands free” baby stroller which uses artificial intelligence for navigational guidance. The $3,330 Ella smart stroller will be unveiled ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/",
+      "originalUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/01/GluxKind.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/01/04/3300-self-driving-stroller-to-be-next-parent-must-have/amp/",
+      "publishedDateTime": "2023-01-04T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-artificial-intelligence-is-about-to-defend-a-human-in-court-for-the-first-time-ever.md",
       "title": "Artificial Intelligence is about to defend a human in court ‘for the first time ever’",
       "excerpt": "ARTIFICIAL Intelligence is breaking a new frontier, with a company teasing that their robot will be playing an important part in a trial in court. The AI robot will be the first to advise a ...",
@@ -1230,115 +1316,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning.md",
-      "title": "Want To Invest In Artificial Intelligence? Here Are 6 Front Runners In Machine Learning",
-      "excerpt": "Artificial intelligence is the next great technological advancement that will change the way we do many things. Here are the companies leading the way from technological standpoint and an investor perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a479ab4db81071989a89e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "publishedDateTime": "2022-12-22T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Finance",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-self-driving-truck-company-tusimple-to-lay-off-25-of-workforce.md",
-      "title": "Self-driving truck company TuSimple to lay off 25% of workforce",
-      "excerpt": "Autonomous trucking company TuSimple will lay off 25% of staff, or 350 workers, as part of a broader restructuring plan.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
-      "originalUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?resize=1200,633",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/21/self-driving-truck-company-tusimple-to-lay-off-25-of-workforce/amp/",
-      "publishedDateTime": "2022-12-21T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

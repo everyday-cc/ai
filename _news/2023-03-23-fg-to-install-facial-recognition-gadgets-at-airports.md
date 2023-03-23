@@ -9,8 +9,8 @@ ampWebUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airp
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Punch Newspapers
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Indications that China has made big strides in chip muscle, price for facial recognition"
-    excerpt: "A Chinese maker of measurement systems designed for 3D facial recognition says its chips outperform other chips on the international market and do it cheaper."
-    publishedDateTime: 2023-03-21T22:36:00Z
-    webUrl: "https://www.biometricupdate.com/202303/indications-that-china-has-made-big-strides-in-chip-muscle-price-for-facial-recognition"
+  - title: "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports"
+    excerpt: "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ..."
+    publishedDateTime: 2023-03-23T03:24:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 47
+      name: This Day
+      domain: thisdaylive.com
+    quality: 88
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/10162419/ai-chip-scaled.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://i0.wp.com/sass-static.s3.eu-west-2.amazonaws.com/amg/www.thisdaylive.com/uploads/Clem-Agba.png?w=1267&ssl=1&mrf-size=m"
+        width: 1267
+        height: 850
         isCached: true
 
 secured: "CD763OSykZPAQ1PwtOP0xS6jf+3mA2a0HDMWxYRAJf9h3g8XExJPwC613JHDgZaPUmBTfTK3QWHmdnFjtf6IEPvx98wy15Q75DbbPtCRuSwWKd6c0u5LFtZbscaGNPPWTld4341e22ZDctetW4wMP/75ov6+BhjGhpnVqHbXg7APw24zWI4r7qrCKATQXkOu7/C0skbBZrU1CGmil6p3Gw5v/NWBq4WA7Q569rJi45OlT+AhUpcxWGPjrtvAjwZZoOGGbNA353LqcRzxSQi/Z4N1fuG7vSHEq9hlPnEwHyPbUDbi4rGD73FicEzALEJjwYUq23LUhiOYgelBL1HNvZDVFJsIh3CnR+0qV1dvwdo=;M4S+oQ4C2Mz9LBxUniEe3g=="

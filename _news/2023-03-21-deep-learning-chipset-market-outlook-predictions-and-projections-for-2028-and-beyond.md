@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Machine Learning (AutoML) Market 2023 Size and Forecast to 2030"
+    excerpt: "“Global Automated Machine Learning (AutoML) market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.”Ask for Sample Report GlobalAutomated Machine Learning ..."
+    publishedDateTime: 2023-03-23T03:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size, Revenue, and Forecast 2028"
     excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 112 Report Pages on Artificial Intelligence Of Things (AIoT) Solutions Market by Application (, Consumer, Enterprise, Industrial,"
     publishedDateTime: 2023-03-21T04:59:00Z

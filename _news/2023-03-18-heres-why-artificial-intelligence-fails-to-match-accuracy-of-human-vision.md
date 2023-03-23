@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/here-s-why-
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/here-s-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision-123031800627_1.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Artificial Intelligence fails to reproduce human vision [Details]"
-    excerpt: "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable."
-    publishedDateTime: 2023-03-18T12:17:00Z
-    webUrl: "https://www.ibtimes.co.in/why-artificial-intelligence-fails-reproduce-human-vision-details-857566"
-    type: article
-    provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 56
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/782843/space-nasas-ingenuity-helicopter-captures-martian-sunset.jpg?w=843&h=470&l=50&t=40"
-        width: 843
-        height: 470
-        isCached: true
   - title: "Lawmakers struggle to differentiate AI and human emails"
     excerpt: "Natural language models such as ChatGPT and GPT-4 open new opportunities for malicious actors to influence representative democracy, new Cornell research suggests."
     publishedDateTime: 2023-03-22T17:00:00Z

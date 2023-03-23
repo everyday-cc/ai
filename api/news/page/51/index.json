@@ -2,6 +2,193 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-02-07-the-stock-market-hype-machine-has-come-for-artificial-intelligence-morning-brief.md",
+      "title": "The stock market hype machine has come for artificial intelligence: Morning Brief",
+      "excerpt": "This article first appeared in the Morning Brief. Get the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe. Tuesday,. T",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
+      "originalUrl": "https://www.aol.com/finance/stock-market-hype-machine-come-110026783.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-how-artificial-intelligence-can-boost-diversity-inclusion.md",
+      "title": "How Artificial Intelligence Can Boost Diversity & Inclusion",
+      "excerpt": "After decades of research and progress in the area of artificial intelligence (AI), we appeared to have reached a point in which AI is no longer confined to utopian or dystopian conversations about the future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/tomaspremuzic/2023/02/07/how-artificial-intelligence-can-boost-diversity--inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-promises-its-ai-will-be-released-to-trusted-users-soon.md",
+      "title": "Google promises its AI will be released to trusted users soon",
+      "excerpt": "Bard should be ready for public release in a few weeks  Google's parent firm Alphabet announced the release of its Bard conversational AI service, which it said will be rolled out to \"trusted users\" before its public release in the coming weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "originalUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-which-chatgpt-stock-is-best.md",
+      "title": "Which ChatGPT Stock Is Best?",
+      "excerpt": "TipRanks will help you figure out which ChatGPT stock is best. As natural language processing and artificial intelligence continue to advance,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-googles-new-ai-chatbot-takes-on-chatgpt.md",
+      "title": "Google’s new AI chatbot takes on ChatGPT",
+      "excerpt": "The new chatbot has the ability to interact in conversational dialogue form, allowing users to ask questions and receive detailed answers, similar to ChatGPT. In a blog post shared yesterday, Google and Alphabet CEO Sundar Pichai notes that as part of the tech giant’s continued investment in AI across the board,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/RgeVDqPRQOD7KJN3",
+      "originalUrl": "https://www.itweb.co.za/content/RgeVDqPRQOD7KJN3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-why-detecting-ai-generated-text-is-so-difficult-and-what-to-do-about-it.md",
       "title": "Why detecting AI-generated text is so difficult (and what to do about it)",
       "excerpt": "This tool is OpenAI’s response to the heat it’s gotten from educators, journalists, and others for launching ChatGPT without any ways to detect text it has generated. However,",
@@ -801,206 +988,6 @@
         "Facebook AI",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029.md",
-      "title": "Artificial Neural Networks Market 2023 (Newest 121 Pages Report) is Booming Worldwide 2029",
-      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for Artificial Neural Networks market will have huge change from earlier year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-self-driving-robot-has-been-named-aurus.md",
-      "title": "The self-driving robot has been named Aurus",
-      "excerpt": "Goa started Using AI ROBOT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.panasiabiz.com/web-stories/goa-started-using-ai-robot/",
-      "originalUrl": "https://www.panasiabiz.com/web-stories/goa-started-using-ai-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "panasiabiz.com",
-        "domain": "panasiabiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text.md",
-      "title": "What Companies Are Fueling The Progress In Natural Language Processing? Moving This Branch Of AI Past Translators And Speech-To-Text",
-      "excerpt": "With the recent advancements in artificial intelligence, the natural language processing subset has been getting attention as this field has also seen significant improvements. We look at what companies are fueling the progress in natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-cohere-a-generative-ai-startup-that-rivals-chatgpt-in-talks-over-large-funding-round.md",
-      "title": "Cohere, a generative AI startup that rivals ChatGPT, in talks over large funding round",
-      "excerpt": "Startup Cohere Inc. has become the latest name in the red-hot area of artificial intelligence to attract the attention of investors. It’s reportedly holding talks with potential backers about a funding round that could see it raise hundreds of millions of dollars and bring its value to more than $6 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/02/06/cohere-generative-ai-startup-rivals-chatgpt-talks-multi-million-funding-round/",
-      "originalUrl": "https://siliconangle.com/2023/02/06/cohere-generative-ai-startup-rivals-chatgpt-talks-multi-million-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-biren-prioritizes-ai-breakthrough-software-stack-key-to-chinese-gpu-industry.md",
-      "title": "Biren prioritizes AI breakthrough; software stack key to Chinese GPU industry",
-      "excerpt": "Biren has chosen to focus on GPGPU and prioritizing breakthroughs in AI, an application with greater market potential. Data center products have already surpassed traditional GPU products on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230203VL207/ai-biren-chip-war-gpu-nvidia.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230203VL207/ai-biren-chip-war-gpu-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230203vl207_files/1_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

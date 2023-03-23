@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: HotHardware
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA RTX 5000 Ada workstation GPU is apparently in the works with 32GB of VRAM"
+    excerpt: "This would put the power requirement somewhere in the region of 200-250W. It makes sense, especially with reports that NVIDIA GPU sales in the AI and workstation sector lead to the company's stock price shooting. The NVIDIA RTX 5000 Ada Generation GPU ..."
+    publishedDateTime: 2023-03-23T03:31:00Z
+    webUrl: "https://www.tweaktown.com/news/90818/nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90818_01_nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram.jpg"
+        width: 620
+        height: 348
+        isCached: true
   - title: "NVIDIA Unveils New Workstation GPU Series: RTX Ada, Including RTX 4000 SFF ADA Desktop GPU and Five Mobile SKUs"
     excerpt: "The new desktop GPU, RTX 4000 ADA SFF, is a Small Form Factor professional ... NVIDIA has launched an innovative AI supercomputing service, the DGX Cloud, which offers enterprises unparalleled access to cutting-edge infrastructure and software for ..."
     publishedDateTime: 2023-03-21T17:13:00Z

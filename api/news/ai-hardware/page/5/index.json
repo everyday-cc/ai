@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-07-the-best-graphics-cards-in-2022.md",
+      "title": "The best graphics cards in 2022",
+      "excerpt": "Every new GPU generation offers new features and possibilities ... denote older Nvidia graphics cards which don't have the extra AI and ray tracing silicon that the RTX-level cards do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/the-best-graphics-cards/",
+      "originalUrl": "https://www.pcgamer.com/the-best-graphics-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/w2S7fKTN4q4t762crrXuwd-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-stocks-rally-in-latest-wall-street-craze-sparked-by-chatgpt.md",
       "title": "AI stocks rally in latest Wall Street craze sparked by ChatGPT",
       "excerpt": "Shares of C3.ai Inc, BigBear.ai and SoundHound AI extended a rally on Monday as artificial intelligence becomes a new buzzword on Wall Street with the viral success of ChatGPT chatbot, attracting interest from retail punters.",
@@ -1208,49 +1251,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-26T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-best-gpu-for-vr-in-2023-our-top-picks.md",
-      "title": "Best GPU for VR in 2023 – our top picks",
-      "excerpt": "RTX 3090 Gaming X Trio – runner up for best GPU for VR MSI Gaming GeForce RTX 3060 Ti – best budget GPU for VR There are now over 2,800 VR titles available on SteamVR, meaning it’s worth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-vr/",
-      "originalUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-vr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/image-8-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VideoGamer.com",

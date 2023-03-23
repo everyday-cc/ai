@@ -2,64 +2,20 @@
   "page": 127,
   "value": [
     {
-      "path": "_news/2022-10-03-john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural-language.md",
-      "title": "John Snow Labs Announces Finance NLP and Legal NLP, Bringing State-of-the-Art Natural Language ...",
-      "excerpt": "John Snow Labs, the healthcare AI and NLP company and developer of the Spark NLP library, today announced the launch of two",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural/article_f39d4d6d-7628-5e2f-8fa5-6a6ce8fa5f16.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural/article_f39d4d6d-7628-5e2f-8fa5-6a6ce8fa5f16.html",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-researchandmarketscom.md",
-      "title": "Artificial Intelligence In Marketing Global Market Report 2022: Featuring IBM, Salesforce, Amazon, Facebook & Oracle - ResearchAndMarkets.com",
-      "excerpt": "In October 2020, IBM planned to provide its IBM Watson, an AI for business toolset to industry leaders and make it available across the advertising ecosystem. Altering existing business practices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
-      "originalUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
           "height": 333,
           "title": null,
           "attribution": null,
@@ -68,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:19:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -84,27 +40,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
-      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
-      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
-          "width": 850,
-          "height": 478,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,13 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -128,27 +83,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-10-03-how-will-openais-whisper-model-impact-ai-applications.md",
-      "title": "How will OpenAI’s Whisper model impact AI applications?",
-      "excerpt": "OpenAI's Whisper is a deep learning model that shows promise in transcribing audio in several languages. It's also a nod to open source.",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
-      "originalUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -156,9 +110,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
-      "publishedDateTime": "2022-10-03T04:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -181,979 +135,10 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
-      "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
-      "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
-      "publishedDateTime": "2022-10-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-cognitive-media-solutions-market-size-to-grow-by-usd-449-bn-digital-transformation-in-industries-to-drive-growth-technavio.md",
-      "title": "Cognitive Media Solutions Market Size to Grow by USD 4.49 Bn, Digital Transformation in Industries to Drive Growth - Technavio",
-      "excerpt": "The Cognitive Media Solutions Market size is anticipated to grow by USD 4.49 billion. However, the growth momentum is expected to decelerate at a CAGR of 27.14% during the forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29113313/cognitive-media-solutions-market-size-to-grow-by-usd-4-49-bn-digital-transformation-in-industries-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29113313/cognitive-media-solutions-market-size-to-grow-by-usd-4-49-bn-digital-transformation-in-industries-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29113313",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29113313",
-      "publishedDateTime": "2022-10-03T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-advancing-anomaly-detection-with-aiopsintroducing-aidice.md",
-      "title": "Advancing anomaly detection with AIOps—introducing AiDice",
-      "excerpt": "We introduce AiDice, a novel anomaly detection algorithm developed jointly by Microsoft Research and Microsoft Azure that identifies anomalies in large-scale, multi-dimensional time series data. AiDice captures incidents quickly and provides engineers with important context that helps them diagnose issues",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
-      "originalUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d05c8214-ce5a-4578-91f7-ffdca3c0cc5c.png",
-          "width": 640,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T02:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029.md",
-      "title": "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029",
-      "excerpt": "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-how-robots-could-change-the-future.md",
-      "title": "How Robots Could Change the Future",
-      "excerpt": "Mind you: This may mean that certain ... And don’t forget the many new and exciting applications for robotics: allowing a surgeon to use a remotely controlled arm to operate on a patient from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/future-robots/",
-      "originalUrl": "https://www.rd.com/article/future-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-ai-code-of-ethics.md",
-      "title": "AI code of ethics",
-      "excerpt": "When John Cockcroft & Ernest Walton first split the atom to confirm Einstein’s famous equation, E=MC2, they wouldn’t have anticipated or even imagined in their wildest imagination that their discovery would be used to",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "publishedDateTime": "2022-10-02T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-intels-self-driving-company-mobileye-files-for-an-ipo.md",
-      "title": "Intel’s self-driving company Mobileye files for an IPO",
-      "excerpt": "Founded in 1999 by Amnon Shashua and Ziv Aviram, Mobileye is known for its EyeQ system-on-a-chip (SoC), which serves as the “brain” for Mobileye’s driver-assist and self-driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
-      "originalUrl": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ZP6HAeqrhGLnoxkXE1d0ttmop64=/0x0:1280x720/1200x628/filters:focal(494x418:495x419)/cdn.vox-cdn.com/uploads/chorus_asset/file/24073456/mobileye_intel_car.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo",
-      "publishedDateTime": "2022-10-02T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
-      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
-      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
-          "width": 311,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "publishedDateTime": "2022-10-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadameNoire",
-        "domain": "madamenoire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm.md",
-      "title": "Saudi Data, AI Authority and Ministry of Energy partner with IBM",
-      "excerpt": "RIYADH, Saudi Arabia and ARMONK, N.Y. /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic agreement to drive adoption of artificial intelligence in the carbon capture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm-e535vvxa",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-data-ai-authority-and-ministry-of-energy-partner-with-ibm-e535vvxa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZGMzMTIwNzItYmRhOC00:YTU0NGI2/sdaia-image.jpg?f=3%3A2",
-          "width": 703,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-ai-ethics-and-ai-laws-reveal-troubling-concerns-from-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk.md",
-      "title": "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk",
-      "excerpt": "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
-      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
-      "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "originalUrl": "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-01T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXII 12 NEWS",
-        "domain": "wxii12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
-      "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
-      "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "originalUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "publishedDateTime": "2022-10-01T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-robot-walks-and-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks and waves, but doesn't show off complex tasks",
-      "excerpt": "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "originalUrl": "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/",
-      "publishedDateTime": "2022-10-01T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-openais-dalle-2-may-mean-we-never-need-stock-photos-again.md",
-      "title": "OpenAI's Dall•E 2 may mean we never need stock photos again",
-      "excerpt": "Typing a sentence about a scenario, such as an anxious Windows user seated at their desk seeing a patch warning, could give you just the image you need to accompany an article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "originalUrl": "https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/54b762c082e6edd74534c9ca1b33d0f2fa1cf052/2022/10/01/4dbd71ee-49de-4b9b-a78e-261b4d2c728c/dall-e-person-explaining-to-coworkers.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/",
-      "publishedDateTime": "2022-10-01T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000.md",
-      "title": "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000",
-      "excerpt": "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/",
-      "publishedDateTime": "2022-10-01T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-the-problem-with-mental-health-bots.md",
-      "title": "The Problem With Mental Health Bots",
-      "excerpt": "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mental-health-chatbots/",
-      "originalUrl": "https://www.wired.com/story/mental-health-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/632e615a74ce5b82a68ef375/master/pass/Bot_BotTeam.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mental-health-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mental-health-chatbots/amp",
-      "publishedDateTime": "2022-10-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
-      "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
-      "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
-      "publishedDateTime": "2022-10-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders.md",
-      "title": "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders",
-      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
-      "originalUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcdfw.com/2022/09/AP22269595150521.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
-      "publishedDateTime": "2022-10-01T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC DFW",
-        "domain": "nbcdfw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-geelys-latest-buy-a-stake-in-aston-martin.md",
-      "title": "Geely's latest buy: A stake in Aston Martin",
-      "excerpt": "LONDON: Chinese automaker Zhejiang Geely Holding Group Co. has acquired a stake in British luxury carmaker Aston Martin Lagonda Global Holdings Plc, expanding tycoon Li Shufu’s reach into European brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carsifu.my/news/geelys-latest-buy-a-stake-in-aston-martin",
-      "originalUrl": "https://www.carsifu.my/news/geelys-latest-buy-a-stake-in-aston-martin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/10/am2.jpg",
-          "width": 800,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CarSifu",
-        "domain": "carsifu.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-tesla-unveils-humanoid-optimus-robot-at-ai-event.md",
-      "title": "Tesla unveils humanoid 'Optimus' robot at AI event",
-      "excerpt": "Musk presented the robot during his display at Tesla's AI Day on Friday. The bot runs on the company's artificial intelligence software, which is used in Tesla vehicles for full self-driving and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
-      "originalUrl": "https://www.washingtonexaminer.com/news/tesla-unveils-humanoid-optimus-robot-ai-event",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/9447613/2147483647/strip/true/crop/2390x1255+0+56/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fa3%2F9d%2F4575bea54fcbbf8d55137e0fa42d%2Ftesla.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
-  "nextPage": 128
+  "nextPage": null
 }

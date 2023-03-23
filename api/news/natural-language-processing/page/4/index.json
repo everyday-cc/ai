@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-08-is-soundhound-voice-ai-the-next-big-thing.md",
+      "title": "Is SoundHound Voice AI the Next Big Thing?",
+      "excerpt": "SoundHound AI has innovative engineering making it more efficient and quicker. Rather than record speech and then interpret it in writing, SoundHound uses Speech-to-Meaning real-time translation of spoken language and its meaning. It's quicker and can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-soundhound-voice-ai-the-next-big-thing",
+      "originalUrl": "https://www.nasdaq.com/articles/is-soundhound-voice-ai-the-next-big-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-experts-weigh-dangers-benefits-of-chatgpt-on-humans-jobs-and-information-dystopian-world.md",
       "title": "AI experts weigh dangers, benefits of ChatGPT on humans, jobs and information: ‘Dystopian world’",
       "excerpt": "Generative artificial intelligence (AI) algorithms like ChatGPT pose substantial ... today that outperform humans on tests like vision, listening and translation between various languages. In December, ChatGPT outperformed some Ivy League students at ...",
@@ -1071,40 +1105,6 @@
       "provider": {
         "name": "Managed Healthcare Executive",
         "domain": "managedhealthcareexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers.md",
-      "title": "BOTS, Inc. is Offering Game-Changing ChatGPT and OpenAI-Powered Services for B2B Customers",
-      "excerpt": "SAN JUAN, Puerto Rico , Feb. 06, 2023 (GLOBE NEWSWIRE) -- via NewMediaWire – BOTS, Inc. (OTC:BTZI) (\"The Company\"), a leading provider of advanced technology solutions announced today new B2B services",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30724789",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30724789",
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

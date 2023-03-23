@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market 2023 Size and Forecast to 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence (AI) Consulting Marketinformation for each competitor includes (Tryolabs, LeaderGPU, Mckinsey and Company ..."
+    publishedDateTime: 2023-03-23T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-2023-size-and-forecast-to-2030-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Platform Market 2023-A Detailed Analysis till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence Platform Market Size 2023-2028 | New Report (126 Pages) | In This Reports Artificial Intelligence Platform Market ..."
     publishedDateTime: 2023-03-22T12:15:00Z

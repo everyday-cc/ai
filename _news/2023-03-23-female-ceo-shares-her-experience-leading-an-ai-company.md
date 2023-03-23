@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/leadership/female-ceo-shares-her-expe
 webUrl: "https://www.entrepreneur.com/leadership/female-ceo-shares-her-experience-leading-an-ai-company/448191"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO, CTO on risks and how AI will reshape society"
-    excerpt: "OpenAI CEO Sam Altman tells ABC News’ Rebecca Jarvis that AI will reshape society and acknowledges the risks: “I think people should be happy that we are a little bit scared of this.”"
-    publishedDateTime: 2023-03-18T11:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/video/openai-ceo-cto-risks-ai-reshape-society-97949497"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Technology/230317_vod_orig_openai_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
   - title: "J&J Innovation, Salesforce CEO back $90M funding round for AI-based predictive cancer test company"
     excerpt: "Artera, a company using artificial intelligence to develop predictive cancer tests ... use the funding to distribute its flagship ArteraAI Prostate Test, which predicts therapy benefit in localized prostate cancer. Additionally, Artera will look to ..."
     publishedDateTime: 2023-03-21T23:25:00Z

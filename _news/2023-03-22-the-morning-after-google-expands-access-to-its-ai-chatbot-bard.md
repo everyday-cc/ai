@@ -85,22 +85,6 @@ related:
         width: 600
         height: 424
         isCached: true
-  - title: "Generative AI ChatGPT Still Winning Hearts And Minds Over Vaunted Successor GPT-4, For These Reasons Says AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-03-18T11:25:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/18/generative-ai-chatgpt-still-winning-hearts-and-minds-over-vaunted-successor-gpt-4-for-these-reasons-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6415616bf173f1d8c576a1f4/0x0.jpg?format=jpg&crop=868,489,x267,y20,safe&width=1200"
-        width: 868
-        height: 489
-        isCached: true
   - title: "How AI and ChatGPT can embrace engineering education?"
     excerpt: "Hence, large language model based generative AI platforms like ChatGPT and Bing Chat can be a ... The ability of ChatGPT to summarise, shorten, elaborate, rephrase, and translate text can also help students improve their writing skills."
     publishedDateTime: 2023-03-22T11:44:00Z
@@ -132,20 +116,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/4249731778_596657ac94_k.jpg?w=1200&strip=all"
         width: 1200
         height: 799
-        isCached: true
-  - title: "AI love: What happens when your chatbot stops loving you back"
-    excerpt: "Many blue-chip venture capitalists won't touch \"vice\" industries such ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023, from ..."
-    publishedDateTime: 2023-03-18T11:29:00Z
-    webUrl: "https://www.reuters.com/technology/what-happens-when-your-ai-chatbot-stops-loving-you-back-2023-03-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/4q2SKSKc-8d4xCLVI3VKBitHlN4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MM2VJ67XK5L6DDVJ4QJNMGJFHU.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "What happens when your AI chatbot stops loving you back?"
     excerpt: "Many blue-chip venture capitalists won’t touch “vice” industries ... according to the company. Another generative AI company that provides chatbots, Character.ai, is on a growth trajectory similar to ChatGPT: 65 million visits in January 2023 ..."
@@ -204,22 +174,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2021/08/google-pixel-5a-review-google-search-logo-google-messages-phone-pocket-casts-chrome-gmail-2-scaled.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "What Happens When Your AI Chatbot Stops Loving You Back"
-    excerpt: "After temporarily closing his leathermaking business during the pandemic, Travis Butterworth found himself lonely and bored at home."
-    publishedDateTime: 2023-03-18T11:36:00Z
-    webUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186"
-    ampWebUrl: "https://www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-happens-when-your-ai-chatbot-stops-loving-you-back-3678186?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/4434000/combination-images-shows-replika-chatbots.jpg"
-        width: 1200
-        height: 1125
         isCached: true
   - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
     excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
@@ -591,20 +545,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
-    excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
-    publishedDateTime: 2023-03-18T11:02:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/18/gpt4-review/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DP7KNYOTBRCFNPTLXMFQVRKG4M.png&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
     excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"

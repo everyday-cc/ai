@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
 type: article
 quality: 61
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2023/03/Julia-Wendelt-Instagram-Feb24.jpg?quality=100&strip=all"
         width: 888
         height: 666
-        isCached: true
-  - title: "Madeleine McCann update: Facial recognition test gives 90% verdict on woman claiming to be Madeleine McCann"
-    excerpt: "However, a company in Switzerland has used facial recognition software to dispute the claim. Ava-X studied photos of both girls in detail, reports blick.ch, using a “face matching” program. The technology, developed to help police identify offenders ..."
-    publishedDateTime: 2023-03-18T09:59:00Z
-    webUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030"
-    ampWebUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
-    cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
-    type: article
-    provider:
-      name: Irish Daily Mirror
-      domain: irishmirror.ie
-    quality: 56
-    images:
-      - url: "https://i2-prod.dailystar.co.uk/incoming/article29488343.ece/ALTERNATES/s1200/1_Madeleine-McCann-missing.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Julia Wendel most likely not Madeleine McCann - facial recognition comparison"
     excerpt: "Photos of Julia Wendel, who also goes by Julia Faustyna, failed to match photos of Madeleine McCann in a facial recognition comparison of the two. Shortly after Wendel came out with her claims that she is Madeleine McCann, Swiss company Ava-X ran photos of ..."

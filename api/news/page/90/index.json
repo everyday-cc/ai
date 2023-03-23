@@ -2,6 +2,239 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-01-10-google-docs-and-slides-step-up-their-voice-recognition-game.md",
+      "title": "Google Docs and Slides step up their voice recognition game",
+      "excerpt": "Read More. Voice typing tools reliant on speech-to-text algorithms have long been a convenient way to create larger text documents quickly, especially if you’re a slow typist, or you're seeking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "originalUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/how-to-set-up-outline-in-Google-docs.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-iran-says-face-recognition-will-id-women-breaking-hijab-laws.md",
+      "title": "Iran Says Face Recognition Will ID Women Breaking Hijab Laws",
+      "excerpt": "But Shajarizadeh, who fled to Canada in 2018 after three arrests for flouting hijab law, worries that women like the amusement park worker may now be targeted with face recognition algorithms as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "originalUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63bcd6f571c6b526845f15bf/master/pass/JM_Iran_Women_Face_Recognition-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-intelligent-driving-unit.md",
+      "title": "Baidu said to be slashing jobs, trimming bonuses at intelligent driving unit",
+      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
+      "title": "What does it really take to be a leader when it comes to cloud databases?",
+      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
+      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/12/02/shutterstock_cloud_servers.jpg",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
+      "publishedDateTime": "2023-01-10T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology.md",
+      "title": "Spin Master to Acquire the HEXBUG® Brand and Portfolio of Creative Robotic Technology",
+      "excerpt": "PRNewswire/ - Spin Master Corp. ('Spin Master') (TSX: TOY), a leading global children's entertainment company, today",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology-1032009244",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology-1032009244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1979922/Spin_Master_Spin_Master_to_Acquire_the_HEXBUG__Brand_and_Portfol.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-how-ai-powered-conversational-commerce-will-transform-shopping-in-2023.md",
       "title": "How AI-powered conversational commerce will transform shopping in 2023",
       "excerpt": "In retail, artificial intelligence is quickly becoming a widely used tool to provide more efficient and personalized customer service. According to a recent study by Juniper Research, AI-powered ...",
@@ -901,240 +1134,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
-      "title": "This lawsuit against Microsoft could change the future of AI",
-      "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/lawsuit-judge-law-court-decision-sued-100614065-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "publishedDateTime": "2023-01-09T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026.md",
-      "title": "Cognitive Systems Spending Market Comprehensive Shares, Historical Trends And Forecast By 2026",
-      "excerpt": "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "originalUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/01/Chemistry-4.0-Market-420x300.jpg",
-          "width": 420,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028.md",
-      "title": "Global Edge AI Chips Market Size 2023 Research Report by Growth Rate Analysis, Type, Application, Revenue Estimates and Forecast to 2028",
-      "excerpt": "Jan 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge AI Chips Market”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-my-lawyer-the-robot.md",
-      "title": "My lawyer, the robot",
-      "excerpt": "Henshon, who chairs the American Bar Association’s Artificial Intelligence and Robotics Committee, said it could provide legal help in lower-stakes scenarios where a person would otherwise go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085",
-      "originalUrl": "https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e3/dc/f49acf6b4ec487735cca6be11236/tec-samsung-fitness-gadgets.JPEG",
-          "width": 5184,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029.md",
-      "title": "Data Science and Machine Learning Service Market Report 2023 In-Depth Market Analysis and Future Prospects Till 2029",
-      "excerpt": "Data Science and Machine Learning Service Market (US, Europe, Asia-Pacific) 2023 research includes historical and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

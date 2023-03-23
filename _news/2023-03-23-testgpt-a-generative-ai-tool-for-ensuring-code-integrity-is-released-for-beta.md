@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bard AI integration is in the works for Google Messages"
+    excerpt: "A new beta version of Google Messages seems to hint at Bard integration for AI-generated replies in the works for the app."
+    publishedDateTime: 2023-03-22T23:56:00Z
+    webUrl: "https://bgr.com/tech/bard-ai-integration-is-in-the-works-for-google-messages/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/Google-Bard-1.jpg?quality=82&strip=all"
+        width: 1546
+        height: 861
+        isCached: true
   - title: "CodiumAI debuts TestGPT, an AI-powered tool that tests code for errors"
     excerpt: "CodiumAI has created an AI model called TestGPT that’s powered by OpenAI’s GPT-4 large language model. Its job is to assist developers in testing their code interactively, which it does by generating tests on the go."
     publishedDateTime: 2023-03-22T17:34:00Z

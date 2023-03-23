@@ -120,22 +120,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Chatting with an Artificial General Intelligence: Insights into the Future of AI"
-    excerpt: "Artificial general intelligence (AGI ... of transportation and mobility is likely to be shaped by a variety of technological trends, including self-driving cars, drones, and smart infrastructure. As an AGI, I believe that we can leverage these technologies ..."
-    publishedDateTime: 2023-03-18T12:27:00Z
-    webUrl: "https://www.digit.in/features/machine-learning-and-ai/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai-67398.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/67398/chatting-with-an-artificial-general-intelligence-insights-into-the-future-of-ai"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 58
-    images:
-      - url: "https://static.digit.in/default/tr:w-1200/800990cec6d493f06778342d7b8ee847134574c5.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
     publishedDateTime: 2023-03-20T12:00:00Z
