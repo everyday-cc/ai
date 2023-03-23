@@ -41,6 +41,20 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Nvidia dusts off dual GPU cards"
+    excerpt: "At least for data centres  Nvidia has announced a new dual-GPU product, the H100 NVL but sadly not for SLI or multi-GPU gaming. In fact based on what Nvidia says the H100 NVL (H100 NVLink)will be a rubbish card for gaming and targets the growing AI market."
+    publishedDateTime: 2023-03-22T00:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-cards"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/27e8a2b89808b6dd5eff2351941494aa_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "NVIDIA Unveils New Workstation GPU Series: RTX Ada, Including RTX 4000 SFF ADA Desktop GPU and Five Mobile SKUs"
     excerpt: "The new desktop GPU, RTX 4000 ADA SFF, is a Small Form Factor professional ... NVIDIA has launched an innovative AI supercomputing service, the DGX Cloud, which offers enterprises unparalleled access to cutting-edge infrastructure and software for ..."
     publishedDateTime: 2023-03-21T17:13:00Z

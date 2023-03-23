@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-17-mozilla-wants-to-put-ethics-back-into-ai-with-the-responsible-ai-challenge.md",
+      "title": "Mozilla wants to put ethics back into AI with the \"Responsible AI Challenge\"",
+      "excerpt": "These algorithms respect neither limitations nor ethical principle in content building, so Mozilla is thinking about a new approach for a truly responsible AI business. Mozilla's latest attempt to save the future of the Internet goes through the creation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html",
+      "originalUrl": "https://www.techspot.com/news/97957-mozilla-wants-put-ethics-back-ai-responsible-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-16-image-19.jpg",
+          "width": 2000,
+          "height": 1010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-large-language-models-also-work-for-protein-structures.md",
+      "title": "Large language models also work for protein structures",
+      "excerpt": "Predicting protein structures was a challenge that flustered generations of scientists until this decade, when Google's AI group DeepMind announced a system that, for most practical definitions of \"solved,\" solved the problem. Google's system was quickly ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "originalUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1402266486-800x420.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/03/large-language-models-also-work-for-protein-structures/amp/",
+      "publishedDateTime": "2023-03-16T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-17-meta-ai-unlocks-hundreds-of-millions-of-proteins-to-aid-drug-discovery.md",
       "title": "Meta AI Unlocks Hundreds of Millions of Proteins to Aid Drug Discovery",
       "excerpt": "Facebook parent company Meta Platforms Inc. has created ... and perhaps speed the discovery of new drugs. Meta’s research arm, Meta AI, used the new AI-based computer program known as ESMFold to create a public database of 617 million predicted proteins.",
@@ -1141,109 +1245,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-how-ai-transforms-social-media.md",
-      "title": "How AI Transforms Social Media",
-      "excerpt": "From automatic content moderation and personalized recommendations to the ads we watch and beyond, AI is reshaping the way we interact and connect online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/601c20336927340c1d155f1f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/how-ai-transforms-social-media/amp/",
-      "publishedDateTime": "2023-03-16T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-chinese-chatgpt-rival-from-search-engine-firm-baidu-fails-to-impress.md",
-      "title": "Chinese ChatGPT rival from search engine firm Baidu fails to impress",
-      "excerpt": "Shares plummet after Ernie Bot AI chatbot software falls short of expectations at unveiling in Beijing",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
-      "originalUrl": "https://www.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0209d24d907d590683525baf67c2ae0227f84a19/0_133_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=0c7d2efda77632034855bc93dfde54df",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/mar/16/chinese-chatgpt-rival-search-engine-baidu-fails-impress-ernie-bot",
-      "publishedDateTime": "2023-03-16T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

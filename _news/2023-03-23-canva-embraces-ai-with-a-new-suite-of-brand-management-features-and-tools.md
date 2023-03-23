@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
+    excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
+    publishedDateTime: 2023-03-23T11:25:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 50
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/untitled_design_0-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Runway debuts AI model that can generate videos from text"
     excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
     publishedDateTime: 2023-03-20T22:20:00Z
@@ -102,6 +118,6 @@ related:
         height: 466
         isCached: true
 
-secured: "lmq1WEAd0J7zY7g8erzRG2vN7+c9qrnIYgr5qY2IHA2vopyeMit8kr3HaQXb3HHKdk4WthzWPYdrBHaoFfyYGUNpIzEyM5GkIREUr73zYE2RqV/IUnOtkvyD6JlPyL74Tyawpg5eTQzd1kt2M2Wc9aCamLZnfL68zRYwdGw3KfSuTktVaGMJI9zJbZmPaqU89rBQqS6McnnQz77Rp9J72lD0x/pdcae9efFjYSAi6n1iBJMzXTQ2IbzMZJa+9YRTuX/JJIBNXccP2Pd+OQ5riIV4bcdlQubdgGVzSEekPh+lc3SZyxbYe6YZZMw4D3WAyqmpXJarzPpk38x01XkpVntDHdra+M/qZfyEzJz0AII=;kN1jWGLwOy/20+RUIN17/g=="
+secured: "MXbVzE1BtwkrFboi0peD7xtUavSOJzZ+qEs6Q3azOw17E7bsJvaCehqY8CaVbIWuD1wC5DUyGUHWU7+3AciUi0SZwJ1COwtf1rwZt/HoURVlhjHayNGB13TVmzcoY1qdF7TzCD7daNCF4ufzfmku4LMP0H02pdNZfWQTKX5PDE415dOZ8QdJre5rR7Zanb+a7wGNC4NqhRON/G6yL7qS64nxPQ5CoLrVwjcNPj3kplv7x6ta/fWnvBjfmh7TWA0jehto7uf3eMErRPpvLEszrGGiL5HTVthvfHtYMYCKt0oj8U6cZKN/wGjVHt67VNIJhgRGmoHp0rXqqQiQdfIy20Z8ZSst/UtXXpidqS54/+2pwT2QNJtsM4svXXeIFrIG+N27wH6D+wysDITfwkCzGwUHSAShNhStX8Z61o2HiVGUB6HxyHoCsjIefO3PLCj7pc93MjLXau6fy6WIWxWJ6jGSWeUGBDdroQyQT78ZkugDAzG0N3WpFKe6jHNCvpM4euRR6Dk0udsh9Q7+f9J3Gg==;sVXAJwOxv3GzDnFtqFcCPg=="
 ---
 

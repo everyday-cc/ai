@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/roblox-launches-generative-ai-material
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Tools Threaten Big Tech's Digital Advertising Dominance"
+    excerpt: "Generative AI could undercut that revenue at a time the digital advertising ... Jamie MacEwan, a senior media analyst at the research firm Enders Analysis, said he sees ChatGPT as a potential factor in influencing where ad spend is directed."
+    publishedDateTime: 2023-03-23T10:24:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/03/23/generative-ai-tools-threaten-big-techs-digital-advertising-dominance/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/03/Google-search-result-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Adobe unveils new image-generating AI tools designed not to plagiarize material"
     excerpt: "For its line of advertising and marketing software, Adobe is also introducing text generating and conversational AI tools powered by models including Microsoft Corp.’s Azure OpenAI service. Salesforce Inc., which competes with some of Adobe’s ..."
     publishedDateTime: 2023-03-22T09:04:00Z

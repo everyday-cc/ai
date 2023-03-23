@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-state-of-the-artific
 webUrl: "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
+    publishedDateTime: 2023-03-23T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023, Automatic License Plate Recognition (ALPR) Systems Market Latest Research Report by 2028"
     excerpt: "What are the most significant challenges that the Automatic License Plate Recognition (ALPR) Systems market could face in the future? Who are the leading companies on the Automatic License Plate Recognition (ALPR) Systems market? What are the main ..."
     publishedDateTime: 2023-03-22T17:28:00Z

@@ -1,0 +1,204 @@
+---
+category: news
+title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
+excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
+publishedDateTime: 2023-03-23T10:57:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
+webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "The Future Of AI In Banking"
+    excerpt: "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?"
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "GitHub unveils Copilot X: The future of AI-powered software development"
+    excerpt: "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests."
+    publishedDateTime: 2023-03-22T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/"
+    ampWebUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all"
+        width: 1199
+        height: 673
+        isCached: true
+  - title: "Generative AI: Imagining a future of AI-dominated creativity"
+    excerpt: "Thoughts on where the advent of generative AI models like DALL-E 2 and Midjourney will take the art world in the coming years."
+    publishedDateTime: 2023-03-18T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/"
+    ampWebUrl: "https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-7.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "How AI is driving the future of technology"
+    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
+    publishedDateTime: 2023-03-19T22:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
+    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
+        width: 1200
+        height: 679
+        isCached: true
+  - title: "Robotics, AI, and the evolving nature of work"
+    excerpt: "Mar 2023 \\| 04:54am IST Robotics, AI, and the evolving nature of work. Shanti Maria Fonseca “There will be fewer and fewer jobs that a robot cannot do better. I want to be cle"
+    publishedDateTime: 2023-03-19T18:24:00Z
+    webUrl: "https://www.heraldgoa.in/Edit/Robotics-AI-and-the-evolving-nature-of-work/202638"
+    type: article
+    provider:
+      name: Herald
+      domain: heraldgoa.in
+    quality: 71
+    images:
+      - url: "https://www.heraldgoa.in/uploads/news/big_202638_0.png"
+        width: 547
+        height: 246
+        isCached: true
+  - title: "The future of cloud computing, from hybrid to edge to AI-powered"
+    excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
+    publishedDateTime: 2023-03-20T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
+  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
+    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
+    publishedDateTime: 2023-03-21T12:43:00Z
+    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 46
+  - title: "AI could make the future role of education increasingly to be in support of human development"
+    excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
+    publishedDateTime: 2023-03-20T08:32:00Z
+    webUrl: "https://jerseyeveningpost.com/voices/2023/03/20/ai-could-make-the-future-role-of-education-increasingly-to-be-in-support-of-human-development/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 45
+    images:
+      - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
+        width: 2560
+        height: 1703
+        isCached: true
+  - title: "Look: Stunning Photos Show Dubai's Museum Of The Future Re-Imagined By Artificial Intelligence"
+    excerpt: "Dubai's Museum of the Future is the most beautiful building in the world. And now, artificial intelligence has reimagined the torus-shaped structure in ways not thought possible previously. The Government of Dubai's Media Office has shared some stunning ..."
+    publishedDateTime: 2023-03-22T08:44:00Z
+    webUrl: "https://menafn.com/1105834654/Look-Stunning-Photos-Show-Dubais-Museum-Of-The-Future-Re-Imagined-By-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/22/KT_da453image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Harnessing the power of AI today"
+    excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."
+    publishedDateTime: 2023-03-20T16:00:00Z
+    webUrl: "https://www.philstar.com/opinion/2023/03/21/2253140/harnessing-power-ai-today"
+    type: article
+    provider:
+      name: philstar.com
+      domain: philstar.com
+    quality: 39
+    images:
+      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
+    excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
+    publishedDateTime: 2023-03-20T15:42:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/03/20/in-the-wake-of-chatgpt-the-race-for-artificial-intelligence-is-on_6020062_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Future of Data Science Lies in Automation"
+    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
+    publishedDateTime: 2023-03-20T09:58:00Z
+    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 24
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
+
+secured: "AyTeQiTOg+Q7i/I/VZcHvtbFgAVraQhR5Ew3BChUyKjEVsX1ZJcWk98xZu3xCx5G62s4Vk+j2VkwntJbc4JK1N5GLEx5NkvEBXOsrVD2tsicweD2qdwWt/kOSUkC/Vf7wwbKoPNlyJYz+AIy+hktEj3mS6vtx2hfUyACTbUYbsCLqD3d0DWZCwJuuYh1yVo80deCBd10208sbHY72LRTXeHVpSZMQqJp41JPBGzO7Bk9ZYzhVTPAnzymxFMLHdjmnlOYZ5XRmaYxPXR9DA4koRnNcmCwcsBIt5/+JlFDw6tZ4ODLq0VusLZfHzeSwiAXL4Gs9j6d73mAKrbVwkRJCLD+DC/UMV5rll83uFv5obdac/51/x+pqC2CDgKl++bs/cC21+h8FkOWvhSS7MLEZiJx6aUIgHi2Nv7wOExpY5bYaLLZMbkwPT08ftqaHfBNId2DK2R24Teoq0ra1cwXjTSygLWKP2/u1o+87lIGPIXOcL9ouEnfp4Tqx2StCRxUfoIPK0V1JWLIureNFKERTQ==;aS3+QGczQvZm3JHYQ1rBtw=="
+---
+

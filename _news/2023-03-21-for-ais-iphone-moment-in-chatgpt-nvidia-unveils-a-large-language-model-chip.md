@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
 type: article
 quality: 102
-heat: 235
+heat: 232
 published: true
 
 provider:

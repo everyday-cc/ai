@@ -98,6 +98,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Bill Gates predicts how artificial intelligence will evolve"
+    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
+    publishedDateTime: 2023-03-23T11:09:00Z
+    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
+    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 59
+    images:
+      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
     excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
     publishedDateTime: 2023-03-21T20:01:00Z

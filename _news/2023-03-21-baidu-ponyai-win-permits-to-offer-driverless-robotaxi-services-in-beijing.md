@@ -7,7 +7,7 @@ originalUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-pe
 webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony.ai won driverless robotaxi permits in Beijing"
-    excerpt: "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese."
-    publishedDateTime: 2023-03-19T18:17:00Z
-    webUrl: "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Beijing greenlights operation of unmanned self-driving vehicles; Chinese tech giant Baidu to lead project"
     excerpt: "BEIJING, March 19 (Xinhua): Beijing greenlighted the commercial operation of autonomous driving service without in-car safety ... which were operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai, received approval after ..."
     publishedDateTime: 2023-03-19T08:01:00Z

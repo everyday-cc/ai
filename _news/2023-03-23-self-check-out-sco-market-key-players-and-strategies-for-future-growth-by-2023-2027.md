@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Size and Forecast till 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Deep Learning Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-23T11:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-forecast-till-2031-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Medical Imaging Market Size Report till 2029"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Artificial Intelligence In Medical Imaging Market\" Insights 2023 By Applications (Neurology, Cardiovascular, Breast"
     publishedDateTime: 2023-03-20T17:16:00Z
@@ -267,6 +281,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Fintech Market Size 2023-2030 | New Report (75 Pages) | In This Reports Artificial Intelligence (AI ..."
+    publishedDateTime: 2023-03-23T10:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
     publishedDateTime: 2023-03-20T09:47:00Z
@@ -300,6 +328,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market 2023 | Rising Demand in Upcoming Years till 2030 | 82 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The Automatic Speech Recognition Applications Market (2023-2030) research report provides a detailed analysis of the market's various types ..."
+    publishedDateTime: 2023-03-23T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-2023-rising-demand-in-upcoming-years-till-2030-82-pages-report-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Size 2023 Research Report by Industry Trends, Global Competitors Strategy, Segments and Forecast to 2031"
     excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Intelligence (AI) in BFSI Market:Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete ..."

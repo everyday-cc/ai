@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
+    excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
+    publishedDateTime: 2023-03-23T11:25:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/canva-introduces-new-ai-powered-magic-features-including-magic-eraser-beat-sync-more-374582-2023-03-23"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 50
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202303/untitled_design_0-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Canva embraces AI with a new suite of brand management features and tools"
     excerpt: "Other new features include Beat Sync, which automatically matches video footage to the soundtrack, an AI-powered translation feature supporting over 100 languages, and Magic Write, a service that creates content from a simple text prompt. Canva has also ..."
     publishedDateTime: 2023-03-23T07:44:00Z

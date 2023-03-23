@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-21-defining-endpoint-security-in-a-zero-trust-world.md",
+      "title": "Defining endpoint security in a zero-trust world",
+      "excerpt": "Increased cloud attacks and the need for stronger endpoint security are making 2023 more challenging than many CISOs budgeted for.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "originalUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/6-5-reasons-why-Zero-Trust-Is-The-Future-Of-Endpoint-Security.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "publishedDateTime": "2023-03-20T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-video-students-in-plainfield-learn-to-use-artificial-intelligence.md",
+      "title": "VIDEO: Students in Plainfield learn to use artificial intelligence",
+      "excerpt": "Students in Plainfield learn to use artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/",
+      "originalUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://do0bihdskp9dy.cloudfront.net/03-20-2023/t_ea9cdd50b7924151b03b13dc2a074a93_name_file_1280x720_2000_v3_1_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/video/2023/03/20/video-students-plainfield-learn-use-artificial-intelligence/?outputType=amp",
+      "publishedDateTime": "2023-03-20T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFSB",
+        "domain": "wfsb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-pickle-launches-its-truck-unloading-robot-arm.md",
       "title": "Pickle launches its truck unloading robot arm",
       "excerpt": "MIT-birthed startup Pickle publicly showcased its container unloading robot for the first time this morning at ProMat.",
@@ -320,7 +415,7 @@
       "originalUrl": "https://venturebeat.com/games/roblox-launches-generative-ai-materials-coding-tools-gdc-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -424,7 +519,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -811,7 +906,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -851,6 +946,58 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023.md",
+      "title": "Artificial Intelligence in Insurtech Market Environment Development Trend In 2023",
+      "excerpt": "Artificial Intelligence in Insurtech Market Analysis 2023 \\| by Product Type (Service, Product), Application Type (Automotive, Healthcare, Information Technology, Others), Major Ke",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023-2023-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023-2023-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T19:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1038,49 +1185,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-baidu-ponyai-won-driverless-robotaxi-permits-in-beijing.md",
-      "title": "Baidu, Pony.ai won driverless robotaxi permits in Beijing",
-      "excerpt": "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
-      "originalUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
       "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
       "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
@@ -1130,91 +1234,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-robt.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)",
-      "excerpt": "Investors may trade in the Pre-Market (4:00-9:30 a.m. ET) and the After Hours Market (4:00-8:00 p.m. ET). Participation from Market Makers and ECNs is strictly voluntary and as a result, these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "originalUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much.md",
-      "title": "Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much",
-      "excerpt": "We like HDR-pimped pics, but this latest camera controversy outlines how computational photography could set us down a dicey path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "originalUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6414e0523d47b01ba33146dd/master/pass/Samsung%E2%80%99s-Moon-Shots-Force-Us-to-Ask-How-Much-AI-Is-Too-Much-Gear-GettyImages-490137064.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp",
-      "publishedDateTime": "2023-03-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

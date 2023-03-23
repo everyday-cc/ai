@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-ro
 cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores"
+    excerpt: "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers."
+    publishedDateTime: 2023-03-22T11:03:00Z
+    webUrl: "https://www.news-journal.com/news/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_df2268e8-c769-11ed-bfd1-d3880d20c2ec.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/a2/0a28ba9c-c76a-11ed-bd6b-27fe66e4e8d4/6418d69757ee8.image.jpg?crop=1777%2C933%2C0%2C117&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving trucks to deliver grocery orders to Kroger stores"
     excerpt: "Kroger is about to add another layer of automation to its customers’ online grocery orders filled by robots at its fulfillment center in southern Dallas."
     publishedDateTime: 2023-03-20T13:00:00Z
@@ -39,8 +53,8 @@ related:
     quality: 4
   - title: "Kroger adds self-driving delivery service in one of its large markets"
     excerpt: "Downtown Cincinnati-based Kroger (NYSE: KR) has partnered with Mountain View, Calif.-based autonomous vehicle company Gatik to provide self-driving vehicle delivery service in the Dallas market. The service is slightly different than what Kroger is already ..."
-    publishedDateTime: 2023-03-22T19:58:00Z
-    webUrl: "https://www.bizjournals.com/dayton/news/2023/03/22/kroger-self-driving-delivery-service-dallas.html"
+    publishedDateTime: 2023-03-23T10:41:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/03/kroger-self-driving-delivery-service-dallas.html"
     type: article
     provider:
       name: The Business Journals

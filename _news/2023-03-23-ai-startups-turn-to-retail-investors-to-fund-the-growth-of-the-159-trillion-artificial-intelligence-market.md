@@ -26,17 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Investors Pour Tens Of Millions Into Food Robotics As They Make Big Bets On Future Of Fast Food"
-    excerpt: "To stay updated with top startup investments, sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter Miso Robotics, known for its artificial intelligence (AI)-driven kitchen assistant Flippy, has made headlines for its robotic ..."
-    publishedDateTime: 2023-03-21T15:29:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31441258/retail-investors-pour-tens-of-millions-into-food-robotics-as-they-make-big-bets-on-future-of-fast-fo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31441258"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31441258"
+  - title: "AI storytelling startup Tome records fast user growth, to launch paid tier soon"
+    excerpt: "March 23 (Reuters) - Artificial intelligence storytelling startup Tome has seen its user numbers triple in a month to 3 million and is planning to launch a paid subscription in the coming weeks, Chief Executive Keith Peiris told Reuters, as AI products ..."
+    publishedDateTime: 2023-03-23T10:28:00Z
+    webUrl: "https://www.reuters.com/technology/ai-storytelling-startup-tome-records-fast-user-growth-launch-paid-tier-soon-2023-03-23/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: Reuters
+      domain: reuters.com
+    quality: 63
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "fT9HZSn11X+Cput17o2+chs8fT+0Pu+nLK2Z0VkUQK+1Mk5cp0sxTwfvZa2r6w/ePwscunRdxQNDSJdvac2ydTG0zWMcP5IHXuELfAaaIyXGmctM42k0EyYN5c25PE9J5O9Ph9wX2wkho13bdycL5XjmPRDQfszIWv8UrbpdCehWTxFKuH/V0c0H4PFMdafmuPSwSwzaa/Y9M0ny+rQJRG1Ciu+CkRBZ/9HIO8CKkqZvkvSF0/cQ1MruRCnri42Ho0+yujXuJbyvPHu+uUEWVGu+1Nvu74WBIi7DANeNisIXC3LOJtWtTW7DFQx9LrcM3idS5YHvZGoZuyEr32VdPx7uNp0bA/Nf5zZhD+flmzo=;apWW2LCiJNL/d7xPT4C2yw=="
 ---

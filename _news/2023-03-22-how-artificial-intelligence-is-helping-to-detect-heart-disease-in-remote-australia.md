@@ -172,6 +172,34 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "What are Australia's plans for Indigenous Voice?"
+    excerpt: "But Voice proponents argue that recognition in the constitution of Indigenous Australians was an important element of the reform. Victoria state created an elected First People’s Assembly of Victoria in 2019 but that is focused on creating a treaty ..."
+    publishedDateTime: 2023-03-23T11:47:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australias-plans-indigenous-voice-98067981"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 24
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_5071c5553ca54e833bc104657e359e5c_4x3_992.jpg"
+        width: 992
+        height: 744
+        isCached: true
+  - title: "Indigenous Voice: Australia PM unveils plan for historic constitution vote"
+    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM. Australia's leader has unveiled crucial details of a planned referendum which could see it change its constitution for the first time in almost 50 years."
+    publishedDateTime: 2023-03-23T11:47:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/486598/indigenous-voice-australia-pm-unveils-plan-for-historic-constitution-vote"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 22
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--S-G0JUse--/t_tohu-badge-facebook/v1675889827/4LDYIJC_Albo_Hipkins_11_jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM"
     excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: 1: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; 2: The Aboriginal and Torres Strait Islander Voice may make ..."
     publishedDateTime: 2023-03-23T01:26:00Z

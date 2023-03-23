@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony.ai won driverless robotaxi permits in Beijing"
-    excerpt: "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese."
-    publishedDateTime: 2023-03-19T18:17:00Z
-    webUrl: "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
     excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
     publishedDateTime: 2023-03-20T17:52:00Z

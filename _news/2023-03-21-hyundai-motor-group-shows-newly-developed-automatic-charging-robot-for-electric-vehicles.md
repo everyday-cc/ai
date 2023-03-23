@@ -7,7 +7,7 @@ originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-shows-newly
 webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-shows-newly-developed-automatic-charging-robot-for-electric-vehicles/s/644d8ec5-d79b-4046-ab83-8f8fb4384be9"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai developed an EV charging robot"
+    excerpt: "using what a Hyundai press release describes as a 3D camera-based AI algorithm to control plugging into the port. When charging is complete, the robot unplugs the car and sends a notification to the driver's smartphone. Keeping in mind that most EV ..."
+    publishedDateTime: 2023-03-23T11:08:00Z
+    webUrl: "https://www.motorauthority.com/news/1139142_hyundai-developed-an-ev-charging-robot"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/hyundai-charging-robot_100878276_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hyundai robot could ease EV charging, tackle mobility barriers"
     excerpt: "3D camera-based AI algorithm to control plugging into the port. When charging is complete, the robot unplugs the cable and sends a notification to the driver's smartphone. Keeping in mind that many EV charging stations are outside and exposed to the ..."
     publishedDateTime: 2023-03-22T12:02:00Z

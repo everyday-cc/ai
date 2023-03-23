@@ -22,9 +22,9 @@ related:
   - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
     excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
     publishedDateTime: 2023-03-23T05:45:00Z
-    webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
+    webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp"
     type: article
     provider:
       name: ThePrint

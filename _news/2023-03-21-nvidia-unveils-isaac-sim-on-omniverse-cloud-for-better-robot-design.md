@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-clo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 669
     isCached: true
+
+related:
+  - title: "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms"
+    excerpt: "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform."
+    publishedDateTime: 2023-03-23T11:42:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "DkUeowl5iN/1VoTWVHmuHowi6JOU9+CO4vlYJ6edY9IDkWr33ZfYYSx4qsf2CG4rsjEdm+uQCPwOpbFvgGx7SgbeRFeMWXN4hRQeUZRTIQJec5a7l/K7RUfXU4lQWH0//hI6J+z0ZqlXg47XDulvZ43+YoZte2d63UB5HbEk0mAGC+aw9YiYvLU3KQb1qGGLY2Qzi/7lyoBHjaeDTPVx7QsZ4cGt2bK/W5Sabucs/rcZmgb4zPQ80BbeOnjOkzDVaaS6TNAnShDBgWQWgmXHcB/1Tu3sZtzjW3RB51ssW7f/VYhHkGmKiggBeHC4cfh4kHC+1AXjF4Bfi1fZ/vtyqzPuYxEvLSx83gwBOyOvnhtBDHWFW8cIhmLlTrnFjnQHjuh241aTCWq8U4Vu+8TsA/+UIXKX3AKiJRDeOG7w70l0+KZZYp+DJlSGUk13SDHSnFmpR6g9mJoKKbmrF2YTI7xfUVfn9cksCN3B3M4XIgW9X2RKp1DzrCfcN0LESJ0+jgvwUUqdEStl6Mfk8th75Q==;WZzNIAJUEb0J7hiD27iyXw=="
 ---

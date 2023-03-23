@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
+    excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."
+    publishedDateTime: 2023-03-22T09:10:00Z
+    webUrl: "https://techxplore.com/news/2023-03-chip-war-censorship-hobble-chinese.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/baidus-ai-chatbot-has.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "P4H19wOtnGwhosw1hOZpxbbQPbTxYUA0hIfQLXXHeBWTLrJBrDtm2BzQ/E8ZcHolrKYB42iPpV0O28FwbN6ghWkOJd9vcn5QuQUqKxEuNsxhRehvy9n8pfb5IUKeNnEiSz9dgLHhlvpuqmhMi9TJ72Y+JykiG1HOPFbQvWTzcEi/3CIrfAhnOB/TlTkfvBYskg+q7f8vCTOUxt5Sqt0hq2Vk4RBP76Unclhzb1MtB0M5VLEmvKQobNWLcTbifBTBso4CG/wk6WLAD0lmtpli6UNGHnLOZ0DQcVdvFwNK2wI0esGf3avJ/EmsaIDKkyz5ld0MxMxc0XDwxPHoWRqMw6sRImzkkuANrBj026IFJ5mu0lGZRKwtWL8VuovcIb3RydR0+3GhaLquDStV4A2YufWH8w9pLVSzPokYOONRMIFiebzeqisCDxzftmQO7gus1AfNIIIVGSHDoVF+vRpO/zRw7/0R/hXmrIND70NxyLEYgXnB7Q2vB6FOw+FOi09XPWD1PKxm3qg4rVQkNZRPZA==;kDglONPts+VP1Rgz6bBuIA=="
 ---

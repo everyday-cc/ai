@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-the-rome-call-for-ai-ethics-should-cios-heed-it.md",
+      "title": "The Rome Call for AI Ethics: Should CIOs heed it?",
+      "excerpt": "Microsoft and IBM recently renewed support for the Rome Call for AI Ethics, which outlines six short principles to guide the development and use of AI in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/463337/the-rome-call-for-ai-ethics-should-cios-heed-it.html",
+      "originalUrl": "https://www.cio.com/article/463337/the-rome-call-for-ai-ethics-should-cios-heed-it.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/02/thinkstockphotos-659493026-100735151-orig-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/463337/the-rome-call-for-ai-ethics-should-cios-heed-it.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/463337/the-rome-call-for-ai-ethics-should-cios-heed-it.html/amp/",
+      "publishedDateTime": "2023-02-28T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-sam-altman-says-potentially-scary-ai-is-on-the-horizon-this-is-what-keeps-ai-experts-up-at-night.md",
       "title": "Sam Altman says 'potentially scary' AI is on the horizon. This is what keeps AI experts up at night",
       "excerpt": "So, what do AI ethics experts - the people who are thinking ahead and trying to shape the future integration of AI into our everyday lives - think about this? While Altman claims \"current ...",
@@ -1323,40 +1366,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes.md",
-      "title": "Scammers rush to capitalize on the AI bandwagon with get-rich-quick schemes",
-      "excerpt": "YouTube, Instagram, and TikTok are becoming polluted by individuals pushing AI and how you can use it to make yourself tens of thousands of dollars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -3,10 +3,10 @@ category: news
 title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
 excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
 publishedDateTime: 2023-03-23T05:45:00Z
-originalUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/"
-webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/"
-ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
+originalUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
+webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
+ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp"
 type: article
 quality: 53
 heat: 93
@@ -74,6 +74,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "ipf994FlV0LAQn2uZblJFr9+hK2vWqn1pQ8YDknyhN3UiP7gMaOzG0Xn6zNJkMJKij2eFYt+fUFShqc+Um/Nhv5hjz5WNVsyN+hnXxoRMX7zLGA4prpFCbkKhpuKysXvqWOcMoM946YB1Lpt3kwhHk+SUrvPSwKWYqx8mth2R9n4ceUhciB6j+alTpfch3VZZwyCryGB9IcbpuGJgx7D2zgAmXi60U+erdlwU7q/4CJitaQbjFteiC7aVJ5Us7tJHzkCnWQz7Kl1w1AcRDwLGAqwGgt7Iq0vFzGqnyRax7WLCcBDCbVkckpl2e4RtyrX06s0HU2pVh0n8bqxsajDkD8b/76L3Ml2j12gNWMUW72dRMZtGtdlUfJ7ZwHVKJB7ilgGTZFxqO6cjcokv2S1K2guARSz07WJOJGJJyre3Y598I1Ofs37C0h2Urx/VG3u0TV358WKtblxtfOMghSLvnT/2zFdFDQH7/SVQ2HmbihVb3p5PsLbpMAxaiRX1k9Hf6tG3Se6HO0CYImFqbZCbg==;GItGRu+JozjFnUqYJftl3g=="
+secured: "M0eDC2c6XJaoDRw3pcqVmMPLJ297qTuHJYz5x98/hkklHPfKEr6BGZWQTCRk4ncFMWVzdmd4oefdbIfwbYP7/Q0ie2xPkY6PbDYyM66YgdVmRo9k0mu01taE0bLeQ9dD3KK+t02Lx/8FQMf91yX7XfKio8n2vIa16SeNQVjUBSaT/WxajuRzyHUBXmV4haBq6UqqGfM8Ff79aQYaOh7gKxugGgdg0j+bMLeRaVl4n7nLW2FmRezUa39h7VRF91SNwPexvnQcELFEXL+h8OWsPoVPGpfkwjvDucXhJ/bwCHFB+aexOdt+7SxlrU2uKjXoJ6vW8J7ilGQBeo3CyQvP31eG4YKX9W1CffFKMkImJWg=;EFNNXuEZ/dCE7D4UIi7U4g=="
 ---
 

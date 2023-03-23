@@ -194,6 +194,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
+    excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
+    publishedDateTime: 2023-03-23T10:10:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/23/microsoft-is-all-in-on-ai-2-ways-it-will-benefit/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725379/gettyimages-1145585734.jpg"
+        width: 2190
+        height: 1369
+        isCached: true
   - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
     excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
     publishedDateTime: 2023-03-22T08:17:00Z

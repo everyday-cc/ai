@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence and Advanced Machine Learning Market Size 2023-2030 | New Report (85 Pages) | In This Reports Artificial ..."
+    publishedDateTime: 2023-03-23T10:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
     excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
     publishedDateTime: 2023-03-22T19:43:00Z

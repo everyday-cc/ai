@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-06-scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes.md",
+      "title": "Scammers rush to capitalize on the AI bandwagon with get-rich-quick schemes",
+      "excerpt": "YouTube, Instagram, and TikTok are becoming polluted by individuals pushing AI and how you can use it to make yourself tens of thousands of dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
       "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
       "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
@@ -1347,49 +1381,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-scientists-weigh-in-on-the-ethics-of-next-generation-ai.md",
-      "title": "Scientists Weigh in on the Ethics of Next-Generation AI",
-      "excerpt": "The release of a powerful and publicly available AI has raised questions about the technology's potential and points of concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2023/01/scientists-weigh-ethics-next-generation-ai/381617/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2023/01/09/010923AING/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

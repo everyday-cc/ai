@@ -100,6 +100,15 @@ related:
         width: 547
         height: 246
         isCached: true
+  - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
+    excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
+    publishedDateTime: 2023-03-23T10:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
     publishedDateTime: 2023-03-20T12:00:00Z

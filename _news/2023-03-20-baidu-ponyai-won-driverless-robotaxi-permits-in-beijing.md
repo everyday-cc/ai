@@ -7,8 +7,8 @@ originalUrl: "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits
 webUrl: "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: tech
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
-    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
-    publishedDateTime: 2023-03-20T17:52:00Z
-    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
+  - title: "Aston University project improves its driverless vehicle’s capabilities"
+    excerpt: "Aston University has completed a two-year Knowledge Transfer Partnership (KTP) with Coventry-based global transport technology firm Aurrigo, resulting in a sophisticated machine vision solution making its autonomous vehicles more capable."
+    publishedDateTime: 2023-03-23T02:32:00Z
+    webUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/"
+    ampWebUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 52
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Beijing greenlights operation of unmanned self-driving vehicles; Chinese tech giant Baidu to lead project"
-    excerpt: "BEIJING, March 19 (Xinhua): Beijing greenlighted the commercial operation of autonomous driving service without in-car safety ... which were operated respectively by Chinese tech giant Baidu and autonomous vehicle startup Pony.ai, received approval after ..."
-    publishedDateTime: 2023-03-19T08:01:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/03/19/beijing-greenlights-operation-of-unmanned-self-driving-vehicles-chinese-tech-giant-baidu-to-lead-project"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 22
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/19/1985731.jpg"
-        width: 1240
-        height: 743
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2023/03/Autopod-UI-1.jpg?fit=671%2C512&ssl=1"
+        width: 671
+        height: 512
         isCached: true
 
 secured: "RxyIqNwQmBKx8ehNN/dLXZDSwrYeeosaTDmjVDezB5SRjW90W8twOprMo2tYcXbTtlZvcF44LXUWuoLyyJ/nzdTYs22NON1Z/wBIKc9l8h0IXczVqR1+rgAzOr3csdUX5bAS0iFO35M7aTAH8EKK0zMNxfQl8ZZukAlXYmzSoIa7nPatoennxavdYFOLQgRnORFihFCusLvMg0GQFM7Ms0qz3H7puXbQRUxqPl/hzk4vSlPqSoPWNwcqmOUdgYgVJX7rtgg8xL+dWWYcOm3Ox1vct/0zlM+ygAJ7NAuZnpQDswz7tEEHUZJOrSe+E1jP5aaFaM8YE15cKr6F3beYn+Uz3Uem95b40jjuHgwoJHO36l5bXzmyYwKSklqcor2t589eD2rm+li54WJS1XFahtY3olw7QWY+gp9Lb680MyZR0DsfvA0Tyl+jMC1RSZNtnUGwYIOv24dF+Cu1mMAFprJFLkM9xPDsZgTNCNDpygOmj0HRqUK1pX0Ec8VkKQ1MrYAhIwtCJkkolvfpTJVsyg==;wjcdfwJbZbz0Nurvc7vcFw=="

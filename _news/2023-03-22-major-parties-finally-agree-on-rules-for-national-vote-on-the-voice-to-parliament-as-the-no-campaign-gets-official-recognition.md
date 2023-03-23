@@ -27,22 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "European Parliament calls for a ban on facial recognition"
-    excerpt: "The European Parliament today called for a ban on police use of facial recognition technology in public places, and on predictive policing, a controversial practice that involves using AI tools in hopes of profiling potential criminals before a crime is ..."
-    publishedDateTime: 2023-03-18T17:07:00Z
-    webUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/?source=Snapzu"
-    ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?source=Snapzu"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?source=Snapzu"
+  - title: "KLAS: Speech Recognition For Clinical Documentation On The Rise"
+    excerpt: "While ambient speech recognition is growing, transcription will continue to play a limited but key role in clinical documentation, KLAS found."
+    publishedDateTime: 2023-03-21T16:59:00Z
+    webUrl: "https://ehrintelligence.com/news/klas-speech-recognition-for-clinical-documentation-on-the-rise"
+    ampWebUrl: "https://ehrintelligence.com/news/amp/klas-speech-recognition-for-clinical-documentation-on-the-rise"
+    cdnAmpWebUrl: "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/klas-speech-recognition-for-clinical-documentation-on-the-rise"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 59
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/06/GettyImages-1168367649-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: EHR Intelligence
+      domain: ehrintelligence.com
+    quality: 39
 
 secured: "ieuSW4Nijrm+RbldXCQ624fFUuhZd2hH8QpqfO0JE37+3BRhY6JMTCePvcIh1yBHbqH9+aNxUZY44b/DZIp0Dx21y7riTwpDMAnEDNFsYuKEH3Qyk9lvKisqL9rMYfdeMhwl53nPPtSEJsSivRwjXJdG/vUp9M2et1CJgW1zF99pYinUcw0CGwG+4K7ITe2uTJLeEqGegWq6a9yUwZkCuv9iiFs9d4zX9Uss4TEANzONK64XcX223PY6doeb7gEJqu4o8cFKy+ThecNDI69OC27xeKLEJypVooo+DRsWJ6TATd30r7hYBCam0Ns3jdy/gms5TPdoEVjlFz6zAgmBusfcLER8k7b9I3ecp49A3eI=;9opG40nITneqPhEqoUL+DQ=="
 ---

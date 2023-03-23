@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Bill Gates predicts how artificial intelligence will evolve"
+    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
+    publishedDateTime: 2023-03-23T11:09:00Z
+    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
+    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 59
+    images:
+      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
+        width: 644
+        height: 362
+        isCached: true
 
 secured: "KiwLDqSWrzYW/rLvyIgZp0OQ62vb4H+YNZEAWWLTiz9H8JcrYQsP+Z2YyS0kyOIWmXBrZBgq0qIwmKh6BAuJSDQ8+nx99RGZTtnLScyQWJJCkxmw45qdMzmAkR56H3WuvZStJruuHsn/zjpLxkwYPzfytHGXoP0jzUxBSkFwlvkAdpfxwNnHyuCgjaavdE2OZWCPofKG6ldO0yP4bcsO4OA4D1etuP+HItiCBJanKVLN7ECGQbtsyA+DbyHPmA+90dJAlgwvlnyHZW3uGWSSkfkcODzHv5OvEn9CUrvRg/5ZFqrCVjBU5/U8r9ymt3LbJhCQ9rWeaxa7t+XmxAhGoKThhDAO1ec8qMAWB1TioqnL/K1eWf8woepMNTcb2W7igev4ZiL4oieYnq9ZcuGsQ/9nYN9SDGH4+pIweuzlBz1YoaepFXOq3sanc6rKBo6DJg9L7A+ymQINXpfutnhAAKJdNEAd0A4Xhb81RVx6F+amNwzHT8/v5h+fUaMZM1sOD+9ySQkWs7StE2VfE6eZYw==;/MmrUIay+gU17P5RXP7BIA=="
 ---

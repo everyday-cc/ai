@@ -104,6 +104,20 @@ related:
         width: 500
         height: 277
         isCached: true
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z

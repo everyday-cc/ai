@@ -111,6 +111,20 @@ related:
         width: 500
         height: 277
         isCached: true
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
     excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
     publishedDateTime: 2023-03-21T13:20:00Z

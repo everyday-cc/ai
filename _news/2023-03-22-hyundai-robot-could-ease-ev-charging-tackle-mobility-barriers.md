@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Hyundai developed an EV charging robot"
+    excerpt: "using what a Hyundai press release describes as a 3D camera-based AI algorithm to control plugging into the port. When charging is complete, the robot unplugs the car and sends a notification to the driver's smartphone. Keeping in mind that most EV ..."
+    publishedDateTime: 2023-03-23T11:08:00Z
+    webUrl: "https://www.motorauthority.com/news/1139142_hyundai-developed-an-ev-charging-robot"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/hyundai-charging-robot_100878276_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Hyundai Motor Group Shows Newly Developed Automatic Charging Robot for Electric Vehicles"
     excerpt: "Hyundai Motor Group (The Group) video shows how the robot communicates with the electric vehicle (EV) and automatically opens the charging port and plugs in The automatic charging robot (ACR)"
     publishedDateTime: 2023-03-21T07:16:00Z

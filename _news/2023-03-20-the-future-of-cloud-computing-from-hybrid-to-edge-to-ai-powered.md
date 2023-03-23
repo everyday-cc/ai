@@ -100,6 +100,15 @@ related:
         width: 547
         height: 246
         isCached: true
+  - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
+    excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
+    publishedDateTime: 2023-03-23T10:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Are Roblox’s new AI coding and art tools the future of game development?"
     excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
     publishedDateTime: 2023-03-21T12:43:00Z

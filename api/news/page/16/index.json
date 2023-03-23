@@ -2,6 +2,207 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-03-09-chatgpt-is-now-available-in-azure-openai-service.md",
+      "title": "ChatGPT is now available in Azure OpenAI Service",
+      "excerpt": "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
+      "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7aef177b-557f-4544-aa26-746ac23def5d.png",
+          "width": 1200,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T00:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-amazon-to-close-8-go-convenience-stores.md",
+      "title": "Amazon to Close 8 Go Convenience Stores",
+      "excerpt": "Amazon is permanently closing eight of its Amazon Go convenience stores. The cashierless stores are located in New York City, Seattle and San Francisco. Two Seattle-based stores have been shut for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/amazon-to-close-8-go-convenience-stores/",
+      "originalUrl": "https://www.cnet.com/tech/amazon-to-close-8-go-convenience-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/df3b82bfbf8a1167ea5c749c1210567ad7c6e42f/hub/2018/10/23/35406819-059b-48ce-ba67-ee4338d4d973/amazon-go-san-francisco-opening-02042.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-to-close-8-go-convenience-stores/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-to-close-8-go-convenience-stores/",
+      "publishedDateTime": "2023-03-08T21:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-sales-of-countrys-first-manga-made-with-neural-net-use-starts-in-japan.md",
+      "title": "Sales of country’s first manga made with neural net use starts in Japan",
+      "excerpt": "The author of the Cyberpunk Momotaro shared impressions of the process of creating the manga with the aid of the neural network. \"The artificial intelligence does not always create an image ...",
+      "sourceUrl": null,
+      "webUrl": "https://tass.com/world/1586259",
+      "originalUrl": "https://tass.com/world/1586259",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://phototass3.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20230309/1384257.jpg",
+          "width": 1080,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tass.com/world/1586259/amp",
+      "cdnAmpWebUrl": "https://tass-com.cdn.ampproject.org/c/s/tass.com/world/1586259/amp",
+      "publishedDateTime": "2023-03-08T20:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TASS",
+        "domain": "tass.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-machine-learning-in-finance-market-trade-research-report-2023-2028.md",
+      "title": "Machine Learning in Finance Market Trade Research Report 2023-2028",
+      "excerpt": "Pages] Top “Machine Learning in Finance Market” Size 2023 Key players Profiled in the Report are [, Ignite Ltd ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-heres-how-facial-recognition-is-changing-travel-through-bay-area-airports.md",
       "title": "Here’s how facial recognition is changing travel through Bay Area airports",
       "excerpt": "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
@@ -905,197 +1106,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031.md",
-      "title": "Automotive Artificial Intelligence Market Key Segments, Share, Size, Trends, Growth, and Forecast 2023 to 2031",
-      "excerpt": "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-key-segments-share-size-trends-growth-and-forecast-2023-to-2031-2023-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-hundreds-of-sexual-deepfake-ads-using-emma-watsons-face-ran-on-facebook-and-instagram-in-the-last-two-days.md",
-      "title": "Hundreds of sexual deepfake ads using Emma Watson’s face ran on Facebook and Instagram in the last two days",
-      "excerpt": "A deepfake app advertised itself on Meta platforms using faces of actors Watson and Scarlett Johansson. In a Facebook ad, a woman with a face identical to actor Emma Watson’s face smiles coyly and bends down in front of the camera,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/social-media/emma-watson-deep-fake-scarlett-johansson-face-swap-app-rcna73624",
-      "originalUrl": "https://www.nbcnews.com/tech/social-media/emma-watson-deep-fake-scarlett-johansson-face-swap-app-rcna73624",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230307-Deepfake-App-jg-3ef3e4.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna73624",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73624",
-      "publishedDateTime": "2023-03-08T13:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-3-high-growth-stocks-in-the-artificial-intelligence-industry.md",
-      "title": "3 High-Growth Stocks in the Artificial Intelligence Industry",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence is a multitrillion-dollar opportunity in the making.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-high-growth-stocks-in-the-artificial-intelligence-industry-1032154823",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-high-growth-stocks-in-the-artificial-intelligence-industry-1032154823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings.md",
-      "title": "Aiberry Secures $8M in Seed Funding to Accelerate AI-Powered Mental Health Screenings",
-      "excerpt": "Press Release Artificial intelligence (AI)-powered mental health screening pioneer Aiberry (pronounced \"I\" + \"berry\") today announced that it has secured $8 million in seed funding led by Confluence Capital Group,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/",
-      "originalUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230308005315/en/1733135/4/Aiberry.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/amp/",
-      "publishedDateTime": "2023-03-08T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

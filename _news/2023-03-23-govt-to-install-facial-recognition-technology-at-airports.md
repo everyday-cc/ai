@@ -103,6 +103,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z
@@ -122,6 +136,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "/KQrFES16VEi0QJUNAGjeD+IP/+hGpYrIeEhnwXz4aVbgYVk1aQT9jZo77UjuWJ1/b9stA4VQwpAA428B7IzruC2iAR247DzTyHaEmPzBKyY5QTQwagjDSIPeNfA5uzrW9Ptf+gKJYArRaw9E3+lUn+92HIeU5p56mCRvkYWQhb/f7B8dODKJioVGbpwFVC9+uQsgfpgj5ghnpqkwMUxEZVXlDP8TpoFtZRyufdj0jQkGXE3eBmYM/0V/hyzl2jaUvIgubDANdg+nRAbhGbQNYnVBT86SvZ4y3gugjYdid/L7konSU2d5G1L43cLujByquxHkN02/nouTLwXATaJ98jkBgjTeSNXOPEJpPAOOr4=;/bE63o6l8I/MUh/lPEdrNQ=="
+secured: "bPKn5ec0n86+Z/2y/MUQyEuMY63ziMqyx6f1TJWS0FOulwLKfRhHTDcI5K8QYh1Lr5wnpX1LMCq9x/CQyz9npKdViti4KAad1/vcOVzvVBzYmdmW6CvEd1rE3CxC70bFbJK6d8CilJHfLhIbxESi+66Oy/kkThUghenbATnmKMJVOR5n9hTDEQuH7XC4fk9/cl61+te12S4dvJG35CIn5uczlVCVWW0V5RjNHTjf5QSki03iCD6Yd+yHPS16QlmT3s6DpT8/2yoiTR9e4gEhC+YNp+O1nnulgJzQ2MvM6I34FjcAfpPqlONX0e9bqqOjPeWFkUY0esGbG2PJlnKSwu8XAYGnlwc9lbWyLNsEcxIuLangpq/oc970WhR+HKVwy8fVcwdsZXaLU/8EIBlV2BOPH1qocIYsgEPL9U0k39c689ysPrFEwOank/4G2YmuJuyZqvgN+o+HVFKdKOdqZgETIAPXTW+Th5OyomnUeBT3qoJfyh1X3OixugAKMcMX9vxrzdfghvUl+xJgpaOaAw==;jVDR/NaSH5fwpNPZyh601Q=="
 ---
 

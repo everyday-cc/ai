@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

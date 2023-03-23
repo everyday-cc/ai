@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 663
         isCached: true
+  - title: "Generative AI Tools Threaten Big Tech's Digital Advertising Dominance"
+    excerpt: "Generative AI could undercut that revenue at a time the digital advertising ... Jamie MacEwan, a senior media analyst at the research firm Enders Analysis, said he sees ChatGPT as a potential factor in influencing where ad spend is directed."
+    publishedDateTime: 2023-03-23T10:24:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/03/23/generative-ai-tools-threaten-big-techs-digital-advertising-dominance/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/03/Google-search-result-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "618kGWB874R5i3YwIwz0Ua95YC1Ni2+x057r183f/1Kukfqi2PtU4YrklVwWMdQGVNSj8jIRXHt3rQFRUBDwrFFX4SUu+sN4Cy8vvXFUnXrCvvvvhH6f74PGG7YW5h5iJ84PNGbQpPNoxx4dXf2duQEMUZQMvZ1u9YZ4fRSlWVuT4PO3MKHdGZ+rdM6HuJ7Bn/aNEy+SYY54Y4d2U1PejPQ0+psDAklU91247UHM7VGhSzwzsiQaIYzwX532xwICT0FwgwUVqapvLj5tJqA6sewpEnyGtfLPockgD1VjCJkP1UzFvLunuHCN1SW1D7HrnN4jMyjibpH4vDNVt55ZZMPpFnrHD2F0HpKPRY0ZWds=;nxxoSFoQsf+MV9H57ie2NQ=="
 ---

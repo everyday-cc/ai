@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
-    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
-    publishedDateTime: 2023-03-18T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312743&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Pimloc hires US sales leader, taking its AI-powered video privacy and analytics technology to North America"
     excerpt: "Pimloc, the company using artificial intelligence (AI) to anonymise personal data in videos announces the hire of its first sales leader in North America, Tom Fashola, who will serve as Vice"
     publishedDateTime: 2023-03-22T11:51:00Z

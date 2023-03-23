@@ -26,6 +26,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Elon Musk and OpenAI CEO Sam Altman Continue Warnings on Risks of Artificial Intelligence: Here's How It Could Be Used Maliciously"
+    excerpt: "Following the highly anticipated release of ChatGPT’s successor GPT-4 earlier this month, OpenAI’s CEO Sam Altman has raised concerns regarding the dangers of artificial intelligence (AI). This isn’t the first time a tech mogul has voiced support ..."
+    publishedDateTime: 2023-03-23T10:57:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31470922/elon-musk-and-openai-ceo-sam-altman-continue-warnings-on-risks-of-artificial-intelligence-heres-how"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/23/000musk.png?width=1200&height=800&fit=crop"
+        width: 608
+        height: 405
+        isCached: true
+
 secured: "rZcdzzRzkYF93AUbBy5/zD5VawlecZBkny/+8OoH512E5N/wH6VhHiTQlhKGkplr3+taBCX+s8Qj3Be1OUUzimeG9St8UrWTn5CkoqMyXjzW5xS8IBUa9z7UXcx6fmkozJ8XoyVqUMAIXtJ/ZTCkS3fHsCRN3pjf4w+l4xyWyoTnxeHYmx+9lGcWkWMJrWBSPK2oZIbSX41+L8lYQbiSBW3i3iEkxAAeqNRcFPU3Zcq2tZ3b71EhNDzdC2F50fbyTc7C0BsNPK5k39j01eLiGikDKcUt9qZWk3V+JkmAcRnC3HLQs1oUaZiJ6pe2QOI8F32ibcf3KrAdfYk0YvkFj5ici4D5Zv0vKazT07+dstU=;pvN/XbiF7gyVrycHwqQz3Q=="
 ---
 

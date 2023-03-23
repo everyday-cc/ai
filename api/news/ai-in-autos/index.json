@@ -158,49 +158,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-baidu-ponyai-won-driverless-robotaxi-permits-in-beijing.md",
-      "title": "Baidu, Pony.ai won driverless robotaxi permits in Beijing",
-      "excerpt": "Baidu and Pony.ai won permits to provide fully driverless ride-hailing services in China. The permits are from the Chinese.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
-      "originalUrl": "https://techstory.in/baidu-pony-ai-won-driverless-robotaxi-permits-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2023/03/TikTok-360x240.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-19-self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores.md",
       "title": "Self-driving trucks to deliver robot-fulfilled grocery orders to Kroger stores",
       "excerpt": "California-based Gatik is pitching its autonomous vehicle deliveries as a way for retailers to cut costs and save time in their constant effort to be in stock by using frequent deliveries from small self-driving trucks instead of big semitrailers.",
@@ -209,7 +166,7 @@
       "originalUrl": "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -253,7 +210,7 @@
       "originalUrl": "https://punchng.com/chinese-firm-to-launch-robot-taxis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1050,6 +1007,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-wave-of-the-future-what-you-can-expect-riding-on-carys-new-driverless-shuttle.md",
+      "title": "Wave of the future? What you can expect riding on Cary’s new driverless shuttle",
+      "excerpt": "I have always been a little weary of driverless cars. There is something unsettling about the idea of our cars driving for us that feels too much like a science-fiction horror movie to me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
+      "originalUrl": "https://www.aol.com/news/wave-future-expect-riding-cary-181423383.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_raleigh_news_and_observer_mcclatchy_356/74b33485cdf621a709b5ed52bf6db988",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-14T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
