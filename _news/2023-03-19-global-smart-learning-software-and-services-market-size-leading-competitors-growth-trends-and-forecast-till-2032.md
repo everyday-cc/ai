@@ -248,6 +248,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
+    publishedDateTime: 2023-03-22T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "U+/hhI+r6P1hPLAHdifRJpNKCcZGk2Xdq+J5xT5uxyNZQzGSMEWEj6XMm6WhZnaoeVTw2ydmSKvnuvJDh5gLT/zpPJ0raw/lAjByqPmzneYYHlQAFqVWtVGGvwqWbSNqwaia8gzuTEwRZZrie/cp2sdrY+3JRssWdAdFqrrjSdfCOhqiYjtyCWDWaLdBQKN8W8jHQtVSvtmgvwbON1L8BvO0Pjn9otXZmBEIPF/UEQUqByeDkCe8wo7ePJWfhKMWsS9fapgHARiBr7jsGbLY4pcm/tKpB1+qi1ppeEL1Y4qlgaljF205xinb3BxMnXjvJpwS0EqnJfPLf2cO0TtauQSmACM1ZEofSfQIbWAmqMM=;+GRnmvfk8i6h78ASKd0ljA=="
 ---

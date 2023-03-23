@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Best Robot Vacuum Deals to Shop from the Discover Samsung Sale Event"
+    excerpt: "This smart 'bot even has object recognition, helping it avoid items like socks and cables. If stick vacuums are more your speed, we also found incredible cordless stick vacuum options to shop for your home."
+    publishedDateTime: 2023-03-22T23:02:00Z
+    webUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313"
+    ampWebUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 60
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "K/RBo/SMna7907bE0Nxzp5GLkqZ5aT7rSedyO0joIHhNI2vsD7hho8wdTwIr9ar38Cj+/1yHNeg6Dg+i8P7guUY13Ip9Ea+33L+5v41Pb/woq51OM6jubcEQp7443NwnOaGEM7XzxIluK3oRXF1DxE4x0NOODPr0OeoLu3iVxvxGrTLx/CWyh4XRe+mDlIhfyJETZNzp1FTYGxSd7M3N1XsCoCJ/93s3muuFocP1Z4B7gaq6X+6MWPuTyWe867Z0Q8NkPszVbtk5hktpNS2/Yu58AaESLuoaD0feko2kUfOzLUMHDucr0jnnAudEkfps3R3v21q8FawOA2cti0b89ttBpyYGYmPYGwP3DQ+SgAONLz6+qx917ctfj7F4MLE4cJx1UEih4xCV3RUAchst6YXDqqHjk7e52vtNbs2qs5On7eELk40LJ2r1k9KdOH2ZG4idcX9Vhv7fu3X7lFv51wV+Amee6WgoZZpTiz1RxObmip1zj0pgUA/xFQYlxVnzkF49rL1JmOEIvXFfFZ7Hrw==;mGOFDpbG++4tqHymcMrvfQ=="

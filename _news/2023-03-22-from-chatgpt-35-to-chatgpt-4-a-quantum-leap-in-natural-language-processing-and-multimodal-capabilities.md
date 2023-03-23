@@ -593,6 +593,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
+    excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
+    publishedDateTime: 2023-03-22T13:26:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/chatgpt-ai-models-apps-complicated-efforts-eu-lawmakers-landmark-rule-3884084"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 32
+    images:
+      - url: "https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
     excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
     publishedDateTime: 2023-03-21T17:29:00Z
@@ -654,6 +668,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "etGEPS7Tl8Oxq4jw5tIk2Dyn1BSyOuO2ETKyzM6R94xPmU6Gr9HoJRv20P4eiIounjZYPymAqptW+n7Cr7mIqqDADY2nvmJ+NKpbf4VW8u8CG7DIykE8w62KvQ5JW8jLwK3M0vA+Yq8mg6+n/PnphaS5YzSqplwmeu2aPEhMmaleo5Y08EJouNERUChbT3lWOjHqGsGf0y8P7T1ECr+PztwU0AGNLH5zv7RPJUOnhTQ+CIEL7t3q5fmGnI4AuyNL9s19w0zAQNdCOQ0+IlkONEdWLjyvn3Jx5eY7bCrEDCU4eFiiWarvl3b/2n06tDW2yWjS0inCBDyWuxAiAXm6P1tKg8dUwwNgJzbprxWz2Tg=;UsQGb5aKHp0zgsVGxowhgg=="
+secured: "FkZ7ADMK/40/LT6+Skr5Ap4pd1OP93AENlOo+fd4rK181rx3MsqEn6rUcPTqzazYvkDBlVYR46MLir4DxLyDUYzZnHQzHNaX7wUlEuvPC+UXMQtjvtI1je//FZqa/KZUB5dWnnQnCK5BHe69vXwsHJK5ihVdaHEBWNf+8nNrWCTwMJmtuubzIBSmbGGcTwg3OZ+JGovq9MgPJFscE9WiObzISv/c6TuiwHt+qJY9em9FOcBnw0wu//Eq+VEKguPdwe4X392lzSdALS7ryyQRHj0X4zmjmJwJIlyffRSa9IVrgWRpmQlCtogbsdkdJm3iySue3rPx99n8PwKjIN1XpXAvQM8EEHFTL2rRyKY4eME8p/6Yd6qnHj0f2NUEhMC7x2oM/kV2sonwNEjGOlHx6R4XVV8D+EKb947WdTisjjv1mZ1REvCGE9i72VqJqui/U79rRQyUZTjgNqIhel8si++HDvoBpRVZIBxXIOGvDF1CNNGaVj2MlH8e/tI9mK8d2MsXp01YIvq4mtiX35OQxw==;Cr8yFQcpA/yI8vy888L9rg=="
 ---
 

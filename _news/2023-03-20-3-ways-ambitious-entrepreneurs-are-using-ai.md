@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

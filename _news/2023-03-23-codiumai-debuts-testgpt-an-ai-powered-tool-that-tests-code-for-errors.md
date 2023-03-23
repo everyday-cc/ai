@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "GitHub debuts AI-powered Copilot X coding assistant"
-    excerpt: "Another set of new AI features focuses on pull requests ... “We’re starting with documentation for React, Azure Docs, and MDN, so we can learn and iterate quickly with the developers and users of these projects,” Dohmke detailed in today’s blog ..."
-    publishedDateTime: 2023-03-22T18:25:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/github-debuts-ai-powered-copilot-x-coding-assistant/"
+  - title: "TestGPT, a generative AI tool for ensuring code integrity, is released for beta"
+    excerpt: "Codium AI released a beta version of its generative AI-powered code-integrity solution, TestGPT, to assist developers in testing their code."
+    publishedDateTime: 2023-03-22T22:14:00Z
+    webUrl: "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/"
+    ampWebUrl: "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/code-e1679497958730.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "qgTeEaeBZoSeTWravbMc5r3hn71C+qLS2Tw65zbK5DtoYqf4W7mfnF5u9intxoVY4ImalZWUe+pY5y/3Zc/k+4M0WOufpbNyCjOhOqbFYgaVv0aOopJDG78y1xqOzVV2YsZjaXPPOcp/Osi6Vd747c96KrcpVoFimR0O80rWskeBLGSRkN+Z1dtVWkmOjgET3Ro5UD6AexqLtibcRQunIJCNXqboUJ2zrduxdSoqFkZFhRRuZ86rjNexQb34qNrSubCjqixuYYw8cKmk9/W0I9ZIUqRp55PUZpGRI2pTAqPWJJtB1jRKhd1coz159c3QMCqmt4t22hp1BLOozTActhZaFm0V7Z2I2YbPGSEzMc6UxFk+a41shArDLMuWpUL8KO78vFLb7xT56bmvocG/5XXbK0q9AAgqzgef/rB5BsExzEZGnU8wJcoHtrRanxzPJdAK7xSf1ahm1lb49RDptqw48Q3ztlxb4Clny4qcNmkeGN0PtSguyrDbcv1OMOc1sDwm948rCdfojK72xnrcbg==;XOBebfjxFVaqCghlysaiAA=="
 ---

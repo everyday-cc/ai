@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
 type: article
 quality: 78
-heat: 129
+heat: 138
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Elon-Musk-Twitter-deal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple self-driving test program grows to over 200 drivers"
+    excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
+    publishedDateTime: 2023-03-22T22:29:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/22/apple-self-driving-test-program-grows-to-over-200-drivers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 44
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
   - title: "How Elon Musk knocked Tesla’s ‘Full Self-Driving’ off course"
     excerpt: "Will Elon Musk ever fulfill his promise of 1 million robotaxis? (Illustration by Elena Lacey/The Washington Post; Jonathan Ernst/Reuters; iStock)"

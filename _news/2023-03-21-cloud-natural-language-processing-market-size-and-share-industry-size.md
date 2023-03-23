@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch

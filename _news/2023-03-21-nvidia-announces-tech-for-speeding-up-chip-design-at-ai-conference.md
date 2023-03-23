@@ -189,6 +189,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia is winning AI race, but can’t afford to trip"
+    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
+    publishedDateTime: 2023-03-22T21:24:00Z
+    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
+    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 61
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
     publishedDateTime: 2023-03-21T22:19:00Z
@@ -220,22 +236,6 @@ related:
       - url: "https://images.barrons.com/im-748583/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Nvidia is winning AI race, but can’t afford to trip"
-    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
-    publishedDateTime: 2023-03-22T21:24:00Z
-    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
-    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."

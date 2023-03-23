@@ -581,6 +581,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
+    excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
+    publishedDateTime: 2023-03-22T13:26:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/chatgpt-ai-models-apps-complicated-efforts-eu-lawmakers-landmark-rule-3884084"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 32
+    images:
+      - url: "https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
     excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
     publishedDateTime: 2023-03-21T17:29:00Z

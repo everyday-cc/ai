@@ -178,6 +178,22 @@ related:
         width: 2560
         height: 1600
         isCached: true
+  - title: "Nvidia is winning AI race, but can’t afford to trip"
+    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
+    publishedDateTime: 2023-03-22T21:24:00Z
+    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
+    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 61
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
     excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
     publishedDateTime: 2023-03-21T22:19:00Z
@@ -209,22 +225,6 @@ related:
       - url: "https://images.barrons.com/im-748583/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Nvidia is winning AI race, but can’t afford to trip"
-    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
-    publishedDateTime: 2023-03-22T21:24:00Z
-    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
-    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia has come to dominate the field for selling chips used to developing generative AI technologies, which can answer questions with human-like text or generate fresh images based on a text prompt. Those new technologies rely on the use of thousands of ..."
@@ -402,6 +402,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "v9CN97fdFTBw3qXKVM/NanIjIc0A2qC7y3RESWjZMEktGd11uGqnnYohv6yO4mHF5JYoTvdrCYQ4LbnX2lR9PkB505g4U8fzkQMJUE1Igv/FUErO/+iFkY1kO0RG0CnTDgc9ED8PFRfRRNUXo9Bo+Xstn4mm2RUcfsMdRd/Cw6bFYV3+TabrZHlc+nqiYPXGvIgE3lFlwKOTUwACUWOeASr0pOxPwuwLcnaQKGgMrz4wXsrgmLaK6ZbA8nUazLY6hKdeOzOAnUjS71NcSfOSe5QMPcfaMK9fDz7qb+JwmoGL32nk4oBV+Z8fe6e/RJbMJSU70BDZND+F6ei2mymqe5ojQg3YobqAE8zjXDSBXv8=;oVVtFJQ5mebEWIMg6uXJsw=="
+secured: "QLUDX3y7DeoKlrjR4BXNplfqssQNTjg+3om0S3ooK0PX5AOc9EiO7/VtDiSZIuwrOCGHbOyIsLX9/0zmR/DlxZSc40MyP1yxQ2fzOV6y434xRFnUbe3l8/lJce6m3MBsjRA/rRQwmXi6LFXMn+8k9KIN3n8EXVg0JhJk6SZej7cJBMdmOPl4zYZ0FyvoXa5lkww7DcW30ai8A654V4BqDJ5DwRaUEDvi8dY50ji0Bj7Q176T7MMaiAAdEjDjthakC5dW5kLjA6ET1jocAcLEllhhBp1bUeTAsDZozYK7NObUsCKGrhj1eiSPYeBQT45dG9P7HDxgjHt22TFFLvkgCOMOuEY2GB6OGxzL/v/6s0Krrdp1gpFhyAwV3l6hbqE8FSUDwdoKBLIH9JBmMQ8AFD1szhXPOkFIGiHhwatgo1CYl+n/CjDu0XU2bUregQ5N3PiSvc+zeAY7hm9eRagLf1jXeVy4PGyeie+K5UDSBdaPcP+KcAbF3h1u8oBfesgCYogm7jd3MnD++wMXnfPdZw==;cELpVmTAqHdlgypGnoEb4Q=="
 ---
 

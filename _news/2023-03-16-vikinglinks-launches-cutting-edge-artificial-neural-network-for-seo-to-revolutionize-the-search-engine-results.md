@@ -5,8 +5,6 @@ excerpt: "With a powerful combination of data-driven analytics and innovative te
 publishedDateTime: 2023-03-15T21:55:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e"
-ampWebUrl: "https://www.benzinga.com/amp/content/31371662"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31371662"
 type: article
 
 provider:
@@ -23,6 +21,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "1eU6kpReOsav69HXjOUUe4WUePduL9kbydEhUWy8GEeAMQAbEu2FFbHq54yATg5Wk+yO07iJOyNrU7Mv8IPlU01+FoctOHwh9hROVCXtxDU9ini77EKYctYm/8lTzEv1Dsf5nR+CMKxYQg4cW0cX6vncEgi96mJxr/iovkrTNbrdPGY/cVTLSeTivW4MmFn+Tvz4ljUvr3qUyevStGmeKPRmb74UEriVgT7sGfSdU0m7lyKh16YKbeFc+V89TBqrtcpC3IZ5QzyIbtnykR/Z+bEVayvLfLfu1YONEBDxr6/NaZb+ygH6jWA7EZ0J7nhf62cEFzuX3fYH9Y1jdKoOnvPxSd8CKrZILronJKwlKyg=;bi40+3g7rFLlPyjGl7CgNg=="
+secured: "gYWecHxzIFWdY/VyfhcTq1FkCIvgzprI9ws7GBrCDBOmFWX9VrAhEH6CAfx8wtuON4mEwBf88RuKo/H61GGbKr+MBKf1FydvnDoG3hD6QHdNnB9yC60VVajGcZfmlA2jzGuz8083IPWnQu3ef/DZUJbxEVQ7InJdG6Jc6El/0LS6Sk7ZK200KZpcSa5L8Tm0YzOP2QD99jsr2HsX4HEzrOJ0//87ePyiIl6cNWprnepEPrmJFF2JIlNV1LOVNgmPAqdKt4LhDtSxxVv7r38I9axs/EHPyTZ3ZkrfJpmVuTq+1/A3tpbeQQS6JT+46FM8FoQn3outHmxaPt1MLhMYcant+WE+4FTWRwtDVNt20LI=;qn152Upc78Jd+pD+1aEqIw=="
 ---
 

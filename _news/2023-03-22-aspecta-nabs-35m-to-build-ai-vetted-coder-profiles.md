@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vett
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/21/aspecta-nabs-3-5m-to-build-ai-vetted-coder-profiles/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

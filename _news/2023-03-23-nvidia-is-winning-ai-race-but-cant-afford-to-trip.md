@@ -8,7 +8,7 @@ webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-affo
 ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
@@ -399,6 +400,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "3kTvvuhSTsLZSDVxdXmBQQ5JHhL1UPENQci5Mnk/5ChiAOzNuNKOb69VYZKPRtyf+7aHTSMHFcubwn+uLkYG2vCamXv7k1LkhOAWpN3TWQKa0CDMbtj7i/VCyzqMCnBKFQs+JtkCYaXlNb7ao2An1I5thhQXPhjxcGZ7DUaC/wU1dU9dY894lh/IX7HJdM9bskMJ7L3cbtLTyudIq8moMbIgMxSnPk8KFuKsIOlitfO5TJOHvCk5gujbXWK51on6GudywsvoK52RPF3Nfgy3fzzy8FfP79P3d9WPTiUcX3j/bueP6L7+HnKtGeb6H+hnEIUBxWSKtAad2/VFCpcA37aWO5EvzazyXNUW9ir2aGA=;90RE2tOHg6nrtwc4oIhVqQ=="
+secured: "MAYXj6KWEFVNpLaxct3f4NwbuTeRYWWbo3HrQYxLKKJFwuPRgapkbt7APyO7n8Kc13msdGnymquscSoSWqN2hv8PtTKsR3JdkO2RlsXgAOwRlQaJqXrcnFixZiiy+Uu3J9+m/v6vcHYJAUU4Mu8p102URRrrnk8B/4KWEk2V7yA7PhkuXde2yxKD/m6+UNF3XhnUU9u3s2yRFAG/2MOBecL3b7Kk0C0E6UUAyngrIkMjLDS+5XGZWhnfU21m8rSB0HiMhzLEdpix5PNZewt7RgsBhMROEF6Mq/yGK2Cf5YaHKHtbhH1CVNFJTvKhuM+xkvdzEupn07r1vuu+4t3lIg5sa+qeCqOW+AFliKCS3GVVWQhySC3TMERzf84JewjukrCO8wDF5jxco4lDu9XyoOdb39fzUsM6pKII/XOWnIETuTNyMFeEy9sqDZwOo886mwPhN5MQ12whjZZd11cf4L8Gno4cH6VwuU2Qo6CHczAfDC6tU+T861wXtjiM68D0KZBaq2ClmTxOlIRYdHq31w==;aEgo4bICRmkKUTMUiBeskQ=="
 ---
 

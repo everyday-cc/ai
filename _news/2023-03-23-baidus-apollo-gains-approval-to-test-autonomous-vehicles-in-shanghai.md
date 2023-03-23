@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Baidu’s Apollo gains approval to test autonomous vehicles in Shanghai"
-excerpt: "The company has been investing in smart car technology since 2017 and has made significant progress in developing self-driving cars that can navigate complex urban environments. Baidu has accumulated more than 40 million kilometers of L4 autonomous driving ..."
-publishedDateTime: 2023-03-22T18:09:00Z
-originalUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
-webUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
+excerpt: "Apollo, Baidu’s (NASDAQ:BIDU) smart car business, announced Wednesday that the Chinese tech giant has received approval to be among the first companies to test fully autonomous vehicles in Shanghai. Apollo currently operates driverless robotaxi services in specially designated areas of Wuhan,"
+publishedDateTime: 2023-03-22T17:12:00Z
+originalUrl: "https://ca.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-2941049"
+webUrl: "https://ca.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-2941049"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "uU5DQWJZsBFQibboyM6o79DR8KGKyPH66xPY0h4XSCEc5VLwcRBw+KV61WJ7ruB159Fg03PWgEAMhiC9RZtHUmGLhE3wwcDCwaNDJaBteUgGJlKMqZ3Rf6nlJNkdMgjaKq2RNq23BSACxP98JhFGxwScBNTTU4g1jdwsxOaOK9T2O6zhu7XCxGyiw0erOY0p0nPMyDTroLv9IuqfeKJwZv4vp+Gx4yf83cqJFTXk2/7mn0oT+heX1FBfrcMFw8jTDPrwWPgSbStANiv0S7uWSvz3S6TPOoY39Xev/NAeG66oIySJbTfy3nHD6Zd6mqI9Krx1w7UH//duyRWMJ3B5DNGJI9f53Kz2L3IG9qmyUU8=;z6xsyHF67+Pu4JgYvctU4Q=="
+images:
+  - url: "https://i-invdn-com.investing.com/news/LYNXMPEA6N0Z3_L.jpg"
+    width: 800
+    height: 530
+    isCached: true
+
+secured: "LjgIkAviyHDFK4YwkfA6cwxsXQZ0IP5Lu0Bs1qTgB5JKHIAI8ionvGBvxh3fa1eK39L7grCvuUndtB4oY7kM2bLn2tA3FcPalei3N1zpjeDYzFIyT3TVhpCK03jnQgyHS+lIB0ChrGNCAIf7wFHtvT3HxqCj42XJNXPMpre+EJ1Ijewk97GZqwZGIyiK3F1jUb5iG2NW7E6x1nMwThpfP7cIiLwCVtUpwxoDmkalsgbsAKgqFwwx75lqEcPQ88YhBqKKOueE6vkR3HXm3/rLRCIPXTk8H+TsMiv4gdYf9A1xBKwMx12NfLW9C+PMvXwB/x90DG/LtAbZ7+1VIYDIV+sNZnBkiHkHpj3a94aF+SM=;12lhE1pwkxveiKXDC2L24g=="
 ---
 

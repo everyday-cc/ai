@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-techn
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FG Set To Install Facial Recognition Technology At Major Airports"
+    excerpt: "The Federal Government has revealed its plans to install facial recognition technology at major airports across the country. Clem Agba, the Honourable Minister of State, Budget and National Planning, made this known on Wednesday when he hosted the Japanese ..."
+    publishedDateTime: 2023-03-22T22:23:00Z
+    webUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html"
+    ampWebUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
+    cdnAmpWebUrl: "https://www-informationng-com.cdn.ampproject.org/c/s/www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
+    type: article
+    provider:
+      name: INFORMATION NIGERIA
+      domain: informationng.com
+    quality: 74
+    images:
+      - url: "https://www.informationng.com/wp-content/uploads/2023/03/MMIA.jpg"
+        width: 700
+        height: 420
+        isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
     publishedDateTime: 2023-03-20T13:24:00Z

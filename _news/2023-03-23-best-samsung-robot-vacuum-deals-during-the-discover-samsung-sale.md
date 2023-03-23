@@ -44,7 +44,23 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The Best Robot Vacuum Deals to Shop from the Discover Samsung Sale Event"
+    excerpt: "This smart 'bot even has object recognition, helping it avoid items like socks and cables. If stick vacuums are more your speed, we also found incredible cordless stick vacuum options to shop for your home."
+    publishedDateTime: 2023-03-22T23:02:00Z
+    webUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313"
+    ampWebUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 60
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "LIi/izLrLBsW07zz/4lMayUYZkPc7l4JWkXLR3KIS1Gmwh4vwLAaKuJIiF3+TxOisVgAA8QmVi2WCSkKT6o3444N1jD8V6JhZyz1vyZMfT0fW9mpIcdIyeg/r3yRxvZ9uOfhgtykFobfjUd3pt+YARpMwfV/j/gbA76BLwPX7NJAjAKj/Xu+x5kT74pE83Mq3C5JEeJTIntWKsdqDQUrXKx8Qe9EoEqUyfymb5iyezzkrK5kqJB3hTt70oaJ0cCByYyglfxqQpYgG5jkNazdUmv5QKM3GCo0BZhbNY7MqkKrNaXa7h8yQMFDQUZDxVLN58k8L6haXOCGjdfgIsI08TEKiAieaOfZGXwICnudMIk=;OBn/NE2lQlnLpRgDRff4FA=="
+secured: "VspOXs28iNTqg7FUgD1wcXzhy8iXCO5PiVJSpDWT2vnAeykMQXlJT7QFdeprTc1dtC3P1eAimJaPPcYzB8EAY04CuNFkfcNwsRau/sem2IIb5PaCIb23lyMwoO0icBvTlAUPsFtxbtuzfsAVMhEKQrF+3C4rL5qkEPqGYR87PrvfM6Ik0QuVG+K3aobBxuuJn1yPj5VjlvESXesfnD6LE5iyu4raJ5N8kTvJABaGbHE1mhmL3MQy/HtXZKzGL7VEoCKjYXvdJhcr9DEv46xBwNu8D8xWLEi7MG6CPh8/k8aWKDxQ0HyEqopF43iSaKoAsHogIQ/WrMAxJp2HjLIfISV1d09gpE2n+KS47LXq75ozGQbOZajM4cNxh/1J52HFRiuLwgmid9x7sZgPgTJSiYU4GTLhTUBiBRVrxKSFBAxpcYxLHpfILB6BcEKCLIA/68sXYUidKr2hULc8VssE7yUN0OKyBKYzMTPieAlsC/a4L05/qqgJCEnTBEzA45+QuUJKWWYHLQlqcU+iDiFhdw==;UJbpt19iADuU0ETkvpciiw=="
 ---
 

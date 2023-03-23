@@ -237,6 +237,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
+    publishedDateTime: 2023-03-22T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
     excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
     publishedDateTime: 2023-03-19T05:22:00Z

@@ -239,20 +239,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "L3 Self-driving Vehicle Market Next Big Thing Forecast 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2023 (The Expresswire) -- L3 Self-driving Vehicle Market 2023 with 111 Pages Report and enhance with extents shares into sub-counties are covered in this market."
-    publishedDateTime: 2023-03-18T05:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l3-self-driving-vehicle-market-next-big-thing-forecast-2023-2028-2023-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
     publishedDateTime: 2023-03-20T09:47:00Z
@@ -286,6 +272,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Size 2023 Research Report by Industry Trends, Global Competitors Strategy, Segments and Forecast to 2031"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Intelligence (AI) in BFSI Market:Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete ..."
+    publishedDateTime: 2023-03-22T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-size-2023-research-report-by-industry-trends-global-competitors-strategy-segments-and-forecast-to-2031-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."

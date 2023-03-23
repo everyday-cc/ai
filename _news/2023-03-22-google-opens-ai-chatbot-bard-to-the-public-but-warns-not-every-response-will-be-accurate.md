@@ -592,6 +592,20 @@ related:
         width: 620
         height: 348
         isCached: true
+  - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
+    excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
+    publishedDateTime: 2023-03-22T13:26:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/chatgpt-ai-models-apps-complicated-efforts-eu-lawmakers-landmark-rule-3884084"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 32
+    images:
+      - url: "https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "ChatGPT can ace logic tests now. But don’t ask it to be creative."
     excerpt: "When the new version of the artificial intelligence tool ChatGPT arrived this week ... impact on the world of human activity that involves words, from storytelling to therapy. Students and professionals have found it capable of aiding or completing ..."
     publishedDateTime: 2023-03-18T11:02:00Z
