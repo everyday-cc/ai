@@ -12,7 +12,7 @@ website: https://mila.quebec/en/yoshua-bengio/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=kukA0LcAAAAJ
-  citations: 635881
+  citations: 636579
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Yoshua_Bengio
