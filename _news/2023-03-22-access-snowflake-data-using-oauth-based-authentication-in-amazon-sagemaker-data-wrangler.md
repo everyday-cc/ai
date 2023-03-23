@@ -99,6 +99,15 @@ related:
         width: 879
         height: 477
         isCached: true
+  - title: "Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, real-time inferencing"
+    excerpt: "This is joint post co-written by Leidos and AWS. Leidos is a FORTUNE 500 science and technology solutions leader working to address some of the world’s toughest challenges in the defense, intelligence, homeland security, civil, and healthcare markets. Leidos has partnered with AWS to develop an approach"
+    publishedDateTime: 2023-03-23T18:29:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-fully-homomorphic-encryption-with-amazon-sagemaker-endpoints-for-secure-real-time-inferencing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
   - title: "Singletons are using AI to help them come up with the perfect chat-up lines on Tinder"
     excerpt: "Many AI chatbots have existed in the past, however, ChatGPT is considered by many to be one of the best. The chatbot can also do more than just answer questions, it can be used to generate text, translate language and analyse sentiment. As the software ..."
     publishedDateTime: 2023-03-22T11:16:00Z

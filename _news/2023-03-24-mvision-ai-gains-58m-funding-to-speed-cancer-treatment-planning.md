@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:18:00Z
 originalUrl: "https://venturebeat.com/ai/mvision-ai-gains-5-8m-funding-to-speed-cancer-treatment-planning/"
 webUrl: "https://venturebeat.com/ai/mvision-ai-gains-5-8m-funding-to-speed-cancer-treatment-planning/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

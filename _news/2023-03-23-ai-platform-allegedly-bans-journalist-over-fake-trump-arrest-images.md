@@ -84,6 +84,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-23T19:19:00Z
+    webUrl: "https://www.fox10phoenix.com/news/fake-ai-images-of-trump-arrest-putin-jailed-spread-on-social-media"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
   - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
     excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
     publishedDateTime: 2023-03-23T09:42:00Z

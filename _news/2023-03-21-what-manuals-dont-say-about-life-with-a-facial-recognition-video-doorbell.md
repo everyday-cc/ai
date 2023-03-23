@@ -33,6 +33,22 @@ related:
         width: 1600
         height: 890
         isCached: true
+  - title: "Aqara’s First HomeKit Secure Video Doorbell Supports Facial Recognition"
+    excerpt: "Smart home accessory outfit Aqara has announced its first video doorbell with HomeKit Secure Video with the added bonus of facial recognition thrown in for good measure. The new Smart Video Doorbell G4 offers 1080p video capabilities and supports local streaming on Amazon Alexa and Google Home devices for those who aren’t planning on making use of Apple’s HomeKit Secure Video option."
+    publishedDateTime: 2023-03-23T15:56:00Z
+    webUrl: "https://www.redmondpie.com/aqaras-first-homekit-secure-video-doorbell-supports-facial-recognition/"
+    ampWebUrl: "https://www.redmondpie.com/aqaras-first-homekit-secure-video-doorbell-supports-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/aqaras-first-homekit-secure-video-doorbell-supports-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 59
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/03/aqara.jpg"
+        width: 1200
+        height: 680
+        isCached: true
   - title: "Aqara Releases Video Doorbell G4 With Facial Recognition and HomeKit Secure Video Support"
     excerpt: "Smart home accessory maker Aqara today launched its first video doorbell, the HomeKit-enabled G4 with facial recognition. The Video Doorbell G4 features a 1080p camera and is compatible with ‌HomeKit Secure Video‌, along with support for local ..."
     publishedDateTime: 2023-03-23T09:38:00Z

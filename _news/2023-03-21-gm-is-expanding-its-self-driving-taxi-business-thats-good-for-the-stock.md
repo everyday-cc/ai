@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/gm-cruise-self-driving-taxi-ba2
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-cruise-self-driving-taxi-ba2095ee"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,35 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "DeepRoute.ai Unveils Driver 3.0 HD Map-free Self-Driving Solution, Facilitating Mass Production for Automakers"
-    excerpt: "DeepRoute.ai is among the first to successfully complete HD map-free self-driving public road tests thus breaking limitations created by geo-fencing. It is also among the first to win a production contract from automotive manufacturers to produce ..."
-    publishedDateTime: 2023-03-21T16:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31442349/deeproute-ai-unveils-driver-3-0-hd-map-free-self-driving-solution-facilitating-mass-production-for"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31442349"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31442349"
+  - title: "Self-Driving Car Company Ouster Reports Sales Miss"
+    excerpt: "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ..."
+    publishedDateTime: 2023-03-23T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
+      name: Barron's
+      domain: barrons.com
+    quality: 61
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.barrons.com/im-383342/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Cruise plans ambitious self-driving expansion"
-    excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
-    publishedDateTime: 2023-03-23T14:48:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-seeks-self-driving-expansion-across-california"
+  - title: "Department of Transportation reschedules self-driving corridor meeting"
+    excerpt: "The Michigan Department Of Transportation has postponed its March 22 public meeting on the environmental study on a proposed connected and automated vehicle corridor project along"
+    publishedDateTime: 2023-03-20T18:28:00Z
+    webUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.html"
+    ampWebUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
+    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 44
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/7/fb/7fb70e92-dd9f-11ea-bcef-bbae2de749ca/5f359ba20f300.image.png?resize=1024%2C577"
+        width: 1024
+        height: 577
+        isCached: true
+  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
+    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
+    publishedDateTime: 2023-03-21T14:18:00Z
+    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "/mOE/rSDyumaQVSSfNxVpVYMeYqCulqUyMbCxrqJrlSK8PRKw1bA0M7blJq0RNcFcPGYalQc10arRks5xZfnMt1DT70YflQ7b/8/m1rrJV8qHxZ/z0iH8BA/cgE3Q5Du2QJSnN/DSUgCtrzoTd68PNWARVwaqeWVPaDJf9QDBmgd0ObFxBVW1gL90yayv1pxxzpw/Kzrd7rfFLNUiH7EIWpZ2BmjVPa5A96dRILFpupNN0Rt348AnGe65H3+2bHRdV6Gr+Drm2sfNH2oIZDfBud1XzGD8/FFt9ziSQ+dZFpQy11/1i7emLsC0zzjqfY5oHGri4O370nvQaD5Gs6964FAXJ96IbaD4fF/TgJH5d08+FaKakbvSeBD6fPVChrIvYAM5URGioALM6OSsTu6Qs3IndRgOI47DetpqIkWTtAaL5KLMZxkRrSa6qzxWLkx9XxsQahQFmqMEVfcEvzvUXgkA8f+9HU1lS0lhB2zkGv9oMuzR4nZmgZTOSZL/TaS70nOf+2oBs1ksv9HcFcCkg==;XN1sCsmrbmbNrQLvJfGapg=="

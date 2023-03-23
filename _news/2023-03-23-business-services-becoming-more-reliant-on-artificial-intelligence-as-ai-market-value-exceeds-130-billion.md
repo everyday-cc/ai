@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T15:59:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-business-services-becoming-more-reliant-artificial-intelligence-as-/2023/03/23/9782437.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-business-services-becoming-more-reliant-artificial-intelligence-as-/2023/03/23/9782437.htm"
 type: article
-quality: 18
-heat: 18
+quality: 22
+heat: 22
 published: false
 
 provider:

@@ -613,6 +613,15 @@ related:
         width: 1600
         height: 872
         isCached: true
+  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
+    excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
+    publishedDateTime: 2023-03-23T18:20:00Z
+    webUrl: "https://wgno.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 36
   - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
     excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
     publishedDateTime: 2023-03-21T09:56:00Z

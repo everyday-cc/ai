@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 679
         isCached: true
+  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
+    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
+    publishedDateTime: 2023-03-23T20:28:00Z
+    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
+        width: 1600
+        height: 902
+        isCached: true
   - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
     excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
     publishedDateTime: 2023-03-23T10:57:00Z

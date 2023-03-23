@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
+    publishedDateTime: 2023-03-22T06:54:00Z
+    webUrl: "https://www.independent.co.uk/news/business/business-reporter/fintech-banking-trends-transform-business-b2305087.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2023/03/21/13/klarpay-business-reporter-article-image.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
     excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
     publishedDateTime: 2023-03-20T03:58:00Z
@@ -58,6 +72,29 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Staffing Challenges, Regulation for Digital Assets and the Metaverse are Some of Fintech’s 2023 Trends"
+    excerpt: "SRM (Strategic Resource Management), an independent advisory firm serving financial institutions and other industries across North America and Europe, recently shared commentary on the trends it predicts will make the most-significant impacts in 2023."
+    publishedDateTime: 2023-03-19T07:00:00Z
+    webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 8
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aabcf7a/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa1%2F80aec323458089245d30becf9c51%2Fbusinessman-atm.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
+    excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
+    publishedDateTime: 2023-03-23T18:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pagaya-wins-2023-fintech-breakthrough-award-consumer-lending-/2023/03/23/9782396.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "0SGi7WrzUKTSdqrkoA886wu7vnYJ9oIY3YdP42rGSllSqxPCZ9Z0Md5L8WS1ut1Tk9pOrWFgHTvtwTzunfUZY1EPYGkdonz9x5mg9LARmmp7NXa52YH61YLa7nsLC7CKY2UhST3CbU7sTQnwVRNDU/DkkIA8U0DJ7NG61JFViqVVCYojPypmwL1+BDGQWRu6hLNdJtZXmi8GYM9XxDlQQbgJrKtMAwMfe5au6/1HQl4NTmmEP4W0POv7ekGM61ykKg+ITXyOgV3mJZGHjTShvvZkHULBSMotbOq/n4U1xlffUob10ngQoWs4NrCOURubYGt45M1RAkwk007vEipE5+92Glyt8aEaW6EMLS5MeRKkilFooQ+Ri7Chj5RDpdtiBhifdjEpiJVZTwAg1/II2f94BWbLxr5Suuq40ekVYYZthJcspFhn7aEyHYq9DwUpK6yADRQjRxwcDr0dFj3lf9k8vM9yAolIchM4uOupk+GOjilAIHuBPuQqLQqmvUPCXXXSsLvdRh7klE+b+hjyJw==;1nE4Z+JDX6myF9bESltmfQ=="
 ---

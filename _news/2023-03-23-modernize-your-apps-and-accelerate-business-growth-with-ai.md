@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerat
 webUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 660
     height: 284
     isCached: true
+
+related:
+  - title: "Modern Hire Recognized as a Winner of the Business Intelligence Group's 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Modern Hire, the enterprise hiring platform that uses advanced selection science to mitigate bias and predict candidate fit, today announced it has been recognized as a winner of The Business Intelligence Group's inaugural Artificial Intelligence Excellence Awards."
+    publishedDateTime: 2023-03-23T18:15:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782412.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "bx1keI2AOeQlkBzwjkAGvzIyLF2CWaieFsZd1UWXAS3ntndWdcyd9IjGgZf7V+3hthBZ+w6xM0vZTWGe3YIXhrE3lUMebg1MpH7ABylVUIanPBcV8Uic+muHq+yItKu6ecStllzosVlNDYtT3pNBRMfBBu8ZqzYF0DGt8SlyISMZH/1QJ9/+j8iadDi2Bg2XcakhSRo84J/6adAWfIh8ggn50A7SUiMt+DFLm1JoY3kCbuJBthG63cGvCaL9LNls0O3F/kcek7qF5/cAXXOO2pK+QF0nVq7A/7XeNHmLhnH836+5wJueNo5RiV8xHX5xMyH7e7NHcUZUuAKN7HFmGoz9RaIdszzEkdJD7BoO7gs=;5nUPqquwPeM4Lu1R4HXwpQ=="
 ---

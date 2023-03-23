@@ -7,8 +7,8 @@ originalUrl: "https://www.motorauthority.com/news/1139142_hyundai-developed-an-e
 webUrl: "https://www.motorauthority.com/news/1139142_hyundai-developed-an-ev-charging-robot"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Motor Authority
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: Hyundai revealed a one-armed robot that charges your electric car for you"
+    excerpt: "Then, using a camera and artificial intelligence, the ACR guides the charging plug into the right spot and charging begins. All the while, the car's driver can either kick back inside or simply walk away. The robot's screen displays charging progress ..."
+    publishedDateTime: 2023-03-23T19:30:00Z
+    webUrl: "https://www.businessinsider.com/hyundai-electric-car-charging-robot-ioniq-6-tesla-snake-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Hyundai Motor Group Shows Newly Developed Automatic Charging Robot for Electric Vehicles"
     excerpt: "Hyundai Motor Group (The Group) video shows how the robot communicates with the electric vehicle (EV) and automatically opens the charging port and plugs in The automatic charging robot (ACR)"
     publishedDateTime: 2023-03-21T07:16:00Z

@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Spectrum Labs AI now available in AWS Marketplace"
-excerpt: "AWS customers can now easily access Spectrum Labs' content moderation AI to build a better, safer internet for businesses and consumers SAN FRANCISCO, March 23, 2023 /PRNewswire/ -- Spectrum Labs, a leader in Behavioral AI whose tools scale content ..."
-publishedDateTime: 2023-03-23T18:39:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/spectrum-labs-ai-now-available-in-aws-marketplace-1032189054"
-webUrl: "https://markets.businessinsider.com/news/stocks/spectrum-labs-ai-now-available-in-aws-marketplace-1032189054"
+excerpt: "Spectrum Labs, a leader in Behavioral AI whose tools scale content moderation of online platforms, today announced its enterprise product launch in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors (ISVs) that make it easy to find,"
+publishedDateTime: 2023-03-23T20:53:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782692.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782692.htm"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ipNakdmzOJl3YP+3EepdmUFd7h1sKn6kD+s/wt1xg1CYaeqN5SV6+pecbLLvQTEIrYherhZJnsp+KUGWqRfu1XGg1W8aAr57HJLB+/a9+QJieCZ2X4ovA6Bu1MJaOD6DiT29xiO8cguS9XSQUKNOMaKzuVYHhavu6ryjWyp1eCgvT4Ln/EQ38+r3EJ0Qh73weCVank0jX3EQyBGa9AWIYGee7b7BWQFd7DWqNTjew1LQ7Ems9t1yBRJJaR8oWUpYSGAlfdg9mG44nBl40ZvFC/E6IiWxhLVeI7vnd042ORbvw0HbeLei5gbpNX75G7ZEQ+ArT+7urH6o7l0FiyJvlucbBPL62u/8hVp8IVPyO6o=;IvMWQytk60gDDyy5SZFU4A=="
+images:
+  - url: "https://mma.prnewswire.com/media/2036436/Spectrum_logo_Logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "VJ4cVGk2pHcbC6G4zpvarfWHbHh++F9fHzylXHu942CmZb0olZQ+JUn4rR9LinbGHa69IHv/lKbyJ+RmzbDqhuzBU9fKNRRHx+OhesmXnalaEOPE1oNjYiQnAajRamSvwwdWn0V0GGeiaRd9VigLtVsYqkdrs6UebMA2JQUgEebBrGPoV7BItEi/6KPHSqizV6PAWWE8x1RWEVu8J8QCFeBy7/BXrXcGXqyI9mvWhjGFdbRP4QsnI1sa+J9OiPVBrlf+oxJQdrKvcrd036zWXZgygX9OXDMOysLN5xPB74fLB44jOX7vds3rT4A8o7stXqB7v3R/aDYbobbL6sQ06439RwOiecEZ7Wozf0g9vwE=;XBEgmwNpJhoR7B4XBe0KTQ=="
 ---
 

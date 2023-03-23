@@ -48,20 +48,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 51
-  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
-    publishedDateTime: 2023-03-20T10:06:00Z
-    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?636664"
-        width: 322
-        height: 249
-        isCached: true
   - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
     excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
     publishedDateTime: 2023-03-20T20:11:00Z
@@ -76,6 +62,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
+    publishedDateTime: 2023-03-20T10:06:00Z
+    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
   - title: "Five things marketers should know about generative AI in advertising"
     excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
     publishedDateTime: 2023-03-19T13:04:00Z

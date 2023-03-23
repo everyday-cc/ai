@@ -71,6 +71,15 @@ related:
         width: 800
         height: 489
         isCached: true
+  - title: "GPU Chief Raja Koduri Quits To Form Generative AI Startup"
+    excerpt: "NEW DELHI, (IANS) – Indian American Raja Koduri, head of Intel’s Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his ... create a new software co around generative AI for gaming, media and entertainment ..."
+    publishedDateTime: 2023-03-23T17:45:00Z
+    webUrl: "https://indiawest.com/gpu-chief-raja-koduri-quits-to-form-generative-ai-startup/"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 34
   - title: "Indian-origin Intel GPU chief Raja Koduri quits to start generative AI startup"
     excerpt: "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup."
     publishedDateTime: 2023-03-22T12:17:00Z

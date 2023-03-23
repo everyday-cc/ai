@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:08:00Z
 originalUrl: "https://www.dailymail.co.uk/news/article-11895257/Woman-working-Google-owned-self-driving-car-firm-says-boss-branded-fat-elephant.html"
 webUrl: "https://www.dailymail.co.uk/news/article-11895257/Woman-working-Google-owned-self-driving-car-firm-says-boss-branded-fat-elephant.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Mail

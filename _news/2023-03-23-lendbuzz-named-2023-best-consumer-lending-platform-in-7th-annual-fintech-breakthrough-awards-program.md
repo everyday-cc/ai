@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "SoftSmile Honored as 2023 Artificial Intelligence Excellence Award Winner"
+    excerpt: "Since 2012, the award program has been celebrating one-of-a-kind innovations and outstanding performance – and now, SoftSmile joins the distinguished roster, being recognized am"
+    publishedDateTime: 2023-03-23T19:01:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1699572/SoftSmile_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
     excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
     publishedDateTime: 2023-03-23T13:36:00Z
@@ -49,13 +63,22 @@ related:
         height: 1043
         isCached: true
   - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "As an organizational winner of an AI Excellence Award, Messagepoint was recognized for creating transformative solutions for the customer communications management (CCM) space through its proprietary cutting-edge AI and natural language processing (NLP ..."
-    publishedDateTime: 2023-03-23T15:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 17
+  - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
+    excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
+    publishedDateTime: 2023-03-23T20:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782558.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
 
 secured: "oB7YcfAA1lSV115muCE4HGIJyGEcv5dnGCmWb5oqmetNWkoxmF99hpy74p/9CUFVlfuoOg4dB+0qnmYMOy6Cy3qjgkcFiVYVxQASWEulo/ecxxJ3XzLWTDgsjwHis96/2UrVn86qAqV+Pbd/0Ec84rvAqwhhGsCqW6OJmmAoOTEzjKgng3wYfVrsK7EHd5YOm+nxjbLV+2G7dkFh+Kxp/xav3+kkhu3e36u1LlbWcJEyAbFYRr9FKjj8agYQcFDkC3yNR0sqHmnAQAN1as/2QcOhcM1h/tKTH3sj9GuWOgOrMda+50nspkNjeoeD9iWiHCHHrS5i+qZ+oOcxJxBr4IhHm2+P+fHuQgsfVRHUCcM=;pTrfdlRFI9gvgiXtxbPuSA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:37:00Z
 originalUrl: "https://newsheater.com/2023/03/23/up-fintech-holding-limited-tigr-shares-up-despite-recent-market-volatility/"
 webUrl: "https://newsheater.com/2023/03/23/up-fintech-holding-limited-tigr-shares-up-despite-recent-market-volatility/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: newsheater

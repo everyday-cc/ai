@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Watch: Hyundai revealed a one-armed robot that charges your electric car for you"
+    excerpt: "Then, using a camera and artificial intelligence, the ACR guides the charging plug into the right spot and charging begins. All the while, the car's driver can either kick back inside or simply walk away. The robot's screen displays charging progress ..."
+    publishedDateTime: 2023-03-23T19:30:00Z
+    webUrl: "https://www.businessinsider.com/hyundai-electric-car-charging-robot-ioniq-6-tesla-snake-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "Hyundai developed an EV charging robot"
     excerpt: "using what a Hyundai press release describes as a 3D camera-based AI algorithm to control plugging into the port. When charging is complete, the robot unplugs the car and sends a notification to the driver's smartphone. Keeping in mind that most EV ..."
     publishedDateTime: 2023-03-23T11:08:00Z

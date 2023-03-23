@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T12:51:00Z
 originalUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
 webUrl: "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/"
 type: article
-quality: 90
-heat: 110
+quality: 92
+heat: 112
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
 type: article
 quality: 69
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -66,6 +66,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
+    publishedDateTime: 2023-03-23T14:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
+    publishedDateTime: 2023-03-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "VXYqeSknR44n1lTTd+6WgVGKkDBhG6lBQ/MBC1v7g+eId9mQMLCU91t1Q91V0Q40Vr52vo9DYgAv8g9e08Vi9Eo4bRpCb0c6z6CWkyLATr07oLcPzd2w1dAIeN/RnZvWSVvkmsE6GTiJbKJoS1H7pB/d0JwbXoaofg+szLjGTXKkvj4jsGv3qFlQQV/baitU0S3ni8AgWc9/h5/gZc5v5okptYQk6DDDd7tietm2IhJEJEH+buJtP7Gi6Be8fr6Ek7SJBMJ7a/yGers1QTCzAgPrVVGBnchYrgGyHcS2M/VaScVNN86fFlkiBsYBC18oCJeAnAvYY64RNA41gUA9bUxLHZbuW176yycZwgUhqCI=;6xaimsnKI2pAySXe+zi31A=="
 ---

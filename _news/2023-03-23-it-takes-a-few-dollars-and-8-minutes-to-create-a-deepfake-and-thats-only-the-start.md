@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-23T19:19:00Z
+    webUrl: "https://www.fox10phoenix.com/news/fake-ai-images-of-trump-arrest-putin-jailed-spread-on-social-media"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
 
 secured: "LcFcDNUgT4Ummrzc5pjJUnP9JQPxqxM3icwicaqqyLOR2tAmkBSoa+CeFGCW52PTZUvle5VhimvELAaFBu8pKWxCF4U+LbRwGEbSFWw/N8A1vWxM00j04SVc8m0n6E8Nt+JERX4XttEuFZsEick/XNrP//VUw4U+jex8PxeevDbkgf4EVgO4aMpcE/98BoPHdq2s2BJ+PibvwggNAXyqV1PRaPPXoYMuptN6hQTAF1YkrO/i+B8uBdgNNBFGMxIYAbWQy7vmMC6C00gyzjsrJ3ruB+Evggigh6SZqcxrgJdVjgN9Qmsgv+mHL0QOF/P9vZcnpZQ2b+na0o9EovBchiFN0aCLpuzWSJxU4d+qoCI=;ll9h39oCFVpf4NdMFsv5MA=="
 ---

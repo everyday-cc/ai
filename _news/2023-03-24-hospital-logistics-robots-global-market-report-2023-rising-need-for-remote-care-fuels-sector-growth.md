@@ -1,20 +1,50 @@
 ---
 category: news
 title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
-excerpt: "However, high costs associated with the integration of logistics robots hamper the market growth. On the contrary, rise in advancements in Artificial Intelligence (AI) and Machine Learning (ML) as these technologies can be used to improve capabilities and ..."
-publishedDateTime: 2023-03-23T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
+excerpt: "Hospital Logistics Robots Market size was valued at USD 971.25 million in 2021, and is predicted to reach USD 5637.85 million by 2030, with a CAGR of 21.2% during the forecast period, 2022 to 2030. Demand for hospital logistics robots has increased across the globe,"
+publishedDateTime: 2023-03-23T20:24:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782681.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782681.htm"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "9DdrVy9hKZmOD/dEPEPPat07mNRK/kWYWfPuJitiqj6NSiNXWd//1pGNFT54Feb3qnLAUH5Jri4a3HYU4RJgk0K1q2djvKV5OT0H4e4TVRqAnGjezhXzU8sHv5gmVbMmvj6i8UXD+NzxLJAWG022AGj248kQ5/YtXz+aNQ1usiMeq4aFN0yIWUqSF3bNhhgtk81Q0IMIvWIloN+SF4iCyHFVK8vzns1i1vbmgihMD6FoYG06LKUMuYobJtPVD2gJ/Ttym6c8mEkr0DF8H00kr3j6KUsa17or3FxglrzdSlf/Emth/iROyaJRR1m+lRUGQqfPlVGCpR1CY/aPAzPEGi/GJkPLt4wLWMWo0msQhRw=;3nnxUQR8JbcwirUhtknOtg=="
+related:
+  - title: "With CAGR 21.2%, Graphics Processing Unit (GPU) Market Size, Share, Latest Trends, Global Growth, Recent Developments and Future Demand 2023-2029"
+    excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the"
+    publishedDateTime: 2023-03-20T08:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31414583/with-cagr-21-2-graphics-processing-unit-gpu-market-size-share-latest-trends-global-growth-recent-d"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31414583"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31414583"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "With 14% CAGR, IoT in Healthcare Market Trends, Demand, Growth and Future Scope 2023 To 2029 | Medtronic, Cisco Systems, Agamatrix"
+    excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the final copy of the detailed research report on the IoT in Healthcare Market."
+    publishedDateTime: 2023-03-22T17:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-with-14-cagr-iot-healthcare-market-trends-demand-/2023/03/22/9781633.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "+St2auHG9ZOKJAMbypnAzkjfzt8oRXseDt9jExuz88Qu5MjBvcBz9p8X+iElGXqabPqn/UkR9U7vQuOHsogq5ddzl3AoSGNm1jtbJDn+Qr0bITF3BbIH/0tEWQ3kO6iKw/nXbREaZj7cCcxAUrMGtKuCqF1UTVdZ7kIu+8KH+8nXF6pH2xWoZS8XtplhoywyolwX4JyNlPaY8SLMFbahaM9SGnt60CeG6JyMHmgW9ExjWquSIno9Cv9/iRKik4IKgr3U6IpVRB84DPZOuD8Y7Of4Qw/G/pEHHr44+s57Q23Wsupbhk4l6z8R3FjPwWFRDym8mvngIwdVolRNdSoER4O0+iVUs00gq1TMtem3QSg=;U0uhdqF4Sl93YOXQLUffNQ=="
 ---
 

@@ -72,6 +72,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
+    excerpt: "NV1, is an application-optimized system that excels when developing and running AI-based software. This innovative system gives developers and users a complete HPC and AI resource for department workloads."
+    publishedDateTime: 2023-03-23T18:07:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230323/4053265.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "ZIMcZ0xhs6dN/yMp7rcKAIkvZUYqnFNxMhkfv6oqD4KndpL6Dr291mffK1YpEs7CRYu8cvjrwLT7jG4PjDP3yV/dHTds7TkokKfE3n2zocEWoy9YcpxghXORYXFjkMuFa+Z9Y7caSqZXAeyS6iwkobjmXe9GZRxcpmVjFooacL+ZtZxAN7OHv+uzj7l6GuKdMDf9VY/qEujxWys/D1cqtv3rde6LQYa/DvRlc/4jotICJaVlNV8bfQSuf8+4Es6pJp0Rfqgb3czncLRbUpGuVsMzDjKpZXKqGnTP9NPLQAaUZJicwzfh50OeHO0Ue6T/jvZihO6ojCzJh5b5s0pYPH1W9Go0+tppLiOpfo0ca0Q=;0LcBD4Yfa6AszbC0PguACQ=="
 ---

@@ -65,6 +65,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
+    publishedDateTime: 2023-03-23T14:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
+    publishedDateTime: 2023-03-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "dXzsXjysgFkTRdVdb+PHU5hOQfcjk4s7BDdc24eS9IxHGkfCK0dHzuT+ftOMFKlmL0LPfWeH35V9vrRNC4uxrjvA2EQG06YuvPVBMAWQSzD2EB5za8mgaVKYEpSs/2zMGbwUHEZZvBbpGr/UmtaUKttMHAOIaIOxJs9dJiXZZsHCmFl0+lTNx0j1Phb4GrePVoH/LRAI4+9TcChtCbLhJ99tnyO3enPunkELkxpLC30c60LmuOIbK8o4PXwxnGrTOEkBaUfby2gpwwzMZJt/UVabm7DTLJYUYIS0A7gq4oLvc6AEmTGkCvCFjTxwuE25X+ZMLh3td7rnmf+H5zxJXNm2X5iZsHD8HTccetjJe7o=;ERLkid+6nIR+yDAsgJXKWA=="
 ---

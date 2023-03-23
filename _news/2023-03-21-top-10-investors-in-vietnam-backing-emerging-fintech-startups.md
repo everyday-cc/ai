@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
+    publishedDateTime: 2023-03-22T06:54:00Z
+    webUrl: "https://www.independent.co.uk/news/business/business-reporter/fintech-banking-trends-transform-business-b2305087.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2023/03/21/13/klarpay-business-reporter-article-image.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
     excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
     publishedDateTime: 2023-03-20T03:58:00Z
@@ -50,6 +64,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Staffing Challenges, Regulation for Digital Assets and the Metaverse are Some of Fintech’s 2023 Trends"
+    excerpt: "SRM (Strategic Resource Management), an independent advisory firm serving financial institutions and other industries across North America and Europe, recently shared commentary on the trends it predicts will make the most-significant impacts in 2023."
+    publishedDateTime: 2023-03-19T07:00:00Z
+    webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 8
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/aabcf7a/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa1%2F80aec323458089245d30becf9c51%2Fbusinessman-atm.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z
@@ -59,6 +87,15 @@ related:
       name: Financial News & Daily Record
       domain: jaxdailyrecord.com
     quality: 4
+  - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
+    excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
+    publishedDateTime: 2023-03-23T18:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pagaya-wins-2023-fintech-breakthrough-award-consumer-lending-/2023/03/23/9782396.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
 
 secured: "cvmqXSqHZsy40iP6gmdlX7xgQPDQm7CCW50hzrUcnLS+VKnu9UqgX9xzBC7tpK98hkRsyB3eFMKAaI+BGsTqi+wzc9vHaqQdpLImTkWmKVj73mZuAZUCNC4GuagM5hbizyP2PT7gsdB6axoS5lrKWVt0yu9cDT2fcOi1qCWoTAetW7VB+uRHQPCvT0zcBPLzyICegF6UInhIk1eeOQxKWox3EMPZs/oXXUoTf2lLVdGn9crj/92lWbEE+M6+Job9JyDuh+FDIc8zXzUnO1UHU6hTOLvDOp8fQqYef848GRo9ZmLnOWe0H0iOb+2ltICa4KpgqCK+xwOUmqKajaQkN5cLtQrgcxiYa+rzY0phhYmcQ8BitMqfYGh3iRJkJrQu9humCQ+dMWAliTa8mR9GYiwTy1S4iA6P15QXyw8umIGdE2m56RCst3cGjRYpapMVNurszgQVVKtw+RBwLIcBAtPaP8s9XsLgyAba3KxNmURT2Kv1XY0ksY4a/X8xbrzM3yke9kF38bWqbrxg6qkeCQ==;bAtUMcqksRXFnk6OuxQqMg=="
 ---

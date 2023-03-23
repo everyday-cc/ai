@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Will ChatGPT-4 replace your jobs? Check out AI tool's response"
-    excerpt: "A Twitter user asked ChatGPT-4 about possible jobs and certain human traits it can replace in near future. Check out its response"
-    publishedDateTime: 2023-03-19T03:44:00Z
-    webUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/will-chatgpt-4-replace-your-jobs-check-out-ai-tool-s-response-101679193380084-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/19/1600x900/CHATGPT-AI-CHINA-0_1677411286324_1677411286324_1679197237831_1679197237831.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "I was wooed by ChatGPT: New AI Romeos are ‘scary’"
     excerpt: "The AI tool, currently in public beta mode, costs $15 to access, though that price tag is expected to increase once the product is fully launched. A since-deleted Reddit post had readers debating the ethics of men using an AI doppelgänger to score dates."
     publishedDateTime: 2023-03-20T22:38:00Z

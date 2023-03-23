@@ -111,6 +111,15 @@ related:
         width: 1150
         height: 575
         isCached: true
+  - title: "Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, real-time inferencing"
+    excerpt: "This is joint post co-written by Leidos and AWS. Leidos is a FORTUNE 500 science and technology solutions leader working to address some of the world’s toughest challenges in the defense, intelligence, homeland security, civil, and healthcare markets. Leidos has partnered with AWS to develop an approach"
+    publishedDateTime: 2023-03-23T18:29:37Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-fully-homomorphic-encryption-with-amazon-sagemaker-endpoints-for-secure-real-time-inferencing/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 54
 
 secured: "UcglXApV4KAIHHGihSugXEt7wpsQPVOxbpObNtzmvu54MI7M9YiGlmkvFh7vERms1zqvLrEDGqbt1ngskum95tuxzDvEHh7rqBJPlVUMDNZbMt7eQbyJh2z+hHTF7VAMZT6DBcP09VSW4VV8RGLJ/KObhdmdEZbZ+pLDYbkyyHwBCuK88uc89X/KEz8HPVnUBvey2/jpRO5VHoJWlkP5ZACLfpq2Fc9oucxUb5Us9Thyp8HEcM3DgxIge18wBXKAh3HcDO7Ox+NPpR3RXay66zT/zy5H1Bb6AJ5oQvGNn9RnJTqOEmv3yDVrmEncanqldMFenv2qq32rw2kp7vNsDxTSNA8qIafmciOrU4S6haA=;DB1awsixkGYaAz+12z0QmQ=="
 ---

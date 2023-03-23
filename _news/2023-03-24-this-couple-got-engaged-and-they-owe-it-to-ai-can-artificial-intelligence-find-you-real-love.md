@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:44:00Z
 originalUrl: "https://www.thestar.com/business/2023/03/23/this-couple-got-engaged-and-they-owe-it-to-ai-can-artificial-intelligence-find-you-real-love.html"
 webUrl: "https://www.thestar.com/business/2023/03/23/this-couple-got-engaged-and-they-owe-it-to-ai-can-artificial-intelligence-find-you-real-love.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Toronto Star

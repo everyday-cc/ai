@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-soluti
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
+    excerpt: "NV1, is an application-optimized system that excels when developing and running AI-based software. This innovative system gives developers and users a complete HPC and AI resource for department workloads."
+    publishedDateTime: 2023-03-23T18:07:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230323/4053265.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
   - title: "Super Micro Computer, Inc.: Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
     excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
     publishedDateTime: 2023-03-22T13:08:00Z

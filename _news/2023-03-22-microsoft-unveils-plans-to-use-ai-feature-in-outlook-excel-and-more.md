@@ -600,6 +600,15 @@ related:
         width: 1600
         height: 872
         isCached: true
+  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
+    excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
+    publishedDateTime: 2023-03-23T18:20:00Z
+    webUrl: "https://wgno.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 36
   - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
     excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
     publishedDateTime: 2023-03-23T15:12:00Z

@@ -100,6 +100,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T20:58:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f?mod=tech_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 70
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
     excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
     publishedDateTime: 2023-03-22T13:24:00Z
@@ -155,6 +171,22 @@ related:
       - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Ex-Google employees' A.I. chatbot startup valued at $1 billion after Andreessen Horowitz funding"
+    excerpt: "Character.AI said it raised $150 million in a funding round led by Andreessen Horowitz. The startup's founders helped create the architecture used in today's popular chatbots. Andreessen previously bet big on crypto and social audio, driving valuations up ..."
+    publishedDateTime: 2023-03-23T19:28:00Z
+    webUrl: "https://www.cnbc.com/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102177477-468005219.jpg?v=1679599585"
+        width: 5561
+        height: 3707
         isCached: true
   - title: "Why did Stanford take down its Alpaca AI chatbot?"
     excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."

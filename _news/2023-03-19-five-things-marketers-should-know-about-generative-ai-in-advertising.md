@@ -56,20 +56,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 51
-  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
-    publishedDateTime: 2023-03-20T10:06:00Z
-    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 49
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?636664"
-        width: 322
-        height: 249
-        isCached: true
   - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
     excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
     publishedDateTime: 2023-03-20T20:11:00Z
@@ -84,6 +70,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
+    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
+    publishedDateTime: 2023-03-20T10:06:00Z
+    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
 
 secured: "FSI7mXpDTEvE9AmK9UZ5iaZWW348okoKMpY0IJo4NxcK2+Gp6+QXCk1WZgqxbSfmtWSWMiwEwDoolqTreRq5a6iFwyDV1VYcjJZOmaH/DMrAK8+tT1ERbKSMKQvGD1vO3V69fjZg67nMZCBbAiX+HTLoCFhA6uULfU+tZGrF5JE+NX7vngLdYxxtUmxbDs2W2mRiWxft7PtMT465Sk/Sed0+8hgEw2CXAahuMQO+hCFL1N21CBlkHFe3B27cl6LWfwHiEwwAF1Q+4LDoUuE5v39cu6tPxHQvn4X0116WFy7em/k69M4jiL8qrpJNuGp9ZOdkbeq+Po7ytUIAVNmjdGmGBQiGymVfYpGvGQKVenU=;IOp8G73eDO1xXqpoLimxyQ=="
 ---

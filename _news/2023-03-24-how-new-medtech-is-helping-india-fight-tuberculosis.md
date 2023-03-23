@@ -1,20 +1,29 @@
 ---
 category: news
 title: "How new medtech is helping India fight tuberculosis?"
-excerpt: "Advances in medical technologies, that came with the inclusion of Artificial Intelligence (AI), Machine Learning ... Accurate diagnosis of TB early in the infection cycle can help accelerate therapy and curb the spread of the disease."
-publishedDateTime: 2023-03-23T19:55:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20230324/4053507.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20230324/4053507.html"
+excerpt: "Advances in medical technologies, that came with the inclusion of Artificial Intelligence (AI), Machine Learning, Internet of Things (IoT), and deep tech, have revolutionised diagnosis of tuberculosis (TB) -- the world's largest infectious disease killer -- in India,"
+publishedDateTime: 2023-03-23T20:30:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1063154"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1063154"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "J0e8HVLk57QcWG+iSAECbAnaKDgzSicx2vkriCs8mN4NcmyS352PgH6hxKnbS9chngsf/kuU5PqTn91XAP9nhvr1szRr7+fWWAwYFEqtkQ+lRK9/SmwKmpspsBMcLqfYa5iBZ1MMli9nvGaXjzT6GYdynFMxnxF/NZBbt0sPl4kFOx1zAIWN3oJ5pmL1ialmhuwLeAgKP38vbAuFvk6r70pD3owVOXXsRTI16zSYwbKl8cEKBbzXa9tYiLM5L2eLDvqLi1WtCGncpaokkNblyAJA/xAdo64Dd4nRn/8lDxWuGAhwbMWjVMVDAHQ9v/ct7Tw57UC7Sr297cVnRblRhPqBbrKnItHBCb+lndLPUxo=;jhMb0x52qiHXmkA3GdHz6A=="
+images:
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/CODP_032323_11.jpg"
+    width: 550
+    height: 289
+    isCached: true
+
+secured: "6lLL7k6BsyuLX7RjFRny1fZ04AMj5By/rNgYEy+LshqHjNNEmGxm2EbJbIUGOuLRaiSBRsnZTnG715CAD9fuV9xTDZF2WG3/Dczvzd2FMDXTU/6oUfDJtrtA/aKoZ265JI1PnwgTd5E31gwfCJT4gk+Ty+ExLTHHzPvKjyI599X9N/VvRwUuuZm/Eel8yl6kICq7t9ZVwVxYK8AWTuZYGtbYgGHZj028IkqgRwsXBR4IFPHMhXDywQxzDOQ4aDh/K8VD4FUCxy08CNeOcBZswRX70lG1mvBWUcK6XVsPzpc+1yWfJAgiklXDLd1WyWNZ1OzM0IzvnLKzLEh1DQKdDxKQxWYWHJ14RMqhaDmP1RQ=;VapyphZNfyfAcTgsJWbT4w=="
 ---
 

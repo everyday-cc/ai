@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:22:00Z
 originalUrl: "https://au.pcmag.com/laptops/99358/framework-adds-16-inch-laptop-model-with-attachable-discrete-gpu"
 webUrl: "https://au.pcmag.com/laptops/99358/framework-adds-16-inch-laptop-model-with-attachable-discrete-gpu"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC Magazine

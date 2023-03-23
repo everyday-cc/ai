@@ -5,7 +5,12 @@ excerpt: "Rapid developments in artificial intelligence (AI ... given the concep
 publishedDateTime: 2023-03-23T18:57:00Z
 originalUrl: "https://www.abc.net.au/news/2023-03-24/what-is-agi-artificial-general-intelligence-ai-experts-risks/102035132"
 webUrl: "https://www.abc.net.au/news/2023-03-24/what-is-agi-artificial-general-intelligence-ai-experts-risks/102035132"
+ampWebUrl: "https://amp.abc.net.au/article/102035132"
+cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102035132"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Australian Broadcasting Corporation
@@ -14,7 +19,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
-secured: "6ENsTQqZAPQo8t6FZxlbBHjiunPHLDI2ipBvX7Luq5lWuUfIxIK8GmFwGkDLS4Lh42CZ/751dqVHgKQqrrZmN6Vd+mCuh43ATI5q1EWwdUXqm00aPLQUKYsF9U52JTIpw10yMe4H04FCTZZVJ0aTWo3Ky0uUFOgZTiuSZv/YR5vz7At4/qU0qP41wY1m92K/fb6FktoMUZhPxY87UCC2JsLMijya/whEbGYYePya4CPONG+GSGPPsFC0G11oLEu/cAejhZtDNTz0hgKU0m0A9LCTw80ns4Wi8/HRRRxte3jtSAQiQ8cvD5b0x8tFbWHZP527vl4SYoiyxH2M2WM0eYXRpaxjDAGH1AVMmsiZfcrMWEIDaYDqYA/KIg7TVHLzltHjlqf2cRImvZSrxIWr0yRhw0mfsp81J71bQFwezuovLOt7s+z4mWAzqn7EoCNU0KdQM5QW6ZE4A3eJfXsCGExizbVAYKwG6UQ9vwasUgwNdN1ye7IitHZ4K3rognQEzD8qrwgtUv+Aji4Uj8WHEA==;BkFz9bdwOVaCb5c9dHTKQQ=="
+images:
+  - url: "https://live-production.wcms.abc-cdn.net.au/865775f2ddf234507c5ce6b31bba9096?impolicy=wcms_crop_resize&cropH=379&cropW=673&xPos=0&yPos=21&width=862&height=485"
+    width: 673
+    height: 379
+    isCached: true
+
+secured: "UnUA9rYwL7eeVnAB8YUsps8SdX6uzhzFgcGA4MK4v0jcL7eCCfOPikd9MTrKbEqtOZxWwiErUNQtpeUdRQdYlxi8qY0+BJpfugvzuTsQcQPRVdxPCu4gEkCgQNCrv4Ps02xCiX0eKuWa3geX04AQGFz2PL1Yr2caBjtIfrTuza+6YqgR/gUeeXbXimMzuU6Ii5ldikLIbu1qSpzaP+JijTvwmMRsmqHP0NQaQXgpyuV7KyuSCfsB69QOVQG5gf1xp6lNZ5W3mqDEQfVNOaJtO/4ciaizEVKJDkafmLZYCEUPHjhah9FaqA3bLuFgA/06fyDAXwU7TTCZDlRpNAwmnhjo+WRzc3ecXPZvslDmLkI=;aE03vR30fYU0gfIpZpZ+Rg=="
 ---
 
