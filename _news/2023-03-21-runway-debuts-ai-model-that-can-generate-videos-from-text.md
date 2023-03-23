@@ -24,21 +24,67 @@ images:
     isCached: true
 
 related:
-  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
-    excerpt: "Citing safety and business reasons, Runway is not releasing the model widely to start, nor will it be open-sourced like Stable Diffusion."
-    publishedDateTime: 2023-03-21T03:00:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/startup-behind-stable-diffusion-releases-ai-system-for-generating-videos-from-text-8509159/lite/"
+  - title: "Canva Can Now Generate Custom Templates, Thanks To AI"
+    excerpt: "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ..."
+    publishedDateTime: 2023-03-23T06:48:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.indianexpress.com/2023/03/ai-generation-tool.jpg"
-        width: 640
-        height: 355
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Canva’s new AI tools might replace your video editor"
+    excerpt: "and they can automatically translate it with Canva’s new AI-powered translate feature that supports more than 100 languages. Once you have the initial design, Canva has Magic Edit and Magic Eraser to help you refine it. Magic Eraser speaks for itself ..."
+    publishedDateTime: 2023-03-23T05:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/canva-magic-edit.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Canva adds AI-powered design tools to its Visual Worksuite"
+    excerpt: "The AI-powered tools will be available to users of ... A new Translate tool will automatically translate the text in designs to over 100 different languages, while Beat Synch will automatically match video footage to a soundtrack. Magic Write, which ..."
+    publishedDateTime: 2023-03-23T05:31:00Z
+    webUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/08/canva-user-100931239-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
         isCached: true
 
 secured: "48KzGH4YA1AB9Hk/Cjt2VpbVCsejN7uBdFrmBWDXwg9qh1gOjK/bu7KhxGazl7G2yN1eqdszcJ58DcHApTGog7lztFtwOpq9noV02WmG0sb8qZBlxXbkCese/5gkgRAyeyXjUUt41CtjoAxui6p7jTNF3RTl2ari8VJfTlokFKZBemAvx5J73x4P+ZuiP0nBdcLOG9x36V+YbJJ9LznJkBjTzLnwlaquF05Cq5SsC2WshKnb7OxfsN1TT1rOFdw+WegWBWhNedAwbLQeqoP67WaWIxhjlc7sf0yX/lECt4ar0BWkWyT7pvQvJJ20F7Rk8OlTyHNnyOr4pe79yB8IBQk4hGNEMdtzdbHd2h61J0g=;VidGSrc3FjkMaqBtKxg2FA=="

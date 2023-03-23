@@ -100,22 +100,6 @@ related:
         width: 547
         height: 246
         isCached: true
-  - title: "Is AI the future of Hollywood? How the hype squares with reality"
-    excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
-    publishedDateTime: 2023-03-18T14:48:00Z
-    webUrl: "https://www.aol.com/news/ai-future-hollywood-hype-squares-140040559.html"
-    ampWebUrl: "https://www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 59
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/888522f7d3731caf2f66cb69183483db"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Are Roblox’s new AI coding and art tools the future of game development?"
     excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
     publishedDateTime: 2023-03-21T12:43:00Z

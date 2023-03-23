@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market Analysis: Explosive Growth Opportunity by 2029"
+    excerpt: "Based on the Artificial Intelligence and Cognitive Computing market development status, competitive landscape and development model in different regions of the world, this report is dedicated to providing niche markets, potential risks and comprehensive ..."
+    publishedDateTime: 2023-03-23T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LD4aNIvn6g8S1lnnnQb0nbwzy3GV8i6lIw1i+McuSShqnlU2UasoDb5zVVyEzIhjUwTE2yhCt/n2r3vViuNknbWZHssvK1SfbZWZMfBrHNxa7xJkzUi1yuDQFyCjYXTAfRDVgysXFEO7t/R5PakAgioTqimQ8jRJ2DTuugR8rL30KtXhyw2d5WGqHQShC1u6awsoVlWCWovnT2NwLQuU/HZBfYujBiwhHBqBHJufXTKOi2WHB2y+nDogP5VRgEzZUHWTTR4PadjW886FgCVwlWBddNgWHUkPVNE5BBEA+ycNRBAB4AyKniCHWuc1HHRzfkP5sGtQfQNV3AM2LSGWWTvJJaug0AXWq/pPXRBRejQ=;GCg0Z/QvWLM/SpjdD628Mg=="
 ---

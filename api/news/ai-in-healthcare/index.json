@@ -116,7 +116,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -477,6 +477,49 @@
       "provider": {
         "name": "Medindia",
         "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-how-ai-is-altering-health-care-in-michigan.md",
+      "title": "How AI is altering health care in Michigan",
+      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
+      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
+      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
+      "publishedDateTime": "2023-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bridge Magazine",
+        "domain": "bridgemi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1371,58 +1414,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings.md",
-      "title": "Aiberry Secures $8M in Seed Funding to Accelerate AI-Powered Mental Health Screenings",
-      "excerpt": "Press Release Artificial intelligence (AI)-powered mental health screening pioneer Aiberry (pronounced \"I\" + \"berry\") today announced that it has secured $8 million in seed funding led by Confluence Capital Group,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/",
-      "originalUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230308005315/en/1733135/4/Aiberry.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/amp/",
-      "publishedDateTime": "2023-03-08T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

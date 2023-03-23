@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-rep
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -31,19 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Canva Launches ‘Magic’ AI Tools For Its Design Software’s 125 Million Users"
-    excerpt: "Canva CEO Melanie Perkins says of the AI product rush: “We’ll do what we’ve always done, which is focus on our own race.” The ten-year-old Australian startup led by Melanie Perkins said annualized revenue had reached $1.6 billion and also unveiled ..."
-    publishedDateTime: 2023-03-23T05:06:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/"
+  - title: "Canva Can Now Generate Custom Templates, Thanks To AI"
+    excerpt: "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ..."
+    publishedDateTime: 2023-03-23T06:48:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641bb5e08ebec13782c28bdb/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 674
+        height: 676
+        isCached: true
+  - title: "Canva adds AI-powered design tools to its Visual Worksuite"
+    excerpt: "The AI-powered tools will be available to users of ... A new Translate tool will automatically translate the text in designs to over 100 different languages, while Beat Synch will automatically match video footage to a soundtrack. Magic Write, which ..."
+    publishedDateTime: 2023-03-23T05:31:00Z
+    webUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.html"
+    ampWebUrl: "https://www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3691300/canva-adds-ai-powered-design-tools-to-its-visual-worksuite.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/08/canva-user-100931239-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Runway debuts AI model that can generate videos from text"
+    excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
+    publishedDateTime: 2023-03-20T22:20:00Z
+    webUrl: "https://siliconangle.com/2023/03/20/runway-debuts-ai-model-can-generate-videos-text/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/runway.png"
+        width: 2920
+        height: 1602
+        isCached: true
+  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
+    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
+    publishedDateTime: 2023-03-20T14:55:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
+        width: 939
+        height: 466
         isCached: true
 
 secured: "9pN/yP0ETaM+GHr+1AWcJWwWpN6fCnUgCq2pX7iEQD/h+lBFQXLleaafs/eWWzpW8V/dYjVRUO37sYU8+cMCdLfyIdVKozQkfEc01xJDfU7Fg8PO7VJ67avXbRoAlug0zdJfvVpiPkLWpv1zdtnHNkUjSQKDudYSa3s3p5vUq/JppJeVv7zPxux92fEegWUxsH9mREl9EA/49nneQnPwGsF/7K61ub/XxXvww/JeLOCUgKfkSbSb8R68gYST3BWD+dbT9qL5dbKNScezjvjGbwch2KjAuqcjxBfMWFXmy/smvBdKUjWFbHcRjvepV0S3R74kO0XcJNsgpv4gLtetLb+6nGI6CfEEy2MPcInBP2o=;SRsoCrxiEFq1xvI+J5xyMw=="

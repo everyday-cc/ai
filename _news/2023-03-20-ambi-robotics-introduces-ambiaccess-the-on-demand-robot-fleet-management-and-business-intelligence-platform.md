@@ -15,8 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 related:
   - title: "OSM Worldwide Partners with Ambi Robotics to Automate Parcel Sortation with AI-Powered Robot Systems"
@@ -34,6 +34,6 @@ related:
         height: 338
         isCached: true
 
-secured: "3VTmqbXZJtKvWhavbcnNCn/4Lp2wUxpLmntDFCopKxU/JDhG/x395dL/wBrsLjkTwj7t84lW+NqrYnvE4hBfbAKXn3k9/SDrqyDIgVe1K+JgE/UKenhesn/mG0iB7cMPr0biU91De84dLxyG/ZqteA+9Ee0MOs7/dyS82xMG8ZK5/OfKdIM+KDDsnW1AUb+TWGhXWCodGSebfDwF+rCctaa+NxgztYJ4wvGTb+bfmHjZSzBbtEo0h511m6xmVoraV4Gq+mCEB3c65iFBLn7aa49cn3+pMA9SI7Rd11HdF85WasXRrmuMdnel2LE/dmcKmBbgz66QJTi+RuiVtfLzKx89W6wvX5bIsKeE/IgBdMU=;9f/KSVCRkl8JH3HSD0bkKw=="
+secured: "jE19hlHfijNTKM++dtBXJtEwaKiBs9+3gIr0mMCzGhU2xzbyIl99vzlkT4T2uPmupjXNU/H0KhOQ/3z2lmq2htYjgpN51nw7076hCittl/jGSSli3wFw5bFDHTsvTx2SIYAxSRY69XMAAzXQ0PwRQdRZI4ZRXnYm6DRgciS1mSFUdgdZo1Rd68tUCScbpYoEMpoIWS58JZ04Rb5bRzBlQa9EZrASfkTZN06Qg9A6DjNsKbP94U7o4o6FtDX95boEwAaHmXvL0/525hfFpjDBDI5bqAFbDiLEWg364jiz1ZXQEHxnuNYpPZMODi9WnwRE9Omv/Xi32xhxzeu1yqd1j5Xk4H5Km34EERQmwxueHQo=;7oo8omeyi/bVEgTk4S0SjQ=="
 ---
 

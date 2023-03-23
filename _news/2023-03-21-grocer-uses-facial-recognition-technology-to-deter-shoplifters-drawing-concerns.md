@@ -2,21 +2,29 @@
 category: news
 title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
 excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
-publishedDateTime: 2023-03-21T16:40:00Z
-originalUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+publishedDateTime: 2023-03-21T16:44:00Z
+originalUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
 type: article
-quality: 14
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Who’s Using Facial Recognition Technology?"
@@ -81,20 +89,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:41:00Z
-    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z
@@ -104,20 +98,6 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 34
-  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:34:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
     excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
     publishedDateTime: 2023-03-21T13:20:00Z
@@ -128,6 +108,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "JlTQCW0M7xRvGvP5YlenB7Voa1D+Kl7TuN6zeYVQyq3g7gV2IiwP0HRGLimLCY16zn/KdIWh5uoylLQtaurPd33gy0EE4sw9OQpfNsIM0Gq7+CQnb7r8Hw4QeXYhF7aGRroUSYYCqRdaLdLhcwogbrewwdIE7vv36y6Foa8LlL+u7XRoRp2yk0tVfquZVlkIk1acbmwXl2+MctTW+2ZDRZA20V92kxlUfm+ysZiPLfk2i3E9Ka5Q0RT0xxSH85LYlxFO8iNU2wGQA6HkKU+XhYFte8Bb7y/knI2tp8VEJVpPSBjmfP+/OKS3Xjz8Q+4Zk+/5qJsmJO215H3gsLmKARb9aM0j09lFpYsh2lweP2M=;WCUKKPLBuEf5GS5IBd8mOw=="
+secured: "cGiiya++raOGA95EeABqO1ybW3sV6Si/DiHmZduVCL1ar/MdIYyA4VSrlxcTP1fw9j71cN404Gm+uC7d5fJx3THW+AxqTlmBg1TZbtFUpj45HF+4OTGebPEKueD0A9WVMQk7jlwV3VtQBdbxyFMPqmoaRlbWfO5tKlwf1h94feL6oNtVSKQUnXsQySnwO9TZkv09QVZAqx59sbbg+Sfsxk9YolOnIzGcT8uKjJyIZef//pdommLWRVFxrZTJEm7Wmb56ctrIPNHcDPGz39KGjE0rwUWzOLs10hhWerjrGUCeXeb+uAHs64v6Bnh4fkSVtQNl5Nh9SsVna67NTlcdd+lEtvjb4SjEYXeL7U9Bywc=;2moSOudjV50yAU4jGNHz7g=="
 ---
 

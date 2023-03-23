@@ -112,20 +112,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence accelerates the fourth industrial revolution"
-    excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
-    publishedDateTime: 2023-03-18T13:36:00Z
-    webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
-    type: article
-    provider:
-      name: The Tico Times
-      domain: ticotimes.net
-    quality: 39
-    images:
-      - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "KiwLDqSWrzYW/rLvyIgZp0OQ62vb4H+YNZEAWWLTiz9H8JcrYQsP+Z2YyS0kyOIWmXBrZBgq0qIwmKh6BAuJSDQ8+nx99RGZTtnLScyQWJJCkxmw45qdMzmAkR56H3WuvZStJruuHsn/zjpLxkwYPzfytHGXoP0jzUxBSkFwlvkAdpfxwNnHyuCgjaavdE2OZWCPofKG6ldO0yP4bcsO4OA4D1etuP+HItiCBJanKVLN7ECGQbtsyA+DbyHPmA+90dJAlgwvlnyHZW3uGWSSkfkcODzHv5OvEn9CUrvRg/5ZFqrCVjBU5/U8r9ymt3LbJhCQ9rWeaxa7t+XmxAhGoKThhDAO1ec8qMAWB1TioqnL/K1eWf8woepMNTcb2W7igev4ZiL4oieYnq9ZcuGsQ/9nYN9SDGH4+pIweuzlBz1YoaepFXOq3sanc6rKBo6DJg9L7A+ymQINXpfutnhAAKJdNEAd0A4Xhb81RVx6F+amNwzHT8/v5h+fUaMZM1sOD+9ySQkWs7StE2VfE6eZYw==;/MmrUIay+gU17P5RXP7BIA=="
 ---

@@ -60,6 +60,22 @@ related:
         width: 700
         height: 420
         isCached: true
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:44:00Z
+    webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 54
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
     excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
     publishedDateTime: 2023-03-22T04:47:00Z
@@ -74,20 +90,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:41:00Z
-    webUrl: "https://abc13.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 36
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z
@@ -97,20 +99,6 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 34
-  - title: "Grocer uses using facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "NEW YORK -- Smile! You're on camera. For customers at a New York City supermarket chain, that message is more like: customers' \"biometric\" data may be collected. As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer ..."
-    publishedDateTime: 2023-03-18T14:34:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
     excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
     publishedDateTime: 2023-03-21T13:20:00Z
@@ -120,15 +108,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
-    publishedDateTime: 2023-03-21T16:40:00Z
-    webUrl: "https://abc7chicago.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 14
 
 secured: "BjLoBdoOZF20plFis3cGyUYpx31tkS+d/F1sBtneEnaiivZ4kcpc8ccz0beMtSr2ySNtK8tNIOj+x5BudxNvbHMXR223T8kUN3fX2CwWrc/cQpuFuvRLQBhrLXc1red9uvKTv9PeUaCT//bi9KHOJsc1F4mm8xX7etJgjSD+X/zAFxPTI/y6YkmU9c6BJdXqGxKMWAu9aX5IPRWMs/8thTJUOD/JDjsDD4KiJpyMsaXjoFFlzmJVV/lLtodscOsOff+oD8Xw/0hRE6lbCg8xFpgBtIRs8MCXg9W6BH6cULGnqWiTRf62a4RUJjz2JNISa7a2MD0u0fbmc1wFUxvsDHWI+CP/VkYsnksniq1EPjd0nQ5nH5cGpQtLDViuuTRn2ds+oxwPfpwtFEHUcZ7Sj+5XrDEHZhmWZZjBuaWr/naw8OIjTNNZekLUztysUUmmitXvpgOb2MUd7QGzrweEqTCtiKoRB1cU1SPdjcGqY4c2z/fB6J6MksumssnYNdTsdVCC45f++Mv2VKfm8hNi2w==;VFy3IikJy64J4iIKxMFyow=="
 ---

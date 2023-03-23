@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-17-microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy.md",
+      "title": "Microsoft 365’s AI-powered Copilot is like an omniscient version of Clippy",
+      "excerpt": "Microsoft also stressed its commitment to \"building responsibly.\" Despite allegedly laying off an entire team dedicated to AI ethics, Microsoft says it has \"a multidisciplinary team of researchers, engineers and policy experts\" looking for and mitigating ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/ms-copilot-hero-800x489.jpeg",
+          "width": 800,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-365s-ai-powered-copilot-is-like-an-omniscient-version-of-clippy/amp/",
+      "publishedDateTime": "2023-03-16T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-ais-regulatory-framework-begins-to-take-shape-and-none-too-soon.md",
+      "title": "AI’s Regulatory Framework Begins To Take Shape-And None Too Soon",
+      "excerpt": "As technology companies race forward, the U.S. Chamber of Commerce seeks to fill the gaping void in regulatory guidance on the development and implementation of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/",
+      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6411e533c1e63495f5e12265/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/03/16/ais-regulatory-framework-begins-to-take-shape-and-none-too-soon/amp/",
+      "publishedDateTime": "2023-03-16T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market: The Growing Trend 2027",
+      "excerpt": "“Global Edge Artificial Intelligence (AI) Chip market size was USD million and it is expected to reach USD million by the end of 2027, with a CAGR of between 2021 and 2027”Ask for Sample Report Edge Artificial Intelligence (AI) Chip Market Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-microsoft-tries-to-justify-ais-tendency-to-give-wrong-answers-by-saying-theyre-usefully-wrong.md",
       "title": "Microsoft tries to justify AI's tendency to give wrong answers by saying they're 'usefully wrong'",
       "excerpt": "Current AI technologies like ChatGPT can often produce inaccurate responses, which presents a problem as Microsoft adds AI to Word, Excel, and other products.",
@@ -249,6 +405,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-how-ai-is-altering-health-care-in-michigan.md",
+      "title": "How AI is altering health care in Michigan",
+      "excerpt": "At CoreweIl Health in Grand Rapids, AI algorithms are deciphering patterns in a CAT scan that humans can’t see. Grand Blanc-based McLaren Health Care is using AI imaging analysis of stroke patients to pinpoint potentially fatal blood clots in the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
+      "originalUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-03/AI%20healthcare%20shutterstock.jpg?itok=F2c1uM73",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
+      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/michigan-health-watch/how-ai-altering-health-care-michigan?amp",
+      "publishedDateTime": "2023-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bridge Magazine",
+        "domain": "bridgemi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1035,213 +1234,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-the-rise-of-ai-automation-in-the-workplace-is-bad-news-for-the-brilliant-jerks-of-tech.md",
-      "title": "The rise of AI automation in the workplace is bad news for the 'brilliant jerks' of tech",
-      "excerpt": "Brilliant jerks who nobody actually likes working with will have a tougher time after AI automates much of their work. The future belongs to those with people skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3",
-      "originalUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e2947327e5db0018ee938d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/brilliant-jerks-tech-ai-chatgpt-era-2023-3?amp",
-      "publishedDateTime": "2023-03-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis.md",
-      "title": "Global Machine Learning as a Service (MLaaS) Market | 2023-2028 Forecast and Future Scope Analysis",
-      "excerpt": "Mar 15, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global Machine Learning as a Service (MLaaS) Market Report (113 Pages) provides exclusive vital statistics, data, information, trends and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-mlaas-market-2023-2028-forecast-and-future-scope-analysis-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models.md",
-      "title": "MLOps platform Seldon raises £20M Series B to improve the productions of AI models",
-      "excerpt": "The rise of ChatGPT has fuelled growth in the public awareness of AI, as well as the growing discourse around AI ethics. How should AI be used? What are its implications for society, not just business? The inherent bias within AI applications — remember ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Seldon-Team-Photo-1.png?w=734",
-          "width": 734,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/mlops-platform-seldon-raises-20m-series-b-to-improve-the-productions-of-ai-models/amp/",
-      "publishedDateTime": "2023-03-16T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029.md",
-      "title": "Artificial Intelligence for Healthcare Applications Market Growth and Forecast till 2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Artificial Intelligence for Healthcare Applications Market\" study describes how the technology industry is evolving and how major and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-growth-and-forecast-till-2029-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

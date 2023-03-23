@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "We Were Told We'd Be Riding In Self-Driving Cars By Now. What Happened To The Promised Revolution?"
-    excerpt: "According to predictions made nearly a decade ago, we should be riding around in self-driving vehicles today. It's now clear the autonomous vehicle"
-    publishedDateTime: 2023-03-23T04:55:00Z
-    webUrl: "https://menafn.com/1105839416/We-Were-Told-Wed-Be-Riding-In-Self-Driving-Cars-By-Now-What-Happened-To-The-Promised-Revolution"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/22/TC_b5a70image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "wCA7DgrX14/I7HTKYOdxrXMWw9IQ8FaUyhiVndQ5HA4gsCcaAf4sIGVjWf134Sy6RldifSN8RlnjqfNpz+Idy5OhqodCN4zcFGEAXzeSnff0UibEhfE11o948S8C0WxovOGiwbtbf25iCngdqKtuvgSFAhxPv7XhQw2iA+ltcCw6WfF2g+06V+L3lN4bZbB0ynvKeSAoyONhJs04SZ4DdK68dyI0WRmrj+FBX8lOULgbkTmDS/ct8Ww4sF3mehxTtsBFnIv/piAUYmKSZSiGz+bl0MMti44SxuMXckT3KLotB5IXlvfGKGTrar9gB56uwXAyL2gCgugE47HIU//SIdyrl8B5dR9rPRFM8Y0O5+s=;7lCRPjTlDILB09MKuLDPoA=="
 ---

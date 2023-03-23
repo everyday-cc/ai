@@ -2,6 +2,188 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-01-04-microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.md",
+      "title": "Microsoft reported to be integrating ChatGPT3 AI with Bing search",
+      "excerpt": "The expected integration of the AI-powered chat application with Bing can be seen as Microsoft’s renewed attempt to challenge search giant Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "originalUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "publishedDateTime": "2023-01-04T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-at-ces-tech-mega-show-driverless-cars-show-promise-limitations.md",
+      "title": "At CES tech mega-show, driverless cars show promise, limitations",
+      "excerpt": "Crowds of techies will descend on Las Vegas this week for the annual CES technology mega-show, but one innovation may again fall short of long-held hopes: driverless cars. Autonomous vehicles have long been pitched as the new dawn of transportation and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
+      "originalUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028.md",
+      "title": "Bird and Animal Control Robot Market (New Report) 2023 Research Report Recent Developments, Size, Share, Market Analysis, Forecast 2028",
+      "excerpt": "Jan 04, 2023 (The Expresswire) -- New Report (92 Page) Publish on Global Bird and Animal Control Robot Market Research Report 2023 comprises extensive primary research along with the detailed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028.md",
+      "title": "Artificial Intelligence (AI) in Education Market Industry Updates, New Opportunities, Major Strategies, And Forecast 2028",
+      "excerpt": "\"Artificial Intelligence (AI) in Education Market\" studies the global Market Size and Forecast by 2023-2028. The report includes a comprehensive study on the definition, classification and market survey of Production Units in the market along with their product specifications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-autonomous-vehicles-eye-bigger-business-opportunities.md",
       "title": "Autonomous vehicles eye bigger business opportunities",
       "excerpt": "China has taken the lead in the research and development as well as application of autonomous driving technology around the world and it is the first country to allow fully driverless paid robotaxi operations,",
@@ -930,187 +1112,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
-      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
-      "excerpt": "More information: Mark Theodore Bayley et al, INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury: What's Changed From 2014 to Now? Journal of Head Trauma ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/broken-helmet.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
-      "publishedDateTime": "2023-01-03T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.md",
-      "title": "Deep learning tool identifies mosaic mutations that cause disease",
-      "excerpt": "Image Credit: Laurent T / Shutterstock Deep learning, sometimes referred to as artificial neural networks, is a machine learning technique that teaches computers to do what comes naturally to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_734722_16727187721093579.jpg",
-          "width": 2000,
-          "height": 1233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
-      "publishedDateTime": "2023-01-03T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles.md",
-      "title": "Owl Autonomous Imaging Launches Monocular 3D Thermal Ranger Computer Vision for ADAS & Autonomous Vehicles",
-      "excerpt": "Owl Autonomous Imaging delivers monocular 3D thermal ranging computer vision solutions that dramatically enhance safety day or night and in adverse weather conditions, to automotive and industrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12573300-the-smartest-solution-for-the-r-300x246.jpeg",
-          "width": 300,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
-      "title": "Forecast 2028 for the Cognitive Services Market in terms of size, returns, gross margin, and market share",
-      "excerpt": "Jan 03, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and overview of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

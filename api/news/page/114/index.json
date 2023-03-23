@@ -2,6 +2,204 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-12-13-tesla-ordered-to-upgrade-self-driving-computer-for-free-due-to-false-advertising.md",
+      "title": "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’",
+      "excerpt": "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
+      "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities.md",
+      "title": "Yan receives NSF grant to advance multi-GPU supercomputer abilities",
+      "excerpt": "The $275,573 grant will be used to support Yan’s project, titled “Massively Parallel Graph Processing on Next-Generation Multi-GPU Supercomputers.” The impact of this project will be significant, considering that the nation is replacing Central ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
+      "originalUrl": "https://www.uab.edu/news/people/item/13305-yan-receives-nsf-grant-to-advance-multi-gpu-supercomputer-abilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uab.edu/news/media/k2/items/cache/c0dd4284d41c24140acd705579c738fa_XL.jpg",
+          "width": 900,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaleido Scope",
+        "domain": "uab.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success.md",
+      "title": "AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success",
+      "excerpt": "Consumer demand for Lensa AI, and for AI edits more broadly, has now pushed numerous other \"AI\" apps into the U.S. App Store's Top Charts.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/",
+      "originalUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/lensa-ai-magic-avatar.jpg?resize=1200,730",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/amp/",
+      "publishedDateTime": "2022-12-12T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs.md",
+      "title": "Robco links up with $14M led by Sequoia to bring modular robotics to industrial SMBs",
+      "excerpt": "Robco's current offering is based around three components that focus on lathe turning, laser engraving and palletizing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/",
+      "originalUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Robco_Team.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/11/robco-links-up-with-14m-led-by-sequoia-to-bring-modular-robotics-to-industrial-smbs/amp/",
+      "publishedDateTime": "2022-12-12T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-could-walking-backwards-be-the-secret-to-physical-and-cognitive-health.md",
       "title": "Could walking backwards be the secret to physical and cognitive health?",
       "excerpt": "How many steps have you taken today? For many people, walking is one of the easiest, low-impact forms of exercise. Every step can help increase one’s metabolism and, for some of us, help ...",
@@ -946,190 +1144,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-reimagining-healthcare-with-ai-three-key-areas-for-transformation.md",
-      "title": "Reimagining Healthcare With AI: Three Key Areas For Transformation",
-      "excerpt": "It's more imperative than ever to bring personalization and efficiency into the patient, physician and operator experience. The positive is that we are now ready with technology powered by AI to speed up this transformation journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/12/reimagining-healthcare-with-ai-three-key-areas-for-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/12/reimagining-healthcare-with-ai-three-key-areas-for-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639367e60ad6ea64a565cee5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/12/reimagining-healthcare-with-ai-three-key-areas-for-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/12/reimagining-healthcare-with-ai-three-key-areas-for-transformation/amp/",
-      "publishedDateTime": "2022-12-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-china-wants-legal-sector-to-be-ai-powered-by-2025.md",
-      "title": "China wants legal sector to be AI-powered by 2025",
-      "excerpt": "Supreme People's Court issues directive for an artificial intelligence network to be in place by 2025 to support and enhance legal services, but says court rulings will remain decisions made by judges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "originalUrl": "https://www.zdnet.com/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed0d09975caf456f58e6cfec15973859a91de6bf/2017/01/11/5e64bad5-a595-4751-a2b0-860b74abaa08/legal-digital-code.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-wants-legal-sector-to-be-ai-powered-by-2025/",
-      "publishedDateTime": "2022-12-12T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-industrial-robot-controllers-market-dominance-of-the-leading-companies-over-the-global-industry.md",
-      "title": "Industrial Robot Controllers Market Dominance of the Leading Companies Over the Global Industry",
-      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/12/12/industrial-robot-controllers-market-dominance-of-the-leading-companies-over-the-global-industry/",
-      "originalUrl": "https://www.fmiblog.com/2022/12/12/industrial-robot-controllers-market-dominance-of-the-leading-companies-over-the-global-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district.md",
-      "title": "Kerala Infrastructure for Technology and Education to bring robotics to students in Ernakulam district",
-      "excerpt": "The Ernakulam unit of Kerala Infrastructure for Technology and Education (Kite) has begun the work on setting up robotics labs in the schools in the",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/articleshow/96160804.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/articleshow/96160804.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-96165082,width-1070,height-580,imgsize-16198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/amp_articleshow/96160804.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kochi/kerala-infrastructure-for-technology-and-education-to-bring-robotics-to-students-in-ernakulam-district/amp_articleshow/96160804.cms",
-      "publishedDateTime": "2022-12-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-23T04:55:00Z
 originalUrl: "https://www.thecrimson.com/article/2023/3/23/ai-mental-health-event/"
 webUrl: "https://www.thecrimson.com/article/2023/3/23/ai-mental-health-event/"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2022/04/21/005812_1356005.jpg"
@@ -40,6 +41,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "8CI1VfBuVf1DiKTDNO7cJ7ouC1vbqNE+PRw61ByRG2d02EpKu/csBM//esNCVvglGcQl6NnauDQq6Axc1zndzrvKrl43434AyH4NyrgQzPOoUiZKPRmgjAFZPmV1/7UDR6/jUeS9DbSt1JfKuyn1znakhMdGSmad3YLtNI5EKOSZwymnwWDNfmClI6cey3dWqwBPWkVRudAb57UCh9JNrckL4sNIqjHEekgwj9DgsLNa7e71Qqm1cOrbBh35plvolBQLlRZy4Z/K/i2J/3vVNbC+fDS45e77fqxRac2oJa8euLtt2DnUX10EqYGWQd17hayKHH935vp6nx4F/pWhkCurhhoVhBiNjerPZCysqeM=;6gtaYgJU2B0j8QPcLQFqLw=="
+secured: "2a9/yNVzS3BRKFC7hFEi/8DIBDsnKbsbTg2duv5QbSf/SMmfIpf64y6eWLXAHE1LuaiRUsHSkmFFFSSWL775gQ6YsVctADZfbyRJM+tG7sko/Xn5LM94bRaicGtwWt+OqBkOWggtHvaLez76r0H+HaEvkncea91LOHPd6rwLKNWPL4JLH9ic0zEVQL/AQ27vrjfwKlMjwDnWdMDTUMoOEh7EZc7uEMlWdgF40UXW0ueoHzmCjbqviXpFWGwCb33CdrqcjNq8qR8RNMeLA4nhqtuUrfQuC1alTQTWnhrDiAqn46VC7qJDCSqzC5C3HgBb/ky+5PYBwUKDPPfFVgrklT7ZJyNbBV0s4oE/IG8vZ7ffGfv0J3PBwHmfcMSr4fhlKOiVgDYrFQi+T0yQUo+tKGH71LUHYsdE/MJHDjVG2813UlGOtDfk/aRjksH2oAyFrpmn8CfKQNDHVYTG8+TVm4HAkFVgNHd+0qAtyUe0DQ92rkqvG77UIa/jOtiXdhfX9727/e9LTdICj1ZPNFSYOw==;t3E+8aSy8gfFrGJQMmdqMg=="
 ---
 

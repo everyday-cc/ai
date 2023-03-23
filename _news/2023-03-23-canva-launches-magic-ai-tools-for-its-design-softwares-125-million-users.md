@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-
 webUrl: "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "Canva’s new AI tools might replace your video editor"
-    excerpt: "and they can automatically translate it with Canva’s new AI-powered translate feature that supports more than 100 languages. Once you have the initial design, Canva has Magic Edit and Magic Eraser to help you refine it. Magic Eraser speaks for itself ..."
-    publishedDateTime: 2023-03-23T05:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/canva-new-ai-tools-might-replace-video-editor/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/canva-magic-edit.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "reLsFELfJMj6k1UrCHW74UTtFB41IMY/WeOxV0nzR2oX4UYOETBoUsENDfOJo+Ryg2ZDKpPlzD1wmwGRnCDeYcsKEZ/FRq+TtfWvlBGIEK7MTpha2kfTYRQ1r2ngW3CJXoIe/eoEYlhn/FUklerNvxkC/Nsqm1mY52PMCkplKb5v++9lvKtN4FrUIBWLWP47eGWW9P8pGdgLtebpSok/uRgxzWsSdoqfuIwaSREMTMXEYhGRW4FepvrlXPkVmWfRbpXe/0LU7HC9PLC4JhCYIUcxm+mQ9HuG7ViuWtJRWDAmI+h0cmwTR5JwicNIHv6c/0/8m8rFqjdAzb3lAd/TBGbQu8sQ44Qa4kge5p6RSLw=;DaRlrT/28vZb8DlHaSoW/A=="
+secured: "NBn+DH2XUpX0g9MfoarrbSi+tvbXghhyacRy2NofN8P9wJLebFwNCb/dGOTuvQUUgljOxubUZkloLGmTCh/4dGn3ilDOoJvHFpt38+NZS+9SQ7GCq/I0J2NAP5eg6XNJtWys9PN0D/2S9ZQQJXWKD3KIFYxZDnHq/qM/lshyiM4wIeVxSmrdkRXt7YPxK5cYhE7j1kN0D3n7jC0/YKmK4W9y2eKoXIbH+sCA/f6EYE9AMCuKkcNsy+sa9hwD9lUuX1zgWW8BQhUDwO28z++oU9dHPlq+1/S5aUfdkJmi4WhBDofPS1uUEdwZu5/Ode9lrhFEhbeXIb0+E7BqW924zqHlJ3/wLfHvjddEauf4Fx5zjyrMfDwJWBdJb7rgRMRqXpJB2mGCDUwo5ePYFupJe5phE4idJR0/0SGrGk5Xpm1538RYqGrvsGT8I5MJECDtc5lVM3Ga9n6GufxOexKEkrM4p/HOZl47HcNnO8hRdjuLtU+HY4iN8wGekmeDmNCT0ysD6XYxbt7kVpZU+Ef0zQ==;dD3bePidhxw1CToREYQ/iA=="
 ---
 

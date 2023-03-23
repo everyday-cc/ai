@@ -2,6 +2,188 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-03-07-10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023.md",
+      "title": "10 Best Nootropics, Smart Drugs, and Cognitive Enhancers of 2023",
+      "excerpt": "5:00 AM on Jun 17, 2022 CDT — Updated at 11:38 AM on Mar 6, 2023 CST Nootropics and smart drugs are dietary supplements that provide cognitive benefits such as improved focus, memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "originalUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Wi9IMlAYpae9TG8TzIAccthnPM8=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/BYOUMGJ5VZACPFIGZDO2ARV7GI.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "publishedDateTime": "2023-03-06T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-therapeutic-ketosis-for-mild-cognitive-impairment-alzheimers-and-parkinsons.md",
+      "title": "Therapeutic ketosis for mild cognitive impairment, Alzheimer's and Parkinson's",
+      "excerpt": "Review: Ketogenic interventions in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease: A systematic review and critical appraisal. Image Credit: Atthapon Raksthaput ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740699_16780700168786646.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
+      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
+      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
+          "width": 4846,
+          "height": 3620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-an-overview-of-machine-learning-pipeline-and-its-importance.md",
+      "title": "An overview of Machine Learning pipeline and its importance",
+      "excerpt": "A Machine Learning (ML) pipeline is used to assist in the automation of machine learning processes. They work by allowing a sequence of data to be transformed and correlated in a model that can be tested and evaluated to achieve a positive or negative outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "originalUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage53595/soft2b.jpg",
+          "width": 683,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-the-new-world-of-ai-chatbots-like-chatgpt.md",
       "title": "The new world of AI chatbots like ChatGPT",
       "excerpt": "The large tech companies – Google, Meta/Facebook, Microsoft – are in a race to introduce new artificial intelligence systems and what are called chatbots, that you can have conversations with ...",
@@ -905,188 +1087,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
-      "title": "Could the next great author be a robot? We asked (Human) writers",
-      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "publishedDateTime": "2023-03-05T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
-      "title": "Understanding the world of artificial intelligence and its future impacts",
-      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
-      "title": "Trends that are likely to characterize the Fintech industry in 2023",
-      "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "publishedDateTime": "2023-03-05T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
-      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
-      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-736463/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

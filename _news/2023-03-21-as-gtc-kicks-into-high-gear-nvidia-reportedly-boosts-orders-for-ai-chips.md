@@ -265,6 +265,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T01:08:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "How to watch Nvidia’s AI announcement at GTC"
     excerpt: "Nvidia’s GPU Technology Conference is in full swing, but it’s CEO Jensen Huang’s keynote address that has everyone waiting with bated breath. He’s expected to make major announcements about Nvidia’s future AI developments and how Nvidia GPUs will ..."
     publishedDateTime: 2023-03-21T12:13:00Z

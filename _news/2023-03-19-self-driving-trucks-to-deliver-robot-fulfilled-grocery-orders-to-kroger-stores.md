@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailyitem.com/business/self-driving-trucks-to-deliver-ro
 cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-trucks-to-deliver-robot-fulfilled-grocery-orders-to-kroger-stores/article_aefcdc57-973e-5d6f-bc67-898ee175a606.amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kroger set to use self-driving trucks for deliveries"
-    excerpt: "Self-driving trucks will soon start making deliveries at some Kroger stores in the Dallas area, the company announced. Kroger has partnered with Gatik to use its midsize trucks to carry goods between a Kroger fulfillment center and the nation’s largest ..."
-    publishedDateTime: 2023-03-18T14:24:00Z
-    webUrl: "https://www.daytondailynews.com/local/kroger-set-to-use-driverless-trucks-for-deliveries/A44KIVHVIRHCXCTSOL5MFX4VKM/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 24
-    images:
-      - url: "https://www.daytondailynews.com/resizer/NJ6qoD08jXjGqtNMaCOCccoi-4M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/HRMXSHOVSDT2SH43YAG37QGSQE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving trucks to deliver grocery orders to Kroger stores"
     excerpt: "Kroger is about to add another layer of automation to its customers’ online grocery orders filled by robots at its fulfillment center in southern Dallas."
     publishedDateTime: 2023-03-20T13:00:00Z

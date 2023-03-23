@@ -32,7 +32,7 @@ related:
     provider:
       name: The Harvard Crimson
       domain: thecrimson.com
-    quality: 10
+    quality: 12
     images:
       - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2022/04/21/005812_1356005.jpg"
         width: 1600

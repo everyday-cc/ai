@@ -104,22 +104,6 @@ related:
         width: 547
         height: 246
         isCached: true
-  - title: "Is AI the future of Hollywood? How the hype squares with reality"
-    excerpt: "“We've been through various hype cycles before, not only with AI but other kinds of technological innovations,” said David Gunkel, a professor of media studies at Northern Illinois University who focuses on the ethics of emerging technologies."
-    publishedDateTime: 2023-03-18T14:48:00Z
-    webUrl: "https://www.aol.com/news/ai-future-hollywood-hype-squares-140040559.html"
-    ampWebUrl: "https://www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-future-hollywood-hype-squares-140040559.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 59
-    images:
-      - url: "https://media.zenfs.com/en/aol_la_times_articles_830/888522f7d3731caf2f66cb69183483db"
-        width: 840
-        height: 560
-        isCached: true
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
     publishedDateTime: 2023-03-20T12:00:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Autos
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/0/d6/0d60b8fe-bfa9-11ed-a86f-0704c4a7f187/623f45681a6e6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"

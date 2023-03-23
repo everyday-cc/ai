@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-17-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View",
+      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-01-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-the-advantages-of-artificial-intelligence-ai.md",
       "title": "The advantages of artificial intelligence (AI)",
       "excerpt": "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of",
@@ -1221,50 +1274,6 @@
         "AI",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
-      "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
-      "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/bright-outlook-a-brief.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "publishedDateTime": "2023-01-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

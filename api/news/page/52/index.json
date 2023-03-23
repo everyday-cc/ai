@@ -2,6 +2,171 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-02-07-how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics.md",
+      "title": "How AI points the way to a new gold standard for big data analytics",
+      "excerpt": "By running data analytics on dedicated processors the way AI workloads now run on GPUs we can crack open Big Data for a new level of insights",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data.md",
+      "title": "Speech and Voice Recognition Technology Market With Highly Lucrative Segment To Expand Significantly With Top Countries Data",
+      "excerpt": "In 2023] The Global Speech and Voice Recognition Technology Market Size (116 Report Pages) is estimated to be worth",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-goa-introduces-ai-powered-self-driving-robot-aurus-to-save-lives-on-its-beaches.md",
+      "title": "Goa introduces AI-powered self-driving robot Aurus to save lives on its beaches",
+      "excerpt": "Incorporation of AI-based support follows a rise in beach-related incidents due to spike in domestic and foreign tourists on Goa’s coastline, an official from Drishti Marine said.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
+      "originalUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029.md",
+      "title": "AI Marketing Market International Business Analysis, Top Winning Strategies, Development Outlook and Regional Strategies 2029",
+      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for AI Marketing market will have huge change from earlier year. \"Powerful new research technologies introduce Detailed TOC of AI Marketing Market report [113 Pages Report],",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029.md",
       "title": "Artificial Neural Networks Market 2023 (Newest 121 Pages Report) is Booming Worldwide 2029",
       "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for Artificial Neural Networks market will have huge change from earlier year.",
@@ -849,149 +1014,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up.md",
-      "title": "Google opens testing of ChatGPT rival, as artificial intelligence war heats up",
-      "excerpt": "Google says its Bard service is based on its experimental artificial-intelligence program called LaMDA, which stands for Language Model for Dialogue Applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up",
-      "originalUrl": "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-chatgpt-rival-bard-and-looming-event-from-openai-backer-microsoft-swing-alphabet-stock-as-artificial-intelligence-race-heats-up.md",
-      "title": "ChatGPT rival Bard and looming event from OpenAI backer Microsoft swing Alphabet stock as artificial intelligence race heats up",
-      "excerpt": "Minutes after Google announced it is opening \"Bard\" to early testers, Microsoft teased an event that is expected to involve ChatGPT parent OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-original-startup-behind-stable-diffusion-has-launched-a-generative-ai-for-video.md",
-      "title": "The original startup behind Stable Diffusion has launched a generative AI for video",
-      "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model, Stable Diffusion, has released an AI model, called Gen-1, that can transform existing videos into new ones by applying any style specified by a text prompt or reference image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-should-companies-disclose-if-their-content-was-written-by-ai.md",
-      "title": "Should Companies Disclose if Their Content Was Written by AI?",
-      "excerpt": "Google is already reconsidering the value and ranking of content created through AI. In academics, the integrity of AI-powered content comes into question when students use it to write college papers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
-      "originalUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

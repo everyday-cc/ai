@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?567019"
-    width: 420
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?17223"
+    width: 381
     height: 250
     isCached: true
 
@@ -86,6 +86,6 @@ related:
       domain: theaustralian.com.au
     quality: 19
 
-secured: "FXV6ziUKkS6tb00IsbMuGPVhlSnKWVaxdbCWn3sk09cZOgfDNW8Tilo4+fPB8aFKnmlxf52oI1imYfTfMLuh/pL6YtLDoKn9n3BNcoP0JkDvvI4HCv7r69R+R5YXfQhCoTgNzKFu0o5HIwvckdmHjg1XhNDNv6Mb/BFWHE+TnT5X86TN8BleehVumOLJShyCSVdKyRBJd4jQIAjOreUHwIf16aOemmWFIaoNJqLANFDkUaYSf7KZW2BeorR3no4987rU/N+VaXHOud3F9gORfSOP8QOUt41iIIMgQ3JiwG42Un6o6zZPmSMWnwnArnho4eyYt7ZNmY8NErumSpxFlZYUDCUosf3ruV+NmLJd3YU=;EOnF00BqmmMdmMu+Jl3jSg=="
+secured: "EGQqro1ZRfwVEKTbG75MOHmO/D42GSRSd8eGBuIOnWaailsFIHeU4jfAZyRnr8KUgE75aL2OhRKiA5aP62i+45RkFByWmDThO/d8Rf24+GyKz9aJ03Vxhr1OHSDH7hQxRaFjkLm/Cz2VRh9YfhLTWeSu41pTZKaDlFq4rIdfkujAa1aT82Vx/jHyhM3foJVSbqS6u8NmVogsvA11AQUr5t2yXXuNtJKo1agEG6Fb5EkueeWBoJAXtZqClAR+bumKEo6nQt2txDLHINFIGZIHrh2VCkflWZHhfUBkQukf7mH4Tk43U17f10OAse9fWFpowB0pduZdmKLl6U1sekrdeea2MWxWzlGf5E5eurJ0OcY=;TfakeliDY5MpXXcX0vQBfw=="
 ---
 

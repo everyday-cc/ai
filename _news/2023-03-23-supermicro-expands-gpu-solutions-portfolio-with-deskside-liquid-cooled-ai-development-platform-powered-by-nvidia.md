@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
-excerpt: "(NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
-publishedDateTime: 2023-03-22T17:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm"
+title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
+excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
+publishedDateTime: 2023-03-23T05:45:00Z
+originalUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/"
+webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/"
+ampWebUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-2/1466061/?amp"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 53
+heat: 93
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230323041650.jpg"
     width: 400
     height: 206
     isCached: true
@@ -72,6 +74,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "xzxAkW5sAg7RQ/0MusyznNHiFnqw2k2qycOH9wR6TAbhOX7MF1bqpkZWwRaNBZYqDJ6NRTIr+zGOdxYcpxt+qWMHw52dFO9voYwL4J7z5QzHqk/8v7C+Pl7w3EYzZsEqmlhRmoAVPAT5RO3Lf0kZAIjR1sgCiVeuRIZ4+Zr2RrSNvWOuw8cjhJQwbAUDfBDw2dZaJ1GCcpNM6jaoRcqDeMwFjj9wSiXQNchQ8sdg9sna0ihC1Q3KKfGzgaVLkWRfrhPZxoDe5BQMLiNoPsFWWqrsXTl1td45q5wVbgJ7md7yLbz59iFjq2Kss2ud1+U3kvhpjz7GVV7mz2YO8Vpc07STLNdYgsMn3rMEF7GtrGo=;NUnASq5SPqkrMsg1vGOchA=="
+secured: "97xU/3jrPGLDYW+ks6qnit79C5oIg+yNkWeW0ExbQRE3KH7gTcYWNSVFZq03JVHwMeiMmvJ5mrtZcBTCkCZS+qp24TyytFY1oQp4RDrEIxDfcix6n2LUMLqU3O82gl8N4ummFNIEik1PLzgBYsiRxZy/EZrQFOxysgaAQGMSO3lqERDVMUtw/ufQO/rMAXCD4bYkRapi8znigKkT92P2fe0sP9sfZZfzuHcQuDzymZ9H5gJvntmxa2j/4I4dGsUx4DF0MHA7cXWw4EgvFtoA/YPGOmLz6ienU0CiS23LIr6KQBX3yJWsPz4Po7YVINXOhWACuKoye2RnM/s1EWA1VH9ccFi4FkE8fpQMeTFAUXE=;0ptJn6DtrDHUh04HSs5pfA=="
 ---
 

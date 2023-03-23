@@ -101,20 +101,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial Intelligence accelerates the fourth industrial revolution"
-    excerpt: "The growing popularity of Artificial Intelligence applications is a sign that the technological change of the 4th industrial revolution is accelerating. It is time to decide how to engage in this technological change as a region. Jaime García, Project ..."
-    publishedDateTime: 2023-03-18T13:36:00Z
-    webUrl: "https://ticotimes.net/2023/03/18/artificial-intelligence-accelerates-the-fourth-industrial-revolution"
-    type: article
-    provider:
-      name: The Tico Times
-      domain: ticotimes.net
-    quality: 39
-    images:
-      - url: "https://ticotimes.net/wp-content/uploads/2023/03/Artificial-Intelligence-brain.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
     excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
     publishedDateTime: 2023-03-21T20:01:00Z

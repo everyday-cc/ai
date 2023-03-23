@@ -2,9 +2,9 @@
 category: news
 title: "Baidu’s Apollo gains approval to test autonomous vehicles in Shanghai"
 excerpt: "Apollo, Baidu’s (NASDAQ:BIDU) smart car business, announced Wednesday that the Chinese tech giant has received approval to be among the first companies to test fully autonomous vehicles in Shanghai. Apollo currently operates driverless robotaxi services in specially designated areas of Wuhan,"
-publishedDateTime: 2023-03-22T17:12:00Z
-originalUrl: "https://ca.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-2941049"
-webUrl: "https://ca.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-2941049"
+publishedDateTime: 2023-03-22T18:09:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
+webUrl: "https://www.investing.com/news/stock-market-news/baidus-apollo-gains-approval-to-test-autonomous-vehicles-in-shanghai-432SI-3036989"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 530
     isCached: true
 
-secured: "QkxthDH6+cpbBSKxPF7a6BhhhUEEJ0VGtlj1kHa/4tmUv6KPXSrSsQmIBpel9nl7yZhpcEmWc3POr+O12TSm1ickf33EZozrwIVz8isBDc6tma13wHWCMj9fnV1mc0BP4BOzFLIt0lnc4VUyiqmushgL19wFJAktKogUo9WfKq/ivVFb0SoKJNQnvgV1ACElvAag72uu5sWzVGSmU2RWPucK2nHFrCmqD9HMVda4oPCdzEUOwNOqpdfsKiLwar1zQe0oXfkZDTU6MnGM7L3TJFDHBC1z7fAuflNYvpbylsftRf8ymY9/ms61zamS0ZdeGHDXipwXwEU6JcawcS3gmcbaFwfNW9mcPtATDQiHmqlc2W9I1C163f3Nd3UksWu20lNEEO1TRK6ZOUcHk6pyd8+Xc95sQj7LLeyCzwW5zjwTsRfDeP9BmniXK4YKqx5StxDtxHYxbaXibHUyXd3cVTXhnzqQsw115Cr3exwvfKikGtbGhojLcacOQHE/SgcbDwCzDMyX/Wh7idtPVXh1og==;PNiJeRYUnB2t2ZPJ0FQhUw=="
+secured: "kuOdKmV7oGkPvqIemqBlQQU9juQyorYbUi1Q7vrY4ExbHuFSmU0rNKurGmVs3L29MpWUMYAUVxGMySnCC7WP87tN7JqrB+OzQ8oYfAHGp2993vFu3XhZZd15W7cIky6KbsXP6LbbW5+LkopTh2ffGxo7j5DZ/Ic2sqC55xxZW8Q02d0ReWbh2cJB88ixlV2tg7AO6+5PAnbZGIJGUVqoLe8LVbw2xHcZQ5OSdDAz/mYk091w1+IGPszCroLGeZnpkHv70obuB769eKV1IqmV8M6zI6/a5duF8q23frOrhft4JTb3e0YBB5MnBa3sIKRVyOT4LCu8GFt/6K1hJ+wNTSsuLX7EqZVm+WdFREfHZ7g=;ZMQgo57/05EA6hfvJA0VLA=="
 ---
 
