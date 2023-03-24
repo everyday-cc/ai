@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
+    quality: 49
+  - title: "Oracle Adds New AI-Enabling Features To MySQL HeatWave"
+    excerpt: "Oracle announces the latest batch of updates to HeatWave that bring new capabilities for enterprise machine learning, AI-driven automation, and multi-cloud support."
+    publishedDateTime: 2023-03-23T19:59:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 49
   - title: "Oracle’s MySQL HeatWave gets embedded machine learning capabilities"
     excerpt: "Oracle is bundling some popular machine learning applications into the engine including support for anomaly detection, recommendation and multivariate time series forecasting. Anomaly detection is popular in financial services for uses such as determining ..."

@@ -39,17 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
-    excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
-    publishedDateTime: 2023-03-20T03:58:00Z
-    webUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/"
-    ampWebUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+  - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."
+    publishedDateTime: 2023-03-22T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-fintech-market-report-informs-users-about-current-trends-and-their-effects-on-the-market-as-well-as-useful-market-insights-2023-03-22"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "16 companies from across the globe selected for Isle of Man fintech innovation challenge"
     excerpt: "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide."
     publishedDateTime: 2023-03-21T10:15:00Z
@@ -78,6 +81,15 @@ related:
         width: 400
         height: 356
         isCached: true
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 5
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z
@@ -96,6 +108,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T18:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/24/9782853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "cvmqXSqHZsy40iP6gmdlX7xgQPDQm7CCW50hzrUcnLS+VKnu9UqgX9xzBC7tpK98hkRsyB3eFMKAaI+BGsTqi+wzc9vHaqQdpLImTkWmKVj73mZuAZUCNC4GuagM5hbizyP2PT7gsdB6axoS5lrKWVt0yu9cDT2fcOi1qCWoTAetW7VB+uRHQPCvT0zcBPLzyICegF6UInhIk1eeOQxKWox3EMPZs/oXXUoTf2lLVdGn9crj/92lWbEE+M6+Job9JyDuh+FDIc8zXzUnO1UHU6hTOLvDOp8fQqYef848GRo9ZmLnOWe0H0iOb+2ltICa4KpgqCK+xwOUmqKajaQkN5cLtQrgcxiYa+rzY0phhYmcQ8BitMqfYGh3iRJkJrQu9humCQ+dMWAliTa8mR9GYiwTy1S4iA6P15QXyw8umIGdE2m56RCst3cGjRYpapMVNurszgQVVKtw+RBwLIcBAtPaP8s9XsLgyAba3KxNmURT2Kv1XY0ksY4a/X8xbrzM3yke9kF38bWqbrxg6qkeCQ==;bAtUMcqksRXFnk6OuxQqMg=="
 ---

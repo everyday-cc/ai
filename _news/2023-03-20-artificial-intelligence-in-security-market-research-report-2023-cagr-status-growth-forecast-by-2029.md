@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20"
 type: article
 quality: 70
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
     excerpt: "Mar 24, 2023 (The Expresswire) -- [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition Market” Size 2023 Key players Profiled in ..."
     publishedDateTime: 2023-03-24T15:19:00Z
     webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-premium-research-report-forecast-2023-to-2029-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
+    excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
+    publishedDateTime: 2023-03-24T19:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/spain-machine-learning-as-a-service-market-report-outlook-growth-key-players-revenue-and-forecast-2023-to-2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       - url: "https://infotechlead.com/wp-content/uploads/2020/08/Mozilla-Firefox-at-MWC.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Mozilla.ai Startup Debuts for 'Trustworthy AI'"
+    excerpt: "Mozilla, with a mantra of making \"browsers, apps, code and tools that put people before profit,\" seeks a different way with Mozilla.ai. As of now, the startup's web site basically consists of only this: [Click on image for larger view.] Mozilla.ai (source ..."
+    publishedDateTime: 2023-03-24T21:32:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/03/24/mozilla-ai.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0817vcrm_CrankyAdmin.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Mozilla launches Mozilla.ai to focus on ‘trustworthy AI’ with $30M in funding"
     excerpt: "Mozilla Corp., the company behind the Firefox browser, today announced that it’s launching a new startup focused on building “trustworthy” artificial intelligence called Mozilla.ai with $30 million in funding. The newest wave of AI has been changing ..."

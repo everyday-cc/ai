@@ -29,52 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
-    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-03-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027"
+    excerpt: "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ..."
+    publishedDateTime: 2023-03-23T07:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+  - title: "Clinical Natural Language Processing Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [108+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Clinical Natural Language Processing Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
-    publishedDateTime: 2023-03-22T03:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
+  - title: "Speech and Voice Recognition Technology Market Analysis: Understanding The Current State and Future Trends 2023-2028"
+    excerpt: "Global Speech and Voice Recognition Technology Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www.marketresearchguru ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Analysis: Understanding The Current State and Future Trends 2023-2028"
+    excerpt: "Global Artificial Intelligence in Manufacturing and Supply Chain Market Report (120 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 30
 
 secured: "TiCaP+yjvxecLih5Ox33yg87P3IYWgnLrw8/h0eSgP7JdffRet8Ja17x7ENEfEG/C3HvuG7zVFSdYjTilzD7H4cys6TUwA6/CPvaGEtL13oayp3/5ij7BLU40DpIGlQIirnXhhcHw4lrVjTwc6KfIzRO86pmSFQMa/iYWSXpWHzy8EsQNLDwNPQGtlD0oDdwvr12H1LqEe32sDDZgbG3d2Gyp6dsz+yRNKMTa+3RIsR//cC5FpJfUqdY5AuPolZQdL+vHVRICZ9dbtrfpSSw01JdvMOhzHbgg3Gu9Ny2asnO1bHns0pagDFjgh5/lv9hVt+LtF/Q3eaXiakmlfYxq+w/o4sJN5FnmHesJquhh+4=;LBHfendUb1EWtw2unuklSQ=="
 ---

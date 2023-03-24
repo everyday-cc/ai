@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Publishers demand to be paid for AI using their work"
+    excerpt: "ChatGPT, Bard, and all AI tools are trained on existing work, and quote that work without the originators being paid or cited in most cases — and publishers say this can't continue."
+    publishedDateTime: 2023-03-24T11:52:00Z
+    webUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work"
+    ampWebUrl: "https://appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/24/publishers-demand-to-be-paid-for-ai-using-their-work/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/53636-107803-000-lead-AI-and-Publishers-d2-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "FaH2F66Qf4n1/uEyDuQFrJ2Hp07eHadTVQCOQuIUbjrOjwwKHn36FMOsNDslWO5Sv8FuTYCZBhNVHqSB2AGRe9grogxNvr01VBf20AQzP2WIWa4cP91kfVUbpYGYeXCNlEYejuYK6y8R4NFEFovY9jjv+FygxDQZwB3mzZwaI7AUGpWOrm+lzvxxSdisoUZbBwjRxVer6zCIDZd+S4xTsYL4cAwPafLpvSmYCWYjSMTl+/kIQpqDnrP+MXJ1ogh5ZnsG8hP3xTh5lZ/S+ycliubhoh5aym83a6pAM0frw1Pv8O6lssFsHDBgwjz80fkUd/llT4O3UeHgoTRdJpSrNthlH3sgLMHy1E1Oe31Pd3y0RNFgEkct3JEfbiJbCmF+PW4nf4/3nyyxT5bHwodZ/Y1ZNQ9DRITSaL5YNgjl1wWNmG0I1L92om6visoAUYGmUFudYykTYkKAZAU9SGm7aIkRkdXzWnUFnFgt9No6Sajm/kpPft1E1giRIujCUfmQXz4gBeTpKR4zmTW8tfww6w==;CtqsABn8TfvoDran6c6wrA=="
 ---

@@ -259,15 +259,6 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 21
-  - title: "You can’t stop generative AI fraud"
-    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
-    publishedDateTime: 2023-03-20T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "Coke asks consumers to generate art with new AI platform"
     excerpt: "Coca-Cola unveiled an artificial intelligence (AI) platform that is the first of its kind to combine ... \"Create Real Magic\" combines OpenAI's GPT-4, the startup’s most advanced large language model to date, and DALL-E, which generates images based ..."
     publishedDateTime: 2023-03-21T13:22:00Z

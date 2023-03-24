@@ -45,6 +45,20 @@ related:
         width: 1800
         height: 2400
         isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
+    excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Recognition dinner held for those in recovery"
     excerpt: "Dana Walls, left, with Sara Blythe at the Recovery Recognition Dinner held March 10 at The Pines Evergreen Room in Seymour. The two women are good friends and met through Leaving the 99 Ministry. The Recovery Recognition Dinner was all about hope and possibilities."
     publishedDateTime: 2023-03-24T06:00:00Z

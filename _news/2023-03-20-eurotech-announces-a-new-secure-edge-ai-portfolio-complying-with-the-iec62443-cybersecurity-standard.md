@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Cybersecurity funds should go towards beefing up Centrelink voice authentication, Greens say"
-    excerpt: "Shoebridge said the government should also audit agencies using voice recognition to ensure any further security flaws were identified and fixed. “The government’s main objective with the use of such technologies is to cut operating costs as opposed to ..."
-    publishedDateTime: 2023-03-20T04:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
 
 secured: "vjhxvAxzBqOTawavUhxkVfNv2qt2WKwFwZNhDj38iPhAOEyu4V8aPoKekCAJuyR+cmLCiFFzkmlahpiFNLlMg1pW4uiiNVw5bEFdNu7wuxvdY4Sf9KuICqiZSTH37TITifviKbEB6YE5grBDn+2VtVb7aVnkBrkEheVD/PvROy3PZIgqd9r+7fHCi4mUHW7ZKK+aLCnsVn45iw5qX74sj8atXoYCYnGBnFQQi0hQUqDkRjhHc3y52z0PvNwMhO6QF/lfjYO2LKrA5erOXF/rgsr6aJxIfHpa5UFvnsYqA5K2nHemrpK0IU2qMmW0ViGcLe/Oq7evkyJXS/o9vIYsC1lgTbXiSPnid4fwoTumu/LKm0K9YvyApzCCpRVl4v7jA69go6wIEmp2dhrmnlzVYFSc49JL2Ri2AWDlnQYYDx3drTsOISdWrnYd7Dw/qW+fETkdkwyh9QNYm66ducjMVNP3nPGmIjteBAVeh6b+WWxQdZOyVUqxRlH9Md7Dx6PDuyE5l5s8wl+mvKoQG15CLg==;iwYxpEwHQHfGDCoR1sgEFQ=="
 ---

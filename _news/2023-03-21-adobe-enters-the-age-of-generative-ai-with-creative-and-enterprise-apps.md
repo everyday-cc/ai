@@ -253,15 +253,6 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 21
-  - title: "You can’t stop generative AI fraud"
-    excerpt: "In order to combat illegal activity, we’ll have to make tough choices about AI and strike a balance between privacy and identity safety."
-    publishedDateTime: 2023-03-20T04:00:00Z
-    webUrl: "https://www.fastcompany.com/90867017/you-cant-stop-generative-ai-fraud-but-you-can-keep-the-criminals-guessing"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "Apple’s silence on generative AI grows louder"
     excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
     publishedDateTime: 2023-03-21T03:59:00Z

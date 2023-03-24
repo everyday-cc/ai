@@ -35,22 +35,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov"
-    excerpt: "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,"
-    publishedDateTime: 2023-03-20T04:28:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6417e675c4ae66004ebdc0cd/0x0.jpg?format=jpg&width=1200"
-        width: 960
-        height: 564
-        isCached: true
   - title: "Introducing GPT-4 in Azure OpenAI Service"
     excerpt: "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s"
     publishedDateTime: 2023-03-21T08:00:04Z
@@ -141,6 +125,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Better AI Stock: Microsoft vs. Nvidia"
+    excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
+    publishedDateTime: 2023-03-24T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
     excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
     publishedDateTime: 2023-03-21T17:28:00Z
@@ -226,6 +224,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
+    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
+    publishedDateTime: 2023-03-24T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
     excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
@@ -593,15 +607,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
-    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
-    publishedDateTime: 2023-03-24T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 38
   - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
     publishedDateTime: 2023-03-21T22:12:00Z
@@ -703,6 +708,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "Improving ESG performance in financial services on Microsoft Cloud"
+    excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
+    publishedDateTime: 2023-03-24T19:14:00Z
+    webUrl: "https://www.cio.com/article/465423/improving-esg-performance-in-financial-services-on-microsoft-cloud.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 21
   - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
     excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
     publishedDateTime: 2023-03-24T13:32:00Z

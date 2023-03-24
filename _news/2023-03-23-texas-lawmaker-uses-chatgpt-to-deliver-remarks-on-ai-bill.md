@@ -230,6 +230,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
     excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
     publishedDateTime: 2023-03-22T13:26:00Z
@@ -290,6 +304,15 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 17
+  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
+    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
+    publishedDateTime: 2023-03-24T13:36:00Z
+    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 13
 
 secured: "DMbynes/7YEOP9lSuqlhYcqu7qdhZOVHfdtAjfBbZuDmtTRtuHTIUQaYIfYpWg4GpgWUqRs5HpwAXeeGLbzxKnPXUCaGa0ga16CHFEKF0nq2HdIm4BxhKrXsbanPWW2uWvbWuEr0uA6EPnKAk8hayQgHQ6ybGTSSmrwMMfDOQjVf1eG722Bhx3wtuGgFRDDOGP0NyalC4OXT6wh7rZRDr8o4dBemcujWDU+txdDAYgJqdzuA7vvY9PkIZCNMBdChvfBh619+3JNOSfV4+AH26GZs34YsfUTyC/Ps+JemAGz54jskrXDMskXbNIOXuHc/EbD6UG+/C4DdeFRSudvtTiJJfMS/R4CyoBw1xfuche0=;Ar5d9Mb+dxytNu9hngs/sA=="
 ---

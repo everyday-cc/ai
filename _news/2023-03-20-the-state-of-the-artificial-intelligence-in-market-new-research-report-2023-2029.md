@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
+    excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
+    publishedDateTime: 2023-03-24T19:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/spain-machine-learning-as-a-service-market-report-outlook-growth-key-players-revenue-and-forecast-2023-to-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Premium Research Report Forecast To 2029"
     excerpt: "Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in Accounting Marketinformation for each End Users [BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing], Product Types [On-Premise, Cloud-Based], Main ..."
     publishedDateTime: 2023-03-24T16:01:00Z

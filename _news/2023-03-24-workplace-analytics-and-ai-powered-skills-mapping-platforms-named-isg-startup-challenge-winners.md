@@ -75,6 +75,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
+    publishedDateTime: 2023-03-24T21:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9783050.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "c8HIfpdB8siXBw2U/Yc7Pn8L/ml7JB7wq4QVAzDOFHU0kXpm5J+4wW+gT978rXgnk/y+jfI718YHNKf1qswT/rMirlhMFucKT8DOb9eSIfUmMuy7njxUU5DvCMIk9VLLi1AXBlzkFTpJlzGysbXkB4chQ9RwaJLx1k9RS4iIYSAzcwPIwGlcJeY1Vyq3eCa1e3/YkrXqANYAyATh6eN5hJrPmgRnHgdsfgJOg5fXOoSUehhviFzDs2LCc1+iFdma5p5FaBIr505/n72CJdpqo+cv6wlYzSGgMsea3kQ8A4xCARN5D9l5iat0s4Cne7NUaXFDSQlsV4h0uQMjvvHw0cp9ETyu4BiHmu9XiwBEOQhcBJrzokT4ePudh3nlFufukQBMUqD5UQR99GiTmvGOuAr3rTSJ5frDHyZf7VQ6mkHdABoyvz4Ob6AdPAlKnnX1/mJE8zxlW4IztK/SRr5vVixTUNXPaM2GCKa6BGRf9dGqKU1ec7lEvrRlg4wpnuXvs21/asDwwbQQdkF44RetQA==;VUto+2vSQKmro8rBR5Ikhw=="
 ---

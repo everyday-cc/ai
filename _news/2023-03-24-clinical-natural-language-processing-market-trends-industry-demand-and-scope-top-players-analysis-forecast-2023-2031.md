@@ -43,6 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
+    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
+    publishedDateTime: 2023-03-24T14:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Technology Market Analysis: Understanding The Current State and Future Trends 2023-2028"
+    excerpt: "Global Speech and Voice Recognition Technology Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www.marketresearchguru ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Analysis: Understanding The Current State and Future Trends 2023-2028"
+    excerpt: "Global Artificial Intelligence in Manufacturing and Supply Chain Market Report (120 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-24T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "ysKKmUFrft/qzCfjXEtJTTdr6I/R3Xbtdn1hU/aAOOXQyL2RZkXLPtezznQ2WVAn5bE/exhOsJYTqneynm61nUpeVzNC8kp18dRFpH/Y/uL5D+0lSL8R6ypugO4O1FN6zf8KH/D17WwHhg4Jzo3dGpd0Wqa+vRcDZkUbdvbuQaZdpQeOhnuwqWJYZf3VSkq5VBAVjngJv9Vpa+4NM0SqtHoK6VRYthV+Fz576kat3NrEnrh54By8H8v0XKP9z0oLP/ycscVqgJQpgqvMHDJPX8GoNP0qhGdR/Z1JIqrL9mOa3OmJr3947LUV8YshZT3zWnCiCtUm7MzvdZlGAWuQtZwJYAldhAZGGCjXhIBvZtA=;SUSQ1KUJVuqVJ3aw5Elqog=="
 ---

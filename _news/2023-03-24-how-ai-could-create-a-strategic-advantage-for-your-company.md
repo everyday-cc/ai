@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/03/24/how-ai-could-create-a-strategic-advantage-for-your-company/"
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/03/24/how-ai-could-create-a-strategic-advantage-for-your-company/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -17,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How Artificial Intelligence Can Boost Creativity"
+    excerpt: "Artificial Intelligence(AI ... In the country’s rural parts, even the main healthcare facilities, let alone sub- centers, frequently face appallingly low staffing levels and lack basic amenities (Weforum.org, 2022). To assist in this scenario, AI ..."
+    publishedDateTime: 2023-03-23T11:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-can-boost-creativity/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/11/Pic-1-7.png"
+        width: 665
+        height: 381
+        isCached: true
 
 secured: "IwHhFXRj6nE6G531exLkTkIV6dqxhxwfYwZ4RPWlhdeJXOUAMerOkGoTBRk84/2yNPdySlGKFFAnEdqdcEptjpVWxU5dm42xb+Y5KZ9LRNrR4JiQOtyv5BWlnokH22jGzw3NmFw/UC9LRj4Qrp6huDzv6Z9Sf03lL3leewMichuznQeLDeOPidNeOgw5xjVHzzX/nAaLDbw1VUwoeC6ixba1uf699n7egLlPSsXg8nB/V0+WzRjjS8qMkObSkOGgKIsq+KPfMUCyqAbrhbDjvaxmQbK10u39inEPEopk0nxh6zozRkZdKC1XpwBPBnmXqAbHBKRMeTjqMFgoQR3j0/Xa/nwLjV9Ln0ouAVbaoiBetsxGVLcjmsoHG6ZqkNXvugK40dpN9Xjln/Puw/J1qd/UVMwLx6tidx4m8spIvLFGSrRUUxuiE2lLKDTSk1R2tRcyHbyzBbwd4jGQhY/PHJyruxCIb2jnhholyfl1AsrHZeSsjiHPunVdK4Nr5dAsmae9ChsHziC2JMVhMPbVMg==;iUNV874rJ+kFITxP0bmngQ=="
 ---

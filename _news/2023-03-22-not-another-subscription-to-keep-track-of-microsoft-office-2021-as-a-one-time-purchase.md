@@ -27,19 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "KX Announces General Availability of kdb Insights Enterprise on Microsoft Azure"
-    excerpt: "Representing a significant milestone for its strategic partnership with Microsoft, KX today announced the general"
-    publishedDateTime: 2023-03-20T15:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/"
+  - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
+    excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."
+    publishedDateTime: 2023-03-24T20:08:00Z
+    webUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
+    ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 65
+      name: CIO
+      domain: cio.com
+    quality: 69
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png"
-        width: 300
-        height: 300
+      - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
+    excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
+    publishedDateTime: 2023-03-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/noahbarsky/2023/03/20/microsoft-ai-move-is-exactly-what-mba-students-need-employers-want-and-slumping-b-schools-dread/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
+    excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
+    publishedDateTime: 2023-03-24T18:26:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 17
+  - title: "Wes Anderson, Microsoft’s Defense VP, Achieves 3rd Wash100 Recognition for Accelerating GEMS, Cloud Capabilities for DOD Customers"
+    excerpt: "The two will also collaborate on the development of capabilities in classified cloud, artificial intelligence or machine learning, 5G.MIL programs and digital transformation. BAE, on the other hand, will leverage the Azure cloud to enable its Pioneer AI ..."
+    publishedDateTime: 2023-03-22T10:26:00Z
+    webUrl: "https://www.govconwire.com/2023/03/wes-anderson-microsofts-defense-vp-achieves-3rd-wash100-recognition/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 9
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-138.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Z8gMHzfrF2Wl2gvPY+7PjMFhaFGDkoJPVwHYBGg+Qe/VmPsaPF9MqMgBNc1nkIPwWDTr56jnBCM0Pgh0mG+0BErq4IKkuS9Hc3qhWtLSRot5FZYT7SsZ+kQmac595ff/ZU1jR5IP073x+RFLNqviZ9t12kYGGYojx0wC25ddelB0Y8c508B5bpgmNyZyBvcF4Jxj4Zaos5AJX8JTrd37kmhNLS1hbIgmZbmR7JTxt0O0TWsfZYd134oIK9eje5eEU50I9ufk1WgXQzsm2N4umOEoMow4nGEBUkUhf6aQJRomP8t3SWoQD84N8uRakxWRffZlg9YrvwH5v5uLYrnlwLEWS3xyRlNJlC9AYerZpUzVb+kNJX4zhGMnYo8PMmQkz/s6QcBKjk82sbIKV7IIKn41sceA85/d3CSnnup3lHTArzdvlcMOS5HNn39s7GUSde2vhh3GO7uj1ZckRy22L1zsaU6oQgJC8Wg3V4EoKnaeS7vNlH9t6cYraLlp/BhmfdF1Yk7og5mu3317OiG07Q==;Wm8E+gnjIioXstuilPXMdw=="

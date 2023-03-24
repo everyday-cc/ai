@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerat
 webUrl: "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Creating magic with Coke and AI"
+    excerpt: "Forget all that future dystopia stuff: now you can use AI to make your very own Coke ads. This is Fast Company’s Brand Hit or Miss of the Week."
+    publishedDateTime: 2023-03-24T15:54:00Z
+    webUrl: "https://www.fastcompany.com/video/creating-magic-with-coke-and-ai/GR4wKIjr"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
   - title: "Modern Hire Recognized as a Winner of the Business Intelligence Group's 2023 Artificial Intelligence Excellence Awards"
     excerpt: "Modern Hire, the enterprise hiring platform that uses advanced selection science to mitigate bias and predict candidate fit, today announced it has been recognized as a winner of The Business Intelligence Group's inaugural Artificial Intelligence Excellence Awards."
     publishedDateTime: 2023-03-23T18:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-ma
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 88
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
     excerpt: "Many major technology players are [Ku Zoom.ai, Microsoft, Cisco, iotum ... Based on Product Types the Market is categorized into [Solutions, Services] that held the largest Cognitive Collaboration market share In 2022. With the aim of clearly revealing ..."
     publishedDateTime: 2023-03-22T04:43:00Z
     webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-share-and-forecast-till-2031-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market Premium Research Report Forecast 2023 To 2029"
+    excerpt: "Also, it splits Artificial Intelligence and Cognitive Computing market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by highlighting ..."
+    publishedDateTime: 2023-03-23T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
     type: article
     provider:
       name: MarketWatch

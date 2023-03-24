@@ -77,6 +77,15 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 5
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
+    publishedDateTime: 2023-03-24T21:24:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9783050.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
 
 secured: "ioPg8rpatqqLXMyW0lrVFKQcTZb2KdUWfjydFJKucFHNIbGbK25HDfeQgyrO8jW+UxyOLA+hUhOjyS2dGseMy2u8lJCTwABX/bPVCEl0Uv2H2uy0hMZZqFsqVKYM8GxMkFqoUgIHv9l4WePCK1fVLu+eQ2I8Frt0UwgEA3WTbOzTKnZGWqYFAUsyt7icr/9paeRoESgorl8WA8utnfSdZWe7okidcvEE4bRrEB5Un5OwVlt+dyD1/31koa28cmdrou04wmyXhgZIzjWj6hNsZLBDP4mQm2XNoz87CtWyOnHJ3yqM/1R2T0f6fd9JwuKuM5HxPxrCwj02LSro/AiIwkXtIagWxcqGCRTLVmeilzkp3JICsZOh9Mt3licNxwRQY2c4I1M/ZN/3p/Um5LN7TLn305ANRBro24JP/57R6MX9QWaZdTVYzjBTGuccP/8dP4glddMi8KyU121ylbpoMyi76Ja4gkl422b0lKKJQBWjjriFWHmpxT+bAVL0/1HlCUEaWPLLNp03RrFxxTs+UA==;zuIaEDy50wFwz7XjSnRKzA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-24T16:20:00Z
 originalUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
 webUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

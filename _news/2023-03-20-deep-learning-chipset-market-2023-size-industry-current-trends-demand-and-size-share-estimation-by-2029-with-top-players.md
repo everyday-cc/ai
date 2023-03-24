@@ -192,6 +192,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market Premium Research Report Forecast 2023 To 2029"
+    excerpt: "Also, it splits Artificial Intelligence and Cognitive Computing market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by highlighting ..."
+    publishedDateTime: 2023-03-23T18:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Chipset Market Outlook: Predictions and Projections for 2028 And Beyond"
     excerpt: "Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration ..."
     publishedDateTime: 2023-03-20T19:39:00Z

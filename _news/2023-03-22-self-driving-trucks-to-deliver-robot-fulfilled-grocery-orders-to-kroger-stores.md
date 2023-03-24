@@ -36,8 +36,8 @@ related:
       domain: seattletimes.com
     quality: 4
   - title: "Kroger adds self-driving delivery service in one of its large markets"
-    excerpt: "Downtown Cincinnati-based Kroger (NYSE: KR) has partnered with Mountain View, Calif.-based autonomous vehicle company Gatik to provide self-driving vehicle delivery service in the Dallas market. The service is slightly different than what Kroger is already ..."
-    publishedDateTime: 2023-03-23T10:41:00Z
+    excerpt: "Kroger has partnered with autonomous vehicle company Gatik for \"middle-mile\" deliveries from a distribution center to stores in the Dallas area. Kroger Co. is expanding its driverless vehicle grocery delivery services."
+    publishedDateTime: 2023-03-23T10:39:00Z
     webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/03/kroger-self-driving-delivery-service-dallas.html"
     type: article
     provider:

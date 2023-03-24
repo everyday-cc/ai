@@ -23,6 +23,17 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "Cerebrum Tech made its debut in the world of mobile applications with Cere, a virtual character powered by artificial intelligence"
+    excerpt: "Cerebrum Tech, a cutting-edge technology company in Turkey, has unveiled its latest innovation - the artificial intelligence application 'Cere'. Utilizing a deep learning-based language model, Cere allows mobile phone users to communicate through both text ..."
+    publishedDateTime: 2023-03-24T16:22:00Z
+    webUrl: "https://www.cmswire.com/the-wire/cerebrum-tech-made-its-debut-in-the-world-of-mobile-applications-with-cere-a-virtual-character-powered-by-artificial-intelligence/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 0
+
 secured: "hqk60qHQQyAWGFWQUe1uQu7Naey+y9KTDdGqyp4+AdbTqvMqj33YcBSRDgIZ9uNxqEGaWZtHK2NLrJGuPc9R/uUer79Wbw8EwEEbrmr7Q4pfffXi1GDcFerp0shNV313teiZS1lwWX6dmfeWmWHWe6XV2T0arT+VBPDmeRVTjd+xdh0lLKmlSywdaS2qlHepCMInxjKpelmiVwSYlj6lVGyyyDw2fInlEsAIfPcTrlFwjLTmMtyxE24pBSwO9lLSnrvDku/DN6dDW91Vn36PCCYIEvrZjPdh1BsDaZ3orzj9YIZTpbKv84COI+x13Xm1wWDMVuIgI2Zqvxfv/iT/O2PjgOocK0va1WG/MRjYpj8=;FhN8SBhvt70orDOUNLbefg=="
 ---
 

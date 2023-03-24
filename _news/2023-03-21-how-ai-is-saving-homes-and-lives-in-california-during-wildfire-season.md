@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-is-saving-homes-and-lives-in-california-during-wildfire-season/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "California must address failures of Tesla's self-driving cars"
+    excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
+    publishedDateTime: 2023-03-24T18:01:00Z
+    webUrl: "https://www.desertsun.com/story/opinion/2023/03/24/california-must-address-failures-of-teslas-self-driving-cars/70030399007/"
+    type: article
+    provider:
+      name: The Desert Sun
+      domain: desertsun.com
+    quality: 34
   - title: "GM's Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
     publishedDateTime: 2023-03-21T01:32:00Z

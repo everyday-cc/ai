@@ -244,6 +244,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
     excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
     publishedDateTime: 2023-03-22T13:26:00Z
@@ -290,6 +304,15 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 17
+  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
+    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
+    publishedDateTime: 2023-03-24T13:36:00Z
+    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 13
 
 secured: "FkZ7ADMK/40/LT6+Skr5Ap4pd1OP93AENlOo+fd4rK181rx3MsqEn6rUcPTqzazYvkDBlVYR46MLir4DxLyDUYzZnHQzHNaX7wUlEuvPC+UXMQtjvtI1je//FZqa/KZUB5dWnnQnCK5BHe69vXwsHJK5ihVdaHEBWNf+8nNrWCTwMJmtuubzIBSmbGGcTwg3OZ+JGovq9MgPJFscE9WiObzISv/c6TuiwHt+qJY9em9FOcBnw0wu//Eq+VEKguPdwe4X392lzSdALS7ryyQRHj0X4zmjmJwJIlyffRSa9IVrgWRpmQlCtogbsdkdJm3iySue3rPx99n8PwKjIN1XpXAvQM8EEHFTL2rRyKY4eME8p/6Yd6qnHj0f2NUEhMC7x2oM/kV2sonwNEjGOlHx6R4XVV8D+EKb947WdTisjjv1mZ1REvCGE9i72VqJqui/U79rRQyUZTjgNqIhel8si++HDvoBpRVZIBxXIOGvDF1CNNGaVj2MlH8e/tI9mK8d2MsXp01YIvq4mtiX35OQxw==;Cr8yFQcpA/yI8vy888L9rg=="
 ---

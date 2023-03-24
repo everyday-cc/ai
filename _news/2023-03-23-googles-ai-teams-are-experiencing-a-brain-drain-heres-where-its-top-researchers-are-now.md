@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-resear
 webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "If you haven’t tested artificial intelligence and experienced its power, here’s how"
+    excerpt: "Hello. Meet ChatGPT, an artificial intelligence invention that you can try for yourself. I’ll show you how. Microsoft Bing offers a similar artificial intelligence -- or AI – tool. Last week Google introduced its version call Bard. I’ve tried all three."
+    publishedDateTime: 2023-03-24T19:16:00Z
+    webUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-tested-artificial-intelligence-and-experienced-its-power-heres-how/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 11
 
 secured: "bgr0KeY9TZAdXzTT4qI61Kt1tiBXaD5lE2jHY0nlClQJKsi4LC6WYSPLPbt5QXXfWsj5Tk/rb+BIgh4jDT/DLrBxD0ZGsP1tFI2UPKXA7OJM81TdNeEJQRgMrcrkxfoKHIGHdJKVNXz2M67qQhnL2UUNLVOQhxlhoNn5U+XO3norHaqIIbw4oDEJjajnz2cv+/TOR/gNDsmEmPpWtWZ+VScbJazo59QIvAgW/acidrAUR0FWfJBMzO0N+pSx1ayXwxG326spYpvukuQTvSqZ8zyZDebl2JpORx9CXxND2WEGaxsuEHicmSfKfN6w7oX7an67EVkJo7w4h/sdcdhtFeHKIEee3XgNeIcqOUJ6VFsqPYRVyUgW1Yx36+gjcgt5aV1S535WInIAWtL04ga4i4JF5XLST7xIVegIhHFj81z1zclaANS9V88WbzllxncszquM+v6tCwma8mcDHGExva20AF7p8xZXv+QCclORnHpRKNkZjJCMDtSU6MfR6Tl6jnZW07CIY8LU1BPlAOfA/Q==;XnUAPpDYc1S6ikJchE2mhw=="
 ---

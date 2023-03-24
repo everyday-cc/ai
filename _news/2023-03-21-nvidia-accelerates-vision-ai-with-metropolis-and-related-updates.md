@@ -611,6 +611,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 19
+  - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
+    excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-dgx-cloud-to-offer-gpu-supercomputers-as-a-service/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "Lilbits: AI everywhere, aCropalypse and the Windows Snipping Tool, and NVIDIA’s new GPUs for mobile workstations"
     excerpt: "After spending 5 years as the head of Intel’s graphics department (spearheading the company’s drive into discrete GPUs) Raja Koduri is stepping down to launch a generative AI startup. Koduri was previously at AMD and spent 4 years stint at Apple."
     publishedDateTime: 2023-03-21T23:04:00Z

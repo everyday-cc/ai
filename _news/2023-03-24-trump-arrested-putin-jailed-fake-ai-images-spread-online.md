@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
+    excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
+    publishedDateTime: 2023-03-24T18:27:00Z
+    webUrl: "https://tulsaworld.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_ed112bb7-6c67-5b5f-8871-22b6c3a25483.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 19
 
 secured: "vAcv92jIhUPBhxQ2+OFwYXh8VFsPzk6csaxrBIl3L7e/uLit7eVc0O9rvDEZiQZNdS47zJrisuOPFt/rhhQBZEnNJh3zVyAkreILiQoXkzI0nC/4E4tcwNbi2ZUD7WX6S77zHzJRRIlEJLlZjgMdPK6+U6bfhfLfT/GMfRf7ZiXaVvoImmi0H/v9w2iMKkK3ZEwDnjsQelfM5IUDD5LINTP3JExtLNbs3clTKupeScgj/xMnpCnDR0lsSWaNtjK+krMNW1L6ogY2jmDOoJMb5AJBayuYODLJfyj/XX5cdLNJ3nt+iYlbp0tFzKStEIiNOQ7iMVjngIiLhxzuh4Iz46uxv7TmWG4htxlg9ymjuajWEnKVrv1F9bOx1KFeLjLahGeup8ZF7xLSSgYnEmS50xTHnsV60qSMrdOJ88U+D/6IjlWFmlYlfbUDNA+YdnkM3lsNkNywJn6E1lM88o6J+bN1DwEM63hhbF4sEZZXiexrjq0jM9R3GF3vdkUaDAS+XxltcGP3Pl+XBQDNFUb4ow==;Fx0bYIKreyj2nYmr7zEcNQ=="
 ---

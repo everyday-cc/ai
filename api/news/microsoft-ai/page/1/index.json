@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-25-how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.md",
+      "title": "How retailers are empowering business transformation with TCS and Microsoft Cloud",
+      "excerpt": "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html",
+      "originalUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/",
+      "publishedDateTime": "2023-03-24T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-this-week-in-xr-gdc-wrap-up-luma-3d-ai-raises-20-million.md",
       "title": "This Week In XR: GDC Wrap Up, Luma 3D AI Raises $20 Million",
       "excerpt": "Luma AI Raises $20 M Series A led by David Beyer and Mike Dauber ... Nvidia Teams Up With Microsoft On Industrial Metaverse. The Azure cloud computing platform will host Nvidia’s suite of internet services for building and operating hyper-realistic ...",
@@ -170,7 +213,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -276,7 +319,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 642,
+      "heat": 652,
       "tags": null,
       "images": [
         {
@@ -618,49 +661,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure.md",
-      "title": "KX Announces General Availability of kdb Insights Enterprise on Microsoft Azure",
-      "excerpt": "Representing a significant milestone for its strategic partnership with Microsoft, KX today announced the general",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "originalUrl": "https://www.datanami.com/this-just-in/kx-announces-general-availability-of-kdb-insights-enterprise-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/03/KX-Logo-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -20,59 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
-    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-03-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
-    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
-    publishedDateTime: 2023-03-24T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "OtnfDe0vrBihpHIf3yow9c6Qqg77C4/saek59VRGXC26qzA6VRC3qtC6M6fJfXm2CwK+lrRoNgl6fKBOiECd1ITnAgTRZQSupymY1OOGVM5zOvXf12iMIAV3BD7gFje398+VorVsffFt0frGW2EK2ZtNcbKWEDF6+hpeb3JvL7wdvKPq4apa0s/RBEqm9GWHvN0h/8JWzcy3DYE9v1/bzbWQI0Ul0GItX88U4Omfw098LWskHIRYIuMVXAuaNAy0omDSXYp29iugal5gPHxFjM7W65Wtq4abXib2v4qTeyynbeBdSkR2ynwRNxG4esAGEeqCk4t+IG3buFMVSIAy1iHG/dOs6YhZ9qVZWu3fw14=;W8EwvBCBe4vR+IIDo08lPw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1009
         height: 672
         isCached: true
-  - title: "A Fintech Leader, Perfios Wins the ASEAN-India Business Achievement Award 2023"
-    excerpt: "Displaying world-class capabilities, Perfios has pioneered ingenious AI/ML powered solutions by leveraging insights ... Perfios' Insights, a Fintech solution that employs intelligent OCR and Machine Learning, transformed the lending practices of Southeast ..."
-    publishedDateTime: 2023-03-20T03:04:00Z
-    webUrl: "https://www.asiaone.com/business/fintech-leader-perfios-wins-asean-india-business-achievement-award-2023"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Mar2023/Perfios_Wins_AIBC_Award_2023.jpg?itok=vnPUkF4m"
-        width: 599
-        height: 327
-        isCached: true
 
 secured: "bKtfRCSB1eSTd8NBynzOu5mXLg6awWRUB0F8f3z2swZwwTmWfNzrf0yr92yeW4djLg6vXnlisvykXXZc7IgFP4apkWkr1wGch6kNs/IGLrXioDcBTIHgS8XbMxPRzqqxFsGaQUtB8oq4/Pggd19G6/bseYkKSWib2Uz0qSgLf9UjmhJsp+YhFz4fiGv2XgpxRjzjGH5Tv6svjUbx0psmMQ3DXId9QKI6efhPqvHadbCwJH3cCnnPNcKv3xGSNj7MQr4f4juQ/3IWL7TI1aTgenmyeJ0bEv9LkOZEtrph17Pr5/VTX2tcVe6WMBeUT6BpqkIhcOyC+TENhFByWg/Kz9O/leV464VUzU0vpRQcS04ZS15hw+ugNX5F1N9Y4lm1Sv9GVYjLP7NTXOt47DazX8ge0vI/ViD8gT3nJOcseNcdvpGhzqXNBJty0tbzBdcbn92iMYBomgVxwq/MoeQQADvsYdM6azFE+HJD4YR6zykOq5VXx02/eyJctiiTuSHpR/TknhltY9EgnjEEHFGRqw==;2Wbh9BIRRqmDXz/v0oV6EA=="
 ---

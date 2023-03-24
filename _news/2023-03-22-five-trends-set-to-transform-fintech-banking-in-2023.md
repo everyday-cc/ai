@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the next frontier of growth with the modern FinTech Stack"
-    excerpt: "Find out the key elements that make up the FinTech stack, and also delve into what’s powering the new-age digital challengers"
-    publishedDateTime: 2023-03-20T03:58:00Z
-    webUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/"
-    ampWebUrl: "https://www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/unlocking-the-next-frontier-of-growth-with-the-modern-fintech-stack/amp/"
+  - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."
+    publishedDateTime: 2023-03-22T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-fintech-market-report-informs-users-about-current-trends-and-their-effects-on-the-market-as-well-as-useful-market-insights-2023-03-22"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 10 Investors in Vietnam Backing Emerging Fintech Startups"
     excerpt: "A look at ten VC firms in Vietnam that are helping shape the domestic fintech market and which are still actively looking for investment opportunities in the sector."
     publishedDateTime: 2023-03-21T09:05:00Z
@@ -78,6 +81,15 @@ related:
         width: 400
         height: 356
         isCached: true
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 5
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z
@@ -96,6 +108,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T18:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/24/9782853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "D9ragZo1C0Xq+DM2glxBun+aT7OscPW6vetrcd8I25FQ2jX9d4mO+P2onYhiS/UxldxJhyEKOnu6Kx+jueHFFH5l2yLTXjR0djHZgOlAGVvDKoIv/4IHjLpSzONsA9j8xBDiFKX0o2xxwjWsWFBXMy/IDQy/0c8dMsxCiw1djyKlK6TV94g43THMqC2Zli+YVUECrF+UOdfwXC5VVq+m3wzVrU+m1XAF68WckHD610A7i5Sbh6TCkQe0WEZ6547zuhm40lPcvjnQU4yFPeucUzOtZSETV8Lxxjm6DqnBlcxJSR5hJ7fbONCod2TK5yS0idOqfrpCH1IJxD0buYVWF4zhNW5dmH+rYWwUzp1QZ7w=;0A6ACzKZP/bLIIQWNGAOhA=="
 ---

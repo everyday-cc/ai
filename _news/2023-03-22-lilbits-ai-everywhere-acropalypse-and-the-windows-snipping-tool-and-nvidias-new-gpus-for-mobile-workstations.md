@@ -619,6 +619,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 19
+  - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
+    excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-dgx-cloud-to-offer-gpu-supercomputers-as-a-service/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
     excerpt: "New Amazon EC2 P5 instances deployed in EC2 UltraClusters are fully optimized to harness NVIDIA Hopper GPUs for accelerating generative AI training and"
     publishedDateTime: 2023-03-21T15:32:00Z

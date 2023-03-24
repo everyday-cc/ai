@@ -165,6 +165,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Mozilla.ai Startup Debuts for 'Trustworthy AI'"
+    excerpt: "Mozilla, with a mantra of making \"browsers, apps, code and tools that put people before profit,\" seeks a different way with Mozilla.ai. As of now, the startup's web site basically consists of only this: [Click on image for larger view.] Mozilla.ai (source ..."
+    publishedDateTime: 2023-03-24T21:32:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/03/24/mozilla-ai.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 37
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0817vcrm_CrankyAdmin.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "N+N8XV5IXmMGI/6OZodxM6ACx6vEHQrfAqs0CW+hEzTMmNgboqczy3QtE1t3Ze1IdRHUJbyMn2thfESIizg1H1jKv32qJVpsMQR7PZpx3+MO69WBPqeMlpfhteUiDmgHCSJI3rl9gNpu+jo9N1WwyUfiRA1Ky83Nwhmxo09mTIi9FzDtpl60cHK2DO4hVPfw32JcaDre8dzuBPy0Cew1CuBUEYygqkSOHhEJIQ932ct1pYQnZ2XF2T91ghsQJ/dKwdMhCnFtvN3bj7m7BQ6fANQwuet9dH7Ickh3Onm1jcPmPS6j6Il/lxbTBftbod/n8VUzkmVO9wsXFPi+pFniLlXp+vb6gaHr4VbFxvE5s35E8HnA6oAkwxtifl/vBwvLuEJ0LmZQtR3Pq5/1pJeSdoqCRlEQjRIjirW+Pq0anRwGcfPesPvF77krsXREdENwggJHEOQRPFs9fHQAkOxzqs97uRCuLYbHmu+xBpxAcQNMdTlamN+myMXX2eHMB8Aq7RvTfzW55isSvFoeE2K+1w==;hAtq+u9RpYMbR6MYNKQ/tg=="
 ---

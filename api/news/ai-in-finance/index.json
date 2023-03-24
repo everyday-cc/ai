@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -222,7 +222,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -274,7 +274,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 238,
       "tags": null,
       "images": [
         {
@@ -664,6 +664,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference.md",
+      "title": "Chat GPT and Bing AI chatbots to be used as panellists in world-first at fintech conference",
+      "excerpt": "Artificial intelligence chatbots are to be used as panellists for the first time at a fintech conference this week. Chat GPT and Bing AI will answer audience questions alongside human panellists ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/",
+      "originalUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2023/03/Chatbot.jpg",
+          "width": 916,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/chat-gpt-and-bing-ai-chatbots-to-be-used-as-panellists-in-world-first-at-fintech-conference/?amp=1",
+      "publishedDateTime": "2023-03-15T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1432,59 +1475,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
-      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
-      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
-          "width": 4846,
-          "height": 3620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-06T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

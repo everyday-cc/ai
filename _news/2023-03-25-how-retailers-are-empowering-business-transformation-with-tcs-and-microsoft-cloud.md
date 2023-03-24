@@ -1,0 +1,81 @@
+---
+category: news
+title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
+excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."
+publishedDateTime: 2023-03-24T20:08:00Z
+originalUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
+webUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
+ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+type: article
+quality: 69
+heat: 109
+published: true
+
+provider:
+  name: CIO
+  domain: cio.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+related:
+  - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
+    excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
+    publishedDateTime: 2023-03-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/noahbarsky/2023/03/20/microsoft-ai-move-is-exactly-what-mba-students-need-employers-want-and-slumping-b-schools-dread/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+  - title: "Not Another Subscription to Keep Track Of – Microsoft Office 2021 as a One Time Purchase"
+    excerpt: "Today so many businesses and products are based on subscription models. Apple Services and Apps, Netflix, Disney+, your gym -- you name it. You simply"
+    publishedDateTime: 2023-03-21T19:30:00Z
+    webUrl: "https://www.idropnews.com/apps/not-subscription-microsoft-office-2021-as-a-one-time-purchase/192904/"
+    ampWebUrl: "https://www.idropnews.com/apps/not-subscription-microsoft-office-2021-as-a-one-time-purchase/192904/amp/"
+    cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/apps/not-subscription-microsoft-office-2021-as-a-one-time-purchase/192904/amp/"
+    type: article
+    provider:
+      name: iDrop News
+      domain: idropnews.com
+    quality: 50
+    images:
+      - url: "https://cdn.idropnews.com/wp-content/uploads/2022/02/02140848/Microsoft-Word-on-MacBook-Air.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
+    excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
+    publishedDateTime: 2023-03-24T18:26:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 17
+  - title: "Wes Anderson, Microsoft’s Defense VP, Achieves 3rd Wash100 Recognition for Accelerating GEMS, Cloud Capabilities for DOD Customers"
+    excerpt: "The two will also collaborate on the development of capabilities in classified cloud, artificial intelligence or machine learning, 5G.MIL programs and digital transformation. BAE, on the other hand, will leverage the Azure cloud to enable its Pioneer AI ..."
+    publishedDateTime: 2023-03-22T10:26:00Z
+    webUrl: "https://www.govconwire.com/2023/03/wes-anderson-microsofts-defense-vp-achieves-3rd-wash100-recognition/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 9
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/03/unnamed-file-138.png"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "YvFl1gu9QUtQgQbAcXjCgdeazshjvi00LpwK1X10NTPpxyT+VdvpgjtI6P7cvfCU9kC2zonMI3l1nw2i2aJEJ5XKKlASQn1GOPzO1JF22fWZTvtPHGPurQ0SjbC5skJpxp3cMFZks8WjJbsYQDQKjuLn5AoUFmqylUxofhBqoTF4i9DX4VYaU0FdLIwX1TuJXGN0ujAq/85TOEqniG6cpJiCrVgj1palK+PUz24eTnj2TOJmsbOaKjwsee7q7jAAo05wIA6fQGysfUSQebeBXO+nuv5c8wQopu+peN/C8URzKZjorqO3G/yW5sU+WOdNFbt5KkuGWjs0TvAB9HgnNI+lY7FGccINaEcd89OPMXg=;BpTUhHGh53OhbcVQyFv6ZQ=="
+---
+

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/3691649/how-training-and-recogniti
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3691649/how-training-and-recognition-can-reduce-cybersecurity-stress-and-burnout.amp.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: CSOonline
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity funds should go towards beefing up Centrelink voice authentication, Greens say"
-    excerpt: "Shoebridge said the government should also audit agencies using voice recognition to ensure any further security flaws were identified and fixed. “The government’s main objective with the use of such technologies is to cut operating costs as opposed to ..."
-    publishedDateTime: 2023-03-20T04:27:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/mar/20/cybersecurity-funds-should-go-towards-beefing-up-centrelink-voice-authentication-greens-say"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 13
   - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
     excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
     publishedDateTime: 2023-03-20T09:24:00Z

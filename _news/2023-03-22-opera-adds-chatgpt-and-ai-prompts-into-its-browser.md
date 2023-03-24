@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
 type: article
 quality: 87
-heat: 277
+heat: 297
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
     excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
     publishedDateTime: 2023-03-22T13:26:00Z
@@ -293,6 +307,15 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 17
+  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
+    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
+    publishedDateTime: 2023-03-24T13:36:00Z
+    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 13
 
 secured: "IIbG/oKjG/4uRvVYj1Hq1aaHf9Mkv6ovL0duyjtF/AqwUTknXOv8V1idlYV/O9HKQpEpkPYAY2geeam+CzWRPpcCkbXRPS5ApXU71fEb0rpLlyoayq9zs/ItHdpaDaN4DtAo9mM3X8fGGqAeFcJsvE6FO+xQ69VIswXfXrikFWsjk+cuAg2ZDoltEJvwjWkoKL8bqB5o4x1O52hNmW0oxqFrXRdMtC2wnmmWx8nNXCjWqN/kRVLA7H91QuOovDJJPKkLFGAPyqie6rEG54/V49tGhg1v5ccbEpeyGp9wWJ2cFJ3zzyXDVGnX00bVY1nZlsJtceQM+uiG4sfzmGIEkYj56aHiZFv4WRFuHsECd2lNxO8vFbms639OgbMLAWrPhYyf2QqbjESZ4V3ysrk929zV31aNWa7nHt0WH9CWsPH6QCKY3moWvYMU+aJ1iFkp7Sxvpf3HBuyGN9tfChKUaHXa2pGsYfg8Ukc0f6imtJOcTfwrFj5XmFfb5K8l2IUMTxe/QdMmi4P6mGyegr0Q9Q==;6RpXynLtpDi2hF3lV6nefw=="
 ---

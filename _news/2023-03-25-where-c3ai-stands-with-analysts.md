@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T19:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/where-c3-ai-stands-with-analysts-1032191753"
 webUrl: "https://markets.businessinsider.com/news/stocks/where-c3-ai-stands-with-analysts-1032191753"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

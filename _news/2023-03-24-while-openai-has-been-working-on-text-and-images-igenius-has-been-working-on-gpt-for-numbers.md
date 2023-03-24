@@ -5,8 +5,10 @@ excerpt: "And with algorithms, natural language processing and user-created meta
 publishedDateTime: 2023-03-24T13:20:00Z
 originalUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
 webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
 type: article
-quality: 38
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +23,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps"
@@ -38,22 +47,6 @@ related:
       - url: "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Google AI And Microsoft ChatGPT Are Not Biggest Security Risk, Warns Chess Legend Kasparov"
-    excerpt: "Despite the rapid advancement of gen AI, chess legend Garry Kasparov, now an ambassador for the security firm Avast, explains why he doesn't fear that ChatGPT will create a virus that can bring down the Internet,"
-    publishedDateTime: 2023-03-20T04:28:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/03/20/google-ai-and-microsoft-chatgpt-are-not-biggest-security-risk-warns-chess-legend/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6417e675c4ae66004ebdc0cd/0x0.jpg?format=jpg&width=1200"
-        width: 960
-        height: 564
         isCached: true
   - title: "Introducing GPT-4 in Azure OpenAI Service"
     excerpt: "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s"
@@ -144,6 +137,20 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/03/Magic-Presentations.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Better AI Stock: Microsoft vs. Nvidia"
+    excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
+    publishedDateTime: 2023-03-24T21:20:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
     excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
@@ -698,6 +705,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "Improving ESG performance in financial services on Microsoft Cloud"
+    excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
+    publishedDateTime: 2023-03-24T19:14:00Z
+    webUrl: "https://www.cio.com/article/465423/improving-esg-performance-in-financial-services-on-microsoft-cloud.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 21
   - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
     excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
     publishedDateTime: 2023-03-20T12:15:00Z
@@ -717,6 +733,6 @@ related:
       domain: moneycontrol.com
     quality: 6
 
-secured: "oomRZFMubkyNh+c4gAyYZZLQ34axL/dBdV9d6bdJOyoGV3KkT6G+bKfL5aOmOSZR24TdutSlC5hBn+6X/ZnXYhso5h1J2FePvZYokDORaizhjpu9xiQy16QuIh9bTV0eSVj9LBjoGkp7r7frBXYp0fA4MKa+puV+XwxMeJguauSbWBFi3RFo3HEqrfgYiCEN/5CvuZmeQ7IXgi0T0bBFrIhhdoa9OaTeBkGTgFGBZ3EH16U6Jptvu3F+8FbDiRrSuDmXhpDp/LDLRIY6B8ze9JFhx1OIIuc6lJkY7kD98mRRE4mkx+3Dpl0NMh5QDsIUuwB4Rh49jPYYZ9M7fCmwFdzvGrMjn8HWh08/L7gASwuFhdnpZMGFGFMSf33jBE99OkfbmgV/w/IR8Nu1rZcdlfK/gWgU9syhfwemH/bEHdmJzvHr2+yKL/FCAJvyxtMKgu3nbL8Ww41ZVOLuXN4qD0oItgC92/vrh3WF3X2HnGdgrJcKHWbnEOyR4prSGz2ddxSHeiqoKe7KiDXWNg0W0g==;Kc6m7FEdXTQFqmhpn35lsA=="
+secured: "vmg1YLvHng8Yh0+lGeWT+5egTf+iCgWCTdD+hhYv8h+XcL1CKjljpwc2HqubylAl/vZc4tKVzdH5HNlMeDONY0hH9/V4K0oHKnGNI9/j9uJuw6ghzjIj5oX/l3mSfcAQ3b0EMnsiN5pxJLfhCaK83KUmThe+bZTF3X5euXAtb17kNjZCHBJq8tMFe+3Io/Z9WEKkeusJymtN1Wb+OubnBve0XJTn3Cy/rmwa1qVws/hRDqY7OkWZ0LMm/Lql1EuKoM6XAEw2UO+r6NlwJpUOqeWm+PcoRkl7yAk+Ca7lsaP6bm8vJHYW6wtjOgmnlmCBo3wcH/ZkkF4qfocF0j9ikJgVi0CbbQt/zAJvM1GPIn8=;VYIkUM2SiPFsMOD+h4Bdqg=="
 ---
 

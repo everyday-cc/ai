@@ -23,34 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
-    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-03-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
-    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
-    publishedDateTime: 2023-03-24T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
     excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-03-20T05:55:00Z
@@ -65,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
-    publishedDateTime: 2023-03-22T03:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "Yp8iS9GxvtqUZacY4fcxdj62EoPl0xSi/CO4W5XgwjZHRu7Px3KG5jms05/g8gE29HVd6Ngg0cTmBhZJHDYY9dPdCfA9TVi9MaDXW+FWxTEmlzkqSoUWyoiF3m2NpSzUI0VTBJFI07tH5XEhGxvF2FUGU8mYmyXyjOcUzH7Dk+khcSRjKie9/HKgg8kciWETrIbF7K5/P645dxs6oB8jeU4urhtms/RWgQPzP8Au5M4q7RLdt+VzUp35w1VayIgkE69+SUh3qVCfN38VX+ZOQ4qlpa/nXZ8q0SgRSbMUcPtpruvjRLu/OtrjnfdgrW3CJzFke78rzA8lz25F12rj7FazPQ5azwMermn+7Zsptx0=;GN6xR4er0gqmomY2HUo55g=="
 ---
