@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-23-lenient-rules-for-biotech-research-put-the-world-at-risk-will-ai-do-the-same.md",
+      "title": "Lenient Rules for Biotech Research Put the World at Risk. Will AI Do the Same?",
+      "excerpt": "ethics and public sectors to review and give guidance on the creation and evolution of AI programs that can be intentionally or inadvertently used to harm or control others. As Kevin Roose's story shows, we can be both pleasantly surprised and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
+      "originalUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2210251/chatgpt.jpg",
+          "width": 3000,
+          "height": 1999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
+      "publishedDateTime": "2023-03-23T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
+      "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
+      "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 389,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
+      "publishedDateTime": "2023-03-23T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-modernize-your-apps-and-accelerate-business-growth-with-ai.md",
+      "title": "Modernize your apps and accelerate business growth with AI",
+      "excerpt": "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png",
+          "width": 660,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T00:07:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-canva-can-now-generate-custom-templates-thanks-to-ai.md",
       "title": "Canva Can Now Generate Custom Templates, Thanks To AI",
       "excerpt": "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ...",
@@ -190,6 +346,58 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-computer-vision-development-market-growth-by-2031.md",
+      "title": "Computer Vision Development Market Growth by 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- The \"Computer Vision Development Market\" study describes how the technology industry is evolving and how major and emerging players in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-growth-by-2031-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-growth-by-2031-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1025,208 +1233,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
-      "title": "2 Top AI Stocks Ready for Bull Runs",
-      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank.md",
-      "title": "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank",
-      "excerpt": "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
-      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
-      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "publishedDateTime": "2023-03-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
-      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
-      "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
-      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-708535/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

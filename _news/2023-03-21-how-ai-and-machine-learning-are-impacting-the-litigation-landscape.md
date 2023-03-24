@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-
 webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Law
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Is AI Turning Me Into an Obsolete Machine?"
+    excerpt: "Artificial intelligence is advancing at a superhuman pace ... But it can also be applied to myriad other purposes. Start-ups are using GPT-4 to, among other things, instantly draft lawsuits against tele-scammers, teach foreign languages, and describe ..."
+    publishedDateTime: 2023-03-24T13:19:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/gpt-4-chat-gpt-ai-jobs.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 19
   - title: "City Tech Chemistry Professor Creates Innovative Tool for Distance Learning Being Used at Educational Institutions Across the U.S."
     excerpt: "but in fact a valuable approach to providing deep learning in science and engineering and expanding educational access. \"Our mission is to enable students to learn anything, everywhere. The pandemic challenged us to design educational experiences that were ..."
     publishedDateTime: 2023-03-21T16:35:00Z

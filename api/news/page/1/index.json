@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-24-artificial-intelligence-in-regtech-market-size-by-2031.md",
+      "title": "Artificial Intelligence In RegTech Market Size by 2031",
+      "excerpt": "Which are the driving factors of the Artificial Intelligence In RegTech market? Growing demand for [IT and Telecommunication, BFSI, Healthcare, Energy and Utility, Others] around the world has had a direct impact on the growth of the Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-size-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-size-by-2031-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-hazenai-a-ksa-startup-using-deep-learning-to-drive-road-safety.md",
+      "title": "Hazen.ai: A KSA Startup Using Deep Learning To Drive Road Safety",
+      "excerpt": "What changed in the last decade was several breakthroughs in the research, with seminal research papers published on \"unsupervised (machine) learning\" and \"deep neural networks.\" At the same time, computing power was increasing exponentially each year ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
+      "originalUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1679662681-Hazenaico-foundersDrSalehBasalamahMuhammadKhurramAminandDrAnasBasalamahlefttoright.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-artificial-intelligence-ai-chips-market-2023-size-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2023 Size and Forecast to 2030",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) Chips Marketinformation for each competitor includes (UC-Davis, Intel Corporation, Baidu, Qualcomm, Adapteva ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-size-and-forecast-to-2030-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-size-and-forecast-to-2030-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 798,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market.md",
       "title": "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market",
       "excerpt": "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ...",
@@ -53,15 +209,66 @@
       ]
     },
     {
-      "path": "_news/2023-03-24-byd-invests-in-china-ai-chip-startup.md",
-      "title": "BYD invests in China AI chip startup",
-      "excerpt": "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions. The premium content you are trying to open requires News database subscription. Please sign in if you ...",
+      "path": "_news/2023-03-24-three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation.md",
+      "title": "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation",
+      "excerpt": "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?",
       "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/",
+      "publishedDateTime": "2023-03-24T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-byd-invests-in-china-ai-chip-startup.md",
+      "title": "BYD invests in China AI chip startup",
+      "excerpt": "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13",
+      "originalUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -77,7 +284,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T02:28:00-07:00",
+      "publishedDateTime": "2023-03-24T00:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digi Times",
@@ -91,8 +298,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -104,7 +312,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/kloudgin-achieves-aws-energy-competency-status-2023-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -148,15 +356,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
-      "title": "Machine Learning (ML) Platforms Market Size by 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
+      "path": "_news/2023-03-24-self-driving-or-driverless-cars-market-size-by-2031.md",
+      "title": "Self-Driving or Driverless Cars Market Size by 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -172,7 +380,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T21:42:00-07:00",
+      "publishedDateTime": "2023-03-23T20:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -195,9 +403,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -250,50 +457,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-self-driving-car-company-ouster-reports-sales-miss.md",
-      "title": "Self-Driving Car Company Ouster Reports Sales Miss",
-      "excerpt": "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b",
-      "originalUrl": "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-383342/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b",
-      "publishedDateTime": "2023-03-23T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -487,7 +650,7 @@
       "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1089,162 +1252,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-lenient-rules-for-biotech-research-put-the-world-at-risk-will-ai-do-the-same.md",
-      "title": "Lenient Rules for Biotech Research Put the World at Risk. Will AI Do the Same?",
-      "excerpt": "ethics and public sectors to review and give guidance on the creation and evolution of AI programs that can be intentionally or inadvertently used to harm or control others. As Kevin Roose's story shows, we can be both pleasantly surprised and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
-      "originalUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2210251/chatgpt.jpg",
-          "width": 3000,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lenient-rules-biotech-research-put-world-risk-will-ai-do-same-1789686?amp=1",
-      "publishedDateTime": "2023-03-23T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
-      "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
-      "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 379,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
-      "publishedDateTime": "2023-03-23T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-modernize-your-apps-and-accelerate-business-growth-with-ai.md",
-      "title": "Modernize your apps and accelerate business growth with AI",
-      "excerpt": "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png",
-          "width": 660,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:07:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

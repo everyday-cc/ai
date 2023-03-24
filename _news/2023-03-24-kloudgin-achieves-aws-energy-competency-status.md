@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/kloudgin-achieves-aws-en
 webUrl: "https://www.marketwatch.com/press-release/kloudgin-achieves-aws-energy-competency-status-2023-03-23"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grid Dynamics Achieves AWS Data & Analytics Competency Partner Status"
-    excerpt: "The AWS Data & Analytics Competency differentiates Grid Dynamics ... big data, analytics, search, artificial intelligence, cloud & DevOps, and application modernization. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using ..."
-    publishedDateTime: 2023-03-23T12:52:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58635098-grid-dynamics-achieves-aws-data-analytics-competency-partner-status-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
   - title: "KloudGin Achieves AWS Energy Competency Status"
     excerpt: "–(BUSINESS WIRE)–#awspartners—KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency stat"
     publishedDateTime: 2023-03-23T13:19:00Z

@@ -586,6 +586,15 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
+    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
+    publishedDateTime: 2023-03-24T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
   - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
     publishedDateTime: 2023-03-21T22:12:00Z
@@ -696,6 +705,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "nr/7igi1wv0zMBb6hlQBpR8ejCJbDwifQ0xQIp80tdfXDv2N4Ml3/XW85YPWBmMj0qsfRZakHpMHVdLIllSrPvX95BeRlH8sq7iDWBoI1PXduT/MXJUG857poIum9C1PBYYwmEODhcNV3rC61DNFgOql1XMx2w6fMPuo+Md1VY0NVBv+VmtDNzsYkJZhkMti2QwrxbQtlhAr5SLFvj4HQ/CcL9kZkxoJuWtLYPGHOojqpiJi5cFMqRmpPgspgATFxTk58GuFgaRs+i6ar5ucD0mytIdIaIW/gG8l29GbrEUXd9B9PLs3mscrNwHzE5YJllFhP7X40j3CMksnBEhWjKnGDuGWm5K1OCU/s/eKDt8=;uap7QkwKRkGmufINHbfKtQ=="
 ---

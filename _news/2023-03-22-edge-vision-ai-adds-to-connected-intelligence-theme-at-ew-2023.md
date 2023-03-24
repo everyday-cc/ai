@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Is GPT-4 already showing signs of artificial general intelligence?"
+    excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
+    publishedDateTime: 2023-03-24T15:01:00Z
+    webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 22
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/24133532/SEI_149545430.jpg"
+        width: 1350
+        height: 899
+        isCached: true
   - title: "Intelligent robots of the future will move and learn with us thanks to IntelliMan"
     excerpt: "The new European project coordinated by the University of Bologna will develop advanced robotic systems controlled by artificial intelligence that will be able to learn the skills needed to interact with people,"
     publishedDateTime: 2023-03-20T13:30:00Z

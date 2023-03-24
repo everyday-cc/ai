@@ -2,6 +2,260 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
+      "title": "2 Top AI Stocks Ready for Bull Runs",
+      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-biologists-say-deep-learning-is-revolutionizing-pace-of-innovation.md",
+      "title": "Biologists Say Deep Learning Is Revolutionizing Pace of Innovation",
+      "excerpt": "There’s another facet of the new AI revolution, a marriage of deep learning and biology, that’s at least as important, but far less widely understood. The fascination with generative AI exploded late last November with the release of OpenAI’s text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "originalUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-718324/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank.md",
+      "title": "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank",
+      "excerpt": "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
+      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
+      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
+      "publishedDateTime": "2023-03-22T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-scientists-at-deepmind-and-meta-press-fusion-of-ai-biology.md",
+      "title": "Scientists at DeepMind and Meta Press Fusion of AI, Biology",
+      "excerpt": "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
+      "originalUrl": "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-708535/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-opera-adds-chatgpt-and-ai-prompts-into-its-browser.md",
       "title": "Opera adds ChatGPT and AI prompts into its browser",
       "excerpt": "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts..",
@@ -269,7 +523,7 @@
       "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -365,57 +619,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029.md",
-      "title": "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029",
-      "excerpt": "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-green-intelligence-why-data-and-ai-must-become-more-sustainable.md",
       "title": "Green Intelligence: Why Data And AI Must Become More Sustainable",
       "excerpt": "As big data, machine learning, and artificial intelligence continue to gain prominence in information technology, experts are raising concerns about the environmental costs of computation — primarily data and AI’s carbon footprint and greenhouse gas ...",
@@ -424,7 +627,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -820,60 +1023,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap.md",
-      "title": "Machine Learning in Healthcare Market Global Outlook 2023 to 2030 | Google Inc., Amazon Web Services, Inc., Sap",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (Concur Wire via Comtex) -- New Jersey, USA: Global Machine Learning in Healthcare Market Overview: The Machine Learning in Healthcare market report provides a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-22-bill-gates-ai-is-most-important-tech-advance-in-decades.md",
       "title": "Bill Gates: AI is most important tech advance in decades",
       "excerpt": "Developed by OpenAI, ChatGPT is an AI chatbot which is programmed to answer questions online using natural, human-like language. The team behind it in January 2023 received a multibillion dollar investment from Microsoft - where Mr Gates still serves as an advisor.",
@@ -933,7 +1082,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 622,
+      "heat": 642,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1237,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1129,145 +1278,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-nvidia-unveils-tiny-jetson-orin-nano-ai-robotics-kits-and-powerful-new-dev-tools.md",
-      "title": "NVIDIA Unveils Tiny Jetson Orin Nano AI Robotics Kits And Powerful New Dev Tools",
-      "excerpt": "All of this ties into the rather robust robotics and AI software chain that NVIDIA has been providing since the start of its AI push. Omniverse Replicator takes the data generated by Isaac Sim and can procedurally create annotated images and other training ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
-      "originalUrl": "https://hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/61199/content/hero-nvidia-isaac-robotics-platform.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gtc-2023-isaac-jetson-orin-tao-5-metropolis",
-      "publishedDateTime": "2023-03-21T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-homer-the-mind-reading-beer-pump-lets-you-pour-a-pint-with-your-brain.md",
-      "title": "'Homer' the mind reading beer pump lets you pour a pint with your brain",
-      "excerpt": "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "originalUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "cdnAmpWebUrl": "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Liverpool Echo",
-        "domain": "liverpoolecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway.md",
-      "title": "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway",
-      "excerpt": "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 935,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

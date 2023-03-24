@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-24-self-driving-car-company-ouster-reports-sales-miss.md",
-      "title": "Self-Driving Car Company Ouster Reports Sales Miss",
-      "excerpt": "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ...",
+      "path": "_news/2023-03-24-self-driving-or-driverless-cars-market-size-by-2031.md",
+      "title": "Self-Driving or Driverless Cars Market Size by 2031",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b",
-      "originalUrl": "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://images.barrons.com/im-383342/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b",
-      "publishedDateTime": "2023-03-23T14:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T20:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     },
     {

@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 821
         isCached: true
+  - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
+    excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/JDt6b0saEHni9d599POntWzuF4E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
     excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
     publishedDateTime: 2023-03-23T15:18:00Z
@@ -389,20 +403,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT isn’t sentient. Could we build a chatbot that is?"
-    excerpt: "University of Washington professor Chirag Shah speaks to Salon about where the AI explosion is heading, and the future of artificial intelligence"
-    publishedDateTime: 2023-03-19T19:30:00Z
-    webUrl: "https://www.salon.com/2023/03/19/chatgpt-isnt-sentient-could-we-build-a-chatbot-that-is/"
+  - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
+    excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
+    publishedDateTime: 2023-03-24T12:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/24/tencent-wechat-chatbot-similar-chatgpt/"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 24
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/artificial-intelligence-chatbot-sentient-1370249712.jpg"
-        width: 1200
-        height: 810
-        isCached: true
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 20
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z

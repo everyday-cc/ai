@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Healthcare Market Global Outlook 2023 to 2030 | Google Inc., Amazon Web Services, Inc., Sap"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (Concur Wire via Comtex) -- New Jersey, USA: Global Machine Learning in Healthcare Market Overview: The Machine Learning in Healthcare market report provides a ..."
-    publishedDateTime: 2023-03-21T20:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2028 Neural Network Market Insights and Demand Outlook"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ..."
-    publishedDateTime: 2023-03-22T03:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21"
+  - title: "Cloud Natural Language Processing Market Size and Share | Industry Size"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural"
+    publishedDateTime: 2023-03-20T17:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20"
     type: article
     provider:
       name: MarketWatch
@@ -57,43 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Oil and Gas Market 2023 with 114 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2023-03-22T08:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+  - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
+    publishedDateTime: 2023-03-23T18:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-manufacturing-and-supply-chain-market-size-growth-global-industry-trends-2029-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence and Advanced Machine Learning Market Size 2023-2030 | New Report (85 Pages) | In This Reports Artificial ..."
-    publishedDateTime: 2023-03-23T10:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 to 2030 Self-Driving Cars and Light Trucks Market Regional Outlook"
-    excerpt: "The Self-Driving Cars and Light Trucks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent this market is estimated to reach USD million in 2029. The report focuses on the Self-Driving Cars and Light ..."
-    publishedDateTime: 2023-03-22T19:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-self-driving-cars-and-light-trucks-market-regional-outlook-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+    quality: 40
 
 secured: "fSt2jzY5IgtFp4kDxkev68sIdgW2YARremAsO1VlnfEnuLzhqhKS/SeUejDjR2YAh8/Ga/oPGh8iT9wBHAWIelz+oQwHV3z+0xIRoVND1PT71OPyQSEglirS+AM99Rj2OZ4L4l7vAVCS4zNW/o4hjD6gTS+EKbrWOmzsOtJVJrcAzfrY1FNo7bOt/ySESayY6A4iRY6/tifDtBRPZWJ9pwghcTjKxOf4lcTNkAFjiFUBB72c/aHthfentIQY20X+VQ1LBlxp7uoRBETRSq76CHD+8Hv8kmKWbBNv4LVkpfdqR2qHH/iC66/HLkiH+zkGr8IRoA3/jIzLKwTUUfoHVTQ1Tu0S63FkbQs1hGJ49i0=;J1++PxRC6YFGRhG29hKPqQ=="
 ---

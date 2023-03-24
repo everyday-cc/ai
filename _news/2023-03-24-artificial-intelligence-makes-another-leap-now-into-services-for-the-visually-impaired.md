@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T17:02:00Z
 originalUrl: "https://www.wbur.org/radioboston/2023/03/23/artificial-intelligence-makes-another-leap-now-into-services-for-the-visually-impaired"
 webUrl: "https://www.wbur.org/radioboston/2023/03/23/artificial-intelligence-makes-another-leap-now-into-services-for-the-visually-impaired"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://wordpress.wbur.org/wp-content/uploads/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg"

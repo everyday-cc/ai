@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-283
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
 type: article
 quality: 61
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -28,51 +28,77 @@ images:
     isCached: true
 
 related:
-  - title: "Department of Transportation reschedules self-driving corridor meeting"
-    excerpt: "The Michigan Department Of Transportation has postponed its March 22 public meeting on the environmental study on a proposed connected and automated vehicle corridor project along"
-    publishedDateTime: 2023-03-20T18:28:00Z
-    webUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.html"
-    ampWebUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
+  - title: "Self-Driving or Driverless Cars Market Size by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-24T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23"
     type: article
     provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/7/fb/7fb70e92-dd9f-11ea-bcef-bbae2de749ca/5f359ba20f300.image.png?resize=1024%2C577"
-        width: 1024
-        height: 577
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "GM Is Expanding Its Self-Driving Taxi Business. That’s Good for the Stock."
-    excerpt: "General Motors is looking to expand its autonomous-driving business, which it believes is key to the future of the auto maker. The Associated Press reported that GM’s (ticker: GM) self-driving, ride-hailing company Cruise has applied to test its vehicles across California."
-    publishedDateTime: 2023-03-21T14:27:00Z
-    webUrl: "https://www.barrons.com/articles/gm-cruise-self-driving-taxi-ba2095ee"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-cruise-self-driving-taxi-ba2095ee"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-cruise-self-driving-taxi-ba2095ee"
+  - title: "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ..."
+    publishedDateTime: 2023-03-21T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 42
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://images.barrons.com/im-747822/social"
-        width: 1280
-        height: 640
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
-    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
-    publishedDateTime: 2023-03-21T14:18:00Z
-    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
+  - title: "Aston University project improves its driverless vehicle’s capabilities"
+    excerpt: "Aston University has completed a two-year Knowledge Transfer Partnership (KTP) with Coventry-based global transport technology firm Aurrigo, resulting in a sophisticated machine vision solution making its autonomous vehicles more capable."
+    publishedDateTime: 2023-03-23T02:32:00Z
+    webUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/"
+    ampWebUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
     images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
-        width: 470
-        height: 246
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2023/03/Autopod-UI-1.jpg?fit=671%2C512&ssl=1"
+        width: 671
+        height: 512
+        isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
+    publishedDateTime: 2023-03-20T17:52:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 52
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-driving Car Market 2023 Growth Statistics, Revenue Estimates, Emerging Trends with Strategies and Forecast 2030"
+    excerpt: "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation, and technological components and geography. The global market ..."
+    publishedDateTime: 2023-03-20T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2023-growth-statistics-revenue-estimates-emerging-trends-with-strategies-and-forecast-2030-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Sn1Zo/y7P/GCtnV+VF+Xu9UW8TsG266eSNMngqLpgENM9PZhdQL3ye4rHElVg3F0BPty5GrvOvIZAD0DD3DLmT+hnESEZuwfC6JX7k8PJ6qpizII2V2yFUwqW3bUnjyoOnrZZsHsKtAy5a/+yQ8QgXMN8MdThZeWkepj1R4xXhg7uzXg7CvXepqjGM27UVo/8Vd+1wgX4yQOPr42GcNg7iLpnFUINAz9+TArhhnu35l1vEIM9CsKHGsdn1Pmy+rkJpB7fN5vlbZv4g717Vrh72pQM9LITpPqxF+7nkWguWo+3VJp5gMUrYtQjKFodhn4f5JmXeij7Zz+IHVLY9VpEO+W8ucLzxjYwS4mN0DUjbgD4Sp+Zuv1K04IIw2UeVRhBtWBrjDWhmOUjvgLMcuw4R0TNsq2BMrChvwxeANVUUAfAiXfeq5icbZzhDNJH4uGyFVEfUVAQAMdFnXLxoJWrdRVDspY+h/416JIlGlYpDL2UPG4q7gbq8oebCxJD53asVyo0jqHYWAki9f9IM3d8g==;m5inqa4UkQLHgLf0P6F4JQ=="

@@ -250,6 +250,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 15
+  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
+    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
+    publishedDateTime: 2023-03-24T04:13:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 8
 
 secured: "mZh6c8R95MflJqJ/OfqvWHQ4L1D30Sa8w8R8AnzNEs840YhxerASj6UARyo27Bb0xyMO0ng6CIj9jy9OEe02rI9qTCF9FXiNMmcf+pLfXzDkC4WrUE6enCHU6UXlf4aFn6lDd/TBT83D9lHD7b4j/VoihtRzM5ZlW36s1NRNPZ44ZWoG8cLpj0Ct0x08I8N0FpQo5fgmL4+jo/yxEQM/gXoMKRf+fcXBEo7Ge4GSTvaHAMlZq7u70eovyIZoujSE6LhZDneBF18jaHqeH8FXjGh/yG2eNLI/otPhEtQd3cQZayWz6+V5PqbigDlzp6L7uxzht4bMu8bthXGr4KvwkQUhWtKo8cL4oaGv4l1X5TM=;B2uVje/SaPRMGS3jxGAAcA=="
 ---

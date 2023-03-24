@@ -44,6 +44,20 @@ related:
       name: Embedded
       domain: embedded.com
     quality: 23
+  - title: "Is GPT-4 already showing signs of artificial general intelligence?"
+    excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
+    publishedDateTime: 2023-03-24T15:01:00Z
+    webUrl: "https://www.newscientist.com/article/2365864-is-gpt-4-already-showing-signs-of-artificial-general-intelligence/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 22
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/24133532/SEI_149545430.jpg"
+        width: 1350
+        height: 899
+        isCached: true
   - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
     excerpt: "Phenom, the global leader in Intelligent Talent Experience, today announced its high-volume hiring solution has earned the Business Intelligence Group's 2023 Artificial Intelligence Excellence Award for AI innovation and applying its ability to solve organizations' biggest recruitment challenges in a highly competitive talent market."
     publishedDateTime: 2023-03-23T00:00:00Z

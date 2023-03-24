@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
-    excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A"
-    publishedDateTime: 2023-03-24T00:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31485508/aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Aetina Corporation: Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
     excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform-AIP-SQ67"
     publishedDateTime: 2023-03-24T03:38:00Z

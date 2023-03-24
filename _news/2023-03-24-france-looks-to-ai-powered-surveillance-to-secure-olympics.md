@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T19:55:00Z
 originalUrl: "https://www.reuters.com/technology/france-looks-ai-powered-surveillance-secure-olympics-2023-03-23/"
 webUrl: "https://www.reuters.com/technology/france-looks-ai-powered-surveillance-secure-olympics-2023-03-23/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Reuters

@@ -245,6 +245,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
+    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
+    publishedDateTime: 2023-03-24T04:13:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 8
 
 secured: "0q2F2xmelYSXagyDfhXhHxfZZvO/RO308F11jnybiK0Kcag2TAn7aEaZKXgeFqjyKpFijRWEvs89bRN/QZLHOfTT+lp0O1dNmRys2bepVr3kdkAzDB5JdQqvmUHXxm+jbLVtTHH2K6An46JpwVStbm31w76b8+grR7Belj6C7NkCl+RcRwFLVQ1fzm5stbpd2GU0ewfUwQOdhBhKkMHoCfm4fNZo5s9UisCNaI3DNwHOL8IiLmljoBH1graKoSrvCs+angyXAUWtX17qZ0ueaE/vMD89wmsbQ14iel4FMHH+SkEP5ibXw3Oq9wYViHWY1WLj+L8adxZPGb684LQXPIFRbnNH1R6Of6xfuHuGLRg=;plIV/BokIfr39c6mQcyu7Q=="
 ---

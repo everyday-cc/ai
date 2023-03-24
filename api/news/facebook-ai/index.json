@@ -108,58 +108,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029.md",
-      "title": "The State of the Artificial Intelligence in Market | New Research Report (2023-2029)",
-      "excerpt": "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | Information Technology | In This Reports Artificial Intelligence in Market Provides Top Artificial Intelligence in Companies (Mariana,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-20-8-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
       "title": "8 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
       "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
@@ -1503,6 +1451,49 @@
       "provider": {
         "name": "in.mashable",
         "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt.md",
+      "title": "Mark Zuckerberg Introduces LLaMA — Meta's Answer to ChatGPT",
+      "excerpt": "and we’ll make our new model available to the AI research community,” Zuckerberg wrote in the post. Also Read: Is Facebook's VR Division Failing? Losses Total $13.72 Billion In 2022 According ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/31060821/mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt",
+      "originalUrl": "https://www.benzinga.com/news/23/02/31060821/mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/25/meta_zuckerberg2.png?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31060821",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31060821",
+      "publishedDateTime": "2023-02-25T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,6 +26,22 @@ images:
     height: 765
     isCached: true
 
+related:
+  - title: "Cruise Weighs Expanding Self-Driving Car Tests"
+    excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
+    publishedDateTime: 2023-03-21T14:18:00Z
+    webUrl: "https://www.ttnews.com/articles/cruise-self-driving-cars-all-california"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/Electric-Miles-Cruise-0222.jpg"
+        width: 470
+        height: 246
+        isCached: true
+
 secured: "LeSJ1W6VRwjGzsFKyfcxFMVTqA8ALe5CsdN+0vB/rkp0z9vK7Ic6GCCyy6anfBdtdVJLjHrZdWsrKPlLgdlCmIkuNgokj4b4sOpu9Iom3N/tmRTEKDSiDkqtqR1XyrKlunKgHir8Fri9EubzpksnHM/DoRHAC5QRGFs/0HNSvNk5cpENjkNsF8lJMTrUKfZe1lq4cJQWqHBbiPtaE1V6pf1hy0yAT+umjLWcoIzGEFLZeuzjEt4DOmzgACHBjYWY3sUlDUOG3XSscaR8wU3GZK0QF3JlkkPiyMjuho4FacnDb3RMvKu8iCirQQMdNYhd8wbF8rp9ZDZ+AlqaOiX2apYaie6W6lgRobI/DvggFBs=;Io1Lk8A00Eyh00kRxymIxQ=="
 ---
 

@@ -585,6 +585,15 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
+    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
+    publishedDateTime: 2023-03-24T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
   - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
     publishedDateTime: 2023-03-21T22:12:00Z
@@ -695,6 +704,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "QeS60oG1qy/TX9GQgG/8mQ8SYB62m/jYJaQDqI49G3gvLQ0QKL0m8hcAik/u0eNMjk3Uq3/lGrBagXTRolRUGYRlvgyjmM0KLyplzkj2ZIxybk3Znb6SAgaI3zcIwFrYUcClv7cO0TktmFeOrcodLTblw3575ktsPpeLwioDAfZOcTX5Rg6WKc99UYIg9e9IzsJ0X0zRXd4MkTQAAZJwyiKjis0CKT8KaO8mSPe07KfdxOajCsNeSlZSwtnfa5YZZPVMyJcYU5RHV3wd/XiX4TA26/AlFOS6XsS/R5/LWwWy83Po8gmgvVtlYLGw0ppTGucmpi1dBOEfcw5GqS3aex618WiAgviDd3grgbTa2S+ngabbxSfnQRYbLcbVxB+xUdcgJdtjM8+FidfZS0AF8DSGqVkdjl/70g6gmx3tf4GqiZHvALPdDWqwzh0swLGjsvMwuNJiRs2GhMnxSevuUn3aXZvnJ7x7vvuN3uQc/dsp++8yESqdu7LUcbdKJvRzZj3MSGCtQRelYb0vP2UP7Q==;vmE2/lxUuglMBvu2zwgwhA=="
 ---

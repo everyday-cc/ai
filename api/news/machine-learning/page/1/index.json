@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-24-machine-learning-ml-platforms-market-size-by-2031.md",
-      "title": "Machine Learning (ML) Platforms Market Size by 2031",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ...",
+      "path": "_news/2023-03-24-hazenai-a-ksa-startup-using-deep-learning-to-drive-road-safety.md",
+      "title": "Hazen.ai: A KSA Startup Using Deep Learning To Drive Road Safety",
+      "excerpt": "What changed in the last decade was several breakthroughs in the research, with seminal research papers published on \"unsupervised (machine) learning\" and \"deep neural networks.\" At the same time, computing power was increasing exponentially each year ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23",
+      "webUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
+      "originalUrl": "https://www.entrepreneur.com/en-ae/starting-a-business/hazenai-a-ksa-startup-using-deep-learning-to-drive-road/448318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1679662681-Hazenaico-foundersDrSalehBasalamahMuhammadKhurramAminandDrAnasBasalamahlefttoright.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T21:42:00-07:00",
+      "publishedDateTime": "2023-03-24T07:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,8 +50,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
@@ -299,21 +298,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap.md",
-      "title": "Machine Learning in Healthcare Market Global Outlook 2023 to 2030 | Google Inc., Amazon Web Services, Inc., Sap",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (Concur Wire via Comtex) -- New Jersey, USA: Global Machine Learning in Healthcare Market Overview: The Machine Learning in Healthcare market report provides a ...",
+      "path": "_news/2023-03-22-biologists-say-deep-learning-is-revolutionizing-pace-of-innovation.md",
+      "title": "Biologists Say Deep Learning Is Revolutionizing Pace of Innovation",
+      "excerpt": "There’s another facet of the new AI revolution, a marriage of deep learning and biology, that’s at least as important, but far less widely understood. The fascination with generative AI exploded late last November with the release of OpenAI’s text ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
+      "webUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
+      "originalUrl": "https://www.wsj.com/articles/biologists-say-deep-learning-is-revolutionizing-pace-of-innovation-eeb79c1b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.wsj.net/im-718324/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -323,14 +322,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-21T13:53:00-07:00",
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -347,9 +346,50 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-how-ai-and-machine-learning-are-impacting-the-litigation-landscape.md",
+      "title": "How AI and Machine Learning Are Impacting the Litigation Landscape",
+      "excerpt": "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/",
+      "originalUrl": "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-21T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -396,15 +436,15 @@
       ]
     },
     {
-      "path": "_news/2023-03-21-machine-learning-chip-market-size-and-forecast-till-2029.md",
-      "title": "Machine Learning Chip Market Size and Forecast till 2029",
-      "excerpt": "What is the Machine Learning Chip market growth? Machine Learning Chip Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029.",
+      "path": "_news/2023-03-21-machine-learning-market-outlook-to-2028.md",
+      "title": "Machine Learning Market Outlook to 2028",
+      "excerpt": "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-to-2028-2023-03-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-outlook-to-2028-2023-03-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -420,7 +460,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-20T17:53:00-07:00",
+      "publishedDateTime": "2023-03-20T21:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -445,8 +485,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -1428,59 +1467,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
-      "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
-      "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

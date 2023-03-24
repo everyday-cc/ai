@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-21-are-facial-recognition-cams-like-the-ones-in-china-coming-to-a-store-near-you.md",
+      "title": "Are facial recognition cams like the ones in China coming to a store near you?",
+      "excerpt": "A New York City store recently admitted to tracking its customers with Chinese facial recognition cameras. Here's what you should know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/",
+      "originalUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2023/03/kk-article-20230321-hikvision-chinese-cameras-us-grocery-stores-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/chinese-facial-recognition-cameras/880979/?amp",
+      "publishedDateTime": "2023-03-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-defining-endpoint-security-in-a-zero-trust-world.md",
+      "title": "Defining endpoint security in a zero-trust world",
+      "excerpt": "Increased cloud attacks and the need for stronger endpoint security are making 2023 more challenging than many CISOs budgeted for.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "originalUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/6-5-reasons-why-Zero-Trust-Is-The-Future-Of-Endpoint-Security.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defining-endpoint-security-in-a-zero-trust-world/amp/",
+      "publishedDateTime": "2023-03-20T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-03-21-video-students-in-plainfield-learn-to-use-artificial-intelligence.md",
       "title": "VIDEO: Students in Plainfield learn to use artificial intelligence",
       "excerpt": "Students in Plainfield learn to use artificial intelligence",
@@ -194,6 +290,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-cloud-natural-language-processing-market-size-and-share-industry-size.md",
+      "title": "Cloud Natural Language Processing Market Size and Share | Industry Size",
+      "excerpt": "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-share-industry-size-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -501,7 +649,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 256,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -596,7 +744,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -688,6 +836,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029.md",
+      "title": "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029",
+      "excerpt": "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -837,58 +1038,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-20-the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029.md",
-      "title": "The State of the Artificial Intelligence in Market | New Research Report (2023-2029)",
-      "excerpt": "Artificial Intelligence in Market Size 2023-2029 | New Report (97 Pages) | Information Technology | In This Reports Artificial Intelligence in Market Provides Top Artificial Intelligence in Companies (Mariana,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-state-of-the-artificial-intelligence-in-market-new-research-report-2023-2029-2023-03-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-20-artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023.md",
       "title": "Artificial Intelligence in Insurtech Market Environment Development Trend In 2023",
       "excerpt": "Artificial Intelligence in Insurtech Market Analysis 2023 \\| by Product Type (Service, Product), Application Type (Automotive, Healthcare, Information Technology, Others), Major Ke",
@@ -897,7 +1046,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023-2023-03-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -949,7 +1098,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1087,146 +1236,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-artificial-intelligence-institute-set-up-in-south-africa.md",
-      "title": "Artificial intelligence institute set up in South Africa",
-      "excerpt": "Communications and Digital Technologies Minister Mondli Gungubele, in partnership with the Tshwane University of Technology (TUT) and the University of Johannesburg, launched the Artificial Intelligence Institute of South Africa (AIISA).",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
-      "originalUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mg.co.za/wp-content/uploads/2023/03/artificial-intelligence.jpg",
-          "width": 1600,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2023-03-19-artificial-intelligence-institute-set-up-in-south-africa/?amp",
-      "publishedDateTime": "2023-03-19T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail & Guardian",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-20-media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series.md",
-      "title": "Media Alert: BrainChip Illustrates AIoT Readiness at the Edge Impulse ML Series",
-      "excerpt": "Please join BrainChip at Edge Impulse ML by registering for one or more of the upcoming showcases via the following links: BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market, fully digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31413103/media-alert-brainchip-illustrates-aiot-readiness-at-the-edge-impulse-ml-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31413103",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31413103",
-      "publishedDateTime": "2023-03-19T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-nvidia-gtc-highlights-the-physical-side-of-ai-robotics.md",
-      "title": "Nvidia GTC Highlights The Physical Side Of AI - Robotics",
-      "excerpt": "For many consumers, AI is finally living up to long overdue expectations. The accomplishments of ChatGPT in a short period of time are phenomenal. But what is yet to come when AI is combined with robotics will change everything.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 429,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641725b9faeb9e5fa976a1f0/0x0.jpg?format=jpg&width=1200",
-          "width": 951,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/19/nvidia-gtc-highlights-the-physical-side-of-airobotics/amp/",
-      "publishedDateTime": "2023-03-19T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

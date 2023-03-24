@@ -41,6 +41,15 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Is AI Turning Me Into an Obsolete Machine?"
+    excerpt: "Artificial intelligence is advancing at a superhuman pace ... But it can also be applied to myriad other purposes. Start-ups are using GPT-4 to, among other things, instantly draft lawsuits against tele-scammers, teach foreign languages, and describe ..."
+    publishedDateTime: 2023-03-24T13:19:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/gpt-4-chat-gpt-ai-jobs.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 19
 
 secured: "zzOt3dzkpxjAaqrGVsyPGJeohVngPwaWtEykx7IEbTlPSrsns1PFVJCq24Gwx6XjglnABiaVqZkG2/UDA/JJMsP5/pLLTCAc25wFsQKU9pXyFcaxLVQVVfkWqZHU7MenhHV6CvRszsnY9ttIR7wAzUw+7vQNlW5hk5V6wyp5kSNs/8+s7HYXQ8SwUMqOA12E1Zoq49PQUId5ChcggCTAS1K8Et08KVhEyFqzawpAokOM6eMtYMpfS3q0t1L3kDcSOUgivBwG1nzIK0/pIeRcl4AukaI9oBrZWcZsYZvp4JFpteeuNfnnqEHTkiuNch5d1y34ByS3Wr4esQSPO8owgfPRNdsOos4fcNeurXk5FGE=;smTsLeqgdaHpWSOqJhCJcQ=="
 ---

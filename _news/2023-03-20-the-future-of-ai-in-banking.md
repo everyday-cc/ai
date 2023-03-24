@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all"
         width: 1199
         height: 673
-        isCached: true
-  - title: "How AI is driving the future of technology"
-    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
-    publishedDateTime: 2023-03-19T22:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
-    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
         isCached: true
   - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
     excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."

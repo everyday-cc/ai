@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Madeleine McCann: Facial recognition gives verdict on Julia Wendell’s claim to be missing girl"
-    excerpt: "The Polish woman who believes she is Madeleine McCann is awaiting the results of a DNA test to prove she is the missing British girl - but the result of a facial recognition analysis has poured doubt on her claims."
-    publishedDateTime: 2023-03-19T21:08:00Z
-    webUrl: "https://www.nzherald.co.nz/world/madeleine-mccann-facial-recognition-gives-verdict-on-julia-wendells-claim-to-be-missing-girl/I2KDY6EUGFGOJGQI4UWKUEOWDI/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 42
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/Y0PrjgtEd-SvCXz69M5Jqs2EMiw=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/TDHRVQ3M3ND4NJNIBGBJLI3XYA.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Madeleine McCann: Polish woman Julia Faustyna most likely not missing girl, according to facial recognition"
     excerpt: "The results of a facial recognition assessment on the Polish woman claiming to be missing toddler Maddie McCann have been revealed, with the Swiss company behind the test calling it ‘over 90 per cent accurate’."
     publishedDateTime: 2023-03-21T01:01:00Z

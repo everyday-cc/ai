@@ -2,6 +2,205 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-02-24-tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1.md",
+      "title": "Tirupati Temple To Introduce Facial Recognition System For Darshan From March 1",
+      "excerpt": "The famous Tirupati temple in Andhra Pradesh is set to introduce facial recognition system for the devotees from March 1. Tirumala Tiurpathi Devastanams (TTD), the trust that manages the temple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768",
+      "originalUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2017-03/tirupati-temple_650x400_81488519131.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768/amp/1",
+      "publishedDateTime": "2023-02-24T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-artificial-intelligence-in-drug-discovery-market-size-2023-business-strategies-growth-analysis-regional-demand-2031-forecast-research-report.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Size 2023 Business Strategies, Growth Analysis, Regional Demand, 2031 Forecast Research Report",
+      "excerpt": "The artificial intelligence (AI) in drug discovery market size is expected to reach USD 4.13 billion by 2028 according to a new study by Report Ocean. Report Ocean presents a new report on artificial intelligence (AI) in drug discovery market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-2023-business-strategies-growth-analysis-regional-demand-2031-forecast-research-report-2023-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-2023-business-strategies-growth-analysis-regional-demand-2031-forecast-research-report-2023-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-south-africas-envisionit-deep-ai-gets-165m-to-expand-access-to-medical-imaging.md",
+      "title": "South Africa’s Envisionit Deep AI gets $1.65M to expand access to medical imaging",
+      "excerpt": "The flame had been lit, and in 2019, together with her husband, Terence Naidu, and Andrei Migatchev, Naidoo launched Envisionit Deep AI, a healthtech startup that uses AI to bridge demand for diagnostic imaging. Envisionit Deep AI is now on the path to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/",
+      "originalUrl": "https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/IMG_6453-e1677220071471.jpg",
+          "width": 1125,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/23/south-africas-envisionit-deep-ai-gets-1-65m-to-expand-access-to-medical-imaging/amp/",
+      "publishedDateTime": "2023-02-23T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-artificial-intelligence-opens-up-the-world-of-financial-services.md",
+      "title": "Artificial Intelligence Opens Up The World Of Financial Services",
+      "excerpt": "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f82c8677a4a0073a41444a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/",
+      "publishedDateTime": "2023-02-23T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more.md",
       "title": "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more",
       "excerpt": "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ...",
@@ -1014,178 +1213,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-ai-could-help-build-more-efficient-crypto-markets.md",
-      "title": "AI Could Help Build More-Efficient Crypto Markets",
-      "excerpt": "According to OpenAI’s founder, Sam Altman, ChatGPT crossed over 100 million users in just two months, a milestone it took Facebook ... for AI use cases in crypto. A further area of research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "originalUrl": "https://www.coindesk.com/consensus-magazine/2023/02/22/ai-could-help-build-more-efficient-crypto-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-baidu-beats-fourth-quarter-revenue-estimates-flags-chatbot-launch.md",
-      "title": "Baidu beats fourth-quarter revenue estimates, flags chatbot launch",
-      "excerpt": "Revenue from Baidu Core, which includes search-based ad sales, cloud offerings and its autonomous driving initiatives, fell 1% to 25.7 billion yuan. While non-online marketing revenue rose 11% to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9LTJYqY1aeAPZk8JCItvML1wkSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZSDFNXKHRKZNPBRY2X7CQXEJM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
-      "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
-      "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "publishedDateTime": "2023-02-22T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-majority-in-new-poll-would-be-uncomfortable-with-health-care-provider-relying-on-ai.md",
-      "title": "Majority in new poll would be uncomfortable with health care provider relying on AI",
-      "excerpt": "A majority of Americans in a new poll say they’d be uncomfortable with their health care provider relying on artificial intelligence (AI) as part of their medical care, and less than half think using AI would lead to better health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
-      "originalUrl": "https://www.aol.com/majority-poll-uncomfortable-health-care-160151510.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_hill_articles_315/28282a14793476e05441eebabce54c8a",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

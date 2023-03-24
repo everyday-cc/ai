@@ -20,6 +20,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "The Generative AI and GPT-Powered Legal Tech Announced at Legalweek 2023"
+    excerpt: "In addition to GPT-4, Leah also uses ContractPodAi’s own proprietary AI, combined with Microsoft Azure cloud. “What is unique about Leah at ContractPodAi is that it is embedded with an end-to-end CLM platform,” said Atena Reyhani, chief product ..."
+    publishedDateTime: 2023-03-24T14:10:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/24/the-generative-ai-and-gpt-powered-legal-tech-announced-at-legalweek-2023/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 40
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/ChatGPT-767x633-2.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "CLM Provider ContractPodAi Launches AI Legal Assistant Leah, Powered by ‘Team of AI’"
     excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. Today, London-based contract life-cycle ..."
     publishedDateTime: 2023-03-20T18:42:00Z

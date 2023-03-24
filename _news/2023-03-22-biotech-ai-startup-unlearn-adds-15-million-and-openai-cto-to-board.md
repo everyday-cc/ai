@@ -598,6 +598,15 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
+    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
+    publishedDateTime: 2023-03-24T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 38
   - title: "Google Opens Up Access to Bard AI Chatbot"
     excerpt: "Google today began allowing users to sign up to use Bard, its AI-powered chatbot that rivals Microsoft's Bing chatbot. First announced back"
     publishedDateTime: 2023-03-21T23:23:00Z
@@ -694,6 +703,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "C4FbrMgLIosrgNT5wWOXmDRxlMzyB7Jq2U/8qjc9kLIuwX4vB708krqawpBh4WTKi4bH++PGEiqBBVnybHHqVrKHzeI+MwkSWITmbL4Zy7zAYTS2ARbDnqAGXSDfo7BtV8NbrrL7SHLOyo4kr7nRNnqOMRkiAl88REd3elIlA0sCAa4bQ8zjA6DOyhawvDQpRpyPVzHtAlrSdnVdq8I+tRxU19L2qOUTmK1xW/a74DkpEZDpLgn2H8HisxJi0gF95hLUq1yF0zyntoz5ZoLMnezfT7mWp0qlTNI/rlBNT8DV6qizEVovqC5Xk2oP1KMgXS3NlbURoo6adC1x7j/r6mLXrByvnvYVQ4jnXEGKlQQ=;Y67it0Z7RWRq+A0CAGk+rg=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "California Voice: Recall of self-driving Tesla cars doesn’t go far enough"
-    excerpt: "California’s Office of Traffic Safety needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed full self-driving"
-    publishedDateTime: 2023-03-19T21:43:00Z
-    webUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/"
-    ampWebUrl: "https://www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/19/california-voice-recall-of-self-driving-tesla-cars-doesnt-go-far-enough/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 58
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/02/SJM-L-TESLAFSD-0217-1.jpg?w=1024&h=681"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Cruise wants to test self-driving cars all over California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
     publishedDateTime: 2023-03-21T12:22:00Z

@@ -2,6 +2,163 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
+      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-pytorch-20-brings-new-fire-to-open-source-machine-learning.md",
+      "title": "PyTorch 2.0 brings new fire to open-source machine learning",
+      "excerpt": "The open source PyTorch project is among the most widely used technologies for machine learning (ML) training. Originally started by Facebook (now Meta), PyTorch 1.0 came out in 2018 and benefitted from years of incremental improvements. >>Don’t miss our ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
+      "publishedDateTime": "2023-03-15T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m.md",
+      "title": "Adept, a startup training AI to use existing software and APIs, raises $350M",
+      "excerpt": "In another sign that the current VC appetite for AI is insatiable, Adept, a startup building AI that “enables humans and computers to work together creatively to solve problems,” yesterday announced that it raised $350 million in a Series B funding ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "originalUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-947742868.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/amp/",
+      "publishedDateTime": "2023-03-15T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-ai-image-tool-midjourney-launches-magazine.md",
       "title": "AI-Image Tool Midjourney Launches Magazine",
       "excerpt": "Midjourney, one of the many artificial intelligence-driven image creation companies to crop up in the past six months, announced plans on Wednesday to launch a magazine.",
@@ -1093,163 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research.md",
-      "title": "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”",
-      "excerpt": "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
-      "originalUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
-      "publishedDateTime": "2023-03-15T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-google-adds-ai-powered-writing-features-to-gmail-docs.md",
-      "title": "Google Adds AI-Powered Writing Features to Gmail, Docs",
-      "excerpt": "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs",
-      "originalUrl": "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-future-smartphone-more-folds-less-phone-a-whole-lot-of-ai.md",
-      "title": "The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI",
-      "excerpt": "Research firm IDC said this was due to “significantly dampened ... Others said sophisticated silicon will help us identify “real” media versus fake or AI-generated facsimiles. And a few predicted that actual phone calls will fall by the wayside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/",
-      "originalUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6410cb9d50a2c32c8d5d2868/master/pass/w30_MARCH_AI-EMERG-TECH_POST-PHONE.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp",
-      "publishedDateTime": "2023-03-15T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

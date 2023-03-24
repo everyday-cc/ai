@@ -61,22 +61,6 @@ related:
         width: 1199
         height: 673
         isCached: true
-  - title: "How AI is driving the future of technology"
-    excerpt: "With AI managing repetitive and mundane workstreams in app development, humans are free to create, innovate and problem-solve."
-    publishedDateTime: 2023-03-19T22:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/"
-    ampWebUrl: "https://venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-is-driving-the-future-of-technology/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-594827905.jpg?w=1200&strip=all"
-        width: 1200
-        height: 679
-        isCached: true
   - title: "The dirty secret of artificial intelligence"
     excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
     publishedDateTime: 2023-03-23T17:31:00Z

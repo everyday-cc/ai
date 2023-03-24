@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T13:06:00Z
 originalUrl: "https://www.nwitimes.com/news/jerry-davich-new-twist-on-old-phone-scam-uses-artificial-intelligence-don-t-trust-the/article_ef703ebc-cd8c-5970-a166-5b060385601b.html"
 webUrl: "https://www.nwitimes.com/news/jerry-davich-new-twist-on-old-phone-scam-uses-artificial-intelligence-don-t-trust-the/article_ef703ebc-cd8c-5970-a166-5b060385601b.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The Times of Northwest Indiana

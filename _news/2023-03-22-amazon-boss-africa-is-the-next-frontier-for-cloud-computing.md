@@ -26,6 +26,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "AI for Africa, by Africa: a call to action for inclusive and ethical artificial intelligence policies (2)"
+    excerpt: "Concerns The proliferation of AI technologies in Africa is not without its challenges, as foreign companies and governments have been known to introduce technologies that have questionable benefits for local communities."
+    publishedDateTime: 2023-03-20T13:06:00Z
+    webUrl: "https://thebftonline.com/2023/03/20/ai-for-africa-by-africa-a-call-to-action-for-inclusive-and-ethical-artificial-intelligence-policies-2/"
+    type: article
+    provider:
+      name: business
+      domain: thebftonline.com
+    quality: 34
+
 secured: "pn/j2YU7RmWHden+k5CJEsCeWarJd2i6VugjFH7LucFUelJJMOq5Rxyrpm27hFo/hTvRwkfrZ3nHGlpmsNgI33y/FKvrgQxs6h3+5VJCHtUHoUZcEQuvDoTilwjRqSEJ/Q1AyYOMZn33LVV79nMCOuQHxbo8Cy/RcKUcTLPLNiSHWRWbDdRVajPTvgppaQ8Dz5BxhPzagssIMc9ERuztQbgUK0u63nf2EAXAiVvxawxxyoBE0jdIrbUrwZDQv2/hh68UXBI0Nm9o5VMHBDHRPUUCwvTgWl/S0NnWQX3BKbgTQOXJwZvSKpYr/7y94motkO3rdL3bzrSiDABmXMFQ0ypvf/k0l1EowwK4W5NdlUU=;G3Gz9YsJn14Z9T4inB5f/A=="
 ---
 

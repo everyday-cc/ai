@@ -19,29 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "KloudGin Achieves AWS Energy Competency Status"
-    excerpt: "SUNNYVALE, Calif., (BUSINESS WIRE) -- KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status."
-    publishedDateTime: 2023-03-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/kloudgin-achieves-aws-energy-competency-status-2023-03-23"
+  - title: "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation"
+    excerpt: "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?"
+    publishedDateTime: 2023-03-24T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 801
         isCached: true
-  - title: "KloudGin Achieves AWS Energy Competency Status"
-    excerpt: "–(BUSINESS WIRE)–#awspartners—KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency stat"
-    publishedDateTime: 2023-03-23T13:19:00Z
-    webUrl: "https://www.01net.it/kloudgin-achieves-aws-energy-competency-status/"
+  - title: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning"
+    excerpt: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning - SiliconANGLE"
+    publishedDateTime: 2023-03-20T13:30:00Z
+    webUrl: "https://siliconangle.com/2023/03/20/chief-data-analytics-officers-must-lead-upskilling-initiatives-data-science-machine-learning/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/binary-2372130_1920-geralt-pixabay.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Pimloc hires US sales leader, taking its AI-powered video privacy and analytics technology to North America"
+    excerpt: "Pimloc, the company using artificial intelligence (AI) to anonymise personal data in videos announces the hire of its first sales leader in North America, Tom Fashola, who will serve as Vice"
+    publishedDateTime: 2023-03-22T11:51:00Z
+    webUrl: "https://www.sourcesecurity.com/news/pimloc-hires-sales-leader-ai-powered-co-1643361442-ga.1679471839.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 18
+  - title: "Altair Announces Altair RapidMiner: One Converged Platform for Data Analytics and Artificial Intelligence"
+    excerpt: "TROY, Mich., March 16, 2023 /PRNewswire/ -- Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI), announced the rebrand of its entire data analytics and AI suite as Altair RapidMiner, uniting all data ..."
+    publishedDateTime: 2023-03-21T18:40:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313325&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "ZlZAy6qTL5OTJh+hlnqOsC4/AWSm3BASeFHBh6bL+6hMNR5p1thrzkKOOVuVLNJXJPQRQeyuSTo30eaE69j8KiRCPCrF+VQGc6jYO3A7RaggNXiEtCMlm5MLVd5+y8BjT1N/no5dfDanvsbEpLrGSUVcRrgky76xsroedWDHu0Ioy6rYDaG33cOriDG4TcZG1cJVoIL0N1IQJznV6Agd2aH0X9sQ/yamd5jc2p/Hi+1Q3rx1vlPAOWYJYioE+nYX93TkUAuaJ1TfsLBHSOJtLiMEs1T60PujTWzvfu6aFeQVIemfHyMj2UDEF2tEaovCGcjgdgWzsQZTlaODGya49QGxZKhnIMiGGGYT0MyGJNxKeFD/Cvrf5A3Hf924j3ECirXpuFyGmqlZm1dq+Q3TslWmm4sE1eobu2dOfxQDUt9uSHm4Nwq40dMn+k1XS1015wO65srRMs4ImCbQswyp/Cj3mbc78gd9F64In/R7aJbzmZBv+A9t415c9KeWqqqMmY2sLQd0XA3DpcuSL4tWEw==;bc+p3MHuCtAFv3Y9vvZ8zw=="
 ---

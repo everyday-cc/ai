@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "COQUI : A Generative AI Speech Innovation Will Revolutionize This Market"
-    excerpt: "Ex-Mozillians raise $3.3M for Coqui, generative AI speech synthesis for all creatives Coqui enables creatives to quickly and easily create, cast, and direct AI voice actors without all the hassle."
-    publishedDateTime: 2023-03-19T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/03/19/coqui--a-generative-ai-speech-innovation-will-revolutionize-this-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64175a98fd43cd008f7ffb6e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 714
-        isCached: true
   - title: "Healthcare AI Market Growth and Forecast till 2030"
     excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
     publishedDateTime: 2023-03-21T05:02:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T13:01:00Z
 originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/370331/calls-for-ai-models-stored-on-bitcoin-gain-traction"
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/370331/calls-for-ai-models-stored-on-bitcoin-gain-traction"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: IT Pro

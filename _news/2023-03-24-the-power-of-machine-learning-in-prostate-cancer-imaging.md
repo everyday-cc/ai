@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T13:32:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-power-machine-prostate-cancer-imaging.html"
 webUrl: "https://medicalxpress.com/news/2023-03-power-machine-prostate-cancer-imaging.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-15-how-ai-and-machine-learning-are-improving-fraud-detection-in-fintech.md",
+      "title": "How AI and Machine Learning Are Improving Fraud Detection in Fintech",
+      "excerpt": "Identity theft is common, but with the rise of AI and machine learning, its effect on the fintech industry has been reduced drastically. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1675865542-GettyImages-1440452862.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-accelerating-your-machine-learning-pipeline-with-an-ml-platform-team.md",
       "title": "Accelerating Your Machine Learning Pipeline With An ML Platform Team",
       "excerpt": "If your data scientists are responding to issues with models at odd hours or burning cycles supporting tooling, you're likely ready to set up a centralized ML platform team.",
@@ -1290,49 +1343,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029.md",
-      "title": "Artificial Neural Networks Market 2023 (Newest 121 Pages Report) is Booming Worldwide 2029",
-      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for Artificial Neural Networks market will have huge change from earlier year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

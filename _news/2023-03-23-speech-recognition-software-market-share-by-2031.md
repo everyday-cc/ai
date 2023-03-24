@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning (ML) Platforms Market Size by 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
-    publishedDateTime: 2023-03-24T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "3D Facial Recognition Systems Market Size by 2031"
-    excerpt: "The \"3D Facial Recognition Systems Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-23T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-size-by-2031-2023-03-22"
+  - title: "Computer Vision Development Market Growth by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- The \"Computer Vision Development Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
+    publishedDateTime: 2023-03-23T01:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-growth-by-2031-2023-03-22"
     type: article
     provider:
       name: MarketWatch
@@ -57,10 +43,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving or Driverless Cars Market Size by 2031"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
-    publishedDateTime: 2023-03-24T03:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23"
+  - title: "Artificial Intelligence in IoT Market Growth by 2031"
+    excerpt: "One major attraction about Artificial Intelligence in IoT Industry is its growth rate. Many major technology players are [Anagog, Microsoft, Softweb Solutions, Salesforce, Imagimob, GE, AWS, Thingstel, PTC, Hitachi, Autoplant Systems India Pvt. Ltd., IBM ..."
+    publishedDateTime: 2023-03-24T14:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-growth-by-2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
@@ -71,10 +57,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Conferencing Transcribing Market Size by 2031"
-    excerpt: "Many major technology players are [Nuance, Voicea, IBM WATSON, TranscribeMe, Verbit.ai, Otter.ai, QNAP, Google, Sonix, Amazon Transcribe, Trint] have been looking into Video Conferencing Transcribing as a way to increase their market share and reach ..."
-    publishedDateTime: 2023-03-24T03:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-size-by-2031-2023-03-23"
+  - title: "Hybrid Voice Recognition System Market Share by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Hybrid Voice Recognition System Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-24T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-share-by-2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch

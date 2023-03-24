@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-environment-development-trend-in-2023-2023-03-19"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."
+    publishedDateTime: 2023-03-22T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-fintech-market-report-informs-users-about-current-trends-and-their-effects-on-the-market-as-well-as-useful-market-insights-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

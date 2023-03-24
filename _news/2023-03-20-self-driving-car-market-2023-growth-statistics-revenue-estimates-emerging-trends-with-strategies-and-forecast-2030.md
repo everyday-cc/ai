@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2023-growth-statistics-revenue-estimates-emerging-trends-with-strategies-and-forecast-2030-2023-03-20"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -29,35 +29,79 @@ images:
     isCached: true
 
 related:
-  - title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
-    excerpt: "The \"Hospital Logistics Robots Market by Type and Application - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to"
-    publishedDateTime: 2023-03-23T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
+  - title: "Self-Driving or Driverless Cars Market Size by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-24T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "With CAGR 21.2%, Graphics Processing Unit (GPU) Market Size, Share, Latest Trends, Global Growth, Recent Developments and Future Demand 2023-2029"
-    excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the"
-    publishedDateTime: 2023-03-20T08:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31414583/with-cagr-21-2-graphics-processing-unit-gpu-market-size-share-latest-trends-global-growth-recent-d"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31414583"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31414583"
+  - title: "Machine Learning in Manufacturing Market : Global Strategic Business Report 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- “Machine Learning in Manufacturing Market” information for each competitor includes [ NVIDIA, Dell Inc., Oracle Corporation, SAS ..."
+    publishedDateTime: 2023-03-21T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-global-strategic-business-report-2031-2023-03-21"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Company Ouster Reports Sales Miss"
+    excerpt: "Lidar maker Ouster reported sales that fell short of Wall Street estimates, but the company just wrapped up its merger with Velodyne, making the past less relevant than what is coming in 2023 and beyond. Ouster (ticker: OUST) reported sales of $11 million ..."
+    publishedDateTime: 2023-03-23T21:36:00Z
+    webUrl: "https://www.barrons.com/articles/ouster-stock-price-earnings-28349e3b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ouster-stock-price-earnings-28349e3b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 61
+    images:
+      - url: "https://images.barrons.com/im-383342/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Aston University project improves its driverless vehicle’s capabilities"
+    excerpt: "Aston University has completed a two-year Knowledge Transfer Partnership (KTP) with Coventry-based global transport technology firm Aurrigo, resulting in a sophisticated machine vision solution making its autonomous vehicles more capable."
+    publishedDateTime: 2023-03-23T02:32:00Z
+    webUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/"
+    ampWebUrl: "https://indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/aston-university-project-improves-its-driverless-vehicles-capabilities/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2023/03/Autopod-UI-1.jpg?fit=671%2C512&ssl=1"
+        width: 671
+        height: 512
+        isCached: true
+  - title: "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing"
+    excerpt: "Baidu and Pony.ai said on Friday they have won permits to provide fully driverless ride-hailing services in the Chinese capital of Beijing."
+    publishedDateTime: 2023-03-20T17:52:00Z
+    webUrl: "https://www.business-reporter.co.uk/technology/baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing-8083"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 52
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "UVRaKACHmOtXsAMka/ECcrWkrR6ocnoEuxNBOHf7TIi/j8KuJH0KlffL7h0Dl1LMc1FuDLHR5I+jGgL32GZPuXfgeKPAZ3arD87mjEuyZ0SvrY2GVrsylqyzHkC7sYWEaoZffxERtQPAepMMwzNh8I9bSuXGd7YKoI2I7+xBqFR+0enLbpZjlAJzpokPz1WOC8ANP4zGcjZ/aKBYqfIz23S9vP//8zNmWvOb0tgcoSebYJJrmPraP+XvMH6iQGZjCfBJHtdYcKjOci//um3LDyZ1VmromV2r1/6w7/SDT2Y9g7N9w+aUSkZ0kGD34TYg+Mk1uUvsGfhQ1JdXfaJkp5Jsl/OLasJagJjwIS2ncVw=;amQSX171+n6+psOBdtGI1w=="

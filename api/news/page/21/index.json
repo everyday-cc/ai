@@ -2,6 +2,189 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
+      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
+      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
+          "width": 4846,
+          "height": 3620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-an-overview-of-machine-learning-pipeline-and-its-importance.md",
+      "title": "An overview of Machine Learning pipeline and its importance",
+      "excerpt": "A Machine Learning (ML) pipeline is used to assist in the automation of machine learning processes. They work by allowing a sequence of data to be transformed and correlated in a model that can be tested and evaluated to achieve a positive or negative outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "originalUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage53595/soft2b.jpg",
+          "width": 683,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-the-new-world-of-ai-chatbots-like-chatgpt.md",
+      "title": "The new world of AI chatbots like ChatGPT",
+      "excerpt": "The large tech companies – Google, Meta/Facebook, Microsoft – are in a race to introduce new artificial intelligence systems and what are called chatbots, that you can have conversations with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
+      "originalUrl": "https://www.cbsnews.com/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/05/3d917182-2852-49f9-abaf-b100905e1205/thumbnail/1200x630/ac1a5c209a5c942f82ba00c447755d97/chatgptarticle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/chatgpt-artificial-intelligence-chatbots-60-minutes-2023-03-05/",
+      "publishedDateTime": "2023-03-06T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu.md",
+      "title": "Microsoft Edge Canary can now upscale videos using the power of AI and your GPU",
+      "excerpt": "The feature uses machine learning, artificial intelligence, and the power of a PC's GPU to increase the resolution of videos to up to 720p. The functionality is now available in Microsoft Edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
+      "originalUrl": "https://www.windowscentral.com/software-apps/microsoft-edge-canary-can-now-upscale-videos-using-the-power-of-ai-and-your-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DNhWfhWjxiMbh496AfG2KF-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-artificial-intelligence-can-predict-cancer-survival-using-data-from-a-single-consultation.md",
       "title": "Artificial Intelligence Can Predict Cancer Survival Using Data From a Single Consultation",
       "excerpt": "Artificial intelligence can predict survival in cancer patients using information from a patient’s initial consultation with an oncologist, a study suggests.",
@@ -906,187 +1089,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
-      "title": "Trends that are likely to characterize the Fintech industry in 2023",
-      "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "publishedDateTime": "2023-03-05T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
-      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
-      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-736463/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-government-funding-to-accelerate-research-in-ai-healthcare-technologies.md",
-      "title": "Government funding to accelerate research in AI healthcare technologies",
-      "excerpt": "Tens of thousands of patients across the country could benefit from quicker, earlier diagnoses and more effective treatments for a range of conditions - as the government invests nearly £16 million into pioneering artificial intelligence research (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "publishedDateTime": "2023-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-remote-control-man-in-philippines-uses-robot-to-buy-bubble-tea-in-singapore.md",
-      "title": "Remote control: Man in Philippines uses robot to buy bubble tea in Singapore",
-      "excerpt": "He was using a robot to do just that in Singapore, which is thousands of kilometres away. On Friday (March 3), TikTok user FrodoBots posted a minute-long clip, showing how he remotely controlled a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/singapore/remote-control-man-philippines-uses-robot-buy-bubble-tea-singapore",
-      "originalUrl": "https://www.asiaone.com/singapore/remote-control-man-philippines-uses-robot-buy-bubble-tea-singapore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/05032023_robot%20buys%20bubble%20tea_%20tiktok_frodobots.jpg?h=890bec70&itok=APprMF1Z",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T19:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

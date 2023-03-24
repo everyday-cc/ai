@@ -27,7 +27,7 @@ related:
     provider:
       name: WBUR
       domain: wbur.org
-    quality: 46
+    quality: 48
     images:
       - url: "https://wordpress.wbur.org/wp-content/uploads/2016/06/Radio-Boston-Artwork-Tile-3000px_wbur-1.jpg"
         width: 3000
