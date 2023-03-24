@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Is Booming Worldwide Forecast 2023-2029"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in Platform as a Service (PaaS) Market in Information and Communication Technology , Information ..."
+    publishedDateTime: 2023-03-24T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-is-booming-worldwide-forecast-2023-2029-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

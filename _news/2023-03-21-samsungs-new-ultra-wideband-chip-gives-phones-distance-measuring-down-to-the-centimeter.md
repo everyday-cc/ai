@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsungs-new-ultra-wideband-chip-gives-phones-distance-measuring-down-to-the-centimeter/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Best Samsung robot vacuum deals during the Discover Samsung sale"
+    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
+    publishedDateTime: 2023-03-22T20:33:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "n6mFb+amjlafgwJ2H12Kw1SxDSv4tZJ4jB/52ZEadjT1r+8yt59ocpsLqFKaDAUCDx0I8JN/s89oiBFIG5lxC4vi1UI6m7Xk/vVyl5/hheVtYq00MWoD/+ehLWO9AiryFsWZBgelmb01znHjKTsHyPkzwX2IXByINkdIih4+Rshe3wBnCNmtVDoT396scQzwMYlS9adf5EqIEUUHvShDhFH9i9FbjMb7BlHeAv5zRPCLvsm1e0fZfuP8JOFfsDmxNn/P52sOg7jx0QJt7KZ/6RBaFTZX/b5yQ6cCThKcIMzF2boBC9z4EB6KmUoCV6y8XUuTWXk69sgdhN88QlpmEsWLzQOB27WvjVLfUBYD2ukptzTpBEW6AMeA1hZCg04LhEkIqtvWC9ecZWyrxKATH+bYhMSYMXkMKTgzJvlmtdeR8VlfM0QBfRZ+vmBuP9HTZ6CnQEIrfCZqvJ+gYwilJkYraZtApF383XqFj8r4kF9JzTg23aNefp8Fz5lsD5o3O1/yuUcT9oXgRZ4HxtlJUg==;teRGmsPw4WWws+f3kOYBQg=="
 ---

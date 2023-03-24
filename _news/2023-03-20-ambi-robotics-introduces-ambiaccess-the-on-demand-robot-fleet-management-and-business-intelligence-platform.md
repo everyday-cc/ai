@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Ambi Robotics Introduces AmbiAccess, The On-Demand Robot Fleet Management and Business Intelligence Platform"
-excerpt: "Ambi Robotics, the leading provider of AI-powered robotic parcel sorting systems that empower warehouse operators to handle more, today introduces AmbiAccess, a cloud-based business intelligence platform enabling customers to get even more out of their Robots-as-a-Service (RaaS) investment."
-publishedDateTime: 2023-03-20T13:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-introduces-ambiaccess-on-demand-robot-fleet-/2023/03/20/9779580.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-introduces-ambiaccess-on-demand-robot-fleet-/2023/03/20/9779580.htm"
+excerpt: "About Ambi Robotics Ambi Robotics is an artificial intelligence (AI) and robotics company developing advanced solutions that scale ecommerce operations to meet demand while empowering humans to ..."
+publishedDateTime: 2023-03-20T12:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230320005162/en/Ambi-Robotics-Introduces-AmbiAccess-The-On-Demand-Robot-Fleet-Management-and-Business-Intelligence-Platform"
+webUrl: "https://www.businesswire.com/news/home/20230320005162/en/Ambi-Robotics-Introduces-AmbiAccess-The-On-Demand-Robot-Fleet-Management-and-Business-Intelligence-Platform"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
@@ -34,6 +34,6 @@ related:
         height: 338
         isCached: true
 
-secured: "AbHR/1wDbZm96eM9oPsxXVFbfwFBsy7vXgFDecJ4od9Pbgt4noO/OO1HeYo3rWvkxOIoQphGgLsmcYZhTXC0vWQoV9aLjcaa4h/ASFoPS321LvLwyf3Trvr4QXZvpkkS6Ope14Jcv6fbMdzrKJcdD9NCLTdSVGGHed1WByDifFsiFZOl3zg90MUkvkWHajEKtOSx8DhNsi3zY11bPoPzDYC0fkFudkXRvHpJ49ZCyMe+E++E2dIAllgIxX8WxGyOfTQ7wdbOt8uwdG6PriWJZeMM7ZUZK48vkjFp3m6e31ee2m1lmgTMSBNwQRkRma2b6MXRMIdlK7CqmwMb51zLrF74RnPg52P0FinFrxZauJA=;3yu7iDD66ngaIVCB3c/lxQ=="
+secured: "H0b/iFe81x65WLvPz8+l9lPqWLpa0PVoxTaya5VHJdD3Xn3MLeFqm3tf5ftiQCgr/ZHdR2CnXuZw+I7jjBErwMOhcUwTRM1rEjJx5bzEHA8MQCDR2lBKd3V+ZNUgmJBOY0oFdUSiZaTSbzNXmilcc5pj5c4hMrQrVP/OA+3g8nWm9Mqo8GJB4Dl8F327y4CKlZ9QifYp823PLgRiuCtRsvDv71JObHNN/lOngkFGqJQomuWDsukDXOqVYCrDmtSta2Z7bPX1fahMya71KUwQledQWuQb5zLAuJ9db+R+mHY7y0tAHEMZFxEivFCduysO6hOGeJrZDxMT0v/fp1KYZNB97GjfLVCydOEsrMtI6Zo=;w4O05eGD/m9aeR9+idFVBw=="
 ---
 

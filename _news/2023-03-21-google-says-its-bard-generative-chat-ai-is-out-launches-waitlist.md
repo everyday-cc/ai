@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generat
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-30-at-12.10.38-PM.png"
         width: 412
         height: 410
-        isCached: true
-  - title: "A Venture Capitalist Imagines What Generative AI Will Change"
-    excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
-    publishedDateTime: 2023-03-19T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-744470/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
     excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."

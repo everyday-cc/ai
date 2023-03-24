@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Venture Capitalist Imagines What Generative AI Will Change"
-    excerpt: "Martin Casado of Andreessen Horowitz predicts the marginal cost of creating content will be close to zero. But it’s anybody’s guess what that will mean."
-    publishedDateTime: 2023-03-19T14:00:00Z
-    webUrl: "https://www.wsj.com/articles/venture-capitalist-martin-casado-what-generative-ai-will-change-c3143190?mod=journal_reports_lead_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-744470/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google's 'Bard' AI chatbot set for next stage; waitlist opens up"
     excerpt: "Google announced Tuesday it's allowing more people to interact with \" Bard,\" the artificially intelligent chatbot the company is building to counter Microsoft's early lead in a pivotal battleground of technology."
     publishedDateTime: 2023-03-21T14:55:00Z

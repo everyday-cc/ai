@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-va
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-23/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Robot Vacuum Deals to Shop from the Discover Samsung Sale Event"
+    excerpt: "This smart 'bot even has object recognition, helping it avoid items like socks and cables. If stick vacuums are more your speed, we also found incredible cordless stick vacuum options to shop for your home."
+    publishedDateTime: 2023-03-22T23:02:00Z
+    webUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313"
+    ampWebUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 60
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "ECOVACS Launches State-of-the-Art, AI Powered Robot Vacuum DEEBOT T10 OMNI, Offering the Ultimate Hands-Free Cleaning Solution"
     excerpt: "With auto-grade self-driving technology and smart assistant YIKO, deep whole-home cleaning is just a voice command awaySAN MATEO, Calif., March"
     publishedDateTime: 2023-03-21T15:00:00Z

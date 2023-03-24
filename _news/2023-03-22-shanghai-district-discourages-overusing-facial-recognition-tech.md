@@ -2,9 +2,9 @@
 category: news
 title: "Shanghai District Discourages Overusing Facial Recognition Tech"
 excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
-publishedDateTime: 2023-03-22T04:47:00Z
-originalUrl: "https://www.sixthtone.com/news/1012550/shanghai-district-discourages-overusing-facial-recognition-tech-?source=channel_home"
-webUrl: "https://www.sixthtone.com/news/1012550/shanghai-district-discourages-overusing-facial-recognition-tech-?source=channel_home"
+publishedDateTime: 2023-03-22T12:12:00Z
+originalUrl: "https://www.sixthtone.com/news/1012550/"
+webUrl: "https://www.sixthtone.com/news/1012550/"
 type: article
 quality: 54
 heat: -1
@@ -56,6 +56,22 @@ related:
       - url: "https://www.informationng.com/wp-content/uploads/2023/03/MMIA.jpg"
         width: 700
         height: 420
+        isCached: true
+  - title: "Airport gets facial recognition technology"
+    excerpt: "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ..."
+    publishedDateTime: 2023-03-24T06:02:00Z
+    webUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology"
+    ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg"
+        width: 640
+        height: 426
         isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
@@ -150,6 +166,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "aoKviaw1572/xACybB+xDE85U6XEFwwKC/lmhAVs6m3wyuKCQm6Yxc99HwCsifmyikBoXAMZPM8nHMSi55bvyW59FgJc81VQTRWLSqfF+ZaYnCxuLeJzKlXjS74fH7n/dsMy2J2eDaqwtEGLDkQOw2k2Jxgr7EJRfac1hMU3SzjLOpFmfh76ztqrA9woHPIeLye1EYMQNv5qs3xMGDo/8gdGew2meyj8TSc/GRm2LRqe3ec75w7S1N2e4m6WnPJzjan2FiAlPOPLe3V9dDPE0wxA3S788B0JVAFiibR7imVBukCwmtM33R5B5IiCuhmukuGU5JgZAIM9XVf12nnIUIGMj92R/N42Lv4t0JUMQeELWaO9qVBYMfHcBvl+DeVGPUEWHAXfQkizPk7FNjS95hCjQJk4aT3FBwyfDQAu1RCK2HFUSLJeVSyVy0aESoS6ql3JElEdac+GLXT+SDwwCsTmpJc5maP1Cielh3OmjWREbrEGze9RKxY2/dO/epmYMplwH+sCxT/OlctJww/4Lg==;nehRcuXYehlb35q92MHJUA=="
+secured: "HM2tnHKDTV9RGoVhCYOE5lcoS9ptiroOlTWNhMkhEN8BJrj0VTt8jo1GGbnzsEzznE2Q188td8CKHgDO2bW57a4cO029unlJOy6wkbl3P5QoEH1LhVisFZApUXOiHFbG2aQ5AJXXoNBqV20Swn1qgTN0f5RcXM+gjAk3QHyXL67ZWQSLbx9qi++Dg7wlx4bY3uQzjacHhQu4U6/E7iKcyWIPRszUoQCEb22837cnPKZX1C/yO8eMRHrfV6B/HbAeOkBIb/yHt5WBYmkWwaLfF3wVFVUZ8vuCLociqQXKIBfE/+oz4HCg+EaWIGg2zhnTXi/ugdn38d5S4DjSIfE3rWXLEKh9KYyqqTKSC8Q9SPc=;6NdwugdTua3XfCTcsNzxNA=="
 ---
 

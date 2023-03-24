@@ -2,6 +2,103 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-24-as-big-tech-suffers-startups-can-grow-with-ai.md",
+      "title": "As Big Tech suffers, startups can grow with AI",
+      "excerpt": "Startups and large enterprise alike only benefit when they leverage AI to automate and scale operations and services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "originalUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
+      "publishedDateTime": "2022-12-23T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-24-artificial-intelligence-tool-developed-to-help-make-real-time-diagnoses-during-surgery.md",
+      "title": "Artificial intelligence tool developed to help make real-time diagnoses during surgery",
+      "excerpt": "When a patient undergoes a surgical operation to remove a tumor or treat a disease, the course of surgery is often not predetermined. To decide how much tissue needs to be removed, surgeons must know more about the condition they are treating,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
+      "publishedDateTime": "2022-12-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-12-23-autonomous-vehicles-reality-check-part-2-moving-people.md",
       "title": "Autonomous Vehicles Reality Check Part 2: Moving People",
       "excerpt": "When it comes to Autonomous Vehicles, the dynamics of the technical, operational, and business factors are diverse. This Part Two of a three-part article series examines AV-enabled people-carrying. And,",
@@ -1324,85 +1421,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-artificial-intelligence-in-veterinary-medicine-raises-ethical-challenges.md",
-      "title": "Artificial intelligence in veterinary medicine raises ethical challenges",
-      "excerpt": "Use of artificial intelligence (AI) is increasing in the field of veterinary medicine, but veterinary experts caution that the rush to embrace the technology raises some ethical considerations.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
-      "originalUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/veterinarian.jpg",
-          "width": 1920,
-          "height": 1371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-artificial-intelligence-veterinary-medicine-ethical.amp",
-      "publishedDateTime": "2022-12-14T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-what-psychology-means-for-the-future-of-self-driving-cars.md",
-      "title": "What Psychology Means for the Future of Self-Driving Cars",
-      "excerpt": "Short of teleportation, few technological dreams are more appealing than getting from point A to point B in a self-driving car: a vehicle able to whisk you away at a moment’s command, and that grants countless hours of newfound free time en route.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/your-internet-brain/202212/what-psychology-means-for-the-future-of-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

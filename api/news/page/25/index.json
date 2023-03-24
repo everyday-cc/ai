@@ -2,6 +2,148 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026",
+      "excerpt": "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-performance-marketing-engine-wunderkind-raises-76m-with-focus-on-ai-machine-learning.md",
+      "title": "Performance Marketing Engine Wunderkind Raises $76M, With Focus On AI, Machine Learning",
+      "excerpt": "Wunderkind, which helps brands target website visitors with emails and texts, has raised $76 million in funding, despite the ongoing controversy over ad targeting. CEO Bill Ingram says Wunderkind is making heavy investments in AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/03/02/billingram-wunderkind-600_rgM5BCs.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
+      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
+      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "publishedDateTime": "2023-03-01T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
       "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
       "excerpt": "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,",
@@ -1053,144 +1195,6 @@
         "AI",
         "AI in Marketing",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you.md",
-      "title": "Ketamine-Assisted Therapy Coming Soon To An HR Department Near You",
-      "excerpt": "The controversial medication Ketamine is the only legal psychedelic medicine becoming more popular to treat mental health, and it's finding it's way into the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
-      "originalUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e638794656f9a9c2f721e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
-      "publishedDateTime": "2023-03-01T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-deep-learning-model-may-help-expand-lung-screening-programs.md",
-      "title": "Deep Learning Model May Help Expand Lung Screening Programs",
-      "excerpt": "Sybil could help, say researchers. Sybil is a validated deep learning model that predicts future lung cancer risk based on a single low-dose CT (LDCT) scan, they explain. The model was developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/988863",
-      "originalUrl": "https://www.medscape.com/viewarticle/988863",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/gty_210831_lungs_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-natural-language-processing-nlp-market-global-research-report-with-opportunities-and-strategies-to-boost-growth-and-revenue-over-2023-2033.md",
-      "title": "Natural Language Processing Nlp Market Global Research Report With Opportunities, And Strategies To Boost Growth, And Revenue Over 2023-2033",
-      "excerpt": "Natural Language Processing Nlp Market Research IBM (US), Microsoft (US), Google (US), AWS (US), Meta (US), 3M (US), Baidu (China), Apple (US), SAS Institute (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
-      "originalUrl": "https://menafn.com/1105680904/Natural-Language-Processing-Nlp-Market-Global-Research-Report-With-Opportunities-And-Strategies-To-Boost-Growth-And-Revenue-Over-2023-2033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?7253",
-          "width": 281,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

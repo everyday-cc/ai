@@ -346,6 +346,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-19-microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies.md",
+      "title": "Microsoft and Baidu team up to boost development of self-driving car technologies",
+      "excerpt": "Microsoft and Chinese search giant Baidu have announced a new partnership ... to help bring safe self-driving vehicles to market more quickly. According to research from McKinsey, up to 15% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2017/07/1500392516_microsoft-baidu-cars_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-baidu-team-up-to-boost-development-of-self-driving-car-technologies/",
+      "publishedDateTime": "2023-03-18T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-18-heres-why-artificial-intelligence-fails-to-match-accuracy-of-human-vision.md",
       "title": "Here's why Artificial Intelligence fails to match accuracy of human vision",
       "excerpt": "While computers may be able to spot a familiar face or an oncoming vehicle faster than the human brain, their accuracy is questionable.",
@@ -811,6 +864,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "A technician monitors a self-driving taxi developed by tech giant Baidu Inc. on June 14, 2022, in Beijing. (AP Photo/Ng Han Guan) BEIJING (AP) — With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://www.courthousenews.com/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.courthousenews.com/wp-content/uploads/2022/06/baidu-self-driving-taxi.jpg",
+          "width": 2600,
+          "height": 1733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1321,92 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-artificial-intelligence-tools-becoming-unavoidable-lawmakers-say.md",
-      "title": "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say",
-      "excerpt": "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "originalUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "publishedDateTime": "2023-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBN 27 First News",
-        "domain": "wkbn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-you-have-no-idea-what-artificial-intelligence-really-does.md",
-      "title": "You Have No Idea What Artificial Intelligence Really Does",
-      "excerpt": "Here it was, finally — a robot plucked straight out of science fiction, the closest thing to true artificial intelligence ... those being developed for self-driving cars, do all their learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/artificial-intelligence-hype",
-      "originalUrl": "https://futurism.com/artificial-intelligence-hype",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2018/10/artificial-intelligence-hype-deception.png",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

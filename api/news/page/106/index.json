@@ -2,6 +2,154 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-12-22-10-databases-supporting-in-database-machine-learning.md",
+      "title": "10 databases supporting in-database machine learning",
+      "excerpt": "After AutoML training, Redshift ML compiles the best model and registers it as a prediction SQL function in your Redshift cluster. You can then invoke the model for inference by calling the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607762/10-databases-supporting-in-database-machine-learning.amp.html",
+      "publishedDateTime": "2022-12-21T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
+      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
+      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-22-model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics.md",
+      "title": "Model Engineering College to set up centre of excellence in AI, Robotics",
+      "excerpt": "APJ Abdul Kalam Technological University (KTU) has set apart ₹10 crore for the first phase of the project. The centre will come up at a space of around 60,000 sq.ft. The centre has been proposed as a separate entity under the university to undertake advanced research in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Kochi/model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics/article66288526.ece/amp/",
+      "publishedDateTime": "2022-12-21T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-nvidia-may-be-working-on-an-enormous-quad-slot-gpu.md",
       "title": "Nvidia may be working on an enormous quad-slot GPU",
       "excerpt": "The Nvidia RTX 4090 is a great GPU, but Nvidia may have something much more powerful in the works -- a new version of the Titan card.",
@@ -1081,135 +1229,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-sambanovas-dataflow-as-a-service-recognized-as-the-best-big-data-deep-learningai-solution-by-the-2022-tech-ascension-awards.md",
-      "title": "SambaNova's Dataflow-as-a-Service™ Recognized as the Best Big Data Deep Learning/AI Solution by the 2022 Tech Ascension Awards",
-      "excerpt": "SambaNova Systems, the company delivering the industry's only comprehensive software, hardware, and solutions platform to run Artificial Intelligence (AI), deep learning, and foundation models, today announced its Dataflow-as-a-Service™ product has been recognized as the \"Best Big Data Deep Learning/AI Solution\" by the 2022 Tech Ascension Awards .",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/20/9733719.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/20/9733719.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-20T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-openai-releases-point-e-an-ai-that-generates-3d-models.md",
-      "title": "OpenAI releases Point-E, an AI that generates 3D models",
-      "excerpt": "The next breakthrough to take the AI world by storm might be 3D model generators. This week, OpenAI open sourced Point-E, a machine learning system that creates a 3D object given a text prompt. According to a paper published alongside the code base,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "originalUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/point-e-openai-e1671557202971.png?resize=1200,729",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "publishedDateTime": "2022-12-20T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls.md",
-      "title": "Tech Tuesday: Super Mario World, handwriting AI, robots climbing walls",
-      "excerpt": "From Super Mario World to Google taking on doctor’s handwriting and robot dogs that can climb walls, tech expert Greg Nibler joined AM Extra for the latest tech news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
-      "originalUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2022/12/Super-Mario-World-Universal-Studios-12202022.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/am-extra/tech-tuesday-super-mario-world-handwriting-ai-robots-climbing-walls/amp/",
-      "publishedDateTime": "2022-12-20T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Size and Share | Industry Size"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) in Social Media Market in Information Technology Industry. The Global Artificial Intelligence ..."
+    publishedDateTime: 2023-03-24T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-size-and-share-industry-size-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Outlook to 2028"
     excerpt: "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions"
     publishedDateTime: 2023-03-21T04:49:00Z
@@ -326,6 +340,20 @@ related:
     excerpt: "Mar 23, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
     publishedDateTime: 2023-03-23T22:52:00Z
     webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-market-size-growth-global-industry-trends-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Enabled Smart Trackers Market: Key Players and Strategies for Future Growth by 2023-2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"AI Enabled Smart Trackers Market\" research report is a comprehensive study that provides valuable insights into the industry's growth ..."
+    publishedDateTime: 2023-03-24T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-enabled-smart-trackers-market-key-players-and-strategies-for-future-growth-by-2023-2027-2023-03-24"
     type: article
     provider:
       name: MarketWatch

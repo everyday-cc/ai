@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-11-divilo-selects-thetaray-ai-solution-to-monitor-global-payments-for-financial-crime.md",
+      "title": "Divilo Selects ThetaRay AI Solution to Monitor Global Payments for Financial Crime",
+      "excerpt": "Through the agreement, ThetaRay will provide Divilo its SONAR solution, a SaaS-based AML transaction monitoring and sanctions list screening platform, for domestic and cross-borde",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/01/11/9741276.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/01/11/9741276.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-machine-learning-as-a-service-mlaas-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2029.md",
       "title": "Machine Learning as a Service (MLaaS) Market Massive Growth Strikes Due To Technological Innovation During 2023-2029",
       "excerpt": "Market Research Report is spread across 122 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. Machine Learning as a Service (MLaaS) Market Size is projected to Reach Multimillion USD by 2029,",
@@ -1386,59 +1420,6 @@
         "Facebook AI",
         "Google AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-a-tech-worker-is-selling-a-childrens-book-he-made-using-ai-professional-illustrators-are-pissed.md",
-      "title": "A Tech Worker Is Selling A Children's Book He Made Using AI. Professional Illustrators Are Pissed.",
-      "excerpt": "Ammaar Reshi told BuzzFeed News that he has received death threats and messages encouraging self-harm on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/11/17/campaign_images/7d22e253fcf3/which-jenna-ortega-character-are-you-2-414-1670780454-80_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "publishedDateTime": "2022-12-13T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

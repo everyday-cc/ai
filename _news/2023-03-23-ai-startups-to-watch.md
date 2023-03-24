@@ -3,8 +3,8 @@ category: news
 title: "AI startups to watch"
 excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
 publishedDateTime: 2023-03-23T14:16:00Z
-originalUrl: "https://www.bizjournals.com/houston/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/houston/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/albuquerque/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/albuquerque/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
 type: article
 quality: 17
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 330
         isCached: true
 
-secured: "ZLn1vQhX2qkO+vidT4vfHqMr4whWtpWK9FbyEJeyt84ElUkMA3+ZcZy3fnfwndLUl7ufBAKKYmCha5GBUNN5WGPt7rIgfWWL68l6El+yPMeOYHIO1rYjxodAVYIGNlZmJ+fZP2Z/C+uw7pSXJeV2ZpLa5rBqqZ/lPNyVntB3k4O84gmHOzAPm+dahhybCDvtuMzG9cZbZfhdwqzyzfMuQ7CitMAQBqDNyL1BMTvpCHeZzvZCK+uXGtYVvGG3A3ZuBLbCAQe6/3wDkrS1ximVsBAjkq/UEkNzgkm7SQU+dRBia5HMeG6YnipXv1HhGow55BEIy8KBBMngpRfZEDrWsVZ6nmTt13oU/HmhgwPh/7eXVUzPHuOxCfU+j4uhaCko0R1xzsnz3pu6HiDCUqqDwAziIl9+zqneyb1xzGpx+w/queOgd48Cc4sBy8BbWSpQx5SH9fjoVjeYo+/Xf/HXx7XvP+7Lk8HQBWKtAUcsqJpFwMCqkhbLZau+Viq7dwiqyHp1U0SCZZ+ulCYZX4O5Bw==;EmJsM8tcdNQJRdgMuglFcw=="
+secured: "WTW7Btj7lJMbB88+T++lZKDbOAdFWqMk0iY00dU/cLucQa0EyQMiSYDOQ/78RV4CN/rzmfa0IsDmz+2rQAnqUrLuuafN5StrDS4LcgbFfVXaL7tnWKPQrPPMI3jhch8xRxKb2tW0V6+ImdCo2zksWVgIW7AwfrKfdhwvKqn0NgFgSPun2NxLe2RiCfSuzNpOD//+r8hL3JE7ZDEYV48yPmj7sOggUHD+CP6RyU5FeSflUPi7a7VV8tNI0QvySDRYa0ImUyLLge1Ujh0sxHdhJoqvVIufPWIzUjOCMrCOgccvzNZIkPfWHyAHXXIO5OSNgHz/199dKqpQ1PwbjXI4SUAePs3KTQbSJ+dCOMU2G30fr97QeEz9BA5IMtDbt2aOEhpbaOoY8PqdNkvJ9/GOPvYVQkp10OQwcV/Tz2dGeBEj0cbPgT271rbPfs46vdoBIxbhnZHHsaVfFc861HGhPLlAW9xzwxy6wMx77LxmKEXZcOjkb/tNFadIGp4if5lZFr5xWmhH4I5d6L9OMMbfgw==;XSVKD1VPlJs8RA2lHN7CTg=="
 ---
 

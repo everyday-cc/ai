@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Best Robot Vacuum Deals to Shop from the Discover Samsung Sale Event"
+    excerpt: "This smart 'bot even has object recognition, helping it avoid items like socks and cables. If stick vacuums are more your speed, we also found incredible cordless stick vacuum options to shop for your home."
+    publishedDateTime: 2023-03-22T23:02:00Z
+    webUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313"
+    ampWebUrl: "https://www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-robot-vacuum-deals-to-shop-from-the-discover-samsung-sale-event-196313?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 60
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Best Dyson deals: The best spring cleaning deals on vacuums, air purifiers and more"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2023-03-21T15:40:00Z

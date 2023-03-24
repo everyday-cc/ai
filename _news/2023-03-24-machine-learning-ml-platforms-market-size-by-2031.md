@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-24T04:42:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
 type: article
-quality: 84
-heat: 124
+quality: 86
+heat: 126
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

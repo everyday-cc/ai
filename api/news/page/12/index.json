@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
+      "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
+      "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
+      "originalUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2023/03/MF-AI-TAKEOVER-OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/",
+      "publishedDateTime": "2023-03-14T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-our-latest-health-ai-research-updates.md",
+      "title": "Our latest health AI research updates",
+      "excerpt": "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+      "originalUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg",
+          "width": 2880,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/",
+      "publishedDateTime": "2023-03-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you.md",
+      "title": "Google's New AI Tools for Gmail, Docs Can Write Drafts For You",
+      "excerpt": "Google plans to bring new AI-powered tools to its suite of Workspace apps. In a blog post on Tuesday, the search giant said it's starting by testing generative AI writing features in Gmail and Docs that can help people get started on the writing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9a7f95e60a03aa1cf0048c0dd34b9452e5b8a99c/hub/2022/03/07/2d35deaf-f545-498b-8a7c-9dd6a725e2a7/google-gmail-logo-7133.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
+      "publishedDateTime": "2023-03-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-navigating-the-future-of-fintech-trends-and-innovations-to-watch.md",
       "title": "Navigating the Future of FinTech: Trends and Innovations to Watch",
       "excerpt": "If you’re interested in the world of finance and technology, then you’re in the right place. In recent years, FinTech has become an increasingly important sector, and it’s showing no signs of slowing down.",
@@ -1017,17 +1164,17 @@
       "title": "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up",
       "excerpt": "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in",
       "sourceUrl": null,
-      "webUrl": "https://richmond.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_2ea6171c-90a0-5e1a-a817-72bbfbb45ea2.html",
-      "originalUrl": "https://richmond.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_2ea6171c-90a0-5e1a-a817-72bbfbb45ea2.html",
+      "webUrl": "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html",
+      "originalUrl": "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/69/a69bc924-2a18-5fe3-8765-9c74860ea7a8/640fb0ddb782b.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/fb/efb780cb-d707-595f-a158-a34145cb65e5/640fb239b878e.image.jpg?crop=600%2C338%2C0%2C50&resize=600%2C338&order=crop%2Cresize",
           "width": 600,
-          "height": 315,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1040,8 +1187,8 @@
       "publishedDateTime": "2023-03-13T14:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1052,125 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-google-waymo-sues-uber-alleges-theft-of-self-driving-car-technology.md",
-      "title": "Google Waymo sues Uber, alleges theft of self-driving car technology",
-      "excerpt": "Uber is facing a lawsuit from Google over claims its self-driving car technology was stolen from Google's Waymo and has been used to accelerate Uber's own development. By Joel Hruska February 24 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "originalUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-while-svb-takeover-saves-ai-startups-big-tech-continues-ai-power-consolidation-the-ai-beat.md",
-      "title": "While SVB takeover saves AI startups, Big Tech continues AI power consolidation | The AI Beat",
-      "excerpt": "He also pointed out that he was seeing “the best of the AI and startup world,” with “people helping each other, sharing tips and even wiring funds on trust and without docs so someone else ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-24.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/amp/",
-      "publishedDateTime": "2023-03-13T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling.md",
-      "title": "From podcasts to AI: How technology can help stop problem gambling",
-      "excerpt": "To combat gambling addiction, AI can act as a friend who might tap someone on the shoulder at a casino and ask if they need a break.",
-      "sourceUrl": null,
-      "webUrl": "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling",
-      "originalUrl": "https://www.10news.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 10 News",
-        "domain": "10news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -61,6 +61,22 @@ related:
         width: 700
         height: 420
         isCached: true
+  - title: "Airport gets facial recognition technology"
+    excerpt: "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ..."
+    publishedDateTime: 2023-03-24T06:02:00Z
+    webUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology"
+    ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
     publishedDateTime: 2023-03-20T13:24:00Z
@@ -95,8 +111,8 @@ related:
         isCached: true
   - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
     excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
-    publishedDateTime: 2023-03-22T04:47:00Z
-    webUrl: "https://www.sixthtone.com/news/1012550/shanghai-district-discourages-overusing-facial-recognition-tech-?source=channel_home"
+    publishedDateTime: 2023-03-22T12:12:00Z
+    webUrl: "https://www.sixthtone.com/news/1012550/"
     type: article
     provider:
       name: Sixth Tone

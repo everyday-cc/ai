@@ -2,6 +2,135 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-02-10-is-chatgpt-woke-ai-chatbot-accused-of-anti-conservative-bias-and-a-grudge-against-trump.md",
+      "title": "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump",
+      "excerpt": "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-a-soft-robotic-tentacle-controlled-via-active-cooling.md",
+      "title": "A soft robotic tentacle controlled via active cooling",
+      "excerpt": "Robotic systems have become increasingly sophisticated over the past decades, improving both in terms of precision and capabilities. This is gradually facilitating the partial automation of some surgical and medical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-soft-robotic-tentacl.jpg",
+          "width": 524,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "publishedDateTime": "2023-02-09T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-nvidia-rtx-4070-ti-review-midrange-gpu-by-name-not-nature.md",
+      "title": "Nvidia RTX 4070 Ti review – midrange GPU by name, not nature",
+      "excerpt": "Sadly, my hopes of an elegant Lovelace GPU have been dashed yet again ... all while avoiding typical AI upscaling caveats. The 4070 Ti can churn out around 60fps in A Plague Tale: Requiem without ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
+      "originalUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/nvidia-rtx-4070-ti-review-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCGamesN",
+        "domain": "pcgamesn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-ticked-off-self-driving-cars.md",
       "title": "Ticked off! @self-driving cars",
       "excerpt": "I am ticked off that even the school buses speed on North Econ Trail between Watermill and University Boulevard. Not to single him out because there are many others; but there is a motorcyclist who comes through there at least 50 miles an hour in the 25 mile an hour zone.",
@@ -998,126 +1127,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
-      "title": "How AI and Facial Recognition Can Chill Access to Justice",
-      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
-      "title": "Taking sleeping pills could have disastrous cognitive side effects",
-      "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/526454",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "publishedDateTime": "2023-02-09T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
-      "title": "Cognitive screening unevenly documented across post-acute care settings: study",
-      "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "originalUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKnight's Long-Term Care News",
-        "domain": "mcknights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

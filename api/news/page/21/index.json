@@ -2,6 +2,146 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
+      "title": "Choosing Between Azure and AWS: The Ultimate Guide",
+      "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_03_2023_14_52_33_9477074.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2369506-choosing-between-azure-and-aws-the-ultimate-guide?amp",
+      "publishedDateTime": "2023-03-06T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-ai-education-market-likely-to-boost-future-growth-with-ibm-watson-knewton-dreambox-renaissance-learning.md",
+      "title": "AI Education Market Likely to Boost Future Growth with IBM Watson, Knewton, DreamBox, Renaissance Learning",
+      "excerpt": "The report gives an abstract and quantitative examination of the Global AI Education Market. The examination relies upon the division of the AI Education which focuses on monetary and non-money related factors impacting the AI Education improvement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-education-market-likely-to-boost-future-growth-with-ibm-watson-knewton-dreambox-renaissance-learning-2023-03-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-education-market-likely-to-boost-future-growth-with-ibm-watson-knewton-dreambox-renaissance-learning-2023-03-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-how-do-patients-feel-about-postoperative-cognitive-dysfunction.md",
+      "title": "How do patients feel about postoperative cognitive dysfunction?",
+      "excerpt": "Following a 2022 The Guardian article discussing cognitive changes that can arise after surgery, 84 comments were submitted and published online. More recently, researchers performed qualitative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740698_16780670480418117.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-the-minds-behind-voice-ai-technology.md",
       "title": "The minds behind voice AI technology",
       "excerpt": "Voice AI connects humans and machines through communication. It also paves the way for next-generation human-machine interaction. Despite the lack of widespread familiarity, voice AI is at the core of many technologies today, such as voicebots, chatbots ...",
@@ -955,153 +1095,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-generative-ai-could-lower-drug-prices-heres-how.md",
-      "title": "Generative AI could lower drug prices. Here's how",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "publishedDateTime": "2023-03-04T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-ai-translation-for-a-better-world.md",
-      "title": "AI Translation for a Better World",
-      "excerpt": "or the AI, like positive feedback. And out of that, this huge mathematical machinery learns how to translate and become better and better at that. That is just common and works for any language.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/assets/images/20230302-1/og.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-amazon-is-shutting-down-eight-cashierless-go-stores.md",
-      "title": "Amazon is shutting down eight cashierless Go stores",
-      "excerpt": "Amazon is closing down two cashierless Go stores in New York City, two in Seattle and four in San Francisco on April 1st, according to GeekWire. The e-retail giant made the announcement on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
-      "originalUrl": "https://www.engadget.com/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/UdQUnLDg8Jj0QmPxwW0IIg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-01/b8ad3de0-1837-11e9-bf7f-bc0dd6e3a7f0.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-shutting-down-eight-cashierless-go-stores-100102563.html",
-      "publishedDateTime": "2023-03-04T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
