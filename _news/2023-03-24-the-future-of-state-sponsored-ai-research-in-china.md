@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
@@ -240,6 +241,6 @@ related:
       domain: healthtechzone.com
     quality: 19
 
-secured: "wYSnwnh2zN/sTlILb2a69WeftntFNrxqOBph91gBWUIBsODok1J2Hn8gh1UP+3hYNVXQIE0DkIE5sJqjWeHOySNgYBOWgr5k3qyOZu2lwy1jFLAd2TJYKQGwD2gKE7RqwVMF3CGDt/oWFPZBl+bVcQXzCzOYfbmMpqQ1RKOzlEJjbEQzczMxR1XGCWGOgD2bmRGL949I3RP+eXYT/3uZKn+gfoTVoHLLJGLzvPsZa/14/f+UbWnKTNIA+Fo9kZGbOKycWRuNqLQ7LNY3iBV9WGn4JeCoWu9P+v4zyLbhnAa0PRA/dLGl7bMy3YCWazDzbPXDiBEjhwkEeUF2cBIS9WLhiA6CobM4JI8R+rUlTQQ=;GOZeyIo3aB/ot5aHWWGl4Q=="
+secured: "+nkXfPTI/zCcxKZlZR5zOFakO3zhmKfMNDRGCnfRd/lAVCSXZltlM01t8CeNQ5TQ4BujU+MUnO73N0tIvERYwrREDyBZBjocMIcB7XPyp5ixW2tuv39SwIXnlZ06jMZrx/6eho8CY1eb/zKEyBN4oQLbvpdoW13nnCwsXT7TtUKGeYimX4x4MNwG/5h02Cc7D1gwlT6m8+UN/x5OJBzCiWU/xh0UiucMHhYyClgmVIFsMhbwAKm5Xejb2fdr2fqoZvfxJxf1R1smSKQLfIosx03yA3n597fAKg5cisM2gFUaZOuS0/Q8BZzEA9apgg17S+Es09xEu/9DvR1QwNKLCOJtqo05ZufS0y5SO3F/exdFOJywNah0FKiZ9rHzPUBSCQpRfmgXkkn4SQY9R/U9lw7gyyoyuoYaxLld8QKqSoNNf2/Vninnmgf5RCGgeA4PhdvrhCFKJ0i8NLJ8iZrpr8FtK/4PdmufZiwpXgts5Esdr+7AZrpa8hDR3Ux/gNxc2O/i+TyqJdSBlcLGiD7Bqg==;o4i5o6ZOijRY54GVZJtBLg=="
 ---
 

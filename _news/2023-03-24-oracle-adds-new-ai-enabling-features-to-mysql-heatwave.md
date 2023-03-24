@@ -1,0 +1,24 @@
+---
+category: news
+title: "Oracle Adds New AI-Enabling Features To MySQL HeatWave"
+excerpt: "Oracle announces the latest batch of updates to HeatWave that bring new capabilities for enterprise machine learning, AI-driven automation, and multi-cloud support."
+publishedDateTime: 2023-03-23T19:59:00Z
+originalUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/"
+webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/"
+type: article
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+
+secured: "e52T0KNhoat6iMxFUVozFExkzSGMw4DuwWJPlENc28vuuUSjtbCQuX34e+nN8+u2MPw57x40ZMErz5k//w0ECfp17oS7QOiLGjqe5h7cgoDlFvtBSnmjKMZ+vyeiWfUiRBHJVIYR8KogHo7/wIH2ZoIsLmdtTDHO6w8ATK8GWngrjgrLjuh1/oaH3doJ0FD5FyvKO0Nuy2B/VsDplGdPtl8F7TnJ433ud9/ysuWagTlDG10MQ+LwLR4yq9NQVGSn+vnRldNsNKSscnI/KJWLQa4lhckiMQJ4FII57iXkz5+lOk9p5NqQM6MTd8YUUKEDys9UW3yuV5q9fnPikN3WDaFQ+pl3xPX9qYV4MUfv2lRyjVwb4gwzfF/4rFw6zEcbJgV0NL/Iej+DgMhUvIC393Glg5rWa05rwIDgHOSBz8UbLPM+onYGSZAYof+1/iHHVxGTukP3UTddFT4rzpfW5qsntqwGD1uPvSBPVi0TWEzyNZSR2qIeurPI+Qydj6tW099n+/p5VtRyNWLHx0L4HQ==;DCs1lrp2XSGqYn5HO3dPHg=="
+---
+
