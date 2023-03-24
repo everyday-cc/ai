@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Now Available for Building Mobile Web Apps, Veryfi Provides User-Friendly Computer Vision and Document Capture Framework"
-excerpt: "Veryfi provides the only mobile receipt capture technology that includes AI computer vision for receipt detection and image enhancement, as well as a long receipt capture mode. It helps transform unstructured documents into structured data – tapping into ..."
-publishedDateTime: 2023-03-24T07:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/now-available-for-building-mobile-web-apps-veryfi-provides-user-friendly-computer-vision-and-document-capture-framework-2023-03-23"
-webUrl: "https://www.marketwatch.com/press-release/now-available-for-building-mobile-web-apps-veryfi-provides-user-friendly-computer-vision-and-document-capture-framework-2023-03-23"
+excerpt: "The Veryfi technology delivers an enhanced user experience and improves accuracy compared with homegrown apps using built-in device cameras, plus much faster time to market. The Veryfi Lens Mobile Capture Framework for Web provides: Intelligent document pre-processing: removes skews,"
+publishedDateTime: 2023-03-23T22:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/23/9782606.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/23/9782606.htm"
 type: article
-quality: 59
-heat: 69
+quality: 9
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Now Available for Building Mobile Web Apps, Veryfi Provides User-Friendly Computer Vision and Document Capture Framework"
@@ -44,6 +34,6 @@ related:
         height: 315
         isCached: true
 
-secured: "FgpwOZOMHhTUXAA6tZkxm7YyjQuVePb1rwp3KBXwEnZn7tZqUZV7B6IzLPCWoqbq/ANr4EULc5CHNw8+ZvRy9hrHk8vbF9tTiexgX08PjTq88QXwNhyMhjOlGbYFUVyMwdWfe2BXI6oU6/gWRb6ka/rlTh637Qs3Rh3X/dsLQ7XPuWtISM3tElyv2J2rnarChtNjlKa59fhw7iCZNiSpSn2XWbKB1ewcCkQ2ZNcL5przFkpYAs8ysPQPNJgN21hUEIjCglB0sefwYQJfK1XL0koUwoPOWKP9Bi0vtHOlw2kPX0fIRI7L7Vy+H3LUZP/qL0hM2FL27oOAe71zOJHQidL04P3Thw5S6bUE4CiPUfQ=;zPUsr+oOqQFsNzIIlyEBtw=="
+secured: "5w3/5tuJxzVvMqKHIDVEAkCHUqV8T73LhF7msFHI8R285tbA656Fm66PDj1k44Sa3NGPd/Ovvwy8DV22YUx4WtaGg5+d99fuPGngREY++bu+8AIdlPj4rCJTvVLwiiLO4X1p40+KwjvKravGMYZKVRCES0cBlLBs9wZDpezQRS0NpdlSdAa+5pZzXfRFC5hxpJ8CejiBFvrAFCNAcpooAQbiCPiMYyK7beCZFynRvCbgRYYEF+ctAxz4r87QoBVeEM9Q14hcTCYkgMyA8a+ypqqzjQZMjZgzyEtN18RcN8KCwDuzpbVqAzzA6NRQDCauqoqQdqZYru9rQNpgx2vvYxd3bYTWA5/i8XAZUnG+DSM=;mJK38JQYaIBye9xYW9o67w=="
 ---
 

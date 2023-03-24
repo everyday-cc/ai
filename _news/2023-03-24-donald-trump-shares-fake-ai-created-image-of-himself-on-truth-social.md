@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-share
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641b60a2d07ab5f22c70461c/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 836
+        isCached: true
+  - title: "Trump Inexplicably Posts AI-Generated Photo of Himself Praying"
+    excerpt: "The former president is missing a finger and has the smoothness of a daytime soap opera star in an AI-generated photo he posted on Truth Social Thursday."
+    publishedDateTime: 2023-03-23T19:38:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-inexplicably-posts-ai-pic-of-himself-praying"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_506,w_900,x_0,y_36/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679603023/Fr7KKTSaYAATbbb_mihj6f"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "HnPvcFqRoxDCHb9l331/IccugiqqORpiDSE7HVHYRQWMiSxbcw8x7wHzSaCn0iFXvvdcmGE0uQC7/lhYiflNE8+KpmJH0KrYvstCQIeZ2pvKq8Yi4gh5IytH/fr7uGY2MlJNoNEb8t5GGBjcYZv4gJdYhae1CwbVqGcXSDLulZ1qolVed5aD3CwTQqTsECY7EkpStBW7yhHRPGZdpRx2Lk7QpZ7Y2gz4q/tXaWvm99AmJTUQvUQZcyodpYciYgnrc/G9wyd7Wzci+AHowl5KMkr7tuDVHfL+ghJeSu/U71MbUjPyaREw3ULpQW4Uq6FbGG5YN5uuFU/u2fDnbt2nDsniO2mD5wAV9BLbpwApnuLwhsOBo3vH1XuLIh3rsOuxDShZtgHgfmEj2Ae57GuMK0BKQi03puk4w6VoReGvJSjP1yOeiAz7ASEQN2beMAvr2tP/Z/XUYedGkCkxrgBTC9C9XxehpI7HZIoQ+D3OK+t5iEBInqDeLGdhxVxeO1kk02tv8IWsCf1RTUbpbbvwWQ==;f6gpevGDTpklhl0LIGWK7A=="

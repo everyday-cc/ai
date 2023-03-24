@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
+    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
+    publishedDateTime: 2023-03-24T16:53:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "erJe7ZsG44nw5hRdsf+TQJ0Sqs0lv138ohkMox5Ds/6+rMBaNg12N4pY7l00T6MeVypaNV3VLXfE/3kwrgRIUWgnM4VBkvJ1B8VpEhSKEHvhWDOFCj/QOrHPhN6YokFJafB420bTWjmXmDLYDlwUzRBIfS+l9DHIyRGQYgWYR/F45YgqTgEBxmmEs5aOo2KYCJWRkOlNr4cDfp8hPCyneVf3/a1rNpp8pOo1GFTlKbOwIfOGkabLdCJ3sclfKLjrf2cdreBME3isiVVp7V+Ocs4Z4NOj7SjzasTCusdTkuCB5sSHkrx5+zpJVcWfwhz2/oH3Mu8yKnAOM5AI9cT8No03c6cAhVvAgOv0YOg6nUE=;ByHuWCwW9bmVccBmtO65+A=="
 ---

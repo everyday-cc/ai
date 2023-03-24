@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/a-us-agency-rejected-face-recognition-an
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/amp"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,36 @@ images:
     width: 1800
     height: 2400
     isCached: true
+
+related:
+  - title: "3D Facial Recognition Market Size and Forecast till 2029"
+    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-03-21T00:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Recognition dinner held for those in recovery"
+    excerpt: "Dana Walls, left, with Sara Blythe at the Recovery Recognition Dinner held March 10 at The Pines Evergreen Room in Seymour. The two women are good friends and met through Leaving the 99 Ministry. The Recovery Recognition Dinner was all about hope and possibilities."
+    publishedDateTime: 2023-03-24T06:00:00Z
+    webUrl: "https://tribtown.com/2023/03/24/recognition-dinner-held-for-those-in-recovery/"
+    type: article
+    provider:
+      name: Seymour Tribune
+      domain: tribtown.com
+    quality: 24
+    images:
+      - url: "https://tribtown.com/wp-content/uploads/2023/03/130927434_web1_20230322st-girl-friends.jpg"
+        width: 801
+        height: 1068
+        isCached: true
 
 secured: "v97jVTwlZm9pTGIrtkwfjXzSqSeeX54KjCsl86H+I4CK3g6bbjYjoiTfVDurIIwKYSaYGSpwmK5AteR4MclI/S+bGT6+XHNWnoe9Jo+1Qu74PMGqkfI6/KhFeWaE4WfuVhXKVoPBmxPfigMSwSVnFSyb7x7rgeHcFVHs3kvLAskXzFwfG+fKXCoxTzmxzOtqSa2r4dtuZJmeCLmbu1jjoEfKfZ+WvTAGcucjHSwe+ZrVPGpCrImrRi4C2NC11Kene1aYcsVLYbwQ30jAwoFFurk/WjnI+h8NxP8fX7FyDKDUEnjDPG5GjQwL6AXJf680p2ZcuVPF1QdX9cqkdLh+WP2YcTb0+w5SawZUrcO3jArO1/NytJvN6mTMqpVkm5+5TKITNnGJ0+aOzrn3rJFgs9Zo+MtX+ceeQJ1gMqM3rZZZFiTkJBfJd3K+oVAYyphvKNNUiRrXCIppPlbwJFemw+q+jCmuUcUW916xxkTuP+GoV1pGug7EFn4ArSJvFfH+VlzPAVw8yG64ox9gcabDjg==;1ZXoOabIbq3LQtA+5sxRHA=="
 ---

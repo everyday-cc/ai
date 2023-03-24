@@ -67,6 +67,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
+    publishedDateTime: 2023-03-24T16:42:00Z
+    webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 5
 
 secured: "ZlZAy6qTL5OTJh+hlnqOsC4/AWSm3BASeFHBh6bL+6hMNR5p1thrzkKOOVuVLNJXJPQRQeyuSTo30eaE69j8KiRCPCrF+VQGc6jYO3A7RaggNXiEtCMlm5MLVd5+y8BjT1N/no5dfDanvsbEpLrGSUVcRrgky76xsroedWDHu0Ioy6rYDaG33cOriDG4TcZG1cJVoIL0N1IQJznV6Agd2aH0X9sQ/yamd5jc2p/Hi+1Q3rx1vlPAOWYJYioE+nYX93TkUAuaJ1TfsLBHSOJtLiMEs1T60PujTWzvfu6aFeQVIemfHyMj2UDEF2tEaovCGcjgdgWzsQZTlaODGya49QGxZKhnIMiGGGYT0MyGJNxKeFD/Cvrf5A3Hf924j3ECirXpuFyGmqlZm1dq+Q3TslWmm4sE1eobu2dOfxQDUt9uSHm4Nwq40dMn+k1XS1015wO65srRMs4ImCbQswyp/Cj3mbc78gd9F64In/R7aJbzmZBv+A9t415c9KeWqqqMmY2sLQd0XA3DpcuSL4tWEw==;bc+p3MHuCtAFv3Y9vvZ8zw=="
 ---

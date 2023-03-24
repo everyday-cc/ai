@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
 webUrl: "https://www.medpagetoday.com/special-reports/exclusives/103616"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Generative AI Makes Headway in Healthcare"
-    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
-    publishedDateTime: 2023-03-21T22:42:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-748228/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "PGI to help make cutting edge AI-based healthcare tools"
-    excerpt: "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ..."
-    publishedDateTime: 2023-03-20T01:54:00Z
-    webUrl: "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 54
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg"
-        width: 660
-        height: 402
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
-    excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
-    publishedDateTime: 2023-03-20T10:06:00Z
-    webUrl: "https://menafn.com/1105816011/Artificial-Intelligence-In-Healthcare-Market-Size-Share-Industry-Report-2027"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
 
 secured: "9noymHL6Vnjp9DopZ/G4krR4jvMU57hJsd3RfV+JaJduhBAdCb5yub5CQh2/VVx9QBtEkWoK7P4ctmZP/hJz667NS7XC4/eCl1IynKwsszcq7QPHqohcOwdIEjoOPJ8gKk0fxnRqSaOy/dsSy7pDnwkSrtyLzwALTzaAiu03NjFDPDUDAO/57hqmzvEh5oywQj0WIBogPrdNRl4TjYPj+fMgQI1dE6whuUzf2rc7fFBlwqw9Ewju3Wd5H3claLbgvLS5SZ5dOgUgvh97PSWB1SBRMdQKmVBEkHyeOOaA6a30oJfxSI7vx4iL6R2iMxDRYLnYOJ7B4lyEVtPKJbs0SfG2nwU1kVuxuUdxaYneSy8QGqMM1gdSfWkKPef3uauEVMEEBXZ/1SLceym9U1TQf9qwI5HHgp0uLfun+LlR5NTreSrV/6dNr1a2fzLMDQnJPa+bcy9YkM9oVycJVfvdAkn2WUa4HEV2JmFleQpQ+Yu0usr4hfd3fTH1SPfWX/Gqu51amnng5BiCrTwG0Tay4A==;GxXGIVG/IJUcm0WeEuSa9g=="
 ---

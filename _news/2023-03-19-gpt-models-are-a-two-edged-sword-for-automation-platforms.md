@@ -17,7 +17,14 @@ provider:
 topics:
   - AWS AI
   - AI
+  - IBM AI
 
-secured: "jAJzM85J5F+gJsVBUOmWmHpUCWZPl8Xd+IncNc8IpvD0Ka/SESx4U41DwIX4GpK9d2ctY3+mtqPp0aMc/qA8ePjQ6uBOqL2SYMAd3HqFktYAk4+Sfi1/+jDYxhOPj/KVoobd9PwHJ2A+NYfINdtQyiRW8+4k3UcNaPzAetSuLzVqP87lwF4bogkDUwRil3M5cmKPATl59Kfpx7gCya2cP8Pv5O99soNpY6rlAomWF/ZHKqwV2MuVA31m8n+GIAsIAOC3CPfwyZokjTV2ZvRkRnIS5QzMA9t9P/cplj59y426qiFUrzou/B5mInnhwXwTHO5RRtn1D+nMUy4SiY9cH3iWYDmHYuHnwT26E8e4oFQrSseIBVld0Nn735yazeRO2aAbk1Jy4sBNKdbff9lyEzFuF+2IrWoFc0JYbIA1K29pMpoz5McCgMhYMWKFic3otBgaFG0Bm3yHsl3IrLUtovZG+PZdLEoMUNySRZWU3jNOiYVyONFd6ojeATNglmSRmtlas8QKLNP3+7ms9Pf15g==;n5D3n1ntq4AZOW6XF4Qnsg=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/AdobeStock_79291514-smaller.jpeg"
+    width: 7500
+    height: 4219
+    isCached: true
+
+secured: "Ssy10KsuGHTT3UgAujD/wQF++oB76sFLGX8RptHGFU22aANoQLTYGVk7pLAFIWa9Muv69LC8aYRLQRfKLpOkTm/1NwGTnKFU4BNhrvjfYo/NrJnMIIslNUPg7NaAWnK+eE9wtu4c926D+8gxNdHzGi0RlNeys/wyAvMXeNZKJXdHUDqR9H29IV81nwmkKZX+Axi8Gj1IGtggmbF8AQb5UiwMc2Zv1i14EVLly0s1NeZCcjHpluKNvgdc1JKeYlpfJqLOTgp3P21ndfBVruWtrUGRbt60+C/rV+r1t0D77wpCO/B7Naix36k6Pp72+9qaqEHJoZFycVCxBS2pRdAYXdIYEpjH1+fernDqMV/oXf4=;/QInJl6w4xGXNY0v2E/FWw=="
 ---
 

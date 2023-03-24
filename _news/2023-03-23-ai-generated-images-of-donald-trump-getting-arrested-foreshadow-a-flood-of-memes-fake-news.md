@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Inexplicably Posts AI-Generated Photo of Himself Praying"
+    excerpt: "The former president is missing a finger and has the smoothness of a daytime soap opera star in an AI-generated photo he posted on Truth Social Thursday."
+    publishedDateTime: 2023-03-23T19:38:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-inexplicably-posts-ai-pic-of-himself-praying"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_506,w_900,x_0,y_36/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679603023/Fr7KKTSaYAATbbb_mihj6f"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "fVlJjlau6/2B6b7U2eoVPtJBx408TdjHKHnoEC7aQTqyPLkyDLafHTWC9s6h2pZn38o2E0EkQBhJN7NQ1z/Rab8KMYzFuoNs1OqD6A/HeURx5Jh4LCUT6GYqIF1f5yr85xkIYjb5V4/XWACheb0y5tVU+w7eY6C51UiRrI/9Wiu4240oB59PEp9Nsvh96ZGKJ5QmsEoJHDCzEUT1KmzLxj0P/aNA62xbHxetsX225PQ7QZL51c2hwSj00OswA6n7I/uxVKKAA6LmM7tNPy7ekPh7Ze2DuvAIS/mvY6luqEIpqbzjUN1+4mkXZoZFs5dynYZFjzMzLGZOU8f7YtwTFT8j63MXTk/ktQLbmWE2FIwBt2qBt17BvlWJ+FD/dTrLdxCh+pjElveRdsp0qHwF6OevooKfajW86I89r6w+Q9W6ejWqjDWJRGEbJ/qQdoS6YajvsdJz8kctL4ROafWCnGM4g6EQEKoDXnJWDyCQM5EHCYngPTY6hOcWp0MiYRlNNNUQLTW4Hjj5obdTlXgjag==;AMEJic5IpWxWSbEX/7EjoA=="
 ---

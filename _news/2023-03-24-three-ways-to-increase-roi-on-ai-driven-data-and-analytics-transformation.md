@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -71,7 +71,16 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
+    publishedDateTime: 2023-03-24T16:42:00Z
+    webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 5
 
-secured: "ZEooFgXHzm1790pB2SZn2KCNbJutcWBOdyWqOXNkGiz0o9qTU7DOCmQTwhWBtS+7qByIhQfbFzhFxXqoeOe6O2AwWzddLLW2EyRze1OUjVjXyANoWGcz3x13akLQXkNmQwKBdDt9GyS6AVvlTKlqmRqqOJklbRN3T5U89pCliCytbFXQ4gdF2CXc4bdFMsoW3gajTjuxXYqXOLeXYnGrpHa8pCVBgZzboIVU7NlBEuaFq43Bn6hvXicd1BKBLLvE03svnfQcc3c71ll4bsyu6YK8Yt8yrpABq2PEt17DFPFIqbqMm3xXlIRPQXklFDf4ymL4P4AoR575kyqJ5H6XM/OqaqN8er7QONe1HHhp3Pw=;GE/ZjcsSDkxmhCvbnZVvSw=="
+secured: "Kooh3EK3fwJMHsWTEeTn2b4gj8g9fr/b/fy0LKQ/XIOTKRWc54SarxY3zovCPCGXAHzMM93o+esdOuc5lvpJXnrna2+qj82fA5fzJemKOHWe2m4VdbawqwrLfnEyoqhESmNcDcgWqn5GmyykX2+mo+fDfX6h7xLC92fL74kCt6BihJah2YG2NdbgpXb7OS25OsPIGcUVhPD6V4kQcqoenKiG4yb6Fb3UHicGUdVV2Oay4nwdfAK67+/CwWRADjRfcpPuVS7lA4UiIcBdHett6Ba2fPCYyA3frDy3tfYeHdGUi/HCd+BB9u7kfzLzGh3QX9qZhe0yrxmSe1731shROA1SVMAdwznqfzzyn0f/oe/pPL4Gk5ttDnquBIWBP1QzxGMmdpgHnhp3cR6Rf+pd0U3IU/fx4siYw22XEr2RuDSgRVF8mCPrYtAtnuZIaVYPiv4D4ymD1MnWgcTxzBPlV+m4dojBFiGMjcMk5uuJ7gpi49Ntcar+ZIN4Uq9tEqE/86ODU6P9reJco08dG3O2FA==;IRy/wQ/MY9GctKxvxUUa6A=="
 ---
 

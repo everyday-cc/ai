@@ -43,29 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Systems Market Size by 2031"
-    excerpt: "The \"3D Facial Recognition Systems Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-23T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-size-by-2031-2023-03-22"
+  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
+    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
+    publishedDateTime: 2023-03-24T14:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
-    excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
-    publishedDateTime: 2023-03-20T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

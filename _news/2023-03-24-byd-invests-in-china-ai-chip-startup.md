@@ -3,8 +3,8 @@ category: news
 title: "BYD invests in China AI chip startup"
 excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
 publishedDateTime: 2023-03-24T07:31:00Z
-originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
+originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
 type: article
 quality: 56
 heat: 76
@@ -50,6 +50,6 @@ related:
       domain: newindianexpress.com
     quality: 19
 
-secured: "hBERKPqG4Mo5vjtSlTG1GDIRkpnvVN3ogkfcAxWGXzbNoAlInIyvfVoUI4SzP1xhr5O04ZbQhVPFxAlaZykXKXJahbUoUqVXs6WywyoxWTlQZjwytFSQCs5J3hc/xrh+Ig31QTbbSx89qa4aHAl/hF+0efsuQSMsAX54SD/VjmelMSgyts1ooUeZqeOwbtDTT4Gl64FUtOrhrpmN3FqoO4fgmyTp7P9b+Q7P93qvZA+EUUR1byhV4dOqPTCIj/4iN0LcHPiZFsn2FwuvOL5BMn6qLZ3vD1DzcjA/sXypMJHWpOcgXcI9FIHeF2bOoEeMhGoXHzz8H1KJJ1eNfF8vJRlumMObN2VAwKFdCllaRho=;81auVJa7z37AFbBjVyCV7g=="
+secured: "np2Gu33kBjvIUYrato9Dw8KNQhQ0s6X7h62QlaXPGTu9g8RKx3p7YQhvnTKNgL+ln1xkA+5wPcYlNgua42i0VwpKhsTTN9s3RC/K+EHyv2VmQl6xBYKYu74CvFYqlftmwm/vqB3+cP0N8APP/B9K3hVaT+0+lQovXvf69T4zwA3YZZoxTECquZPAjKgfwi16ifwtqsTxbM+fuXi//uxApUeSi0hR/hMnpl397HVUv0ngfUugrocP2Q7oJQfAmiVlxxgq3LMnVKQT7ZEczevJ+w9yxKrFRhfop+HQC19sBqdjmU2325b+Z5T233pQJqrhuXdJLQPxIat0xR6fyn2TMK8snSmlftOf39fJgj2vnKw=;vatrWjEwaIIP6281BFYBVA=="
 ---
 

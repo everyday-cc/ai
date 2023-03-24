@@ -66,6 +66,15 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 18
+  - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
+    excerpt: "STAMFORD, Conn.–(BUSINESS WIRE)–$III #ISGEvents–Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and ..."
+    publishedDateTime: 2023-03-24T16:42:00Z
+    webUrl: "https://www.01net.it/workplace-analytics-and-ai-powered-skills-mapping-platforms-named-isg-startup-challenge-winners/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 5
 
 secured: "TrWNp68WTG4BfUL0ZCXdhBnaQ6Glmoem7nq+dSqFG4O8yCJcp81V1iuFfgibPnYatdQBQNc5NDWLZBPoiLiLbDBHQguRXbMfIXAgrpSkdwKr7uEmTbuQickwKpC7t00EwTVcSGrR+WqKH/ALeUwG3sKVB7h8lb2/SWocSDNxOV9iE7yNiRrW/7OBjTYWH0kAw6T64hl7ACFF+J1ptPMHSX04uIYA9usdxxq0WbNXG6AaYi6VBloJoy5IcD9vTP7WUV9g5psvfWTdtuEqxgGZY21+NA09xuLGHSEyIQBP4LAyTafaVUULWRCpUST1fXwsmZSX5Hl33zyBhawdSpAK373/+dw4aTCwNYOi0WcuZYM=;kEAOP9S5Jyd/BogHm3DPlw=="
 ---
