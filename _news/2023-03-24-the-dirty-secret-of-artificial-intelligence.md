@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 679
         isCached: true
-  - title: "Robotics, AI, and the evolving nature of work"
-    excerpt: "Mar 2023 \\| 04:54am IST Robotics, AI, and the evolving nature of work. Shanti Maria Fonseca “There will be fewer and fewer jobs that a robot cannot do better. I want to be cle"
-    publishedDateTime: 2023-03-19T18:24:00Z
-    webUrl: "https://www.heraldgoa.in/Edit/Robotics-AI-and-the-evolving-nature-of-work/202638"
-    type: article
-    provider:
-      name: Herald
-      domain: heraldgoa.in
-    quality: 71
-    images:
-      - url: "https://www.heraldgoa.in/uploads/news/big_202638_0.png"
-        width: 547
-        height: 246
-        isCached: true
   - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
     excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
     publishedDateTime: 2023-03-23T20:28:00Z

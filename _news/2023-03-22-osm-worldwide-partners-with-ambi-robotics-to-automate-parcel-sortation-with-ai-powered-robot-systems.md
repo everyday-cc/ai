@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Ambi Robotics Introduces AmbiAccess, The On-Demand Robot Fleet Management and Business Intelligence Platform"
-    excerpt: "About Ambi Robotics Ambi Robotics is an artificial intelligence (AI) and robotics company developing advanced solutions that scale ecommerce operations to meet demand while empowering humans to ..."
-    publishedDateTime: 2023-03-20T12:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230320005162/en/Ambi-Robotics-Introduces-AmbiAccess-The-On-Demand-Robot-Fleet-Management-and-Business-Intelligence-Platform"
+    excerpt: "Ambi Robotics, the leading provider of AI-powered robotic parcel sorting systems that empower warehouse operators to handle more, today introduces AmbiAccess, a cloud-based business intelligence platform enabling customers to get even more out of their Robots-as-a-Service (RaaS) investment."
+    publishedDateTime: 2023-03-20T13:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ambi-robotics-introduces-ambiaccess-on-demand-robot-fleet-/2023/03/20/9779580.htm"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
 secured: "oL7Qti9qo7lA0jz7qKBpuYhRJ2LVXr3M5lLJ1nFFTi2fxG1syFF85MkhSJE/iP6e5j9FFsNyJSZFQcC/uoT0csJL6ccNiEWizVO+pGqnvoL/Xp5NjlKIErh0Mht/WZMyY9T48Y6T2JaK395Q4Ch197V/NsEKX7lt4jmiBOXXBURYst77UQZtUYezazUrwiylsraep3kqR/QpZZRpOONu6oKTNZcJDBlEi9sYDjan08lFZhADcbg4gHFkufCMcJx9pQm6VlWJQPL8pjaH544/Xg7FSDWWy2ikEU2VPJrCUUzoqnlXrDYqDYtEMJBcYk+OtsQZ7pPzEXUw6qSSfMtivrptNyuuLUEArbgIw7Xa6as=;ydkg1n9Y7+iJpYW/EffpGg=="

@@ -357,6 +357,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
+    excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
+    publishedDateTime: 2023-03-24T11:47:00Z
+    webUrl: "https://abcnews.go.com/Nightline/video/man-formed-romantic-attachment-ai-chatbot-98094006"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
   - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
     excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
     publishedDateTime: 2023-03-21T17:29:00Z
@@ -385,6 +399,15 @@ related:
         width: 1200
         height: 810
         isCached: true
+  - title: "Tread a Careful Legal Path Around AI Chatbots"
+    excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
+    publishedDateTime: 2023-03-24T11:52:00Z
+    webUrl: "https://www.globest.com/2023/03/24/tread-a-careful-legal-path-around-ai-chatbots/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 19
   - title: "Google is releasing its Bard AI chatbot to the public"
     excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."
     publishedDateTime: 2023-03-21T14:00:00Z

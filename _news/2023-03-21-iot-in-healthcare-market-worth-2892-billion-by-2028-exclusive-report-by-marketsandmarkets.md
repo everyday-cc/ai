@@ -223,6 +223,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence (AI) in Real Estate Market 2023 with 117 Report Pages and enhance with self-explained tables, pie chart and graph in smart ..."
+    publishedDateTime: 2023-03-24T10:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-real-estate-market-2023-size-growing-rapidly-with-recent-trends-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Revenue, and Forecast 2030"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Cognitive System and Artificial Intelligence (AI) Systems Market 2023 with 101 Report Pages and enhance with self-explained tables, pie chart and ..."
+    publishedDateTime: 2023-03-24T10:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-revenue-and-forecast-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Development Market Growth by 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- The \"Computer Vision Development Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
     publishedDateTime: 2023-03-23T01:45:00Z
@@ -241,6 +269,34 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Deep Learning Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
     publishedDateTime: 2023-03-23T11:50:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-forecast-till-2031-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Processor Market: Forecast for 2023-2027 with Emerging Technologies"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"AI Processor Market\" research report is a comprehensive study that provides valuable insights into the industry's growth potential ..."
+    publishedDateTime: 2023-03-24T06:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-forecast-for-2023-2027-with-emerging-technologies-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Hardware Market Size, Trends and Forecast 2030"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Edge AI Hardware Market Insights 2023 by Types (Smartphones ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. 360 Research Reports is the credible source ..."
+    publishedDateTime: 2023-03-24T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-trends-and-forecast-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch

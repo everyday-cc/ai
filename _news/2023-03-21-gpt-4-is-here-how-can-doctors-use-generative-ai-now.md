@@ -53,15 +53,6 @@ related:
         width: 660
         height: 402
         isCached: true
-  - title: "Indian firms use AI-ML to tap US healthcare market"
-    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
-    publishedDateTime: 2023-03-21T13:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 51
   - title: "Artificial Intelligence In Healthcare Market Size, Share | Industry Report [2027]"
     excerpt: "titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global artificial intelligence in healthcare market in ..."
     publishedDateTime: 2023-03-20T10:06:00Z

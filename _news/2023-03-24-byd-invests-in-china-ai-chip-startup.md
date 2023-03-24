@@ -2,12 +2,12 @@
 category: news
 title: "BYD invests in China AI chip startup"
 excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions. The premium content you are trying to open requires News database subscription. Please sign in if you ..."
-publishedDateTime: 2023-03-24T09:27:00Z
-originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
-webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
+publishedDateTime: 2023-03-24T09:28:00Z
+originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
 type: article
-quality: 56
-heat: 76
+quality: 54
+heat: 74
 published: true
 
 provider:
@@ -15,9 +15,8 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://img.digitimes.com/newsshow/20230324pd207_files/2_2b.jpg"
@@ -50,6 +49,6 @@ related:
       domain: newindianexpress.com
     quality: 19
 
-secured: "GVEqbr8+DxbO0L0OGyCTd81GQaOCzgFm6qAzQy7j2EGxjQd/Ja6p24KwPfUQlWgwbzf2HsV9zhGYkmuu428J09mvtw0c1C9B7ozV2Wc7UiE9jtSsFdQxxhilMwRGv1LWO/kdsokm6GnPuaTpsuHUdQ4DMqawwMP5cCZ2ytxR5DIoD3ikSVqrwyXb/9BP0ioQip9lw/R7+iPp2EA5iRaYJcnqwZz6H+7kDbMW7viXzVFfCxqzp3BFrc70GXI2vNum1TkAmiaZfXsUXJl4Sn6WophoSPA634KbPF+1mm/vMI8yqeD/BjL6/1r6XEQr2V4sMnsnTVvCf2L3kHMDhHKtcpMuqPN3qHRoU4wddSUqi3o=;I/bKaCoFPA6Ecvih5iDNyg=="
+secured: "yPc12pBsn3MN+yWj6i4v6i+5oLgvMpkeI1x/oOFVN//DC7n32q10CpCajRNMBaby2PiVE6o+n1tlBjkC6xbV86jtKHeNJifYrbrDgOZDYaCh2FxshzokBbu1WdTovW5i+V/TOf4dUx2z1sTzFa/fDeVDOk2i2VJEo0xmO+GWCaIhcpKU/lTtuF4L/Mnckb/860jsPYNhGRRNYNpE8GaOcaXz+1hgnwf46/hDBE/zCsioa3/tSgx/VDC22Rb8zXkk/1KIwBtqSt19LghcazWaTDA85UHOu58mVKS1CJoW4xAkQ7e91rwZamLa+/Zi+MFPWw+aYgT4hymxPtxfd5eYrVw4e/TNI/XMwyFyVbtpN6c=;cEQzVU2tdSytdL6YHzY/Gw=="
 ---
 

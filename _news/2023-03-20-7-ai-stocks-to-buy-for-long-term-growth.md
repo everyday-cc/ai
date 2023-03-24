@@ -37,6 +37,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market"
+    excerpt: "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ..."
+    publishedDateTime: 2023-03-24T10:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Chip Stock Earns Bull Notes Amid AI Buzz"
     excerpt: "The chipmaker also launched DGX Cloud, an AI supercomputing service that can now be rented to develop technologies such as ChatGPT for $37,000 a month, with eight of its A100 or H100 chips strung together. No fewer than nine analysts hiked their price ..."
     publishedDateTime: 2023-03-22T13:40:00Z

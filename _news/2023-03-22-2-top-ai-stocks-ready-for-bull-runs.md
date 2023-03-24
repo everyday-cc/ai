@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "These 3 AI Stocks Could Outperform the S&P 500 in a Bull Market"
+    excerpt: "but Microsoft's hefty investments in OpenAI -- the start-up that created the \"generative AI\" chatbot ChatGPT -- might help Microsoft reach those estimates. Microsoft has already integrated ChatGPT into its search engine Bing and its Azure cloud ..."
+    publishedDateTime: 2023-03-24T10:24:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/24/these-3-ai-stocks-outperform-sp-500-in-bull/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/725503/digital-brain.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "7 AI Stocks to Buy for Long-Term Growth"
     excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
     publishedDateTime: 2023-03-20T14:30:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "\"Face Blindness\" Could Be a Lingering COVID-19 Symptom"
+    excerpt: "Two months after being diagnosed with COVID-19 in March 2020, Annie experienced what’s known as a symptom relapse, and had trouble with face recognition and navigation. “When I first met Annie, she told me that she was unable to recognize the faces of ..."
+    publishedDateTime: 2023-03-24T10:03:00Z
+    webUrl: "https://www.labroots.com/trending/coronavirus/24901/face-blindness-lingering-covid-19-symptom"
+    ampWebUrl: "https://www.labroots.com/trending/coronavirus/24901/face-blindness-lingering-covid-19-symptom/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/coronavirus/24901/face-blindness-lingering-covid-19-symptom/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 44
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/virus-gc1ea39e93_1280_4fa5e1639f7f7e1caaa2c9316c927e18.jpg"
+        width: 1280
+        height: 683
+        isCached: true
   - title: "Facial recognition difficulties may be linked to long COVID"
     excerpt: "Dartmouth researchers may have found a link between long COVID and face blindness, also known as prosopagnosia."
     publishedDateTime: 2023-03-20T20:36:00Z
@@ -38,6 +54,22 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Face blindness identified as new Covid symptom that turns loved ones into 'strangers'"
+    excerpt: "Scholars have identified a bizarre new Covid symptom which could cause people to not recognise their own family members. Researchers of a new paper say some people who tested positive developed face blindness, which leaves them unable to pick out their ..."
+    publishedDateTime: 2023-03-20T21:47:00Z
+    webUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071"
+    ampWebUrl: "https://www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/health/face-blindness-identified-new-covid-29509071.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article29509075.ece/ALTERNATES/s1200/1_Sad-lonely-girl-isolated-stay-at-home-in-protective-sterile-medical-mask-on-face-looking-at-window.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Long COVID has some weird symptoms. Face blindness may be one them."
     excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme, some with the condition can't even recognize themselves ..."
@@ -67,6 +99,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
+    excerpt: "That’s what happened to a 28-year-old woman, who works as a part-time portrait artist drawing faces, after her COVID-19 infection, according to a new study published in the journal Cortex. A few months after getting COVID-19,"
+    publishedDateTime: 2023-03-21T00:31:00Z
+    webUrl: "https://www.mcclatchydc.com/news/coronavirus/article273176320.html"
+    ampWebUrl: "https://amp.mcclatchydc.com/news/coronavirus/article273176320.html"
+    cdnAmpWebUrl: "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/coronavirus/article273176320.html"
+    type: article
+    provider:
+      name: McClatchyDC
+      domain: mcclatchydc.com
+    quality: 16
 
 secured: "mv0L7asdjuasZMatsXZlWwaFo6MPYy0ou+xmh7kpSQfGro7PaIu7KamfweeliSQRW4hWiNcWnImfKZcgXdo3CGL0o7h0t172ntlzcqyXZfz3Or+oUhzpdAQsN3a3IqfsuE6FW3IFXM6eoCd6n6n0NBcUSMIQgV3vGVo3qX+sPTiSKBxaAhPYbZfMhNErGdviL7lPd6A+3WyOnKTeQIAf7C3bGPyK4THUYJdgQlTLmgOzJ4j4COA/OhdH3kGBUGWC7ryyLVMFsrxhcjmrW7WhcWa8qi4k11tShuDbbUtqOOjkmV42/21E5ncZLdhlFK0l+mTe4Qa0aIiRTMgnR8mr5298U28C7pFH9ROHgTxAzx4=;0y6ZwRXL14q1Tyq/Hkih7A=="
 ---

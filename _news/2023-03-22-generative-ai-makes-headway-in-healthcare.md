@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-health
 webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 660
         height: 402
         isCached: true
-  - title: "Indian firms use AI-ML to tap US healthcare market"
-    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
-    publishedDateTime: 2023-03-21T13:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 51
   - title: "GPT-4 Is Here. How Can Doctors Use Generative AI Now?"
     excerpt: "Even as healthcare professionals still figure out how to use this advance in generative artificial intelligence (AI) to their benefit, OpenAI announced the limited release of the new and vastly improved GPT-4,"
     publishedDateTime: 2023-03-20T20:11:00Z
