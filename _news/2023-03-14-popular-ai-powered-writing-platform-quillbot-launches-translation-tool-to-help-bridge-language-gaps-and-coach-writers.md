@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "XHL9lfkNnlocpZlcu0vqXQ4fyPfdhw//g/aa/2sj8/Y/d5odqZYrZVQZNyeD56cxSdXzXpI/OysMVOpVFY/dgIOygWJA8BpvdaDkc7kIrQxGaecSskUZnll4AV0maLL+OMn1xdzbbykpBdEY0CAK72zSrhPRzBxiD09w8nPGZ4nlh8WO28fKdC5HrKbHi55bZCmpHDWYeASlC5E3WSWyVieliz3RwgNf7MmZzz7t9kSjDKeuwvtfnAARkQW4prnUS5ppGYFIv1qYv5iCZ664yi5dBV8HLq/uL/viEKwnBCeuNG4hE/eAMHyI4mJH2d4dYI5r0qXUGiwMWZV4+jL2vp5ToETBRnlO0+I5OXdQRLk=;hIuzSUyEryPQ3bVbMu04Ig=="
+secured: "6up9GZwCuwQcvn/KIOjnWsJ2aWFZP1lm7j7DqBIy9+G1HjMoAGlved3rCI6BUcT89ajGD/O42CFNpO2iYItxp1GqnmQWT0CsdutPCmhDLVr4/YwQJiTmfzR+HMD1YbiJ5J1PONI7URpFDKUWAyMejUoCdlPztDYfcZ3SrcbHoskDn0sIOKfGJGVCXMoIJNsdWSAU2UsRHontHB/LfWMP+egmpoLErZDJGwp/sVKAdLLDrtE28qhEPq2vky5+BZTCH4dTI4NdroBgXcT/EkyjxDiog9Y+Dmf6MuNdbZ4BoXg5IjfdtxeFSMCYFC9/iHMki24I7+k52uw9OK0qmGeU0TZcma9IGoBoQKKChlEPlWM=;Gi8HOFKhf8oD5D/wFbGSaQ=="
 ---
 
