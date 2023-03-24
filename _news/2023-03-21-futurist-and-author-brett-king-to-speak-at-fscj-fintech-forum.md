@@ -72,20 +72,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Staffing Challenges, Regulation for Digital Assets and the Metaverse are Some of Fintech’s 2023 Trends"
-    excerpt: "SRM (Strategic Resource Management), an independent advisory firm serving financial institutions and other industries across North America and Europe, recently shared commentary on the trends it predicts will make the most-significant impacts in 2023."
-    publishedDateTime: 2023-03-19T07:00:00Z
-    webUrl: "https://www.latimes.com/banking-and-finance-2023/story/2023-03-19/staffing-challenges-regulation-for-digital-assets-and-the-metaverse-are-fintechs-2023-trends"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 8
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/aabcf7a/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa1%2F80aec323458089245d30becf9c51%2Fbusinessman-atm.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
     excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
     publishedDateTime: 2023-03-23T18:29:00Z

@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
-    excerpt: "Hospital Logistics Robots Market size was valued at USD 971.25 million in 2021, and is predicted to reach USD 5637.85 million by 2030, with a CAGR of 21.2% during the forecast period, 2022 to 2030. Demand for hospital logistics robots has increased across the globe,"
-    publishedDateTime: 2023-03-23T20:24:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782681.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "With 14% CAGR, IoT in Healthcare Market Trends, Demand, Growth and Future Scope 2023 To 2029 | Medtronic, Cisco Systems, Agamatrix"
     excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the final copy of the detailed research report on the IoT in Healthcare Market."
     publishedDateTime: 2023-03-22T17:38:00Z

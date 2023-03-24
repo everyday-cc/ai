@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 612
+heat: 622
 published: true
 
 provider:
@@ -337,6 +337,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "OpenAI's ChatGPT is 'only possible' with Microsoft Azure, says Microsoft"
+    excerpt: "\"Only Microsoft Azure provides the GPUs, the InfiniBand networking, and the unique AI infrastructure necessary to build these types of transformational AI models at scale, which is why OpenAI chose to partner with Microsoft,” said Scott Guthrie ..."
+    publishedDateTime: 2023-03-23T22:12:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/openais-chatgpt-is-only-possible-with-microsoft-azure"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"

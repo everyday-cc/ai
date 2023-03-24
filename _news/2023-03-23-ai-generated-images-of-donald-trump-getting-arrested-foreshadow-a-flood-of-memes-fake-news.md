@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
-    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
-    publishedDateTime: 2023-03-23T20:01:00Z
-    webUrl: "https://www.columbian.com/news/2023/mar/23/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
+  - title: "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social"
+    excerpt: "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake."
+    publishedDateTime: 2023-03-23T18:07:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
     type: article
     provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "fVlJjlau6/2B6b7U2eoVPtJBx408TdjHKHnoEC7aQTqyPLkyDLafHTWC9s6h2pZn38o2E0EkQBhJN7NQ1z/Rab8KMYzFuoNs1OqD6A/HeURx5Jh4LCUT6GYqIF1f5yr85xkIYjb5V4/XWACheb0y5tVU+w7eY6C51UiRrI/9Wiu4240oB59PEp9Nsvh96ZGKJ5QmsEoJHDCzEUT1KmzLxj0P/aNA62xbHxetsX225PQ7QZL51c2hwSj00OswA6n7I/uxVKKAA6LmM7tNPy7ekPh7Ze2DuvAIS/mvY6luqEIpqbzjUN1+4mkXZoZFs5dynYZFjzMzLGZOU8f7YtwTFT8j63MXTk/ktQLbmWE2FIwBt2qBt17BvlWJ+FD/dTrLdxCh+pjElveRdsp0qHwF6OevooKfajW86I89r6w+Q9W6ejWqjDWJRGEbJ/qQdoS6YajvsdJz8kctL4ROafWCnGM4g6EQEKoDXnJWDyCQM5EHCYngPTY6hOcWp0MiYRlNNNUQLTW4Hjj5obdTlXgjag==;AMEJic5IpWxWSbEX/7EjoA=="

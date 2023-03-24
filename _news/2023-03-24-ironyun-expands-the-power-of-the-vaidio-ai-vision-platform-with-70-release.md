@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IronYun expands the power of the Vaidio® AI Vision Platform with 7.0 Release"
-excerpt: "Vaidio 7.0 enhances Object Search, Object Counting, Scene Change, Vaidio Data and more. STAMFORD, Conn., March 23, 2023 /PRNewswire/ -- IronYun Inc., a leader in AI vision for sec"
-publishedDateTime: 2023-03-23T20:06:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782661.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782661.htm"
+excerpt: "IronYun Inc., a leader in AI vision for security, safety, and operational applications, today announced the 7.0 release of the Vaidio® AI Vision Platform. The award-winning Vaidio Platform now includes Object Counting,"
+publishedDateTime: 2023-03-23T23:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
 type: article
 quality: 36
 heat: 36
@@ -24,6 +24,6 @@ images:
     height: 204
     isCached: true
 
-secured: "Ha194p6hKoGFJuuZcwpSRYrmcuYRraQ9wcSXQSa/jP4hBnRrrslRSRVnXj8kvo8G5GZqIOIN5Y6O4fGllNtS8u1jov+5leixWAbLuC2AKtQU7+IW+WU9yFbBOknL6TFY5jiAilLBJm7hQqLpTOCNZp6rAgt6pqT9Zp6vV/bssHvDsyYQB8Al6D6wGgVNAlqFbjvfren8h1B5deRLkAMv8akaWekj9+GM6w2rvMMpSVDX/HaltvkuaYQToqD/SOxxxr4tMRoVGMQ6WcmRL6L1AZ+cyUK52czVBJtH1cAIng8Xw1GKAgBuyal5PsG1LGzrz+YWZF6fIr+AYNLLvIfSk53mdRtwdZNKtytGfmxTGlE=;meegBsW1pmZBy9A1WYKGkA=="
+secured: "PmD417ktQwYFt42Uum8VUtoUue4KxMAUXWQrwIbHtkfjigPjH2MbTnIA+sbhPmjUL7O5UuyEugDkTAkzqnlfRUiEbB0QbvVA3RphUEbSWputmcbWyVbovc52AYhU19//cmqdq3Y9aToRBG9n+/d+KwILz9YZqkE5jpWYcvH/VG6scDmrU15gxSycM1w7VAdg7fwQJS+xM2+89g5VqF3LrR1yPXylLNky4brOtzmEWwHocHuVzTLpDpmOX9byWOi5y9UWSlxYhu3ULbnHZ/8wGnAeuCwShsH+HluCPwgRjnpyxliuTUymhj3r3YGw1tSHRKdeSFTLHjL/gCXKB4LwK1Cn94yOp+IPAPMhhRlhvnM=;A1sf1HJ4SBYukL16xd4Inw=="
 ---
 

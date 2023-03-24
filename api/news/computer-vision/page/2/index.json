@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-08-tlaib-and-others-introduce-bill-to-ban-facial-recognition-technology.md",
+      "title": "Tlaib and others introduce bill to ban facial recognition technology",
+      "excerpt": "Democratic lawmakers on Tuesday reintroduced legislation in the U.S. House and Senate that would ban facial recognition technology on the federal level and withhold money from state and local police departments that continue to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "originalUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.metrotimes.com/metrotimes/imager/u/original/32553594/facial_recognition_photo_neavling.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "cdnAmpWebUrl": "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "publishedDateTime": "2023-03-07T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro Times",
+        "domain": "metrotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
       "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
       "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
@@ -1353,40 +1396,6 @@
       "provider": {
         "name": "KTNV Las Vegas",
         "domain": "ktnv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-13-tips-to-prevent-eye-fatigue.md",
-      "title": "13 Tips to Prevent Eye Fatigue",
-      "excerpt": "The eye doctor might call this computer vision syndrome or digital eye strain. It affects most people who use one. Some estimates say computer-related eye symptoms may be responsible for up to 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/eye-health/eye-fatigue-causes-symptoms-treatment",
-      "originalUrl": "https://www.webmd.com/eye-health/eye-fatigue-causes-symptoms-treatment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -64,6 +64,24 @@ related:
       name: The Bakersfield Californian
       domain: bakersfield.com
     quality: 17
+  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
+    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
+    publishedDateTime: 2023-03-23T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
+    publishedDateTime: 2023-03-23T19:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
   - title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
     excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards, conducted by FinTech ..."
     publishedDateTime: 2023-03-23T16:22:00Z

@@ -57,6 +57,24 @@ related:
       name: The Bakersfield Californian
       domain: bakersfield.com
     quality: 17
+  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
+    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
+    publishedDateTime: 2023-03-23T20:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
+  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
+    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
+    publishedDateTime: 2023-03-23T19:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 17
   - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
     excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
     publishedDateTime: 2023-03-23T20:14:00Z
@@ -81,6 +99,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "JJ+ydcfisPI2v0pwwqClhiDtA97apqkwEAttwq5L17Io6JsiXdZN8MwELlvOIIaO3GXTb97LZuML+jFjasF5rU7GIw31n2YRRHOoCvMi/iywq7RSndbjI1GSHXqMTeou5x246hcwXD1Nv8PXlL+m8BzChx5J4bcH3RbhminlOC80eSyXsBuy67mGTCCE7xnmDFCLdTizeNkRkfCd1pILoLeubgPkKpCd0LrZi/p0BL5uNreESPmldXWe7MNLdqSJ2eS7pHPu0E71yFd/oTM44FFrsSkvm8e291iBKKhmDucNiV+KCgdogfe9L7+DNv2rHhTAqom3CUYL/XIWk1nU5+nRnj7ndLwMJhPN3WD06bU=;Riq/x1XbT/wXVEefz7Y49A=="
+secured: "cFMghU9pDhHLk4VHWi0O9CYRY3KlMvC1yVH35dZMieE2slMMzUcFzC41JCHwtu6Po/NKt29MxTXHRjy1ZlyvuWAGKfPL1oDXWKLP1QcJssKmcQ8onJyi0k+r4KbUuv4kTCbvWmz1ZJIdzMJdvk/ROjyQyGmOS/SUsJkL6+E5URhPai7ZULADH0YgGwwOgGaPTDC9s5KGG6E4Hj3HFZzF14pSJ2/YtDtfhOdAhzDv8N6Zkr/ojtqAEfCndxWJSYSSKz8sfSyg3KDzls6bMMnsXkXvxmvb3ff6VYTg+LbOqJulELeMSHhX+DcQhzuvIeZcWipu9XCduuknF9hpXGU4NOpGx5JmsNbtbE9Yb938SsIy+M7w6w2lXGDJHoTgWMHFh0aGvJ4gIaU1FgZYyt5Xx3RKaS+II8lN4VitgHNnrGzwuHZrtECfNRV2LUb2WVkTX9xlVIUg6NvkbsShFd6IoGX+Xyp7liLyIK/in9eddAlpYsEUY64N+3Ap24sXW8Gj1eWFUxYkBPs/1bhpSK9Eqg==;w6TE2wvCtQJbHVS9t453qA=="
 ---
 

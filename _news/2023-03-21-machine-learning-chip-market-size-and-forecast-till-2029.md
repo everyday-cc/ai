@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-ma
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 88
-heat: 278
+heat: 268
 published: true
 
 provider:
@@ -267,20 +267,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Smart Learning Software And Services Market Size, Leading Competitors, Growth, Trends, And Forecast Till 2032"
-    excerpt: "Smart Learning Software and Services Market Smart learning software and services can be a great asset to any student. It is easier than e"
-    publishedDateTime: 2023-03-19T05:22:00Z
-    webUrl: "https://menafn.com/1105807507/Global-Smart-Learning-Software-And-Services-Market-Size-Leading-Competitors-Growth-Trends-And-Forecast-Till-2032"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/18/EP_20f9bimage_story.png"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "5WspBihJj/aZKIZYUZpSgpzxZNbLuyk4p8TwQWeBDLmj9DoTFAqN3Eg2rzVXMgemTRy9XQ2wclASs3fgvt9pdxhL3inXyQAbgbDwoycxPu+/DrJNOTdgvsDMpcxDN2dwzdL/9AnKuT2oXkOZ5+odprHSW0/OgPB0/mycr5X2Lc7bAOOVprWDOm3f83wdTjFP1uAi8NCp9pQeRUIaAWz+KqgT5j5/QjWzCqeE8A/zzzA4l5r5fyBjSIqdUD1AKuFGssrzz80PF6kM341QYmGojjiueuodcmyrFsWargXuuNI9JH67xOkgV/2zUmANCxS/Sn2eAsbvfI9AF5tvvZe/gkYWNwKSfbIOiNG1YAzHFko=;+s4UoEAthS6hOA0bBK8jNw=="

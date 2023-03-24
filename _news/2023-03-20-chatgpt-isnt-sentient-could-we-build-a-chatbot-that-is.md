@@ -251,22 +251,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI makes plagiarism harder to detect, argue academics – in paper written by chatbot"
-    excerpt: "Lecturers say programs capable of writing competent student coursework threaten academic integrity"
-    publishedDateTime: 2023-03-19T05:59:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/ea83ce1a739dc69379eabf0f02e799cd3b329403/0_139_4256_2554/master/4256.jpg?width=620&quality=85&auto=format&fit=max&s=fb54023a24b30e8cb7a1163511425ae4"
-        width: 620
-        height: 372
-        isCached: true
   - title: "The Morning After: Google expands access to its AI chatbot, Bard"
     excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
     publishedDateTime: 2023-03-22T13:12:00Z
@@ -332,6 +316,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
+    excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T17:17:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
     excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
     publishedDateTime: 2023-03-20T10:43:00Z
@@ -358,6 +356,20 @@ related:
     images:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/03/21183855/SEI_149177734.jpg"
         width: 1350
+        height: 900
+        isCached: true
+  - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
+    excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
+    publishedDateTime: 2023-03-23T23:43:00Z
+    webUrl: "https://decrypt.co/news-explorer?pinned=137644&title=a16z-leads-150m-series-a-round-in-chatbot-startup-character-ai"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png"
+        width: 1600
         height: 900
         isCached: true
   - title: "Forget Bing AI - some Pixel superfans can now test out Google's Bard chatbot"

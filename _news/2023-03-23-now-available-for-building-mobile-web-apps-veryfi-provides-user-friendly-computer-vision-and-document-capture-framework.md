@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Now Available for Building Mobile Web Apps, Veryfi Provides User-Friendly Computer Vision and Document Capture Framework"
+    excerpt: "The Veryfi technology delivers an enhanced user experience and improves accuracy compared with homegrown apps using built-in device cameras, plus much faster time to market. The Veryfi Lens Mobile Capture Framework for Web provides: Intelligent document pre-processing: removes skews,"
+    publishedDateTime: 2023-03-23T22:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782606.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+
 secured: "vIh6gLD2jlQOW7T/RlwvntO3FUAX282ipySgCgZw0CoiKQaB+ZjcGR7LuGW6/aS0XSlz7N0gDx77+He9AJTJiveeGfW8ISB+coHOIguZx6TFBBz8TRgwlpvgRvioef/lYttN+8V4uQNKCSVQwVPiSQXZDly7s7q3z84yM21Bi2UfFbJvkk5RHzHAFMoitEL41wqMDOsrE9kz1+r4pg3XrS21s+zdz7PiPG2kFdDkWGjNko7mvc2XG1iettN9dEcmf53U/PRbJkaTApRluzvlqwSimiQfFLMNVCnjgv5BAcQuXlecOxBxx7vQlzRz1uzchfi1C7KeJEw9+mTJJaUH5LQNiEZLrBhdYatLKPTlcvo=;NygS2GFzxUO+LrFAD3IIhg=="
 ---
 

@@ -351,6 +351,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "OpenAI's ChatGPT is 'only possible' with Microsoft Azure, says Microsoft"
+    excerpt: "\"Only Microsoft Azure provides the GPUs, the InfiniBand networking, and the unique AI infrastructure necessary to build these types of transformational AI models at scale, which is why OpenAI chose to partner with Microsoft,” said Scott Guthrie ..."
+    publishedDateTime: 2023-03-23T22:12:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/openais-chatgpt-is-only-possible-with-microsoft-azure"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nuance and Microsoft Announce the First Fully AI-Automated Clinical Documentation Application for Healthcare"
     excerpt: "Groundbreaking Nuance DAX Express is the next milestone in an expanding portfolio of solutions combining OpenAI's GPT-4 with proven"
     publishedDateTime: 2023-03-20T12:04:00Z
