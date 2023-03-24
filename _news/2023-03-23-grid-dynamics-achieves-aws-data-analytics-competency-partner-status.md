@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning"
-    excerpt: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning - SiliconANGLE"
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/20/chief-data-analytics-officers-must-lead-upskilling-initiatives-data-science-machine-learning/"
+  - title: "KloudGin Achieves AWS Energy Competency Status"
+    excerpt: "SUNNYVALE, Calif., (BUSINESS WIRE) -- KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status."
+    publishedDateTime: 2023-03-24T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/kloudgin-achieves-aws-energy-competency-status-2023-03-23"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/binary-2372130_1920-geralt-pixabay.jpeg"
-        width: 1920
-        height: 1280
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "KloudGin Achieves AWS Energy Competency Status"
+    excerpt: "–(BUSINESS WIRE)–#awspartners—KloudGin, Inc., a leading provider of artificial intelligence (AI) cloud-based field service, work and asset management solutions, today announced that it has achieved Amazon Web Services (AWS) Energy Competency stat"
+    publishedDateTime: 2023-03-23T13:19:00Z
+    webUrl: "https://www.01net.it/kloudgin-achieves-aws-energy-competency-status/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
 
 secured: "ZlZAy6qTL5OTJh+hlnqOsC4/AWSm3BASeFHBh6bL+6hMNR5p1thrzkKOOVuVLNJXJPQRQeyuSTo30eaE69j8KiRCPCrF+VQGc6jYO3A7RaggNXiEtCMlm5MLVd5+y8BjT1N/no5dfDanvsbEpLrGSUVcRrgky76xsroedWDHu0Ioy6rYDaG33cOriDG4TcZG1cJVoIL0N1IQJznV6Agd2aH0X9sQ/yamd5jc2p/Hi+1Q3rx1vlPAOWYJYioE+nYX93TkUAuaJ1TfsLBHSOJtLiMEs1T60PujTWzvfu6aFeQVIemfHyMj2UDEF2tEaovCGcjgdgWzsQZTlaODGya49QGxZKhnIMiGGGYT0MyGJNxKeFD/Cvrf5A3Hf924j3ECirXpuFyGmqlZm1dq+Q3TslWmm4sE1eobu2dOfxQDUt9uSHm4Nwq40dMn+k1XS1015wO65srRMs4ImCbQswyp/Cj3mbc78gd9F64In/R7aJbzmZBv+A9t415c9KeWqqqMmY2sLQd0XA3DpcuSL4tWEw==;bc+p3MHuCtAFv3Y9vvZ8zw=="
 ---

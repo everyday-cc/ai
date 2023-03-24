@@ -32,6 +32,20 @@ related:
         width: 660
         height: 284
         isCached: true
+  - title: "How AI Marketing Tools Can Accelerate Your Business and Productivity"
+    excerpt: "In other words, AI marketing tools are like having a marketing team of robots that work around the clock to help ... improve the customer experience, and reduce costs. Start exploring the world of AI marketing tools and watch your business accelerate ..."
+    publishedDateTime: 2023-03-24T05:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-ai-marketing-tools-can-accelerate-your-business-and-productivity-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/EoShMHqENRWXqVSjF4tfH2AV3lWXSF7b0PAZCI/wpVOoqM2UDgukAfVjdCK1rgy/1ZxoH8RAh/Jp3SHZDvC5VPfEOlmVCmcis4C/gNlYGfXH8k2OL25LQreArzU+8QvUl9S4q4uOIlEYKLYZ/0JGFzVLgt/LEHj1nbz3t5yATTnR5GkoEzL2J+fazjq7MWc6iHeFiKea6eW3z0jC49GPYoSpNYXlVCJMaCO3xIq6s1TTcIARjD8bSMG2NruEdlRohR/UghNAcRmRGaMGsWYB5pQehTfD32dzX1FJM9fF8ubt/6pa+qcNNuuJx9rZNhJ8ekVzunDUpopDBPhLZ8Gjnj2EiSvpQNzT815vDJ71YSmWPBGkxtWFdPJf0xjN3xbnzPsff8qMkxjQy+WBKGUdvcPltBS0wl0fIvY5Ev8xVVAefS5vGk5P6XkB3HE/bLmyJuXwkTSyUvGgxmnaA6G/vCzVNUWoNJ+5qNcOguKj0OdmcVWNFb8tWBCOLh4V+4oNkoCca4NKOMNW6LiolVhwQ==;hY+OyzQGQ7/7SMCmItl25w=="
 ---

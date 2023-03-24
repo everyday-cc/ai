@@ -71,15 +71,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 29
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "wJyRGPOWIGt2VtIdNVPzq82XDpIeKjQv0YWENM6FYExpe8s8CUOhtQ1vFcQOAbgoiizp6aFSCXa9qryk2bmC6zkWV+1PXds1t1Ha+W0qFxGXSwbwOkb49EoCGmd9tkKzsSmZfKjmj4qS96H7Q1ueU1A+i7UEGCFy9HHg/9s4WMLZLuxqBA+2EF4cjA6eEPTo9rDrZ9ps2NrautAC0e0BcZUKciO556CokBrpD7fPyx3az36WbW+LJ+2B2iB+eRWY3ALR47z24tnvaplVtjm/6FdemrKMCgw1l2CvzNYGa1hHUgudkwzyrs0HOTR+gIUF/8rj+yTcJlTd7fQ1mlZh/RzPM/vpjos3zskCjAs+V7A=;a/LQOBkgTv+0QbADLo4t1g=="
 ---

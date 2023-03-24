@@ -370,19 +370,19 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Aetina Showcases Its Latest AI Solutions At NVIDIA GTC"
-    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are nvidia-certified s ystems TM, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
-    publishedDateTime: 2023-03-24T03:08:00Z
-    webUrl: "https://menafn.com/1105851793/Aetina-Showcases-Its-Latest-AI-Solutions-At-NVIDIA-GTC"
+  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
+    publishedDateTime: 2023-03-24T05:18:00Z
+    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Asia One
+      domain: asiaone.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804627"
-        width: 445
-        height: 250
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
+        width: 600
+        height: 316
         isCached: true
   - title: "Aetina Corporation: Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
     excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are NVIDIA-Certified Systems, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."

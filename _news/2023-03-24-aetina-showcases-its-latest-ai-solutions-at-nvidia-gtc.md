@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Aetina Showcases Its Latest AI Solutions At NVIDIA GTC"
-excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are nvidia-certified s ystems TM, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
-publishedDateTime: 2023-03-24T03:08:00Z
-originalUrl: "https://menafn.com/1105851793/Aetina-Showcases-Its-Latest-AI-Solutions-At-NVIDIA-GTC"
-webUrl: "https://menafn.com/1105851793/Aetina-Showcases-Its-Latest-AI-Solutions-At-NVIDIA-GTC"
+title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
+publishedDateTime: 2023-03-24T05:18:00Z
+originalUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804627"
-    width: 445
-    height: 250
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -441,6 +441,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "RKUjLFQxAdnmWBeDNrCZiNuYVMvZ5uUdwW+DMczlbNJZlw8r/t0lhiIGhKxSoAWkI2nWJoyIsSNncY7Io94XZnWe+z2/DRlBIqAyRSL1n6YMc5N5TMPnIcFYH0Aw+983dCils9OCdJBumbel7KDcszNdi/RRDHNPIVWZ0/oOCf1bnp0nxx/ienkKl1uvGKU2b7i3LRH+eE69BMG77AWLZLEF04NuT8rFKX8Co0TgWkTfQqay+/Ka+DkR719KlDGO41dLjxCs170dHJBf3FTE2IBy8NSB1OL2usc9bCRAy/ACL0k94Be2+7niwodgpGJGuBWDhHkVYQBbHKhF/wyF+0j3fJ5IPa2k2tZudtiEsJs=;XJWOxIC3eQZfotbrrvl7tA=="
+secured: "HCXx0WcC8xV9639lcYBLOvtp0GX/TQ8txx2Q6poiJ0KCKM+jp8Cv0kKIkfQVVql2sI8qnwUH3Un2JKAjNH2vpmQ2gQpvk+ci9QSZSZNmAfbqoDIOcbauExCK2/tX0ebiERThoObXnqOiR60jtXw1OOW5KcTC3AdnNgAZ4QTYUx5cApF8bsIGVXa0vHBzlXIyX1XE6tRWTNEX5mgZzCUWY9AunQ3aYb9nidpE8g6YiKfU2tcxncs0+onp2Kmu4yUIs/1n7w4N6svc4dOKoARt3jk5+FW2oIbpriXuZnbwG8v984h+5JUKIfbhH0hefts7ygNWtt6uZ0voEFhJJ6U0xbcx07bou1i8xjgKixxuGsY=;7jKJSxotzhgT5FschD1EwA=="
 ---
 

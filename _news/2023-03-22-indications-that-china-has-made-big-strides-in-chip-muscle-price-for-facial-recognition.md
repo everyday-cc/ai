@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fake AI Photos Are Coming to a Social Network Near You"
+    excerpt: "But the recent explosion of image generating tools, powered by so-called generative AI models, puts platforms like Twitter, Facebook and TikTok in unprecedented territory. Get the full experience.Choose your plan What might have taken 30 minutes or an hour ..."
+    publishedDateTime: 2023-03-24T05:41:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/03/24/fake-ai-photos-of-macron-and-trump-flood-social-media-expect-more-soon/bce289d6-ca05-11ed-9cc5-a58a4f6d84cd_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "ntUHHN5ZfCv87NXIVJDMvYO7idXb/gs1SU01gzJoSEd2WPj6eooIUYZfE2Pg+UTKt0hbKEQnFsUfEFRhv30mDSScpUxa3agibU8Az6Ciq53EmcM51Y+ybfdy1EwZpwMAGs0P0tdK7+vgoR1sTEFL2WNrMvkME2G9MHp1f05Lt1PzC++03X1KZlhJ/15+qjgNlUl4G2gKzGLP/RWUhYaUvgceA4BipERwqm8M5CIQZhMNoJkGsC0958tXUjjhicPMtq7Xl/+mjufVUgNygT1nO0zhZPJGQ3oEgKH99kx+DOTlwpSp2sSA7iqka/YHL/VsToEKqJNQx5e2Rw8hsO3FcWo8Bl5iNR5th4ky2d+NLEBvXLecBoxnXSwU0Y8ULncsderQ9faHF4HcjRx6xaU3v2S4y+5yuvm9LiJb5soVCwpTXBnF8wbQ1na2dW1O4CFLx49QDOMiB4JAngxvOCuwZi40pEgzyESHDv2g2HZ1AZR0fUQe68WlUd1o58FO1E+PmAICqr2BkKq1qAJuw4Jexw==;Xg7cThd2Ab4nj6bOW2OO6A=="
 ---

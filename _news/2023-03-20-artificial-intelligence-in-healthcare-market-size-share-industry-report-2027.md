@@ -70,15 +70,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Five things marketers should know about generative AI in advertising"
-    excerpt: "The technology could cut the time it takes to produce the dozens of ads a week that Jones Road runs with Meta Platforms Inc., which owns Facebook and ... analyst at Forrester Research Inc. While some might look at generative AI’s ability to write prose ..."
-    publishedDateTime: 2023-03-19T13:04:00Z
-    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/five-things-marketers-should-know-about-generative-ai-in-advertising/news-story/5c6ae05ac55f220ff710dfd438b1c327"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "5vQtNK2Yd49BY3cFThF+GBu9izMQu7RRLaBptpHP1o3KeYRojnEdxX2f6RBQJQlh+KDGgourIbHvLudZtH6+XRreiMe5f4llWfy0DfYJMCDZ1jcboi5vcyKSeLcTMp0lBcjkXyaaegNaYUPcgwWhBVAm3cwEihpt9y2JpuRcipRsLQxZTEYVf9leNORq1C23rF6vaB+aRrq/m8TnZKjVY1gH4ftsKeJnUyDmCvmhFt4MVelwsBgNS3eSfM5r/s1QeMaQcHbzHdTATwhOcW6kTF7myVRR0wNiJQAd1s+k0qW6ZvJup71RD8CLoaTqYkLGzv9asXFEIfisWoI9uIRz9NOLN8rUL1hrMbIQG/atPqg=;AZANE0E/CLQwzs1p1gz8nA=="
 ---

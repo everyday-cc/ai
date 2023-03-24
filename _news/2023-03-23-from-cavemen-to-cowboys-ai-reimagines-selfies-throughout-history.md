@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throu
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cavemen-cowboys-ai-reimagines-selfies-throughout-history-1789858?amp=1"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Trump arrested? Putin jailed? Fake AI images spread online"
-excerpt: "Fake images of former President Donald Trump being arrested by New York City police and Russian President Vladimir Putin behind prison bars have flooded social media in recent days."
-publishedDateTime: 2023-03-23T22:03:00Z
-originalUrl: "https://www.clickondetroit.com/news/politics/2023/03/23/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
-webUrl: "https://www.clickondetroit.com/news/politics/2023/03/23/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
+excerpt: "Images created by Eliot Higgins with the use of artificial intelligence show a fictitious skirmish with ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies ..."
+publishedDateTime: 2023-03-24T05:38:00Z
+originalUrl: "https://lasvegassun.com/news/2023/mar/23/trump-arrested-putin-jailed-fake-ai-images-spread/"
+webUrl: "https://lasvegassun.com/news/2023/mar/23/trump-arrested-putin-jailed-fake-ai-images-spread/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: Las Vegas Sun
+  domain: lasvegassun.com
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2HNJMIS34RD3RBMDLOCYKSWOBU.jpg?_a=ATCqVhC0"
-    width: 700
-    height: 467
-    isCached: true
-
-secured: "HAwXGrOtMszwyJjh8LT53yjS8L/i+usqO/Xfmyi3J4KP3tVzGx90cHMeOy7Y62en4jlKhM3T/OiFIXK3P25YlK0oFYCwFIZUFhNzbHu62T5doq6rPsk4H73l/Bvhh0QYQ31eeV6kouaz/g/NIoXzeLNLXg6hfv86ZfGU/I+NbUj5ma7BWwZg7ok4UsXaCngfCCV/i8G64NbMG4SWIZ/ys4R3yuGgwcOrf1fw0YAAi5Y9hb99Vnml2AuH47TbYRAlQSTSqyXer3D/+dUtH4GWMpYM8Jv7pn7NYgm1J9JpKqaMkv2u5Z+aTJS8vXRdKFb8G8qIkGEb5FurswyD7cVI8Dm/l2i2U6xsDoGU3kBiveej12IVIeCkTGDw9eLy4aKbOE7n3ZwZeOJiJOpJv1+hbfTyMaFlGsWPhpGmvetAj75WyEFtor1AhyaT0WFP3RfrxQbAxoXcgOuHSqi4zO3tXy8P+T4DAfay1q+ZmyucuELuw8gDebO160Hx4jIWySoAxadios8C3Wj25kGiqs5cvw==;26SnmU8IOUS79Si7dMGv0A=="
+secured: "2xt+f2VR1kCuJa7/gvkgHlBh3emkKbehEzgyIHR3BuNd/S6cGO0L0cqfQ+w/nWmqjWNBuO4HSfwiKyRfK2yjV5KSTT0sTQ3Z1apEgG4KOdA//hophXfWi/lVCKRkW+I6n+7rj+iScO730HhLJJ3hZYKNBnj8L5fHoizMnm+c369oLNmQkVLklhfvUNiQkXFEscHcre60bn17Kx6SYFnMLEiLu5nPa+TcRSASiawE1uI6Gq+DhzeKbHVgPXvqeoRA54DyCCVtk+CE66RQdP64PoYuTnFfxcXI6K2dRpDsYJGVnhOrp6jL0LP+5JTSLoNfficIgJa/EfKNGZD14yGRpO4Piefc72C6E1Wj6gWc++Eh+lntnzLNpYABLDdYEtEw1xQOBhdJOP/MOZZRU8VpTxCxS0WrQGkFanoN9OuWxrFFx8BfCJu9xknZrwntAAJsTA0LXUik8BG6iZijsrYpMSnX8EFERbhfFOGTjJLH+Ccx2hc/Bx1Az1Olscya6e8IAfzoGImK9BVgw+mcsIQX/Q==;XaCjeHINOJUoKmrOejYEOw=="
 ---
 

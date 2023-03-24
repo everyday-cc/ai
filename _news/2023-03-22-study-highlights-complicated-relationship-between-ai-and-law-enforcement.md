@@ -23,22 +23,6 @@ topics:
 
 related:
   - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "This Microsoft OpenAI partnership will accelerate the global spread of generative AI products through Microsoft’s Azure platform. Perhaps coincidentally, GPT-4 was released less than two months after Microsoft laid off an ethics and society team."
-    publishedDateTime: 2023-03-19T11:52:00Z
-    webUrl: "https://theconversation.com/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
-    ampWebUrl: "https://theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation-200218"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 61
-    images:
-      - url: "https://images.theconversation.com/files/516104/original/file-20230317-24-1marta.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
     excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
     publishedDateTime: 2023-03-20T17:14:00Z
     webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
@@ -85,6 +69,22 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2018/07/humanoid_robot_07272018_1.jpg?w=1280"
         width: 980
         height: 551
+        isCached: true
+  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
+    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
+    publishedDateTime: 2023-03-20T09:03:00Z
+    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
+    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 58
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
     excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."

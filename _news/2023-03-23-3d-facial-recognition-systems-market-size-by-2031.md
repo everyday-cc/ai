@@ -29,10 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Is Booming Worldwide Forecast 2023-2026"
-    excerpt: "Facial Recognition Market 2023 with 112 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-03-20T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-is-booming-worldwide-forecast-2023-2026-2023-03-19"
+  - title: "Machine Learning (ML) Platforms Market Size by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-24T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-size-by-2031-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Software Market Share by 2031"
+    excerpt: "The \"Speech Recognition Software Market\" study describes how the technology industry is evolving and how major and"
+    publishedDateTime: 2023-03-23T00:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-software-market-share-by-2031-2023-03-22"
     type: article
     provider:
       name: MarketWatch
@@ -43,61 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
-    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2023-03-21T13:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
+  - title: "Self-Driving or Driverless Cars Market Size by 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Self-Driving or Driverless Cars Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
+    publishedDateTime: 2023-03-24T03:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-size-by-2031-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-  - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
-    excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
-    publishedDateTime: 2023-03-23T22:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-trends-key-players-revenue-growth-and-forecast-2023-to-2031-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+  - title: "Video Conferencing Transcribing Market Size by 2031"
+    excerpt: "Many major technology players are [Nuance, Voicea, IBM WATSON, TranscribeMe, Verbit.ai, Otter.ai, QNAP, Google, Sonix, Amazon Transcribe, Trint] have been looking into Video Conferencing Transcribing as a way to increase their market share and reach ..."
+    publishedDateTime: 2023-03-24T03:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-conferencing-transcribing-market-size-by-2031-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
-    publishedDateTime: 2023-03-23T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
 
 secured: "qlG0oNXurMB/3GBRTj7DhSuA4DkguHRvUMenjSDzBE/1ft+hMHaoDWIw4a5GqQYViB2ieZBvrQo6mKCcoEBlTWGdbggUqgWI4srasj0l/+JMmjFhYCaz5+PEJl00m6WVdG4Ot25DbF8REkstPaERcki5O0QJbnTg9q2P+EJWR7AseuFysIFtnueQ6A7r9uiCLsCKVpCpYh3nWsd03nTYxgz4E1UV/YWblp6+c8LNssUutPB/DByOG//Lo9cDDmXQGM1IhhCV8SEnNwcUvflG6BI+LEeNW7qBrIPxgoiZUAvCDWMmcKctoZ5Z/2IH+nsDIoiiSYrq4ZtHZjsIH3lFrtTOxQh2718pxyZuY5Zyql4=;PQ6zaZ9Lxlozt+WZOeVfaQ=="
 ---

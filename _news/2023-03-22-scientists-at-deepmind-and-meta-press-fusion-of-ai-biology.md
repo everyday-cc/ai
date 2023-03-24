@@ -3,11 +3,11 @@ category: news
 title: "Scientists at DeepMind and Meta Press Fusion of AI, Biology"
 excerpt: "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington."
 publishedDateTime: 2023-03-22T13:30:00Z
-originalUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
-webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
+originalUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10"
+webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
-    excerpt: "The University of Alberta professor is a pioneer in AI and until recently ran the DeepMind lab in Edmonton until Google pulled the plug This is a new conversation series by Donna Kennedy-Glans, a writer and former Alberta cabinet minister,"
-    publishedDateTime: 2023-03-19T13:01:00Z
-    webUrl: "https://torontosun.com/news/canada/ai-guru-rich-sutton-deepmind"
-    ampWebUrl: "https://torontosun.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/603bee65-3005-4929-b37f-77d0d2f3bba5/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 74
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
     excerpt: "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ..."
     publishedDateTime: 2023-03-23T04:56:00Z
@@ -76,6 +60,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "L1jmVWo98lVRuXva6M8khsqqnDuJF3S3EmUKuJt4rji4d1gQYouURZPCid1baftjpXrHgG5YVy8LCEeO0WNwLxxG+HKwHfTsnYtv7geyxRAN743dakGkJVkOlC13sE2m3SIlI6TKokwOlktPgqgkPxK33VV/luzxtkUht9DixAekdn3cTo8ZiQmsM6Rjxp3GBFkfJuZc8YFQPV2vOO7V0ywQys1b40WZ9955vGCRjv0mp9bv0/8QPyn9eFbtHhfA/SNxOe4607hGzDdslKy2+Nj77tHvuG1y2hkasvzlb/U3cQHaLoLUk6yMrPbNH2GnXTkD3dv0b2nEvPzzTIBK4tPQ/Rf1pCsieu0iQCOl1jbeSSVBuHsirQT58axLgUbuqMRMdPsPj+tMTCo3bWhDbAaj8Ciyv4PJ296MrAEMTa1z1wABGouYWcwN81Y/5rs2W+eUfIc7RoE4vZfjOWML/he7TsT7CJdUbmTl+zWiysnVK+/KeywnKBQrRdR2BSRREBv0KFtda0xvfi4k3zj2uQ==;mzGooWH95Squ4l+UItwFIg=="
+secured: "k0XC/Xp25DDlCw69QVAWSXEsliW6IdU8f1zXXJdxxm2EKB+XJYiQn3rki1W2nyhamhMf7jyA6ncQCrZgncRPb8Enfcpg4JEhosbepvpG8kxUh3E77Wjpsq5LZAr0m2MEOSUaX5iu7C/97zK0eJZTBRFFSfv24C8vCDySFOXEpLprPoieHFpMfBgGwXR7JApy/l12gTsM/zSE/1lurQWNh8kez05HKyN3IR5kguDkwN1lM8x8Lr66t4hQCJv0sHhw6C/jxjNQPYhz+prNWEyyB5p7V2wPKYKt1Q/CvG4tuDOJfKWPU1KVyKmozxR7Wrf8HXU7kAKEqNhGMDeJan6oOxAm8hgDs7S5VuSMmVOmPek=;bL8rqdth7P0s6SQ0ag7cNg=="
 ---
 

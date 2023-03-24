@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "World first mind-reading beer pump lets you pour the perfect pint with your brain"
-    excerpt: "Thinking about pouring the perfect pint - and actually doing it - are two completely different things. But what happens if your brain was analysed by the mind-reading beer pump? What started 'eight years ago as an experiment' has now turned into a full-on business."
-    publishedDateTime: 2023-03-19T12:00:00Z
-    webUrl: "https://www.ladbible.com/community/mind-reading-beer-pump-thirsty-thoughts-homer-robot-207880-20230319"
-    type: article
-    provider:
-      name: LADbible
-      domain: ladbible.com
-    quality: 34
-    images:
-      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt4a2a6d5836c3b0b1/6416f1543b399c69659bf738/thumbnail_-_2023-03-19T110234.192.png"
-        width: 844
-        height: 475
-        isCached: true
   - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
     excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
     publishedDateTime: 2023-03-20T13:03:00Z

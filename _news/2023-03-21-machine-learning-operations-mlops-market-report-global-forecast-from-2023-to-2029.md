@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "3D Facial Recognition Systems Market Size by 2031"
-    excerpt: "The \"3D Facial Recognition Systems Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-23T01:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-size-by-2031-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
     excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
     publishedDateTime: 2023-03-23T22:25:00Z

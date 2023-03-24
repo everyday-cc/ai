@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
-excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group’s Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
-publishedDateTime: 2023-03-23T15:21:00Z
-originalUrl: "https://www.01net.it/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/"
-webUrl: "https://www.01net.it/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/"
+excerpt: "Phenom, the global leader in Intelligent Talent Experience, today announced its high-volume hiring solution has earned the Business Intelligence Group's 2023 Artificial Intelligence Excellence Award for AI innovation and applying its ability to solve organizations' biggest recruitment challenges in a highly competitive talent market."
+publishedDateTime: 2023-03-23T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782555.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782555.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -54,6 +54,6 @@ related:
       domain: eurekalert.org
     quality: 14
 
-secured: "G61AgaYLbuOADW4epceXNy0RoaKxom0nAYzGfJKJpGnjYU/DNenG0+8W65LNkJ1KgLDzslHJTqEzwgtnjEgHOsiqoc+gn3+DnXLMBGbjP81/zl/Jwn0dH9wmKIU8C3r7sTvz+iqyJPuUb1X+rINRHTF91o7s0y9riMpHh1xK6ypV3cDHTQqI4Jh8lM/Nq8CJQdMEmK5Su4gMI869Vdpez73znn/A0B9DmUk346gIgJgXRt/+f6uyDPUFYZ8Lib5XTg561qUz7qJrJd8HX4z68aMAG/Ich9rga8jmTsNC/i79bNP6VyzSHNXmbTAkc3CtJZPAa2K4W9XN98kY8oaKus2lul/HzOd9lVRi+LKuOxbA34xACk4m6WqeQWxA+giWONheJv/tQ7HiTMovTlgqEPnLwM4Desl3TlXtzjX0WcDCiowC6IJhMZfbWFl7VwZHW2OyquKSA0SIRcs38beJhwI2mU4dD36EvS0wucgZW9/9Er5RmNrFZ/1E2nN8HXgCUc6hLz2JscZEsNQ9HUxjxA==;Os4yVxXZSAw2FLUGTnvL7w=="
+secured: "q0Y6OmZnrQyDKpy/WhLraf5uo/VNgBR9rePC2DfPxsNO22PX1AUvTEKxnnY1LpDDdeczYrrugoYOxB8oXaXs9WvAyM/IgViDRnHZEBb5StGOmYFZLVDfNgv8K+/NoKqGlA8qAqBb32lm3qeF+QkcAaEhIvWPGlNitWb0KyILQrrk9XuN/LqV0+lsSJjmr+InPavF394xEoaUYZvJUJsLu/jLQkA9gU4NbffMFsxBPq2QQUllSebMKQdDzhpsmxgQMAfsQEDnFKhybQWkl6KvBDFQq1xDGfLD5GUwup/rta4ThWCxZgnc4PCL0Ze5j78zYJn4/E2B2xgL0yQ61mEh/uiHR7IwoUskrlNYjsByDcw=;6VEquXg41TN40rqfjJIwsw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-
 webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
-    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
-    publishedDateTime: 2023-03-20T09:03:00Z
-    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
-    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+  - title: "City Tech Chemistry Professor Creates Innovative Tool for Distance Learning Being Used at Educational Institutions Across the U.S."
+    excerpt: "but in fact a valuable approach to providing deep learning in science and engineering and expanding educational access. \"Our mission is to enable students to learn anything, everywhere. The pandemic challenged us to design educational experiences that were ..."
+    publishedDateTime: 2023-03-21T16:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31443012/city-tech-chemistry-professor-creates-innovative-tool-for-distance-learning-being-used-at-educatio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31443012"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31443012"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 58
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
     images:
-      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mila and UNESCO Join Forces to Emphasize Urgent Need for Better AI Governance"
-    excerpt: "The book, Missing Links in AI Governance, includes 18 articles on AI governance ... contributions to the field of deep learning, particularly in language modeling, machine translation, object recognition, and generative models. For more information ..."
-    publishedDateTime: 2023-03-20T15:23:00Z
-    webUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-to-emphasize-urgent-need-for-better-ai-governance/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 38
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "DUCCOwS25im8syQ9Cirpg1FHq7E1ClSOiB5sZXyKab8Vb5gblqpZvufnR1KwsB086BbZ5EzUyrH6wUlC+3X680PeS31rEROa4rATbSi0lDu7f5zZHHVJNKVGgOw5mNsBIXRxKk/KYYH7BZLItDMR5y/0qGG9i/K+LZl35+40PADUF8A4SLieSoBx2umysOYdXpF3SabuXAxQsir3k+QkuCqfFPMVvE64VQ8iOjJ51YDAriOBluSuzK9goOFJyLKALZYDxJiWYjGOjR9D8D2Fso+03Avld8KLkKI9enev30S4qggletTdGuhLM19B+fhaC5f4ZNn41hUUB6+3aOuBShqrIxb6z4vi+08HM8cIt8NNbol80Qof69wkNJ2m2C7QdiRJNowyQwnGqL+soB/HDBgDTh2cZL8qIjx4fK46BZpE8ea/YmdhunJSSpMxagFw+MoCgn986J8fxnnjTVVPl9wjOE90DWpnO1tInY/m36WTH8JxG9Zi1j/CrPvf7XPw/vHqsBRmGKlUDfqxqobNTQ==;6srNpQpV9jcr8mA7kxY2Tw=="

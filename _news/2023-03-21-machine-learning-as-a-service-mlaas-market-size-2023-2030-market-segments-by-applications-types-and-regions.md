@@ -24,22 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "City Tech Chemistry Professor Creates Innovative Tool for Distance Learning Being Used at Educational Institutions Across the U.S."
-    excerpt: "but in fact a valuable approach to providing deep learning in science and engineering and expanding educational access. \"Our mission is to enable students to learn anything, everywhere. The pandemic challenged us to design educational experiences that were ..."
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31443012/city-tech-chemistry-professor-creates-innovative-tool-for-distance-learning-being-used-at-educatio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31443012"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31443012"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
     excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
     publishedDateTime: 2023-03-20T19:34:00Z

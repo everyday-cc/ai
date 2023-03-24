@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-
 webUrl: "https://www.datanami.com/this-just-in/mila-and-unesco-join-forces-to-emphasize-urgent-need-for-better-ai-governance/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,36 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
-    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
-    publishedDateTime: 2023-03-20T09:03:00Z
-    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
-    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
+  - title: "Mila - Quebec AI Institute: Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
+    excerpt: "Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila"
+    publishedDateTime: 2023-03-20T12:37:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58601032-mila-quebec-ai-institute-mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-governance-008.htm"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
-    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
-    publishedDateTime: 2023-03-21T11:46:00Z
-    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+  - title: "Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
+    excerpt: "MONTREAL, March 20, 2023 /CNW/ - Mila - Quebec Artificial Intelligence Institute and the United ... great potential of AI to accelerate scientific discovery, especially in healthcare and environmental sciences. They also addressed the opportunities ..."
+    publishedDateTime: 2023-03-20T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mila-unesco-jo-forces-emphasize-urgent-need-better-/2023/03/20/9779755.htm"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "bQMjNuJZfBUmP3svn48s8+CCti+mDez3TVIbdsVw09b9osV6+iqFO2CBLW6nJPXYpnDEMxo0A7TOOKfKP4ewBIWLdQfF9YFuJLrTUJkSsx4m6oE+JHidpS+NMcVPkEY4ExhEpPxIRsmgYxrO3J6TUw0CJbDBLoGmrgimn3gvVWZU6BXox/gh4hADgXXEaS+Gb3jfjNVzpZF88cR9a5DvF3/UGgQuBSIZo4pk1zum56earsxogiodfgiHTgK6jlosniaqgDg2GXMIan448hkIveGnAtS1C1Kue1RR5Lx5edQaN36NnridwHk+6XfiWTluQW/R5InDwXu8iIjhmZJ4J41BpWOge+QEUycRz65trpqD5vsiDqHi0P4pwgI/EbxScgY527G/9PIRYwNYEmExNDqi8wv9IsVBC3EtIwacZgW7vX/zg4L6hhQcWBoWfBToVBxFYDOzhKo7tlJS417Hu5BQGf85EpkLfyN0aQutqAjW9+u3QkIlLPhAjKCWJfjMPVGJV27hxB3Sda0ljsX1yg==;R7T/d++dglAXaCaHaZg0wQ=="
 ---
