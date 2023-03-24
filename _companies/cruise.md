@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cruise"
   url: "https://twitter.com/cruise"
-  followers: 38079
+  followers: 38080
 
 size: 1,001-5,000 employees
 yearFounded: 2013
