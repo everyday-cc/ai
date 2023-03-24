@@ -254,6 +254,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "As GTC kicks into high gear, Nvidia reportedly boosts orders for AI chips"
     excerpt: "Analyst Tristan Gerra noted that the company's Hopper chips are likely to benefit from the growth of ... Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of the most significant developments in technology ..."
     publishedDateTime: 2023-03-21T11:34:00Z
@@ -356,15 +370,34 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Custom Nvidia chip boosts China's AI push"
-    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-    publishedDateTime: 2023-03-23T01:08:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+  - title: "Aetina Showcases Its Latest AI Solutions At NVIDIA GTC"
+    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are nvidia-certified s ystems TM, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
+    publishedDateTime: 2023-03-24T03:08:00Z
+    webUrl: "https://menafn.com/1105851793/Aetina-Showcases-Its-Latest-AI-Solutions-At-NVIDIA-GTC"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 34
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804627"
+        width: 445
+        height: 250
+        isCached: true
+  - title: "Aetina Corporation: Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are NVIDIA-Certified Systems, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
+    publishedDateTime: 2023-03-24T03:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58641034-aetina-corporation-aetina-showcases-its-latest-ai-solutions-at-nvidia-gtc-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/2038846/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
     excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
     publishedDateTime: 2023-03-22T19:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press
 webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     quality: 74
     images:
       - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
+    excerpt: "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ..."
+    publishedDateTime: 2023-03-23T04:56:00Z
+    webUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5"
+    ampWebUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 74
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
         width: 1000
         height: 750
         isCached: true

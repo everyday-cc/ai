@@ -2,9 +2,9 @@
 category: news
 title: "IronYun expands the power of the Vaidio® AI Vision Platform with 7.0 Release"
 excerpt: "IronYun Inc., a leader in AI vision for security, safety, and operational applications, today announced the 7.0 release of the Vaidio® AI Vision Platform. The award-winning Vaidio Platform now includes Object Counting,"
-publishedDateTime: 2023-03-23T23:41:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/03/23/9782661.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/03/23/9782661.htm"
+publishedDateTime: 2023-03-23T22:54:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/23/9782661.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/23/9782661.htm"
 type: article
 quality: 36
 heat: 36
@@ -24,6 +24,6 @@ images:
     height: 204
     isCached: true
 
-secured: "nwXOZqFQJ0MY7qkxhZySdo7Hgi96cHQLx4bGhPhRlHyctAmXAdSONdUcJJO0M8vblsraf2NVIMfudzWhyJDefKIs6poYvKyBuFhqniNeXLAsaC5PnIq38WF2C9wsWk6AiW+HWCKOr/G88erjElLmqJtLSlHtCw/KyokBscWODGdJmu0NM8d4BTfIsOQVAwAwYPqV1gVNERFEjBBHbDZHwQ3c/pRaOrKzkzMS483QXexLoAR695Ver4hTE+K8eYCjDnvcK4c6ICpqzvItxehK9WSU3Xpv4buBCrX9f1ar0swp0doYvZ2JYKyFMaqCL7kkaZXKkeJTRAUAm53/Dc+3aYrC80cI2RCfMJMrtrJKg0M=;BJSW9+eG9nGbUZn1fPwiqQ=="
+secured: "LTuF0ZRCGifwu3XAFb+50SDusTjcgFPfs3mH1UBcEqPYuurFeaoRi3OnO/9bLYMapd68hP76lOmmvJjf11cANywo1UO72BUiJhsAZrn9jjMhBiJVfON4mBPp91yL9+yze+UlQxRYxzssu1+ht2meWWpVp1AklbC+wEwsqvvVDrdfCh3cvSXQ6RyKK3gR96EAyCe8+g7jrX1f+qgkwOMhPBh2kzehTyIj8yse2YEsUpYJoiuSJIt2HpbwdaeLhe6WjgDWbXm1aSOefkmUfbnk6L3aYpAcdwgcT1dVo04vfp8a7OJGSpI7hyz7rQJ0OgLIP3k1hBDZDMw/4n5WinttXm00I2K2/vpWksWvaZc1rVc=;egRx/ERzo4Dp4Dtr5Os9Xw=="
 ---
 

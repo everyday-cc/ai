@@ -2,11 +2,11 @@
 category: news
 title: "Custom Nvidia chip boosts China's AI push"
 excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-publishedDateTime: 2023-03-23T01:08:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
-webUrl: "https://www.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+publishedDateTime: 2023-03-23T09:45:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+    width: 720
+    height: 480
+    isCached: true
 
 related:
   - title: "Nvidia GTC Highlights The Physical Side Of AI - Robotics"
@@ -361,6 +367,34 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Aetina Showcases Its Latest AI Solutions At NVIDIA GTC"
+    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are nvidia-certified s ystems TM, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
+    publishedDateTime: 2023-03-24T03:08:00Z
+    webUrl: "https://menafn.com/1105851793/Aetina-Showcases-Its-Latest-AI-Solutions-At-NVIDIA-GTC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?804627"
+        width: 445
+        height: 250
+        isCached: true
+  - title: "Aetina Corporation: Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are NVIDIA-Certified Systems, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
+    publishedDateTime: 2023-03-24T03:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58641034-aetina-corporation-aetina-showcases-its-latest-ai-solutions-at-nvidia-gtc-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/2038846/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
     excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
     publishedDateTime: 2023-03-22T19:02:00Z
@@ -407,6 +441,6 @@ related:
       domain: infotechlead.com
     quality: 19
 
-secured: "KJmZlv/hdH0Nat03YM4Nj+rKyASO60L38SoQ24Z+lT+tvAncmMw6h6KRbc3XtDpiaWaPOwJhFONMAhx/oQirQ6B5iN4yCql2p/pkt+kq/28RSZDnSuhQAJCdirOlb7mbG5TnCEILJGwZN189J1GHziXF0uY5/Ofskq0lRdeg6JQfqcaYqx9E9sWQLF5Xj/VcOLzlkn4A0KJYlf4QlchCs8R3RInPjI5zLFdUgFbwlyiDSh7CtxRQKyPEzVY4GvHRrEEJxCiDGThk2wgbul/oH6ls53ROLHA1vdRC9m3cdytaho13DdkmaP0ge61QP211xIJeIOb0VjwK15QevNpu8d91YmvuKyEeEZVSFWGI14ayh/EZrYR+1n+G5lEu0hQuwWHsjdyG2d3N/7eac13PqjvtOFN+RC4BgtFA7I2BMidiBH7Dl2x+pbBxUyxDiLlC584hEAVn5bio+wADuGdnhDAoJb0S1X0UIuR8TvslJR/7a4S66BEkv6iG+tTSqYCLHUcTPKZw9B+JG0x5oP2cdg==;djdUeIJM3qI1FJmZTOP3dQ=="
+secured: "5uVeOlFIaZzcyCQ+lvJRyNRp1EJifqZrs0d5bBmuGLviAC3Ts2YfCGTXOt/Z9VEdZkMmpBQfSVXlgIPnnL81s7rBxWC0TMvbFkPPynlSCD/iVEyyZQQTtuMmv4uh4YTA7hgdOjhXE1CxlvJvOoTQM3tVsA8L6ZjS2hi1x0PLGY1Nv6tC9nLizpiCNFXJsXozVomVC7enFB7V6mrmBLjAeoclpltH1SetxY2yoqxZAtUQLbQiBm5EC3BkUJyC8u7XFXYrPbM7sr6UHhdBiPzM1K9oB9LipQB019W2o65iuxIitn/WEY3RLv625l4V0s7FTdwCLHLxx9X8MHaDQIGCm+7OMiCIkbQmJfKEtoWGkMA=;7H27ivQ9r3IYAUuIZSBJVw=="
 ---
 

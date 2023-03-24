@@ -115,6 +115,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The universe is getting a weigh-in thanks to AI"
+    excerpt: "A decades-old equation to measure galaxy clusters just got a valuable update thanks to artificial intelligence."
+    publishedDateTime: 2023-03-23T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-galaxy-weight/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-galaxy-weight/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-galaxy-weight/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/23/NGC2841_Astrobin.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "UT preps students for the future of artificial intelligence"
+    excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
+    publishedDateTime: 2023-03-24T03:00:00Z
+    webUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/"
+    ampWebUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 57
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/AP23080575494759.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
     publishedDateTime: 2023-03-20T12:00:00Z

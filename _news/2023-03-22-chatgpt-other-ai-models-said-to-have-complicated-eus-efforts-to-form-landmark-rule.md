@@ -244,6 +244,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
+    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
+    publishedDateTime: 2023-03-23T20:19:00Z
+    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 29
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
+        width: 1719
+        height: 872
+        isCached: true
   - title: "From ChatGPT-3.5 to ChatGPT-4: A Quantum Leap in Natural Language Processing and Multimodal Capabilities"
     excerpt: "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set ..."
     publishedDateTime: 2023-03-22T15:33:00Z
@@ -277,6 +291,6 @@ related:
       domain: tomsguide.com
     quality: 17
 
-secured: "fgTrlFFkN8E1v1wrynYe6Y89hHJKJ5Zt6LF7RuyiPym30znp/4XSCwHG3eMgsvtBuoePHiLndZ4v+2eqZVIGpJ5PzczvOm6A6HuJ8wNXmjlL+0lctETPr+uIU+K3ihB9Y3It43+cNDvbuRTZmHL6hYxGs7Iu4/JhzD8nmDaHxnHNIX5XnXxeUai7z9PWCtmvFgsihsCOWAf0L+qDaEyhaDftL6vGSLuYFHbHmfOAy9hkhOu9ofj0zZrGi6USOxYCnz1HeUAfRHdNvCEftWRJTWDvOfzftD5B8MMdoJ5vupO1Fo5spV0gIRj+VuauCiwmjxgp3baLGmCEJFSfUMTSGdTuA8A/KMwM/WPivVQTlCc=;PaQvipi7u3dKGRqqqGi6iQ=="
+secured: "AWIDXfaaBcJnrR9rRBWcln9IH26DKNc8KrQW2JvHAjAXlu5RblJEDAev/s7u5cqhO8dmabrRIBN3BOI4CGc/sGtAksKJnqrv6MTKfqbtZLeOxQdkq5fLs/mFfCxY9ks1zb3MxqK7z7I0/AJqzJdio/Q9Zow7begMkm6c/pSOp1LiAyg4FVYVWju/xcI0x2Eg6ia2Cb9/c9sSu4iVP/uRUOLbie6smbU1HKLDkj3eHgfiTISMDkWP2rIheuDa/7ef7/LGJo8/KJLUCmtKZPOo+qzT94eJWPv4HjY5zLwjz0myiunwdEJJVLfMSFheqbMUMbJkN9/cTf2FJzT/eXo6ct9FcDpdkOQJ8+sDknkbLnjM/dtRn0TEBhrwfnKxSgxUk/7EfvoyFE2/6dj7BeYw36CyUk+ZxEN3iY3rsfx0Pnurx4vqMZGR2x5xKRPhfaDwD8GGvnCazfjTnPAZCK3JsmvE+usbiYyrRBjNBBldknI6BK+732chdbIve1Glg+wgjC/4O7KysaMK6Fjm9FTT3A==;GPZYjZfhzpEmqY5OAdZ/MQ=="
 ---
 

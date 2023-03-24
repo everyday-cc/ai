@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s Self-Driving Ambitions Are Further and Further Away"
+    excerpt: "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”"
+    publishedDateTime: 2023-03-24T02:01:00Z
+    webUrl: "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/"
+    ampWebUrl: "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/22/11b44f8929b7238c7c7add384e26a2f8.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla rolls out its Full Self-Driving Beta v11 update in North America"
     excerpt: "The update allows the Tesla vehicles to use a single stack for highway and city autonomous driving requirements."
     publishedDateTime: 2023-03-21T15:52:00Z

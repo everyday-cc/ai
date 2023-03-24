@@ -248,6 +248,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
+    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
+    publishedDateTime: 2023-03-23T20:19:00Z
+    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 29
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
+        width: 1719
+        height: 872
+        isCached: true
   - title: "From ChatGPT-3.5 to ChatGPT-4: A Quantum Leap in Natural Language Processing and Multimodal Capabilities"
     excerpt: "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set ..."
     publishedDateTime: 2023-03-22T15:33:00Z

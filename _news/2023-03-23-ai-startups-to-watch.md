@@ -3,8 +3,8 @@ category: news
 title: "AI startups to watch"
 excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
 publishedDateTime: 2023-03-23T14:16:00Z
-originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/atlanta/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/tampabay/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/tampabay/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
 type: article
 quality: 17
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 330
         isCached: true
 
-secured: "nPWhOV2bQIqpyMMQkkZroxOkbppalWNm/AX5deFKdVOW7pS0vnYxexG0ZPuCotWezkbnzYRACvwUCqfiQcnI2fGUNfDc3RIljhXvAkft8EBPdTHZ9+3l/OCrgXAt5gmRttSRUet++T1sFoV94omCfCefdwAZY0YEID5W23yUIv4T6+hGdQOoAafl/X3EqMi2wFF3+nBmtnEXR3heF7BAhs1jrVY0M1u4TcKJYQZx0P4cg8nLRne8ay8zTqPN7InJweoeNyVLzXav2hHt7WH8H54wzZ+r/44zmERzLTeI7u8+1DdY7K85H8uxP5eky1KJGqSr+cv1i78pq28VcWBBt0NOPsMe3MgWTbq5STTF4GyV/aju0kBtUEAEI5i2UghcGiRr/3PsSyK5+hDeroMc6Fwe2XxPG8XkgqkvQSu03bEwzn4eqk2SJQMfLnUaJyOnHgbgZzDLT9oAuYNFMxATEQXHxdAVmBih1fPEFDxwVQttquUUjkkSMsfC763qKeJH4J07XijOuSQCLPs0jQzRgg==;HLs9fNkvzxGJPWl/lJmI2A=="
+secured: "B2NZEfiDgZ4Lkz6/4gZ813XQxjCUxQ8q0OVsKgcj+blFVrzBhnHjRjtd8t56ASj/gN20AZngV1ePVXas8NCmTpsDRvyuZllTtxxRGYKvB9gEhUQAdm2lF4QM4JYHD3zhMv8F7MHFwL10lQ6f2u+L50tacK5NfF0Y7R3d/zKRbO7jOmr7HfzgFdgYNnO2L/6Rx0H4eX0V8Blw0ET9FRUDL8gDgdmuGl6MH95kn6dAPQeBgUgYC76VV69YVx4be9CK+kqVHn2sTHYvbD47tdxufZzIzO8Eht0ttLif13x0K0z2FUHZfIK3u2W4RfSoNCOoYMTswulaxn2SR15JUtMJo4zPZRdqQWsnNhAWPQ905KaaHx5Ub/M7SLHst5fod+v5jtaOri68rkd1DcoxmQNcbEYd9tNatFdWxKFNoCqAoileIzLbEKsw/p+OyfdunIdIOesE9t6CzJSaWpru1cpgYBM9Ouvqgg/rtp3UclkbPq3rGLLa3/fiFJbIOsjyHkYf+awHBFZagBo2icHcjZiRgQ==;hc14LUHW/tmtKOsXPP4Wpg=="
 ---
 

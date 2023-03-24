@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
+    excerpt: "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ..."
+    publishedDateTime: 2023-03-23T04:56:00Z
+    webUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5"
+    ampWebUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 74
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Bandai Namco Entertainment Invests in DeepMotion to Pioneer New Forms of Entertainment with AI Motion Technology"
     excerpt: "March 21, 2023 /PRNewswire/ -- DeepMotion, a leader in AI motion generation technology, announced today that Bandai Namco Entertainment Inc. has decided to invest in DeepMotion, Inc. (\"DeepMotion\") under the Bandai Namco Entertainment Startup Investment ..."
     publishedDateTime: 2023-03-22T03:59:00Z

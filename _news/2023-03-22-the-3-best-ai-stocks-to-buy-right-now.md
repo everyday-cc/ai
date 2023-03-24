@@ -45,6 +45,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Why Most Analysts are Bearish on AI Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) has pulled back in recent weeks, but it’s fair to say"
+    publishedDateTime: 2023-03-23T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-most-analysts-are-bearish-on-ai-stock-1032187295"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Buy these 6 stocks to bet on the AI boom and future-proof your portfolio, according to a senior analyst"
     excerpt: "\"I don't think there's any denying that AI is going to be the future,\" Brian Jankowski said. \"The question is: How do you go about playing that?\""
     publishedDateTime: 2023-03-22T17:19:00Z

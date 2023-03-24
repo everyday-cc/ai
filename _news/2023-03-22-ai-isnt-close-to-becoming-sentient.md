@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Chatbots aren’t becoming sentient, yet we continue to anthropomorphize AI"
-    excerpt: "More people could start thinking about bots as friends or even romantic partners, much in the same way Theodore Twombly fell in love with Samantha, the AI virtual assistant in Spike Jonze’s film Her. In Japan, where robots are regularly used for elder ..."
-    publishedDateTime: 2023-03-19T10:23:00Z
-    webUrl: "https://www.fastcompany.com/90867578/chatbots-arent-becoming-sentient-yet-we-continue-to-anthropomorphize-ai"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 20
 
 secured: "QrWafs3IlEXd0wAuzqR9cgZc5mEpEt2+cDk+g0sJyypxP7PnFMTTzMQBa5wA1+SngKYBdHVYtl8LGBF9A05wjhVIpgmYVbqiTf3Oz1tVaWjQnC998gc5HL+jjBFnEsllt1llsHOo7lDrWjEKIyoEb2wve/K7OYYphtgY9PI8syVZwZUMohVdHcD0YEwy74atiD+tPIYW1uxMt5I+odsgaWhAveu835r7zzRsTSVa6qZBFh2k74yzwmsZYbeHX2DO8y4A2rei1SG5zYGx4ZLf8C6Vbi9TjRxLL+3En5+Bw/v0m4NLHR44Qj55iyTwx4REvYQY8WRolmVI1+dLBY74gpLyh8I471uKdukmaIGGyiC3cRK42NiemhA9O44hwsVquDBjsCBjp70fvBCxDuBAbEW82+rcGO0F0xZESYq1K2nneFTIBFhfolhRfMoEMNwHyyuwCDarfgA+TuYlvBZFNhD9kLjtE70CMuGbXJfhxByX04p+rWaZohQyzKPD3BB7NrmdjrwxLUmYfluSf/1kHw==;G3VCQi0kYIY6nm6u0SQgBQ=="
 ---

@@ -54,6 +54,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
+    excerpt: "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ..."
+    publishedDateTime: 2023-03-23T04:56:00Z
+    webUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5"
+    ampWebUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 74
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "DmWWTED5Tyb3rrSMtmB0wUNP8LXjxHttAfbteuKSQWYfu0iva+OtYXcAHeNGBuSxeBfOTNpWFkZvGewuvPpXUEIpDe5nHOi0SWdaKR3wVwCsjJjEfTVGCPFChVihj9mLjyzPhvWSFAeOSCmZyq+HPtAB7lAVSrssM9/gKbbf5M4x6RhFw2oE1HxP1rJnWCM2q7gVI4cnOC6kN5BVw8fUSEPBWiYu9IggntLEYdzK7PuTdee01D+1Z1tCBcHSDK4C60POol+QsDx+YA63RCezzTgJcKyfMQR4f8yJjylM4ogYZfiAHY0V3jvSGVnsoD2aRqqOgZUghjcTMDHNFpDIVEdizAD+0vEnTGyvqfCvcF4=;QuwI0N75vydjaQ5PvL83uQ=="
 ---

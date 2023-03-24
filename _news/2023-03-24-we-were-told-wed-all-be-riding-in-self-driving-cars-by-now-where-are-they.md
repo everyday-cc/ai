@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "We were told we'd be riding in self-driving cars by now. What happened to the promised revolution?"
-    excerpt: "Proponents woefully underestimated the technological challenges and as it turns out, developing a truly driverless vehicle is hard."
-    publishedDateTime: 2023-03-23T05:55:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/we-were-told-we-d-be-riding-self-driving-cars-now-what-happened-promised-revolution-412171"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/we-were-told-we-d-be-riding-self-driving-cars-now-what-happened-promised-revolution-412171?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/we-were-told-we-d-be-riding-self-driving-cars-now-what-happened-promised-revolution-412171?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 30
-    images:
-      - url: "https://img.astroawani.com/2015-11/41448540393_DriverlessCar.jpg"
-        width: 590
-        height: 400
-        isCached: true
   - title: "Cruise plans ambitious self-driving expansion"
     excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
     publishedDateTime: 2023-03-23T14:48:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "We were told we'd be riding in self-driving cars by now: What happened to the promised revolution?"
+    excerpt: "According to predictions made nearly a decade ago, we should be riding around in self-driving vehicles today. It's now clear the autonomous vehicle revolution was overhyped."
+    publishedDateTime: 2023-03-23T16:51:00Z
+    webUrl: "https://techxplore.com/news/2023-03-told-self-driving-cars-revolution.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 10
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/elon-musk.jpg"
+        width: 1920
+        height: 1721
         isCached: true
 
 secured: "Ia+mrAtF5L32rBN9BMTvxt9rzQjYORZfacP3u938pFMXyfCN/AUyG+RPieaUaaE/BE3+xEfrYJ7RGXHs3XalQUlkA5gu89Kdae1jhB9vsgpIZCIMQkVRZz0cI0iS8+eVf1uvGiz+tPvoOun6PR4+x+KXYrYNy18r7Vm+8FHvr20ICw52Ivk6TmIywsxt5hpE1rmdi5Miw2BMfT/+XrVFVMtBsWLcJKGt6O7yQiOTU2L5zQkW+tIVaCt5X/npZW5xBR1kis5hGsaJeP3L7CGPV51GXYcdgZtyCXxhuav7t7I5YGACh9oYbB5FlkHvdkjmFuWFn+u74deUsXMWXbrTaCYz5UiOYiBys9gXCotSSog=;IwukzuMM7UxJzzoCFQ1iEQ=="

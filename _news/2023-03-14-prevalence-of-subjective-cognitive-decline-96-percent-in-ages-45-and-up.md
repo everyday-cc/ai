@@ -3,24 +3,24 @@ category: news
 title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
 excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
 publishedDateTime: 2023-03-13T21:39:00Z
-originalUrl: "https://rapidcityjournal.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_e6418ec6-ddb9-587c-b649-eae0096bda6d.html"
-webUrl: "https://rapidcityjournal.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_e6418ec6-ddb9-587c-b649-eae0096bda6d.html"
+originalUrl: "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html"
+webUrl: "https://tucson.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_9f946908-9684-54d4-89b4-249b4b0666f6.html"
 type: article
 
 provider:
-  name: Rapid City Journal
-  domain: rapidcityjournal.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/7/86/78666a8b-9ab0-56aa-8f2b-65405b0b1c57/640fb33383b70.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/fb/efb780cb-d707-595f-a158-a34145cb65e5/640fb239b878e.image.jpg?crop=600%2C338%2C0%2C50&resize=600%2C338&order=crop%2Cresize"
     width: 600
-    height: 315
+    height: 338
     isCached: true
 
-secured: "mVTcgLVY8CbpyXEPFIRo4aCIKyCnEcpiuy3Kjm1Pvl7uIbf98rvFKxTMcB6rshxxTjkUpRabubFMVAY2/Z2MXyyBwgBB1WrBp5vLEOYGEmcitNj16yQtHeBs5f68SDPRhcvvFOP9TWZBWlIjPK5vVTYTlL+e78g5g+rIVuXYqzGeggjUNNLZj5iROjsxph2g5tS5LWIZCx23d48TuBOqRLabDdAqxAq6pWv/1OihweEsri2pertjtNqua4m7d6lGVNStTFwucLUBOzMfuboAzKNu3KzxvRL5WwYVTWqvNIgBgK32abUdrrTr4Bww0zaiTYwoEjNv8QT5+1Ok+BNaYjrCCAp0ejNtptA/2kOyzqc=;bGjegil5cjCNIogHoWSqlg=="
+secured: "W9jfbpjIS1lF3jkowGLi65jufCsgUqwyidOLrdCFU8XgJGNlPBzWNxln4b4e7KrRgXwNIjI1nrSko3hzBhD2ROKacbn9M/KUpzzDCotleOrYwYTf9I4G/bp3rK71Ky8lKI2eWJfXZKlbucQzbnMklYD9xP+bKp+/KGNEnVNHz8W+ldkRoywwM3Ap0ygTPULtSwA1pNubgGZ6DHGKPCtG4uVWuHQH3L/jKf7UAxfng7CeJv5pNFdjVNAW4netlCICtDLokDaH8Z/zgT2O72uCaW8bfTR2JEglTANEVKYxwbc2CbmECLcTtUcMc1mu7/2FdFQR2BHjJNG6swD+TxuiLC07KVWEQybLOhIgNryqk00=;kR4E78GkGfHU7Pzgm1FRWg=="
 ---
 
