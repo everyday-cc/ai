@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-ar
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Adobe launches Firefly generative AI creative engine at Summit"
+    excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."
+    publishedDateTime: 2023-03-23T04:30:00Z
+    webUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/"
+    ampWebUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/Hero-adobe-launches-firefly-AI.png"
+        width: 1387
+        height: 799
         isCached: true
   - title: "Adobe Launches 'Firefly,' Its Very Own AI Image Generator"
     excerpt: "It's a large undertaking, but the company does seem to have put an emphasis on establishing a set of ethics for its use of AI, and is using those ethics as a framework to build around. As mentioned, at a basic level you can generate an image of pretty much ..."

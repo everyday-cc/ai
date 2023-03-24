@@ -134,6 +134,20 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 34
+  - title: "UMich respiratory therapists and technologists seek union recognition"
+    excerpt: "it comes down to things like having that voice in our staffing ratios, in our scheduling policies, our PTO and vacation leave,” Wells said. Shannon Beadle, a respiratory therapist at Mott, emphasized the ways in which union recognition with SEIU would ..."
+    publishedDateTime: 2023-03-24T01:15:00Z
+    webUrl: "https://www.michigandaily.com/news/administration/umich-respiratory-therapists-and-technologists-seek-union-recognition/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 24
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/03/Untitled_Artwork-copy-1.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "vzZEPndaAi0FXQd596hNFlHZ40WsILhrTUIkHrt9kaUYSpllrDsku5PAhA0nfFXhU+eAyDpAKkQpJUoFLzwqkm4lvxNGp27rwhmlcHx4miqP1+foBvTyfDDRJw+LrXh9mGrukHAWJkAod59osbruEScgSR8Q5PiXXv5lOli0GSX8AkW5VEiCFdRK+2c0TyXr0pl7o5xkcUXRkAyoGzB9dCWWF5Sbsstq9Gq1wZ+2X7BYXbmuiI/P237VbHthRoL8nBsImOh3BCOBZClm0SFJ2xuVtkrDAYfLi2cfsj2/A7EkpxaXVuicacRWxyvlVK45SHEPawzvrNz19yyGhVUyYAWn4Y7RRKkLaHWpKWw/gFycjZWq2h6JRjlDiftjJTcLaSAb3Pdsw4u1A2XUY2M8IppHyi/mzaEHoZ35Mawgt46ho583G52Wa8CqwkXFxQfWpbGWGiy8gHlkuP091XJylCXhb3NKTS0YPVgagTAAS5H4Ov2Ecyg89pOcsF4SYpJ1Khff1bWM806eiIIoKwehDQ==;x/7gnxWFWRgQQMbcudCeOg=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Cruise wants to test self-driving cars all over California"
-excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-publishedDateTime: 2023-03-21T02:02:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+publishedDateTime: 2023-03-21T12:22:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How AI is saving homes and lives in California during wildfire season"
@@ -112,6 +120,6 @@ related:
         height: 674
         isCached: true
 
-secured: "4f3SgEg7A/I81Mod+ZCa3AUfFT4PlEAhn0BS37Ffr7MzbSuwm2I8rgGWr0VlXhwW37Oa7fBDzce8Orvcxulwzlgzu9z1N/uVjz2eg25nxroORZyEWQA8R2AMco9uNiqEQJ4kNd5y5inSWQZ52p6N7N5olZTYm14w4tgYM5Lfg5F8Q2qA9sCcIphSA+RkTp/g3RTKHx+iZY+uU6QkPhbZqklAdgDbvK3TFr/czt8VMeqpeajfRjPk7GMk1PTu2b2o941UiKYVOPkwxq1cy4FJWRhiYaxNrTlkCduAMfdecEwxIW3Pragzs/+9jAerIIana8rDJs8EruzrVxHIYibbadvNVvODZOKCc3euejfm3r+HwjT88oW7aO/kBdpSE/+aG3ntzjdYyC5oprqIhl7wAWWRnIb2c2y211PWa22dnpEMmRkTM6nXUQrF5maVl4P6XqWjfmBzPr8JuYAceWE60ER6PiAHFQXsL7T6nsjWrGTZloroqGNhxLN7LY3SgkxdQ/kNk4FyIdSbVIT+9byckw==;3wfc19HI+/7lkXUPe2wwoA=="
+secured: "V8TUn+EetMtWuTPBkzZuHMl4oeWRta2znq570c70q25MUAKEHRDYoQ81VC3pHdsaA3HM1PFRQ3kDShLKpE8rRwcQvtjmSKONY2JyZeVJC36e5a1BTiwgfK22RCrJmGmLZZnez6rA6lRSPvgSXiODc+IIIE4MG4IObJPB3FLL7KbpZA1tKFDHTDJaChg8hBKF9XNlPspNdId/5F5jf0+tLWOyl5k0HYRZjyfEHitWoc4xuIpTINKk7qX4eUrwJsfwNzpIkxpAnwfe3NDcRK9B4cxwUCdL3vJiSOcpVZ5Dmx8oRwicZiRIBFdRAKosY/Mk+r97WUpQK9MFJ0M7wE/AYkSPQL3WSOM1OTVenT3sWkg=;hHD5I927y64twjbdUCemcA=="
 ---
 

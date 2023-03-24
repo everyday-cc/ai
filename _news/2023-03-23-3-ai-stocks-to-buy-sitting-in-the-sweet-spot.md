@@ -99,6 +99,22 @@ related:
         width: 1600
         height: 902
         isCached: true
+  - title: "The dirty secret of artificial intelligence"
+    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
+    publishedDateTime: 2023-03-23T17:31:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 59
+    images:
+      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The future of cloud computing, from hybrid to edge to AI-powered"
     excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
     publishedDateTime: 2023-03-20T12:00:00Z

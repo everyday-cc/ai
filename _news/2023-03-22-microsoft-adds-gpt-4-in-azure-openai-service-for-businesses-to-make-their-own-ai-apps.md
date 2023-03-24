@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 622
+heat: 612
 published: true
 
 provider:
@@ -384,22 +384,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
-    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
-    publishedDateTime: 2023-03-19T09:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "How AI experts are using GPT-4"
     excerpt: "Several leading AI companies had major product releases. Google said it was giving developers access to its AI language models, and AI startup Anthropic unveiled its AI assistant Claude. But one announcement outshined them all: OpenAI’s new multimodal large language model,"
     publishedDateTime: 2023-03-21T11:05:00Z

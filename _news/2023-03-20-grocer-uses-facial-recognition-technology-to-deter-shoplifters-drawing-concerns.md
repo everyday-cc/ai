@@ -127,6 +127,20 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 34
+  - title: "UMich respiratory therapists and technologists seek union recognition"
+    excerpt: "it comes down to things like having that voice in our staffing ratios, in our scheduling policies, our PTO and vacation leave,” Wells said. Shannon Beadle, a respiratory therapist at Mott, emphasized the ways in which union recognition with SEIU would ..."
+    publishedDateTime: 2023-03-24T01:15:00Z
+    webUrl: "https://www.michigandaily.com/news/administration/umich-respiratory-therapists-and-technologists-seek-union-recognition/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 24
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/03/Untitled_Artwork-copy-1.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
     excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
     publishedDateTime: 2023-03-21T13:20:00Z

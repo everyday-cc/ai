@@ -7,8 +7,8 @@ originalUrl: "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu
 webUrl: "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu-launches-robot-taxis-human-driver/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Tuko
@@ -39,20 +39,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/026/2023-03-18T021638Z_1_LYNXMPEJ2H00W_RTROPTP_4_BAIDU-AUTONOMOU_Main.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
-    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
-    publishedDateTime: 2023-03-19T07:14:00Z
-    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
-    type: article
-    provider:
-      name: legit
-      domain: legit.ng
-    quality: 48
-    images:
-      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "S79kQyGKAldC+qvD44a6k76fiTeXltjveZxtXb39MNSEke39og+4mu6pdz8/kfo2JXqTvsRVEUK1OACmLHjU8lLGRAAWIP8/qJLvZXfu0+JpHHK72l3KmR+fcRuPfg9g99AOVkABMDCyiFlnr+pkU0XId3h98JUWk4Vv8SqMtpYBZfveHDOcAwcrqQ9hrzlklyDtpeBUwlpr2R9Dv1vcjkw6RNjqwNFL+Uq+H7dobQYuNZq0vJMG/dgTwGDQISvJYEKyfBylH6vPSCMcCnQ1iQ/+cSxWPrsDTqWdemT6pyH/jyaW+IqvtsAC3JD9Cd9SdW3cYNMvbZZ3PWpMPhTPmddRkKUlO8GYufcIj4D6TD0=;wIsCAn641Rv/hLLn7hHv4Q=="

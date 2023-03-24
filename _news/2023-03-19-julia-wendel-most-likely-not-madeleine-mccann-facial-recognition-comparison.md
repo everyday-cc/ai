@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann"
-    excerpt: "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ..."
-    publishedDateTime: 2023-03-19T07:47:00Z
-    webUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
-    ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
-    cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp"
-    type: article
-    provider:
-      name: Daily Record
-      domain: dailyrecord.co.uk
-    quality: 61
-    images:
-      - url: "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition tech reveals Polish woman is NOT Maddie McCann"
     excerpt: "Facial recognition technology has revealed that the Polish woman who claims to be British toddler Madeline McCann is probably not the missing girl who was snatched from her parents’ holiday villa in 2007. Julia Faustyna, 21, did not match photos of ..."
     publishedDateTime: 2023-03-21T15:12:00Z
@@ -121,6 +105,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Shock twist in Maddie McCann ‘mystery woman’ case after facial recognition comparison"
+    excerpt: "Julia Faustyna, who also goes by the name Julia Wendell, failed to match photos of Madeleine in a facial recognition comparison of the two, the New York Post reports. Swiss AI company Ava-X ran photos of Ms Faustyna and Madeleine McCann through its Iris ..."
+    publishedDateTime: 2023-03-20T20:55:00Z
+    webUrl: "https://www.themercury.com.au/news/world/shock-twist-in-maddie-mccann-mystery-woman-case-after-facial-recognition-comparison/news-story/caf5e84b6e7f3b9e04b0cedd537dc68a"
+    type: article
+    provider:
+      name: The Mercury
+      domain: themercury.com.au
+    quality: 12
 
 secured: "uXYIzsl0t5S+W4qu0F3qzBcEmNimmJpMbWpwlkrKNVnb+/UjpVah10ItBCqTTkWijb60QOR+zUkqFGGjMJmbh1yCtArJ+iS9RHPHB06rFoy+UP7u1VwY6XR2cAI2/JWZxIc0V7my9/3lNxI+DvA6+2aAUlR6nWBpnVo8j4wZW/mWa4FRiXkT70xIj04nw9LFKZLAiSpSjfc5nN6GiCegiawcUTobG+BcNbAtDARvyWcelNknZbQhGZ9/qNKJGddzQY8k0VTaE7F9a7nU2Uc2guVktKdaDHzhtvbMsE+3u16YRxTa52rGCbqaMPMCY9DmtQbGVVGSHeN30QRWFQBAa/J4196NQGSYqBo3yCi5Uv+A4+2+Q35GIwMJ4Lr+na7ZEYoH0ETw2GeVAn/4nowyx9cXiRvWsiu2r6Oqs8vxnTnkUe5VFNVP9h6crFKPln4NlRtPEVz/xu5OzMogL0jzMKwqwCh4g5C2LSNHRyIGuLYFSmXkTevyvX0Os4eSvvIylarKo3pRw5wKCXIe2ZM4Zw==;q37Pe35wrsDiLZMa8NQTPw=="
 ---

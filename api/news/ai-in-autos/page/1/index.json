@@ -162,7 +162,7 @@
       "originalUrl": "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -255,50 +255,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-19-googles-rival-in-china-baidu-launches-robot-taxis-with-no-human-driver.md",
-      "title": "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver",
-      "excerpt": "Baidu, Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in China; says they have started getting rides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu-launches-robot-taxis-human-driver/",
-      "originalUrl": "https://www.tuko.co.ke/world/asia/498711-googles-rival-china-baidu-launches-robot-taxis-human-driver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://netstorage-tuko.akamaized.net/images/9eaabf5583f91062.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-19T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tuko",
-        "domain": "tuko.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1407,6 +1363,49 @@
       "provider": {
         "name": "WKBN 27 First News",
         "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-you-have-no-idea-what-artificial-intelligence-really-does.md",
+      "title": "You Have No Idea What Artificial Intelligence Really Does",
+      "excerpt": "Here it was, finally — a robot plucked straight out of science fiction, the closest thing to true artificial intelligence ... those being developed for self-driving cars, do all their learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/artificial-intelligence-hype",
+      "originalUrl": "https://futurism.com/artificial-intelligence-hype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2018/10/artificial-intelligence-hype-deception.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Elon Musk knocked Tesla’s ‘Full Self-Driving’ off course"
-    excerpt: "Will Elon Musk ever fulfill his promise of 1 million robotaxis? (Illustration by Elena Lacey/The Washington Post; Jonathan Ernst/Reuters; iStock)"
-    publishedDateTime: 2023-03-19T09:03:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/19/elon-musk-tesla-driving/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUNDLK33VCXVLSMDDQDR7GNME.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Tesla rolls out its Full Self-Driving Beta v11 update in North America"
     excerpt: "The update allows the Tesla vehicles to use a single stack for highway and city autonomous driving requirements."
     publishedDateTime: 2023-03-21T15:52:00Z

@@ -380,22 +380,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
-    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
-    publishedDateTime: 2023-03-19T09:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "How AI experts are using GPT-4"
     excerpt: "Several leading AI companies had major product releases. Google said it was giving developers access to its AI language models, and AI startup Anthropic unveiled its AI assistant Claude. But one announcement outshined them all: OpenAI’s new multimodal large language model,"
     publishedDateTime: 2023-03-21T11:05:00Z
@@ -696,6 +680,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "PEHY/ePhdi5NUBZSMe45dwA66T1I5I7zvyZPAEneGQEeNwmEHhcA+YZsUvMAf6xmwBQ5fknlD7F0YokOXveqJxRU6ETzfH29X1+V5j4nw5DVFgdyL4vV+UYNWMRrsyF5o4pMAu3TroRieaD9IMD1/O2GPbFa38yBqTXzhd4IJ5mT/n41l8SKcvjP6t9w3pgwVtFzX4+y32DkxntQsbX3ii9qenbAvQju93Lnv2EKf2KvPtZCVUrClKxhFNoe2ytq+Df1owjIYBprXjdiAPE0M3M8uevlndm60we0qgnBFlkzUecvaJ6j6DXrZfPLvFu+t3ZsEgrra7Bj826dOloc8tHt8YvMFi/+LzePBrw1vi8=;bqfiWaPvU/mkB9K1oQrdcg=="
+secured: "O2wnYtgqAmnCNH8vqze58eza4bLox6JfzjsEL7JKI2j3QNxQuLHGJ350vDfvkPOi/uHD7HAHg3bxZN4xWjTZteVy0WRciHdmKSGeKYlY+YHZeY5HV0rWoSTx9/rZ5ubUOEkN9DIGEcVvdJllH3fM1EYh0fzIyFxmb0QzGaVukLnpasZ0/DXyrf+N+B7fuNJAlDHNDPkodTqHEeB+/HOcTRTlsCaWd3ylGJhlr3gWo0MaiH5+KX3gOVqHvm43WXGhBx5rDhiJR6JIjMTPF1C0Wl08q1Yb7K28WKkjF7WSJ4vMmWdoD17/OmLkv3t9JEJknNmOe0o4OEpSV40D3B1qt4LGUsqz1m6Q7q86KgCh13pVWSJ+yfKArFrVEBfANFfh4YUwlicqoOXDKW8bPw3XddN5UKr+HzWdVaKgwN3WWKwkdu6ofZz885zQOEsqhoopOsasNoDvH3KjpIcLlx8+So6V6BWXoQSq0qLJnbb9lfBhfUMRd1RZBKpScyY+8N6qBSRbkwVjCwTHWpYWlRwTQw==;VOfM32ZVMjjMm+NXgcwKLg=="
 ---
 

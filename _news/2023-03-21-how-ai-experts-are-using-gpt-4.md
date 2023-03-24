@@ -395,22 +395,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "The technology behind OpenAI's ChatGPT: Generative AI"
-    excerpt: "What is Generative AI? Generative AI, like other types of artificial intelligence, learns how to operate based on previous data. Instead of simply categorising or recognizing data"
-    publishedDateTime: 2023-03-19T09:03:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/the-technology-behind-openais-chatgpt-generative-ai-3275171?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
-    images:
-      - url: "https://www.thedailystar.net/sites/default/files/uploads/2023/03/19/untitled_design_-_2023-03-19t153309.822.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Nuance, Microsoft bet big on GPT for healthcare"
     excerpt: "Microsoft's engineering and market resources and the scale of the Azure cloud, paired with Nuance's long-standing experience in healthcare and its commitment to patient data privacy and responsible use of AI,"
     publishedDateTime: 2023-03-20T14:00:00Z

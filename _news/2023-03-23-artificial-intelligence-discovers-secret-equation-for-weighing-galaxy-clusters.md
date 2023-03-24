@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T14:35:00Z
 originalUrl: "https://phys.org/news/2023-03-artificial-intelligence-secret-equation-galaxy.html"
 webUrl: "https://phys.org/news/2023-03-artificial-intelligence-secret-equation-galaxy.html"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-21.jpg"

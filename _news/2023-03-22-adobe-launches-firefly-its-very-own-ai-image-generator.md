@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Adobe launches Firefly generative AI creative engine at Summit"
+    excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."
+    publishedDateTime: 2023-03-23T04:30:00Z
+    webUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/"
+    ampWebUrl: "https://www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/adobe-firefly-ai-creative-engine-summit/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/03/Hero-adobe-launches-firefly-AI.png"
+        width: 1387
+        height: 799
+        isCached: true
   - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
     excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
     publishedDateTime: 2023-03-21T16:15:00Z

@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Cruise wants to test self-driving cars all over California"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+    publishedDateTime: 2023-03-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
     publishedDateTime: 2023-03-21T00:40:00Z
@@ -103,15 +119,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Cruise wants to test self-driving cars all over California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-21T02:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
 
 secured: "4w2AxKIYx3LPRNVg8HOSR+8YIsL15GI/aHmIMcNRdScTwqU2ds8qbXt3FXnZB6Iv3hEEJzmz/IBVUO5o4hlfvXS0HYhEavfW5Im0d8l2wy/hfiruObCD4EIwGz9ZEZhXCG42CMP361FljSertaFJvjFOYba2Y5CAA1Awf041OnzmvuwJXEg3Vrm3QT/duFuYK++qY5qvE+QL5iDmmEWgDOee4PXkIk/U/sxeO20XohDvXm32YHUltXTmUXzAn0a1DU6kPIq7oxquoh4hZpF4ZryTkuXU2SKD6nArJerR0cnzRRsgzn2+wy6uXF8RD+2PaCLuPOyayysR7y7gNRkSKQcGZhC1Uce7vSh6WHlPL44=;z1GqROg7+Qj2eYPt8LE62g=="
 ---

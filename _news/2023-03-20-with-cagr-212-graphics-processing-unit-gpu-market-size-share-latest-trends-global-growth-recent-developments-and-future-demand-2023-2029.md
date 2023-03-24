@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31414583"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31414583"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "With 14% CAGR, IoT in Healthcare Market Trends, Demand, Growth and Future Scope 2023 To 2029 | Medtronic, Cisco Systems, Agamatrix"
-    excerpt: "Exactitude Consultancy, the market research and consulting wing of Ameliorate Digital Consultancy Private Limited has completed and published the final copy of the detailed research report on the IoT in Healthcare Market."
-    publishedDateTime: 2023-03-22T17:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-with-14-cagr-iot-healthcare-market-trends-demand-/2023/03/22/9781633.htm"
+  - title: "Self-driving Car Market 2023 Growth Statistics, Revenue Estimates, Emerging Trends with Strategies and Forecast 2030"
+    excerpt: "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation, and technological components and geography. The global market ..."
+    publishedDateTime: 2023-03-20T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2023-growth-statistics-revenue-estimates-emerging-trends-with-strategies-and-forecast-2030-2023-03-20"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
+    excerpt: "The \"Hospital Logistics Robots Market by Type and Application - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to"
+    publishedDateTime: 2023-03-23T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "e/HuyPujuIKBzRWgGrkCptuwwmRLUSlscuQAPJm2cPP9YGqXsBmqUGIMNFkwav8xtY2HtOHglU5GR3aXl/sWIlGkIt0gNYZqYgv7JkHVeHsXQbnp9qyhyIiuT3xk8KqARVPQ8iKcP7+YnmNsy72CkTE5u2w8mQUufR6Ilkvaf7fdwY5WEyUszDvFU2dXrgRwT/lvv2WLuXrPkJ9GPZU3pLiNFQublrBA9z9ETzePwQ4bgtOgISrzigyoT7IiN2eferjMRsryXJhtRxa9Y5o5YkxZEyPbHMX2lkGsXT49VYsE5qCSDzKgcDIzkFABZrcn4ta0D2V5Tq6hrYHksCCR6NvdNkQZ/Dn6vl9+RSTJb4E=;f5QuoFzbi8+36pj765VmIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
         width: 1600
         height: 902
+        isCached: true
+  - title: "The dirty secret of artificial intelligence"
+    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
+    publishedDateTime: 2023-03-23T17:31:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+    type: article
+    provider:
+      name: El País in English
+      domain: elpais.com
+    quality: 59
+    images:
+      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
     excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."

@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google's Rival in China, Baidu Launches Robot Taxis With No Human Driver, Staff Inside"
-    excerpt: "Baidu, a Chinese search engine giant, has launched robot taxis with no human driver or staff inside in some cities in the country and said they had begun rides"
-    publishedDateTime: 2023-03-19T07:14:00Z
-    webUrl: "https://www.legit.ng/business-economy/technology/1526037-google-rival-china-baidu-launches-robot-taxis-human-driver-staff-inside/"
-    type: article
-    provider:
-      name: legit
-      domain: legit.ng
-    quality: 48
-    images:
-      - url: "https://netstorage-legit.akamaized.net/images/5742f3daca443e0e.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "kDgHO6Xc6z9lN05fUwAyp87MX9YW6gyLfpBPAPpRDbJIRW2pPNJT/kwW70FfasyUor8oTp9m33AqJU5AyuOsxaHDwoyVf0HQKxIj1YWSgFOLK5aTfsAnGTTwjg7WP04G9LaXJPTRZSuvALWB3wlSFD0T6VJKokc8/noJZGdddFnwML75HHPiLGDvOANVDKRWNXAmDp+YkVYjLt3sgTMeg3tV98vmozjRFJo/f0Bg6dv8AhYIMlLiSj5tRoc9U46NPVJ5cLrw9kZOeg827VTPHXZ+0pmBeKM4eRC0kAoVtuvfIHXAj928g/KQtahZZJyBlj6eDP6yuE//moR8Kmr1wJpMNG4KeNrkPDmr68+wtKDbIO2uhJSj7VR8oygJTuIezmf4tWwpuSmAv9OR1I9XYuUE2gTHnebSrUhgHNqY0vjFKm/pOsnSTr90sSxy4EDfTL161peaZHPawod9f6g7gYdzGMpH5InuO+61uruHajbtQ2p4baKw8jsSqZHpD9nyCmUPVFUH5AjnppM3+ViTjQ==;Xq1VJ0h8otakKgk6qdLz+A=="
 ---

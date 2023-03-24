@@ -372,6 +372,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest Forecast for Artificial Intelligence In Manufacturing Market [2023-2030] | Stay Ahead of the Success"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- [110 Pages Report] Global “Artificial Intelligence In Manufacturing Market” [2023-2030] latest research report provides size ..."
+    publishedDateTime: 2023-03-23T22:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-forecast-for-artificial-intelligence-in-manufacturing-market-2023-2030-stay-ahead-of-the-success-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
     excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
     publishedDateTime: 2023-03-20T09:47:00Z

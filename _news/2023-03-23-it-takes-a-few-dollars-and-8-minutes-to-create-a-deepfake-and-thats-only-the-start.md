@@ -56,21 +56,21 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "AI-powered tools, deepfakes pose challenge of misinformation before Internet users"
-    excerpt: "ChatGPT uses its Generative Pre-training Transformer 3 GPT-3 model, which is trained on data before late 2021.RECENT EXAMPLES Two synthetic videos and a digitally altered screenshot of a Hindi newspaper report shared last week on social media platforms,"
-    publishedDateTime: 2023-03-19T08:05:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2385160-ai-powered-tools-deepfakes-pose-challenge-of-misinformation-before-internet-users"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2385160-ai-powered-tools-deepfakes-pose-challenge-of-misinformation-before-internet-users?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2385160-ai-powered-tools-deepfakes-pose-challenge-of-misinformation-before-internet-users?amp"
+  - title: "Fake AI images of Putin, Trump being arrested spread online"
+    excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
+    publishedDateTime: 2023-03-24T00:21:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/fake-ai-images-of-putin-trump-being-arrested-spread-online"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 53
+      name: PBS
+      domain: pbs.org
+    quality: 59
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/24_04_2021_10_58_07_7564245.jpg?width=1280"
-        width: 1280
-        height: 960
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/AP23082535352740-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "AI platform allegedly bans journalist over fake Trump arrest images"
     excerpt: "Yesterday, about 50 AI-generated images imagining what former President Donald Trump’s arrest would look like spread across Twitter. The images caused confusion for some users because the Midjourney v5 engine used to create them generates such realistic-looking content."
