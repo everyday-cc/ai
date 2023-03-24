@@ -1,32 +1,27 @@
 ---
 category: news
 title: "The Truth About Artificial Intelligence and Creativity"
-excerpt: "The past year has been a very successful coming-out party for advanced versions of two types of artificial intelligence. We’ve been blown away by"
+excerpt: "Artificial intelligence allows creators to be creative, but even sophisticated AIs are really just an advanced form or copying, says David Z. Morris. This feature is part of CoinDesk's Culture Week."
 publishedDateTime: 2023-03-17T19:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
-webUrl: "https://markets.businessinsider.com/news/currencies/ai-crypto-holly-herndon-midjourney-1032176760"
+originalUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/"
+webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/"
+ampWebUrl: "https://www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/consensus-magazine/2023/03/17/ai-crypto-holly-herndon-midjourney/?outputType=amp"
 type: article
-quality: 67
-heat: 67
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.coindesk.com/resizer/XpZJzstQjpqzDfTJfQ5GyIbkKkU=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WNFD47LZ2FEI7MG4DASDKMHUWY.jpeg"
-    width: 800
-    height: 600
+  - url: "https://www.coindesk.com/resizer/mxcZsOIZ4DsaqaiT5E7Jmi6MSIQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DS2WIVHO2ZHFRN2BANLRCQF37Y.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "0aODj7QzT6iKFNse5PWDRpwo4Oc7O8dyM5TcORgVQT0JtjG3dzmGNTOY2T2JJD8tprSsI6K6VpJ5kYhVqLF+mjmpSbqZtvnYbt/Usx0TbU20nq6hmmWsCx187zdQ9x2wThkL4plw9fgwd6oPH4UmuHzH4YpJrhYVoKUO0pOLZsP3hZ87W9ciUsnUsg4HfqpQjgB7WENqVsNjBm7HOoMN+SUNGVI7Ae5AwUAWTFy79Ud7us9vHcL10VgsTAnq6EuGCHkOFX7x27pCNyiucxE0quXaUlPQKG75T6qRATMHx1ukRTcTeBGdiqNY/EYPgsyEvpaGhr7UO1rL63+cMbYNcVgbz6vg57U2bd6PACIsc3ZAp7K5iyTIBI6AOO3mXhVcA9tiEPolLuTnyzGIoxPpkdOncnVoZp5zEmzhLnNtElgGhloaisJhndfHz7CXeJUt5uMahOCeZl+kgMSI3HjszC+SNWPH5ZaegWM9VTuvbIENlsGYGk0z68KdQqVAptw9eSPDplwFm9s98P71hWsOdQ==;O13PED31qX8wVW7ISo9OsA=="
+secured: "Fhsyr5J+KzEfoXHZAgyMDi2yHCfxfagRmIlO4nOm9yyMq5MX2otxViz208Rw5cARfgPKlHER8ln/GRxySVIEb94+sjf8Nda/RtcBC1SO8v0/mQw13JLI4CuMZsCA76GJmpOiIeZr6NKNRF8MMiu8yxQ6DZllhvZ672s9PQ5mYnQq0v/r9cf3CavqFM+MynfcM2MWkaQB99/o+dDiF3YGvmCxNwQ0gRmobLQ7WLm4WmzAbRywFCMn5DJu5jed6idmXVm76fOBzkAa45CmXwFvs5QNqFtDLuKZpuVAMDDqX6Mny1zrUqekdk32CKm9QlHgGz8ggamnkhXIOZvl8Pc2p0fSvjnK9+Br39HfA3Ylv+Q=;ND3IHnsXhT1MVr/Z+2IWbA=="
 ---
 

@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Vision Chip Market Future Trends Demand 2023, and Forecast to 2030 |Ambarella"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (Heraldkeepers) -- The AI Vision Chip Market Report provides exclusive vital statistics, data, information, trends, and competitive landscape details in this ..."
+    publishedDateTime: 2023-03-24T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-vision-chip-market-future-trends-demand-2023-and-forecast-to-2030-ambarella-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Platform Market 2023-A Detailed Analysis till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence Platform Market Size 2023-2028 | New Report (126 Pages) | In This Reports Artificial Intelligence Platform Market ..."
     publishedDateTime: 2023-03-22T12:15:00Z
@@ -149,6 +163,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Premium Research Report Forecast To 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Agriculture Marketinformation for each End Users [, Precision Farming, Livestock Monitoring, Agriculture ..."
+    publishedDateTime: 2023-03-24T06:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-premium-research-report-forecast-to-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

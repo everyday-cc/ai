@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T18:36:00Z
 originalUrl: "https://techxplore.com/news/2023-03-black-ai-generative.html"
 webUrl: "https://techxplore.com/news/2023-03-black-ai-generative.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/beyond-the-black-box-t.jpg"

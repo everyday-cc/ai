@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Canva unveils a series of new features, including several AI-powered tools"
+    excerpt: "Canva is introducing a series of new features, including a suite of new AI-powered tools, along with additional highly-requested features."
+    publishedDateTime: 2023-03-23T13:05:00Z
+    webUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/"
+    ampWebUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/canva-logo.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Canva introduces new AI-powered 'Magic' features including Magic Eraser, Beat Sync, more"
     excerpt: "Canva has announced a new translate feature that will allow users to translate text on their design in more than 100 languages. The new Magic Eraser AI feature lets users erase a particular object or replace it with another. They can also give a ..."
     publishedDateTime: 2023-03-23T11:25:00Z

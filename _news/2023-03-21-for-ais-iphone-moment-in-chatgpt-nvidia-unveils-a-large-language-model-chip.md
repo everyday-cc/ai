@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
 type: article
 quality: 102
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
     excerpt: "At the GPU Technology Conference on Tuesday, Nvidia Corporation’s (NASDAQ: NVDA) CEO Jensen Huang said that the “iPhone moment for AI” has started."
     publishedDateTime: 2023-03-22T17:46:00Z
@@ -144,6 +158,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
+    excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
+    publishedDateTime: 2023-03-21T16:36:00Z
+    webUrl: "https://insidehpc.com/2023/03/nvidia-claims-iphone-moment-of-ai-at-gtc-announces-raft-of-ai-related-chips-systems-and-services/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 41
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
+        width: 600
+        height: 318
         isCached: true
   - title: "UAE-owned AI language model outperforms ChatGPT"
     excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."

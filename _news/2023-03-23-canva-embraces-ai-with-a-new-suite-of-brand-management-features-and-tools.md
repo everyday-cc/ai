@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Canva unveils a series of new features, including several AI-powered tools"
+    excerpt: "Canva is introducing a series of new features, including a suite of new AI-powered tools, along with additional highly-requested features."
+    publishedDateTime: 2023-03-23T13:05:00Z
+    webUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/"
+    ampWebUrl: "https://techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/canva-new-features-including-suite-of-ai-powered-tools/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/canva-logo.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Canva adds AI-powered design tools to its Visual Worksuite"
     excerpt: "The AI-powered tools will be available to users of ... A new Translate tool will automatically translate the text in designs to over 100 different languages, while Beat Synch will automatically match video footage to a soundtrack. Magic Write, which ..."
     publishedDateTime: 2023-03-23T05:31:00Z

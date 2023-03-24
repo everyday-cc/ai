@@ -2,17 +2,17 @@
 category: news
 title: "Long COVID has some weird symptoms. Face blindness may be one them."
 excerpt: "Although facial recognition ability lies along a spectrum, another recent study found that more than 1% of people struggle to recognize even those they've met many times. At the most extreme, some with the condition can't even recognize themselves ..."
-publishedDateTime: 2023-03-24T07:34:00Z
-originalUrl: "https://www.dispatch.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
-webUrl: "https://www.dispatch.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
+publishedDateTime: 2023-03-24T08:24:00Z
+originalUrl: "https://www.statesman.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
+webUrl: "https://www.statesman.com/story/news/health/2023/03/13/long-covid-may-cause-prosopagnosia-face-blindness/11387483002/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Columbus Dispatch
-  domain: dispatch.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Computer Vision
@@ -68,6 +68,6 @@ related:
         height: 675
         isCached: true
 
-secured: "DB0rIYUa473BLD7vt85KWrpPfiI3J7e2Ymg+Eo2JWZNGaa39atmijH6ImGa+LdCgcNfi4W+Wy+iCnfi38N4cqby8lfm9tRdNy5aIq9CXxkMYtSaEVNIxOui+1YYNIjsiC5pr5O/nHxsuGRizAxJZ8n1Jtu2X3zckqpC4WzT44MNK/xuGdqiWP7J58PC3maCJ1MgfaODrtazg1sMGvEO59lS4Ge63RXIPSQwSRDb0d7yDL6loIq3WfNuIY1Xmi9TYUIzXyZ4Rk2wYeKn5ZlsZXoZ6TA2agTqyT5hVLZzDWG2QNglYmBTx37FIqkINVT/MsXcmB4jyLcPy8FRLt5bxuoBwJt0WmqY9O8LzlXnfqS4=;OOE7csMPQvg0bhz0kyo5Mg=="
+secured: "t/X9mijhNTWrmq9DU0PTCEn4DraDWz9fb9dLvpK7+xyB4oAdTj6XSPd0trqwojriBvnUUjdhZ2Vxc5Q+jiZCbcy5mCzY2oi+RQsRvbZ5jz8pOmy/zeaCjXsDbIlzdF1vNI48xIwZijYyytt5py6mf3aiNbaThBXtZgho4/1DwkSGF+u4aUwXqctYDdLD16CCvNWX0PZgqmsOqeLPDu7HRt3T1bHfgn5/Hp4GogYjkrHskPHT4Rjrs2e0fdZ+aIY8q40gI+zquktD+GBtFUafi/e+DIb8fSJGdvf2KLT0qGHKZSUqPcgC48wMEIZfc1kWn86gfNuOPh6NlDZtbyAzUVgw2NMKylu7U6J1M0y3v60=;20WHdBApjTQwexXM4bc59A=="
 ---
 

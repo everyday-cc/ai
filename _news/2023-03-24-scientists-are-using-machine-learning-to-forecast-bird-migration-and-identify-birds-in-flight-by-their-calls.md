@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Scientists are using machine learning to forecast bird migration and identify birds in flight by their calls"
-excerpt: "With chatbots like ChatGPT making a splash, machine learning is playing an increasingly prominent role in our lives. For many of us, it’s been a mixed bag. We rejoice when our Spotify For You playlist finds us a new jam,"
-publishedDateTime: 2023-03-23T17:02:00Z
-originalUrl: "https://www.chron.com/news/article/scientists-are-using-machine-learning-to-forecast-17855756.php"
-webUrl: "https://www.chron.com/news/article/scientists-are-using-machine-learning-to-forecast-17855756.php"
+title: "Scientists Are Using Machine Learning To Forecast Bird Migration And Identify Birds In Flight By Their Calls"
+excerpt: "With chatbots like ChatGPT making a splash , machine learning is playing an increasingly prominent role in our lives. For many of us, it's been a mi"
+publishedDateTime: 2023-03-24T08:52:00Z
+originalUrl: "https://menafn.com/1105849361/Scientists-Are-Using-Machine-Learning-To-Forecast-Bird-Migration-And-Identify-Birds-In-Flight-By-Their-Calls"
+webUrl: "https://menafn.com/1105849361/Scientists-Are-Using-Machine-Learning-To-Forecast-Bird-Migration-And-Identify-Birds-In-Flight-By-Their-Calls"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "0mEVZ9agm+DP3LK4uS6W9mbxxTmjNnYWBcON9WteToGXYIipWb6gWv/Ln3Hu1m4348BMF7SRtp1kGhguCYiMY1bZaCDQlMPsZjg/pGgKCLTN4kMbp0PTmMYY1tAQZwPgQJEotLpgW191u53zQ81Hc6miegTpN9y5/pbdNUAMhynpen45GYNOg29Vfte96g02P/mmAht6afJYjqU1ujyyFkKByplNmVCZkaMyeBjzAp5etEQFZWmlvBbV69UqB6qwzth3cn/HBLjollp0B7U/g+UYgLvLh43gz5nHlrR4kj4pdkxoeP88sFeR1y1cH4Wr5nV4vIQ87sSdSr8NUIjNv3ZmcTBiL8BR3PDG37UbA74=;o217J3E05YSStpto8owMZA=="
+images:
+  - url: "https://menafn.com/updates/pr/2023-03/23/TC_c2426image_story.jpg"
+    width: 678
+    height: 334
+    isCached: true
+
+secured: "iDSohaoafFpvSisnHDr+xUtkVHVTuc5LpFkNB9MBQMfkQgkDCRvf+APXGE752gf8DfTD/RF7drIaPibS4QBnMOGGdGyWC6KQ/WwAd0GBTeokIHRdBAby3Dw74GvIvU5abBCiPkwtQfnCiynOW4ZRJSHXIRlUpQQ0yO7S6tqipsDtdn6U4VwI8I/j19AlwkBbioo25m7Rr+KYJxrePco/N8dvdJPodIrLb4Yw8kwY2sr5ecRR0ODA5MFWL0bX1HgsTLemFyUh798+bOyHFDwoz7vyUMn52wKVHBpk7YaUjnvYJ14UTD5cIdYxBBsq278Xr4Gf45f9Oa27oCK6+wG/YFx/x8CnS7ya35yBpVuTPxA=;vUp13ojUx+ispg+64kugtA=="
 ---
 

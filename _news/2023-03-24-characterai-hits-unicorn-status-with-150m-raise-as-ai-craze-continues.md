@@ -274,20 +274,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
-    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
-    publishedDateTime: 2023-03-19T16:49:00Z
-    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
     excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
     publishedDateTime: 2023-03-21T15:23:00Z
@@ -419,6 +405,6 @@ related:
       domain: infotechlead.com
     quality: 17
 
-secured: "3g3U1MznGWozGTW3WCdlKXf69PYvXGQCzPbqwbnHsT8snfDknT+iS5qE2F+lVZxRmkrhEeo9vqjaoyfDSBwZIY7dJ13ceJXFIUL2bWVlfwhwih18zbbyQG9Vzj0gRWGyTdwOMtiwAWV5vbR88btnNk92uyQg6t7pQOPQL+2UMddA/bWBIy+YAZK3C3BOzXLwopaUI+8q9MXzGDw3f9TrIs1KGxdJn4JjFx04al2Tv7LHijOsZdaVAlSDsGn68JZ/ics7PU7WykKLY0eQWRD/cWpZA9uayOKq1yeOVNPwnagKCpOrE6r0U9uTPGSq1MBlEsqK0NogjybItNoY1fpXPYjnFU0FKIEz58CjSihsKoQ=;D7XpnVwHKKqxzpLRYXc+sw=="
+secured: "5/tFUPRl5onGzwL+dYNw3YitHeV2qelgyZ79hDX2ulQq7P6/bfe2jG6IhKwAzapfwzptGxE2fFrf65ZPfaBa4CyFvwyVa5ps7ghisZ4HjgbOh3fyPwSi2v+4P0yJO5QIlQko27EV7fbjLjmBK+6Jr/67s03KnJc2Ol1d7DG9V5YQiOUW/+8rul4ifasUGlbX7fnPoiec3/u5mhLJUvNinCpX4GiNA2XrH9xDVxJ/GfQvPTa2uas0jaK8XTZCkDrJ8DVOnyvsisx/llYrNYE+TeLucKop2Qib9opoCVJ9meCFfsQd6xMgjs8zD5/ehcroHNgTeq+PZ00Gt4xqNHR/kcxgbIlwpPSoXHK06YCMO9b93k5GtBd9pBWKrrS1lBfhj5j5oZcrkazG0t3WZbDyiPjCCPI/F30FtvZWNW6UbVHHehOW0Vhdye3iVh//zpVEuVE4W7Hl7lbzZe9suGUU0IMia/R8bA4MeeEVicEJGYeMbYFZOqjl1e49Y3c72wcHkL4q+yRYjHIfMpSMFvqkow==;i72IusY0GICV/O15EnSn+g=="
 ---
 

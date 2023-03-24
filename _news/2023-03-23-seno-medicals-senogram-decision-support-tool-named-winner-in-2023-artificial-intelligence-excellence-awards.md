@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-23T13:36:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

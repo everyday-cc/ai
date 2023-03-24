@@ -297,6 +297,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft gains access to Open AI code base, trouble for Google?"
+    excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
+    publishedDateTime: 2023-03-24T08:41:00Z
+    webUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/"
+    ampWebUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
+    quality: 74
+    images:
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
+        width: 675
+        height: 448
+        isCached: true
   - title: "Microsoft adds Image Creator to Bing, plus GPT-4 now available in Azure OpenAI Service"
     excerpt: "“Coursera is using Azure OpenAI Service to create a new AI-powered learning experience on its platform, enabling learners to get high-quality and personalized support throughout their learning journeys,” said Mustafa Furniturewala, senior vice presiden ..."
     publishedDateTime: 2023-03-21T18:29:00Z

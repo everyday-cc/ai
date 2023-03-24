@@ -72,6 +72,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T09:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9782853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/2034304/AQR_Trader_Interface_Photo_Credit_Aquariux.jpg"
+        width: 400
+        height: 356
+        isCached: true
   - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
     excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
     publishedDateTime: 2023-03-23T18:29:00Z

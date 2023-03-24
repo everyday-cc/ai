@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "NVIDIA Eases The Complexity Of Robot Training"
+    excerpt: "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI)."
+    publishedDateTime: 2023-03-21T20:01:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg"
+        width: 1088
+        height: 725
+        isCached: true
+  - title: "Nvidia’s Growing Momentum In The Public Cloud"
+    excerpt: "One of the challenges of working with state-of-the-art machine learning is that the hardware is relatively ... many of which date back multiple generations. At the high end, Azure, Amazon Web Services, Google Cloud, and Oracle Cloud offer instance types ..."
+    publishedDateTime: 2023-03-20T19:35:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/20/nvidias-growing-momentum-in-the-public-cloud/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6418b486392b38019fbdef19/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
     excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
     publishedDateTime: 2023-03-22T20:40:00Z
@@ -55,6 +85,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How to watch Nvidia’s AI announcement at GTC"
+    excerpt: "Nvidia’s GPU Technology Conference is in full swing, but it’s CEO Jensen Huang’s keynote address that has everyone waiting with bated breath. He’s expected to make major announcements about Nvidia’s future AI developments and how Nvidia GPUs will ..."
+    publishedDateTime: 2023-03-21T12:13:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-nvidia-ai-gtc/"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 49
   - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
     excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
     publishedDateTime: 2023-03-21T19:27:00Z

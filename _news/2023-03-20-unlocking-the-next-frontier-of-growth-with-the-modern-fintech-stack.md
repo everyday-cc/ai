@@ -63,6 +63,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T09:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9782853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/2034304/AQR_Trader_Interface_Photo_Credit_Aquariux.jpg"
+        width: 400
+        height: 356
+        isCached: true
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z

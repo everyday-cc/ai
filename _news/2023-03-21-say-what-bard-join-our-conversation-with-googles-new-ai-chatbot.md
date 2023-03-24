@@ -274,20 +274,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Beyond chatbots: Latest AI breakthrough is a real eye-opener"
-    excerpt: "“It can do face recognition, it can do text recognition, it can do object recognition,” said Envision chief executive Karthik Mahadevan. Other companies are using less advanced AI tools to assist blind people. For instance, a product called ARx Vision ..."
-    publishedDateTime: 2023-03-19T16:49:00Z
-    webUrl: "https://www.bostonglobe.com/2023/03/19/business/beyond-chatbots-latest-ai-breakthrough-is-real-eye-opener/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/b2JcEog5FG1WXYA1lJintZahRdg=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/2R2GFPX5G7WTNSU4H7OOLZVO6U.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Google opens sign-ups for its Bard AI chatbot"
     excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
     publishedDateTime: 2023-03-22T06:24:00Z

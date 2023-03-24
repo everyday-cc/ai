@@ -2,6 +2,153 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-02-16-generative-ai-and-rpawhy-your-business-needs-both.md",
+      "title": "Generative AI And RPA—Why Your Business Needs Both",
+      "excerpt": "Together, generative AI and RPA have the power to free up your workforce to focus on more meaningful work. Find out why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed74ef4e58e03b342ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/amp/",
+      "publishedDateTime": "2023-02-16T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-github-copilot-expands-market-for-ai-code-generation-with-new-business-plan.md",
+      "title": "GitHub Copilot expands market for AI code generation with new business plan",
+      "excerpt": "A new enterprise plan for GitHub AI-powered Copilot will provide better coding suggestions, code context and code security.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
+      "originalUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
+      "publishedDateTime": "2023-02-16T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
+      "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
+      "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjJlMjMwZDE4YTZhZmQ1N2E4MjEyM2NkMWMwNjU4Ni5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "publishedDateTime": "2023-02-16T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-heres-the-bear-case-for-artificial-intelligence.md",
       "title": "Here's the bear case for artificial intelligence",
       "excerpt": "ChatGPT unleashed a firestorm of interest in artificial intelligence investing, but traders should take some caution.",
@@ -1047,154 +1194,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-nvidia-and-intel-team-up-on-chips-for-metaverse-workstations.md",
-      "title": "Nvidia and Intel team up on chips for metaverse workstations",
-      "excerpt": "Intel’s latest Xeon chips have anywhere from 24 to 56 cores. Metaverse applications and the rise of generative AI require a new level of computing power from the underlying hardware. “These are purpose-built for things like Nvidia Omniverse and Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/",
-      "originalUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/NVIDIA-INTEL-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-and-intel-team-up-on-chips-for-metaverse-workstations/amp/",
-      "publishedDateTime": "2023-02-15T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-meta-develops-an-ai-language-bot-that-can-use-external-software-tools.md",
-      "title": "Meta develops an AI language bot that can use external software tools",
-      "excerpt": "Language models like ChatGPT have revolutionized the field of natural language processing, but they still struggle with some basic tasks such as arithmetic and fact-checking. Last Thursday, researchers from Meta revealed Toolformer, an AI language model ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/robot-hand-calculator-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/amp/",
-      "publishedDateTime": "2023-02-15T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-heres-how-artificial-intelligence-becomes-biased.md",
-      "title": "Here’s how artificial intelligence becomes biased",
-      "excerpt": "ChatGPT, OpenAI’s newest artificial-intelligence tool, is capable of many things: summarizing books, filling out forms, composing plays and writing news stories. There’s one thing this multibillion-dollar artificial secretary struggles with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/",
-      "originalUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/chau-ai-index.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/15/heres-how-artificial-intelligence-becomes-biased/amp/",
-      "publishedDateTime": "2023-02-15T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

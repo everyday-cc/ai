@@ -289,6 +289,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft gains access to Open AI code base, trouble for Google?"
+    excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
+    publishedDateTime: 2023-03-24T08:41:00Z
+    webUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/"
+    ampWebUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
+    type: article
+    provider:
+      name: Memeburn
+      domain: memeburn.com
+    quality: 74
+    images:
+      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
+        width: 675
+        height: 448
+        isCached: true
   - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
     publishedDateTime: 2023-03-21T09:51:00Z
