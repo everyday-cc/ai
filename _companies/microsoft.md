@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "Microsoft"
   url: "https://twitter.com/Microsoft"
-  followers: 12815082
+  followers: 12816314
 
 size: 10,001+ employees
 yearFounded: 1975
@@ -33,7 +33,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1631738979862335488/2-U9-xq8_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1639311258297024513/Oi270Aq-_400x400.jpg"
     width: 400
     height: 400
     isCached: true
