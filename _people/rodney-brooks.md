@@ -14,7 +14,7 @@ website: https://rodneybrooks.com/
 twitter:
   username: rodneyabrooks
   url: https://twitter.com/rodneyabrooks
-  followers: 27923
+  followers: 27922
 
 linkedin:
   url: https://www.linkedin.com/in/rodney-brooks-1a137517/
