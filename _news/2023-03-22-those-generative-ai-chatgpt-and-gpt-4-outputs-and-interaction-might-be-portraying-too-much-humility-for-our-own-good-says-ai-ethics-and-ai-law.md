@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "I was wooed by ChatGPT: New AI Romeos are ‘scary’"
-    excerpt: "The AI tool, currently in public beta mode, costs $15 to access, though that price tag is expected to increase once the product is fully launched. A since-deleted Reddit post had readers debating the ethics of men using an AI doppelgänger to score dates."
-    publishedDateTime: 2023-03-20T22:38:00Z
-    webUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/"
-    ampWebUrl: "https://nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/20/i-was-wooed-by-chatgpt-cupidbot-ai-is-scary/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008538607-1.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
     excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
     publishedDateTime: 2023-03-22T08:45:00Z

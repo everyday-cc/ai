@@ -206,15 +206,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration ..."
-    publishedDateTime: 2023-03-20T19:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
 
 secured: "Q26mHdZPTPbhH9xLjcHQn42RFCSBcEPgeFl1BRNGJyTorkI2BBCJe3a+cSVXxciN1yoQ8/QOnTtOgeq4Rwh4iFpEhkssxhceRyN6QXJxXMXXOJy/mTxwYVlz9iy2LdiSRCopoZSi6MqZRAEphw4kEGlx2T6PjhUhbbiE/ZBVm2MmhoaKcptHfSb/2fAu8/duJKTSnov/+30no4a0ey3Q22yCSDr1IRCkeB1UerbxiD7vtVGlNeAAHGAVL5ll2A0KOsxxAxJJACHPJN7wDQNnEO9OSJEvMjo5yj8zi38lSeg+5wG2m3ys23wX41DzXgjByxOxSTE0IOf97udPuCLpiguxRSOQtxlgCjRGji+nx/E=;vQTp+FW785IR0pAzirVPfA=="
 ---

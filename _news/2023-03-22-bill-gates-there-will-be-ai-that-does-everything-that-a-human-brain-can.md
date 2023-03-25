@@ -82,6 +82,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+  - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
+    excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
+    publishedDateTime: 2023-03-24T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/medtech-bigwigs-in-spotlight-as-ai-revolutionizes-healthcare"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
     excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
     publishedDateTime: 2023-03-22T15:31:00Z

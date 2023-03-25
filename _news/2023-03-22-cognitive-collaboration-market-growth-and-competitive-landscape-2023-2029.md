@@ -149,15 +149,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
-    excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
-    publishedDateTime: 2023-03-20T19:34:00Z
-    webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
 
 secured: "LD4aNIvn6g8S1lnnnQb0nbwzy3GV8i6lIw1i+McuSShqnlU2UasoDb5zVVyEzIhjUwTE2yhCt/n2r3vViuNknbWZHssvK1SfbZWZMfBrHNxa7xJkzUi1yuDQFyCjYXTAfRDVgysXFEO7t/R5PakAgioTqimQ8jRJ2DTuugR8rL30KtXhyw2d5WGqHQShC1u6awsoVlWCWovnT2NwLQuU/HZBfYujBiwhHBqBHJufXTKOi2WHB2y+nDogP5VRgEzZUHWTTR4PadjW886FgCVwlWBddNgWHUkPVNE5BBEA+ycNRBAB4AyKniCHWuc1HHRzfkP5sGtQfQNV3AM2LSGWWTvJJaug0AXWq/pPXRBRejQ=;GCg0Z/QvWLM/SpjdD628Mg=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-24-oracle-new-ai-enabling-features-to-mysql-heatwave.md",
+      "title": "Oracle New AI-Enabling Features To MySQL HeatWave",
+      "excerpt": "MySQL HeatWave simplifies this process with its AutoML features for accelerating the development of machine-learning models. AutoML allows you to train models and generate inferences and explanations without ever extracting the data from the MySQL database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641caea87aa7f07c504ff5b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/03/23/oracle-new-ai-enabling-features-to-mysql-heatwave/amp/",
+      "publishedDateTime": "2023-03-23T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-best-spring-cleaning-robot-vacuum-deals.md",
       "title": "Best spring cleaning robot vacuum deals",
       "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
@@ -817,7 +869,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -975,7 +1027,7 @@
       "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1015,49 +1067,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia.md",
-      "title": "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA",
-      "excerpt": "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/",
-      "originalUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230323041650.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp",
-      "publishedDateTime": "2023-03-22T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },

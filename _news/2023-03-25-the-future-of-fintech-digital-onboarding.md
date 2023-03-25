@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T12:44:00Z
 originalUrl: "https://www.myfrugalbusiness.com/2023/03/future-of-fintech-digital-onboarding-revolution.html"
 webUrl: "https://www.myfrugalbusiness.com/2023/03/future-of-fintech-digital-onboarding-revolution.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: myfrugalbusiness.com

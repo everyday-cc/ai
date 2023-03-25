@@ -2,26 +2,28 @@
 category: news
 title: "Cruise wants to test self-driving cars all over California"
 excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-publishedDateTime: 2023-03-20T20:14:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/03/20/cruise-self-driving-test-california-autonomous/10b20050-c777-11ed-9cc5-a58a4f6d84cd_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/03/20/cruise-self-driving-test-california-autonomous/10b20050-c777-11ed-9cc5-a58a4f6d84cd_story.html"
+publishedDateTime: 2023-03-21T02:02:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARGKLEGHPQI63HGFUWFE63MEZU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -54,22 +56,6 @@ related:
     quality: 44
     images:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise seeks permit to test self-driving vehicles beyond SF, across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-20T20:05:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 40
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/04/5982e715-63f5-4774-abf5-ddf6b74e8b4d/thumbnail/1200x630/1a2e77e9d241aaac467f36e5f453c868/cruise-car.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -111,6 +97,6 @@ related:
         height: 674
         isCached: true
 
-secured: "BeYI9BeboKgnmFasTbGFDBjHuIp/iHVT1xpSRnuJKV/eJ76LgPkx2bdLmeqVY3TVMckE7XDzgvYuNkSvG7xQpPOq+PpPNel+AfUs8Nff082mPV5IHx3shXGSwOgO3VbD95pj/phUa+s5DoBWwAQYTx5yg5HVAKsz9OzY+SVjxvb9ykASidrhLStC9Th3HyPYC74nHXhKGFNe8vyibwi5fU9NF48t8oRixpQIiQEt9Y2oqUsCAomFi00Rn1Jy/YOpGAT1aqc+OWdJwlpcJFgVPcvwWL96XOpVeXa1uRptEM97LqJNFRttQLuGQIjN+Wu681azIS0Udip8S08h8LZUBXOsXYrIgbI0zIjSzfWWpjxODCoz/mW0xnV9ckySpsxHxNBUhQf8E78hyCHOT9OyGdZivPQR9HBpuxekVsu3NdSlQhlp1hs2dG7lBygVHQYzuMm73Jm7Nr4ZPYkoEs1ufDlBvGO+besoUonoR5Mh5NU5tJ0YBu0d4UGylSbIHkzUDCUnZZKt0GaE3wDQCEjfAg==;CA9/DUwoRx5YQ0odZ+ChKw=="
+secured: "8ssKn6c4mvkRPmqNxfcx/uDBJoBuCWTrmg2FWezPhUnecNxM2tHjiiub4liOZgR54AVRJ9cCHt5/laBLV90ZF644LNLQVMRlz4EMGm+iSZLBGQ0w3US38fxiLDwmqvOir+fX1URQYn6cWfjVuKkJB/hZPj8C5yQAnHtxm0xk9LhvQwj37JCfvyeJrTIYeV/BLDTi25ultx5PUFjdswceFvhWGt1/ti0gL6WMAupmqYhEbkqRzQMtSghcaRRXPmXtUGEOgZA4xC8RhCn8NRDxhCStaJZTMvW/Hja3T1V4+fbKHuITGZiLLQGucCX+2VRyvWfabhNrN4NqaNcQXI0xGOrMPcpHvxUw4M1PsIv5tBo=;JCiT1IcwsgA8B5K140j+5g=="
 ---
 

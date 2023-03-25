@@ -71,20 +71,6 @@ related:
         width: 1148
         height: 574
         isCached: true
-  - title: "Accelerate Amazon SageMaker inference with C6i Intel-based Amazon EC2 instances"
-    excerpt: "This is a guest post co-written with Antony Vance from Intel. Customers are always looking for ways to improve the performance and response times of their machine learning (ML) inference workloads without increasing the cost per transaction and without sacrificing the accuracy of the results. Running"
-    publishedDateTime: 2023-03-20T20:06:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-amazon-sagemaker-inference-with-c6i-intel-based-amazon-ec2-instances/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/sagemaker-intel.jpg"
-        width: 1007
-        height: 505
-        isCached: true
   - title: "Access Snowflake data using OAuth-based authentication in Amazon SageMaker Data Wrangler"
     excerpt: "In this post, we show how to configure a new OAuth-based authentication feature for using Snowflake in Amazon SageMaker Data Wrangler. Snowflake is a cloud data platform that provides data solutions for data warehousing to data science. Snowflake is an AWS Partner with multiple AWS accreditations, including"
     publishedDateTime: 2023-03-22T16:30:14Z

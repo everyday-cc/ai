@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "The power of machine learning in prostate cancer imaging"
-    excerpt: "Using deep learning, they trained the model to segment the prostate boundary on MRI and histology slices, which are microscopic structures of the tissues. Scientists with varying degrees of experience assessed the resulting images compared to conventional ..."
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-power-machine-prostate-cancer-imaging.html"
+  - title: "Machine learning applications in finance"
+    excerpt: "Led by the expert tutor, sessions will provide practical insights on the challenges machine learning presents for financial institutions. Interactive sessions will connect the expert tutor and participants through active discussion, Q&As and practical case ..."
+    publishedDateTime: 2023-03-22T17:38:00Z
+    webUrl: "https://www.risk.net/training/machine-learning-in-finance"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 19
+      name: Risk
+      domain: risk.net
+    quality: 56
+    images:
+      - url: "https://www.risk.net/sites/default/files/styles/metatag_image/public/2017-03/risk%20brand%20logo%20grey_0.png?h=796e638f&itok=lCELQ6iE"
+        width: 378
+        height: 234
+        isCached: true
 
 secured: "zzOt3dzkpxjAaqrGVsyPGJeohVngPwaWtEykx7IEbTlPSrsns1PFVJCq24Gwx6XjglnABiaVqZkG2/UDA/JJMsP5/pLLTCAc25wFsQKU9pXyFcaxLVQVVfkWqZHU7MenhHV6CvRszsnY9ttIR7wAzUw+7vQNlW5hk5V6wyp5kSNs/8+s7HYXQ8SwUMqOA12E1Zoq49PQUId5ChcggCTAS1K8Et08KVhEyFqzawpAokOM6eMtYMpfS3q0t1L3kDcSOUgivBwG1nzIK0/pIeRcl4AukaI9oBrZWcZsYZvp4JFpteeuNfnnqEHTkiuNch5d1y34ByS3Wr4esQSPO8owgfPRNdsOos4fcNeurXk5FGE=;smTsLeqgdaHpWSOqJhCJcQ=="
 ---

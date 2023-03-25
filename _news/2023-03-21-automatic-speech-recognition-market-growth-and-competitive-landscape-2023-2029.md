@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
 type: article
 quality: 65
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -149,15 +149,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
-    excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
-    publishedDateTime: 2023-03-20T19:34:00Z
-    webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
 
 secured: "3fGx5vRDIvNpacqju3lVyBit8i3RFnBND5dE3DThBPL2msrjQiAA7ANlNgt8tz3EK/EJd5fqpB3akTLmDZjDBsquOHSYn/q+SjZLkvPYs1EZCSEgEgTucvqGr82hS50QRtBYn3j6Wh/4AphFaCAmlbnORPY+J2kLzooYQAVz5zo/Yc7vn2FjYBNTKRjmOFQfT3nA5IzbC5yNrOYHBVQ88OZOe/apIwza0Ko0KD/2sIbx4o0DnpCGAKyq3vtw4vi9sjCz+6yKssW0knO+QeS8NS/PZ+zjuq3voHp2kKw660JfWhG1Ie6uxmP5aqcS1jGRNJDyiYK+nPV+QOqSn/bVLUt1dg6TtvcBAl4FLavDKgM=;sz+G8N7UbQ5//2Bim0ssbQ=="
 ---

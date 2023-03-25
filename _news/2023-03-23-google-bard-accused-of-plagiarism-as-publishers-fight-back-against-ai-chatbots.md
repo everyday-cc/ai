@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5 Best AI Chatbots in 2023"
-    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
-    publishedDateTime: 2023-03-20T21:23:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 77
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
-        width: 600
-        height: 424
-        isCached: true
   - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
     excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
     publishedDateTime: 2023-03-23T13:58:00Z

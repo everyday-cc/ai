@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cruise wants to test self-driving cars all over California"
+    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
+    publishedDateTime: 2023-03-21T02:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
     publishedDateTime: 2023-03-21T00:40:00Z
@@ -50,36 +66,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cruise seeks permit to test self-driving vehicles beyond SF, across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-20T20:05:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/cruise-automation-seeks-dmv-permit-self-driving-car-test-beyond-sf-across-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 40
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/04/5982e715-63f5-4774-abf5-ddf6b74e8b4d/thumbnail/1200x630/1a2e77e9d241aaac467f36e5f453c868/cruise-car.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cruise wants to test self-driving cars all over California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-20T20:14:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/20/cruise-self-driving-test-california-autonomous/10b20050-c777-11ed-9cc5-a58a4f6d84cd_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARGKLEGHPQI63HGFUWFE63MEZU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "GM's Cruise wants to test self-driving vehicles across California"
     excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."

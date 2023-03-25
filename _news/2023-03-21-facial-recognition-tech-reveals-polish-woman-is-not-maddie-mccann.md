@@ -9,7 +9,7 @@ ampWebUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-
 cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Shock twist in Maddie McCann ‘mystery woman’ case after facial recognition comparison"
-    excerpt: "Julia Faustyna, who also goes by the name Julia Wendell, failed to match photos of Madeleine in a facial recognition comparison of the two, the New York Post reports. Swiss AI company Ava-X ran photos of Ms Faustyna and Madeleine McCann through its Iris ..."
-    publishedDateTime: 2023-03-20T20:55:00Z
-    webUrl: "https://www.themercury.com.au/news/world/shock-twist-in-maddie-mccann-mystery-woman-case-after-facial-recognition-comparison/news-story/caf5e84b6e7f3b9e04b0cedd537dc68a"
-    type: article
-    provider:
-      name: The Mercury
-      domain: themercury.com.au
-    quality: 12
 
 secured: "un7LYnH5E8JEhnXV7KWf4K3PoLfMQagIPCmooWOWZfy7XJNkiIGRWngVAxupcsIwHWJxBwNDDWAm7YRrDfQZOuOVP38mXbnwyhEKLalV9KqhGNV8/fj0hiXeWGm99Xq2G+Okv5ap1vgAaGf6YBRYtelnD2aK7qhXMtZN6Ea7NofpLa+fsfmYBt+2P1b9VXaCDTDeG7vhThNWdOVMSenK7fjcMZGWwtmFMnEfOBZeKMORHsrJV2wvirRMPbj9WmYUzynATOkpFuxRk6ZeBiLCFwg4csBsCzJ/q8mi7wvRioIyyfKmf0XUImCA7p8HmVzLlT+2xeIEcWsjM4iod/jfoBmldzwwEiymE13f6M0HQCaq06avh45DD6RUpmpU+R4fCYExEb9gPA/eYKxHojLajONLzbGuQ+RmLgTkUhdzBgVBTnFnS9bmzVCMa2zQOsnUXYhm/lEYa2Z/r7783zjV9gbrpc4twMO+De9zaScIe2g/oMhLsqTxkvrGCtkaJtGWaGn5hCEFsqVhqduvNcg1rg==;btm+c2xd5eSn04JFc4/IsA=="
 ---

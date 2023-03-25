@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Will AI Robots Coach Mental Well-Being in the Workplace?"
-    excerpt: "Our study provides valuable insights for robotic well-being coach design and deployment, and contributes to the vision of taking robotic coaches into the real world,” wrote t"
-    publishedDateTime: 2023-03-20T22:25:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/will-ai-robots-coach-mental-well-being-in-the-workplace?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic0923841.jpg?itok=iH1cRB3j"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "The World of Robots to be Guided by Artificial Intelligence"
     excerpt: "Under the guidance of artificial intelligence, the robots will learn to move with humans and interact with the environment, learning stepwise methods on how to adapt to various circumstances they may encounter."
     publishedDateTime: 2023-03-21T16:19:00Z

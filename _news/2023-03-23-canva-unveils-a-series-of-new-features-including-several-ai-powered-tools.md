@@ -109,20 +109,6 @@ related:
         width: 1197
         height: 631
         isCached: true
-  - title: "Runway debuts AI model that can generate videos from text"
-    excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
-    publishedDateTime: 2023-03-20T22:20:00Z
-    webUrl: "https://siliconangle.com/2023/03/20/runway-debuts-ai-model-can-generate-videos-text/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/runway.png"
-        width: 2920
-        height: 1602
-        isCached: true
 
 secured: "GYFfh1tkrxhBjMXYJPz1k1RfSQze0JWNM99YHw27OplXzJBpdV4NYKTOWtdpi0/YDzazLksTMvHSEGTo4W+MMgSzdVHhzmQtqcqEhEBLr3h0V9feK3eJbkHWgkKFXFJ3Ezo9C2UJXtYLNu4ikLNs8EUrvz0XmItv9pU88Y7OKZfpji5uRohWe19QskfDsGypZdbhg33NceDSO+WuPq6P0V9nk2RqVnXGMNVHLHgavEWE1XJZHI2b9RLFbXRORFnl7Y1Vb4fNTIfJRWEHsrvagrEXaQWgTff+hGb5ymmkDufsUALp0NEWwCypIYWjV/9RWmKj5AXG8fGjTzVgor4afLExuDH0OwNATwv45BAA/q67C45gWk7kUeX2DRpjIEeXwxYA/tOsNx1EH8uzVYSIotYZgRKV5f0i1rljeFWjfnibGWIbfpwpsnBOkUn7MPitBFW/Q1rKwG8OVgNYUioPUOSNXswVahPwzmSKvbCTpYzv3LD0X/bKwQ5D5DoIQAQCu2VaxW48Y83HhP2+blAF9w==;+eY72Ien+krcnCVvieRWYA=="
 ---

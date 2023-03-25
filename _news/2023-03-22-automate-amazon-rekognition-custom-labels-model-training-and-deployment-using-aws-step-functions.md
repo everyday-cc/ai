@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-amazon-reko
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-amazon-rekognition-custom-labels-model-training-and-deployment-using-aws-step-functions/"
 type: article
 quality: 123
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "On top of these cutting-edge computing capabilities, customers can use the industry’s broadest and deepest portfolio of services such as Amazon S3 for object storage, Amazon FSx for high-performance file systems, and Amazon SageMaker for building ..."
+    publishedDateTime: 2023-03-21T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition and Medical Transcription"
     excerpt: "It would be unfair to look at voice-recognition transcription options without mentioning one of the largest movements in the medical transcription industry -- outsourcing transcription offshore."
     publishedDateTime: 2023-03-22T00:01:00Z

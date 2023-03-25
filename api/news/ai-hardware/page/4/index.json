@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-02-17-2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029.md",
-      "title": "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029",
-      "excerpt": "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
       "title": "Chinese chipmakers to advance GPU development for ChatGPT",
       "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
@@ -1382,6 +1329,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

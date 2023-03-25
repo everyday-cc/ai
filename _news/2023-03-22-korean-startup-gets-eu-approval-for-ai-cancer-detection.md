@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2023/03/21/AI-breast-cancer-dete
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/03/21/AI-breast-cancer-detection-tomosynthesis/8351679416773/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 806
     height: 537
     isCached: true
-
-related:
-  - title: "Validation platform allows local hospitals to determine how well AI systems would detect breast cancer"
-    excerpt: "While there are currently a dozen approved AI systems for breast cancer screening, it has been difficult to evaluate their clinical performance objectively. Now, however, there is a Swedish validation platform ready to compare how well AI systems detect signs of breast cancer—and its development has been led by researchers at Karolinska Institutet."
-    publishedDateTime: 2023-03-20T20:53:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-validation-platform-local-hospitals-ai.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 21
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/now-local-hospitals-ca.jpg"
-        width: 780
-        height: 486
-        isCached: true
 
 secured: "iYUQYDwg65WK7N5UZ2M4cyAD/h9VlfaM934tLPdwCNHVdZ80dWIR5+tGzDvZQqHgYEpTLekgnhB0ez/MgSLrx+lhavCsYeQKUHiNtE6ItZv4luPJM0m/STVMkiR9kzE2q2dka1sVUuuxKbGCCMzqGCn1g9mYn/bwEQJrMjSjBw40u0hRTbOSwy833KVNBnnNWzxOQGYl98Tb71hxdUn4b6cUvv8PWfjF1yeEEWrStIQXjNgHyW8yp3spLo5nxaCxtjmpMb4FcM37csyL3siy74XQ6HWDHwAKlYHtgbNZ57p53yUYl38bZ7zfoI5fYobx3iGm+AsOH6cUFfZrF/VrFFip4K5vwJ2+0bIbJlf8zQs=;pBZfpEP5JRTLdpaKH69WuA=="
 ---

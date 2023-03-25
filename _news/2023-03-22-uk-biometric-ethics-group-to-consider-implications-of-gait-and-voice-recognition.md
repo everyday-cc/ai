@@ -35,6 +35,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Neurotechnology Releases Megamatcher 13.0 Multi-Biometric Product Line With New Biometric Recognition Algorithms"
+    excerpt: "MegaMatcher 13.0 includes significant performance improvements to fingerprint, face, iris and voice recognition algorithms and adds a new tattoo alg"
+    publishedDateTime: 2023-03-25T15:08:00Z
+    webUrl: "https://menafn.com/1105860391/Neurotechnology-Releases-Megamatcher-130-Multi-Biometric-Product-Line-With-New-Biometric-Recognition-Algorithms"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/25/F_b270eimage_story.png"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "iC9l0x6Px0WVs4uFJtVdMFt8F0RBi/tSXpVA0f9vsbPV5WNmRiu4gEioRhpmix5paZFtyxZ2Rl7tB7YRvbqB/6Q4XRCCS0WQTDScVmw+VuknHUmd/Nfm+djWNwZeA0D/27L2V7qI/PJvGALnuCYwCi8xDlDVpaZYvR+zzoyehPq+lOpwVejO+ghaMH9bPAplBOVllLhbuKPMFOyJSo+2RxaTNgwniI5FXQkcx4YRUk0n9hY5n3OUZMgOF4ob2IyPlVH5rRwY2A4E9VWoVKFaymkVTHn9jSlDpUXAKyWkU6lrqhLkdDi2pkyDKJVZ/zYlerweOkiEVg9fSnKy6rXEb15w50E9ZgnN4tU3sBOMI36zLwWLiBDk+YGKtDsioq6A5aCL+qwfXF9dG+37A2RaTbk9+wtnZS27UNgT6lIwZUYjAkLwIfFg5UpL9A5gmDFm75BeXqO1AvDsEtmU7117fMx+U5JfZgsI7iIexhzW4/IZFHL6BlJHUe45A8UMPVh6d/fP9luBAvO1iKkgK5cdJA==;IWbGKb2Yr8ghy2IH6FwV7A=="
 ---

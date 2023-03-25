@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/canva.png"
         width: 1197
         height: 631
-        isCached: true
-  - title: "Runway debuts AI model that can generate videos from text"
-    excerpt: "Startup Runway AI Inc. today debuted Gen-2, an artificial intelligence model that can generate brief video clips based on text prompts. New York-based Runway develops AI models that ease image and video editing tasks for creative professionals."
-    publishedDateTime: 2023-03-20T22:20:00Z
-    webUrl: "https://siliconangle.com/2023/03/20/runway-debuts-ai-model-can-generate-videos-text/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/runway.png"
-        width: 2920
-        height: 1602
         isCached: true
 
 secured: "LAqQAO63mkuG2hU+/02W84aVTSyv4hNfCsG4P+kjrjbStKwUOUtsRTofd6N9nW8AJUnGTLHuyr64ucqhFRh1jX3CTaL6ZXxTqKBaBIePXoUuV336E8nIxo/UCvshzi7oitxcH6uXCvaNuQTV7ASzKr29EGLSzYkXcgdSsUK9ChR0rTg0jRR+YpgRFaz1cuEgJDsLMZBWE8KuvIPmYNK4YTEdvtT5en/3RBq+zPSjQLf0EkEHp7mMxv9EYIgX5lktzNm1DUMmIWhN/VtkLc3A93ffUydhejo9TpuEiuaINPT3Bb74IJfiAalqX9qRq1fKvchHLDBnxQoIEOSQMmTYXY//w9jyWWBSJGFy25qU0aQt2uTCFfhFLov8l4gUIQ+zTNSH5sEpSE44imNKROqYOcLe8q3GRzIlR5JpIhU5AIe/7+ROTurw3j13rDq1dCL/l87knxdSWhraJEVJMS3g4kw5z4tx/g1/9Od5/vhY+4k+H3gmTqajMS25a7Ql0AHZ65ONyEQbDJv7y7YvfQrTOA==;DMt451vu0LgdtptUbkHIbg=="

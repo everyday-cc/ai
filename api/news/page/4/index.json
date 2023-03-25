@@ -114,7 +114,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/22/how-ford-and-vws-multibillion-dollar-self-driving-car-project-failed.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -623,7 +623,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 612,
+      "heat": 622,
       "tags": null,
       "images": [
         {
@@ -830,7 +830,7 @@
       "originalUrl": "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -915,49 +915,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-homer-the-mind-reading-beer-pump-lets-you-pour-a-pint-with-your-brain.md",
-      "title": "'Homer' the mind reading beer pump lets you pour a pint with your brain",
-      "excerpt": "Seth said: \"This is the world's one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. \"It doesn't know what your focusing on, you could be focusing on anything, but you're controlling the robots pour of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "originalUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article26523971.ece/ALTERNATES/s1200/0_JG_ECHO_MINDBEERPUMP_01.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "cdnAmpWebUrl": "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp",
-      "publishedDateTime": "2023-03-21T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Liverpool Echo",
-        "domain": "liverpoolecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1231,7 +1188,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1273,6 +1230,58 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-21-google-says-its-bard-generative-chat-ai-is-out-launches-waitlist.md",
+      "title": "Google says its “Bard” generative chat AI is out, launches waitlist",
+      "excerpt": "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
+          "width": 760,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
+      "publishedDateTime": "2023-03-21T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

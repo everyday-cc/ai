@@ -519,6 +519,20 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
+    excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
+    publishedDateTime: 2023-03-25T09:25:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-elon-musk-attacks-microsoft-chatgpt-access"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/25/image/jpeg/6d7CeY62RxFsKuxAliFamIlh8wObxQboQdFHROq9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
     excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
     publishedDateTime: 2023-03-22T19:39:00Z

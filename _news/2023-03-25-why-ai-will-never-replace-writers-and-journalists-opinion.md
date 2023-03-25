@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T12:00:00Z
 originalUrl: "https://www.sun-sentinel.com/opinion/commentary/fl-op-com-artificial-intelligence-chatgpt-journalism-20230325-yrrk64zz4rc7tp4ddy46t2j6gi-story.html"
 webUrl: "https://www.sun-sentinel.com/opinion/commentary/fl-op-com-artificial-intelligence-chatgpt-journalism-20230325-yrrk64zz4rc7tp4ddy46t2j6gi-story.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Sun Sentinel

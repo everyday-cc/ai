@@ -39,6 +39,20 @@ related:
         width: 1149
         height: 577
         isCached: true
+  - title: "AWS and NVIDIA Collaborate on Next-Generation Infrastructure for Training Large Machine Learning Models and Building Generative AI Applications"
+    excerpt: "On top of these cutting-edge computing capabilities, customers can use the industry’s broadest and deepest portfolio of services such as Amazon S3 for object storage, Amazon FSx for high-performance file systems, and Amazon SageMaker for building ..."
+    publishedDateTime: 2023-03-21T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-and-nvidia-collaborate-on-next-generation-infrastructure-for-training-large-machine-learning-models-and-building-generative-ai-applications-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cnoI8ssveUGKaeNXutNw+lJF/X+MCsd5Eza9sjgDR+sry1txVzXcBKS2tj2VWsce6n+PbIN8TemXxXCahxMwTqFtfXZQX/JthxqdfNJJpIWWZY1SQaeA8L8qoedNviRuOLgB3XNEjcAiWE781TvKaG8H1+l8Ae+wMIiMl/L/oQ8iqj4kidw/zLh9vjwHQhqchfahFTlyIMA5N55I8DL/Vce1N3x5cf5t7z6kq+aQkrEnDGq5tz3xWLNWhB52oCZXEkCzn1dztz7CI3y3T6TDSGZi47ehvJnZ5QeD/eqIZmQ9WSpKo9i3fDse30GDgzEeuuyDsGgMSUW2hEVSvS/uPv2q5jG2va+Lr9JxuSuSZBA=;PQ6vMH94RszbcppgF/iwAA=="
 ---

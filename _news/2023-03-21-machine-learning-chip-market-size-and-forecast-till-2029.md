@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-ma
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 88
-heat: 228
+heat: 218
 published: true
 
 provider:
@@ -194,15 +194,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Outlook: Predictions and Projections for 2028 And Beyond"
-    excerpt: "Machine Learning, especially Deep Learning technology is driving the evolution of artificial intelligence (AI). At the beginning, deep learning has primarily been a software play. Start from the year 2016, the need for more efficient hardware acceleration ..."
-    publishedDateTime: 2023-03-20T19:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-outlook-predictions-and-projections-for-2028-and-beyond-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
   - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
     excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
     publishedDateTime: 2023-03-22T22:43:00Z

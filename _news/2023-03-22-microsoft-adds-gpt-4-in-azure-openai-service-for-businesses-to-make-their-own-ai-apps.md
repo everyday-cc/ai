@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-serv
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
 type: article
 quality: 112
-heat: 612
+heat: 622
 published: true
 
 provider:
@@ -508,6 +508,20 @@ related:
       - url: "https://www.crn.com/resources/027f-178ca52379f0-58443240c6f2-1000/microsoft-sign.jpeg"
         width: 609
         height: 457
+        isCached: true
+  - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
+    excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
+    publishedDateTime: 2023-03-25T09:25:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-elon-musk-attacks-microsoft-chatgpt-access"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/25/image/jpeg/6d7CeY62RxFsKuxAliFamIlh8wObxQboQdFHROq9.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
     excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"

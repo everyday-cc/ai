@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Shock twist in Maddie McCann ‘mystery woman’ case after facial recognition comparison"
-    excerpt: "Julia Faustyna, who also goes by the name Julia Wendell, failed to match photos of Madeleine in a facial recognition comparison of the two, the New York Post reports. Swiss AI company Ava-X ran photos of Ms Faustyna and Madeleine McCann through its Iris ..."
-    publishedDateTime: 2023-03-20T20:55:00Z
-    webUrl: "https://www.themercury.com.au/news/world/shock-twist-in-maddie-mccann-mystery-woman-case-after-facial-recognition-comparison/news-story/caf5e84b6e7f3b9e04b0cedd537dc68a"
-    type: article
-    provider:
-      name: The Mercury
-      domain: themercury.com.au
-    quality: 12
 
 secured: "/tbZA9d3WSI4M8HnE5WKuAwa+ti4A9JmGDzCE5NXMnrPygfpEofPnYssSB0Y2ZH/OWHzxOhUGWssh4klHuogOynmZFFRtZqwnZcQ6gv6PqE1BAR1BmioOAeRiLuQTCH2yHNCCW+taKU4AVahWgPjTm25NxR1/FUwMWubugvkkowX8I79ne7NvUJrWngmNbexxAQtnp4SEvOuYa8lnDRiI2jitwmgQfXh2nFbqbGIIGyVcmKA5xI9HwUp+ZW0WUCWm9kdnSZlav/yEsYfce8pGWRYJemcjib/vnq4wMpgWF3vR/YhW17VadoSVc7NabtYQ1KjmavZAntTy5RLoG0uu3lczo1p4+wmZ2QRv0pot50=;u62OIN/9YFIhGGoy86QtMQ=="
 ---

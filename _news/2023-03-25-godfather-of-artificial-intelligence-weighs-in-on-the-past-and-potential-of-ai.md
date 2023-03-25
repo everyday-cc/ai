@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T13:31:00Z
 originalUrl: "https://www.cbsnews.com/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
 webUrl: "https://www.cbsnews.com/news/godfather-of-artificial-intelligence-weighs-in-on-the-past-and-potential-of-artificial-intelligence/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: CBS News

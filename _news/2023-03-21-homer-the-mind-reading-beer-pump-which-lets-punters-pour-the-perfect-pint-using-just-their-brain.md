@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This mind-controlled robot will pour you the perfect pint"
-    excerpt: "From the War-scarred Iraq faces uncertain future 20 years after invasion, and more of today's top videos series When I say “mind reading robots” what's the first thing that comes to mind?"
-    publishedDateTime: 2023-03-20T20:31:00Z
-    webUrl: "https://omaha.com/news/science/this-mind-controlled-robot-will-pour-you-the-perfect-pint/video_fc76f7fb-baee-5458-90c9-105d723aa214.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/c7/fc76f7fb-baee-5458-90c9-105d723aa214/64187c3bc92ed.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5q36LQTLIGruRyrm6NN/TZ+5iYMMYreGBHRhOMgXGh7XLcgshRU3VgyfDT7kMyFSSnzYQPDML6TeQ4dH+gLax8MM4Uq4WMJp/gRYbbRVjriIRaXR9KAEM+aeRAZzb5iu80hDTeioIEzfleU7gMW6EJkR+cl8UBGFsqsImJVYzqcjSGN1rIISp3WrxGyJ9ZV9PJ8RaRQBToHCJHXa9pI2++dJRu+R2yYyxwNWW5I4v55wShZGpV87Gsct4xGTADkmWJrf3px73uCJ4ah1fzUP2BINjtoO7kl/FQE/h5BRaVhUhg3NsQJgpLgZLWLb9T/H9NakUR29D20x4ZO3gGt5LCk5MnZ71O/TLJZQf0wTrKA=;oIyCGJckWtJ1Cq6zQQ2I9A=="
 ---

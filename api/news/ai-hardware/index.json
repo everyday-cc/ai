@@ -303,49 +303,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-23-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia.md",
-      "title": "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA",
-      "excerpt": "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/",
-      "originalUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230323041650.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/?amp",
-      "publishedDateTime": "2023-03-22T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-23-nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable.md",
       "title": "Nvidia stock hits best winning streak since 2007 as AI advantage called ‘insurmountable’",
       "excerpt": "On Tuesday, Nvidia founder and Chief Executive Jensen Huang announced a slew of products and services targeted at expanding AI development, including new chips and platforms specifically targeted at generative AI applications as well as AI video and image ...",
@@ -1062,7 +1019,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1167,7 +1124,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 228,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -1479,6 +1436,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-17-edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market: The Growing Trend 2027",
+      "excerpt": "“Global Edge Artificial Intelligence (AI) Chip market size was USD million and it is expected to reach USD million by the end of 2027, with a CAGR of between 2021 and 2027”Ask for Sample Report Edge Artificial Intelligence (AI) Chip Market Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5 Best AI Chatbots in 2023"
-    excerpt: "AI chatbots have gotten a ton of attention in recent months following the launch of OpenAI's ChatGPT. The technology, based on a large language model, has the ability to write code and essays, and can pass high-level exams like those used in law,"
-    publishedDateTime: 2023-03-20T21:23:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 77
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
-        width: 600
-        height: 424
-        isCached: true
   - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
     excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
     publishedDateTime: 2023-03-23T20:58:00Z
