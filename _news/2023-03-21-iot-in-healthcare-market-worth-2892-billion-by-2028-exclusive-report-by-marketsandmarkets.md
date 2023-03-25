@@ -260,6 +260,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 51
+  - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
+    excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-speech-and-voice-recognition-market-size-and-industry-share-analysis-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in BFSI Market Size 2023 Research Report by Industry Trends, Global Competitors Strategy, Segments and Forecast to 2031"
     excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Intelligence (AI) in BFSI Market:Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete ..."
     publishedDateTime: 2023-03-22T22:55:00Z

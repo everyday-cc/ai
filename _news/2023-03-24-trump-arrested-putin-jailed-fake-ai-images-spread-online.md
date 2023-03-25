@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
-    excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
-    publishedDateTime: 2023-03-25T01:11:00Z
-    webUrl: "https://siouxcityjournal.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_0c28f6b7-b298-5929-b33c-5e1415e94c5a.html"
+    excerpt: "Fake images of former President Donald Trump being arrested by New York City police and Russian President Vladimir Putin behind prison bars have flooded social media in recent days. Both"
+    publishedDateTime: 2023-03-25T09:30:00Z
+    webUrl: "https://omaha.com/lifestyles/article_d08bfae2-f22b-5f42-9f80-70914f2eb01c.html"
     type: article
     provider:
-      name: Sioux City Journal
-      domain: siouxcityjournal.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/6/ff/6ff284ef-6a82-5ee5-979a-5eaf2ee22147/641e493f76d61.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/a/23/a234ee18-91ec-5e25-a0f7-a49daa84be17/641cda56c45b6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

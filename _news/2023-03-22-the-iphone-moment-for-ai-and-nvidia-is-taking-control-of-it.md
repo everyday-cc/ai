@@ -81,20 +81,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Moves.ai Pioneers Reputation Management Engine for ChatGPT and Other Chatbots"
-    excerpt: "Utilizing AI technology gives brands control over their corporate narrativeMIAMI, FL / ACCESSWIRE / March 20, 2023 / Moves.ai,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/moves-ai-pioneers-reputation-management-engine-for-chatgpt-and-other-chatbots-1032178939"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/744428/1dc9cc7e84a1c85ade4db87998c4.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Five AI stocks in focus amid ChatGPT frenzy"
     excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
     publishedDateTime: 2023-03-22T07:02:00Z
@@ -204,15 +190,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "ChatGPT AI now more powerful"
-    excerpt: "It is useful for a variety of tasks such as providing assistance with language translation, personalised chatbots, or other AI-powered communication tools. The ChatGPT for Search Engines extension allows the user to display ChatGPT responses for search ..."
-    publishedDateTime: 2023-03-20T15:01:00Z
-    webUrl: "https://www.iol.co.za/business-report/economy/chatgpt-ai-now-more-powerful-0aef89d1-c338-454e-a89a-428ad1f12a91"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 21
   - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
     excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
     publishedDateTime: 2023-03-22T19:04:00Z

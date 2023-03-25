@@ -39,22 +39,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Making mind-controlled robots a reality"
-    excerpt: "Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will allow people to operate devices such as robots and machines solely through thought control."
-    publishedDateTime: 2023-03-20T15:54:00Z
-    webUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-mind-controlled-robots-reality.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/mind-control-robots-a.jpg"
-        width: 871
-        height: 554
-        isCached: true
   - title: "Biosensors Could Allow Robot Control Using Thought"
     excerpt: "An advanced biosensor brain–computer interface is bringing thought-controlled robots a step closer to reality."
     publishedDateTime: 2023-03-21T10:15:00Z

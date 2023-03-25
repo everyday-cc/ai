@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
-excerpt: "Phenom, the global leader in Intelligent Talent Experience, today announced its high-volume hiring solution has earned the Business Intelligence Group's 2023 Artificial Intelligence Excellence Award for AI innovation and applying its ability to solve organizations' biggest recruitment challenges in a highly competitive talent market."
-publishedDateTime: 2023-03-23T00:00:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782555.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782555.htm"
+excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+publishedDateTime: 2023-03-23T15:17:00Z
+originalUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
+webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Green Intelligence: Why Data And AI Must Become More Sustainable"
@@ -74,16 +80,7 @@ related:
         width: 1350
         height: 899
         isCached: true
-  - title: "Intelligent robots of the future will move and learn with us thanks to IntelliMan"
-    excerpt: "The new European project coordinated by the University of Bologna will develop advanced robotic systems controlled by artificial intelligence that will be able to learn the skills needed to interact with people,"
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/983240"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
 
-secured: "q0Y6OmZnrQyDKpy/WhLraf5uo/VNgBR9rePC2DfPxsNO22PX1AUvTEKxnnY1LpDDdeczYrrugoYOxB8oXaXs9WvAyM/IgViDRnHZEBb5StGOmYFZLVDfNgv8K+/NoKqGlA8qAqBb32lm3qeF+QkcAaEhIvWPGlNitWb0KyILQrrk9XuN/LqV0+lsSJjmr+InPavF394xEoaUYZvJUJsLu/jLQkA9gU4NbffMFsxBPq2QQUllSebMKQdDzhpsmxgQMAfsQEDnFKhybQWkl6KvBDFQq1xDGfLD5GUwup/rta4ThWCxZgnc4PCL0Ze5j78zYJn4/E2B2xgL0yQ61mEh/uiHR7IwoUskrlNYjsByDcw=;6VEquXg41TN40rqfjJIwsw=="
+secured: "8WwX+zOY5D39aUHF+yCjo3hqp2E8ieBBEKNNQULWEqBhdXTQ+N37dOY26Br2PyvMuNDcwX24NIWtWNgSDhSrS06ZhSHeP0WfDH49fioAXCOteXiD1KM8cPvrrO1+QMUh/xfw5DGNdYUW+bGBMkmM4vl2JRaVnko8+HQiRasMmEG/tO59z/EboVgxy4LVFwBvm5vITP3nvHNsvtH4fVcsnueDZ5ioLtZRuqdT8kPxVzL8WxjopT02fcU1y/mfdZl5t9rPtqTkN8h/sd79IHBSd3chwkbTMZPX/OgD1AgCb0Fzaby6UbLn7aj5n003q6UACSjSYB3zLCFUv9VLfHLsHugxLq5wyMHIBlVXHcXtco8=;CkzP608p1qHlAypDPEM7zQ=="
 ---
 

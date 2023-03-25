@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Is AI Turning Me Into an Obsolete Machine?"
+    excerpt: "Artificial intelligence is advancing at a superhuman pace ... But it can also be applied to myriad other purposes. Start-ups are using GPT-4 to, among other things, instantly draft lawsuits against tele-scammers, teach foreign languages, and describe ..."
+    publishedDateTime: 2023-03-24T13:19:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/gpt-4-chat-gpt-ai-jobs.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 19
   - title: "This Ukrainian Startup Is Looking to Automate Crypto Crime Reporting Using Smart Contracts, AI"
     excerpt: "HAPI, a crypto startup working on cybersecurity tools for decentralized ... In the future, HAPI is considering using AI to automate report approval, too, Letsyuk said: “We’re now feeding the reports we get to the [latest AI product by OpenAI] GPT ..."
     publishedDateTime: 2023-03-21T18:58:00Z

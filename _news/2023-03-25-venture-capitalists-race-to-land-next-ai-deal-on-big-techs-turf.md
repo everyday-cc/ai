@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T06:00:00Z
 originalUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
 webUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Reuters

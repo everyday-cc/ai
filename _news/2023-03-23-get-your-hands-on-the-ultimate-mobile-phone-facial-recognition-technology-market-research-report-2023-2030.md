@@ -78,22 +78,6 @@ related:
         height: 426
         isCached: true
   - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 56
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
     excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
     publishedDateTime: 2023-03-21T16:44:00Z
     webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
@@ -169,6 +153,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
 
 secured: "DCphZqEiaQRAdVQWgidYb/InLU326/PAdwi+tGC9t+xfpx1bAXZgswQqqFMZv17hB5eN9M9VnENNKDke2HWb6H0WEhBjz8MZ6Ce78tp69v1HQThxmXmoipB93chMNuBSAqqutHRj8gnNAr/65G/QAyUXbAV6zYeue/5v+tjQ/xa0es4ebYIx4SXGsdvUQavxJNPDn6LTYgSt2Wb+iyEsOWr5rUXRsa7TRXATYybKTPT3/n2DP23UPVjXMnYq0raMhHA1Rx2MbkeQ4O9rlMIYcelklEX1hUCtdlveBcY56vZP62PF+fBjVK1lbmNm5Wy8je+Cx6t9PIf3Wxm9mFnw48NOOfSeeiUm64tY+03KDOQ=;gEpb9m9PMvOL+vIWyxuzZg=="
 ---

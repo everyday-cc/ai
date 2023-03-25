@@ -166,20 +166,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Startup behind Stable Diffusion releases AI system for generating videos from text"
-    excerpt: "SAN FRANCISCO, March 20 - Runway, the startup that co-created the popular Stable Diffusion AI image generator, has released an AI model that takes any text description – such as “turtles flying in the sky” – and generates three seconds of matching ..."
-    publishedDateTime: 2023-03-20T13:07:00Z
-    webUrl: "https://www.reuters.com/technology/startup-behind-stable-diffusion-releases-ai-system-generating-videos-text-2023-03-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
     excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
     publishedDateTime: 2023-03-21T19:00:00Z

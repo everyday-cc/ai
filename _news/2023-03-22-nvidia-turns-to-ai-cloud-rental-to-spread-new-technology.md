@@ -1,22 +1,32 @@
 ---
 category: news
 title: "Nvidia turns to AI cloud rental to spread new technology"
-excerpt: "the world’s leading acceleration software suite for development and deployment of AI. NVIDIA is partnering with cloud service providers to host DGX Cloud infrastructure, starting with Oracle Cloud Infrastructure. Microsoft Azure is expected to begin ..."
-publishedDateTime: 2023-03-21T19:19:00Z
-originalUrl: "https://infotechlead.com/networking/nvidia-turns-to-ai-cloud-rental-to-spread-new-technology-77466"
-webUrl: "https://infotechlead.com/networking/nvidia-turns-to-ai-cloud-rental-to-spread-new-technology-77466"
+excerpt: "Huang said Nvidia was also working with Microsoft and Alphabet Inc (GOOGL.O) to offer its supercomputers, used to create new AI products, as a service. Nvidia on Tuesday announced new chips and ..."
+publishedDateTime: 2023-03-21T21:26:00Z
+originalUrl: "https://www.reuters.com/technology/nvidia-set-reveal-new-ai-technologies-annual-conference-2023-03-21/"
+webUrl: "https://www.reuters.com/technology/nvidia-set-reveal-new-ai-technologies-annual-conference-2023-03-21/"
 type: article
-quality: 19
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: infotechlead
-  domain: infotechlead.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/XJt3E7YrrE6OCj0GDrbpdRo2CIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AMJ7RHVKFM75D2HO4GJCMFIOQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "NVIDIA Launches New GPUs And Services for Generative AI Inferencing"
@@ -674,6 +684,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "wu8xvcFUuhCtvP9qDMmyFwtgL3yA79KN0ysW/g3QItFrf6gRCabfeM49AamSgqt62K/m39ZO7vpF/J0ZXbZyFl5jJABaRMzBdBmQw4ckGyTvK8Mt8iU1OPtHIqgHKQLFVxhQFqPPWCHQ4FNc5TAZ4nm2HXzq5ioE8VFSNEEs7YHwleSzwhIRY1pl/iZQQxQzYuYQXthmA6iEv6cYm7/UHYnGOPmyA54UwvORX730CWZUor5YLi+tixXamvv1tLxj69s08J7AGt1ICqvLbw36t8sgH5hGBVsIO2OGZoiBBMJhf/W2ZJrdpLqERIB8Nrz21VubywuWsvctH2NFkfj7CbD7mfQFp7NRERlDA/s5w2BthHyU5ZaV5Bxs/87JkHmVGDTwZBJCdkfMKSiKwkM4PDAhKYai8dkFpdbWCWamD5uJVspz6TXAZFgsgkwFm/k9N6WJV1GUQm8rCV7ZxcxSd9oOYgBks25vSs4xpm+dnOeNeqETQg24EHGc6bpjPMY/E7QN+mTgTBaylKKgX0vlhA==;FiLq3bHkZRoAbynnDPjAPA=="
+secured: "ZIqmKPAyazClbbJH02hv/EyfVqXAXXy5RmmdMD1AXtEtml8NlO/evfzCcbvlh5+bp0UCRl8jnCczLt0J71ZjDPOlJ26BspTYZgpMW3adaMivZRxTWOrFHhf14SdnJn3lDfF29kSXqNE0xxqxN3GF4dXMfh/WllEyUk2JD5fvU0q3kno2F1m26iIZ7+3pZPDC0IFnaIdJcp6PRRWuMst7WgHFwCbr1nRHTuMFiwLXZJsLx0ONCO6Mcuaxog9ee/m1KtAvnP+fl9MjECRYtfA2vHB8lu67h4fQEhDwk1qLwdXOOasA3v1Q6JONX5HdXtOWqa/84TdwrVc3/VqKqSWeUu9Gc/XnJLeHJb1iwJXg6PI=;MEQxZ0lmp3GJXZ3k7nziEQ=="
 ---
 

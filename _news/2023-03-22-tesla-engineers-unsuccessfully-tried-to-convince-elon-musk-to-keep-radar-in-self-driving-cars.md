@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
-    publishedDateTime: 2023-03-20T16:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Lidar, radar, cameras: The sensors making self-driving cars possible"
     excerpt: "The disadvantage is that a stereo camera cannot see very far ahead — its maximum range is 80 metres, which is not much when driving fast. So for all-around vision, vehicles need more than just cameras. Radar systems are better at long-distance vision ..."
     publishedDateTime: 2023-03-25T03:04:00Z

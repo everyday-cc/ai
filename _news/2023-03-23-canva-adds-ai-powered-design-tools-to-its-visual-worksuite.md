@@ -119,20 +119,6 @@ related:
         width: 2920
         height: 1602
         isCached: true
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
-        isCached: true
 
 secured: "ou4mpMqhdhmBtDK86zHYlTABLbmKU8j4sysh77q5P2QaIDBYt6+eqGI7cvhgNPbUP8Ae88/uuKdCpQS+plnza5JaRCFaFxVzxwtnlsMrXid1eM6OuP/oIdXLhMe96BprPL123anMPJA1bTlc2CEzsbr7wte5z41NUO8B8UOUmZNdy3YRg5y9M7E33AVeDUbZlWWpv/h6tC2YGSqXA8qwsBb7/PrE2hnyjn9dGpd5m9MrTt+YzFoEW7UFy+HSjSWUzYMRXUjiGgAKnhY7g6ZWTZHhUn3qzV4I/rFLMUxWII1mFa5iMahgM8KT/tC4rv6jD2mtVXktbyZK5azW8n+egzgHX5pPykkUrn6WCy7tsZS8W4HF/bz5mHdYj1DNpOtcmnPCPurEMypMff3KI9TNmQPax8qGy9c8Km0DfVLi5cWNEXQN/9cL8sepaPyVmfDCwSnxnbqumV3ZMlXiEIkzbkKrQkIlmmdX7AxFZHs6r9EC+yAPM1ZkYkR6vzvdrZTlsGf2sNeo9fXY0mAWXFYCFA==;5HgvOoZ9I2sP210I8o1X+A=="
 ---

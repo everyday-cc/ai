@@ -43,10 +43,10 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "7 AI Stocks to Buy for Long-Term Growth"
-    excerpt: "Nvidia (NVDA) The company is also a leading provider of the semiconductor chips and graphic processing units (GPUs) that other companies use to power their AI solutions. Because demand for this equipment will continue to grow, this is where a greater ..."
-    publishedDateTime: 2023-03-20T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-long-term-growth-1032179271"
+  - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
+    excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
+    publishedDateTime: 2023-03-23T10:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
     type: article
     provider:
       name: Business Insider

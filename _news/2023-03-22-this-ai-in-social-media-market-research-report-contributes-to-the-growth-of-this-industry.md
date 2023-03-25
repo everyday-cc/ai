@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Future of the Machine Learning in Manufacturing Market [2030] | Our Research Report Provides Long-Term Trends and Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- [109 Pages Report] Global “Machine Learning in Manufacturing Market” [2023-2030] latest research report provides key analysis of the ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-the-machine-learning-in-manufacturing-market-2030-our-research-report-provides-long-term-trends-and-forecast-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ElGcfaUd1AZTaZUEHAZO/APqSMgBHVqiuah4hNWTWe7M+K+Xe4hvBiirPTbxAt+p/YWe57d/1twum+HtFaljGM2x/uYGu3iXTEsJ2JzcIP4+VHZXL62mOwv4YeQ9y+05OKN6pYGd0XHhvT2aFlSTex7A3yyR8+NoNk6lJF4OZjms3MbF0T1yImXUd/dJTscir50SREmM9wdHAVjmbThgCDrWZT7uOKd5mVqMzEs74cZjlEsPVJ+uKzkOnOV9sdIfNfubDuNFSLPWXYgKhqOjyGuQX5IakTlKSjz9Ve25ajAz89EzTro8DQoxA53qIK+EWcGRsyoQZDzqH159nmyRXFyS8M0XzDWui6+v9yNCFOQ=;kwVu/E5XKUO2v5efALa6Bw=="
 ---

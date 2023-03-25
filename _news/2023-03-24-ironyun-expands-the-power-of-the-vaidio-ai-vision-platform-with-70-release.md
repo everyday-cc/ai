@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T23:41:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: TMCnet

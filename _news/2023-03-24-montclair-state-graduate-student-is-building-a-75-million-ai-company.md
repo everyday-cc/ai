@@ -24,6 +24,17 @@ images:
     height: 750
     isCached: true
 
+related:
+  - title: "Montclair State Grad Student Is Building A $7.5 Million AI Company"
+    excerpt: "It’s all in a day’s work for Besaleli, a founding NLP research scientist at Seek AI, which recently landed $7.5 million in pre-seed and seed funding, according to a company press release. Besaleli estimates that on a weekly basis,"
+    publishedDateTime: 2023-03-23T19:15:00Z
+    webUrl: "https://patch.com/new-jersey/montclair/montclair-state-graduate-student-building-7-5-million-ai-company"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 19
+
 secured: "YM8g3GnUL8YJEGrH2/x4PSWlVlvqhxntuRXMpF/av9FaHpw2QP9x4Wb1txcQhaN28ZsXCsL0ig44p4gw+AfLgWx/UbvQLhwk9wQFT0vN5ZeJ3odIo9cvYBR36lgbYElwfsvjSFij/z4rTDCGlhN/BuW98O21PS7KBIP4gIeT6g7qbcFZmuzVQA4g3EW067S6JPeskFLsv9hBEoDc0/HuI2URCQunIL9nXbPHIyiBpjo3KiUwaJcKsrf8BsYN/K+zqndQsuMN1QHg1v2BQNs1V+cpqDaot6leIZKSXFvvpNedKivgQBrXChtz0j56oRXUE8Y1UviSENb7O4LxxF5ERlc29T6vwuWNWdOZkyzSHpPl+/aR9b/vm/m69XIPC1yPxX0JGdPmzJJ+1zzOcOuPqAm4MmmmO5V+ke9CD6t8COrI1kipHQTa0xaFz5v0JM4SlF4rXwRQWe2FXeliGHy8yFYbv4kLtlJxES/y6tdyBt1TOJesL4/Dnr4B/IFz5i6oqoYen2Akn3peaFaWjyjg4w==;vmVVeU5wUZnFddFCiKolyA=="
 ---
 

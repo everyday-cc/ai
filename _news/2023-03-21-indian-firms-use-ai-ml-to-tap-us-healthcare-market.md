@@ -244,6 +244,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
+    excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2026-speech-and-voice-recognition-market-size-and-industry-share-analysis-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IoT in Healthcare Market worth $289.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The large-scale adoption of medical devices can be attributed to the growing need for cost-effective and efficient solutions for delivering healthcare services ... the internet of things (IoT), and artificial intelligence, have contributed significantly ..."
     publishedDateTime: 2023-03-21T14:40:00Z

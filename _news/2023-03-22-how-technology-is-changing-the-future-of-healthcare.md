@@ -19,188 +19,144 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of AI In Banking"
-    excerpt: "What are the obvious use cases for LLMs in banking, and what do banks need to consider before leveraging them?"
-    publishedDateTime: 2023-03-20T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
+  - title: "Who’s Using Facial Recognition Technology?"
+    excerpt: "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ..."
+    publishedDateTime: 2023-03-21T04:26:00Z
+    webUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html"
+    ampWebUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "GitHub unveils Copilot X: The future of AI-powered software development"
-    excerpt: "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests."
-    publishedDateTime: 2023-03-22T14:30:00Z
-    webUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/"
-    ampWebUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: The New York Times
+      domain: nytimes.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all"
-        width: 1199
-        height: 673
+      - url: "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says"
-    excerpt: "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,"
-    publishedDateTime: 2023-03-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/"
+  - title: "FG Set To Install Facial Recognition Technology At Major Airports"
+    excerpt: "The Federal Government has revealed its plans to install facial recognition technology at major airports across the country. Clem Agba, the Honourable Minister of State, Budget and National Planning, made this known on Wednesday when he hosted the Japanese ..."
+    publishedDateTime: 2023-03-22T22:23:00Z
+    webUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html"
+    ampWebUrl: "https://www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
+    cdnAmpWebUrl: "https://www-informationng-com.cdn.ampproject.org/c/s/www.informationng.com/2023/03/fg-set-to-install-facial-recognition-technology-at-major-airports.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: INFORMATION NIGERIA
+      domain: informationng.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200"
-        width: 1200
-        height: 1200
+      - url: "https://www.informationng.com/wp-content/uploads/2023/03/MMIA.jpg"
+        width: 700
+        height: 420
         isCached: true
-  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
-    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
+  - title: "Airport gets facial recognition technology"
+    excerpt: "Cameras installed at the Jinnah International Airport equipped with facial recognition technology have been made operational, with the Federal Investigation Agency (FIA) and the Civil Aviation Authority (CAA) to manage it jointly. The surveillance system ..."
+    publishedDateTime: 2023-03-24T06:02:00Z
+    webUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology"
+    ampWebUrl: "https://tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2407828/airport-gets-facial-recognition-technology?amp=1"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
     images:
-      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
-        width: 1600
-        height: 902
+      - url: "https://i.tribune.com.pk/media/images/1857356-facialrecognitionx-1543564330/1857356-facialrecognitionx-1543564330.jpg"
+        width: 640
+        height: 426
         isCached: true
-  - title: "The dirty secret of artificial intelligence"
-    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
-    publishedDateTime: 2023-03-23T17:31:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
+    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
+    publishedDateTime: 2023-03-21T16:44:00Z
+    webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 59
+      name: ABC7
+      domain: abc7.com
+    quality: 54
     images:
-      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The universe is getting a weigh-in thanks to AI"
-    excerpt: "A decades-old equation to measure galaxy clusters just got a valuable update thanks to artificial intelligence."
-    publishedDateTime: 2023-03-23T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-galaxy-weight/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-galaxy-weight/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-galaxy-weight/?amp"
+  - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
+    excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
+    publishedDateTime: 2023-03-22T12:12:00Z
+    webUrl: "https://www.sixthtone.com/news/1012550/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 54
     images:
-      - url: "https://www.popsci.com/uploads/2023/03/23/NGC2841_Astrobin.jpg?auto=webp"
+      - url: "https://image5.sixthtone.com/image/5/65/75.jpg"
         width: 2000
-        height: 1125
+        height: 1000
         isCached: true
-  - title: "UT preps students for the future of artificial intelligence"
-    excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
-    publishedDateTime: 2023-03-24T03:00:00Z
-    webUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/"
-    ampWebUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+  - title: "Govt to install facial recognition technology at airports"
+    excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
+    publishedDateTime: 2023-03-23T08:45:00Z
+    webUrl: "https://thenationonlineng.net/govt-to-install-facial-recognition-technology-at-airports/"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 57
+      name: The Nation Newspaper
+      domain: thenationonlineng.net
+    quality: 54
     images:
-      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/AP23080575494759.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2023/03/23094446/facial-recognition.jpg"
+        width: 500
+        height: 277
         isCached: true
-  - title: "3 AI Stocks to Buy Sitting in the Sweet Spot"
-    excerpt: "AI is here to stay and will transform various industries ... Because of the partnership, Microsoft Azure became OpenAI’s exclusive cloud provider. In January 2023, Microsoft furthered its commitment to OpenAI with a new multiyear, multi-billion-dollar ..."
-    publishedDateTime: 2023-03-23T10:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-buy-sitting-in-the-sweet-spot-msft-tsm-anet-1032187235"
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
-    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
-    publishedDateTime: 2023-03-21T12:43:00Z
-    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 46
-  - title: "The Future of State-Sponsored AI Research in China"
-    excerpt: "An intelligent robot in the AI-themed smart park, featuring artificial intelligence (AI) applications from Chinese search engine giant Baidu, in Haidian District ... The two main organizations driving the advancement of generative AI technologies are ..."
-    publishedDateTime: 2023-03-24T16:20:00Z
-    webUrl: "https://thediplomat.com/2023/03/the-future-of-state-sponsored-ai-research-in-china/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-24-150332.jpg"
-        width: 600
-        height: 453
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Look: Stunning Photos Show Dubai's Museum Of The Future Re-Imagined By Artificial Intelligence"
-    excerpt: "Dubai's Museum of the Future is the most beautiful building in the world. And now, artificial intelligence has reimagined the torus-shaped structure in ways not thought possible previously. The Government of Dubai's Media Office has shared some stunning ..."
-    publishedDateTime: 2023-03-22T08:44:00Z
-    webUrl: "https://menafn.com/1105834654/Look-Stunning-Photos-Show-Dubais-Museum-Of-The-Future-Re-Imagined-By-Artificial-Intelligence"
+  - title: "FG to install facial recognition technology at airports"
+    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
+    publishedDateTime: 2023-03-22T19:39:00Z
+    webUrl: "https://punchng.com/fg-to-install-facial-recognition-technology-at-airports/"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 34
+  - title: "UMich respiratory therapists and technologists seek union recognition"
+    excerpt: "it comes down to things like having that voice in our staffing ratios, in our scheduling policies, our PTO and vacation leave,” Wells said. Shannon Beadle, a respiratory therapist at Mott, emphasized the ways in which union recognition with SEIU would ..."
+    publishedDateTime: 2023-03-24T01:15:00Z
+    webUrl: "https://www.michigandaily.com/news/administration/umich-respiratory-therapists-and-technologists-seek-union-recognition/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 24
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2023/03/Untitled_Artwork-copy-1.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
+    excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
+    publishedDateTime: 2023-03-21T13:20:00Z
+    webUrl: "https://menafn.com/1105828120/Human-Rights-Activists-Raise-Concerns-Over-Misuse-of-CCTV-Facial-Recognition-Technology-in-India"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/22/KT_da453image_story.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Harnessing the power of AI today"
-    excerpt: "The world is abuzz with artificial intelligence. It’s reshaping the world as we know it, accelerating innovation and growth right before our eyes, and this will only continue in the months to come."
-    publishedDateTime: 2023-03-20T16:00:00Z
-    webUrl: "https://www.philstar.com/opinion/2023/03/21/2253140/harnessing-power-ai-today"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "In the wake of ChatGPT, the race for artificial intelligence is on"
-    excerpt: "Google, Meta and the Chinese company Baidu are speeding up the release of software and tools capable of generating texts"
-    publishedDateTime: 2023-03-20T15:42:00Z
-    webUrl: "https://www.lemonde.fr/en/economy/article/2023/03/20/in-the-wake-of-chatgpt-the-race-for-artificial-intelligence-is-on_6020062_19.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 39
-    images:
-      - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
-        width: 1440
-        height: 960
-        isCached: true
+    quality: 21
 
 secured: "M+dMelJdbfhu3ZeJf/ckw1STZQZuNrFPzM0eA61dUw00hpbpmRPKA6uUM1AYOyELCJ6bCriO5pcjtECUudd42qhskdpLZiGHkFR3Lc4Ghiwl2OD6DAeQxHdVGeKXfwMXO5WE3/Jhpj2E88qzE0tScTA/BPZkPbRK6EglK4OYjG9X9JjzzET5vDSyYfyChjgQAMHBFJX91P0TyHJTghSFEq6tb5ofEpe8vCKvhF3qclDwYgwqELP/kQ+PQ6N33sfFV3mDSbj5QGpJN79uzv0Th2ByLq73M+wwawzpv/9/allqG8Lzommoov1ZgrMXsPcM7bOqVvjWgTO7hOLyPqRzIzdUC/PbTIWYu5qPDuyVvvx0bfNSmMv1mAtFsqvUZg3+6fxKJs/q+bNKtDNfkVGhBmkMNgAMS26iwl9VoKypMW3WJfaczme2zFcPlzLarbTRpCZ7BNEBE/rN0GQhdrI9xZSvqy1Sts+/KLyFNZ4ANuyzKB6fBiZ93Zb/D7GoNs/Pfn3UeDVXHhnD9o6CugLC3w==;9MRjModGsgKnUCgrbQcVqQ=="
 ---

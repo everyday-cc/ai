@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-
 webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Law
@@ -25,40 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI Turning Me Into an Obsolete Machine?"
-    excerpt: "Artificial intelligence is advancing at a superhuman pace ... But it can also be applied to myriad other purposes. Start-ups are using GPT-4 to, among other things, instantly draft lawsuits against tele-scammers, teach foreign languages, and describe ..."
-    publishedDateTime: 2023-03-24T13:19:00Z
-    webUrl: "https://nymag.com/intelligencer/2023/03/gpt-4-chat-gpt-ai-jobs.html"
+  - title: "China’s AI ambitions hindered by funding and chip import issues"
+    excerpt: "China’s tech giants are facing significant hurdles in their race to develop and dominate the artificial intelligence (AI) market, with censorship and a US clampdown on chip imports impeding progress. Last week, Baidu, one of China’s leading search ..."
+    publishedDateTime: 2023-03-25T06:03:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 19
-  - title: "City Tech Chemistry Professor Creates Innovative Tool for Distance Learning Being Used at Educational Institutions Across the U.S."
-    excerpt: "but in fact a valuable approach to providing deep learning in science and engineering and expanding educational access. \"Our mission is to enable students to learn anything, everywhere. The pandemic challenged us to design educational experiences that were ..."
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31443012/city-tech-chemistry-professor-creates-innovative-tool-for-distance-learning-being-used-at-educatio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31443012"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31443012"
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
+  - title: "BYD invests in China AI chip startup"
+    excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
+    publishedDateTime: 2023-03-24T07:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
+      name: Digi Times
+      domain: digitimes.com
+    quality: 56
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://img.digitimes.com/newsshow/20230324pd207_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "New Ways to Intelligently Generate Language to Exacting Needs and Standards Using AI"
-    excerpt: "Apostroph perfects AI-enabled text generation with apoWRITER, an app steps ahead of other tools for multiple uses, including localization."
-    publishedDateTime: 2023-03-21T14:00:00Z
-    webUrl: "https://slator.com/intelligently-generate-language-to-exacting-needs-standards-using-ai/"
+  - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
+    excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."
+    publishedDateTime: 2023-03-22T09:10:00Z
+    webUrl: "https://techxplore.com/news/2023-03-chip-war-censorship-hobble-chinese.html"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 12
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/baidus-ai-chatbot-has.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "DUCCOwS25im8syQ9Cirpg1FHq7E1ClSOiB5sZXyKab8Vb5gblqpZvufnR1KwsB086BbZ5EzUyrH6wUlC+3X680PeS31rEROa4rATbSi0lDu7f5zZHHVJNKVGgOw5mNsBIXRxKk/KYYH7BZLItDMR5y/0qGG9i/K+LZl35+40PADUF8A4SLieSoBx2umysOYdXpF3SabuXAxQsir3k+QkuCqfFPMVvE64VQ8iOjJ51YDAriOBluSuzK9goOFJyLKALZYDxJiWYjGOjR9D8D2Fso+03Avld8KLkKI9enev30S4qggletTdGuhLM19B+fhaC5f4ZNn41hUUB6+3aOuBShqrIxb6z4vi+08HM8cIt8NNbol80Qof69wkNJ2m2C7QdiRJNowyQwnGqL+soB/HDBgDTh2cZL8qIjx4fK46BZpE8ea/YmdhunJSSpMxagFw+MoCgn986J8fxnnjTVVPl9wjOE90DWpnO1tInY/m36WTH8JxG9Zi1j/CrPvf7XPw/vHqsBRmGKlUDfqxqobNTQ==;6srNpQpV9jcr8mA7kxY2Tw=="
 ---

@@ -75,22 +75,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "A supermarket's use of face-scanning and voice-recording technology to prevent thieves has sparked privacy concerns."
-    publishedDateTime: 2023-03-20T13:24:00Z
-    webUrl: "https://6abc.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 56
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
     excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
     publishedDateTime: 2023-03-22T12:12:00Z
@@ -165,6 +149,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
 
 secured: "7IC7mqTBPytEBkRV0tSdbPq634VR/Q6f4xPtQh0YLhMgWkIzNg6tpNYBmiFcTLMrO40oBO69oH1SBO+KofHD+0O9972OEmeLwO9BqeomUaMSuGAr1Brk4/Rk0jySI0y41G5ISonZ0cmCDUABG+O7WhCXUwoPZl6X2QtLY+qLELG4GHkqv2AsM5jdI3AY9gialfIrUjcLrAHybKiCOTCwporj+f6un2j5mDlIMoOnfewto9UcY2ucFpEgsdkOn9j5/BGK2a+2IIqsIVxf+IY20cVBdy/qDMoGH8RDwgztPeA6X4TuzA7M1S3AEMP0NwtpWkiZKoULHInrs7CQl0GL9PrzK3KFmCtBHhbN3/SUZIFPogJhcfhbv1HsW60rcb4V9KIaO+OCqQHqDeFsvsHSf7XsiIgigNPqbqenNZR4ak2yVHHwZ3yciAyvWVgpbs0SoY7LsNBI/EHloYzX7aC9njCI2K8+Mmt3d2zprbkp1OgtKVxm/husjRAGaD4CDnUyhNvZ5/rjusN2395uIUDEmw==;kWxR9DBZHxLqIjZ85jhjjQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/runway.png"
         width: 2920
         height: 1602
-        isCached: true
-  - title: "Iterate.ai Brings Generative AI Capabilities to Interplay, the Low-Code Platform Accelerating Customers' Digital Innovation"
-    excerpt: "Interplay’s new generative AI capabilities unlock even faster digital innovation while— importantly—enabling companies to always own their IP with custom AI models. Paired together, Interplay’s low-code environment and generative AI give customers what they need to rapidly implement the most cutting-edge AI capabilities that would otherwise require significant resource investments and complex coding."
-    publishedDateTime: 2023-03-20T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/20/9779378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/cdcf9bd9-06ee-4d7a-bb98-e9f595cab5f5"
-        width: 939
-        height: 466
         isCached: true
 
 secured: "LAqQAO63mkuG2hU+/02W84aVTSyv4hNfCsG4P+kjrjbStKwUOUtsRTofd6N9nW8AJUnGTLHuyr64ucqhFRh1jX3CTaL6ZXxTqKBaBIePXoUuV336E8nIxo/UCvshzi7oitxcH6uXCvaNuQTV7ASzKr29EGLSzYkXcgdSsUK9ChR0rTg0jRR+YpgRFaz1cuEgJDsLMZBWE8KuvIPmYNK4YTEdvtT5en/3RBq+zPSjQLf0EkEHp7mMxv9EYIgX5lktzNm1DUMmIWhN/VtkLc3A93ffUydhejo9TpuEiuaINPT3Bb74IJfiAalqX9qRq1fKvchHLDBnxQoIEOSQMmTYXY//w9jyWWBSJGFy25qU0aQt2uTCFfhFLov8l4gUIQ+zTNSH5sEpSE44imNKROqYOcLe8q3GRzIlR5JpIhU5AIe/7+ROTurw3j13rDq1dCL/l87knxdSWhraJEVJMS3g4kw5z4tx/g1/9Od5/vhY+4k+H3gmTqajMS25a7Ql0AHZ65ONyEQbDJv7y7YvfQrTOA==;DMt451vu0LgdtptUbkHIbg=="

@@ -222,6 +222,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia turns to AI cloud rental to spread new technology"
+    excerpt: "Huang said Nvidia was also working with Microsoft and Alphabet Inc (GOOGL.O) to offer its supercomputers, used to create new AI products, as a service. Nvidia on Tuesday announced new chips and ..."
+    publishedDateTime: 2023-03-21T21:26:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-set-reveal-new-ai-technologies-annual-conference-2023-03-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/XJt3E7YrrE6OCj0GDrbpdRo2CIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AMJ7RHVKFM75D2HO4GJCMFIOQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NVIDIA goes all in on AI, shares progress at GTC"
     excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
     publishedDateTime: 2023-03-22T21:17:00Z
@@ -598,15 +612,6 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
-    quality: 19
-  - title: "Nvidia turns to AI cloud rental to spread new technology"
-    excerpt: "the world’s leading acceleration software suite for development and deployment of AI. NVIDIA is partnering with cloud service providers to host DGX Cloud infrastructure, starting with Oracle Cloud Infrastructure. Microsoft Azure is expected to begin ..."
-    publishedDateTime: 2023-03-21T19:19:00Z
-    webUrl: "https://infotechlead.com/networking/nvidia-turns-to-ai-cloud-rental-to-spread-new-technology-77466"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
     quality: 19
   - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
     excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."

@@ -420,15 +420,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
-    excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/railtown-ai-technologies-inc.-announces-release-notes-copilot-released-on-microsofts-azure-marketplace-1032178775"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "How AI experts are using GPT-4"
     excerpt: "Several leading AI companies had major product releases. Google said it was giving developers access to its AI language models, and AI startup Anthropic unveiled its AI assistant Claude. But one announcement outshined them all: OpenAI’s new multimodal large language model,"
     publishedDateTime: 2023-03-21T11:05:00Z
@@ -445,20 +436,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Nuance, Microsoft bet big on GPT for healthcare"
-    excerpt: "Microsoft's engineering and market resources and the scale of the Azure cloud, paired with Nuance's long-standing experience in healthcare and its commitment to patient data privacy and responsible use of AI,"
-    publishedDateTime: 2023-03-20T14:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/nuance-microsoft-bet-big-on-gpt-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
     excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
     publishedDateTime: 2023-03-23T16:55:00Z
@@ -473,17 +450,15 @@ related:
         width: 680
         height: 357
         isCached: true
-  - title: "Microsoft, Nuance Announce AI-Automated Clinical Documentation App"
-    excerpt: "The new app from Microsoft and Nunace uses conversational, ambient, and generative AI to complete clinical documentation in seconds."
-    publishedDateTime: 2023-03-20T17:00:00Z
-    webUrl: "https://ehrintelligence.com/news/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
-    ampWebUrl: "https://ehrintelligence.com/news/amp/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
-    cdnAmpWebUrl: "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/microsoft-nuance-announce-ai-automated-clinical-documentation-app"
+  - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
+    excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
+    publishedDateTime: 2023-03-24T21:23:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/smart-office/microsoft-just-launched-a-notion-ai-competitor-called-loop-heres-how-you-can-access-it/"
     type: article
     provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 55
   - title: "Nvidia teams up in Microsoft Azure pact"
     excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
     publishedDateTime: 2023-03-22T11:55:00Z
@@ -535,20 +510,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 51
-  - title: "Railtown AI Technologies' app using AI to streamline software updates debuts on Microsoft's Azure Marketplace"
-    excerpt: "Railtown AI Technologies Inc (CSE:RAIL) announced that the first of its AI-powered Co-Pilot solutions is available for purchase in Microsoft's Azure Marketplace. The company’s Release Notes Co-Pilot is now available by paid subscription to over 400,000 ..."
-    publishedDateTime: 2023-03-20T13:39:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1009556/railtown-ai-technologies-app-using-ai-to-streamline-software-updates-debuts-on-microsoft-s-azure-marketplace-1009556.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 50
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC8yMDIyLTEyLTEzLTA5LTE4LTA0LTlkOTFiY2EzNWU0NWZhYjBiMzI2ODA2NzNjN2U5ZWFkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
     excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
     publishedDateTime: 2023-03-22T05:39:00Z

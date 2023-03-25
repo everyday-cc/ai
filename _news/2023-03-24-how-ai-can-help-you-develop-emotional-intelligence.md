@@ -69,24 +69,20 @@ related:
         width: 1350
         height: 899
         isCached: true
-  - title: "Intelligent robots of the future will move and learn with us thanks to IntelliMan"
-    excerpt: "The new European project coordinated by the University of Bologna will develop advanced robotic systems controlled by artificial intelligence that will be able to learn the skills needed to interact with people,"
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/983240"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
   - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
-    excerpt: "Phenom, the global leader in Intelligent Talent Experience, today announced its high-volume hiring solution has earned the Business Intelligence Group's 2023 Artificial Intelligence Excellence Award for AI innovation and applying its ability to solve organizations' biggest recruitment challenges in a highly competitive talent market."
-    publishedDateTime: 2023-03-23T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782555.htm"
+    excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
+    publishedDateTime: 2023-03-23T15:17:00Z
+    webUrl: "https://www.eagletribune.com/region/phenom-high-volume-hiring-earns-2023-artificial-intelligence-excellence-award-by-business-intelligence-group/article_901fe5c6-62e4-5c2d-819e-7e96f7c8c45c.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/cd/2cd0109d-3ddb-5573-9709-2b5184980159/641c6bb5545ab.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QlaoXSws6G6kfh3ejD6wLe3SJrlE9fSP3eXCqUgM4PevaTKWUjAi20Ssj7sRvUhT8DwzuooCkxT5z6NPwd4WSWMkIRsriZn6cV4t75B9aT8xK+e1kiuVTCeioQ1MbL0bEbtszDbiJDg5HjMN9l/8wO+/pcil8eZC3xwwmegRrCgaeR6rQdsOZAeJ0mjhn+BUIBd3JIBS5v7Xw+OTr1m0k61T+tMzNRPH6sL4LinGmzHDYEckWoi98ySBt+btFyNAJv+Xqp2/Nn8ceYarBST6tOoC1ErfBLqqqepk5iwrl/JzI5FhpBHBqNy8CnvMO+mw97y2tOLCDu8hOfthhV42qON3D4OeMfsjlOOUd2hAidZmxDkOWbaT00FM32ANPcF53z0yljynXqE3VDanrGlXpHb+Aw6luCjVZyO9MIfSRS/7t8s9++MLa6hQsqObdcicJcsavzjNutyNfN5DpVxlkvo61boE++yHy6cusf3xGENUWdlWtQd2LbgY38adA2c8keu5v9OSxQl3mEgEtnE++A==;aKh8YR9tUt5mCCI7VBhTRg=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Meet Leah, ContractPodAi's New Hub of Legal AI Services"
-    excerpt: "ContractPodAi, the award-winning AI-powered, contract lifecycle management (CLM) platform, today announced the launch of Leah, its new AI services hub that represents a generational shift in the way CLM is delivered."
-    publishedDateTime: 2023-03-20T14:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meet-leah-contractpodais-new-hub-legal-ai-services-/2023/03/20/9779721.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "0UlpABNAjC36t3KfTi1NteQPvDWgU61FLsW0m1ZK6pqwhJHfABhHNF22rP6nH0VwiwXaNgtIpgwRsGOE+kdzWgIwiVrWAiJ2ISW31+ifm9eFEC7SOVwQb3SC1w7+cUMEcLVNTMBiviun7GFPqvLediwYcY63oFmDBArRDH6u2JogzLFOwNaT73CRK+QHkpKUOl3FBrs5gpyz7OCX8e2dIt5SIekhpt0rvqLB67lgIBrQ4/qiZs++FKh/GEAMUasZlEDq0XtYoJhU3+nz6m9EUdSgXFmAajoVsdEbNDPh5hA/Sb8zE3wMdc5INOoVnMOEUdNKE8mLnSk8KZ8wgIbM+dI35+WuWoTzVIvwMxhzfDpIYdk+i2w5f1UL0VeT0hiDL53Dz/zYj9y6a8enWbLYLaqyk9gVv/j0cirvWU01sR2RjRIQTp+1Dx1OD9E+vvcENJLgR5ZUa/P65UVpL1dxU1yBi+DJpN6weTbi0PEz2dHJJKoCtXSivtfiXbqRRsyOSrMG0g/rG5+W42QA0sSq2A==;tKvHRcSnV0DFODS7OWZwrQ=="
 ---

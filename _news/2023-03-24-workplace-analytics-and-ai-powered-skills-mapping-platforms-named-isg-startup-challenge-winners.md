@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning"
-    excerpt: "Chief data and analytics officers must lead upskilling initiatives in data science and machine learning - SiliconANGLE"
-    publishedDateTime: 2023-03-20T13:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/20/chief-data-analytics-officers-must-lead-upskilling-initiatives-data-science-machine-learning/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/binary-2372130_1920-geralt-pixabay.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Grid Dynamics Achieves AWS Data & Analytics Competency Partner Status"
     excerpt: "The AWS Data & Analytics Competency differentiates Grid Dynamics ... big data, analytics, search, artificial intelligence, cloud & DevOps, and application modernization. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using ..."
     publishedDateTime: 2023-03-23T12:52:00Z
