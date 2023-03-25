@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "How AI Can Help You Develop Emotional Intelligence"
+    excerpt: "Emotional intelligence—or the ability to recognize, understand and manage one's own emotions and those of others—is a critical skill for effective leadership. Fortunately, advances in artificial intelligence (AI) are making it easier than ever to improve emotional intelligence."
+    publishedDateTime: 2023-03-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/03/24/how-ai-can-help-you-develop-emotional-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62178c7d50cdde4206ea4192/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is GPT-4 already showing signs of artificial general intelligence?"
     excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
     publishedDateTime: 2023-03-24T15:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/the-future-of-ai-in-banking/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -206,20 +206,6 @@ related:
       - url: "https://img.lemde.fr/2023/03/17/1/0/5997/3998/1440/960/60/0/0074286_1679041723766-816483.jpg"
         width: 1440
         height: 960
-        isCached: true
-  - title: "The Future of Data Science Lies in Automation"
-    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
-    publishedDateTime: 2023-03-20T09:58:00Z
-    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 24
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
-        width: 976
-        height: 400
         isCached: true
   - title: "How Technology is Changing the Future of Healthcare"
     excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."

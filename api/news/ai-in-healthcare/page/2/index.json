@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-10-accelerating-drug-development-to-keep-pace-with-drug-discovery.md",
+      "title": "Accelerating Drug Development To Keep Pace With Drug Discovery",
+      "excerpt": "Pharma is under pressure to move faster. Following the speed at which Covid-19 therapies came to market, there is a growing urgency to shorten drug development timelines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffc53a3d743a470c25b0e9b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/10/accelerating-drug-development-to-keep-pace-with-drug-discovery/amp/",
+      "publishedDateTime": "2023-03-10T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-cognitive-behavioral-therapy-offered-to-help-curb-violence.md",
       "title": "Cognitive behavioral therapy offered to help curb violence",
       "excerpt": "(WSMV) - Dozens of non-profit leaders, first responders, and community members are receiving cognitive behavioral ... families through three tiers of services, education and empowerment.",
@@ -1304,58 +1356,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
-      "title": "AI-Driven Medical Care? A Health Data Reality Check",
-      "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fcd9130c056943e7dc82c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "publishedDateTime": "2023-02-27T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-20-how-ai-powered-video-enhancement-is-transforming-real-time-communication.md",
+      "title": "How AI-Powered Video Enhancement Is Transforming Real-Time Communication",
+      "excerpt": "Social media, entertainment, mobile gaming and the metaverse are all finding new ways to incorporate AI-powered video enhancement technology to enhance the user experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63875816f331e568f2c8a8ba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/",
+      "publishedDateTime": "2023-03-20T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-the-state-of-self-driving-cars-autonomous-advances.md",
+      "title": "The State of Self-Driving Cars: Autonomous Advances",
+      "excerpt": "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "originalUrl": "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-20T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029.md",
       "title": "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029",
       "excerpt": "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence",
@@ -1093,101 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-facial-recognition-software-gives-90-verdict-on-julia-wendells-claim-she-is-madeleine-mccann.md",
-      "title": "Facial recognition software gives '90% verdict' on Julia Wendell's claim she is Madeleine McCann",
-      "excerpt": "A near-conclusive verdict of whether Polish woman Julia Wendell is Madeleine McCann has been reached after a Swiss company used facial recognition software. Julia, who made headlines with the claim that she Madeleine earlier this year, is awaiting results ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "originalUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article29492714.ece/ALTERNATES/s1200/1_JW.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/facial-recognition-software-gives-90-29492545.amp",
-      "publishedDateTime": "2023-03-18T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Record",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work.md",
-      "title": "GeekWire Podcast: SVB aftermath; the ‘affliction’ of remote work; and Microsoft puts AI to work",
-      "excerpt": "We catch up on the latest on the Silicon Valley Bank collapse, and consider the long-term implications of the bank’s meltdown on the startup ecosystem and the ... We consider the potential of AI to change the way we work, the competition between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-svb-aftermath-the-affliction-of-remote-work-and-microsoft-puts-ai-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-18T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

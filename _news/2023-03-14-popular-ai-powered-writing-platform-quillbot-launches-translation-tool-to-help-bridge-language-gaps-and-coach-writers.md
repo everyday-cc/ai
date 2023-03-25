@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers"
-excerpt: "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ..."
-publishedDateTime: 2023-03-14T13:17:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap"
+excerpt: "With 30 million users worldwide, QuillBot is one of the fastest-growing writing tools available for language learners CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the ..."
+publishedDateTime: 2023-03-14T09:16:00Z
+originalUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
+webUrl: "https://www.marketwatch.com/press-release/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers-2023-03-14"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Sug5aLHO4q4RT3mQRVdgvAiFhE2tKDHmWLwDwNmCX6JXwM1cFZ8mM8qn+yXQAEIf+AVjMkLc1EEQeTQUpcmLLv5uDb2vNEGTzaDkt2PchaiBEft3xVIQ8t7nZJ/FMzmIrnTMqMUtM8WWV739zlrgP5JsgbQAUjT1goYvjcxsnNrAIeQEHtvxGnFtU2JjOZcaM/uz26lv+RytG8OwRD4HB18fz4dh6idtGAYFH7AvknUKCktYXL94UQ89LKpKWgIXGioV/duv+fI97nqbE40qOEjXy1uXjKKCKM2p5nSwfOiCJ4NdLSbRk/6ts4PbKo3rHMmiKGMslfvmhyb9SK2y3+Xl/CYdj+zhE6UH6oOYIY4=;1a0AAGuZCJg+Aov2gybVUw=="
+secured: "6QRb2+oF/rioA1yVH712+MEmI+oMqL8YPBgej00EmaweCwLRlcP7LD8VJ+t3QvbZjGrTcWJ70av4VaqnpSM2XTCP8dKh22MMk0YnEgwyY5C4xE/GBROZeTl8UmTEM5KnMC/t/ZrSVZPVYrBLo/apzPBGflLG4/twP/Zq3ncbjZl4b+VEYPvUacFyXkwowhZrghdrfmVAS6Uabhev2wUAuyyyIdU9w8YKAWtYKcdWv1LkHNGb7yk7KyN3Nxq6XoAOW6WPqBbRDCf2RMWNsbHSTYzx9rq9cqu0bmeykmrd8eD4Jte/QM1NZuyq27PwajjDrvJLHSUkJ1zy3B9ZtRIDsutrQAFNaWMCI0YJn1sLPzM=;T4CcYOqgMgMR5mEj9LJd/Q=="
 ---
 

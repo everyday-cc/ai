@@ -2,6 +2,111 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-03-02-aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion0-0.md",
+      "title": "AWS is building a new Infrastructure Region in Malaysia with an investment of $6 billion0 0",
+      "excerpt": "AWS cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. Last year, AWS had announced plans to invest $4.4 billion in India by 2030 through AWS Asia Pacific (Hyderabad) Region and $5 billion in Thailand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "originalUrl": "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "publishedDateTime": "2023-03-01T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-teslas-optimus-robot-can-walk-now-and-thats-just-the-start.md",
+      "title": "Tesla's Optimus Robot Can Walk Now, And That's Just The Start",
+      "excerpt": "but a human in a robot costume demonstrating what Tesla believed it could build. Fast forward to Tesla's 2022 AI Day, and Tesla's \"rough development\" robot was actually made of metal, plastic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "originalUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/l-intro-1677717157.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-chatgpts-gpu-demand-expected-to-exceed-30000-helping-nvidias-ai-business-boom-wccftech.md",
       "title": "'ChatGPT's GPU Demand Expected To Exceed 30,000 Helping NVIDIA's AI Business Boom' - WCCFtech",
       "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
@@ -1089,101 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-deep-learning-for-safer-driving.md",
-      "title": "Deep learning for safer driving",
-      "excerpt": "CERN and software company Zenseact have completed a three-year project investigating the use of AI in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "originalUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cerncourier.com/wp-content/uploads/2023/02/CCMarApr23_NA_Zenseact.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CERN Courier",
-        "domain": "cerncourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
-      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
-      "excerpt": "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

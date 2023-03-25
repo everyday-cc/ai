@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
-    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
-    publishedDateTime: 2023-03-20T09:03:00Z
-    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
-    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "jLc3DS9HfQFTW/2XfzRmbkCPPwo+hkxGGSm1DEAPJmp8mJXe/ot/mRmAejzzaBu4Jc1JqEgkrpRYysb2ZefZdub4TroWLgM7ilDl7XutJfvkaH+huZPgg3ASfkxNZ9wCHYSDMPCS19VVgdqS06mAa1E7JdDVb8P729LC1Z9cx9DD7PvBVFtCINDLOkvOG6lEEkdsVUYgSFaMwQL+hPDACNUeBJZjz3iUWnD272lkyoc7IaerI60lSAQdlGjm49bkcXFhX0AfN2cNnrQRCgRVBl3jsl4k2YuvkqqooA8QnhWFGcIS0FREaKFZOHRP0xujU2yWp4n6tP47tQQmhq30hnnPkr/lGgwbJ2onAcMMuiA=;g0UYmfj7GlOqdJ2isDFPqQ=="
 ---

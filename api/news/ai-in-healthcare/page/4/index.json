@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-16-these-three-tactics-can-outsmart-artificial-intelligence.md",
+      "title": "These Three Tactics Can Outsmart Artificial Intelligence",
+      "excerpt": "Are you excited or agitated by the non-stop artificial intelligence (AI) hype? If you are a student, you may be thinking that AI can be a time saver or an opportunity to gain a competitive academic advantage. If you're an instructor, the advent of AI means ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-02/0fjd125gk87_pixabay%20used%20with%20permission.jpg?itok=OYSqW6qw",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/motivate/202302/these-three-tactics-can-outsmart-artificial-intelligence?amp",
+      "publishedDateTime": "2023-02-15T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-waking-up-to-the-art-of-the-possible-in-artificial-intelligence.md",
       "title": "Waking Up To The “Art Of The Possible” In Artificial Intelligence",
       "excerpt": "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them.",
@@ -1198,49 +1242,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
-      "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-
 cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://images.perthnow.com.au/publication/C-10104074/651e3340c94fc6b5477eda3ae6d96c4d8a61c7b0-16x9-x0y3w2448h1377.jpg?imwidth=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "'It's practically impossible': Woman who thinks she is Madeleine McCann given '90% verdict' by facial recognition software"
-    excerpt: "A woman who thinks she is Madeleine McCann has been given a near-conclusive verdict after a test by a Swiss facial recognition software company."
-    publishedDateTime: 2023-03-20T09:48:00Z
-    webUrl: "https://www.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 33
-    images:
-      - url: "https://images.lbc.co.uk/images/566555?crop=16_9&width=500&relax=1&signature=ftEYvYvsUh7KWSKR-0vq7c0waNw="
-        width: 500
-        height: 281
         isCached: true
   - title: "Shock twist in Maddie McCann ‘mystery woman’ case after facial recognition comparison"
     excerpt: "Julia Faustyna, who also goes by the name Julia Wendell, failed to match photos of Madeleine in a facial recognition comparison of the two, the New York Post reports. Swiss AI company Ava-X ran photos of Ms Faustyna and Madeleine McCann through its Iris ..."

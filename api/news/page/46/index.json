@@ -2,6 +2,92 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-02-10-machine-learning-and-prognostics-in-cancer-programmes.md",
+      "title": "Machine learning and prognostics in cancer programmes",
+      "excerpt": "Tim Simpson, General Manager of Hologic UK & Ireland, discusses how AI, machine learning and prognostics could revolutionise cancer detection and treatment in breast and cervical cancer programmes The cancer challenge in the UK is deepening – in 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/machine-learning-prognostics-cancer-programmes/152982/",
+      "originalUrl": "https://www.openaccessgovernment.org/machine-learning-prognostics-cancer-programmes/152982/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/02/dreamstime_m_132766078-scaled.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-new-hybrid-machine-learning-framework-extends-range-of-accurate-epidemic-forecasting.md",
+      "title": "New Hybrid Machine Learning Framework Extends Range of Accurate Epidemic Forecasting",
+      "excerpt": "Community leaders and public health officials may soon have more time to plan for Covid and flu outbreaks thanks to a new machine learning (ML) framework that is improving the accuracy of long-range epidemic forecasting. That is exactly what researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
+      "originalUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/EINNs%20Charts_0.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-your-essential-guide-to-generative-ai-chatgpt-via-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights.md",
       "title": "Your Essential Guide To Generative AI ChatGPT Via The Super Bowl, Plus Bonus AI Ethics And AI Law Insights",
       "excerpt": "Those in AI Ethics and AI Law are notably worried about this burgeoning trend of outstretched claims. You might politely say that some people are overstating what today’s AI can actually do. They assume that AI has capabilities that we haven’t yet been ...",
@@ -1073,92 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-machine-learning-predicts-biodiversity-and-resilience-in-the-coral-triangle.md",
-      "title": "Machine learning predicts biodiversity and resilience in the 'coral triangle'",
-      "excerpt": "Coral reef conservation is a steppingstone to protect marine biodiversity and life in the ocean as we know it. The health of coral also has huge societal implications: reef ecosystems provide sustenance and livelihoods for millions of people around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-machine-biodiversity-resilience-coral-triangle.html",
-      "originalUrl": "https://phys.org/news/2023-02-machine-biodiversity-resilience-coral-triangle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-predi.jpg",
-          "width": 999,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-machine-biodiversity-resilience-coral-triangle.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-machine-biodiversity-resilience-coral-triangle.amp",
-      "publishedDateTime": "2023-02-09T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-machine-learning-approach-aims-to-optimize-rare-disease-diagnosis.md",
-      "title": "Machine-Learning Approach Aims to Optimize Rare Disease Diagnosis",
-      "excerpt": "February 09, 2023 - A recent study from Stanford University Human-Centered Artificial Intelligence (Stanford HAI) described the creation of a machine-learning framework, known as POPDx, that aims to enhance the rare disease detection process by predicting ...",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "originalUrl": "https://healthitanalytics.com/news/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-1262239170-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learning-approach-aims-to-optimize-rare-disease-diagnosis",
-      "publishedDateTime": "2023-02-09T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

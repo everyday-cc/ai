@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-16-2-unstoppable-ai-stocks-to-buy-for-the-next-decade.md",
+      "title": "2 Unstoppable AI Stocks to Buy for the Next Decade",
+      "excerpt": "It offers pretrained models for cybersecurity, speech recognition, and other AI use cases. It says 25,000 companies and start-ups are using Nvidia AI. Another sign that Nvidia is positioned to lead this disruptive tech revolution is its multiyear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/16/2-unstoppable-ai-stocks-to-buy-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/724598/artificial-intelligence-investing-algorithm.png",
+          "width": 3416,
+          "height": 2266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-three-ways-digitalization-is-powering-the-future-of-healthcare.md",
+      "title": "Three Ways Digitalization Is Powering The Future Of Healthcare",
+      "excerpt": "1. AI helps make medical systems smarter. Today, 59% of U.S. healthcare executives believe that artificial intelligence (AI) is either “very effective” or “often effective” at improving clinical outcomes. AI can be used in a variety of ways in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ae0e237f3ed51680b90539/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/16/three-ways-digitalization-is-powering-the-future-of-healthcare/amp/",
+      "publishedDateTime": "2023-03-16T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-the-rise-of-ai-automation-in-the-workplace-is-bad-news-for-the-brilliant-jerks-of-tech.md",
       "title": "The rise of AI automation in the workplace is bad news for the 'brilliant jerks' of tech",
       "excerpt": "Brilliant jerks who nobody actually likes working with will have a tougher time after AI automates much of their work. The future belongs to those with people skills.",
@@ -1113,101 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon.md",
-      "title": "Spring cleaning deal: Score a new robot vacuum for 68% off on Amazon",
-      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "originalUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/10/fcd3aa53-35d4-44cc-bd52-e1f2bd60712c/thumbnail/640x360/6720cc2b09b7072dbaca6887fd9ac8bb/screen-shot-2023-02-10-at-3-00-08-pm.png#",
-          "width": 415,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
-      "publishedDateTime": "2023-03-15T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-grammarlys-new-ai-tool-is-more-than-a-spell-checker.md",
-      "title": "Grammarly's New AI Tool Is More Than a Spell-Checker",
-      "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-is-more-than-a-spell-checker/",
-      "publishedDateTime": "2023-03-15T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

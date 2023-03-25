@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Akerman: Labor’s obsession with a race-based Indigenous Voice will trample key tenets of democracy"
+    excerpt: "Camouflaging the Voice referendum as a simple recognition of Indigenous Australians in the Constitution is a massive con, argues Piers Akerman. Camouflaging the referendum as a simple recognition of Indigenous Australians in the Constitution is a massive con."
+    publishedDateTime: 2023-03-25T03:34:00Z
+    webUrl: "https://www.dailytelegraph.com.au/news/opinion/akerman-labors-obsession-with-a-racebased-indigenous-voice-will-trample-key-tenets-of-democracy/news-story/6f90b5485b13436301c0ad24a31c8fa9"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: dailytelegraph.com.au
+    quality: 0
+
 secured: "RNTNqhqd+BzYKNmV811oB6gdE63ikNKHlp8qQ4+/sYIW8wSPTZvekNbZY0RDKHF97pD9MQq3rRGsNnEZ6n/epJ+BnelgFY6QgTr2M6bBj+c+IFaNopi2JsmR47Nh7cF6Y9FLWrSXuI/FbpriU4LLEqLD5JtKB6uyRDXbehm7SZW5Ocm0AZ0drCCWf8KOAYDsaz/C+jSHfI9Y4LQ4j39onaoB+My4smz3JBva7GlGtXhWi4jVItXce5VGi9u+SBD3bm5iYnaYkyVVBlo75pfxBroHjFQhXI8+gxWpWb3kttcnnAZnTC07Qni4dWJOsqtzIEk3uZRzxGwUwHSGUZn4OIKv1LD9I3mpW0ZrYwtxhREvEi1JsLY6Bs8jH9P/+yjU7CzUOF5XY3bGjUvBbWSLcf7nZKZ6PkvFwlrjd5P6t0c7xpuvUIdZeFMAGS6BOL2/KtxHSmuurQJ1zlGaaV3c8OOiXkn6ISaYe50dtmlKLZKHgrZjuFeJlFZiZrAPFRDys8kH7oc4z2Eh2RBTbPPIQA==;MFfg2oopMfvrYiORiUuIWQ=="
 ---
 

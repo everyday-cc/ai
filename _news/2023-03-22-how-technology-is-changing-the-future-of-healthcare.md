@@ -210,20 +210,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Future of Data Science Lies in Automation"
-    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
-    publishedDateTime: 2023-03-20T09:58:00Z
-    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 24
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
-        width: 976
-        height: 400
-        isCached: true
 
 secured: "M+dMelJdbfhu3ZeJf/ckw1STZQZuNrFPzM0eA61dUw00hpbpmRPKA6uUM1AYOyELCJ6bCriO5pcjtECUudd42qhskdpLZiGHkFR3Lc4Ghiwl2OD6DAeQxHdVGeKXfwMXO5WE3/Jhpj2E88qzE0tScTA/BPZkPbRK6EglK4OYjG9X9JjzzET5vDSyYfyChjgQAMHBFJX91P0TyHJTghSFEq6tb5ofEpe8vCKvhF3qclDwYgwqELP/kQ+PQ6N33sfFV3mDSbj5QGpJN79uzv0Th2ByLq73M+wwawzpv/9/allqG8Lzommoov1ZgrMXsPcM7bOqVvjWgTO7hOLyPqRzIzdUC/PbTIWYu5qPDuyVvvx0bfNSmMv1mAtFsqvUZg3+6fxKJs/q+bNKtDNfkVGhBmkMNgAMS26iwl9VoKypMW3WJfaczme2zFcPlzLarbTRpCZ7BNEBE/rN0GQhdrI9xZSvqy1Sts+/KLyFNZ4ANuyzKB6fBiZ93Zb/D7GoNs/Pfn3UeDVXHhnD9o6CugLC3w==;9MRjModGsgKnUCgrbQcVqQ=="
 ---

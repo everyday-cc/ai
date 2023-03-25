@@ -43,15 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
-    excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
-    publishedDateTime: 2023-03-20T09:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eurotech-announces-new-secure-edge-ai-portfolio-complying-/2023/03/20/9779380.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "sqYOH2zJwB/+y7icEcmN52g7Rq3yF98hTcM722aa4A/wZCn4bnu13zp4HGEXNlQLYg3DhucrPAIAz2K7AIDI3cVIbrTgFR/lVzBWnJQ/4ZZ0nSzDiGdmftmH51raT/vSVSvtRdMvSpaOlYNVGSHQmp2vX2eR+WWerJLNCf7ieWs9ZZoGnXT6o1LbDLzypHaprnXFInlDyoRkuzuiSVbAer3c5ieZUvXtAmHxovtzLo10P6b1ma3w2sbhGoVPtbAZQ0NOwcCilAY/DHu14oJT2+Buhhu1QVNA4A9mFkZc/TMLaLWyM9QVP8V+ipc6vAj5PkGHFNquTh59iNOTrKtRhjv21SqxZwDMsyZqrDUsJLk=;/dkIhLEMDmw3yU9gGNMHXQ=="
 ---

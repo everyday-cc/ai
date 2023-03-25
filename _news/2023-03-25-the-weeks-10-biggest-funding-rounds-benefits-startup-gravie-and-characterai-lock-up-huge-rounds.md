@@ -338,20 +338,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
-    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
-    publishedDateTime: 2023-03-20T10:43:00Z
-    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
-        width: 2842
-        height: 1372
-        isCached: true
   - title: "Google's Bard AI chatbot has now been released to the public"
     excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
     publishedDateTime: 2023-03-21T19:42:00Z
@@ -468,6 +454,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "/0/4HIqDdMkqJ1wYYtVddjOVNnpBFulOQh4a7dGo9rbAddi7Im6u+zn+6d08nMYLb37KJoVAp6zKjgntHcWJ82RO+cZbDHpfxEENmVvwl5UtkUdJOwA5Q0pbcQHw6/ncBMpQTCvpRPmcs/2/qO7ys5R45icc9SxB1wygzwQ/BanV3Gqb3Lpf5ecOW9Y1Q5MEbUZmoYwyGQ3ofhcakQd67/TpkDXgaIhGX631YgrRD9Eyu+u/AwxdO7H9wQIyiViLYFU9iWjqANUmiiQUVHG0o5lo3jEYvF4ao2SUfROMayhMnrGg3PBQFL1e2uhSfU76zKnDxJr5tsGBrEM2n8C0S183MRHX8mEeniMyfXI4H4U=;GspwqgZc+IytWJVtsz4m8Q=="
+secured: "bY8Kb3bjjLruDIyiHMEfHg3ElDQFxM2Z7wHW5kDjQfrZmcR7HHv1RH9zAYPm32e3oEqBca0a3jFX+S46bYTGmEdOgTbq4qgw+8EZYvACpUDQt8O0k4Pn4wc5TOQehKd/oN25q2qWdaLwBNH/RzRweN0mC1ygoexceyttkogM5j9mmegVxzDW+8C7EHkGLKAv3hXWhWHVhWunnZsSNmFRzkWBG0i3ftG0h4PXJGfmrgiMVQbdl5S12vRyYyM2ekKuduDBCOBdB1dqA6cTeBR4QffKlOASrJaWt2v7dsBffkQpatSFOeojzON6JhBnMjjlUlURDurhSaiQdtwFTyqrc3vj3sCy32J9cDC8R+0F+LkH4QjVQuYWR9sFyZhI3fhJDmqKN/Ga7RA1Xs9raNGpaXTcbYwsh76BVC4zb3FXT9cFyVj+T9TX+rSnuKghU3J7ht1Zijwgpj8UZIzsrm7bqrTztayOG3uNhtt+sGjf/f+dm/nibjnRB86tRUE9pxxgnciYWo1MSbCd8BUi4R+YQw==;idUGy8Auf8gzbf3WScVAkg=="
 ---
 

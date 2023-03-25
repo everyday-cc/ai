@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "'It's practically impossible': Woman who thinks she is Madeleine McCann given '90% verdict' by facial recognition software"
-    excerpt: "A woman who thinks she is Madeleine McCann has been given a near-conclusive verdict after a test by a Swiss facial recognition software company."
-    publishedDateTime: 2023-03-20T09:48:00Z
-    webUrl: "https://www.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/julia-wendell-given-madeleine-mccann-verdict-facial-recognition/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 33
-    images:
-      - url: "https://images.lbc.co.uk/images/566555?crop=16_9&width=500&relax=1&signature=ftEYvYvsUh7KWSKR-0vq7c0waNw="
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "DjOMKgKZPb1jOyg29VpK0n72B6y5JPZ7AzmksQvJOadELpIgdbAQn6qZqmTFw4LLdnTyAEKorYh9rWZ8z6sE+Mp+NVjLN+puO5eNwvuAkyY6yOzWaM/2SiX8tt+Ub/5A7PjXbI9vcaichgIR048hCPkIZHAtls4fYSFWtvxTpNc+gfjm79X9BFt12Jkupmb3/M0MM/nLete5ZocCvoPxE0Pg5bvoIb2dbZM5m8ff2iiKk3pYv2B6qkLwWc2uYv5jlLO655f4FQLfrvq0AuamsSoi0kCzL/xYwUrTZPteJbuI4Vo55XrKe6+p5FuFdOFR+zvPfoYfM9m7YRhRH59z6AnImbw9qvq57yZ56QlXPMMIcneUdd6iY1P2FltcbxW8OMHEMvoeBu5xr8dOWJh69w0aiPNNU9USxJoNh63HP9CNuUuHwJcjFm6VWBXcoZfRbTK9BYesIST0tiA6msU7V88p+znX+wUbAJdwvNWQPy1ZmHPkPfso0F3RRosslCCZ3+7Lm/YCGxihIkU1GUcMTQ==;UwDOOj/ekH16s9c/UXEXRQ=="
 ---

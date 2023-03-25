@@ -2,6 +2,82 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-01-20-a-chatbot-that-lets-you-talk-with-jesus-and-hitler-is-the-latest-controversy-in-the-ai-gold-rush.md",
+      "title": "A chatbot that lets you talk with Jesus and Hitler is the latest controversy in the AI gold rush",
+      "excerpt": "The Historical Figures app is available in Apple's App Store and lets you chat with notable people from history re-animated by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/chatgpt-gpt-chat-bot-ai-hitler-historical-figures-open-rcna66531",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/chatgpt-gpt-chat-bot-ai-hitler-historical-figures-open-rcna66531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230120-Historical-AI-Chat-jg-aaa290.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna66531",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66531",
+      "publishedDateTime": "2023-01-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google.md",
+      "title": "Agricultural AI Market is Booming Worldwide | IBM, Deere & Company, Intel, Google",
+      "excerpt": "and livestock observing will help to boost global agriculture AI market. The titled segments and sub-section of the market are illuminated below: 24th September 2018, IBM Watson and The Weather ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/agricultural-ai-market-is-booming-worldwide-ibm-deere-company-intel-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-musk-oversaw-staged-tesla-self-driving-video-emails-show.md",
       "title": "Musk oversaw staged Tesla self-driving video, emails show",
       "excerpt": "If there was any doubt that Tesla CEO Elon Musk knew the company's much-watched 2016 self-driving demo was staged, emails obtained by Bloomberg should lay that to rest. \"Just want to be absolutely clear that everyone’s top priority is achieving an amazing Autopilot demo drive,",
@@ -1084,92 +1160,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-how-should-government-regulate-ai-we-asked-a-robot.md",
-      "title": "How Should Government Regulate AI? We Asked a Robot",
-      "excerpt": "Artificial intelligence's potential in the public sector has grown exponentially, as have questions around appropriate guardrails. We interviewed the ChatGPT chatbot from OpenAI to see what it had to say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
-      "originalUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5d1d1b3/2147483647/strip/true/crop/950x495+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe2%2F3d%2F834edc3a810426eb0559d2e2c41d%2Fshutterstock-524344900.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/how-should-government-regulate-ai-we-asked-a-robot?_amp=true",
-      "publishedDateTime": "2023-01-19T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-chatgpt-is-it-possible-to-detect-ai-generated-text.md",
-      "title": "ChatGPT: Is it possible to detect AI-generated text?",
-      "excerpt": "A few weeks after the launch of ChatGPT, a powerful artificial intelligence (AI) chatbot, Darren Hick said he caught one of his students cheating by submitting a robot ... at AI start-up Hugging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "originalUrl": "https://www.euronews.com/next/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/31/50/48/1000x563_cmsv2_586c42f6-6a01-56c8-bc0b-3d0c6e25cf55-7315048.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2023/01/19/chatgpt-is-it-possible-to-detect-ai-generated-text",
-      "publishedDateTime": "2023-01-19T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

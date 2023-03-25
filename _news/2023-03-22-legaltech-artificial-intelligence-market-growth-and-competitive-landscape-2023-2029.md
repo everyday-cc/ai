@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2023-03-20T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition Market Growth and Competitive Landscape 2023-2029"
     excerpt: "Mar 21, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Automatic Speech"
     publishedDateTime: 2023-03-21T04:06:00Z
@@ -70,48 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
-    excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
-    publishedDateTime: 2023-03-24T19:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/spain-machine-learning-as-a-service-market-report-outlook-growth-key-players-revenue-and-forecast-2023-to-2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market Premium Research Report Forecast To 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in Accounting Marketinformation for each End Users [BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing], Product Types [On-Premise, Cloud-Based], Main ..."
-    publishedDateTime: 2023-03-24T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Mobile Speech Recognition Software Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Mar 23, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
     publishedDateTime: 2023-03-23T22:52:00Z
@@ -121,43 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
-    publishedDateTime: 2023-03-23T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
-    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
-    publishedDateTime: 2023-03-21T13:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-  - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
-    excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
-    publishedDateTime: 2023-03-23T22:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-trends-key-players-revenue-growth-and-forecast-2023-to-2031-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -177,15 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
-    publishedDateTime: 2023-03-20T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-statistics-2023-2028-emerging-trends-and-future-growth-scenario-2023-03-20"
+  - title: "Artificial Intelligence and Cognitive Computing Market Analysis: Explosive Growth Opportunity by 2029"
+    excerpt: "Based on the Artificial Intelligence and Cognitive Computing market development status, competitive landscape and development model in different regions of the world, this report is dedicated to providing niche markets, potential risks and comprehensive ..."
+    publishedDateTime: 2023-03-23T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
     excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
     publishedDateTime: 2023-03-23T14:24:00Z
@@ -195,38 +107,47 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
-  - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
-    publishedDateTime: 2023-03-24T10:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-report-global-forecast-from-2023-to-2030-2023-03-24"
+  - title: "2023, Automatic License Plate Recognition (ALPR) Systems Market Latest Research Report by 2028"
+    excerpt: "What are the most significant challenges that the Automatic License Plate Recognition (ALPR) Systems market could face in the future? Who are the leading companies on the Automatic License Plate Recognition (ALPR) Systems market? What are the main ..."
+    publishedDateTime: 2023-03-22T17:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-license-plate-recognition-alpr-systems-market-latest-research-report-by-2028-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
-  - title: "Global AI Accelerator Market [2023-2030] | Gain Valuable Insights with Our Statistical Report"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- Global AI Accelerator Market Status and Prospect | New Report [2023-2030] of 96Pages | Industry report provides an outline of the business with key Types [Graphics Processing Unit (GPU), Vision Processing Unit (VPU ..."
-    publishedDateTime: 2023-03-24T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-market-2023-2030-gain-valuable-insights-with-our-statistical-report-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-  - title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
-    excerpt: "The \"Hospital Logistics Robots Market by Type and Application - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to"
-    publishedDateTime: 2023-03-23T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+    quality: 42
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
+    publishedDateTime: 2023-03-22T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
+    publishedDateTime: 2023-03-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Machine Vision Market Set To Grow At 7.6% By 2023 As Robotics And Automation Penetrates The Manufacturing Industry"
+    excerpt: "Get additional highlights on major revenue-generating segments, Request a global machine vision market sample report at By Type , the 2D vision segment has dominated the physical security market in 2022."
+    publishedDateTime: 2023-03-20T19:34:00Z
+    webUrl: "https://menafn.com/1105816905/Machine-Vision-Market-Set-To-Grow-At-76-By-2023-As-Robotics-And-Automation-Penetrates-The-Manufacturing-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
 
 secured: "Dv0t6hPkIEnzovzOk0b9rBne4/V2WJCdmpGiUVzOg629D+MG3c+EBdSt4VDmfKLdI09tbtZS/Ehtj8nVRtdC1hFZTzBYlqUaOk2zuvAH64Wp3hMBiGK6YPGieUco3HK1kymxpR9NrQzlWVsXfAWvreD0QjSeZbsILoKc8CN0NXRq+IzOwbPQC8jid7/lJD7ayIaXM65T4/ZUFbtzs+0hSg8yUvwsXzEUed91Gqsi4IStJzadKg4usTlIDLCd6k20a4Tv1zRDrIXr9K/Wf9VBivZendTBWGTNvLnj33Cpp1WWqWrILBOiCnOPPjp5ukhYLP58JutDs7ojkCOKcsfDY4qoBsk961AxyAhm77LwX5E=;lLZy5zWFRw9ijhkCEZXvQQ=="
 ---

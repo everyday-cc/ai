@@ -2,6 +2,114 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-01-30-a-new-way-of-doing-artificial-intelligence-uks-mignon-has-a-fresh-proposition-for-ai-on-the-edge.md",
+      "title": "‘A new way of doing artificial intelligence’: UK’s Mignon has a fresh proposition for AI on the edge",
+      "excerpt": "The UK-based startup, Mignon, believes it has developed a new way of doing artificial intelligence. We explore those claims.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "originalUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae",
+          "width": 699,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-chinas-baidu-to-launch-chatgpt-style-bot-in-march-source.md",
+      "title": "China's Baidu to launch ChatGPT-style bot in March - source",
+      "excerpt": "People stand by a sign of Baidu during World Artificial Intelligence Conference, following the coronavirus disease (COVID-19) outbreak, in Shanghai, China, September 1, 2022. REUTERS/Aly Song ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7XcIeiw305KYQR-yBFMGW5zUyO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63ZBO3MYIJLDFBKR3URIVLJH7E.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-what-greek-myths-can-teach-us-about-the-dangers-of-ai.md",
       "title": "What Greek myths can teach us about the dangers of AI",
       "excerpt": "How far should we go with AI? And what are the looming implications of this technology? Three Ancient Greek myths help us give an answer.",
@@ -1136,102 +1244,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-doctors-get-ready-for-your-ai-assistants.md",
-      "title": "Doctors, Get Ready for Your AI Assistants",
-      "excerpt": "Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/",
-      "originalUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ceb6f404fdce858b27a139/master/pass/05_As-AI-health-assistant-at-every-level.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/doctors-artificial-intelligence-medicine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-artificial-intelligence-medicine/amp",
-      "publishedDateTime": "2023-01-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-ai-provokes-many-ethical-questions.md",
-      "title": "AI provokes many ethical questions",
-      "excerpt": "How will AI journalistic writing be slanted? From the point of view of the news agencies or owners? Will dissent ever be tolerated? There are many ethical questions for society and education in particular.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "originalUrl": "https://www.thestar.com/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/star-chevron-16x9.png.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/letters_to_the_editors/2023/01/28/ai-provokes-many-ethical-questions.html",
-      "publishedDateTime": "2023-01-28T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

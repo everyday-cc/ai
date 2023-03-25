@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Tesla finally starts rolling out Full Self-Driving Beta v11"
-    excerpt: "Tesla has finally started the broad rollout of Full Self-Driving Beta v11, a significant update that is Autopilto with the Full Self-Driving Beta software stack. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD ..."
-    publishedDateTime: 2023-03-20T10:17:00Z
-    webUrl: "https://electrek.co/2023/03/20/tesla-starts-rolling-out-full-self-driving-beta-v11/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla engineers tried to convince Elon Musk not to give up radar for self-driving"
     excerpt: "A new report states that Tesla engineers tried to convince Elon Musk not to give up on radar for its Autopilot and self-driving effort. Tesla has a weird history with radar sensors for its Autopilot and Full Self-Driving vehicle programs."
     publishedDateTime: 2023-03-21T15:29:00Z

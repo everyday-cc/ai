@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-ca
 webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Lidar, radar, cameras: The sensors making self-driving cars possible"
+    excerpt: "The disadvantage is that a stereo camera cannot see very far ahead — its maximum range is 80 metres, which is not much when driving fast. So for all-around vision, vehicles need more than just cameras. Radar systems are better at long-distance vision ..."
+    publishedDateTime: 2023-03-25T03:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-cameras-the-sensors-making-self-driving-cars-possible"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/23/1992063.jpeg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
     excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."

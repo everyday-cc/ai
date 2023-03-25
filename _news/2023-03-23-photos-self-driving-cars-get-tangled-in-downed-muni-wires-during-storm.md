@@ -41,6 +41,20 @@ related:
         width: 4000
         height: 2666
         isCached: true
+  - title: "Lidar, radar, cameras: The sensors making self-driving cars possible"
+    excerpt: "The disadvantage is that a stereo camera cannot see very far ahead — its maximum range is 80 metres, which is not much when driving fast. So for all-around vision, vehicles need more than just cameras. Radar systems are better at long-distance vision ..."
+    publishedDateTime: 2023-03-25T03:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-cameras-the-sensors-making-self-driving-cars-possible"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/23/1992063.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
     excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
     publishedDateTime: 2023-03-22T05:11:00Z

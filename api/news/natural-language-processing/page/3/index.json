@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
+      "title": "Everything you wanted to know about AI – but were afraid to ask",
+      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "publishedDateTime": "2023-02-24T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-3-reasons-why-natural-language-processing-will-go-mainstream-this-year.md",
       "title": "3 reasons Why Natural Language Processing Will go Mainstream This Year",
       "excerpt": "Natural language processing (NLP) is the ability of computers to understand human speech terms and written text. Within healthcare, the adoption of NLP is now rising because of its recognized ...",
@@ -1400,49 +1454,6 @@
       "provider": {
         "name": "WGN-TV",
         "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-is-adding-contextual-translations-for-words-with-multiple-meanings.md",
-      "title": "Google Translate is adding contextual translations for words with multiple meanings",
-      "excerpt": "At today's AI-focused event in Paris ... In fact, if you ever tried to use Translate to complete your language homework in high school, you know poorly this sort of thing can turn out. With this contextual upgrade, Google will provide multiple meanings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "originalUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-translate-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
         "images": null,
         "publishers": null,
         "authors": null

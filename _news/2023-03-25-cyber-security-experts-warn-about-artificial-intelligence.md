@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-ar
 cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
-    excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
-    publishedDateTime: 2023-03-20T09:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eurotech-announces-new-secure-edge-ai-portfolio-complying-/2023/03/20/9779380.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "b6KV04H3cOo0et0OP+SGE5tKGvG/nU82ja+g3eYghXiC1g9N8kX9HVKDDV7rFV/y80jRVtEqrmJY4U6ID7oa0d+aLJRwXdVEex5/YqdwC4x8zaiOiDM4Xc8Yc9uqGbwU4YStx9cuFp46TbXeJrvq0A9cz2mN5CBCK2eFJkgN6qcyuA6QHkZcTpS1ysFLYCA/xVe9LvCZCvf1ppwBLjLUli4E2zgQEBHUULiwpqGypngoOlH1SHPdGqy+jvwKla1HpVNSLlQKIZwBacYm4SM17tiszjhv81J2KCrhsjU58t7m8iknvTjPD8Klo/UZ6J3hjWj5gnOMbUWC44lwkULLxlOg44RFUB//tzd3jveTo7s=;uQ4U06EzMEbg6D/xigrSoQ=="
 ---

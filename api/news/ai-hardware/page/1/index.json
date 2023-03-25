@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -58,11 +58,11 @@
       "title": "BYD invests in China AI chip startup",
       "excerpt": "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13",
-      "originalUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13",
+      "webUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10",
+      "originalUrl": "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -92,8 +92,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
       ]
     },
     {

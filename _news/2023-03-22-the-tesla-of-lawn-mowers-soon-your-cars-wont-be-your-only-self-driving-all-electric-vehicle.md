@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Lidar, radar, cameras: The sensors making self-driving cars possible"
+    excerpt: "The disadvantage is that a stereo camera cannot see very far ahead — its maximum range is 80 metres, which is not much when driving fast. So for all-around vision, vehicles need more than just cameras. Radar systems are better at long-distance vision ..."
+    publishedDateTime: 2023-03-25T03:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-cameras-the-sensors-making-self-driving-cars-possible"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/23/1992063.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "EbnyQSb3B1WxD68YxntHZXfSzmBRnrpCpKaYk2hvwtMlSFTUHWf5JxaUCAkbZoFknksq7bMf/dbbqL7H/nLTAoCHzYNwmMcO1HXG4ZT04CHTXmm007rLGp5nS6vVR/MB+/tvCBxlGy4mastOOyDxm8HJHNbYsXwkrPAPncKXbvULaggy8344CvTiWGlHC5inhSl1toA2gSuAgqd1TRsgIDaxx18fFFaFl5xHU2LUoCQYFCpYm12iYKFV+Itf7QyDeO/aC8almopAb16qbzApolj4JQB86MlQ2AQub5KK8Hi1zWQdXZe7Lsd46s7ukxb0W2XLrrBirvA3YNaYzWIJGxod6CjR3RV8Z8YWLLYk+ds=;oV2x2KUhaAb+qVt21sd72A=="
 ---

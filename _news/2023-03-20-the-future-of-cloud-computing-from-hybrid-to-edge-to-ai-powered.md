@@ -204,20 +204,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Future of Data Science Lies in Automation"
-    excerpt: "Julius Černiauskas is the CEO of Oxylabs -- the formerly small startup in the public data collection industry that now employs over 400 specialists. Since joini"
-    publishedDateTime: 2023-03-20T09:58:00Z
-    webUrl: "https://tdwi.org/articles/2023/03/20/adv-all-future-of-data-science-lies-in-automation.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 24
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/binoculars.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "How Technology is Changing the Future of Healthcare"
     excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
     publishedDateTime: 2023-03-21T20:03:00Z

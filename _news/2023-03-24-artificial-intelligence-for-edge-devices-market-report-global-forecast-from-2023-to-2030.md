@@ -23,127 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Security Market Research Report 2023: CAGR Status & Growth Forecast by 2029"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2023-03-20T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-report-2023-cagr-status-growth-forecast-by-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 21, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Automatic Speech"
-    publishedDateTime: 2023-03-21T04:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automatic Speech Recognition Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Automatic Speech Recognition Market” Size 2023 Key players Profiled in ..."
-    publishedDateTime: 2023-03-24T15:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-premium-research-report-forecast-2023-to-2029-2023-03-24"
+  - title: "Computer Vision Software Market | Global Various Tendencies Industry Report 2029"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision Software Market” Size 2023 Key players Profiled in the ..."
+    publishedDateTime: 2023-03-24T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-various-tendencies-industry-report-2029-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
-    excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
-    publishedDateTime: 2023-03-24T19:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/spain-machine-learning-as-a-service-market-report-outlook-growth-key-players-revenue-and-forecast-2023-to-2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market Premium Research Report Forecast To 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in Accounting Marketinformation for each End Users [BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing], Product Types [On-Premise, Cloud-Based], Main ..."
-    publishedDateTime: 2023-03-24T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial"
-    publishedDateTime: 2023-03-22T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023 Mobile Speech Recognition Software Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
-    publishedDateTime: 2023-03-23T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -158,52 +46,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-  - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
-    excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
-    publishedDateTime: 2023-03-23T22:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-trends-key-players-revenue-growth-and-forecast-2023-to-2031-2023-03-23"
+  - title: "2023 Data Science and Machine Learning Service Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Data Science and Machine Learning Service Market Report Contains 2023 ... Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc. We also cooperate with some third-party ..."
+    publishedDateTime: 2023-03-24T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-service-market-size-growth-global-industry-trends-2029-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
-    publishedDateTime: 2023-03-22T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
+  - title: "Artificial Intelligence for Accounting Market | Global Various Tendencies Industry Report 2029"
+    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence for Accounting Market” Size 2023 Key players Profiled in the Report are [, IBM, Google, AWS, Kore.ai, Hyper Anna, Botkeeper, SMACC, Deloitte, YayPay, MindBridge ..."
+    publishedDateTime: 2023-03-24T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-global-various-tendencies-industry-report-2029-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI based Edge Computing Chip Market Statistics [2023-2028]: Emerging Trends and Future Growth Scenario"
-    excerpt: "Mar 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest Research on “AI based"
-    publishedDateTime: 2023-03-20T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-edge-computing-chip-market-statistics-2023-2028-emerging-trends-and-future-growth-scenario-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
-    publishedDateTime: 2023-03-23T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Global AI Accelerator Market [2023-2030] | Gain Valuable Insights with Our Statistical Report"
     excerpt: "Mar 24, 2023 (The Expresswire) -- Global AI Accelerator Market Status and Prospect | New Report [2023-2030] of 96Pages | Industry report provides an outline of the business with key Types [Graphics Processing Unit (GPU), Vision Processing Unit (VPU ..."
     publishedDateTime: 2023-03-24T11:09:00Z
@@ -213,20 +83,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Hospital Logistics Robots Global Market Report 2023: Rising Need for Remote Care Fuels Sector Growth"
-    excerpt: "The \"Hospital Logistics Robots Market by Type and Application - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to"
-    publishedDateTime: 2023-03-23T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31480178/hospital-logistics-robots-global-market-report-2023-rising-need-for-remote-care-fuels-sector-growt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "PXjoq/TMqNkJZgwEpqzoPJ6fjuhbGooPxXaePZsE23qNvLAzdqkrKn0DDQf6Y3YUg9BjiLcSZd/9cMofCClQftTiBv2r3mPrUiY/IotZ8O7IDnWtaaNH0Nw5rlyXKRhcmaYN7HEQvxRAznpWC0gJXHjEAE/kGFKbU+jHzabn3Wq0O4Fzo0g8DWMJ77j4ic5ekjXYtcds/zg63AzCjUlC++zEywescylv6JCkKrzrSyxVFi7Suc8y2xxzO/ce9DTefSOOhQOTxnPg8DVKV9F+TZYlH7RH82fl3M1wxmk5EUNRAjbeyOgWzWClntb/p9i0OdqAnu9aWyT9RfLMeNOACrWUZr0KLlOZXY8eqvf1ZkI=;mQQ0/8H/G2xHQ4iqS1G3lg=="
 ---

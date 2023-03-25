@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/24/bill-gatess-open-letter-suggests-ais-potential-is-both-exciting-and-terrifying/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 guidelines for identifying and mitigating AI-enabled phishing campaigns"
-    excerpt: "The emergence of effective natural language processing tools such as ChatGPT means it's time to begin understanding how to harden against AI-enabled cyberattacks. The natural language generation capabilities of large language models (LLMs) are a natural ..."
-    publishedDateTime: 2023-03-20T09:03:00Z
-    webUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.html"
-    ampWebUrl: "https://www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3690418/7-guidelines-for-identifying-and-mitigating-ai-enabled-phishing-campaigns.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/email-popup-warning-window-phishing-cybersecurity-security-100938566-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Bill Gates says age of artificial intelligence has begun, lists these risks, potential"
     excerpt: "Microsoft co-founder Bill Gates in his latest blog has spoken about a range of topics surrounding artificial intelligence (AI) including how the world can seek its benefits as well the challenges it poses for us. In his blog, posted on ‘Gates Notes’ on ..."
     publishedDateTime: 2023-03-22T05:30:00Z

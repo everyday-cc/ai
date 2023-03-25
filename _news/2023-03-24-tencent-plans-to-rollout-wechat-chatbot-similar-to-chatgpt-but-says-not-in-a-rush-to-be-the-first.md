@@ -337,20 +337,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Kai-Fu Lee founds new AI startup to build ChatGPT-like apps for China"
-    excerpt: "Kai-Fu Lee, former president of Google China and now CEO of Sinovation Ventures, announced on Monday that he’s building a new AI company."
-    publishedDateTime: 2023-03-20T10:43:00Z
-    webUrl: "https://technode.com/2023/03/20/kai-fu-lee-founds-new-ai-startup-to-build-chatgpt-like-apps-for-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2023/03/螢幕截圖-2023-03-20-下午6.05.09.png?fit=2842%2C1372&ssl=1"
-        width: 2842
-        height: 1372
-        isCached: true
   - title: "Google's Bard AI chatbot has now been released to the public"
     excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
     publishedDateTime: 2023-03-21T19:42:00Z

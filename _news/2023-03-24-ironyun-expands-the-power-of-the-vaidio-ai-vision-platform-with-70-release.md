@@ -2,12 +2,12 @@
 category: news
 title: "IronYun expands the power of the Vaidio® AI Vision Platform with 7.0 Release"
 excerpt: "IronYun Inc., a leader in AI vision for security, safety, and operational applications, today announced the 7.0 release of the Vaidio® AI Vision Platform. The award-winning Vaidio Platform now includes Object Counting,"
-publishedDateTime: 2023-03-23T22:54:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/03/23/9782661.htm"
-webUrl: "https://it.tmcnet.com/news/2023/03/23/9782661.htm"
+publishedDateTime: 2023-03-23T23:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "lL54Zn3ssC465QIAGtitF8TptN1zy9p1D0bm7gLGrkvY+MYGSIi0tvfRJN8YXHIJXBfIVXAtJZxaJnb4lwzkxUH/yehwoMcu6K8/kGOT00qwKyzsR9cvR9l0wv0waRStfjm8p6MnnW1ZPL6qsWiQ6Mf3tIge0TVckTmyLlV3uSbIe6QXDgCsHGZBdFdwyClbR9z/M4jSMqRznqM3/8Du39YIWWz8vXAn3VHYgCMXvpSC/QZ2zUFZpG5UqlPiHV4FuMxaBwQwOABqZ5xStqufJqTxCVL9LcPPH5B/sFV9ylMeSyVXcLoWFoO3IQNpmvGPaHt86ty/rTyoG3MxXuWE59eHR0o5VEo4gJalg7t957vWY73wdPGd/aYE+3t385WpNp9ZMUBPSVAWmlVDTMXntt5FDyc1vF/XnQd95TONunZdP6D2B5ien/KXIHfzEL5Mrk5nZbdYcrNzHVRS9IoFNcEqnTVJfXrjsNoRvkrFV4DsevRWfgneuFNT/IzInBOazFQ1cB50Yi/UZzOpUAUc4g==;xkheIBvPd2NF4ZlrSzljqQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1932792/IronYun_v1_Logo.jpg"
+    width: 400
+    height: 204
+    isCached: true
+
+secured: "imIt/LVKtQ7ySOXb4OJrU9EW0iXZkDggg4VutHVlR3gewxU0AGXj9Y2hJ21l+PSg6MqfGwDs09kawv0tSR8uZgjaV/YFGcVxUrb7X6lY9SM1LorcD8Q4n00zVGzAsLcNNWZ/to2hF2RGaQ0EZ6bk1TJoOE4off1fu2SaqvAgfAO4/pvsCZg4qcGct129IlHAcKQcLLBy/xAoTqmJWbbCD01edES5uEZ2jBbEk0zKMpLacxHLO2fue3CINCn3/Q/ld0FEs/GxWWtb78QxUDnIyuxIgSfKJB6TpIPnd87GJCKCMHl67XwEEomFL0uU/WVwfayW7qLn4FbsiHWEWuBAT5qqiOuS3EGzyvppHbi2eZA=;8xWQ69rlHT2AJFRBkH3Ong=="
 ---
 
