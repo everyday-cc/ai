@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-08-local-tech-company-creates-a-conversational-artificial-intelligence-robot.md",
+      "title": "Local tech company creates a conversational artificial intelligence robot",
+      "excerpt": "TAMPA, Fla. - She expresses emotions, a sense of humor and seems to have a mind of her own. A local tech company has created an artificial intelligence data robot called \"Maya AI.\" \"So we did a lot of studying on how the brain, the memories and neurons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
+      "originalUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/03/932/470/ac4d8547-snapshot-10.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
+      "publishedDateTime": "2023-03-07T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-artificial-intelligence-is-going-to-replace-all-but-the-best-stock-picking-pros.md",
+      "title": "Artificial intelligence is going to replace all but the best stock-picking pros",
+      "excerpt": "Artificial intelligence poses a major threat to the worst stock pickers on Wall Street. Even the mediocre ones might want to start looking for another line of work. But the jobs of the best stock pickers are secure — for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
+      "originalUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-354454/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "publishedDateTime": "2023-03-07T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-need-to-improve-surgical-robotics-focus-on-the-motion-control.md",
       "title": "Need to Improve Surgical Robotics? Focus on the Motion Control",
       "excerpt": "They aren’t built with off-the-shelf motion technology. To develop advanced, differentiated robotics, motion control companies are developing high-performance, custom motion control products. A wide range of motors and specifically designed equipment ...",
@@ -1249,92 +1344,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-how-to-invest-in-ai-startups.md",
-      "title": "How To Invest in AI Startups",
-      "excerpt": "Every now and then, an industry pops up that is so transformative, it literally changes the way society functions forever. In much the same way there was a world before electricity and after it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "originalUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8-768x598.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-intelligent-transport-systems-enhance-human-robot-collaboration.md",
-      "title": "Intelligent Transport Systems Enhance Human-Robot Collaboration",
-      "excerpt": "Adaptive machines are combining safe motion control, robotics and intelligent track technology into collaborative, workplace solutions. (Image source: B&R Industrial Automation) The goal of human and robotics interaction in manufacturing, creating an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/small%20Robotics_innovations.jpg",
-          "width": 705,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

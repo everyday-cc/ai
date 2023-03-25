@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-21T00:40:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
     publishedDateTime: 2023-03-24T18:01:00Z
@@ -97,6 +81,6 @@ related:
         height: 674
         isCached: true
 
-secured: "8ssKn6c4mvkRPmqNxfcx/uDBJoBuCWTrmg2FWezPhUnecNxM2tHjiiub4liOZgR54AVRJ9cCHt5/laBLV90ZF644LNLQVMRlz4EMGm+iSZLBGQ0w3US38fxiLDwmqvOir+fX1URQYn6cWfjVuKkJB/hZPj8C5yQAnHtxm0xk9LhvQwj37JCfvyeJrTIYeV/BLDTi25ultx5PUFjdswceFvhWGt1/ti0gL6WMAupmqYhEbkqRzQMtSghcaRRXPmXtUGEOgZA4xC8RhCn8NRDxhCStaJZTMvW/Hja3T1V4+fbKHuITGZiLLQGucCX+2VRyvWfabhNrN4NqaNcQXI0xGOrMPcpHvxUw4M1PsIv5tBo=;JCiT1IcwsgA8B5K140j+5g=="
+secured: "t9aLUMsqBYSKsb265LFqiYT4j2HfglSmhJk8QoMjJcvjpltH+2Edb/McOrQSfbkIdWA17v2hahiTc1v504CGZhVzfXuk3SjrfpXrmzbOvNPo4PVr+fNA4UsJTGJfK7GCyzAmrPBCPzZfOi43spmxyiQTsoX+RxjXL/gK4ml3kVpRzdqICtH3Vc+5cdUU4IkjFKaYX/Dr9eXdgofe3YR2mSW0l4lCstZVF7+zrUbRBe9i4syyocLBcim21b2B7ehH1LpSLf1oGS0AJZlj21uFAnPb2G20OquQY33QjtMmQ4L8Lokcaw122RPT1bQlW3cRhJmCkHsoAVLveiTO6KStQEZylVeyXM2xcW0ON1IFvmixeQSqnxhTJRQTi++gk+Cyw5vr8qygGNH9I3yRxYgaXXU1c8N/gKW4Y4XaZzHniNS8n19dJ9ueDHJ3oNhHD1Z1Y5eTjKd5zTgvGDt+iOThLUg4XzzKLi1b0THnLvSeL8ofdKHATrQ2yVVI4ZDorOD6OWRGY3HutM5nehnk5nF2QA==;08aDYV2hel4my2yXfj7fRQ=="
 ---
 

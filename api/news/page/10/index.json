@@ -2,6 +2,258 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-16-small-businesses-have-fewer-resources-than-big-companies-heres-how-ai-can-fill-the-gaps.md",
+      "title": "Small Businesses Have Fewer Resources Than Big Companies. Here's How AI Can Fill the Gaps.",
+      "excerpt": "Generative AI technology offers small businesses several advantages when it comes to marketing and operations. It can speed up the content creation process, minimize errors, and help teams start tasks with more accuracy. Here are a few ways generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-can-help-small-businesses-do-more-in-less-time/445042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1678471153-GettyImages-1413357684.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-16T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
+      "title": "Cast AI raises $20M to help companies reduce cloud spend",
+      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
+      "publishedDateTime": "2023-03-16T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
+      "title": "After year of downsizing, DataRobot unveils new AI platform",
+      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
+      "publishedDateTime": "2023-03-16T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-could-ai-powered-object-recognition-technology-help-solve-wheat-disease.md",
+      "title": "Could AI-powered object recognition technology help solve wheat disease?",
+      "excerpt": "A new University of Illinois project is using advanced object recognition technology to keep toxin-contaminated wheat kernels out of the food supply and to help researchers make wheat more ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
+      "originalUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/could-ai-powered-objec-1.jpg",
+          "width": 1067,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-powered-recognition-technology-wheat-disease.amp",
+      "publishedDateTime": "2023-03-16T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal.md",
+      "title": "Goldman Sachs ‘Loves’ Snowflake As It Inks $2.5 Billion AWS Deal",
+      "excerpt": "We will build an artificial intelligence/machine learning layer on top of the Legend Platform. We love Snowflake and how it is integrated into the Legend Platform,.” Earlier this month, Snowflake SNOW announced it would spend $2.5 billion on the AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6307599ad3c88f6036653b55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 905,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/03/16/goldman-sachs-loves-snowflake-as-it-inks-25-billion-aws-deal/amp/",
+      "publishedDateTime": "2023-03-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-googles-ai-healthcare-tools-take-center-stage-raising-ethical-concerns.md",
       "title": "Google’s AI healthcare tools take center stage, raising ethical concerns",
       "excerpt": "Google popped the hood on a variety of healthcare tools built with artificial intelligence (AI) this week, from consumer-facing search and symptom-checking features to apps designed to help doctors screen for tuberculosis and plan cancer treatment.",
@@ -963,257 +1215,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process.md",
-      "title": "For Wells Fargo, solving for AI at scale is an iterative process",
-      "excerpt": "Financial services giant Wells Fargo shares how it's implementing AI at scale for document processing, a virtual assistant, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
-      "originalUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/5-Applying-AI-at-scale-–-banking-enterprise-customer-story.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/for-wells-fargo-solving-for-ai-at-scale-is-an-iterative-process/amp/",
-      "publishedDateTime": "2023-03-15T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-engine-results.md",
-      "title": "VikingLinks Launches Cutting-Edge Artificial Neural Network For SEO To Revolutionize The Search Engine Results",
-      "excerpt": "With a powerful combination of data-driven analytics and innovative technology, VikingLinks' latest technology Artificial Neural Network improves search engine rankings, drives traffic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ab31371662/vikinglinks-launches-cutting-edge-artificial-neural-network-for-seo-to-revolutionize-the-search-e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-from-2023-to-2028-report-on-the-ai-in-computer-vision-market.md",
-      "title": "From 2023 to 2028 Report on the AI in Computer Vision market",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- “AI in Computer Vision Market” information for each competitor includes [ General Electric Company, Cognex Corporation, TELEDYNE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/from-2023-to-2028-report-on-the-ai-in-computer-vision-market-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 474,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-fintech-stripe-valued-at-50-bln-after-65-bln-fundraise.md",
-      "title": "Fintech Stripe valued at $50 bln after $6.5 bln fundraise",
-      "excerpt": "REUTERS/Dado Ruvic/Illustration March 15 (Reuters) - Fintech Stripe said on Wednesday it was valued ... Disruptedcategory Bar exam score shows AI can keep up with 'human lawyers,' researchers say, article with image 6:17 PM UTC Technologycategory Exclusive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "originalUrl": "https://www.reuters.com/technology/fintech-stripe-valued-50-bln-after-65-bln-fundraise-2023-03-15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/tMNyoyg9ToCWZE8Wy745mHBrOc8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2PHOE5YBZP2XAZJMWCMZOUTUM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-15T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-pytorch-20-brings-new-fire-to-open-source-machine-learning.md",
-      "title": "PyTorch 2.0 brings new fire to open-source machine learning",
-      "excerpt": "The open source PyTorch project is among the most widely used technologies for machine learning (ML) training. Originally started by Facebook (now Meta), PyTorch 1.0 came out in 2018 and benefitted from years of incremental improvements. >>Don’t miss our ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
-      "originalUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1224500457-e1643727629417.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/pytorch-2-0-brings-new-fire-to-open-source-machine-learning/amp/",
-      "publishedDateTime": "2023-03-15T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

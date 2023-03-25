@@ -2,6 +2,249 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-03-13-reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs.md",
+      "title": "ReelGolf’s AI Enabled Video-Capture System Creates Cinematic Souvenirs",
+      "excerpt": "Austin based autonomous videography startup creates tee-to-green footage of golfers as they play clients signature holes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
+      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640e675fb0a10bbe63b50059/0x0.png?format=png&width=1200",
+          "width": 977,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
+      "publishedDateTime": "2023-03-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.md",
+      "title": "ChatGPT and Generative AI are booming, but at a very expensive price",
+      "excerpt": "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 421,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
+      "publishedDateTime": "2023-03-13T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-arm-adds-ai-virtual-hardware-support-to-keil-mdk-6.md",
+      "title": "ARM adds AI, virtual hardware support to Keil MDK 6",
+      "excerpt": "ARM is to launch Keil MDK6 with support for the M55 and M85 Cortex cores, AI accelerators and virtual hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eenewseurope.com/en/arm-adds-ai-virtual-hardware-support-to-keil-mdk-6/",
+      "originalUrl": "https://www.eenewseurope.com/en/arm-adds-ai-virtual-hardware-support-to-keil-mdk-6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ee.cdnartwhere.eu/wp-content/uploads/2023/03/keil-600x400-c-default.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeNews Europe",
+        "domain": "eenewseurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-intellect-launches-emachai-the-worlds-largest-open-finance-platform-to.md",
+      "title": "Intellect Launches eMACH.ai, the World’s Largest Open Finance Platform to...",
+      "excerpt": "Intellect Design Arena, a multi-product FinTech company launched eMACH.ai, a revolutionary cloud-native and future-ready open finance platform with embedded artificial intelligence, powered by AWS. With 285 pre-built microservices available on the cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
+      "originalUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/emach.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI cryptocurrencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-can-ai-solve-its-eternal-data-problem.md",
       "title": "Can AI solve IT’s eternal data problem?",
       "excerpt": "New data management and integration solutions featuring AI and machine learning signal that help is on the way to meet the ballooning enterprise data challenge.",
@@ -954,241 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-piaget-stages-of-development.md",
-      "title": "Piaget Stages of Development",
-      "excerpt": "Piaget's four stages of intellectual (or cognitive) development are: Sensorimotor. Birth through ages 18-24 months Preoperational. Toddlerhood (18-24 months) through early childhood (age 7 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.webmd.com/children/piaget-stages-of-development",
-      "originalUrl": "https://www.webmd.com/children/piaget-stages-of-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WebMD",
-        "domain": "webmd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-inker-robotics-secures-12-million-funding.md",
-      "title": "Inker Robotics secures $1.2 million funding",
-      "excerpt": "Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and delivery in robotics and futuristic technology education, has secured a USD 1.2 million funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/03/warehouse.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/inker-robotics-secures-1-2-million-funding-10233291.html/amp",
-      "publishedDateTime": "2023-03-11T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-will-ai-take-over-the-world.md",
-      "title": "Will AI Take Over The World?",
-      "excerpt": "As my limited vision can perceive, will attempt a classification that says there are at least two aspects of this megatrend – the risks that machines take over our (human) world (AI), and the risks that machine led worlds start to exist outside the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640cf70c750aeccba86beda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/",
-      "publishedDateTime": "2023-03-11T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-ai-inference-processes-data-and-augments-human-abilities.md",
-      "title": "AI Inference Processes Data And Augments Human Abilities",
-      "excerpt": "Artificial Intelligence (AI ... The second-generation device also supports Vision Transformers (ViT acceleration, a neural network that is capable of many computer vision tasks, such as image classification, object detection, and semantic segmentation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640ccf931512cebf767aa26b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/",
-      "publishedDateTime": "2023-03-11T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-artificial-intelligence-is-going-to-replace-all-but-the-best-stock-picking-pros.md",
-      "title": "Artificial intelligence is going to replace all but the best stock-picking pros",
-      "excerpt": "Artificial intelligence poses a major threat to the worst stock pickers on Wall Street. Even the mediocre ones might want to start looking for another line of work. But the jobs of the best stock pickers are secure — for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "originalUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-354454/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
-      "publishedDateTime": "2023-03-11T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

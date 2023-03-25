@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clini
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cleveland Clinic and IBM Unveil First Quantum Computer Dedicated to Healthcare Research"
-    excerpt: "\"By combining the power of quantum computing, artificial intelligence and other next-generation technologies with Cleveland Clinic's world-renowned leadership in healthcare and life sciences, we hope to ignite a new era of accelerated discovery.\""
-    publishedDateTime: 2023-03-21T01:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31430613/cleveland-clinic-and-ibm-unveil-first-quantum-computer-dedicated-to-healthcare-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31430613"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31430613"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Cleveland Clinic, IBM Deploy First Healthcare Quantum Computer"
     excerpt: "Cleveland Clinic and IBM officially announced the first implementation of an onsite quantum computer dedicated to healthcare research."
     publishedDateTime: 2023-03-22T13:30:00Z

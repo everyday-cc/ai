@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning programs use routinely collected hospital data to predict risk of death"
-    excerpt: "In recently published findings, the research team built and trained machine learning programs based on 1.6 million ECGs done on 244,077 patients in northern Alberta between 2007 and 2020. The algorithm predicted the risk of death from that point for each ..."
-    publishedDateTime: 2023-03-21T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20230321/Machine-learning-programs-use-routinely-collected-hospital-data-to-predict-risk-of-death.aspx"
+  - title: "How Can Machine Learning Programs Predict Death Risk?"
+    excerpt: "In recently published findings, the research team built and trained machine learning programs based on 1.6 million ECGs done on 244,077 patients in northern Alberta between 2007 and 2020. The predictions were even more accurate when demographic information ..."
+    publishedDateTime: 2023-03-25T17:19:00Z
+    webUrl: "https://www.medindia.net/news/how-can-machine-learning-programs-predict-death-risk-211059-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/how-can-machine-learning-programs-predict-death-risk-211059-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-can-machine-learning-programs-predict-death-risk-211059-1.htm"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "6LI/Pi9GeeqiQaxvJvlAVvrmDEFxIUtTipVYpCSS7+U9tMCQZ7cIiIwfE2H8K/OQlJA3UZJO62ZCKGUIHU67jBcjT6pFbB6GGWMFH+uiwvIuE7m/D3b7o5XPhlOLYL0TfDS+r9L/rkr52WiY5LAm9mFJYZOk5eXE2N5m0Hj0MP6BlaoX17XfpoQrFNFVEHN9hRTU3wnkQfc9ryLugGgMGrvL4kN9oKSqvog3VYmOlgg+NxqJH61xYQNJrmxjyYzprUHRkko4a9P4UzHj15nzEDpovoR5cjzuTLDtuwxKntPqtzeqMOtiuWt1V1nY9hIz2gO6JHyG6DCisL55mj6Rjp/VC0qPxdzhE1FdyuqZcVXNz1Hb096tn2Vv6Ie82tVUC4dYbI2DxIV0B7BqkNM+ENp2nu+CItGTkmvvdxhceuvWTAA5pXS/A0U6D7kTKwRHGJtlEzOned+fXK1cMgUp/IxOAovA+Xe8S2fb9UgSSADoA0ibQx+kAFHb2Qq6J6K1KsD74MR7CZ5r0OmC+wTHtw==;TBKu9rO6DlbTdg4/e5JnUw=="

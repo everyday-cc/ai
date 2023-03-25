@@ -2,6 +2,239 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-03-14-when-ai-chips-battle-your-portfolio-makes-money.md",
+      "title": "When AI chips battle, your portfolio makes money",
+      "excerpt": "The artificial intelligence (AI) revolution is here. And international companies are lining up their strategies. Nearly all the Big Tech names have started designing their own chips. Additionally, some smaller and profitable ones are also listed and could make for interesting stock picks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/personal-finance/when-ai-chips-battle-your-portfolio-makes-money-10243511.html/amp",
+      "publishedDateTime": "2023-03-13T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029.md",
+      "title": "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029",
+      "excerpt": "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-25-best-christmas-movies-on-amazon-prime-to-start-watching-now.md",
+      "title": "25 Best Christmas Movies on Amazon Prime to Start Watching Now",
+      "excerpt": "Amazon really does have everything! Chances are, you’re doing a whole lot of your holiday shopping on Amazon this year. But in between buying the perfect presents for everyone on your list, why ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
+      "originalUrl": "https://www.rd.com/list/christmas-movies-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/09/amazon-holiday-movies-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi.md",
+      "title": "You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi",
+      "excerpt": "Things are moving at lighting speed in AI Land. On Friday, a software developer named Georgi Gerganov created a tool called \"llama.cpp\" that can run Meta's new GPT-3-class AI large language model, LLaMA,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/llama_laptop_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "publishedDateTime": "2023-03-13T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns.md",
+      "title": "Artificial intelligence can realistically replicate voices, raising new tech concerns",
+      "excerpt": "New artificial intelligence technology can replicate voices, giving users the ability to manufacture content involving celebrities, politicians or just about anyone. NBC News’ Gadi Schwartz shares more on the groundbreaking AI technology and the ethical implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678748553630_nn_gsc_ai_voice_cloning_230313_1920x1080-cex58r.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo165109829933",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933",
+      "publishedDateTime": "2023-03-13T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-spotifys-new-dj-feature-is-the-first-step-into-the-streamers-ai-powered-future.md",
       "title": "Spotify’s new ‘DJ’ feature is the first step into the streamer’s AI-powered future",
       "excerpt": "Spotify has bigger plans for the technology behind its new AI DJ feature after seeing positive consumer reaction to the new feature.",
@@ -944,249 +1177,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs.md",
-      "title": "ReelGolf’s AI Enabled Video-Capture System Creates Cinematic Souvenirs",
-      "excerpt": "Austin based autonomous videography startup creates tee-to-green footage of golfers as they play clients signature holes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "originalUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640e675fb0a10bbe63b50059/0x0.png?format=png&width=1200",
-          "width": 977,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikedojc/2023/03/13/reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs/amp/",
-      "publishedDateTime": "2023-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.md",
-      "title": "ChatGPT and Generative AI are booming, but at a very expensive price",
-      "excerpt": "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
-      "publishedDateTime": "2023-03-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-arm-adds-ai-virtual-hardware-support-to-keil-mdk-6.md",
-      "title": "ARM adds AI, virtual hardware support to Keil MDK 6",
-      "excerpt": "ARM is to launch Keil MDK6 with support for the M55 and M85 Cortex cores, AI accelerators and virtual hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eenewseurope.com/en/arm-adds-ai-virtual-hardware-support-to-keil-mdk-6/",
-      "originalUrl": "https://www.eenewseurope.com/en/arm-adds-ai-virtual-hardware-support-to-keil-mdk-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ee.cdnartwhere.eu/wp-content/uploads/2023/03/keil-600x400-c-default.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeNews Europe",
-        "domain": "eenewseurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-intellect-launches-emachai-the-worlds-largest-open-finance-platform-to.md",
-      "title": "Intellect Launches eMACH.ai, the World’s Largest Open Finance Platform to...",
-      "excerpt": "Intellect Design Arena, a multi-product FinTech company launched eMACH.ai, a revolutionary cloud-native and future-ready open finance platform with embedded artificial intelligence, powered by AWS. With 285 pre-built microservices available on the cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
-      "originalUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/emach.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI cryptocurrencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

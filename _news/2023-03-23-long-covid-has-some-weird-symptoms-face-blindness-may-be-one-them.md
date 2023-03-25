@@ -69,17 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "She couldn’t recognize her dad after COVID, study says. ‘Something was off with faces’"
-    excerpt: "That’s what happened to a 28-year-old woman, who works as a part-time portrait artist drawing faces, after her COVID-19 infection, according to a new study published in the journal Cortex. A few months after getting COVID-19,"
-    publishedDateTime: 2023-03-21T00:31:00Z
-    webUrl: "https://www.mcclatchydc.com/news/coronavirus/article273176320.html"
-    ampWebUrl: "https://amp.mcclatchydc.com/news/coronavirus/article273176320.html"
-    cdnAmpWebUrl: "https://amp-mcclatchydc-com.cdn.ampproject.org/c/s/amp.mcclatchydc.com/news/coronavirus/article273176320.html"
-    type: article
-    provider:
-      name: McClatchyDC
-      domain: mcclatchydc.com
-    quality: 16
 
 secured: "mv0L7asdjuasZMatsXZlWwaFo6MPYy0ou+xmh7kpSQfGro7PaIu7KamfweeliSQRW4hWiNcWnImfKZcgXdo3CGL0o7h0t172ntlzcqyXZfz3Or+oUhzpdAQsN3a3IqfsuE6FW3IFXM6eoCd6n6n0NBcUSMIQgV3vGVo3qX+sPTiSKBxaAhPYbZfMhNErGdviL7lPd6A+3WyOnKTeQIAf7C3bGPyK4THUYJdgQlTLmgOzJ4j4COA/OhdH3kGBUGWC7ryyLVMFsrxhcjmrW7WhcWa8qi4k11tShuDbbUtqOOjkmV42/21E5ncZLdhlFK0l+mTe4Qa0aIiRTMgnR8mr5298U28C7pFH9ROHgTxAzx4=;0y6ZwRXL14q1Tyq/Hkih7A=="
 ---

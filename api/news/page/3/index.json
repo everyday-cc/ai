@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-23-mozilla-launches-a-new-startup-focused-on-trustworthy-ai.md",
+      "title": "Mozilla launches a new startup focused on ‘trustworthy’ AI",
+      "excerpt": "Mozilla, the nonprofit behind software like Firefox, has launched a new startup, Mozilla.ai, focused on developing trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/",
+      "publishedDateTime": "2023-03-22T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-southeast-asian-credit-fintech-kredivo-scores-270m-series-d.md",
       "title": "Southeast Asian credit fintech Kredivo scores $270M Series D",
       "excerpt": "Kredivo’s direct and indirect competitors include Akulaku’s BNPL and Bank Neo Commerce (the fintech also recently raised significant funding from a large Japanese bank), Advance.ai’s Atome BNPL service and Kredit Pintar cash loans and Sea Group’s ...",
@@ -1202,58 +1253,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
-      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
-      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
-      "publishedDateTime": "2023-03-22T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

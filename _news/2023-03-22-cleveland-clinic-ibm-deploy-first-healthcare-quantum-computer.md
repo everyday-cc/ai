@@ -37,22 +37,6 @@ related:
         width: 624
         height: 441
         isCached: true
-  - title: "Cleveland Clinic and IBM Unveil First Quantum Computer Dedicated to Healthcare Research"
-    excerpt: "\"By combining the power of quantum computing, artificial intelligence and other next-generation technologies with Cleveland Clinic's world-renowned leadership in healthcare and life sciences, we hope to ignite a new era of accelerated discovery.\""
-    publishedDateTime: 2023-03-21T01:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31430613/cleveland-clinic-and-ibm-unveil-first-quantum-computer-dedicated-to-healthcare-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31430613"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31430613"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "p5ibPUUoATnE61Rot+zHK8APUpFL4TqOWycAvlUTS4GktTZEAcQT2kn+/Cx3OWspWMGOL0HdwK2OGjY2Aza5e2lwRROALP5g8hiLA+3K83pZJy72ebZpIHeNaBOnRriwSSlg3owcegHFml7Wr8GmSEBDT9s3TMJeuifqdTi09Mr9baoeJGc+QDewxJD5yIqaU5wFCqP2GV9hw2GVIk3+OVg5BbfNoUKjdwzejUIubz/k8oMf16QryB+tlyvDhDaC8QEYUKRMW/YZup2a3Ga3EYprgyRSJsQNw67/HaBOPQeV1pOdcvibbODTWrhOl5g6udCHCtZN2aKDFZoRkiNHMxv6YCedwfFrTOalXH0BawUS4VwDYhzv0C1PHkkqay/5sexxpdFkmmrgGp5G+JYA7Txx18krsNvPiTB5A0jNHwi1bN3PYpwYSRT9EcEg7+neMymCuVnGWGxtbwQn2zGcdH+ckcEGqopPeznLrqi+q5pbFMM1BKpv25URpdFzzVXNCGuvmSa7hCCIX8IpCLyPiA==;l8PaP/uvI13y66TqKwYDvQ=="
 ---

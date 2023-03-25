@@ -2,9 +2,9 @@
 category: news
 title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
 excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
-publishedDateTime: 2023-03-23T22:31:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
+publishedDateTime: 2023-03-23T19:56:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/03/23/9782463.htm"
+webUrl: "https://it.tmcnet.com/news/2023/03/23/9782463.htm"
 type: article
 quality: 20
 heat: -1
@@ -58,6 +58,6 @@ related:
         height: 720
         isCached: true
 
-secured: "FaH2F66Qf4n1/uEyDuQFrJ2Hp07eHadTVQCOQuIUbjrOjwwKHn36FMOsNDslWO5Sv8FuTYCZBhNVHqSB2AGRe9grogxNvr01VBf20AQzP2WIWa4cP91kfVUbpYGYeXCNlEYejuYK6y8R4NFEFovY9jjv+FygxDQZwB3mzZwaI7AUGpWOrm+lzvxxSdisoUZbBwjRxVer6zCIDZd+S4xTsYL4cAwPafLpvSmYCWYjSMTl+/kIQpqDnrP+MXJ1ogh5ZnsG8hP3xTh5lZ/S+ycliubhoh5aym83a6pAM0frw1Pv8O6lssFsHDBgwjz80fkUd/llT4O3UeHgoTRdJpSrNthlH3sgLMHy1E1Oe31Pd3y0RNFgEkct3JEfbiJbCmF+PW4nf4/3nyyxT5bHwodZ/Y1ZNQ9DRITSaL5YNgjl1wWNmG0I1L92om6visoAUYGmUFudYykTYkKAZAU9SGm7aIkRkdXzWnUFnFgt9No6Sajm/kpPft1E1giRIujCUfmQXz4gBeTpKR4zmTW8tfww6w==;CtqsABn8TfvoDran6c6wrA=="
+secured: "mC+5pNHhk8t1dTQms6peD2carseN3a95ARkp5rvERtOcSbDjpHhfzRDOHKv6dwFOkekWE/PS8UwRBCfx6RIR8BUrnkaoKScwM0W685GHoyxjbF1w3YBrDBEMuu3nkiLXCN+hHdR79QsO8qUbkyxe6o61mw9KaKpMBVEog8gcDhuGL19ZPKlmkR1mbKatSIQ2lodpZLzd8FUp4WdhbblVPQ1XKZhw1msekF8ewzWteHHbYuzi3C+ZsFdV4oV+kweqDupBylng2gaIw2ZTD8PTYN9HG2JiWtSsjs1qfVg0l2IaYq6/u3gqtEEjy1KY4JBNMwsqp2Wy5gbLamoUiS51BsOvynd6DT36Xarw00Z7lUc=;UnA5jUcA6tS1gwfh7Nqyzw=="
 ---
 

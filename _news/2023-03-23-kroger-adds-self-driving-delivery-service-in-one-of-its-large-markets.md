@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kroger adds self-driving delivery service in one of its large markets"
-excerpt: "Kroger has partnered with autonomous vehicle company Gatik for \"middle-mile\" deliveries from a distribution center to stores in the Dallas area. Kroger Co. is expanding its driverless vehicle grocery delivery services."
-publishedDateTime: 2023-03-23T10:39:00Z
-originalUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/03/kroger-self-driving-delivery-service-dallas.html"
-webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2023/03/kroger-self-driving-delivery-service-dallas.html"
+excerpt: "The service is slightly different than what Kroger is already testing when it comes to self-driving vehicle deliveries. Gatik will use its autonomous box trucks to deliver custome"
+publishedDateTime: 2023-03-22T19:57:00Z
+originalUrl: "https://www.bizjournals.com/dayton/news/2023/03/22/kroger-self-driving-delivery-service-dallas.html"
+webUrl: "https://www.bizjournals.com/dayton/news/2023/03/22/kroger-self-driving-delivery-service-dallas.html"
 type: article
 quality: 4
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/FqaaRZyfbOG0e8YKbXkRUh12LtQvxC9K/EfmDWHqb2TxRo18kdjnQ9es2EdZ49amzFAw//7tOmgMPT1+ztf/FgANzhbQddNTdE0Q8w5LfkC6P8WlHNv+RJ2CtI+KfQML89vHHdcEFjLGgvHRpzDQuK4/lm9HPVEbIZUAYsF1Vi00AJBwMYjC1scC25E8fPqilKZcwzrVdDiVJQNeuBTaHQ+4skTfMWD33sjwAVsxDDNvqZTseG4GdoaJJ4TSjVV62tJiZKlb24Qq7rrzGrfm5aGReCoJK6XGD6+pVN4w2tj97MVs3+B9t2JdTILR/TZnFUqVsGvmKt8aib6ySUKQi6GOrv/EX7AAGeQBxFBF5QgCLpYN2mnn1/Kj/Z8+Z8TpIC5+f1BnviYyD+YD3wH18aOjampQieclHDn+w0IpH/9e382vE710er/oxPOBqkZ4knO0V8dvLWrcQGkNOWjkiAG6x2LtcScpsZIfpG0iM0EkJegXoEtQkRRRcjMJlqB1C6LNkc/qboaQFCsoXmv+w==;6KI7Wf2tybdOpw/ui3rDLA=="
+secured: "DhkIZSXUsjfO65qUEDF46I58qWO4EsYsUOeFzldQFa188rZTmpkuU1ITwLdt6TmQT7qXdemxgb2+CKuXnrRb+QAyl0e+xY5cWrcb19bQB0qOc+NT8KjaZ2oIPWbTmUV8C1gRuqTev68vh6Lbaj1wbqvoJSim1rbEF9lLDt5m+ZD/dB7QC8cc/KfjFXAisEy0CRnOtnesbk5Md9TfJUxqtcdtkc3aBm4eJEZf0B3ntYjtXQU1Oq87jPAzy5VzNChzAk59s/4Ja+8mvouUTG/k+tgCsK/kimwQ/vXZIXC1Y1VDHpBRUTmhHYcErMsAlWvteXPY9i4ALojK6ODBDjKc1Dch7Fr+QMfnZE1Jpjs1HkowT31Bft8EMXgI6bgl+UbsjAoCBVFqVcrOjmEE1RNw7P+aVXacnIz6hq/S3BGD+uKd7fsUcbFVCok4NXCO+DMaWPHZRqv3+TLozweYQutAdmtPBKgdvzwogJ7/a6clI26LNnKymrs1Fk8cfjrr5QGUQjlK9d6RQkvKO0KM4BuP3g==;zraa2GLqTAjVPuxw685AbQ=="
 ---
 

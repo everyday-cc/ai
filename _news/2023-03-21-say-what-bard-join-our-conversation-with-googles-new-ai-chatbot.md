@@ -269,20 +269,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "AI tech firms eager to join chatbot trend"
-    excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
-    publishedDateTime: 2023-03-21T00:47:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/21/WS6418eb76a31057c47ebb5863.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 41
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/21/6418f74da31057c4b4b79e33.jpeg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Google opens sign-ups for its Bard AI chatbot"
     excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
     publishedDateTime: 2023-03-22T06:24:00Z

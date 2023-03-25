@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
     excerpt: "Vegas Bot AI, a revolutionary technology startup that aims to enhance customer interactions with businesses by developing a highly natural conversational experience, introduces the Vegas Bot AI Token Launch."
-    publishedDateTime: 2023-03-23T22:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-vegas-bot-ai-starts-presale-with-bang-users-/2023/03/23/9782463.htm"
+    publishedDateTime: 2023-03-23T19:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782463.htm"
     type: article
     provider:
       name: TMCnet

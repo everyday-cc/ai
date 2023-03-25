@@ -71,22 +71,6 @@ related:
         width: 900
         height: 400
         isCached: true
-  - title: "Microsoft Copilot: Generative AI Adds An MBA To Your Day-To-Day"
-    excerpt: "Futurum Principal Analyst, Daniel Newman looks at Microsoft Office 365 Copilot and talks about how he sees it helping out organizations today and how he expects it to shake-out in the future. While it is early days for generative AI,"
-    publishedDateTime: 2023-03-21T00:53:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/03/20/microsoft-copilot-generative-ai-adds-an-mba-to-your-day-to-day/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6418fe6bf7215d9aa40aff98/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
     excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
     publishedDateTime: 2023-03-21T15:08:00Z
@@ -556,6 +540,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 51
+  - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
+    excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
+    publishedDateTime: 2023-03-25T16:18:00Z
+    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-openai-microsoft-and-the-ai-opportunity-for-startups-with-neo-ceo-ali-partovi/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 50
   - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
     excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
     publishedDateTime: 2023-03-22T05:39:00Z
@@ -708,6 +701,6 @@ related:
       domain: moneycontrol.com
     quality: 6
 
-secured: "jsrdDsu4qiGRSBQlx9Ts/EFnzwtdGnUfPrOK9k+TfoYSeo08aHXHRkTswWvxxzTnod5zWQOfFm0i1umn1yAflQDjc6lzRm1Gctal23DwMengYTvy3y5lWtoRLBGapb5QbsTMIHU4MTNGFPF4h7r4k5k9C3VnrVVForuwDVI0eyqAx35wbQwoTSYEsuSvyWF8oN7viaCHgmqkL6I+HpEYC/Ve6sDk27yZpytMsDtDI4EwS2WqxzFm9kzcrK6z20R6H3gCix0dn3l+MDSYtdDAhdnLcDDUM6AiBJ9FPaNkWqrBIlKq9YhxVPfZjNx33at7SNpPj4myTo8mFI8iVRFL2myiTeLBLEq4uuwa0lD7T7w=;sHCrSqgyu1eNOs912wBDfA=="
+secured: "9pZzOZ0p0zu0GIaA+thO8J38qorO8HAR6RiCsRbvsrwv+PqsLIJK/KdDLrthIc1veriZrjdAYtBDCqgoqFo1ffqvhInxP91W6yQ1pekmY9eOIiw7UM5ryadRXW1useYB8QIveFSeR3NIkZKfmkgI1ANyWTACnYaKdBObcVqqOqBngVNfxYPWs2695jaEHEhCza/qha8VmEjwV9A9y3cHDsumUv1+J2nhlxscdNXOGN7VVfvb7RwiNfZ3+r/V2Ku7ZLdkmQ7MQFsKM8fFF1JmRQ/0YJsKVvG+yefIKWJGdcM9ox9OkmFroICmU2KQaNCqFHIXK4Lio0gwLPIITMFTYisBMtNspcfFOdhwvnGKH72XNn6XpD3Znb0ht63Xi+Q8Ed5YZIMeOKCWdB0K7Xp3LIw/h5NNiEd2f7FS6AVJBCH+ltDrichih1Fd2L4uzNpVJVWhIeqIHYlvsvsSBtJMtNeoXckcaN8qeO9sAY5IHYJW5RE+IqT2Or66G+JBDg96u9/CcO8S0OROTm+wPuI9Yw==;uu/LePSZmT20gE3IwequqA=="
 ---
 

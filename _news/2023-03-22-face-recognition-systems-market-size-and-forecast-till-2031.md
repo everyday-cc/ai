@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Size and Forecast till 2029"
-    excerpt: "The \"Deep Learning Software Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are responding to long term opportunities and short-term challenges they face."
-    publishedDateTime: 2023-03-21T01:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Courses Market Size and Forecast till 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The \"Machine Learning Courses Market\" study describes how the technology industry is evolving and how major and emerging players in the ..."
     publishedDateTime: 2023-03-22T04:25:00Z

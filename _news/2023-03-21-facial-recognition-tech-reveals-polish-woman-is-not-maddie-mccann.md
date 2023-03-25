@@ -9,8 +9,8 @@ ampWebUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-
 cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Canoe.com
@@ -42,22 +42,6 @@ related:
       - url: "https://i2-prod.dailystar.co.uk/incoming/article29488343.ece/ALTERNATES/s1200/1_Madeleine-McCann-missing.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Madeleine McCann: Polish woman Julia Faustyna most likely not missing girl, according to facial recognition"
-    excerpt: "The results of a facial recognition assessment on the Polish woman claiming to be missing toddler Maddie McCann have been revealed, with the Swiss company behind the test calling it ‘over 90 per cent accurate’."
-    publishedDateTime: 2023-03-21T01:01:00Z
-    webUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074"
-    ampWebUrl: "https://www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/news/world/madeleine-mccann-polish-woman-julia-faustyna-most-likely-not-missing-girl-according-to-facial-recognition-c-10104074.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 41
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-10104074/651e3340c94fc6b5477eda3ae6d96c4d8a61c7b0-16x9-x0y3w2448h1377.jpg?imwidth=1200"
-        width: 1200
-        height: 673
         isCached: true
 
 secured: "un7LYnH5E8JEhnXV7KWf4K3PoLfMQagIPCmooWOWZfy7XJNkiIGRWngVAxupcsIwHWJxBwNDDWAm7YRrDfQZOuOVP38mXbnwyhEKLalV9KqhGNV8/fj0hiXeWGm99Xq2G+Okv5ap1vgAaGf6YBRYtelnD2aK7qhXMtZN6Ea7NofpLa+fsfmYBt+2P1b9VXaCDTDeG7vhThNWdOVMSenK7fjcMZGWwtmFMnEfOBZeKMORHsrJV2wvirRMPbj9WmYUzynATOkpFuxRk6ZeBiLCFwg4csBsCzJ/q8mi7wvRioIyyfKmf0XUImCA7p8HmVzLlT+2xeIEcWsjM4iod/jfoBmldzwwEiymE13f6M0HQCaq06avh45DD6RUpmpU+R4fCYExEb9gPA/eYKxHojLajONLzbGuQ+RmLgTkUhdzBgVBTnFnS9bmzVCMa2zQOsnUXYhm/lEYa2Z/r7783zjV9gbrpc4twMO+De9zaScIe2g/oMhLsqTxkvrGCtkaJtGWaGn5hCEFsqVhqduvNcg1rg==;btm+c2xd5eSn04JFc4/IsA=="

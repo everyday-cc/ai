@@ -2,6 +2,84 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-07-artificial-intelligence-is-a-powerful-tool-but-in-the-climate-fight-humans-still-reign-supreme.md",
+      "title": "Artificial intelligence is a powerful tool. But in the climate fight, humans still reign supreme",
+      "excerpt": "Machine learning is producing impressive results, and, for better or worse, researchers are now using it to address the climate crisis, writes Frederick Hewett.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
+      "originalUrl": "https://www.wbur.org/cognoscenti/2023/02/07/artificial-intelligence-machine-learning-climate-change-frederick-hewett",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028.md",
+      "title": "Deep Learning in Machine Vision Market 2023 Research Report which Shows Huge Growth Rate, Revenue, Progress Insight and Forecast to 2028",
+      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning in Machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T22:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-deep-learning-market-2023-new-report-global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027.md",
       "title": "Deep Learning Market 2023 (New Report) - Global Industry SWOT Analysis with Strong Data by Prominent Player and Forecast upto 2027",
       "excerpt": "Global Deep Learning Market 2023-2027 research report offers detailed coverage of Deep Learning industry and market",
@@ -1202,103 +1280,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-artificial-intelligence-across-the-lending-life-cycle.md",
-      "title": "Artificial Intelligence Across The Lending Life Cycle",
-      "excerpt": "When AI augments rather than replaces good lending practices, it can support fairer outcomes and improve financial well-being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d7c999764a5279f9a89c47/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/31/artificial-intelligence-across-the-lending-life-cycle/amp/",
-      "publishedDateTime": "2023-01-31T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-artificial-intelligence-aids-discovery-of-super-tight-binding-antibodies.md",
-      "title": "Artificial intelligence aids discovery of super tight-binding antibodies",
-      "excerpt": "Scientists at University of California San Diego School of Medicine have developed an artificial intelligence (AI)-based strategy for discovering high-affinity antibody drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
-      "originalUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-10.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-artificial-intelligence-aids-discovery-super.amp",
-      "publishedDateTime": "2023-01-31T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

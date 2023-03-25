@@ -41,20 +41,6 @@ related:
         width: 1800
         height: 2400
         isCached: true
-  - title: "3D Facial Recognition Market Size and Forecast till 2029"
-    excerpt: "What is the 3D Facial Recognition market growth? 3D Facial Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
-    publishedDateTime: 2023-03-21T00:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-and-forecast-till-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
     excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
     publishedDateTime: 2023-03-24T18:24:00Z

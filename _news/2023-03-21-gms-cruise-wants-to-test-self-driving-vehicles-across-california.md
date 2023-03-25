@@ -57,22 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-    publishedDateTime: 2023-03-21T00:40:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/cruise-wants-to-test-self-driving-vehicles-across-california/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/21/5d0c408a-d53b-4f32-b26f-9d7c139abbc9/thumbnail/1200x630/0695249dcbc4e56685d94122d0e6fc55/ap23079861951135.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
     publishedDateTime: 2023-03-24T18:01:00Z

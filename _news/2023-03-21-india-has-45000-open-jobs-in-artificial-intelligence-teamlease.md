@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/startup/india-has-45000-o
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/india-has-45000-open-jobs-in-artificial-intelligence-teamlease-10287781.html/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 770
     height: 431
     isCached: true
-
-related:
-  - title: "India Has 45K Job Openings In AI: Report"
-    excerpt: "There are 45,000 Artificial Intelligence (AI) job openings in India, with data scientists and Machine Learning (ML) engin"
-    publishedDateTime: 2023-03-20T23:42:00Z
-    webUrl: "https://menafn.com/1105818596/India-Has-45K-Job-Openings-In-AI-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?383860"
-        width: 400
-        height: 250
-        isCached: true
 
 secured: "I+uobB8SJ5ROY+I7bxG4KRmhFq3/3mV4zG1FpH8NbuiJm4HwuMnKZSWs1T87LLJq1cDP2TZfOC4cKdHjsEQNnl9hMshS+gv2RWinJDJeEweZ6Te/K8gY5tpvdg77ls3YqU5o+ggm9gndtcOjF5jPVX8Bv/506qClveSaq6/DVkZiNiUMLeS+dSEATzdFqErluGD9/28rF69+iYqukrw9JH917+8/f62WG5PAtfFpAsuyl8TNyHhyLpOGfcDioa0q/sDOPJNFVU+F/qS75mVG2q3dQccj0mMlOwwSn/Ay89/mtriuC6Q3JayI2mR8AhSDxAwS6pwBa89bAjRC14MjlzqKvImuC6yHZ7dTMLghvaNdmU7KRKwH8vqGeV7Yzs7rUVozps4QRIjVutLPyESxn78VZuH7VJYoS7hJqpsC4SDGBVvbOMPNzzpWdm7J+8E+mje9jXuZ0QdRM37xQrDbrwLnu2VTDg9ZWoTkMmU7ikOVQsy1iazgkjzwtwuteXeiB7U/sTTiKsHFdpjLYQOWow==;ks1KCeOXICOFbEddlDDizg=="
 ---

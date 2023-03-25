@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-22-how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work.md",
+      "title": "How PR Professionals Can Use Artificial Intelligence Tools To Enhance Their Work",
+      "excerpt": "Are robots taking over our jobs? That’s the million-dollar question people across many different industries have been asking as the world of artificial intelligence continues to advance at a rapid speed. But the fact of the matter is technology has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f5b7915a5d68b0459dfcbb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/22/how-pr-professionals-can-use-artificial-intelligence-tools-to-enhance-their-work/amp/",
+      "publishedDateTime": "2023-03-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-22-what-does-fintech-mean-and-how-can-it-help-business-owners.md",
       "title": "What Does Fintech Mean, And How Can It Help Business Owners?",
       "excerpt": "At the same time, AI-powered fraud detection algorithms can analyze large amounts of data, enabling them to detect fraudulent transactions in real time. Plus, fintech companies must comply with industry security standards, like the Payment Card Industry ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -154,6 +206,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029.md",
+      "title": "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029",
+      "excerpt": "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -518,7 +621,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-healthcare-market-global-outlook-2023-to-2030-google-inc-amazon-web-services-inc-sap-2023-03-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1176,111 +1279,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser.md",
-      "title": "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser",
-      "excerpt": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "originalUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/",
-      "publishedDateTime": "2023-03-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-21-google-says-its-bard-generative-chat-ai-is-out-launches-waitlist.md",
-      "title": "Google says its “Bard” generative chat AI is out, launches waitlist",
-      "excerpt": "Microsoft has been criticized for taking a very aggressive stance toward rolling out AI, even cutting its AI ethics team. Google is trying to paint itself as more cautious, saying, \"Our work on Bard is guided by our AI Principles, and we continue to focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-800x523.jpg",
-          "width": 760,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/google-says-its-bard-generative-chat-ai-is-out-launches-waitlist/amp/",
-      "publishedDateTime": "2023-03-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

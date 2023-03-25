@@ -7,8 +7,8 @@ originalUrl: "https://qctimes.com/news/local/education/local-robotics-team-advan
 webUrl: "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Quad-City Times
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Idaho robotics teams challenge world competition in Houston"
+    excerpt: "Originally posted on IdahoEdNews.org on March 24, 2023 Rural Idaho teenagers with a passion for math and science will compete on the world robotics stage next month in Houston. Two teams from southwest Idaho are preparing for the annual For Inspiration and Recognition of Science and Technology (FIRST) championship,"
+    publishedDateTime: 2023-03-25T14:21:00Z
+    webUrl: "https://www.eastidahonews.com/2023/03/idaho-robotics-teams-challenge-world-competition-in-houston/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 54
+    images:
+      - url: "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/03/robotic-arm.jpg"
+        width: 900
+        height: 623
+        isCached: true
   - title: "Will Future Generations Use Robots as Emotional Companions?"
     excerpt: "These robots are often programmed to respond to human interactions in a lifelike way, using sensors and artificial intelligence to learn from their ... can help us strengthen our emotional capacities, start a conversation with others, and even teach ..."
     publishedDateTime: 2023-03-23T17:45:00Z
