@@ -6,21 +6,15 @@ publishedDateTime: 2023-03-23T15:59:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/03/23/9782437.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/03/23/9782437.htm"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
   name: TMCnet
   domain: tmcnet.com
 
 topics:
-  - AI in Autos
-  - AI
-  - AWS AI
   - AI in Healthcare
-  - AI Hardware
+  - AI
 
-secured: "EcaeikRSkM45+Nz+ItbTTH7EaAanFSGL2wzLFHqg6Y678otwc4scobvcFD3SSx2GYfJPD5COwk6wPbprfwBKpf6NV3OoF+2g651/bFPI7eVQHbYpXhFzpVRUFg2hg4aifWIh0SRZIkOxJbjqbuKzriUi5FhkQ9iPfEBTSVFhZqzAK5M6RzEi6iy9N4xlWvoQsA6d7x6risWUgTjOsdBiVnrP5egNGfL6AWnzkAhNiEBUdmo7c8ewzVLQEUkq5GXczkmj5vX7sSl+bCmaQ38a6yMS09lH+XHhf8St/SSQyA8b4vkGKse3lTWMjN0FMjfIwg0ahXjnEmWlZtTtJdvxbBeNDUEBxglUX0aZ615MHPE=;5T+Gb8my/V2PWlwYNcVIJQ=="
+secured: "ce67si5JvJBH53/CyFj8JOKiUmtF4sPODszKv9qpq9jDpSCQ1aw2SqEudjk2qLpU99CA7HUnuSqvMxBJlYduoK8I1NFaRsJnR2eC7Yk1nX3Ob2+pmc3fSObc+9zeVGYfxWXu8643MhL0Yazhpt4YUXkh3ZISy+efnaKSalsidN1x3PvHFpS0VCprVvRo0oEFTDXwfGPqP+LWB8P2Ima2zswlLZkDlHX2oQhk/+5vnZX7IWNQ0xPrZu+k8VFouLpyne1XErQbIVrabt6lHZVXd1LoNiam/F47Xeozf+XaML9mPLmYAQktljAucFkbUpKVhKV/s+fG9H79Nin/6ngSple2hk63I+H/UUYvO/u5Y2A=;Yq//HzYhIqMkx52CwenXHQ=="
 ---
 
