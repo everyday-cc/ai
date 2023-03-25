@@ -62,6 +62,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "The Trump AI Deepfakes Had an Unintended Side Effect"
+    excerpt: "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic."
+    publishedDateTime: 2023-03-24T16:05:00Z
+    webUrl: "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/nrpGbUrI5ioXdZCF06ZFpxZIT2o=/0x31:1450x786/1200x625/media/img/mt/2023/03/a1Screen_Shot_2023_03_23_at_5.22.18_PM_copy/original.png"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Fake AI images of Putin, Trump being arrested spread online"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
     publishedDateTime: 2023-03-24T00:21:00Z
@@ -101,6 +115,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepFakes: How to spot AI-generated images"
+    excerpt: "ABC News’ Phil Lipof spoke with ABC senior reporter Emmanuelle Saliba about the growing sophistication of AI-generated images and how to spot one as the 2024 election approaches."
+    publishedDateTime: 2023-03-25T10:46:00Z
+    webUrl: "https://abcnews.go.com/US/video/deepfakes-spot-ai-generated-images-98112114"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/US/230324_abcnl_prime_saliba_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
   - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
     publishedDateTime: 2023-03-23T19:19:00Z
@@ -125,6 +153,6 @@ related:
         height: 1348
         isCached: true
 
-secured: "B++ik7uKCCCeI0nQik2cf2mWVrRMZ0LofbtSh/9s6QDI+1JS/Qa2UwVaEPSbPm9O0PvGRmynah1zGSCA0yKBqryC56Q8ANfiG3NmJ8/G1+SBlKwrqYntFrO79DM6i9LyVGtX+CNBbP3SehTfrrx+tegmXU/Dk63k+dxT/QhacYFRzSeYpVpSWh7J62gL3rasO8a3WaY/6LQqSk9DpDqxxCAjkZxLB+Dk57koZ4yFvUMLoaOOWqqHOfZ92FLLcrQ500zOFO91iD10Ky25Shikw7C2zHbnA+GW5NF+NmayksBvWNsvNUR6vBJZryweXqMBKHb6EwF40JEsPzXIiFoR3hWrGzAhhT/tFx4qccITH6o=;PBqGCH3/o0c0dABo+hm4jw=="
+secured: "mpzdjkqlJzTUVNaZ/dSbZr/EJwY9RAi4ljPFSaAShnCFXfqClK7PYPnTeEU4nwZiuqUVfmotY5YCak6yVdMy5La0g43bY7dYo5F28JIeZDV6/dlA3wgHoquysp9Wk6D/vPGAHAS9I3oVv10CM1+3obUniy2CVCz1HpYpXptaMwx9IDA+bLCx0YmuJVc4rso5KQnk8Juw70eFCrIpgXWH4Vs7uzl8HyvqcNOPGPZflAXxVsNezwALOXbLYmflsr621VJcwvo5l/5Y8Ov82mDX8K2IOul/XsUl+md9mMJURlhNa2oUnDWs9byT8VquaO3HIEnCnlNiyy/dqyXOzz/iS7A/Bcg80s44wwstMqbbyuQ+gmOzldblo0fWXOKgKPwgyJkok3WoOKAGRQnEHgEYsPfcf6uGSSJgR+/8T1bu7s5/TeA0DLWMxBakmXzYliiSg+hKZGJWwlWMoFTbCa8xRZj1nkG6YAlE9zLXUUtKKkfJjMWWKtaIgfMxLWTB0lTOnheJwy9ZPp9Mv8TPSnG3LQ==;jPSF+DJ0x4mMJJjER+qJYA=="
 ---
 

@@ -27,49 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
-    publishedDateTime: 2023-03-20T17:14:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+  - title: "AI isn't close to becoming sentient"
+    excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston's Applied Ethics Center have been studying the impact of engagement with AI on people's understanding of themselves."
+    publishedDateTime: 2023-03-21T19:32:00Z
+    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
+    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
-        width: 600
-        height: 400
+      - url: "https://assets.thehansindia.com/h-upload/2023/03/21/1342860-chat-gpt.jpg"
+        width: 1200
+        height: 720
         isCached: true
-  - title: "Study highlights complicated relationship between AI and law enforcement"
-    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
-    publishedDateTime: 2023-03-22T02:47:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
-  - title: "Seven things to know about Responsible AI"
-    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
-    excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
-    publishedDateTime: 2023-03-21T19:34:00Z
-    webUrl: "https://www.itworldcanada.com/article/the-urgent-need-for-better-governance-of-artificial-intelligence-highlighted-in-a-new-book-by-mila-and-unesco/533992"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 0
 
 secured: "FHYNwvkR+CCvIQ5Q5Ys+qn59BU59ZSq6uN7vss+sfThjD0Dff6f6DaXmdZFJ3vruFab0tOttaNXr+8AyBdFawSsIW2pgHMYM983ZN3sERokAvtTkmiECo71uXhi/MROv51Nk2IzQekqz06DmyrhG43Ca+/ju+3m8LzslzsFAHEDTTxPqvnSe7B+Uxq0l3PdJLXnUxQOfF8f8pFcVJFnL3WsGlEHSYea+AdR5/2a8k9WmBZ5Ls+JRkDw+T6/QefGKMHpGjj27I0GUfDfVc6jDhsN9b4tTiKxGYFkIW3W6EW+TrGSUL1U8Qud/L6xsdbxxnd9NGg1e+AO4YA+oHLFgY+cSNNwAjxd2VoIlYvZaJZ8=;demzdKxwuv9EXfdHYYcGHA=="
 ---

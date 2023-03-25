@@ -1,27 +1,29 @@
 ---
 category: news
 title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
-excerpt: "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly"
-publishedDateTime: 2023-03-22T09:29:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58619787-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58619787-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai-399.htm"
+excerpt: "SANTA CLARA, Calif., March 21, 2023 (GLOBE NEWSWIRE) -- NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a ..."
+publishedDateTime: 2023-03-21T17:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31444482/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-ve"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/g31444482/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-ve"
+ampWebUrl: "https://www.benzinga.com/amp/content/31444482"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444482"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://ml.globenewswire.com/Resource/Download/c4a523c8-126a-4745-a363-5f47daf1d9bd"
-    width: 617
-    height: 342
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -680,6 +682,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "xYv4OYQ+UhXf3rqsKt63xRSiKZrM9UUYegUTy56alTlh0K06eVQwykKuLY5CubPoiv7s2WoCoTKeK0eB76tdC4i5WqD6dfYYV9Rnza9/5yo8d4y7+T2wPtzKjtofqg3IigV3U2EtJs6t0KB7rgDtPrStBnqZzjhn/WUf+6SWb3fU5B2AYeiiSaTjJXs7+iIXmz9nneC641Bgp6Y8rr/wSE+CTrrpJE+Gu5hjmIOif6kl+j0RZxb8lbOenpwUri129OR10RLfKcahjz8A6ZOp5lemFGh5hqD4ORQba95eoE3wr2FVFCQ2YkNqm35f2S+R35wqxly7OEgyXA5lkCMUfk/TvtAwQWJxAkzmuD/0ZDA=;JqY2aMNg1xNE0HgOYsQp3w=="
+secured: "oyWuidgd5f79QWTy8lolpa0AdbngBdOteRrr2UJA3HuPsbfzq3cltm0+v+UvjWZO4I48VgCDYxTQ7KbD57HBpMAcSZ0AHJ2UEyKSa/T2WkohiT+tgqsGYAcPLpDgpWag5Ave9g60Q5EUOl28BuluZItfYacj6WOXs1lEknK2O3myn2ZY6lH7nmS1+3T7hmufwHaM5I2/BG/80ANcbPys2OXe5SyJib3U6AGLs4YlSg+LpIKFO98L1GMtNJBow5IQ2T6PEY85thJTePSTeTMTGgq3nc56cjPDytzUlsoe116ppjs+rREEBdmM/GsAEAmahpxvUSDKNsbwEr8GKoLsRGUCYAE6+HsdHZL3xshacwI=;/otArNilG/PnOvhBpriHmg=="
 ---
 

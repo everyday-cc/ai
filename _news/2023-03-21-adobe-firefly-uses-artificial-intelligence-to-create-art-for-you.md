@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-21T16:15:00Z
 originalUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
 webUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.pcmag.com/imagery/articles/06yPDMFqj7rof9DhuUZR8xo-1.fit_lim.size_1200x630.v1679414750.jpg"

@@ -41,15 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Mind-control robots a reality"
-    excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
-    publishedDateTime: 2023-03-20T18:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230320102104.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "ljzqLcXPJVldPA9aEpoBoFnLmgLQy9+mzIusRbqYw8JhHiiQaHZSbiEXnmUpAnl+7KGIYWXh4zwV8FjNTMqrmr0WgFFkCPUrRgB6rxqYCBV6ash5yzLRVIRYbvWSxNlls+N8eGLWVtfEiwIAXIh0aNLAPuormCXqnEZtRrGH6vbxzEgZGnfKsfZq64OzCThJvQb4jW/wVKgEA4n44lpveUpkibzwM6OIkZGML9iEgaD0l2wXTqnqT+wcDy7luxMoN94HYN+N3VwQMiwbPD0OSxQEAsJp2jW3YqGSUKf9AqFeBg5jJ+InvaWYHsnQak9y/OVkTitgmaUah4eskmmgEm8N5YjUVxsA26lkWDvrm/k=;QXR16DRsJvEN2j/PTH5ecQ=="
 ---

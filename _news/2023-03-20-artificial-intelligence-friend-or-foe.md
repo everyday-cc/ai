@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.counterpunch.org/wp-content/uploads/2023/03/Screen-Shot-2023-03-18-at-10.02.32-AM-680x624.png"

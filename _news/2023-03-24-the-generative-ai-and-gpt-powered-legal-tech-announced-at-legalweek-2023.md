@@ -25,22 +25,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "CLM Provider ContractPodAi Launches AI Legal Assistant Leah, Powered by ‘Team of AI’"
-    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. Today, London-based contract life-cycle ..."
-    publishedDateTime: 2023-03-20T18:42:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/20/clm-provider-contractpodai-launches-ai-legal-assistant-leah-powered-by-team-of-ai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/ContractPodAI-Leah-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
 secured: "UsXqVMrYukAzn3/+vhFZQNNxx4mCtRoJTg+jn8xlTjj+hUv4t30p1bmYYaf7/iFb36XzzprXxSV3WF73d+MSEhtWpwXN1EHpE5on7bTUUluWl/n9HcG9p1wuwtwMIYmf2ST8YycsoYP2uiiCW61a2Q3eJf4d6mHDiasgsjUBD+IkB90CCn42qhYS7zAbwXB7o7B+TTQGyNTUkE+gb1scrmsrnzO9m3hEbKhSL7SSFkCmbTkvR/XZsqtynHkVQXbhHeT71Itehehi0MqZJAoNg0cyQhEF5hRS76iYzRZPHtwJaGSeboS53sbAaeuKoP5reZppT4xVjLmsYjtJgscqduTvGvVuSr6YL6nDiCIFZ5MzFwiiZlB0RNGnwf5nHnZNImLg1DVOgyixDvEBcsumj/TRy2zGWuB8cg/OdTQUuk/nIPRjqU+/mIChK93MfCluBEUyeyf7ghujvKin/k9tPUfTlSPtEjooaz5d0vdfQacaUlt65700JOOwJl5OiBcOyewA2EeiD/Td0pro9b92cw==;/t4flF2DiwVvvQXqTgEzvw=="
 ---
 

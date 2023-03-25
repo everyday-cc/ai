@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 to 2030 Artificial Intelligence (AI) in Oil and Gas Market Regional Outlook"
+    excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” Are a Collection of Information and Analysis Obtained From"
+    publishedDateTime: 2023-03-24T17:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-ai-in-oil-and-gas-market-regional-outlook-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Food & Beverages Market Is Booming Worldwide Forecast 2023-2029"
     excerpt: "Mar 23, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) in Food and Beverages Market in ICT Industry. The Global Artificial Intelligence (AI ..."
     publishedDateTime: 2023-03-23T17:11:00Z

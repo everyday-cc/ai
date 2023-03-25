@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-growth-and-competitive-landscape-2023-2029-2023-03-21"
 type: article
 quality: 65
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
+    publishedDateTime: 2023-03-23T18:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-manufacturing-and-supply-chain-market-size-growth-global-industry-trends-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
   - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
     excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
     publishedDateTime: 2023-03-22T03:17:00Z

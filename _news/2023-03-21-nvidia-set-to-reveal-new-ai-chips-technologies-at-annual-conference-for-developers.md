@@ -35,6 +35,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "OpenAI-powered app from Microsoft will instantly transcribe patient notes during doctor visits"
+    excerpt: "Microsoft and its Nuance Communications subsidiary announced Dragon Ambient eXperience (DAX) Express, a clinical notes application for healthcare workers that is powered by artificial intelligence."
+    publishedDateTime: 2023-03-21T08:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 109
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107183754-1674658141197-gettyimages-1459359021-_r7a9120_a787ccfd-5888-49a9-b381-b96bf2bf1cd0.jpeg?v=1679499024"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Introducing GPT-4 in Azure OpenAI Service"
     excerpt: "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s"
     publishedDateTime: 2023-03-21T08:00:04Z
@@ -332,6 +348,22 @@ related:
       - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
         width: 675
         height: 448
+        isCached: true
+  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
+    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
+    publishedDateTime: 2023-03-25T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
     excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
@@ -642,20 +674,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
-  - title: "Iterate.ai's Low-Code Platform Adds Integrations with Stable Diffusion, ChatGPT, and Other OpenAI Tools"
-    excerpt: "Iterate.ai has added integrations with Stable Diffusion, ChatGPT, and other OpenAI tools into its Interplay low-code platform. “Like low-code itself, generative AI promises to multiply organizations’ productivity and eliminate even more of the traditional roadblocks to harnessing powerful technological capabilities,"
-    publishedDateTime: 2023-03-20T17:12:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230320-iterateais-low-code-platform-adds-integrations-with-stable-diffusion-cha/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 21
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1679327679/press_release/assets/header_images/Branded_image_generation_with_Interplay_low-code_ipdjlc.png"
-        width: 1500
-        height: 700
-        isCached: true
   - title: "Improving ESG performance in financial services on Microsoft Cloud"
     excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
     publishedDateTime: 2023-03-24T19:14:00Z

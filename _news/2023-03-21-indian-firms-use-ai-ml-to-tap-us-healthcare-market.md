@@ -132,6 +132,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 to 2030 Artificial Intelligence (AI) in Oil and Gas Market Regional Outlook"
+    excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” Are a Collection of Information and Analysis Obtained From"
+    publishedDateTime: 2023-03-24T17:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-ai-in-oil-and-gas-market-regional-outlook-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Premium Research Report Forecast To 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence (AI) in Agriculture Marketinformation for each End Users [, Precision Farming, Livestock Monitoring, Agriculture ..."
     publishedDateTime: 2023-03-24T06:59:00Z

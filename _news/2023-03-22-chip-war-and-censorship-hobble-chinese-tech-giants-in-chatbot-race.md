@@ -34,20 +34,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 64
-  - title: "BYD invests in China AI chip startup"
-    excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
-    publishedDateTime: 2023-03-24T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230324pd207_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
     excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
     publishedDateTime: 2023-03-21T11:46:00Z

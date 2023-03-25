@@ -67,6 +67,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "The Trump AI Deepfakes Had an Unintended Side Effect"
+    excerpt: "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic."
+    publishedDateTime: 2023-03-24T16:05:00Z
+    webUrl: "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/nrpGbUrI5ioXdZCF06ZFpxZIT2o=/0x31:1450x786/1200x625/media/img/mt/2023/03/a1Screen_Shot_2023_03_23_at_5.22.18_PM_copy/original.png"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "Fake AI images of Putin, Trump being arrested spread online"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
     publishedDateTime: 2023-03-24T00:21:00Z
@@ -105,6 +119,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a4dccfd4b352a5d12ed777f2633ccef1.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeepFakes: How to spot AI-generated images"
+    excerpt: "ABC News’ Phil Lipof spoke with ABC senior reporter Emmanuelle Saliba about the growing sophistication of AI-generated images and how to spot one as the 2024 election approaches."
+    publishedDateTime: 2023-03-25T10:46:00Z
+    webUrl: "https://abcnews.go.com/US/video/deepfakes-spot-ai-generated-images-98112114"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 37
+    images:
+      - url: "https://s.abcnews.com/images/US/230324_abcnl_prime_saliba_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
         isCached: true
   - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
     excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."

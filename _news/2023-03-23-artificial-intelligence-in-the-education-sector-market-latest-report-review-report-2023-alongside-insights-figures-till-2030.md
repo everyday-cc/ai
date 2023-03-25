@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Future of the Machine Learning in Manufacturing Market [2030] | Our Research Report Provides Long-Term Trends and Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- [109 Pages Report] Global “Machine Learning in Manufacturing Market” [2023-2030] latest research report provides key analysis of the ..."
     publishedDateTime: 2023-03-25T07:43:00Z

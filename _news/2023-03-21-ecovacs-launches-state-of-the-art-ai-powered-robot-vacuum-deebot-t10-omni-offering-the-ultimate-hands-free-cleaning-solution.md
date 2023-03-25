@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best spring cleaning deals at Amazon in 2023"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize which objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-03-20T17:19:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-20/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-20/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-deals-at-amazon-in-2023-03-20/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/25/f011967d-10f7-4f2b-aac4-3ff98345da00/thumbnail/1200x630/803bae18f1735894adc8e921cbaba836/samsung-jet-bot.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "XUen5N/sCOIcCqnemB/7Jm1Y62ADNYArBjANMlYI87xA+3HJ6yADA+JhPwgLJiroO8W7p8dOm6IQJyTZy8TFcV5Rqd6iLp/dUkFyTRKoORx+taJpL0a3aCQHMnLZ4Oi/1lFkAnzIo8iShOrmSebAEfvNwv7oXxeRnV/ADB8IN+xlAZAf2Fm+kLhK/rleTCcCQlZQkSrnuRaX4RTHLMbrrBOt+h4f/ffFyWtR3mTD7dO9FcCrPs5wjuY7klxoGXBj96DJCt+Se6PLBJ9+ChEEOpSIq5gXvMG2Ubx8tRbwa0G+s8vFu5QTU8N+UvwAYlKe3qoF0nT0494s99iyzJPNCnnTfo8dAhSzDiIsapYus9HQsuKcbZwXhhTFzXOAkr9DhSDCT+LNkK3Mum/VpgJEOSMP482imkoJQg3c/EnOCcdAEWLAku+4OGrwsYaVhZbCFg7lohz8seH4bjeHj3uCrutBtyFk1OLiiF3Q7/i4RiU/sVMXk3jYjUB6yvkSmtXOvaEHJUUZU5QcwSojnZn57w==;NIIMaKX9SOyP2NVcd7GRog=="
 ---

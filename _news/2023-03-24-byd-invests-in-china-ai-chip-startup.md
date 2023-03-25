@@ -3,10 +3,10 @@ category: news
 title: "BYD invests in China AI chip startup"
 excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
 publishedDateTime: 2023-03-24T07:31:00Z
-originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
-webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
+originalUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
+webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: digitimes.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://img.digitimes.com/newsshow/20230324pd207_files/2_2b.jpg"
@@ -26,44 +25,55 @@ images:
     isCached: true
 
 related:
-  - title: "China’s AI ambitions hindered by funding and chip import issues"
-    excerpt: "China’s tech giants are facing significant hurdles in their race to develop and dominate the artificial intelligence (AI) market, with censorship and a US clampdown on chip imports impeding progress. Last week, Baidu, one of China’s leading search ..."
-    publishedDateTime: 2023-03-25T06:03:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/"
+  - title: "Chip industry goes all-in on Artificial Intelligence"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal ..."
+    publishedDateTime: 2023-03-25T11:28:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/mar/23/chip-industry-goes-all-in-on-artificial-intelligence-2558797.amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 64
-  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
-    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
-    publishedDateTime: 2023-03-21T11:46:00Z
-    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 76
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/23/w600X390/Accenture.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Chip war and censorship hobble Chinese tech giants in chatbot race"
-    excerpt: "Search giant Baidu's lackluster unveiling of its chatbot exposed gaps in China's race to rival ChatGPT, as censorship and a US squeeze on chip imports have hamstrung the country's artificial intelligence ambitions."
-    publishedDateTime: 2023-03-22T09:10:00Z
-    webUrl: "https://techxplore.com/news/2023-03-chip-war-censorship-hobble-chinese.html"
+  - title: "This AI in Social Media market research report contributes to the growth of this industry."
+    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
+    publishedDateTime: 2023-03-22T16:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/baidus-ai-chatbot-has.jpg"
-        width: 1024
-        height: 681
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Why AI Requires a New Chip Architecture"
+    excerpt: "According to Allied Market Research, the global artificial intelligence (AI) chip market is projected to reach $263.6 billion by 2031. The AI chip market is vast and can be segmented in a variety of different ways, including chip type, processing type ..."
+    publishedDateTime: 2023-03-24T08:11:00Z
+    webUrl: "https://www.design-reuse.com/industryexpertblogs/53710/why-ai-requires-a-new-chip-architecture.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
+  - title: "Chips industry goes all-in on Artificial Intelligence"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI ... PCs and electric cars to sophisticated weaponry, robotics and all other high-tech machinery. AI already features heavily in all of these ..."
+    publishedDateTime: 2023-03-23T12:35:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/mar/23/chips-industry-goes-all-in-on-artificial-intelligence-2558797.html"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 19
 
-secured: "HNi1MXKqatCe0h3V2ystYsBOOZA+dfq3cxnKeujf7i5LdeL0jPo9ZjdtT/ZkH9dX7l9UUtGEa3zXFB0BtF41ye0G12U93fkyYMCINvS/RYLde/1kcUa21zkglukAUMeKyym6XlIrvetUxr3sWAVbXW8KM4ueZFQuDa3GFfz8GBm/rLY1XifBAZgoSaC5mwga28CezadYAPP8Jij0D7yAZNMZFoBmLHk3frAaJmKVJinBwhf4vh2v24yX9cWCyXvaU5ljijW7nM/HWkGCojVgaUZL2jgFeCK/a1SSEuM4oVn7pBs0UGe1EmC77rH3G/s9UqjncIZ7RYmt+ouyT9SKBKa5G5imNMa8CgCu8CcpSu4=;RutnXhQ/jROougEVd9dt9g=="
+secured: "mlagE4lMem0+7IuaLLppSUMsubdiRKC7vr5SdSeF30A85YvOwg1/hyrjKULNaqfASvNyjn2HsE2ejT+Yr9RkushA1nlupIbxLtN7zthZX54s3jhv9ji3fHFQrA3qv0kLNeUevJy2rXaTeIG94vI8P/T24iJyNGOrZzYxvr1iAdIEuB2MOT+XoqVsnrNce1go8hiRqTzfpUnv6N/I+bUrkSpINlz7KNfvRu2dlq7sTXY8bS2q7GT94I77bM1Njy8CgUrLs8TNZbG/q4F5IE3g2tet66zW++QPvcvYGNPKRRs54ySS/ZhKLPFNmtZo277ZLj9y/E9zHJ8PLFgEh2qaGfrTRaN4J2mt0eMNoflTB4s=;K0x43QWw3Qd19DEOwvBBUA=="
 ---
 

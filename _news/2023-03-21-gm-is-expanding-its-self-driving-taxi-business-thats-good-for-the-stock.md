@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Department of Transportation reschedules self-driving corridor meeting"
-    excerpt: "The Michigan Department Of Transportation has postponed its March 22 public meeting on the environmental study on a proposed connected and automated vehicle corridor project along"
-    publishedDateTime: 2023-03-20T18:28:00Z
-    webUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.html"
-    ampWebUrl: "https://www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
-    cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/michigan/article_929ce1f8-c744-11ed-832c-33d6845aa226.amp.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 44
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/7/fb/7fb70e92-dd9f-11ea-bcef-bbae2de749ca/5f359ba20f300.image.png?resize=1024%2C577"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "Cruise Weighs Expanding Self-Driving Car Tests"
     excerpt: "DETROIT — General Motors’ Cruise autonomous vehicle unit on March 20 asked California for permission to test the cars across the entire state. Cruise already is running an autonomous ride-hailing service in its hometown of San Francisco after testing ..."
     publishedDateTime: 2023-03-21T14:18:00Z

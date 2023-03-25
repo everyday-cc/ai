@@ -316,6 +316,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
+    excerpt: "SANTA CLARA, Calif., March 21, 2023 (GLOBE NEWSWIRE) -- NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a ..."
+    publishedDateTime: 2023-03-21T17:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31444482/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-ve"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31444482"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia has come to dominate the field for selling chips used to developing generative AI technologies, which can answer questions with human-like text or generate fresh images based on a text prompt. Those new technologies rely on the use of thousands of ..."
     publishedDateTime: 2023-03-21T15:45:00Z
@@ -510,20 +526,6 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/03/21032023_NVIDIA-L4.png"
         width: 1087
         height: 547
-        isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
-    excerpt: "NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly"
-    publishedDateTime: 2023-03-22T09:29:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58619787-nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 36
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/c4a523c8-126a-4745-a363-5f47daf1d9bd"
-        width: 617
-        height: 342
         isCached: true
   - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
     excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."

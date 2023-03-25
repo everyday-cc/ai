@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This AI in Social Media market research report contributes to the growth of this industry."
-    excerpt: "This \" AI in Social Media Market \" report offers details on the size, scope, and potential of the industry. The research can assist companies in spotting industry possibilities and potential dangers."
-    publishedDateTime: 2023-03-22T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-social-media-market-research-report-contributes-to-the-growth-of-this-industry-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
     publishedDateTime: 2023-03-23T10:41:00Z

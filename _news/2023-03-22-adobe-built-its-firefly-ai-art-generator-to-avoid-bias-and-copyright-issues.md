@@ -122,6 +122,20 @@ related:
         width: 1100
         height: 733
         isCached: true
+  - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
+    excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
+    publishedDateTime: 2023-03-21T16:15:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06yPDMFqj7rof9DhuUZR8xo-1.fit_lim.size_1200x630.v1679414750.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Adobe Launches 'Firefly,' Its Very Own AI Image Generator"
     excerpt: "It's a large undertaking, but the company does seem to have put an emphasis on establishing a set of ethics for its use of AI, and is using those ethics as a framework to build around. As mentioned, at a basic level you can generate an image of pretty much ..."
     publishedDateTime: 2023-03-21T17:12:00Z
@@ -135,20 +149,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/adobe-launches-firefly-its-very-own-ai-image-generator/l-intro-1679417994.jpg"
         width: 1600
         height: 901
-        isCached: true
-  - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
-    excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
-    publishedDateTime: 2023-03-21T16:15:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-firefly-uses-artificial-intelligence-to-create-art-for-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06yPDMFqj7rof9DhuUZR8xo-1.fit_lim.size_1200x630.v1679414750.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
     excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."

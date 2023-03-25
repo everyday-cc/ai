@@ -22,56 +22,22 @@ topics:
   - AI
 
 related:
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "The recent frenzy over language processing tools such as ChatGPT has sent organizations scrambling to provide guidelines for responsible usage. The online publishing platform Medium, for example, has released a statement on AI-generated writing that promotes \"transparency\" and \"disclosure."
-    publishedDateTime: 2023-03-20T17:14:00Z
-    webUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-ai-arms-highlights-urgent-responsible.amp"
+  - title: "Law enforcement & artificial intelligence – it’s complicated, says NCSU study"
+    excerpt: "RALEIGH – A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI – such as ..."
+    publishedDateTime: 2023-03-22T10:59:00Z
+    webUrl: "https://wraltechwire.com/2023/03/22/law-enforcement-artificial-intelligence-its-complicated-says-ncsu-study/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/22/law-enforcement-artificial-intelligence-its-complicated-says-ncsu-study/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/22/law-enforcement-artificial-intelligence-its-complicated-says-ncsu-study/?amp=1"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/the-ai-arms-race-highl.jpg"
-        width: 600
-        height: 400
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/03/arseny-togulev-MECKPoKJYjM-unsplash-e1679482039960.jpg"
+        width: 7753
+        height: 4353
         isCached: true
-  - title: "We need an AI rights movement"
-    excerpt: "A new dawn is breaking. This is just one of many reasons why we need to build a new field of digital minds research and an AI rights movement to ensure that, if the minds we create are sentient, they have their rights protected. Scientists have long ..."
-    publishedDateTime: 2023-03-23T17:00:00Z
-    webUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/"
-    ampWebUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2018/07/humanoid_robot_07272018_1.jpg?w=1280"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Seven things to know about Responsible AI"
-    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
-    publishedDateTime: 2023-03-23T09:01:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
-  - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
-    excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
-    publishedDateTime: 2023-03-21T19:34:00Z
-    webUrl: "https://www.itworldcanada.com/article/the-urgent-need-for-better-governance-of-artificial-intelligence-highlighted-in-a-new-book-by-mila-and-unesco/533992"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 0
 
 secured: "n6z74fmtkfSBDjT2wNXvU1mF8YlM+tcy78C/orEKceP2EJDP6minhcHmIG9Ja7c9k7BVglhN2vQjZ6fAs83W8M/viatiyeltxS2xMJFPIRbnHCZPNOXvpzPobbAhM2IeDpPVnApVeg3QEnsmbKXwW4nNSVu2W0Tl/a5P274ZxjBthO4Mi38XfAmtdql8V/Qaa/Nueh6k3r9Fe7KOsThSQL5bm82ZCYzGeh7fxIiO0jRGvAZ3C79Gp9tmmV4TpTXUxFMfufjy0jvTFbWrl/wkESKnEGBC3Pv5Vq3BOKPUPWFk6fX3zvNcofi1XlHJcgyraIElBE9OZl1GfeBK99TWtxSqJ0WcleTzmgfJOn5ZDkE=;w8TB2E8JLv/vF3TY89BAJw=="
 ---

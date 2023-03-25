@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/report-on-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24"
 type: article
 quality: 97
-heat: 297
+heat: 307
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 to 2030 Artificial Intelligence (AI) in Oil and Gas Market Regional Outlook"
+    excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” Are a Collection of Information and Analysis Obtained From"
+    publishedDateTime: 2023-03-24T17:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-to-2030-artificial-intelligence-ai-in-oil-and-gas-market-regional-outlook-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

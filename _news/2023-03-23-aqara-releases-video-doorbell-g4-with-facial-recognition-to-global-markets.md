@@ -63,15 +63,6 @@ related:
         width: 1600
         height: 890
         isCached: true
-  - title: "What manuals don’t say about life with a facial recognition video doorbell"
-    excerpt: "Users can lose control of their investment, antagonize their neighbors or inappropriately feed a vendor's database of faces."
-    publishedDateTime: 2023-03-20T18:54:00Z
-    webUrl: "https://www.biometricupdate.com/202303/what-manuals-dont-say-about-life-with-a-facial-recognition-video-doorbell"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
 
 secured: "iJYRiGPSYbtptyyNTmt0CFAhmbO+SeBJcrkea4l9+Qndq0U417XXGBmop9drygL7bsf6EjXpoEpyfPU11MetSpGBjCoaQCHdE2/kK7KIzzAGC7C1bWJGVE0RQeVfzF6SqysFC1VoO1/Y0Us5IAP1aA2TpOMY0qI0woQ8IfN06DDhfWpA7Hxqlmks9MILnsF4nSpONKM06MdIe1KS1K/e4yvi1fB7MNTvAxtr6gSHayxBx5dOpqxIu0+V4Z2whXhp+tinsq2kA+CmJKhI0qgbYEh41l7UBGgqZZyOGdQ1jlvbMcMwBW9Z3OYrjF/tXiNcj1nF4ovl+egYoH1ypGdvoYNBOQpO7TCAgux4atOniz8=;m2RuXrxaSh/KGm9AnBAauw=="
 ---

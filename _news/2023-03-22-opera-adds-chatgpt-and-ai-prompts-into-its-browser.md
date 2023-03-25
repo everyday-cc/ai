@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
 type: article
 quality: 87
-heat: 287
+heat: 277
 published: true
 
 provider:
@@ -141,22 +141,6 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Artificial Intelligence, Web3 and ChatGPT is set to change GCC real estate"
-    excerpt: "Artificial Intelligence, Web3 and ChatGPT will soon disrupt the real estate market in the GCC as Web3 technology-powered start-ups are entering the property market in a big way. The real estate ..."
-    publishedDateTime: 2023-03-20T18:21:00Z
-    webUrl: "https://www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate"
-    ampWebUrl: "https://www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/artificial-intelligence-web3-and-chatgpt-is-set-to-change-gcc-real-estate?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=f30e922d-3438-59ee-b54a-e108b5305944&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.37438&width=1200&height=675&x=1.0E-5&y=0.1381"
-        width: 1200
-        height: 675
         isCached: true
   - title: "ChatGPT shakes up European Union's plans to regulate artificial intelligence"
     excerpt: "The European Commission, the EU's executive arm, first announced a plan in April 2021 for an AI rulebook, and the European Parliament hopes to finalise its preferred AI Act text this month"

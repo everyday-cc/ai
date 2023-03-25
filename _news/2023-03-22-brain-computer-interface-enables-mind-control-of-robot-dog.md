@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202303/brai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202303/brain-computer-interface-enables-mind-control-of-robot-dog?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mind-control robots a reality"
-    excerpt: "Researchers have developed biosensor technology that will allow you to operate devices, such as robots and machines, solely through thought control. Researchers from the University of Technology Sydney (UTS) have developed biosensor technology that will ..."
-    publishedDateTime: 2023-03-20T18:27:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230320102104.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Biosensors Could Allow Robot Control Using Thought"
     excerpt: "An advanced biosensor brain–computer interface is bringing thought-controlled robots a step closer to reality."
     publishedDateTime: 2023-03-21T10:15:00Z
