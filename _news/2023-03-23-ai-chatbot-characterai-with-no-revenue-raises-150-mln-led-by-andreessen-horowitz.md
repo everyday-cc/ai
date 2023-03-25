@@ -263,6 +263,15 @@ related:
       name: YAHOO!News
       domain: engadget.com
     quality: 49
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
+    publishedDateTime: 2023-03-23T16:40:00Z
+    webUrl: "https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "AI tech firms eager to join chatbot trend"
     excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
     publishedDateTime: 2023-03-21T00:47:00Z
@@ -439,6 +448,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 17
+  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
+    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
+    publishedDateTime: 2023-03-24T22:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "7bWBJBjtJ6cn6a6Ex1irfcwA4UqmPGwv5IwdhxPabKG0al/MAt783/2Zn57M5mEs2vbwJ2bBUzxic1IuMlT8vHDeYof6QZYLEuZTXwQijUbdVMKGYHHEVq178ts3V83W0q4SUMdktt9RDstG4Tyf+6bFudKGuojddY7MVChEArdiyLyqs+MQmTitqRcKDLnaIAVPiU6Rt6AoNjqai1rA6+rWV6Ynullb3MLE/tRdqnbZyKoIAV7r04XpIU72Xf3n7dgVf8hMwrQRPrJZ34/54RTSR5LWCufQ0YPPc7y9PGJZZD1TSEFoU7z1GvdtoRLkE4zcwkcM2SyyhJhrx+I2v4C+rRZFuuICIqeAohR65eQ=;8Gw2C0epXTYqhQwTd/hVpg=="
 ---

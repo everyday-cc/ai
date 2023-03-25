@@ -29,13 +29,18 @@ images:
 related:
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
     excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
-    publishedDateTime: 2023-03-24T18:27:00Z
-    webUrl: "https://tulsaworld.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_ed112bb7-6c67-5b5f-8871-22b6c3a25483.html"
+    publishedDateTime: 2023-03-24T23:33:00Z
+    webUrl: "https://www.nwitimes.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_64ec900c-1c01-552c-811b-640a7782e646.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 19
+      name: The Times of Northwest Indiana
+      domain: nwitimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/ba/8ba455d5-3224-5ed6-b963-430a56f103d8/641e2fca70e99.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vAcv92jIhUPBhxQ2+OFwYXh8VFsPzk6csaxrBIl3L7e/uLit7eVc0O9rvDEZiQZNdS47zJrisuOPFt/rhhQBZEnNJh3zVyAkreILiQoXkzI0nC/4E4tcwNbi2ZUD7WX6S77zHzJRRIlEJLlZjgMdPK6+U6bfhfLfT/GMfRf7ZiXaVvoImmi0H/v9w2iMKkK3ZEwDnjsQelfM5IUDD5LINTP3JExtLNbs3clTKupeScgj/xMnpCnDR0lsSWaNtjK+krMNW1L6ogY2jmDOoJMb5AJBayuYODLJfyj/XX5cdLNJ3nt+iYlbp0tFzKStEIiNOQ7iMVjngIiLhxzuh4Iz46uxv7TmWG4htxlg9ymjuajWEnKVrv1F9bOx1KFeLjLahGeup8ZF7xLSSgYnEmS50xTHnsV60qSMrdOJ88U+D/6IjlWFmlYlfbUDNA+YdnkM3lsNkNywJn6E1lM88o6J+bN1DwEM63hhbF4sEZZXiexrjq0jM9R3GF3vdkUaDAS+XxltcGP3Pl+XBQDNFUb4ow==;Fx0bYIKreyj2nYmr7zEcNQ=="
 ---

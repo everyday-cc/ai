@@ -212,6 +212,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
+    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
+    publishedDateTime: 2023-03-22T16:24:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-748612/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NVIDIA goes all in on AI, shares progress at GTC"
     excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
     publishedDateTime: 2023-03-22T21:17:00Z
@@ -225,20 +239,6 @@ related:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
-        isCached: true
-  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
-    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
-    publishedDateTime: 2023-03-22T16:24:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-748612/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Departing Intel exec to focus on loosening Nvidia's grip on AI for movies, games"
     excerpt: "REUTERS/Arnd Wiegmann March 21 (Reuters) - Raja Koduri, the chief architect at Intel Corp (INTC.O), is leaving to start a company that aims to loosen ... lets movie and game artists easily use those AI tools whether they are using a PC, Mac, iPad or ..."

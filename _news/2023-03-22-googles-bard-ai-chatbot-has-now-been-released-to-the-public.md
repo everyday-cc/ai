@@ -273,6 +273,15 @@ related:
       name: YAHOO!News
       domain: engadget.com
     quality: 49
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
+    publishedDateTime: 2023-03-23T16:40:00Z
+    webUrl: "https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "AI tech firms eager to join chatbot trend"
     excerpt: "Chinese artificial intelligence firms should pool more resources into improving algorithms, computing power and training data, as GPT-4, the latest large language model developed by US-based AI research company OpenAI,"
     publishedDateTime: 2023-03-21T00:47:00Z
@@ -435,6 +444,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 17
+  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
+    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
+    publishedDateTime: 2023-03-24T22:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "FUq2rthFAFPfT2LLFwj6lcnhY2I+qVZsLlsRucBCC/kpakXoqGaiciedePtS7SNSpDZjwCb/CHUegZTK3RdtkMNI/QNOeFXtD3n1p8yi5i4zqxFQVKeezLr+HNMsQk09sDlhUyiYQexbMBhx5XyfpUurxn+yKCcuDwSxWgGpbolXXgbfg7p09MvHtIvAzlKlyGZ+VDD9So2MU205KEui8uEZcHcPQUrGuJrzqR63UMPRhx+dz0iKtdTzOK7tK6dCQSzrqpceDXZaRwNNmsKJ3+9ZU12j8pUmnL7UWesJa39ZHXi5i/O42mh9a2N6BkigDpJBxyY5ZJsbDb2X9hCbGiX9vm9lHKBWTtP3XzL1Q63aXY4FQ65vT6AjK//f+cV8aRSzjXuPtUtdAw7lp4Ej41bH9br+wzRW4uz9SQXGATVgygXd5GHDHUv1peHjT1i6AfQGCgrCDbgw/dt2nVxFknrhG3jNcz45x5lfcTsyHLqKXic1vTJVu/t/EQ6RD7/aTIu3+p9jMwcEuC/946WJJA==;MT5/t4i3qj3xzWsFj9zoFg=="
 ---

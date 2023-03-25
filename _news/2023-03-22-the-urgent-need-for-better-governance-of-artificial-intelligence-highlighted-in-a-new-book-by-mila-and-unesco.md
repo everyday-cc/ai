@@ -75,6 +75,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
+  - title: "Seven things to know about Responsible AI"
+    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
+    publishedDateTime: 2023-03-23T09:01:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
 secured: "GitaDB3Dpc2Kpf4FYQ81aBxTXEATnqyisPpFVGYU2LdIpoUMXlAh6Y8Tov/sXgeqsPokMmk37U2aju1hgfvKuzXif/kN7NNCL1l2hTByLLfSp8Nqd6iN6OF7OVHbKrVIlPk1ZmVxp9VJgxLpZ8zz95YrmIrV5YAz1xjSBYSexUQl1cMs+fadByB4wpFvOE9cB4IA5I1GyadEUQC4jpmyRZPFbZwN9W8/Jxy4SSzsAmL/PxC8BdWr8kxvGk/yqBtru5a+Agj9Az+DoG1CzLqdNTLoh0CaRQCFl3RESo35xHKD1XK1vBgFEtqfuqsLQxgvKuvVL6v3RC4TVnf6uGh+Ze2c1joifH8GRCwyw6Ph6afwOdRa0FKt0atrP+fR65AxmJHmotF5K0Rwh46DbR7BBNBAKZlDHsUPZNCAegPyzjqvPzWEJeEwtO6Ffe4hkaMpUtBjVUs1w5VNQMILIbTQ058rkOoQXVHmb+5evztmQ36aBlN9C94Qf08sAxe1AHRQn5iTWw5K5Z/f//tpCdwQOA==;WR71PxFIJzyJqdtSAvDWqw=="
 ---

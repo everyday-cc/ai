@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-ma
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-chip-market-size-and-forecast-till-2029-2023-03-20"
 type: article
 quality: 88
-heat: 238
+heat: 228
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
     excerpt: "Market Updates(360marketupdates.com) published a new research report on Natural Language Processing For Healthcare"
     publishedDateTime: 2023-03-21T04:54:00Z
     webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-trends-and-forecast-2026-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market LATEST REPORT 2023 to 2030"
+    excerpt: "The global Artificial Intelligence in Manufacturing and Supply Chain market size was valued at USD 1458669.56 million in 2022 and is expected to expand at a CAGR of 21.67% during the forecast period, reaching USD 4731719.69 million by 2028. The report ..."
+    publishedDateTime: 2023-03-24T21:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-latest-report-2023-to-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch
@@ -152,20 +166,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Size 2023 Will Grow Rapidly Another Level in The Forthcoming Year 2029"
-    excerpt: "Facial Recognition Market Size 2023-2029 | New Report (104 Pages) | Information Technology | In This Reports Facial Recognition Market Provides Top Facial Recognition Companies (ASSA ABLOY AB,, Thales Group,"
-    publishedDateTime: 2023-03-20T05:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-will-grow-rapidly-another-level-in-the-forthcoming-year-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Collaboration Market Share and Forecast till 2031"
     excerpt: "Many major technology players are [Ku Zoom.ai, Microsoft, Cisco, iotum ... Based on Product Types the Market is categorized into [Solutions, Services] that held the largest Cognitive Collaboration market share In 2022. With the aim of clearly revealing ..."
     publishedDateTime: 2023-03-22T04:43:00Z
@@ -189,20 +189,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Chipset Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Deep Learning Chipset Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-20T06:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

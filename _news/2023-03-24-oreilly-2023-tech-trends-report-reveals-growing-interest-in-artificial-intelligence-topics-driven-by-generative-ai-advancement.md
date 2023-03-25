@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-24T13:00:00Z
 originalUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
 webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
 type: article
-quality: 5
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
+    width: 300
+    height: 391
+    isCached: true
 
 related:
   - title: "Five trends set to transform fintech banking in 2023"
@@ -117,6 +123,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "MQNpMmQwtlsS1/pU6JHS8xIdd9QZI8W9ZjGL9qGpq9M3NRAMwq59P1Y3sPpKT7HCmUtlxQG6i5yt42FwSgfUpiRrvb6vJ+USw5TzgEavPTTzAxXhxz9eia9Lma//jfezyq0ieiOSSxkkDhv8BhpPyn88PLnIXxHWEIVASbZJQZ0paJWc1EVyeYoqvCZBMpmLF2+N7InH3yqeNj6XbB4MtCJd9vC6tmshmuabGiR/z8EyCeyY8SA3CSYSVrxup+Zd5Os3qSJ6YyJ9yo2msRJPDvEwO/8YUrYj8ori3kUpnN2Rh+OM5hseA8rBIwWd5wg2C2Niar/HZKMEtQgqJj8qTYUg/RsBVLhc9wuWnVyFdEk=;zRob2WZiqktFwcGDI+DE3A=="
+secured: "LAVLLuOAYNZe6FCCx7ysIooskIEi9TGSJQrdwdUhI/IRHX0QPJYxAMVVZDAhNbKqzEN5tt8wVGL+a9HntXM6tci5y3WmToS+gHAHJWb+5LgYMU4fjXFsxFo4ZPI9sIrLqsaTopaHmgo9zS0rydjrOehbtuGTLatrUIN/mlu4eDF+Tfz6auu0wb8RCiOI7ZmdUsy2DWzQ75mth1Xeqto9GT4jSNiFIvTqR6srNCw+YXpnY42cHcIb4P1lO0aH9XI4T2uE4q4a5n2fAu17aFNl49KHiKxmswYUliUznIc8prFQ7zozCCG1FcaBkl6b/Rr67mCJU7aDjfjDMNruD0ZYcuHCxIuzzePZ+pAA/D+ANaI=;2W0yYEoWdYHpnbn+1CXZVA=="
 ---
 

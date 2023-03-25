@@ -24,20 +24,99 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine Learning Market Outlook: Examining Demand and Growth Projections Across Industries till 2030"
-    excerpt: "Mar 24, 2023 (Alliance News via COMTEX) -- Quadintel offers a thorough analysis of the Machine Learning Market, including assessments of business solutions, studies and advancements, applications, advantages, benefits, and breadth. This market research ..."
-    publishedDateTime: 2023-03-24T17:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24"
+  - title: "Machine Learning-as-a-Service (MLaaS) Market SWOT Analysis till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- “Machine Learning-as-a-Service (MLaaS) Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ..."
+    publishedDateTime: 2023-03-24T22:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-swot-analysis-till-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2023-A Detailed Analysis till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (The Expresswire) -- Artificial Intelligence Platform Market Size 2023-2028 | New Report (126 Pages) | In This Reports Artificial Intelligence Platform Market ..."
+    publishedDateTime: 2023-03-22T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2023-a-detailed-analysis-till-2029-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine-Learning-as-a-Service Market Size in 2023 To 2030 | Amazon Web Services, BigML, Crunchbase"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Heraldkeepers) -- New Jersey, United State- This \"Machine-Learning-as-a-Service Market\" report offers a thorough analysis of the industry, including forecasts ..."
+    publishedDateTime: 2023-03-24T18:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-in-2023-to-2030-amazon-web-services-bigml-crunchbase-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Deep Learning Neural Networks (DNNs) Market Report on Industry Research, Growth Trends, and Competitive Analysis 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- Europe deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
+    publishedDateTime: 2023-03-24T18:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-deep-learning-neural-networks-dnns-market-report-on-industry-research-growth-trends-and-competitive-analysis-2023-to-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Is Booming Worldwide Forecast 2023-2029"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in Platform as a Service (PaaS) Market in Information and Communication Technology , Information ..."
+    publishedDateTime: 2023-03-24T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-is-booming-worldwide-forecast-2023-2029-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Applications Market 2023 | Rising Demand in Upcoming Years till 2030 | 82 Pages Report"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The Automatic Speech Recognition Applications Market (2023-2030) research report provides a detailed analysis of the market's various types ..."
+    publishedDateTime: 2023-03-23T10:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-applications-market-2023-rising-demand-in-upcoming-years-till-2030-82-pages-report-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Deep Learning Neural Networks (DNNs) Market Essential Business Expansion Strategies and Key Players 2023 to 2031"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- North America deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
+    publishedDateTime: 2023-03-24T18:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-neural-networks-dnns-market-essential-business-expansion-strategies-and-key-players-2023-to-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "SpUfFl5gm0m5l6PPFMMdYFNVmjqEnVyO/d8sqlNaf2Swq07ZQIPypHbkxMZfudAwtm+blSiO/zYlW5jxhuI3K8sfxj+pr38Ce8JrVZ/eLC0bc1OlvzGmb+aZX5DlBCT/vLhuZPq6Uqcxth2GQtT74aM5Pk2bbsDY90RRjtkbJ2SxHqouTGed7QR5S8O/yY0w485PYHiYkOYeVs/xVlQWzqSxhgf2gMVIVog8PRTKe1Q6X6oqoYcusyoYvZDJDhiE/L8GXko/2olpRvkcp+UCF9nKM9mGwtDRzJNiPBrYMxgZyyw6eyul8aB5Dzcf3CjrwEnk8Nsb5TWA7aRZs494bIKsRGirres5PSh6rtzZ3BQ=;irktUWy1DeeUhpeUniTDlw=="
 ---

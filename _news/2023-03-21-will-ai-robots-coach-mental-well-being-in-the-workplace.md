@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 408
         isCached: true
-  - title: "Competing With Robots Is Making Work Worse"
-    excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we’re just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
-    publishedDateTime: 2023-03-20T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/20/competing-with-ai-in-the-workplace-is-fueling-incivility-at-work/2bddcef8-c70f-11ed-9cc5-a58a4f6d84cd_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Competing with robots is making work worse (Opinion)"
     excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we're just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
     publishedDateTime: 2023-03-22T08:00:00Z

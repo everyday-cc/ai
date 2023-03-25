@@ -2,21 +2,27 @@
 category: news
 title: "Trump arrested? Putin jailed? Fake AI images spread online"
 excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
-publishedDateTime: 2023-03-24T18:27:00Z
-originalUrl: "https://tulsaworld.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_ed112bb7-6c67-5b5f-8871-22b6c3a25483.html"
-webUrl: "https://tulsaworld.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_ed112bb7-6c67-5b5f-8871-22b6c3a25483.html"
+publishedDateTime: 2023-03-24T23:33:00Z
+originalUrl: "https://www.nwitimes.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_64ec900c-1c01-552c-811b-640a7782e646.html"
+webUrl: "https://www.nwitimes.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_64ec900c-1c01-552c-811b-640a7782e646.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: The Times of Northwest Indiana
+  domain: nwitimes.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/ba/8ba455d5-3224-5ed6-b963-430a56f103d8/641e2fca70e99.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
@@ -36,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "elictZahW43HbehqX0m0pb8ipj0+ZdFcn9KUM+FiQwQO9qtPBCsnmMI4OdgyWWaenGlmbA8ftaPEcPZN19IufRxFYpz+p8B++aWod7hubHpQykLAmIGfDU0aSZnqPIK1H2A7ProAtSaYrDHRY+8lnC9VMQq4HxQAABdQ1/XlzmxjM1ikR1R12vck4KC3mdiT3D0aKM7+8+CW9xpqPzER5kt1rUok0UfwHYw+HndtjcTOqVMbG2NvpWc6BpV6i+L2XSBggnA0/06VJDaT7STMyMSdQ6b05z+k3BRQKG+B/MY3cSn+agVEELnJv+JcEw99fnG/ySTZjhL/4opQRsIWmVziCw6WfGJ8dBGUmPIyWU1OedsmG7q9KyuZPxrMPeTxus7c/pnxWA4iHRl1EINmFCQe4a31RBIaL1V2y/SrvmSaJVAnrKKgGTuMiiZAULRRHc6VWOF+OGM5vu5w0FZHfdqa3cq8c/lpSJ5tHXZc9yTrA2nyqATTg5r1sPpIm/VVqIGmIEI2hNXoY9skd1/+XQ==;n0zf32jthjbOuzkMTaISMw=="
+secured: "o96c9oorFyIjcGYQPx2MO5c4i7La+pr87Wp/7ulG+1JRHZWlhLVK65r0Iio6cLiJ5UJM2oQkG/B0NJ2kltknD50Yq0lEXIu7pwuRhg3OysTXpks9ZtBe10IuhIPBmish2jC9a1KwVpsQbMEAjAj0WtLYuBv3CjUluVIotd3NDCbQIXZjsWhSv10d9ObLrS7w8JgYHbvloeokFhjgQmTTB+YQzHWQh8EEgaVPLRyBidLbJDIpKAgTtqGuc43jqPhZ/GdgNmjl+HPEb8LlbrzuJWHhMtei8zq3saZzyhUxp5cQ/R7HTYVQpnDOa83FGdpbXcgM9yy5kfN9abbtTZ5Bmk1mTWeoXQnQljgwuv0NXwA=;F6OOHYbqDXZQi+YFlatWLA=="
 ---
 

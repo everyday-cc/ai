@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Cruise wants to test self-driving cars all over California"
-excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
-publishedDateTime: 2023-03-21T12:22:00Z
-originalUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
-webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
-ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
+publishedDateTime: 2023-03-20T20:14:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/03/20/cruise-self-driving-test-california-autonomous/10b20050-c777-11ed-9cc5-a58a4f6d84cd_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/03/20/cruise-self-driving-test-california-autonomous/10b20050-c777-11ed-9cc5-a58a4f6d84cd_story.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARGKLEGHPQI63HGFUWFE63MEZU.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -113,6 +111,6 @@ related:
         height: 674
         isCached: true
 
-secured: "G9TVAARycjjGF7VMHaCax1WSRkIOZKn8FXvOwHIlE7ZOtC8Ff777i+dEg9XWCtmkwBPU2HAFgruq3qC0ItQUYjFh9v4IvuPePvBFugqob1bz7sWlVkXMVqZ2vz+AoTLzfWVJTJjDPEja5XrWNxXKDNm6aw9ClI0A5Cf+Ei0a/Q+4UBONZyeMfvaf+mucQ6TgxTYnD9GLuLuC7JId8eq/A0NSSqLxnx77Mh9PLwcR08Th7sh7LF1QfqhMF/3RMKcpqzCORYXUI6as4JYYoBnY1dCUETkcZCZKYUtbF1V+tkEJcWR3dBkNLQP58RCQUgCRZA12GRM+awX/duV25PZ1ZqKtjuogvQHW3SAhByWT6vdCbhdZeWBKEBosy7kxtJPwQ0mEXYe4YPTtNNFsK8C4eNJgcEee3YhlpCerZo2IbHOwCBTItgd6+T11hPdOpnT1YfJkswVlPlw4xeVbNVBZwdcS6a3/5VJHV5rdo1//M7vQSHtAThAEClWYNlCaI0G4tRkmL9unSmqNODAviWIwrg==;ufBrlG9rmkH/rpQcAsqKGQ=="
+secured: "jsRgPqgTPs2dxOhFRNV/yBDin44SLKpraOMxhmG/KUVY37zeprl3tas2DVTbVi8dWu3Gl9Rl1rJ8D7pN3isj2NqPNMpXx5755sB6fw7Yu1y3jPc0O4qwRLW1lXZgEEWrJFQBtiJbWSvgQOCMEBwJWGgFFsv1MufJyHDDCyLrJZdm1N9eHm1tlSgHvPql87gb77F581HilShyN7P2mTYS2kD9XEj3zByplKfK2gSWW4ZxhSLVC7w5hcqr+uDKqDkRvLFk93+id2oCN8eoN0s86NBA/APMc1hHbHuyusmd9iqbncSZGIttgo9WNUDZVt6D0KZB+SRLcbPsBo9+kLTspJCiF+E6MNR1wQbk8ESADlQ=;9qPejhWHLw7fmkabvLXi3w=="
 ---
 

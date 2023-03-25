@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-foc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/mozilla-launches-a-new-startup-focused-on-trustworthy-ai/amp/"
 type: article
 quality: 87
-heat: 198
+heat: 197
 published: true
 
 provider:

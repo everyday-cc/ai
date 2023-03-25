@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3691649/how-training-and-recogniti
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3691649/how-training-and-recognition-can-reduce-cybersecurity-stress-and-burnout.amp.html"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "Cyber Security Experts Warn About Artificial Intelligence"
+    excerpt: "NASHVILLE, Tenn. (WSMV) - Cyber security experts said scammers will soon be using artificial intelligence to steal people’s identities and money. The deception could reach levels people have not experienced before. Nashville resident Johnathan Bellomy ..."
+    publishedDateTime: 2023-03-24T18:52:00Z
+    webUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/"
+    ampWebUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: WSMV
+      domain: wsmv.com
+    quality: 74
+    images:
+      - url: "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/IrnKKI4UvFdCPGdJ5gVjzvW_-r8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/IFOWQQNSEFEW7NAODZF7YOJYXQ.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "What AI means for digital security"
+    excerpt: "As AI technology like ChatGPT evolves, so do the strategies and tactics used by cybercriminals. Steve Flynn, sales and marketing director at ESET Southern Africa, says ongoing awareness is crucial in understanding how to manage potential cybersecurity challenges posed by these developing tools."
+    publishedDateTime: 2023-03-20T07:44:00Z
+    webUrl: "https://it-online.co.za/2023/03/20/what-ai-means-for-digital-security/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 36
   - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
     excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
     publishedDateTime: 2023-03-20T09:24:00Z

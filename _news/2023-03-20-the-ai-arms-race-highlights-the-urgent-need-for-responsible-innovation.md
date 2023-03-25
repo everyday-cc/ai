@@ -68,6 +68,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
+  - title: "Seven things to know about Responsible AI"
+    excerpt: "When we build tools within Microsoft to help us identify and measure and mitigate responsible AI challenges, we bake those tools into our Azure machine learning (ML) development platform so our customers can also use them for their own benefit."
+    publishedDateTime: 2023-03-23T09:01:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2023/03/23/seven-things-to-know-about-responsible-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
   - title: "The urgent need for better governance of artificial intelligence highlighted in a new book by Mila and UNESCO"
     excerpt: "Together, Mila – the Quebec Artificial Intelligence Institute, and the United Nations Educational, Scientific and Cultural Organization (UNESCO) have unveiled a book on the urgent need to regulate artificial intelligence (AI) in the face of unprecedented ..."
     publishedDateTime: 2023-03-21T19:34:00Z

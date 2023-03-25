@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
+        width: 300
+        height: 391
+        isCached: true
   - title: "Top 10 Investors in Vietnam Backing Emerging Fintech Startups"
     excerpt: "A look at ten VC firms in Vietnam that are helping shape the domestic fintech market and which are still actively looking for investment opportunities in the sector."
     publishedDateTime: 2023-03-21T09:05:00Z
@@ -81,15 +95,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
-    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
-    publishedDateTime: 2023-03-24T13:00:00Z
-    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 5
   - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
     excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
     publishedDateTime: 2023-03-21T14:23:00Z

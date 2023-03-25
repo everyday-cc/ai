@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-pow
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/20/how-ai-powered-video-enhancement-is-transforming-real-time-communication/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 840
         height: 415
         isCached: true
-  - title: "21 AI tools for content, image, sound, and video creation"
-    excerpt: "Use these AI image, video, and sound generators to easily create content—including pitches, podcasts, and music."
-    publishedDateTime: 2023-03-20T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90867920/best-ai-tools-content-creation"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "/VeqlyWRi4FRF46mQy42zIkQ2DGBBvuedhE8j0DhAnfhD9QwQm4lLXlD/f7dXf94lYuwOLym9gpvccw9jnYb1PKORhbL5nzrI4s9qCQyXvyeQ4S32RJ5j/6TRGe+ZPAJFt4T7jH2BfEcoWRs7nzpQ+kk4ZOPq8zjYC3FsVXM/iPwVPghShJzRAzEruuK4mQOJPjoO/mZOTcBmoBB2G9hG2jETXFEUEV+wrVJ+uioC0yyp6aLf6kG95JcU1Iy99SREDefeLN8R4af79ueo6qzuS0uF8nntpvncCS1cdro10appOQ+Jkz+JZiGA1GPjdO9BY6NgrHhiPHnbvJb2Ly08Djqw+wS3RvsWrEcYpmHhkk=;AMFuVP6Zt8GW5EpkHGAn6w=="
 ---

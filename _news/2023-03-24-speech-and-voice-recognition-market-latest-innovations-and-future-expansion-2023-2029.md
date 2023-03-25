@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Systems Market Insights-Industry changing aspects, New Technologies and Forecast to 2029"
-    excerpt: "Face Recognition Systems Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-03-20T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-20"
+  - title: "2023, Automatic License Plate Recognition (ALPR) Systems Market Latest Research Report by 2028"
+    excerpt: "What are the most significant challenges that the Automatic License Plate Recognition (ALPR) Systems market could face in the future? Who are the leading companies on the Automatic License Plate Recognition (ALPR) Systems market? What are the main ..."
+    publishedDateTime: 2023-03-22T17:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-license-plate-recognition-alpr-systems-market-latest-research-report-by-2028-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
