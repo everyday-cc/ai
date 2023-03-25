@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
 type: article
 quality: 104
-heat: 604
+heat: 594
 published: true
 
 provider:
@@ -459,20 +459,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/nvidia-inference-platforms.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nvidia finds strength in AI era"
-    excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
-    publishedDateTime: 2023-03-21T01:32:00Z
-    webUrl: "https://www.digitimes.com/news/a20230320PD211/ai-gpu-ai-data-center-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Adobe launches new generative AI to transform customer experiences"
     excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."

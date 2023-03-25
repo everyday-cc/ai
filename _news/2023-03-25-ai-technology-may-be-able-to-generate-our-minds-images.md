@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
-excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
-publishedDateTime: 2023-03-21T19:00:00Z
-originalUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
-webUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
-ampWebUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
-cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+title: "AI technology may be able to generate our mind’s images"
+excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
+publishedDateTime: 2023-03-24T23:30:00Z
+originalUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
+webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
 type: article
-quality: 55
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Popular Science
-  domain: popsci.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.popsci.com/uploads/2023/03/21/Digital-images-and-photography-in-Photoshop-2.jpg?auto=webp"
-    width: 1200
-    height: 675
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -106,22 +106,6 @@ related:
         width: 1387
         height: 799
         isCached: true
-  - title: "AI technology may be able to generate our mind’s images"
-    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
-    publishedDateTime: 2023-03-24T23:30:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Adobe Introduces Firefly, A Human-Driven Creative Approach To Generative AI"
     excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, covers Adobe's generative AI announcement, Firefly, this week at its annual Adobe Summit conference."
     publishedDateTime: 2023-03-24T21:28:00Z
@@ -195,6 +179,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/03/firefly_n_letters_and_prompts-1-100938766-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 563
+        isCached: true
+  - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
+    excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
+    publishedDateTime: 2023-03-21T19:00:00Z
+    webUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
+    ampWebUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 55
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/21/Digital-images-and-photography-in-Photoshop-2.jpg?auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
     excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
@@ -270,6 +270,6 @@ related:
       domain: marketingdive.com
     quality: 17
 
-secured: "Lnk67iI6yGvHTqj3X5yTNOZvNfQ6Lo5zq9C3RqdDb67/eWnI8PQgnhbfnWc9lmxzoJ5UXZNpmmfV7r1wtNaPnkChysynKCCA2e4wxiMIukhsmgIat+HqNBJAJ7d3QIW0vhXI5vvZJ3hjoFRdM32wRyQXkw2qyR8V4B+cvx/+Z4EfEE1aHBofBJyvrfF0IqxGhlU+Exsx50V6VxymblpZ7t2NzUMQdmyEDjrN23Pajizqbp2ml8jBJ2yTg4OSdMIiXLKs4di852aXPkxm+OYLWfUZvLqy1TnbuvmgiVdYSsA1bTHzHsD+IN76HXz0ZfDawljFCNEt20c33lXjB1ny/zeRbCoocqcLcfzbNi005iFTOTY1Yl1CHt14QXPknhcWt7G7P0NOPyYRHLGfXzMnRQ1ybNq2QeFHqCaazCv1n0IyKZ8qNdhqrZB1GE9sejEsB3UU2jKZc5W8kyCWaaeBY6BmT0GxDjF/Wtx6aLMP4V3hfKPXRSBtnehjDdroSal/+JJHRVG1Ck0Vok3h9x15Jg==;DSeUBHYeQz0QKhmRsQs2JA=="
+secured: "FiJ2mVUCcMePjlDIxALs1PiMMfETweVTrzvRBMdyDohVDagzb82ZFLSc6j8c9upmJQbqpYydCFW2v4muRnZF7teTmVBvMIpT8+Gtb4Qbq+xABchJBnaOi4JWlVrqkBvY7SzTnf2KybFVNnJ+VHAGpU/bmkLFTCCijwJjiTDw28VCQq2frK7lkBh3p9dtnxH2mU2P9ZX2WBMwPKDYF8DcqZaws/t4qtzWEfluJa+pCkfPLt+NwPFnLbWy6Blk7P7vqY6iTttt+0+jW0KCEap52dyhkJQr1+YueJrMBEBwtrRUySiw6hj3bDInC+TCadz3OUi4+RcJ50qkwcXOF3D+uN1YC3GkrRg1iJ39cCsWGA8=;AtlTysCZ2asGYqK2e1NiGQ=="
 ---
 

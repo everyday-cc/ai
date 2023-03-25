@@ -28,17 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-
 secured: "fy/2cdC90g/aCd6zMK6T0w2FfJfoGBbZ6+VT2KwF/t/o2Sy7sh65aJjE3i6pqhowVXL9tS39IMKCjuvJ3QylpGQSLXsNbpOXTunFn+TTH32az/yfkUv32zDMRn9DSU7TmHlfsxA4W1/bDFRq6RmDyQdYu9ZojCnA8jdBlB4poK93Muj0/+9EFs55DIQdPnViFqJ9CojgyHRTmshkJqhSzkMErCrFqSrRIwsiUJcYfQkVp6kFFgJapJmyjUrDeE+ViYjjrbsY4oaephfNr5InLTMfWU3xApjUdNqhGU+bBeGHZmSa4+Bng+tEul72qU6sDwYhciqyHJNWzEQQwrWl5TqVbffQkceZ9j/Np0MneOI=;7YJIXbYqQM0YyQtaZAdtKQ=="
 ---
 

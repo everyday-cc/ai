@@ -470,20 +470,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia finds strength in AI era"
-    excerpt: "Nvidia has been thrust into the spotlight over the last two years, driven by the growth of the metaverse and the recent emergence of ChatGPT."
-    publishedDateTime: 2023-03-21T01:32:00Z
-    webUrl: "https://www.digitimes.com/news/a20230320PD211/ai-gpu-ai-data-center-gpu-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230320pd211_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Nvidia, Google Join Hands To Launch AI Hardware Virtual Machines"
     excerpt: "At its annual GPU Technology Conference, chip maker Nvidia announced its partnership with Google Cloud, which will be"
     publishedDateTime: 2023-03-22T15:22:00Z

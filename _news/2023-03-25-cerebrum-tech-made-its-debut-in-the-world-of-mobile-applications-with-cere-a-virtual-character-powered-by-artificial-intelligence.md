@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58649765-cere
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58649765-cerebrum-tech-made-its-debut-in-the-world-of-mobile-applications-with-cere-a-virtual-character-powered-by-artificial-intelligence-008.htm"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to be a leader in an AI-powered world"
-    excerpt: "On the other, you need to reassess the skills that are important in an AI-powered workplace. For example, critical thinking, effective communication, adaptability to technology, and the ability to build and maintain relationships with others are human skills that will remain valuable and in demand."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90868225/how-to-be-a-leader-in-an-ai-powered-world"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "Cerebrum Tech made its debut in the world of mobile applications with Cere, a virtual character powered by artificial intelligence"
     excerpt: "Cerebrum Tech, a cutting-edge technology company in Turkey, has unveiled its latest innovation - the artificial intelligence application 'Cere'. Utilizing a deep learning-based language model, Cere allows mobile phone users to communicate through both text ..."
     publishedDateTime: 2023-03-24T16:22:00Z

@@ -29,29 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Accounting Market Premium Research Report Forecast To 2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in Accounting Marketinformation for each End Users [BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing], Product Types [On-Premise, Cloud-Based], Main ..."
-    publishedDateTime: 2023-03-24T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029-2023-03-23"
+  - title: "Artificial Intelligence Chipsets Market Size, Trends and Forecast 2030"
+    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence Chipsets Market"
+    publishedDateTime: 2023-03-22T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
-    publishedDateTime: 2023-03-23T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23"
+  - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
+    excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
+    publishedDateTime: 2023-03-23T22:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-trends-key-players-revenue-growth-and-forecast-2023-to-2031-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
+    publishedDateTime: 2023-03-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
+    publishedDateTime: 2023-03-24T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

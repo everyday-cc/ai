@@ -98,6 +98,22 @@ related:
         width: 1387
         height: 799
         isCached: true
+  - title: "AI technology may be able to generate our mind’s images"
+    excerpt: "Researchers are developing artificial intelligence technology they say could generate the very images in our brains. NBC News’ Jacob Ward shares more on the extraordinary research and the concerns about what mind reading technology could mean for the future."
+    publishedDateTime: 2023-03-24T23:30:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/ai-technology-may-be-able-to-generate-our-mind-s-images-166796869820"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo166796869820"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo166796869820"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1679700278944_nn_jwa_ai_mind_reading_230324_1920x1080-1zk213.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Adobe Introduces Firefly, A Human-Driven Creative Approach To Generative AI"
     excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, covers Adobe's generative AI announcement, Firefly, this week at its annual Adobe Summit conference."
     publishedDateTime: 2023-03-24T21:28:00Z
@@ -252,15 +268,6 @@ related:
       name: adexchanger
       domain: adexchanger.com
     quality: 21
-  - title: "Apple’s silence on generative AI grows louder"
-    excerpt: "Apple has stayed out of the generative AI discussion so far, mainly because the technology is not seen as directly disruptive to its core hardware businesses."
-    publishedDateTime: 2023-03-21T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90867819/apples-silence-on-generative-ai-grows-louder"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
 
 secured: "lit+buTftOVzTxbgZD91/B6xe/Ec4LTLDjYP/aXk/t23ST82v13btPBnr9lvPHvABud3j0m0O+va6v85Eb/+SLFQuyfN/3pzyTfgmVu2R/tXzgY7+FWKS0fQBPfmfTM0XwjlqkOqvS3aW8iXmuPuHlC5LBk/XlI1X9uAMEFNboVrm1jcMGASffZlMqf97i6eEymjYZHrveJqzHvWAuSHaah6mzLlwNFiMkTIiZuDxcWLzmqkV0u8vKoilvYTJg1ibtN+qLPOqqSin3mjQZiFg6HGrUZ9CNhFE3lQ4D5yHuxJZHl6rIFOQwHbWyCh8BcqiW3IMQ/Q15IPnCM2gyOQl4x92iyO9tGp9xHM8x55iKsOjdMAGTD/4HijPQk1ZywVrmwUTC/PtTzb7pG8i+tNJcAESbnkLwDorF0v6bG1oj1GVBOwugOnh0Dry4H+aVdwEHIN7sQGQKyUjscJF9VAES7Vv+0GsnoMqxjqdh5gAo6znPFCfYo7VvVr28xbm9LKtotE7m0RAOixT5HnB8ITTA==;E8nKpK3EhgyYrqIMi83Bfw=="
 ---

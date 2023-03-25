@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Major Players, Anlysis and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-21T03:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Generative AI Makes Headway in Healthcare"
     excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
     publishedDateTime: 2023-03-21T22:42:00Z

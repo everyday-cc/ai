@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "How Technology is Changing the Future of Healthcare"
+    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
+    publishedDateTime: 2023-03-21T20:03:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 19
+
 secured: "JIZdv/3TUKcnuK789vtJwhpZI8H3f01U8zA3Oh/A+TxA/2FB2UyZG1xajLbyWOWbKY32oPMfPYrZz1VF/RaC8tg4U+BtC1xKrjsT6f4z7BkvN5MqJwt+y9ShBlgVM55hJcLc3g6/VhQ1iyMYAGazr0k6TSeAMzJfDL9Aip08VdUwmY6jWT8643LjHNsL5t5k0scoh1KBTrqsQs661ZMDvJk5DLHOkk+d5gBojP2um+FVeNpleylKqNHgGqgfnVKW4gOHPApgUdVhWZ29CrjSxHxhn1D1v6MJE/0jk3JQYzUopQPeVmR74v9jHRQUttJ9ICFa6vx7YMJLw2FUds0RGtZBow0NrHmrYIohzMJ7PIY=;bSH5k5eftXJl72y8j3y8wA=="
 ---
 

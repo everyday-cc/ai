@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists at DeepMind and Meta Press Fusion of AI, Biology"
-    excerpt: "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington."
-    publishedDateTime: 2023-03-22T13:30:00Z
-    webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f?mod=business_minor_pos10"
+  - title: "AI in ICT (Information and Communications Technology) Market Share Analysis, Environment Development Trend In 2023"
+    excerpt: "Detailed Table of Content of Global AI in ICT (Information and Communications Technology) Market Research Report 2023 1 AI in ICT (Information and Communications Technology) Market Overview 1.1 Product Overview and Scope of AI in ICT (Information and ..."
+    publishedDateTime: 2023-03-23T10:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-ict-information-and-communications-technology-market-share-analysis-environment-development-trend-in-2023-2023-03-23"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://images.wsj.net/im-708535/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition"
-    excerpt: "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ..."
-    publishedDateTime: 2023-03-23T04:56:00Z
-    webUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5"
-    ampWebUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
-    cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
-    type: article
-    provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
-    quality: 74
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg"
-        width: 1000
-        height: 750
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DmWWTED5Tyb3rrSMtmB0wUNP8LXjxHttAfbteuKSQWYfu0iva+OtYXcAHeNGBuSxeBfOTNpWFkZvGewuvPpXUEIpDe5nHOi0SWdaKR3wVwCsjJjEfTVGCPFChVihj9mLjyzPhvWSFAeOSCmZyq+HPtAB7lAVSrssM9/gKbbf5M4x6RhFw2oE1HxP1rJnWCM2q7gVI4cnOC6kN5BVw8fUSEPBWiYu9IggntLEYdzK7PuTdee01D+1Z1tCBcHSDK4C60POol+QsDx+YA63RCezzTgJcKyfMQR4f8yJjylM4ogYZfiAHY0V3jvSGVnsoD2aRqqOgZUghjcTMDHNFpDIVEdizAD+0vEnTGyvqfCvcF4=;QuwI0N75vydjaQ5PvL83uQ=="

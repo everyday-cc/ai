@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/report-on-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24"
 type: article
 quality: 97
-heat: 307
+heat: 297
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Major Players, Anlysis and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-21T03:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

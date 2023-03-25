@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "2023, Automatic License Plate Recognition (ALPR) Systems Market Latest Research Report by 2028"
-    excerpt: "What are the most significant challenges that the Automatic License Plate Recognition (ALPR) Systems market could face in the future? Who are the leading companies on the Automatic License Plate Recognition (ALPR) Systems market? What are the main ..."
-    publishedDateTime: 2023-03-22T17:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-automatic-license-plate-recognition-alpr-systems-market-latest-research-report-by-2028-2023-03-22"
+  - title: "Cognitive Collaboration Market Share and Forecast till 2031"
+    excerpt: "Many major technology players are [Ku Zoom.ai, Microsoft, Cisco, iotum ... Based on Product Types the Market is categorized into [Solutions, Services] that held the largest Cognitive Collaboration market share In 2022. With the aim of clearly revealing ..."
+    publishedDateTime: 2023-03-22T04:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-share-and-forecast-till-2031-2023-03-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

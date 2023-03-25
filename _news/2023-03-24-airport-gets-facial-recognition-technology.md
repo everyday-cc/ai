@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Who’s Using Facial Recognition Technology?"
-    excerpt: "Anyone can read what you share. By James Barron Good morning. It’s Tuesday. Facial recognition technology is increasingly being used to scan customers entering stores or, in the case of Madison Square Garden Entertainment, to scan ticket holders for ..."
-    publishedDateTime: 2023-03-21T04:26:00Z
-    webUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.html"
-    ampWebUrl: "https://www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/21/nyregion/facial-recognition-technology-garden.amp.html"
+  - title: "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports"
+    excerpt: "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ..."
+    publishedDateTime: 2023-03-23T03:24:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 89
+      name: This Day
+      domain: thisdaylive.com
+    quality: 88
     images:
-      - url: "https://static01.nyt.com/images/2023/03/21/multimedia/21nytoday-kashmir-msg-qtgp/21nytoday-kashmir-msg-qtgp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://i0.wp.com/sass-static.s3.eu-west-2.amazonaws.com/amg/www.thisdaylive.com/uploads/Clem-Agba.png?w=1267&ssl=1&mrf-size=m"
+        width: 1267
+        height: 850
         isCached: true
   - title: "FG Set To Install Facial Recognition Technology At Major Airports"
     excerpt: "The Federal Government has revealed its plans to install facial recognition technology at major airports across the country. Clem Agba, the Honourable Minister of State, Budget and National Planning, made this known on Wednesday when he hosted the Japanese ..."
@@ -59,35 +59,21 @@ related:
         width: 700
         height: 420
         isCached: true
-  - title: "Grocer uses facial recognition technology to deter shoplifters, drawing concerns"
-    excerpt: "As a way to prevent shoplifting, the Upper West Side location of popular New York City grocer Fairway is using facial recognition technology and other biometric gathering tools, including voice ..."
-    publishedDateTime: 2023-03-21T16:44:00Z
-    webUrl: "https://abc7.com/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    ampWebUrl: "https://abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/fairway-market-upper-west-side-facial-recognition-technology/12973077/"
+  - title: "FG to install facial recognition gadgets at airports"
+    excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports in the country. The Minister of State for Finance, Budget and National Planning, Clem Agba, made this known on Tuesday when he hosted the Japanese ..."
+    publishedDateTime: 2023-03-23T00:02:00Z
+    webUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/"
+    ampWebUrl: "https://punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/fg-to-install-facial-recognition-gadgets-at-airports/?amp"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 54
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 74
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/12969014_031723-wabc-fairway-facial-recognition-img.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Shanghai District Discourages Overusing Facial Recognition Tech"
-    excerpt: "With more public awareness of data security, China’s legal authorities are urging private business owners to remove facial recognition cameras in private facilities to avoid the unauthorized and excessive collection of consumers’ personal data."
-    publishedDateTime: 2023-03-22T12:12:00Z
-    webUrl: "https://www.sixthtone.com/news/1012550/"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 54
-    images:
-      - url: "https://image5.sixthtone.com/image/5/65/75.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://cdn.punchng.com/wp-content/uploads/2022/08/12044237/Murtala-Muhammed-International-Airport-Lagos.jpg"
+        width: 750
+        height: 420
         isCached: true
   - title: "Govt to install facial recognition technology at airports"
     excerpt: "The Federal Government is set to install facial recognition technology at major airports in Nigeria. This was made known by the Minister of State, Budget and National Planning, Prince Clem Ikanada Agba, when he hosted the Japanese Ambassador in Nigeria ..."
@@ -103,20 +89,6 @@ related:
         width: 500
         height: 277
         isCached: true
-  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
-    publishedDateTime: 2023-03-23T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "FG to install facial recognition technology at airports"
     excerpt: "The Federal Government has indicated plans to install facial recognition technology at major airports across the federation. The Honourable Minister of State, Budget and National Planning, Clem Agba, made this known on Wednesday when he hosted the Japanese ..."
     publishedDateTime: 2023-03-22T19:39:00Z
@@ -126,38 +98,6 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 34
-  - title: "UMich respiratory therapists and technologists seek union recognition"
-    excerpt: "it comes down to things like having that voice in our staffing ratios, in our scheduling policies, our PTO and vacation leave,” Wells said. Shannon Beadle, a respiratory therapist at Mott, emphasized the ways in which union recognition with SEIU would ..."
-    publishedDateTime: 2023-03-24T01:15:00Z
-    webUrl: "https://www.michigandaily.com/news/administration/umich-respiratory-therapists-and-technologists-seek-union-recognition/"
-    type: article
-    provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 24
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2023/03/Untitled_Artwork-copy-1.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Human Rights Activists Raise Concerns Over Misuse of CCTV, Facial Recognition Technology in India"
-    excerpt: "Khadeer Khan's recent death in custody in the south Indian city of Hyderabad has sparked concerns among human rights activists over the misuse of CCT"
-    publishedDateTime: 2023-03-21T13:20:00Z
-    webUrl: "https://menafn.com/1105828120/Human-Rights-Activists-Raise-Concerns-Over-Misuse-of-CCTV-Facial-Recognition-Technology-in-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-  - title: "How Technology is Changing the Future of Healthcare"
-    excerpt: "and the future of healthcare is looking increasingly digital. From telemedicine to wearable devices to artificial intelligence (AI), technology is changing how healthcare is delivered, improving patient outcomes, and lowering costs. In this article ..."
-    publishedDateTime: 2023-03-21T20:03:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 19
 
 secured: "kSdCYaTtnvbvb8oPDPnHeTi5Deus9qARncuDWQiXnOYGnUySpQj5oFPN+bPLrvuB4Y7EvNgWCfvNsuqLPB1CPlBpced6Vf5K74yayoNLFfHFGi5OFzfMVOS8jVX9riJnIEl50QY2BRAWUc65hxTL0FeEf56RsGj0iG3DnVvD5iE3MXmiv2vzGDchXfhsDry3vBasY3cJLgTx6LAnFUkTbVx08CqFNwWF9SAzPsKIislHpoBA7fyCgGSNkdnKm8tClcOxXwkigDbeVsRw9NJO7b5LQKfVkJh4BsnU4lgLfjr5Py3QeUG/XGH3t7+NaRRFSHc/pBBJebIxMknk++6OnFyMjY4RfJ4Oysvw7Yq4Y1aup83Lw8NItkL7Vv0nt9zSVSr0bkvv1xe2DE8u9OFGz/D+6s4D4I/ygSRX/t0RvMigFgsohoaNTIf71fnbFvcjKYfZgtUoGubLxp6vwMH7xB6GnklLUTHe+/aesFo3Kkzv7hQmHDiT55Ni3h/z4fGeutiPxQyVPRLEOvosfT7phw==;iA5f3bbzen8Uf7MRij0SsA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-trends-and-forecast-2030-2023-03-21"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: MarketWatch
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size, Revenue, and Forecast 2028"
-    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 112 Report Pages on Artificial Intelligence Of Things (AIoT) Solutions Market by Application (, Consumer, Enterprise, Industrial,"
-    publishedDateTime: 2023-03-21T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-revenue-and-forecast-2028-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
-    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
-    publishedDateTime: 2023-03-24T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
     excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
     publishedDateTime: 2023-03-23T22:25:00Z
@@ -71,15 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
-    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
-    publishedDateTime: 2023-03-22T22:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+  - title: "Artificial Intelligence (AI) in Social Media Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
+    excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
+    publishedDateTime: 2023-03-24T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
+    excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
+    publishedDateTime: 2023-03-24T11:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/synthetic-data-generation-market-size-key-segments-share-trends-growth-and-forecast-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future of the Machine Learning in Manufacturing Market [2030] | Our Research Report Provides Long-Term Trends and Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- [109 Pages Report] Global “Machine Learning in Manufacturing Market” [2023-2030] latest research report provides key analysis of the ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-the-machine-learning-in-manufacturing-market-2030-our-research-report-provides-long-term-trends-and-forecast-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

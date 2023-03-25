@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-software
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-various-tendencies-industry-report-2029-2023-03-24"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-21T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
   - title: "2023 Data Science and Machine Learning Service Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Data Science and Machine Learning Service Market Report Contains 2023 ... Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc. We also cooperate with some third-party ..."
     publishedDateTime: 2023-03-24T14:53:00Z

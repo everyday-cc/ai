@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T12:36:00Z
 originalUrl: "https://www.wsj.com/articles/ai-bots-listen-in-on-the-toxic-world-of-videogame-voice-chat-e0260392"
 webUrl: "https://www.wsj.com/articles/ai-bots-listen-in-on-the-toxic-world-of-videogame-voice-chat-e0260392"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

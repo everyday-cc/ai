@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-oppo
 webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yzZtUTrYstd8ASyyJmMnc3RgQDuzrbDxsYxUYV/Psq0qI7MIW8Kn0/Ma4W7BHnDQzgTgqDdO0bNH3Xe8RJNOhZQMMBIeJC+OGjmCVxYEoUthVS+7REntpvA9rCrAkj77mw0Yt/99qc5M6vaHlZ0ollUWNjb1LNa+L99WYz2YtCDUZttPgy+b9bqjNwEby8pDZN1EXAvmnjcKeSCZarGhnMiH67QBE88B7KxQnt+iBq1xeAN2Q+7tUqr63679u799hF1gCmQEe2LA7xNJSdufPa39rHj6MYtIK69viRz/hW6WVqpLjGORksMjwl6C33Cliv0VAuo5A49PBwAMuaGOchgVBX2K+BgENIAY7WRE7/I=;rOp1Co7mlxLgn8bTHm6qYA=="
 ---

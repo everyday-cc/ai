@@ -246,6 +246,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Albanese praises South Australia’s Voice with historic Bill set to pass"
+    excerpt: "“Today is a day of healing, recognition and a step forward in South Australia’s relationship with First Nations people,” he said. “For too long, decisions have been made for Aboriginal and Torres Strait Islander people, and not by them. “The ..."
+    publishedDateTime: 2023-03-25T19:02:00Z
+    webUrl: "https://www.couriermail.com.au/news/south-australia/albanese-praises-south-australias-voice-with-historic-bill-set-to-pass/news-story/87586c2ade1a69fc21a466c08ce83897"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 19
   - title: "Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM"
     excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: 1: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; 2: The Aboriginal and Torres Strait Islander Voice may make ..."
     publishedDateTime: 2023-03-23T01:26:00Z

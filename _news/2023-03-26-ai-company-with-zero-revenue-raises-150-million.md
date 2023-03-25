@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-25T17:37:00Z
 originalUrl: "https://futurism.com/the-byte/ai-company-no-revenue-fundraising"
 webUrl: "https://futurism.com/the-byte/ai-company-no-revenue-fundraising"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Futurism

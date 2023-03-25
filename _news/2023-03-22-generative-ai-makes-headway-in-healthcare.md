@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Major Players, Anlysis and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Healthcare Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-21T03:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-major-players-anlysis-and-forecast-till-2028-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market | Industry Forecast 2023 - 2031"
     excerpt: "The Artificial Intelligence (AI) Market in BFSI Sector market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent, this market is estimated to reach USD million in 2029. The report focuses on the Artificial ..."
     publishedDateTime: 2023-03-21T21:48:00Z

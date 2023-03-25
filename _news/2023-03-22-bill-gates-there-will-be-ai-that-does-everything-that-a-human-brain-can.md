@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Healthcare AI Market Growth and Forecast till 2030"
-    excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
-    publishedDateTime: 2023-03-21T05:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-growth-and-forecast-till-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "MedTech Bigwigs in Spotlight as AI Revolutionizes Healthcare"
     excerpt: "Per a report by Grand View Research, the global AI in cancer diagnostics market size was $93.2 million in 2021 and is expected to expand at a CAGR of 28.0% by 2030. Early detection of cancer is possible through AI for screening and diagnosis of cancer,"
     publishedDateTime: 2023-03-24T17:02:00Z

@@ -42,20 +42,20 @@ related:
         height: 675
         isCached: true
   - title: "Cruise wants to test self-driving cars all over California"
-    excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-    publishedDateTime: 2023-03-21T02:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+    publishedDateTime: 2023-03-21T12:22:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 44
     images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
@@ -66,20 +66,6 @@ related:
       name: The Desert Sun
       domain: desertsun.com
     quality: 34
-  - title: "GM's Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
-    publishedDateTime: 2023-03-21T01:32:00Z
-    webUrl: "https://www.crainsdetroit.com/automotive/general-motors-cruise-wants-test-self-driving-vehicles-across-california"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 24
-    images:
-      - url: "https://s3-rd-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/GM%20Cruise-main_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "nEub5vXv4gJX9mHwTDcMC4ZoRusmNqSPJrKkfP82FJAlcl+xt6rw9VkGCgQZVMnr2qFd8d+G1YmhT20KlzS8/Inqwf9VDeqQOUstmLzMBnTLB9V4cuV51httiifT1BWip6gbp3R8JfbcA6d9UFU7Lanhq2Kj+HOkELYILV+J13/3vqLLCh/4sNlBQGulqvU3xryn8xMfWCCXQ1cQOnfa2BoxGqbBsL//8DC47CfIoNAT1kt+6o70mHJv4O46V1XE7PgBB7WOMKyI6MWO2qAMzK85qbsdj5iXTEdl9o1AAPo4X6oIFZ3oRtgs9IvFX0zCMNn4Nn43OICt4SxYd+U5cD7USKQFsGZyoSBNiYv/w1O31iH2VirguBM/fBqRBtZ40QE9UU69Gs3pw57cVleDvjWipnaO5GJ2v2V3Y1MochFybd/fzuIsJhr55aMlYroR47QNYOuHwJ4HPs1Pn+bZlFm3Um7Vz+nLJom2eQxebkhpdSgwc69x20s980vjj1UAb1HzPFPGgWydob7syGmn0w==;LuNyDnYCd04j+Coq7eqLag=="
 ---

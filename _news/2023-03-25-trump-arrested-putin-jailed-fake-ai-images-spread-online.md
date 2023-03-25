@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump arrested? Putin jailed? Fake AI images spread online"
+    excerpt: "Read more about chatbots and other AI developments It's not clear who created the image ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging technologies, said he worries ..."
+    publishedDateTime: 2023-03-25T19:36:00Z
+    webUrl: "https://dothaneagle.com/news/national/trump-arrested-putin-jailed-fake-ai-images-spread-online/article_454199f0-cb43-11ed-8dd6-f7a6b9be4d72.html"
+    type: article
+    provider:
+      name: Dothan Eagle
+      domain: dothaneagle.com
+    quality: 19
 
 secured: "imeTzfIXse3LLEvV3Yvy/GqVrD0Bf+ndapKrylRrAjKb3rJfCMHxCA8ewoBPEITR0baqh0xRHCgx4Bn8WYHR24hcrZxOt7w+nvWiQ5D3oMvu4m7jy7tuGo7+8KDVP0iyZIkR8+7YvPte0jy7gY5tPS5kC3KnKXY330N5cPzQZzJOEgaU3GokqCjQ/DCJMh9aav8uDkgevk8jyAGZ1yZxFxk6IfkDCGmNR2vJabjP4WaLRvjJyQX8Nh4E1yBty/a6U3hbEhqa829SA9NTzjEJYg/jbnO+lwdcaZW0lFckITjFZGarpYWBF3I26HERmi1QA7O+pvvMkVSxeQutm3RI5J69sxVPBrl3dYwpKRUgI5A=;DThr45zCPAFKpyzHyDKWzg=="
 ---

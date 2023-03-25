@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Cruise wants to test self-driving cars all over California"
-excerpt: "General Motors’ Cruise autonomous vehicle unit has asked California for permission to test the cars across the entire state"
-publishedDateTime: 2023-03-21T02:02:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-webUrl: "https://abcnews.go.com/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/cruise-test-driving-vehicles-california-98000976"
+excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state."
+publishedDateTime: 2023-03-21T12:22:00Z
+originalUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+webUrl: "https://www.cbsnews.com/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/cruise-wants-to-test-self-driving-cars-all-over-california/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Business/wirestory_c0e64e5ccd068aead7091e0de19408e2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/21/e1471390-7c0a-4509-a92e-4b502f299e14/thumbnail/1200x630/df5a2ef88b525bb1e94fc02d6fe0e736/ap23079861951135.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -52,20 +52,6 @@ related:
       name: The Desert Sun
       domain: desertsun.com
     quality: 34
-  - title: "GM's Cruise wants to test self-driving vehicles across California"
-    excerpt: "General Motors' Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco after testing for more than two years."
-    publishedDateTime: 2023-03-21T01:32:00Z
-    webUrl: "https://www.crainsdetroit.com/automotive/general-motors-cruise-wants-test-self-driving-vehicles-across-california"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 24
-    images:
-      - url: "https://s3-rd-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/GM%20Cruise-main_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GM's Cruise wants to test self-driving vehicles all over California"
     excerpt: "Detroit — General Motors Co.'s Cruise autonomous vehicle unit on Monday asked California for permission to test the cars across the entire state. The GM subsidiary already is running an autonomous ride-hailing service in its hometown of San Francisco ..."
     publishedDateTime: 2023-03-21T15:33:00Z
@@ -81,6 +67,6 @@ related:
         height: 674
         isCached: true
 
-secured: "t9aLUMsqBYSKsb265LFqiYT4j2HfglSmhJk8QoMjJcvjpltH+2Edb/McOrQSfbkIdWA17v2hahiTc1v504CGZhVzfXuk3SjrfpXrmzbOvNPo4PVr+fNA4UsJTGJfK7GCyzAmrPBCPzZfOi43spmxyiQTsoX+RxjXL/gK4ml3kVpRzdqICtH3Vc+5cdUU4IkjFKaYX/Dr9eXdgofe3YR2mSW0l4lCstZVF7+zrUbRBe9i4syyocLBcim21b2B7ehH1LpSLf1oGS0AJZlj21uFAnPb2G20OquQY33QjtMmQ4L8Lokcaw122RPT1bQlW3cRhJmCkHsoAVLveiTO6KStQEZylVeyXM2xcW0ON1IFvmixeQSqnxhTJRQTi++gk+Cyw5vr8qygGNH9I3yRxYgaXXU1c8N/gKW4Y4XaZzHniNS8n19dJ9ueDHJ3oNhHD1Z1Y5eTjKd5zTgvGDt+iOThLUg4XzzKLi1b0THnLvSeL8ofdKHATrQ2yVVI4ZDorOD6OWRGY3HutM5nehnk5nF2QA==;08aDYV2hel4my2yXfj7fRQ=="
+secured: "ievx2v4j2S0/6iRTdwAMtpVd/MkB6QZ5KfpifAs9wi9mp5+09Mz1QcZizS/J0YfXZgzdW4YJGH3dCbf6RFAEn2744HhgSdDK3llI6CPG6wrJW/YtSlQvk5952c17q4tCuEbl0rJsh5zoG95qyS/KfnyneCFKgZMX4rwO0W+whjVmTMrTFAldfRy1A77rX5Z5Q2VvYz8RHPEjbQ/7cvyWjUc3XBn5rr/A7La4OP+r2TZdqnIHvWUTlU7aZHdGqIRY5gWVypfYCVHJRNhfQxlJZ5goGSoU1ogyxuwPQb+bKF6fseSgXDEHLpr28I60Z+OFOGoHyiwt3qvVUIJ0JWBtDH6Xu1y+4lh8LjsQf2RmpZc=;w7Nri/40X86pt2p4Px0K4w=="
 ---
 

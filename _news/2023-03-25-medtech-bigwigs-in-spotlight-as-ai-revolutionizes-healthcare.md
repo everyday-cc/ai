@@ -67,15 +67,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Healthcare AI Market Growth and Forecast till 2030"
-    excerpt: "The \"Healthcare AI Market\" Study Describes how the technology industry is evolving and how major and emerging players"
-    publishedDateTime: 2023-03-21T05:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-growth-and-forecast-till-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
     excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
     publishedDateTime: 2023-03-22T15:31:00Z

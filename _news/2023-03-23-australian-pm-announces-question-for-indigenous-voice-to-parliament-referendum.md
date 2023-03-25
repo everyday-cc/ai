@@ -239,6 +239,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Albanese praises South Australia’s Voice with historic Bill set to pass"
+    excerpt: "“Today is a day of healing, recognition and a step forward in South Australia’s relationship with First Nations people,” he said. “For too long, decisions have been made for Aboriginal and Torres Strait Islander people, and not by them. “The ..."
+    publishedDateTime: 2023-03-25T19:02:00Z
+    webUrl: "https://www.couriermail.com.au/news/south-australia/albanese-praises-south-australias-voice-with-historic-bill-set-to-pass/news-story/87586c2ade1a69fc21a466c08ce83897"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 19
   - title: "How artificial intelligence is helping to detect heart disease in remote Australia"
     excerpt: "Artificial intelligence helps health practitioners perform echocardiograms to detect heart problems The technology could be developed to enable similar scanning of other body areas The trial targets people in remote areas because a national shortage of ..."
     publishedDateTime: 2023-03-21T18:51:00Z

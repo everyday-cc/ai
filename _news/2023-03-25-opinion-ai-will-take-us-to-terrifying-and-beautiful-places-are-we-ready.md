@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Tyler Cowen: Artificial Intelligence is about to transform childhood. Are we ready?"
-    excerpt: "Yet amid the debate over these advances, there has been very little discussion of one of the most profound effects of AI large language models: how they will reshape childhood. In the future, every middle-class kid will grow up with a personalized AI assistant — so long as the parents are OK with that."
-    publishedDateTime: 2023-03-21T03:08:00Z
-    webUrl: "https://www.twincities.com/2023/03/20/tyler-cowen-artificial-intelligence-is-about-to-transform-childhood-are-we-ready/"
-    ampWebUrl: "https://www.twincities.com/2023/03/20/tyler-cowen-artificial-intelligence-is-about-to-transform-childhood-are-we-ready/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/03/20/tyler-cowen-artificial-intelligence-is-about-to-transform-childhood-are-we-ready/amp/"
+  - title: "Why AI will never replace writers and journalists | Opinion"
+    excerpt: "While AI can help with some aspects of research and data analysis, it cannot replace the skills and intuition of a human reporter. Ethics and responsibility: Writing and journalism require a strong sense of ethics and responsibility to accurately report ..."
+    publishedDateTime: 2023-03-25T12:00:00Z
+    webUrl: "https://www.sun-sentinel.com/opinion/commentary/fl-op-com-artificial-intelligence-chatgpt-journalism-20230325-yrrk64zz4rc7tp4ddy46t2j6gi-story.html"
     type: article
     provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 51
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2023/02/Microsoft_Artificial_Intelligence_00320.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 19
 
 secured: "iF/CoZVUSJln1Uw5GR2mjAPe3vBQPJENoP4wvLpqHlE9pzK8MvbgbTlpnlDXq56EBBrSuEB4947jC/IrC8RVb71CQTDIFsVCfjVRGquGMfs/cxoEstZqHVc5qDRtTPtolAbg5qHv5g5FTcSfe1AOYceicBuo7RG5HKcGoMLD/jOsiGo9Dr06YJtYtD2yjWnNaIUI5SsS2qcY+OwWgZQI6JwCl9zpdNWPxWLDXKSXoQkl7YgejcyjRvzsi2lLztEs1ihpj/RVSN6c8NoofGLI7K5c4POJFmKLN86b6GRec3fnTZSPrA8wyUYZY3PLUlDujogRUrvBj3Qi9HmFIM6Fg8ohceY8gg6DkScaEh4LDUUu49cIwU9Qso0oaIEHSelSrv83CzkpsmL+zakAJtjpgOaoaolHVj/ZSCZc78A+He/PSqXXrlE1M7yeogLkGtFnmBDTIKNsuHMDk4c8v/zwsyPQJ6jXB8dgUZpjrv1p7Lq91MSSqRj17qayruU33KC93RWZ3rx5EXXJ1M8Erl7yxQ==;wgg+NS/Yihc7uSgoIMdTzg=="
 ---

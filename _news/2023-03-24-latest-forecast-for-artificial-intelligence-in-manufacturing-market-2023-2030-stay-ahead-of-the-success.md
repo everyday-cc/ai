@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Outlook to 2028"
-    excerpt: "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions"
-    publishedDateTime: 2023-03-21T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-to-2028-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023-2028 Neural Network Market Insights and Demand Outlook"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ..."
     publishedDateTime: 2023-03-22T03:11:00Z

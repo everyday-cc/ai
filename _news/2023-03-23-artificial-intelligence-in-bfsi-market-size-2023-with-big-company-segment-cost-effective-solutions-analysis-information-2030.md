@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market: The Growing Trend 2029"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 20, 2023 (The Expresswire) -- “Computer Vision in Artificial Intelligence (AI) Market” Size 2023 Top Key players Profiled in the Report are (Image Recognition ..."
-    publishedDateTime: 2023-03-21T04:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-the-growing-trend-2029-2023-03-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning (ML) Platforms Market Size by 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- The \"Machine Learning (ML) Platforms Market\" study describes how the technology industry is evolving and how major and emerging players in ..."
     publishedDateTime: 2023-03-24T04:42:00Z
@@ -494,15 +480,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-  - title: "Artificial Intelligence in Video Games Market Size, Trends and Forecast 2029"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Video Games"
-    publishedDateTime: 2023-03-21T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-video-games-market-size-trends-and-forecast-2029-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Growth Analysis & Survey of Machine Learning as a Service Market Size 2023-2026 | Absolute Reports"
     excerpt: "Report 2023 \"Machine Learning as a Service Market\" provides a thorough examination of the present and projected situation of the sector. The research offers useful information about, among other things, the market's size, share, growth, development ..."
     publishedDateTime: 2023-03-24T17:43:00Z

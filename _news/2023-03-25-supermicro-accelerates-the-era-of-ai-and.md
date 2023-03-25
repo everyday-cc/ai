@@ -56,14 +56,14 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
-    excerpt: "(NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
-    publishedDateTime: 2023-03-22T17:47:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-/2023/03/22/9781497.htm"
+  - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
+    excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
+    publishedDateTime: 2023-03-23T05:45:00Z
+    webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: ThePrint
+      domain: theprint.in
     quality: 13
   - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
     excerpt: "NV1, is an application-optimized system that excels when developing and running AI-based software. This innovative system gives developers and users a complete HPC and AI resource for department workloads."
