@@ -7,7 +7,7 @@ originalUrl: "https://www.theengineer.co.uk/content/opinion/comment-autonomous-v
 webUrl: "https://www.theengineer.co.uk/content/opinion/comment-autonomous-vehicles-are-coming-is-uk-law-ready"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "COMMENT: Bringing data-driven insights to NFL fans"
-    excerpt: "Julie Souza, head of Sports, AWS Professional Services explains how NFL's new data-driven on-screen graphics help demystify the game"
-    publishedDateTime: 2023-03-20T12:38:00Z
-    webUrl: "https://www.broadcastnow.co.uk/production/comment-bringing-data-driven-insights-to-nfl-fans/5180345.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 4
 
 secured: "cmq1aL7oxmfXbMMxIWjC3uycbeEBRpxyCKcOAaMP6DQxqnZkdm9ueGl4ffMsq3mRHeD+2uloezodajhDkffuMhzTm/0NwnzKScCNS+WmSj7AoHrIbvKzMxaVFoLt0LFH7ad0Ugwoh8LKEbzHaz9P7216/93P+fwK7SsvgSYBJzFWRe9GIgnvCSNImlkVlqe1C8t/Dg7Yz5fyov4Z3Z3VUl0rnErkHDtPsdF7LeI2/MKOwfN2jMkMNLouie67YSxmruh4HI07RcD1jPJyvYyGeWGe9vg3SlCQPKwcubnH2jVeg6g2rqLhCSRFrpIUhizScBq3ZFThdVwEXxUloRrCIiG07tZjuDI2F+UpcXcGD0tsajgvPZlc2LbsHbNRlwlmXbo2bIvvjjlh0omCupJdw8ebW3B7CjGgiRYtH5IkzN7E1ob+yiJ3knDpjBO4bqfSHB91otKg1rYOrIpysggaiboFb/WyyH1xxSrjBXEByPdfR/0cEz65SWg4ojXe58OX/IaS7C/eI0MKzJeB0jlJow==;m4RhxpzjAB777bKvJyhvDA=="
 ---

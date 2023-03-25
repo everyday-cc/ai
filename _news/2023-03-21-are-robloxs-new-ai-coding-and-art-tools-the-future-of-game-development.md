@@ -139,15 +139,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "The future of cloud computing, from hybrid to edge to AI-powered"
-    excerpt: "The next stage of cloud computing will redefine the way it works in the world, and AI will play a big role in how it delivers on its promises."
-    publishedDateTime: 2023-03-20T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "The Future of State-Sponsored AI Research in China"
     excerpt: "An intelligent robot in the AI-themed smart park, featuring artificial intelligence (AI) applications from Chinese search engine giant Baidu, in Haidian District ... The two main organizations driving the advancement of generative AI technologies are ..."
     publishedDateTime: 2023-03-24T16:20:00Z

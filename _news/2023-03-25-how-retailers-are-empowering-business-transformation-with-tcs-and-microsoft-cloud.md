@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-busi
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft AI Move Is Exactly What MBA Students Need, Employers Want And Slumping B-Schools Dread"
-    excerpt: "AI accelerates the future of work, upends business education and spurs goliath innovation needs. Which MBA programs will adapt, survive and thrive?"
-    publishedDateTime: 2023-03-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/noahbarsky/2023/03/20/microsoft-ai-move-is-exactly-what-mba-students-need-employers-want-and-slumping-b-schools-dread/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
   - title: "Not Another Subscription to Keep Track Of – Microsoft Office 2021 as a One Time Purchase"
     excerpt: "Today so many businesses and products are based on subscription models. Apple Services and Apps, Netflix, Disney+, your gym -- you name it. You simply"
     publishedDateTime: 2023-03-21T19:30:00Z

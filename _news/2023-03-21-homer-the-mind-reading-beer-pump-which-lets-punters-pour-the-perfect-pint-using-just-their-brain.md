@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
-    excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
-    publishedDateTime: 2023-03-20T13:03:00Z
-    webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 0
 
 secured: "5q36LQTLIGruRyrm6NN/TZ+5iYMMYreGBHRhOMgXGh7XLcgshRU3VgyfDT7kMyFSSnzYQPDML6TeQ4dH+gLax8MM4Uq4WMJp/gRYbbRVjriIRaXR9KAEM+aeRAZzb5iu80hDTeioIEzfleU7gMW6EJkR+cl8UBGFsqsImJVYzqcjSGN1rIISp3WrxGyJ9ZV9PJ8RaRQBToHCJHXa9pI2++dJRu+R2yYyxwNWW5I4v55wShZGpV87Gsct4xGTADkmWJrf3px73uCJ4ah1fzUP2BINjtoO7kl/FQE/h5BRaVhUhg3NsQJgpLgZLWLb9T/H9NakUR29D20x4ZO3gGt5LCk5MnZ71O/TLJZQf0wTrKA=;oIyCGJckWtJ1Cq6zQQ2I9A=="
 ---

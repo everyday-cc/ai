@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mila - Quebec AI Institute: Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
-    excerpt: "Mila - Quebec Artificial Intelligence Institute and the United Nations Educational, Scientific and Cultural Organization (UNESCO) today unveiled at Mila"
-    publishedDateTime: 2023-03-20T12:37:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58601032-mila-quebec-ai-institute-mila-and-unesco-join-forces-to-emphasize-the-urgent-need-for-better-artificial-intelligence-governance-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
   - title: "Mila and UNESCO join forces to emphasize the urgent need for better artificial intelligence governance"
     excerpt: "MONTREAL, March 20, 2023 /CNW/ - Mila - Quebec Artificial Intelligence Institute and the United ... great potential of AI to accelerate scientific discovery, especially in healthcare and environmental sciences. They also addressed the opportunities ..."
     publishedDateTime: 2023-03-20T15:12:00Z

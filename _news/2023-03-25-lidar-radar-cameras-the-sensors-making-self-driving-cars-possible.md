@@ -25,36 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The State of Self-Driving Cars: Autonomous Advances"
-    excerpt: "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the"
-    publishedDateTime: 2023-03-20T11:06:00Z
-    webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
+  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
+    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
+    publishedDateTime: 2023-03-21T21:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg"
-        width: 4000
-        height: 2666
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
-    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
-    publishedDateTime: 2023-03-22T17:47:00Z
-    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
-    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
-    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "Tesla Inc. has been largely credited with the modern mainstream push toward the electrification of vehicles — a trend that has quickly gained traction in dozens of other corners of society.  From the increased prominence of micro-mobility scooters to self-driving food delivery drones,"
+    publishedDateTime: 2023-03-20T16:36:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31424284/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31424284"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31424284"
     type: article
     provider:
-      name: KRON4 News
-      domain: kron4.com
-    quality: 44
-    images:
-      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
-        width: 1280
-        height: 960
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
     excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
     publishedDateTime: 2023-03-22T05:11:00Z

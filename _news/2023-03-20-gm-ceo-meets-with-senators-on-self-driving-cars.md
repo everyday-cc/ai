@@ -26,6 +26,24 @@ images:
     height: 765
     isCached: true
 
+related:
+  - title: "Photos: Self-driving cars get tangled in downed Muni wires during storm"
+    excerpt: "While humans can see the road closure signs, viewer photos sent to KRON4 show autonomous vehicles cannot. Photos show two self-driving cars that apparently did not detect road closure tape and drove through the closed street due to downed Muni wires at the ..."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/"
+    ampWebUrl: "https://www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
+    cdnAmpWebUrl: "https://www-kron4-com.cdn.ampproject.org/c/s/www.kron4.com/news/bay-area/photos-self-driving-cars-get-tangled-in-downed-muni-wires-during-storm/amp/"
+    type: article
+    provider:
+      name: KRON4 News
+      domain: kron4.com
+    quality: 44
+    images:
+      - url: "https://www.kron4.com/wp-content/uploads/sites/11/2023/03/Cruise-cars-2.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
+
 secured: "LeSJ1W6VRwjGzsFKyfcxFMVTqA8ALe5CsdN+0vB/rkp0z9vK7Ic6GCCyy6anfBdtdVJLjHrZdWsrKPlLgdlCmIkuNgokj4b4sOpu9Iom3N/tmRTEKDSiDkqtqR1XyrKlunKgHir8Fri9EubzpksnHM/DoRHAC5QRGFs/0HNSvNk5cpENjkNsF8lJMTrUKfZe1lq4cJQWqHBbiPtaE1V6pf1hy0yAT+umjLWcoIzGEFLZeuzjEt4DOmzgACHBjYWY3sUlDUOG3XSscaR8wU3GZK0QF3JlkkPiyMjuho4FacnDb3RMvKu8iCirQQMdNYhd8wbF8rp9ZDZ+AlqaOiX2apYaie6W6lgRobI/DvggFBs=;Io1Lk8A00Eyh00kRxymIxQ=="
 ---
 

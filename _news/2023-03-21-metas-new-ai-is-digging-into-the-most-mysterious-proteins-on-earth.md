@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/03/21/metas-new-ai-is-digging-into-t
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/03/21/metas-new-ai-is-digging-into-the-most-mysterious-proteins-on-earth/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1068
     height: 601
     isCached: true
+
+related:
+  - title: "State-of-the-Art Artificial Intelligence Sheds New Light on the Mysterious First Stars"
+    excerpt: "By using machine learning and state-of-the-art supernova nucleosynthesis, a team of researchers has found the majority of observed second-generation stars in the universe were enriched by multiple supernovae,"
+    publishedDateTime: 2023-03-24T20:58:00Z
+    webUrl: "https://scitechdaily.com/state-of-the-art-artificial-intelligence-sheds-new-light-on-the-mysterious-first-stars/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 9
 
 secured: "hqGZlXiQQSMqjStvnRD0uucHKJZiDChjOwY7Z/Pib6DYRqzi964uESWa0FNdw/DMNIDuEircqihubCBALE3mvXa9RgXenw6RHHtQq83nEGyQWquZmNKYejfQt9wCEDqTH/ZnxamTyRMcRIs+AKlbuTJ7/W3Lui6CP05vdb9HO78R41qC4/pcWOpgRmwpO0HhPB/Af/rn4+AM/wJE8HbOhVukE9M2qhNp6r1QHFFxVvtOl/scvJ6sJRcFeFynwqvJmntiu01NWDmG4bPSZN7jfTA98sec5tUde8WWz05BKYdBDGquPOiRe/dYnWtkV6drlbDI8Jx5T+2NbwyYZQTW9x6eORJh1ZjSuMpPCpPCnEdO/K+QdAknBShaUjFOMq+MMFawP98gapBLe7PQmiGMZWb9VtOHOLfWf4a0fXQVjPxoi7IK1n/Le9owFb66CB7qXCtCt/HigNcDdXQwjXRqvBh++IWdViTuG3qv0grXwsFvv4oLBPaX9Yt4bYPB3jyPoYXamxU8dv361j1daMUadQ==;rxrs1SmJLOgC0skFr0SICg=="
 ---

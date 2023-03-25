@@ -194,15 +194,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How ChatGPT and Generative AI Can Transform the Way You Run Your Business"
-    excerpt: "Everyone's talking about ChatGPT, Bard and AI in general. It's the latest hot topic — but it's more than just a trend. Here's how businesses can use its power."
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/how-chatgpt-and-generative-ai-can-transform-your-business/445066"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 46
   - title: "With AI-powered ChatGPT, the watchword is verify, don't blindly trust"
     excerpt: "It’s not always accurate and at times it has added information I didn’t add.” He uses ChatGPT, launched by OpenAI in November, for numerous purposes including creating event listings for LISTnet gatherings."
     publishedDateTime: 2023-03-22T08:00:00Z

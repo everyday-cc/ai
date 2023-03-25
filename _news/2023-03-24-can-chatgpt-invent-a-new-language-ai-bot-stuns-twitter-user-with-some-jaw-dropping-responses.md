@@ -231,15 +231,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Is ChatGPT Good for Writing Essays: Alternative Services To AI Language Models"
-    excerpt: "Chatbot technology has been around for a while in various forms, but the fact that ChatGPT is the most sophisticated of its type has led to a rise in demand. This is especially true of the current state of the academic system."
-    publishedDateTime: 2023-03-20T12:45:00Z
-    webUrl: "https://www.sacbee.com/software-business/article273266260.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 15
 
 secured: "IYvrreJHBjqC2mOyLscf6blEfs6+2a6xE3S1RaIO2TORjhOHHcyKG9pwBA4++QRFQA/GRPoEmw7Vq8DNx342UmAt8dyNSB+GTQC73F3UuL8cXqU+TGLUwslPoa92T2+s8qe6EOEhh/mF5X+Rtw3KEaO4ulKI1KLPHn+unvenGs8LUC5xpNOzw3SDwouks48PaYy/HAxdVZtG2jaKvYkMix2zHergqWonVe/bLrwjCcAIjuKuddZv5p6NYiI1CYKM9imAEYr7qn6IyHqg/TQpTgUstYTltvxbWWVzZ3PgUuMqiu14ttBgxDM42IEyYX6NBdRrc18+8R7ShswM8NwNyXAEqgRPhVwuwBp5kUJ7xGHP0oX6NMlve0Fdhmo5n3oj7jvo4/3iaZheKFqdmLhosZtPLPMadRmZakuxh+tKsDVlQBo22zgw7TOasWFhHFV+bRndvo2VkeLkEg4fx/XhqsKepIsjez8CKJDe80nDxcJ3Au10aPTbp4ERc9pCsEfQFSq3mlDNmpFOtRIKsqycGg==;vWuSCfuIeSrHJ2Ztbq3aJQ=="
 ---

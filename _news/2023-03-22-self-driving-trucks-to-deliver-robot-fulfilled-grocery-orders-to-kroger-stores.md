@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving trucks to deliver grocery orders to Kroger stores"
-    excerpt: "Kroger is about to add another layer of automation to its customers’ online grocery orders filled by robots at its fulfillment center in southern Dallas."
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/self-driving-trucks-to-deliver-grocery-orders-to-kroger-stores/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 4
   - title: "Kroger adds self-driving delivery service in one of its large markets"
     excerpt: "Kroger has partnered with autonomous vehicle company Gatik for \"middle-mile\" deliveries from a distribution center to stores in the Dallas area. Kroger Co. is expanding its driverless vehicle grocery delivery services."
     publishedDateTime: 2023-03-23T10:39:00Z

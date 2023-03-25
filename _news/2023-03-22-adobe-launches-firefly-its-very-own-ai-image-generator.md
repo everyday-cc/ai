@@ -109,6 +109,22 @@ related:
         width: 1387
         height: 799
         isCached: true
+  - title: "Adobe Introduces Firefly, A Human-Driven Creative Approach To Generative AI"
+    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue, covers Adobe's generative AI announcement, Firefly, this week at its annual Adobe Summit conference."
+    publishedDateTime: 2023-03-24T21:28:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/24/adobe-introduces-firefly-a-human-driven-creative-approach-to-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e14bbd57fc229c2eb47d8/0x0.jpg?format=jpg&width=1200"
+        width: 1100
+        height: 733
+        isCached: true
   - title: "Adobe Firefly Uses Artificial Intelligence to Create Art for You"
     excerpt: "Adobe is injecting AI into its Creative Cloud with the launch of Firefly —a collection of generative AI models that will create images, text effects, audio, vectors, videos, and 3D for you. Adobe announced it was embracing generative AI back in October last year when it teased a number of artificial intelligence projects that will eventually be integrated into Creative Cloud."
     publishedDateTime: 2023-03-21T16:15:00Z
@@ -183,15 +199,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI’s Next Frontier Is Video"
-    excerpt: "A simple prompt can generate a three-second video on a new AI tool from the startup Runway, hinting at a future of AI-created films and videos"
-    publishedDateTime: 2023-03-20T13:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
     excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
     publishedDateTime: 2023-03-21T13:00:00Z

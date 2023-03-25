@@ -28,12 +28,12 @@ related:
   - title: "BYD invests in China AI chip startup"
     excerpt: "China automaker BYD has newly invested in Chinese AI chip startup Kunlunxin Technology, aiming to enhance its deployment in automotive AI chips solutions."
     publishedDateTime: 2023-03-24T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=10"
+    webUrl: "https://www.digitimes.com/news/a20230324PD207/automotive-ic-byd-horizon-robotics-nvidia.html?chid=13"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://img.digitimes.com/newsshow/20230324pd207_files/2_2b.jpg"
         width: 1280

@@ -28,17 +28,15 @@ images:
 related:
   - title: "Larry Magid: Is artificial intelligence the next search engine?"
     excerpt: "I still remember the impact of Google, back around 1998, which fundamentally changed the way we search for information. Even though I still use it multiple times a day, that quarter-century-old search engine is looking pretty anemic compared with ChatGPT ..."
-    publishedDateTime: 2023-03-24T21:01:00Z
-    webUrl: "https://www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
-    ampWebUrl: "https://www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/amp/"
+    publishedDateTime: 2023-03-24T19:42:00Z
+    webUrl: "https://www.courant.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 57
+      name: Hartford Courant
+      domain: courant.com
+    quality: 37
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/03/Google_unveils_its_ChatGPT_rival1.jpg?w=1024&h=683"
+      - url: "https://www.courant.com/wp-content/uploads/2023/03/Google_unveils_its_ChatGPT_rival1.jpg?w=1024&#038;h=683"
         width: 1024
         height: 682
         isCached: true

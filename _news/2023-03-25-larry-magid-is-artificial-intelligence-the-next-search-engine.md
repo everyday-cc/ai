@@ -2,25 +2,23 @@
 category: news
 title: "Larry Magid: Is artificial intelligence the next search engine?"
 excerpt: "I still remember the impact of Google, back around 1998, which fundamentally changed the way we search for information. Even though I still use it multiple times a day, that quarter-century-old search engine is looking pretty anemic compared with ChatGPT ..."
-publishedDateTime: 2023-03-24T21:01:00Z
-originalUrl: "https://www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
-webUrl: "https://www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
-ampWebUrl: "https://www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/amp/"
+publishedDateTime: 2023-03-24T19:42:00Z
+originalUrl: "https://www.courant.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
+webUrl: "https://www.courant.com/2023/03/23/larry-magid-is-ai-the-next-search-engine/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/Google_unveils_its_ChatGPT_rival1.jpg?w=1024&h=683"
+  - url: "https://www.courant.com/wp-content/uploads/2023/03/Google_unveils_its_ChatGPT_rival1.jpg?w=1024&#038;h=683"
     width: 1024
     height: 682
     isCached: true
@@ -43,6 +41,6 @@ related:
         height: 558
         isCached: true
 
-secured: "XvKu9GkznqWeq7Ak8YmR5N00/a4WpC2y6Ry/aEFbj4NlwhGKROEpZDudqF4Y5yxDb3rGyaITEpPlEB+4iWpYSXDOIy3M2Z7T5S45j8pvR9SbCHPfdD2P6NdX6+3c9EQi7zfY3o+p2SvaiPNj7ySI1fIpmURTUI8HC1xnL1qvsOZGMrIyZU9dauzhMkgYjVruucXiyZIxpWEghslGJOTu1QIY4kLYENfvww/VfYBTgLRQ7/uLwjKvw7+AgaRE8GV3gtrkQpW3jBf8Ig3HFm2KA1ERqjEANaKRArc8t+QwpJma5fJqGPDTGwW6rJlUSBrGggpQ/h8YIcDddal0ZMMH0QkxFm/8+iOR21DhcRHFIt0=;YZO1OhKCscrUOkltMPCGlA=="
+secured: "39iuYneqCyzxye3JQvuaengzbNCPxQKpYMMGkpLPP7gZvftnQ5EFORcAOIvsMenOAebxPM0pOJZU2WqdP7602dDSNmpPU5+164fe133vjr99MliT+orK1gPlU04IImczs+Gmusl/Kx/Oq9PvDwhShGKJMXxUHJjYIH2bsvBbZVlFUlRauByv3eKtuB7DwZT3UWYkumpFemQPPJtAIS8jHDOvE927uZxabClTSlehVjea7OUmmSDzg6ZHHyxvOeGuFRnziOTzywovPDYS5XNSs68f1MBws/nmbhVFGEMCjPKJdjXkFdEM3gscSH4ikrcDiSm+h7/mhlvvpR7dZAbFBshXAaNS27DCCQrsR+6DNA8=;THXVGUxAw7snK79cmAN+xQ=="
 ---
 

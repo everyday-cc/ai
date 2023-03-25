@@ -27,43 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "The State of Self-Driving Cars: Autonomous Advances"
-    excerpt: "Significant advances have been made in the technology that powers self-driving cars in the last decade, but there's still further to go. We dive into the"
-    publishedDateTime: 2023-03-20T11:06:00Z
-    webUrl: "https://www.techspot.com/article/2644-the-state-of-self-driving-cars/"
+  - title: "GM CEO meets with senators on self-driving cars"
+    excerpt: "General Motors CEO Mary Barra met with two key senators on Thursday as the Detroit automaker pushes for legislation to speed deployment of self-driving vehicles on U.S. roads. Barra met with ..."
+    publishedDateTime: 2023-03-20T13:45:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars/98723192"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 54
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://static.techspot.com/articles-info/2644/images/2023-03-18-image.jpg"
-        width: 4000
-        height: 2666
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98723192,imgsize-131198,width-1200,height=765,overlay-etauto/auto-technology/gm-ceo-meets-with-senators-on-self-driving-cars.jpg"
+        width: 1200
+        height: 765
         isCached: true
-  - title: "Lidar, radar, cameras: The sensors making self-driving cars possible"
-    excerpt: "The disadvantage is that a stereo camera cannot see very far ahead — its maximum range is 80 metres, which is not much when driving fast. So for all-around vision, vehicles need more than just cameras. Radar systems are better at long-distance vision ..."
-    publishedDateTime: 2023-03-25T03:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-cameras-the-sensors-making-self-driving-cars-possible"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/23/1992063.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
-    publishedDateTime: 2023-03-22T05:11:00Z
-    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "PzkkT473SPB02NOiKjugajAYZp601vedjqisOJawrOVQ4lZYUS5IsFpVkQBb+C/R+AUJF+rnCcRQpOewIFgEliZNbnHJrnNB7MH6B0BpZ3EfrERtKpUvR9KsQ+DwDw36OvHYgtvGZJ6A4hWhU9N9BgYSHAzYLOqkvgiPVsMbQ0R2F9LGVh5qdR0zfx97JJTqGroAby/PUbpKsPFkL2u+BW07+KybcRuH1HceFjVZc5fX8hzh+2PU5MMfVNZ9sqBx5TtSlXpcE4Lv+8asgCxr3N7AKrS2+5yN9xFJt/VGMPMXywtPDLd+zmoVCq9OvFAp76GzT6E5yr1cB5t46TUxzKu6ycHK8Bob43kF+wS4mgdkAjZS97XvYX9eaLTZyS/QTu6TvwqZmAxZMjkkpuCeSf6HKQ3niT1YaLvT0hwvqbCGmmUhzOGzRxqWqkaZpopFbMKCRKVu3MiNt+PBZdgilLMTivoHUEoCJi+0UQ06dgZqogo8Jxtpall7j0ncpj4fL0YDSRjPU15Xtyv/d3LMMA==;p/W/zpJf/Msm9d0h2bz9Qw=="
 ---

@@ -195,6 +195,20 @@ related:
         width: 2190
         height: 1369
         isCached: true
+  - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
+    excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"
+    publishedDateTime: 2023-03-25T00:28:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-25/microsoft-threatens-to-restrict-bing-data-from-rival-ai-search-tools"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBCvguQnGgQ/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
     excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
     publishedDateTime: 2023-03-22T20:41:00Z
@@ -400,15 +414,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nuance and Microsoft Announce the First Fully AI-Automated Clinical Documentation Application for Healthcare"
-    excerpt: "Groundbreaking Nuance DAX Express is the next milestone in an expanding portfolio of solutions combining OpenAI's GPT-4 with proven"
-    publishedDateTime: 2023-03-20T12:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuance-and-microsoft-announce-the-first-fully-ai-automated-clinical-documentation-application-for-healthcare-1032178616"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Railtown AI Technologies Inc. Announces Release Notes Co-Pilot Released on Microsoft's Azure Marketplace"
     excerpt: "March 20, 2023) - Railtown AI Technologies Inc. (CSE: RAIL) (\"Railtown\" or the \"Company\") is pleased to announce that the first of its AI powered Co-Pilot solutions is now available for purchase in Microsoft's Azure Marketplace."
     publishedDateTime: 2023-03-20T13:30:00Z
@@ -529,15 +534,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft used tens of thousands of chips to build OpenAI supercomputer"
-    excerpt: "The technology allowed OpenAI to release ChatGPT, the viral chatbot that attracted more than 1 million users within days of going public in November."
-    publishedDateTime: 2023-03-20T13:01:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft-used-tens-of-thousands-of-chips-to-build-openai-supercomputer/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 51
   - title: "Microsoft brings GPT-4 to its Azure OpenAI service"
     excerpt: "By utilizing ChatGPT’s natural language processing and machine learning capabilities, [The Office Depot Corporation] aims to streamline its internal operations and drive business success. Of course, by bringing GPT-4 to Azure OpenAI Service, Microsoft is ..."
     publishedDateTime: 2023-03-21T18:51:00Z
@@ -708,15 +704,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 21
-  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
-    excerpt: "The multi-year agreement includes collaboration with Microsoft Research and leverages developments from OpenAI. Through this collaboration, Syneos Health will deliver technology and data solutions with Microsoft that accelerate clinical development and elevate commercial performance for biopharma customers."
-    publishedDateTime: 2023-03-20T12:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-syneos-health-collaborates-with-microsoft-accelerate-ai-across-/2023/03/20/9779459.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
     excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
     publishedDateTime: 2023-03-24T13:32:00Z

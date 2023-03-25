@@ -9,7 +9,7 @@ ampWebUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-readin
 cdnAmpWebUrl: "https://www-liverpoolecho-co-uk.cdn.ampproject.org/c/s/www.liverpoolecho.co.uk/news/uk-world-news/homer-mind-reading-beer-pump-26523883.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The world’s first ever mind-reading beer pump has been unveiled - here’s how it works"
-    excerpt: "It began as just a fun experiment for Seth, but has now gone further. Explaining it, Seth said: \"This is the world’s one and only mind controlled, beer-pouring robot. It reads your mind and measures your mental focus. “It doesn’t know what you’re ..."
-    publishedDateTime: 2023-03-20T13:03:00Z
-    webUrl: "https://www.scotsman.com/read-this/the-worlds-first-ever-mind-reading-beer-pump-has-been-unveiled-heres-how-it-works-4071444"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 0
 
 secured: "Vl+YPs6wOFQ/iI3i51cqtBCqCpp6yQPkEpjsrlyixJdSubmPfqitRAjhcn7++zf8enrbgyFwqB11OyM23clShHlnLGIZBeKTn2sXmBJrSCj6fMOclYsuQ2aEeUlb4ZX8r3DUpmhkZ/ZBn8hrq9u9fOK5Yi5NLYez7UBhUfzcQP+RNbNAh2CHkN5ldkmPefGZMnzdZ2btqgBjfL+uwgITeSPmR2oP4Znfgsl73EhfQLeh1yneWSw6CcNWuZGtOx2CF0AgjqebhIfWvKmsGOYCveA/Lu/1s9m0yQrbzYcAi45sBEKv3NDquqZFanB/em2+hdHcurPNMA/u8Qo/d/mGHnuzpn4SyUonH3XorRJQ6V05DkAERQlpMyWHKncuc8RU8NhhnD7y1Y3GK1Z3rXmuBrj/LO5hfeIbUJ72rYbb4OlOqfKOcHpTtow9qeFYusANzatSPJrZUYuVTBEDdsKqzdbb9m379WFu66BcazbP/oFJZLtzi5pEnPmRwHZA8OJ3SxzUyrJFvahxt+FJ3bL2jw==;NnianTsKjZCXdV/tBSEAow=="
 ---
