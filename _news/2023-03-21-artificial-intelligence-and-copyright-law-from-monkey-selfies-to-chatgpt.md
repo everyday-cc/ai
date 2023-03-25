@@ -170,20 +170,6 @@ related:
         width: 600
         height: 318
         isCached: true
-  - title: "UAE-owned AI language model outperforms ChatGPT"
-    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
-    publishedDateTime: 2023-03-20T08:45:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
-    images:
-      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
     excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."
     publishedDateTime: 2023-03-22T15:56:00Z

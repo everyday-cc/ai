@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-
 webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "New Ways to Intelligently Generate Language to Exacting Needs and Standards Using AI"
+    excerpt: "Apostroph perfects AI-enabled text generation with apoWRITER, an app steps ahead of other tools for multiple uses, including localization."
+    publishedDateTime: 2023-03-21T14:00:00Z
+    webUrl: "https://slator.com/intelligently-generate-language-to-exacting-needs-standards-using-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 12
 
 secured: "DUCCOwS25im8syQ9Cirpg1FHq7E1ClSOiB5sZXyKab8Vb5gblqpZvufnR1KwsB086BbZ5EzUyrH6wUlC+3X680PeS31rEROa4rATbSi0lDu7f5zZHHVJNKVGgOw5mNsBIXRxKk/KYYH7BZLItDMR5y/0qGG9i/K+LZl35+40PADUF8A4SLieSoBx2umysOYdXpF3SabuXAxQsir3k+QkuCqfFPMVvE64VQ8iOjJ51YDAriOBluSuzK9goOFJyLKALZYDxJiWYjGOjR9D8D2Fso+03Avld8KLkKI9enev30S4qggletTdGuhLM19B+fhaC5f4ZNn41hUUB6+3aOuBShqrIxb6z4vi+08HM8cIt8NNbol80Qof69wkNJ2m2C7QdiRJNowyQwnGqL+soB/HDBgDTh2cZL8qIjx4fK46BZpE8ea/YmdhunJSSpMxagFw+MoCgn986J8fxnnjTVVPl9wjOE90DWpnO1tInY/m36WTH8JxG9Zi1j/CrPvf7XPw/vHqsBRmGKlUDfqxqobNTQ==;6srNpQpV9jcr8mA7kxY2Tw=="
 ---

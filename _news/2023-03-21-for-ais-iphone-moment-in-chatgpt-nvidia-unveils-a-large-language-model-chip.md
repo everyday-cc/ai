@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-ch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
 type: article
 quality: 102
-heat: 282
+heat: 272
 published: true
 
 provider:
@@ -172,20 +172,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
         width: 600
         height: 318
-        isCached: true
-  - title: "UAE-owned AI language model outperforms ChatGPT"
-    excerpt: "Falcon LLM is developed by the AI and Digital Science Research Center’s (AIDRC ... It can be used in a wide range of applications, such as chatbots, virtual assistants, language translation, content generation, and sentiment analysis."
-    publishedDateTime: 2023-03-20T08:45:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-owned-ai-language-model-outperforms-chatgpt3"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 39
-    images:
-      - url: "https://www.itp.net/cloud/2023/03/20/AI-model.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
     excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."

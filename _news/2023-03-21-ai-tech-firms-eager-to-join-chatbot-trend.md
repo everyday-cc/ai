@@ -410,6 +410,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
+    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 23
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
     excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
     publishedDateTime: 2023-03-24T12:29:00Z

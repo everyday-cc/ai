@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-ar
 cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/24/cyber-security-experts-warn-about-artificial-intelligence/?outputType=amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "What AI means for digital security"
-    excerpt: "As AI technology like ChatGPT evolves, so do the strategies and tactics used by cybercriminals. Steve Flynn, sales and marketing director at ESET Southern Africa, says ongoing awareness is crucial in understanding how to manage potential cybersecurity challenges posed by these developing tools."
-    publishedDateTime: 2023-03-20T07:44:00Z
-    webUrl: "https://it-online.co.za/2023/03/20/what-ai-means-for-digital-security/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 36
   - title: "Eurotech announces a new secure edge AI portfolio complying with the IEC62443 cybersecurity standard"
     excerpt: "Eurotech lines up the largest portfolio of cybersecurity-certified edge AI solutions for the industrial, energy and road vehicles markets AMARO, Italy,  /CNW/ -- Eurotech, a leading multinational company for Edge Computers and Internet of Things (IoT) solutions,"
     publishedDateTime: 2023-03-20T09:24:00Z

@@ -421,6 +421,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
+    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 23
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z

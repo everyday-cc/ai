@@ -161,20 +161,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 46
-  - title: "AI could make the future role of education increasingly to be in support of human development"
-    excerpt: "Dennis SaleIN most basic terms, Artificial Intelligence (AI) uses computer systems to accomplish tasks and activities that have historically relied on human cognition. These include such cognitive processes as visual perception,"
-    publishedDateTime: 2023-03-20T08:32:00Z
-    webUrl: "https://jerseyeveningpost.com/voices/2023/03/20/ai-could-make-the-future-role-of-education-increasingly-to-be-in-support-of-human-development/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 45
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2023/03/20083152/Img35448824-scaled.jpg"
-        width: 2560
-        height: 1703
-        isCached: true
   - title: "Look: Stunning Photos Show Dubai's Museum Of The Future Re-Imagined By Artificial Intelligence"
     excerpt: "Dubai's Museum of the Future is the most beautiful building in the world. And now, artificial intelligence has reimagined the torus-shaped structure in ways not thought possible previously. The Government of Dubai's Media Office has shared some stunning ..."
     publishedDateTime: 2023-03-22T08:44:00Z

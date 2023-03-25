@@ -19,31 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "3 Ways Ambitious Entrepreneurs Are Using AI"
-    excerpt: "If you’re not incorporating artificial intelligence into your work in some way, you’re behind the curve. Even the most suspicious and non-technical entrepreneurs could save time and money making use of the tools available,"
-    publishedDateTime: 2023-03-20T08:30:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/20/3-ways-ambitious-entrepreneurs-are-using-ai/amp/"
+  - title: "How AI and Machine Learning Are Impacting the Litigation Landscape"
+    excerpt: "And in the legal industry, we are seeing the use of AI and machine learning ramp up in litigation, especially when it comes to expert witness preparation and testimony. The support of expert witnesses has always required leading-edge analytical tools and ..."
+    publishedDateTime: 2023-03-21T11:46:00Z
+    webUrl: "https://www.law.com/litigationdaily/2023/03/21/how-ai-and-machine-learning-are-impacting-the-litigation-landscape/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Law
+      domain: law.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63fe4eb9a0f2b525e607b7f9/0x0.jpg?format=jpg&crop=1892,1065,x0,y39,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2023/03/Sancheti-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Chances are you’re already using AI in your day-to-day life"
-    excerpt: "Artificial intelligence (AI) in its most simple explanation refers to the application ... Of the types of digital technologies most used, the highest on the list are fintech solutions such as money transfer tools, money apps and investing tools, social ..."
-    publishedDateTime: 2023-03-23T08:15:00Z
-    webUrl: "https://it-online.co.za/2023/03/23/chances-are-youre-already-using-ai-in-your-day-to-day-life/"
+  - title: "Is AI Turning Me Into an Obsolete Machine?"
+    excerpt: "Artificial intelligence is advancing at a superhuman pace ... But it can also be applied to myriad other purposes. Start-ups are using GPT-4 to, among other things, instantly draft lawsuits against tele-scammers, teach foreign languages, and describe ..."
+    publishedDateTime: 2023-03-24T13:19:00Z
+    webUrl: "https://nymag.com/intelligencer/2023/03/gpt-4-chat-gpt-ai-jobs.html"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: New York Magazine
+      domain: nymag.com
     quality: 19
+  - title: "City Tech Chemistry Professor Creates Innovative Tool for Distance Learning Being Used at Educational Institutions Across the U.S."
+    excerpt: "but in fact a valuable approach to providing deep learning in science and engineering and expanding educational access. \"Our mission is to enable students to learn anything, everywhere. The pandemic challenged us to design educational experiences that were ..."
+    publishedDateTime: 2023-03-21T16:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31443012/city-tech-chemistry-professor-creates-innovative-tool-for-distance-learning-being-used-at-educatio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31443012"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31443012"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "EPAoql0JOt/U4T1fsbxHSApvCtnIvqpr0T1d5u7ca5m0C58N/DVjR1Stdrz50CGx/uTOzHQLFVq/8MkdwooDm02MrcmMIbM0mcSZURgy9ptaCaSARgHvNtrD32Rwj1zQw8WHn9rC7ifibeGFS0YYYyONfnJ2njJdiIge25Xdqj/vrR3nlNEVzLekBZdX8Y8if2DvLYq3j/rjagIRYupMdEsFuARVm6vo/Rt+bZNIabvUVLJzGRqOG1L/50nRcvo+50BdAdXwt2pdNe1efuqiO9/I3TTyWwW7czjzrq9VpndX9gmS6mXeAQyJ0l9PnkJ2j7OimLrVgimu9KxoHn+5o1nVERgbd92VM7r+Du58OBq/qz78Cf7vIQ+KrNd2QzovoMyLrcergqdrPqsoGmGa4VRoWkhg6xHn04DhR9LTWeLY3u+nE2ZBL9RjrbBfOb7eLYnR4qdvFCRAdeOrRAhUZ1gkKkMhASMm0LtU7M69C6ceWhVg3Kt6FYOp9NgazItGcqK29WnRQoXXAw1CYyvAXw==;cC0sJP954QbM+leUNaTTMw=="
 ---

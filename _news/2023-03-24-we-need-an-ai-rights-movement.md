@@ -43,22 +43,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "The AI arms race highlights the urgent need for responsible innovation"
-    excerpt: "There is a persistent tension between financial valuation and moral values in the tech industry. Responsible innovation initiatives were established to massage these tensions, but recently, such efforts are being swept aside."
-    publishedDateTime: 2023-03-20T08:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/articleshow/98804356.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/amp_articleshow/98804356.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/the-ai-arms-race-highlights-the-urgent-need-for-responsible-innovation/amp_articleshow/98804356.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71074,msid-98804411/telcos-deploying-artificial-intelligence-to-reduce-subscriber-churn.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Study highlights complicated relationship between AI and law enforcement"
     excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
     publishedDateTime: 2023-03-22T02:47:00Z

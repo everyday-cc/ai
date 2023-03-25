@@ -50,6 +50,15 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 19
+  - title: "New Ways to Intelligently Generate Language to Exacting Needs and Standards Using AI"
+    excerpt: "Apostroph perfects AI-enabled text generation with apoWRITER, an app steps ahead of other tools for multiple uses, including localization."
+    publishedDateTime: 2023-03-21T14:00:00Z
+    webUrl: "https://slator.com/intelligently-generate-language-to-exacting-needs-standards-using-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 12
 
 secured: "zzOt3dzkpxjAaqrGVsyPGJeohVngPwaWtEykx7IEbTlPSrsns1PFVJCq24Gwx6XjglnABiaVqZkG2/UDA/JJMsP5/pLLTCAc25wFsQKU9pXyFcaxLVQVVfkWqZHU7MenhHV6CvRszsnY9ttIR7wAzUw+7vQNlW5hk5V6wyp5kSNs/8+s7HYXQ8SwUMqOA12E1Zoq49PQUId5ChcggCTAS1K8Et08KVhEyFqzawpAokOM6eMtYMpfS3q0t1L3kDcSOUgivBwG1nzIK0/pIeRcl4AukaI9oBrZWcZsYZvp4JFpteeuNfnnqEHTkiuNch5d1y34ByS3Wr4esQSPO8owgfPRNdsOos4fcNeurXk5FGE=;smTsLeqgdaHpWSOqJhCJcQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-do
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/03/22/what-does-fintech-mean-and-how-can-it-help-business-owners/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1009
     height: 672
     isCached: true
-
-related:
-  - title: "Using embedded fintech to grow your credit union’s membership and deposits"
-    excerpt: "In a world where acquiring members and retaining them is critical but hard to accomplish, using an embedded fintech approach can provide credit unions"
-    publishedDateTime: 2023-03-20T07:30:00Z
-    webUrl: "https://www.cuinsight.com/using-embedded-fintech-to-grow-your-credit-unions-membership-and-deposits/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 22
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2023/03/bigstock-Digital-Banking-Virtual-Bank-471389381.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "ldhoC4fZ6PuUP4twnNbRWFnY354EkMdAQNTR7J/lS0UT9qq7tuKYVbfKMPdlHMZxbZ+jI2k8PYom9S5fvK6Iav7XwIfGhqIiykn0CXDQqE7BnUDIGZ7bgXQGuLaju3ZjhF/XOFYuc7603lNqxxYIvu9W1ivbetwUHTdIv3SDzDjAFkoPDB309O9zzkotwWEDxqNJ4vmmr2ThhWHsbdu1bfta7PdS8U0+XhVy6l+MXf+WOjlHZJc0kBKYGBxGiNQLKqNrxKfzx7Q6pYA+G9rF9dk4M+n+XQsZHpYVRKqA1Iu/PKqn/r4sAEGu1OGGdxQ159lL790FrhpFVzf+PEHOGzreWarhq7jkyY/P7/U+CrVeNZaIVvDcieI93Z6AKZJXkntnA6IdMEX30P649nAf1xzAJno1t8+cvS9z0n4AbpNt7DxYElMw44Mydnvdp3efidH/7W1hR1gA3gmCF/EJwsRqLpS8ywq0DVzrxS10R08LC9+kZzRyHV0j3F5rX6sta9nlojNXAeIPKhfPOG9Aqg==;HtpFcbZECKZV4M9dGARuSw=="
 ---

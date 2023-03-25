@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
-excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
-publishedDateTime: 2023-03-22T13:24:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
-webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
+title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
+excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
+publishedDateTime: 2023-03-24T18:44:00Z
+originalUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
 type: article
-quality: 67
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: news.crunchbase
+  domain: crunchbase.com
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
-    width: 1200
-    height: 821
+  - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+    width: 900
+    height: 506
     isCached: true
 
 related:
@@ -119,6 +115,20 @@ related:
       - url: "https://images.wsj.net/im-749471/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
+    excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
+    publishedDateTime: 2023-03-22T13:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
+        width: 1200
+        height: 821
         isCached: true
   - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
     excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
@@ -412,20 +422,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
-    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
-    publishedDateTime: 2023-03-24T18:44:00Z
-    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 23
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
     excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
     publishedDateTime: 2023-03-24T12:29:00Z
@@ -472,6 +468,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "Cf4/2yol2UpmxFrrNI1zMQID0RwrbVPd06dL8woZCrJeORJOb2Gb+fG1rPHAZQgTSZn3qGuVCcgb4Mjvc1q/+scIm2pQYrwSUNmslCs9ZVL+oUQJhubQReW51LIy764Jd+5lxXgGoiYFLcWIo08SOnb/q0pfJKdJ57OwEudm0vQyn4kte5+q3hRVhCVbq4sDjOLk4gUkQW/YVHZ9yauBNPY8ZqpBY7WPdwvMkz6uiX1tIMFASF51PM7gLkx2E4/ZDaP6Whx+NBYVR3VH6lxORbc/BxSDbnjUqZYZYVVhJZPCZo+evK1zRdrgSD1KlLMnSDKNOdWkSwso7Jk57xjmoyxbs/kYe0FcvaTKqtP4B2KjZtRvsOezBGdpg2oppyimkNXQlW1ffHkOwi7xprbMvow7cNBY5OzYoaRUkrX0MhSYdrJ7N/vLVhYdlAEk4nu3ph2uy+P1hJepTiYIGCrj4OShCr9sg7zlr8fdjEI+c4bYSJkkbpz5u5PfocZRqjO4Qv6Rc2glgYYZOecKmSj0Iw==;T1qnVal4+F2XThwaqC8+BA=="
+secured: "/0/4HIqDdMkqJ1wYYtVddjOVNnpBFulOQh4a7dGo9rbAddi7Im6u+zn+6d08nMYLb37KJoVAp6zKjgntHcWJ82RO+cZbDHpfxEENmVvwl5UtkUdJOwA5Q0pbcQHw6/ncBMpQTCvpRPmcs/2/qO7ys5R45icc9SxB1wygzwQ/BanV3Gqb3Lpf5ecOW9Y1Q5MEbUZmoYwyGQ3ofhcakQd67/TpkDXgaIhGX631YgrRD9Eyu+u/AwxdO7H9wQIyiViLYFU9iWjqANUmiiQUVHG0o5lo3jEYvF4ao2SUfROMayhMnrGg3PBQFL1e2uhSfU76zKnDxJr5tsGBrEM2n8C0S183MRHX8mEeniMyfXI4H4U=;GspwqgZc+IytWJVtsz4m8Q=="
 ---
 
