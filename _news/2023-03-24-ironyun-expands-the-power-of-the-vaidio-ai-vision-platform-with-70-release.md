@@ -1,14 +1,11 @@
 ---
 category: news
 title: "IronYun expands the power of the Vaidio® AI Vision Platform with 7.0 Release"
-excerpt: "Vaidio 7.0 enhances Object Search, Object Counting, Scene Change, Vaidio Data and more. STAMFORD, Conn., March 23, 2023 /PRNewswire/ -- IronYun Inc., a leader in AI vision for sec"
-publishedDateTime: 2023-03-23T20:06:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782661.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782661.htm"
+excerpt: "IronYun Inc., a leader in AI vision for security, safety, and operational applications, today announced the 7.0 release of the Vaidio® AI Vision Platform. The award-winning Vaidio Platform now includes Object Counting,"
+publishedDateTime: 2023-03-23T23:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ironyun-expands-power-the-vaidioreg-ai-vision-platform-/2023/03/23/9782661.htm"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: TMCnet
@@ -18,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1932792/IronYun_v1_Logo.jpg"
-    width: 400
-    height: 204
-    isCached: true
-
-secured: "uS6bfZrGeDYt6eeeWEFLzJJsFQr9B9PoSTW1699mJo7qhsCbBZAWDpN8jQZwPulV8eFw9W4DtOXVUpvQMPK4e+yBar2q81AyUXKDonlII0i3Z10621vr/lWdgqWlgS3jsDY7i3XT3WlMiSC3gqW03yD6xJ1Po2AryRsH/9cTXLGaFki3k/w1IxIIVKSTHrzGs4KwuzsVacJ9AvXjrj2ArQLWWRXFi8UScQCspCvWVMLpp8zAzwJgBeGizu/FxJoRe3WcXxIaY5ykCkzxGKHfQ223xY3eczS76UQxkNQLRBsiMCsMcFD/oezCGoRC883SuFV5HCRDo9wJXLFrWKbdx/7sfaWIqqAZOuqpxL4D0Es=;jBmu2UXrvB7Oaz19h1d1ug=="
+secured: "Q3pcI4BSubTVOt5XKeDneHS+pw/BWSJgET7Jmvj91cTeKPVHCyCazQcOQeUgcRUroDzmZdimqLiOfimpQgk910JFwNO7Ylt/jtLCgTouhgFGbRnmkdehmnc7yrKbQI6+LoFDA9/Ggwrq0tfneE/5TTzWFIiiDgmlgON/xmuzIxaoMzrOGtHjAThOQs+h9kP6SEfGuhetdB24Zk1CEqmNVj+G6lKJkTy7X2I6XJZGlqWtOmgNx+zydBILANrV+L+FueQorXFzJQYnj3zkHncGJhh3EUbk0FUKXCKHjAKOplSsroNUEjYNwB8fFu1HMMZiw1S43/UNpyQGdP9vw+EsjdzLG6vDx6OhBq1evev4P7ph5J+2gJXwfAOuOSeVnvF8LIDbEGUepWe7Bl9vWGG3pU1up3ioFosoHDd12FnYLCMvNI1A0McCrY+jCaLB//XM44DHZy5nvDjSFQ2lSMepyztYZCL4kka/VDcdjDFLpQt7BsaTc6ltdSHkiuOjjU0fmgy/k6hNFy6VcflXW1fn4A==;6sv/WNa1p3/jm1m3GWvkNQ=="
 ---
 

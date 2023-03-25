@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "xAPVmEG9c9WQ7Mg+m4eWmNDJIrPq8DBEJeaMh3kKkp2ADpW7qJqJHADK+URkt27WSSAQxV7V/dhLzJL0AKrOO0nb9e3oJkQ13AEAUEgwQ2lQ613JRzR7d0qoVMnmSMc5BVqIQmL1GAUZx3FUgyuF3sCKHeAScervCuXvsutYxZGhFRpH1f8ZcqB+IHAQXPe3S3yMcrzrMc0pV8tPUHOPuk5FJI1w2WhUhmFO5G19ZrFhmmmotnndyHXxfEx/5V8hiqBnNpViYXD5V0KFVrs3EDPLzX00t9OrKzOVUp74yRalEYLx/T7x1QLoB9xnknX+bag+B7rpkFNh7KuvMgi+1xLROKiTWmCPtAdYRGjaITA=;lWNxVcCR2jYIXxD8tfS2Rw=="
+secured: "SSd/28x3RyRFIZIEMfGyrC4EcN3VnxMmT9/PagKKdB9XjHRzX95nEBTcHXJq6YMHwlRgktbgURQ5JXWVbIMxlMmok2GoFtXBl152akZ/3dAl5tk8Kb50RxIE4VZ/zxun1BhqKIR3471mLIn4RU56hHoZwrj2/6jWwiFFF6LuR1ogWyTvpeFwbMikyHCA7aX4dpIpBZtzGmh3i78DGQbgAEMLe0963yGDOJa2B+DStWxjaJwxmc8f+2k0PzW49KG85Q3CT7isrI9d6TAf7WHChAVRqPw8AJ5tSNlcoQm2YNZu4kecUyD9fz8Aq6XVR7K7IGC5AIiuiFeNbMcflUjRSoEBU9vM1F7pctZRbmP5UCw=;275rVM3sFl2hQZEtukP81Q=="
 ---
 
