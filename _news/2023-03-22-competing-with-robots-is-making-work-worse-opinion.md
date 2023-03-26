@@ -41,20 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "The World of Robots to be Guided by Artificial Intelligence"
-    excerpt: "Under the guidance of artificial intelligence, the robots will learn to move with humans and interact with the environment, learning stepwise methods on how to adapt to various circumstances they may encounter."
-    publishedDateTime: 2023-03-21T16:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13731"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 54
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13731_16794151756504502.jpg"
-        width: 1000
-        height: 408
-        isCached: true
 
 secured: "FMDjt6oY7kNCFyyr47E3L+PgnPr8eFx4cKiyvqgXA7f4hhQpS8aLxu482gXCoQzjuFU7UYj/Y6ECEG4eDH8em/lOAanllCtkQnxFCHJn0CZq7uEMlrWyjwNH2FMj32lt8JqzSU83znswh/uPLZU1ly9h67u3KDYs+Ub7JDve1RMoAmt3DlD+MlW90C1LYXW4rkv8yp4atPXfxdpdvsvfi1deQJukc2UUz2Nv5VIoy/wXSk5/ZP77iB8DX849emBUBSwsDWjNZh3kgJLxnAO3sJq6gxdrZNNpnejL+T/0J2Y7nB+MdPRIbdL+QbNoxwmIvd7jS2zVW5TlFMRI1I0cTHCfZB40Hc8wnRciuNlWLnU9rjoxdEhoD6SsoD8i1UDQ4MDb2Ihg5SRjS7sF6t7yReemuadV8h8UR0L38oP7AtmiA/AAMqaumfzg7Z+QvOkT4m++E7+Dy2ZzTmFEQCwQYoybGAuODE9991U5LmRJIHPZCCYlkWymTiXYS4WsWjV1hCAGlpKdbBGyRL2DNP+2Cw==;1YapAAGO8+NsVXTw3+9puQ=="
 ---

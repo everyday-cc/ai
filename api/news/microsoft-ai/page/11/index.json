@@ -2,6 +2,74 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-01-02-microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.md",
+      "title": "Microsoft Coding Hackathon Winners' List Out; TCS, Wipro, IndusNet Top 3",
+      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
+      "sourceUrl": null,
+      "webUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
+      "originalUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ummid",
+        "domain": "ummid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon.md",
+      "title": "TCS, Wipro, Indusnet Teams Win Microsoft's Coding Hackathon",
+      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innov",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "originalUrl": "https://menafn.com/1105374526/TCS-Wipro-Indusnet-Teams-Win-Microsofts-Coding-Hackathon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-01T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-10-databases-supporting-in-database-machine-learning.md",
       "title": "10 databases supporting in-database machine learning",
       "excerpt": "After AutoML training, Redshift ML compiles the best model and registers it as a prediction SQL function in your Redshift cluster. You can then invoke the model for inference by calling the ...",
@@ -1220,92 +1288,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-could-walking-backwards-be-the-secret-to-physical-and-cognitive-health.md",
-      "title": "Could walking backwards be the secret to physical and cognitive health?",
-      "excerpt": "How many steps have you taken today? For many people, walking is one of the easiest, low-impact forms of exercise. Every step can help increase one’s metabolism and, for some of us, help ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "originalUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-vcs-say-superpowered-software-a-dearth-of-new-funds-and-rampant-ma-among-the-tech-trends-to-watch-in-2023.md",
-      "title": "VCs say superpowered software, a dearth of new funds, and rampant M&A among the tech trends to watch in 2023",
-      "excerpt": "The party round is over, unicorn valuations are coming back as a meaningful metric, and other predictions from venture capitalists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "originalUrl": "https://www.businessinsider.com/tech-trends-venture-capital-startup-predictions-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/638fbba28580f70019f7c350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

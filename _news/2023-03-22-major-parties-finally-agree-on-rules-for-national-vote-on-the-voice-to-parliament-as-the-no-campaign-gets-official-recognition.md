@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-11888273/amp/Labor-Oppositi
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11888273/amp/Labor-Opposition-finally-strike-deal-referendum-Indigenous-Voice-Parliament-bill.html"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 636
     height: 382
     isCached: true
-
-related:
-  - title: "KLAS: Speech Recognition For Clinical Documentation On The Rise"
-    excerpt: "While ambient speech recognition is growing, transcription will continue to play a limited but key role in clinical documentation, KLAS found."
-    publishedDateTime: 2023-03-21T16:59:00Z
-    webUrl: "https://ehrintelligence.com/news/klas-speech-recognition-for-clinical-documentation-on-the-rise"
-    ampWebUrl: "https://ehrintelligence.com/news/amp/klas-speech-recognition-for-clinical-documentation-on-the-rise"
-    cdnAmpWebUrl: "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/klas-speech-recognition-for-clinical-documentation-on-the-rise"
-    type: article
-    provider:
-      name: EHR Intelligence
-      domain: ehrintelligence.com
-    quality: 39
 
 secured: "ieuSW4Nijrm+RbldXCQ624fFUuhZd2hH8QpqfO0JE37+3BRhY6JMTCePvcIh1yBHbqH9+aNxUZY44b/DZIp0Dx21y7riTwpDMAnEDNFsYuKEH3Qyk9lvKisqL9rMYfdeMhwl53nPPtSEJsSivRwjXJdG/vUp9M2et1CJgW1zF99pYinUcw0CGwG+4K7ITe2uTJLeEqGegWq6a9yUwZkCuv9iiFs9d4zX9Uss4TEANzONK64XcX223PY6doeb7gEJqu4o8cFKy+ThecNDI69OC27xeKLEJypVooo+DRsWJ6TATd30r7hYBCam0Ns3jdy/gms5TPdoEVjlFz6zAgmBusfcLER8k7b9I3ecp49A3eI=;9opG40nITneqPhEqoUL+DQ=="
 ---

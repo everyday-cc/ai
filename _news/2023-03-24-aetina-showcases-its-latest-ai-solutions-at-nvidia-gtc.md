@@ -25,31 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia VP Manuvir Das says enterprise AI is at ‘an inflection point’ as GTC gets underway"
-    excerpt: "Generative AI and ChatGPT have made it so obvious now that AI can transform ... So they need a way to build their own custom models, but they can’t just start from scratch. The kind of model they need requires the information from that company so they ..."
-    publishedDateTime: 2023-03-21T16:59:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/"
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/Manuvir-Das-NVIDIA-Head-of-Enterprise-Computing-1-1-e1679400501259.jpg?w=1200&strip=all"
-        width: 1200
-        height: 935
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
-    excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
-    publishedDateTime: 2023-03-22T19:02:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/22/nvidias-data-center-platform-play-unveiled-at-gtc-2023/"
+  - title: "Nvidia Cements ‘Dominant AI Leadership’ With New Products. Wall Street Is Enthusiastic."
+    excerpt: "Wall Street likes it. At its most recent GPU Technology Conference or GTC, the company (ticker: NVDA) unveiled products like the DGX cloud service, which allows enterprises to rent AI computing capacity on a monthly basis, and partnerships with Adobe and ..."
+    publishedDateTime: 2023-03-22T12:55:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-leader-products-stocks-c9d78c96"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
+      name: Barron's
+      domain: barrons.com
+    quality: 11
 
 secured: "HCXx0WcC8xV9639lcYBLOvtp0GX/TQ8txx2Q6poiJ0KCKM+jp8Cv0kKIkfQVVql2sI8qnwUH3Un2JKAjNH2vpmQ2gQpvk+ci9QSZSZNmAfbqoDIOcbauExCK2/tX0ebiERThoObXnqOiR60jtXw1OOW5KcTC3AdnNgAZ4QTYUx5cApF8bsIGVXa0vHBzlXIyX1XE6tRWTNEX5mgZzCUWY9AunQ3aYb9nidpE8g6YiKfU2tcxncs0+onp2Kmu4yUIs/1n7w4N6svc4dOKoARt3jk5+FW2oIbpriXuZnbwG8v984h+5JUKIfbhH0hefts7ygNWtt6uZ0voEFhJJ6U0xbcx07bou1i8xjgKixxuGsY=;7jKJSxotzhgT5FschD1EwA=="
 ---

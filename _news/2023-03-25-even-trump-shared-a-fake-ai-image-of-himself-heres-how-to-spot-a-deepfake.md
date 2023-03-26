@@ -46,22 +46,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Fake, AI-generated images imagining Donald Trump’s arrest circulate on Twitter"
-    excerpt: "Twitter’s failure to label the somewhat convincing AI-generated images could potentially cause harm ... deepfakes be “clearly disclosed,” prompting users this week to start adding a “sticker or caption, such as ‘synthetic,’ ‘fake ..."
-    publishedDateTime: 2023-03-21T16:33:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/fake-trump-800x800.jpeg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "The Trump AI Deepfakes Had an Unintended Side Effect"
     excerpt: "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic."
     publishedDateTime: 2023-03-24T16:05:00Z

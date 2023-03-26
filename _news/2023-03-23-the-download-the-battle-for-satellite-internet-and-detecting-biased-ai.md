@@ -34,6 +34,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
+    excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
+    publishedDateTime: 2023-03-21T17:06:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-says-its-new-ai-tools-are-like-a-chip-foundry-for-large-language-models/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Ywgm9iiEbiRLgBTEuMzYcZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OEch9mDtQQiNvopbK1qMqJC4L9991Goa+nAr4rCz/0AfGX5n1DCLZ1C/KkfGz3C/+4khoUyIGUE4zlzuX8RFYrXza+XW7BTcy9YjiY9sHn3jpqdKnVW+jUJI/DCJ5Jx74D++cgHvdJk2Sy+vmukvZu0vANJuRedFic/4CG5JAemSBwPz2F/iU1ojElj9gbbAkewBHm3RGImUrpgzuVHUre6x0/FINewWEabw8H1UPE4AQtaYEv1VYmDZuhVhh58O0STX/GIPzP9j+jN+GH85nymMHVMdNoKXOxJRJO/H9Q2OSDkI6OFc5uQP9TlfgkO0WDpH18s3nxecWudB2KyRhHSsQsHPsE6irsUjISXrwc8gW7PZguc8UcZXciCG2NQFb4kBUWgoCiQwvfzefb3hCWu64sdy8J+3N/TY7KoSUDR/RngL+GBDW9E/O6OyM07CvMD4hdbBzShb8Qk3u/py5sSQFnLWb5k1O+pXZSjnyGX38HubYzDnPXeV98KAVWujg7vfrdRo9s/axGZktMczAQ==;ljvBGxiOCqKM5UYaer3xgQ=="
 ---

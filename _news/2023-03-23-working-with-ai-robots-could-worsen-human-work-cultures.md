@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/working-with-ai-robots-coul
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/working-with-ai-robots-could-worsen-human-work-cultures/amp-11679507470823.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The World of Robots to be Guided by Artificial Intelligence"
-    excerpt: "Under the guidance of artificial intelligence, the robots will learn to move with humans and interact with the environment, learning stepwise methods on how to adapt to various circumstances they may encounter."
-    publishedDateTime: 2023-03-21T16:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13731"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 54
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13731_16794151756504502.jpg"
-        width: 1000
-        height: 408
-        isCached: true
   - title: "Competing with robots is making work worse (Opinion)"
     excerpt: "Too many of us skip lunch, eschew breaks and work more feverishly, as if we're just brains attached to rather inefficient, fleshy hardware — the bodies that (irritatingly) get sick, break down and require regular feeding and rest."
     publishedDateTime: 2023-03-22T08:00:00Z

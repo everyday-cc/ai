@@ -43,48 +43,6 @@ related:
         width: 1152
         height: 576
         isCached: true
-  - title: "Build custom code libraries for your Amazon SageMaker Data Wrangler Flows using AWS Code Commit"
-    excerpt: "As organizations grow in size and scale, the complexities of running workloads increase, and the need to develop and operationalize processes and workflows becomes critical. Therefore, organizations have adopted technology best practices, including microservice architecture, MLOps, DevOps, and more,"
-    publishedDateTime: 2023-03-21T16:27:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-custom-code-libraries-for-your-amazon-sagemaker-data-wrangler-flows-using-aws-code-commit/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/build-custom-code-libraries.jpg"
-        width: 1149
-        height: 574
-        isCached: true
-  - title: "Best practices for viewing and querying Amazon SageMaker service quota usage"
-    excerpt: "Amazon SageMaker customers can view and manage their quota limits through Service Quotas. In addition, they can view near real-time utilization metrics and create Amazon CloudWatch metrics to view and programmatically query SageMaker quotas. SageMaker helps you build, train, and deploy machine learning"
-    publishedDateTime: 2023-03-21T16:32:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-viewing-and-querying-amazon-sagemaker-service-quota-usage/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/21/best-practices-viewing-querying-sagemaker-service-quota.jpg"
-        width: 1148
-        height: 574
-        isCached: true
-  - title: "Remote monitoring of raw material supply chains for sustainability with Amazon SageMaker geospatial capabilities"
-    excerpt: "Deforestation is a major concern in many tropical geographies where local rainforests are at severe risk of destruction. About 17% of the Amazon rainforest has been destroyed over the past 50 years, and some tropical ecosystems are approaching a tipping point beyond which recovery is unlikely. A key"
-    publishedDateTime: 2023-03-21T16:48:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/remote-monitoring-of-raw-material-supply-chains-for-sustainability-with-amazon-sagemaker-geospatial-capabilities/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/20/ML-13300-quicksight2.png"
-        width: 879
-        height: 477
-        isCached: true
   - title: "Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, real-time inferencing"
     excerpt: "This is joint post co-written by Leidos and AWS. Leidos is a FORTUNE 500 science and technology solutions leader working to address some of the world’s toughest challenges in the defense, intelligence, homeland security, civil, and healthcare markets. Leidos has partnered with AWS to develop an approach"
     publishedDateTime: 2023-03-23T18:29:37Z

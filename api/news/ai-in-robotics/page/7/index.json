@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-03-robots-and-ai-team-up-to-discover-highly-selective-catalysts.md",
+      "title": "Robots and AI team up to discover highly selective catalysts",
+      "excerpt": "Researchers used a chemical synthesis robot and computationally cost-effective AI model to successfully predict and validate highly selective catalysts. Their results are published in the journal Angewandte Chemie International Edition.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
+      "originalUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/robots-and-ai-team-up.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-robots-ai-team-highly-catalysts.amp",
+      "publishedDateTime": "2023-02-03T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
       "title": "Flexiv Launches Revolutionary Force-Controlled Parallel Robot",
       "excerpt": "Flexiv's ‘Moonlight' parallel robot is the latest addition to Flexiv's line of adaptive robots and is the world's first-ever force-controlled parallel robot. Flexiv, a world leader in general ...",
@@ -1276,59 +1319,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

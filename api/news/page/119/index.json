@@ -2,6 +2,246 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2022-12-12-artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report.md",
+      "title": "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-air-india-puts-in-place-ethics-governance-structure.md",
+      "title": "Air India Puts In Place Ethics Governance Structure",
+      "excerpt": "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
+      "originalUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
+      "publishedDateTime": "2022-12-11T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
+      "title": "Driverless cars on cruise control are coming to a street near you",
+      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
+      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
+      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974123",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
+      "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
+      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
+      "originalUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
+      "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
+      "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
       "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
       "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
@@ -854,312 +1094,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more.md",
-      "title": "Top 5 stories of the week: ML meets Google Sheets, AWS eyes trends, dangers of ChatGPT and more",
-      "excerpt": "This week brought new twists on established products as Google rolled out a beta version of Simple ML for Sheets, its cloud-based spreadsheet -- and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/number_5.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ml-meets-google-sheets-aws-eyes-trends-dangers-of-chatgpt-and-more/amp/",
-      "publishedDateTime": "2022-12-10T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for.md",
-      "title": "Generative AI may be the magic potion small marketing agencies have been waiting for",
-      "excerpt": "One was generative Artificial Intelligence. Gartner defined generative AI as AI that “learns from existing content artifacts to generate new, realistic artifacts that reflect the characteristics of the training data,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/PeterWeltman.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-may-be-the-magic-potion-small-marketing-agencies-have-been-waiting-for/amp/",
-      "publishedDateTime": "2022-12-10T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-the-future-of-fintech-according-to-ai.md",
-      "title": "The Future Of Fintech, According To AI",
-      "excerpt": "To much fanfare, Open AI released Chat GPT, an interface to interact with their AI model. So this naturally felt like an opportunity to learn about the future of fintech - according to AI. At the end,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6393b7e45ce951dad64ea391/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2022/12/10/the-future-of-fintech-according-to-ai/amp/",
-      "publishedDateTime": "2022-12-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-waymo-driverless-cars-being-tested-in-socal-for-ride-hailing-service-are-they-safe.md",
-      "title": "Waymo driverless cars being tested in SoCal for ride-hailing service. Are they safe?",
-      "excerpt": "But there is no driver. \"The driverless car shows up, so there's no one in the front seat. They get in the car, and they hit 'start ride.' The car opens based off the phone's Bluetooth ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
-      "originalUrl": "https://abc7.com/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12541329_120722-kabc-5pm-waymo-testing-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/waymo-cars-ride-hail-driverless-vehicles-autonomous/12541908/",
-      "publishedDateTime": "2022-12-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers.md",
-      "title": "AMD RDNA 3 GPU leaked benchmarks disappoint some gamers",
-      "excerpt": "Switching to 3DMark FireStrike, the 7900 XTX overtakes the RTX 4080, scoring 18,853 compared to the Nvidia GPU on 17,294, with the 7900 XT behind on 16,915. And in 1440p for FireStrike ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
-      "originalUrl": "https://www.techradar.com/news/amd-rdna-3-gpu-leaked-benchmarks-disappoint-some-gamers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/S9k9shDNxpyX28a5ooxiGV-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-10T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "Palantir's AI-powered data processing software has accomplished incredible feats. Cybersecurity threats are thwarted with CrowdStrike's AI. Both companies are unprofitable due to high stock-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "originalUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/711361/man-networking-at-data-center.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T22:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

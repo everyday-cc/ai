@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Dyson deals: The best spring cleaning deals on vacuums, air purifiers and more"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-03-21T15:40:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/28/e28e00d5-99bf-426e-b1aa-81fb9359f7cc/thumbnail/1200x630/5441e9571c0bd1bd67fcd2b222dc4979/gettyimages-1436398701.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pLyc4diWH6EDy3Q6qw+C9OCMqK8rBV3ny68vSZNxzhVYSThL/UFhQg105azTw9RJoRjz/fRtmhDNKtZdJW+QkgFzFEc1Wlje2r59LLS/ShbWGsSyjXLxD3CdIIDiB+PAdu4Ts0fSDqn7eSzy7Pc7421Oi1ZpiWp18MzmibwUofCkKZSAtohVe5eicd24op0ofPLtrs4Ioup415S7rs8cmbLp0w2NR3raji4pRVLoIicjCXKRaScPOk4QEfH/r6MxHbXSi3FUoBdD/Ry9tDoxaJNhj0VuBaJjNr5rE7bCqlbyCaNn0+GBU5k1uxCYVq1Eld5NMj/vwyEuXfKbK9gp6hNXkU04/2qWG1wRYxmiLhLhWB16+qb6hxjUvffp22VVAVP7HiE9Do70BM7e08l+8YBWdJMlrN4FQdqEkrdTTY8KAuMQjs39PbqtKjGzyBLZaJWNzF7FZGrOvX3JsBvQVQxcJ7q5XcTmxLnjXleaoBAnbFiNFajW+lYGqLl31uZjNMT0af3RPuHMrLQ1TU8C+w==;0vxU4Cr/KbwybzgVeV3oNw=="
 ---

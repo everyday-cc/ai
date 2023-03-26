@@ -9,7 +9,7 @@ ampWebUrl: "https://www.irishmirror.ie/news/world-news/madeleine-mccann-update-f
 cdnAmpWebUrl: "https://www-irishmirror-ie.cdn.ampproject.org/c/s/www.irishmirror.ie/news/world-news/madeleine-mccann-update-facial-recognition-29491030.amp"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Facial recognition tech reveals Polish woman is NOT Maddie McCann"
-    excerpt: "Facial recognition technology has revealed that the Polish woman who claims to be British toddler Madeline McCann is probably not the missing girl who was snatched from her parents’ holiday villa in 2007. Julia Faustyna, 21, did not match photos of ..."
-    publishedDateTime: 2023-03-21T15:12:00Z
-    webUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8"
-    ampWebUrl: "https://canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
-    cdnAmpWebUrl: "https://canoe-com.cdn.ampproject.org/c/s/canoe.com/news/world/facial-recognition-tech-reveals-polish-woman-is-not-maddie-mccann/wcm/67f6769e-d01f-4e1b-848f-dcc086d5a2f8/amp/"
-    type: article
-    provider:
-      name: Canoe.com
-      domain: canoe.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/canoe/wp-content/uploads/2023/03/Julia-Wendelt-Instagram-Feb24.jpg?quality=100&strip=all"
-        width: 888
-        height: 666
-        isCached: true
 
 secured: "/tbZA9d3WSI4M8HnE5WKuAwa+ti4A9JmGDzCE5NXMnrPygfpEofPnYssSB0Y2ZH/OWHzxOhUGWssh4klHuogOynmZFFRtZqwnZcQ6gv6PqE1BAR1BmioOAeRiLuQTCH2yHNCCW+taKU4AVahWgPjTm25NxR1/FUwMWubugvkkowX8I79ne7NvUJrWngmNbexxAQtnp4SEvOuYa8lnDRiI2jitwmgQfXh2nFbqbGIIGyVcmKA5xI9HwUp+ZW0WUCWm9kdnSZlav/yEsYfce8pGWRYJemcjib/vnq4wMpgWF3vR/YhW17VadoSVc7NabtYQ1KjmavZAntTy5RLoG0uu3lczo1p4+wmZ2QRv0pot50=;u62OIN/9YFIhGGoy86QtMQ=="
 ---

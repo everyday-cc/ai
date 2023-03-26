@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-12-07-aws-updates-machine-learning-service-sagemaker.md",
-      "title": "AWS updates machine learning service SageMaker",
-      "excerpt": "Amazon Web Services (AWS) has added new features to its managed machine learning service Amazon SageMaker, designed to improve governance attributes within the service and adding new capabilities to its notebooks. Notebooks in context of Amazon SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/?fpid=1",
-      "originalUrl": "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/?fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_dreamstime_4_11.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-12-07-microscopy-mash-up-quantifies-maps-neural-circuits.md",
       "title": "Microscopy mash-up quantifies, maps neural circuits",
       "excerpt": "They also developed a convolutional neural network, trained on images of different synapses, to automatically detect synapses and segment individual neurons in the images. “The major contribution here is in the computational pipeline and analysis ...",

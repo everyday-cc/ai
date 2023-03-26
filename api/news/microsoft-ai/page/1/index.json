@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-26-generative-ai-in-the-enterprise-use-cases-early-learnings.md",
+      "title": "Generative AI In The Enterprise - Use Cases & Early Learnings",
+      "excerpt": "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "publishedDateTime": "2023-03-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.md",
       "title": "How retailers are empowering business transformation with TCS and Microsoft Cloud",
       "excerpt": "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ...",
@@ -153,6 +205,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
+      "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
+      "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "publishedDateTime": "2023-03-23T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
       "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
       "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
@@ -161,7 +266,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -371,7 +476,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 552,
+      "heat": 512,
       "tags": null,
       "images": [
         {
@@ -1395,111 +1500,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
-      "title": "Cast AI raises $20M to help companies reduce cloud spend",
-      "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "originalUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804",
-          "width": 1200,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/cast-ai-raises-20m-to-help-companies-reduce-cloud-spend/amp/",
-      "publishedDateTime": "2023-03-16T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-16-after-year-of-downsizing-datarobot-unveils-new-ai-platform.md",
-      "title": "After year of downsizing, DataRobot unveils new AI platform",
-      "excerpt": "With the latest release, DataRobot AI Platform Single-Tenant SaaS is now available on AWS, Google Cloud, and Microsoft Azure. For on-premises and private cloud customers, DataRobot now supports Red Hat OpenShift for faster installations and deployments ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-27.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/after-year-of-downsizing-datarobot-unveils-new-ai-platform/amp/",
-      "publishedDateTime": "2023-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

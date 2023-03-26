@@ -31,173 +31,420 @@ images:
     isCached: true
 
 related:
-  - title: "For AI's 'iPhone moment' in ChatGPT, Nvidia unveils a large language model chip"
-    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
-    publishedDateTime: 2023-03-21T16:26:00Z
-    webUrl: "https://www.zdnet.com/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-ais-iphone-moment-in-chatgpt-nvidia-unveils-a-large-language-model-chip/"
+  - title: "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round"
+    excerpt: "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT."
+    publishedDateTime: 2023-03-23T09:01:00Z
+    webUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html"
+    ampWebUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
+      name: The New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2a31cc4234549381ea4642abc6f31af8f9b8f2d2/2023/03/21/c83ab042-06b7-49b0-934d-f6ab54c4a554/nvidia-h100-nvl-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis"
-    excerpt: "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ..."
-    publishedDateTime: 2023-03-23T09:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp"
+  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
+    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
+    publishedDateTime: 2023-03-21T17:07:00Z
+    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg"
-        width: 799
-        height: 399
-        isCached: true
-  - title: "Five AI stocks in focus amid ChatGPT frenzy"
-    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
-    publishedDateTime: 2023-03-22T07:02:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 61
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Custom Nvidia chip boosts China's AI push"
-    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-    publishedDateTime: 2023-03-23T09:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
-    excerpt: "At the GPU Technology Conference on Tuesday, Nvidia Corporation’s (NASDAQ: NVDA) CEO Jensen Huang said that the “iPhone moment for AI” has started."
-    publishedDateTime: 2023-03-22T17:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ceo-proclaims-ai-s-iphone-moment-has-begun-analysts-respond-1032185627"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Nvidia says its new AI tools are like a chip foundry for large language models"
-    excerpt: "Jen-Hsun is so confident about the AI Foundations package, he's calling it a \"TSMC for ... Best CPU for gaming (opens in new tab): The top chips from Intel and AMD Best gaming motherboard (opens in new tab): The right boards Best graphics card (opens ..."
-    publishedDateTime: 2023-03-21T17:06:00Z
-    webUrl: "https://www.pcgamer.com/nvidia-says-its-new-ai-tools-are-like-a-chip-foundry-for-large-language-models/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Ywgm9iiEbiRLgBTEuMzYcZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence and Copyright Law: From Monkey Selfies to ChatGPT"
-    excerpt: "Computer vision is the most popular functional application of AI in patents, followed by natural language processing and speech processing. See World Intellectual Property Organization, Wipo “Technology Trends 2019: Artificial Intelligence.”"
-    publishedDateTime: 2023-03-21T16:35:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/03/21/artificial-intelligence-and-copyright-law-from-monkey-selfies-to-chatgpt/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 42
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/03/Nancy-Mertzel-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "NVIDIA Claims ‘iPhone Moment of AI’ at GTC: Announces Raft of AI-related Chips, Systems and Services"
-    excerpt: "The following is a round-up of announcements delivered today at the opening of the NVIDIA GTC conference. NVIDIA Lithography Library Adopted by ASML, TSMC and Synopsys NVIDIA today announced what it said is a breakthrough that brings accelerated computing to the field of computational lithography that will set the foundation for 2nm chips “just as"
-    publishedDateTime: 2023-03-21T16:36:00Z
-    webUrl: "https://insidehpc.com/2023/03/nvidia-claims-iphone-moment-of-ai-at-gtc-announces-raft-of-ai-related-chips-systems-and-services/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 41
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/03/Nvidia-Jensen-Huang-with-DGX-H100-GTC-0323.png"
-        width: 600
-        height: 318
-        isCached: true
-  - title: "Nvidia CEO Proclaims AI's 'iPhone Moment' Has Begun: Analysts Respond"
-    excerpt: "“NVDA is looking to accelerate every facet of the DC through its three chip GPU/CPU/DPU strategy,” he added. “As expected, Generative AI was front and center at the NVDA GTC conference,” Pajjuri wrote in a note. “NVDA’s full-stack AI strategy ..."
-    publishedDateTime: 2023-03-22T15:56:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31457849/nvidia-ceo-proclaims-ais-iphone-moment-has-begun-analysts-respond"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/22/nvidia_headquarters.jpg?width=1200&height=800&fit=crop"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
-    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
-    publishedDateTime: 2023-03-22T15:50:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
+  - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
+    excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
+    publishedDateTime: 2023-03-23T13:58:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-vs-google-bard-vs-microsoft-bing-which-ai-chatbot-gives-best-answers"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 71
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03hxl67L6BOEuU7RuYTxAXH-5.fit_lim.size_1200x630.v1679516177.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T20:58:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f?mod=tech_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 70
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
+    excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
+    publishedDateTime: 2023-03-22T13:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
+        width: 1200
+        height: 821
+        isCached: true
+  - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
+    excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/JDt6b0saEHni9d599POntWzuF4E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A 16-Month-Old Chatbot Startup, Character.AI, Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
+    excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
+    publishedDateTime: 2023-03-23T15:18:00Z
+    webUrl: "https://www.techspot.com/news/98049-google-bard-accused-plagiarism-publishers-fight-back-against.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-23-image-14.jpg"
+        width: 2500
+        height: 1620
+        isCached: true
+  - title: "ChatGPT Busy? 7 AI Chatbot Alternatives Ready to Answer Your Burning Questions"
+    excerpt: "If you're in the mood to talk, but ChatGPT is overloaded, you have other AI chatbot options, including Google's Bard, Microsoft's Bing, ChatSonic, and YouChat."
+    publishedDateTime: 2023-03-25T17:41:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-alternatives-ai-chatbots-ready-to-answer-your-burning-questions"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/0606kPUb7UJUANK86dXckjx-2.fit_lim.size_1200x630.v1679585246.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
+    excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
+    publishedDateTime: 2023-03-23T10:42:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chatbot-characterai-with-no-revenue-raises-150-mln-led-by-andreessen-horowitz-2023-03-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Ex-Google employees' A.I. chatbot startup valued at $1 billion after Andreessen Horowitz funding"
+    excerpt: "Character.AI said it raised $150 million in a funding round led by Andreessen Horowitz. The startup's founders helped create the architecture used in today's popular chatbots. Andreessen previously bet big on crypto and social audio, driving valuations up ..."
+    publishedDateTime: 2023-03-23T19:28:00Z
+    webUrl: "https://www.cnbc.com/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102177477-468005219.jpg?v=1679599585"
+        width: 5561
+        height: 3707
+        isCached: true
+  - title: "Why did Stanford take down its Alpaca AI chatbot?"
+    excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
+    publishedDateTime: 2023-03-22T00:42:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
+    excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
+    publishedDateTime: 2023-03-23T15:36:00Z
+    webUrl: "https://abcnews.go.com/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/ntl-4-scott-sarina-abc-ps-230322_1679507960689_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "China keenly developing homegrown AI GPUs for chatbot apps"
+    excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20230322PD200/ai-gpu-china-ernie-bot-generative-ai-ic-design-distribution.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+  - title: "Google’s AI chatbot Bard rules search giant has ‘monopoly’ in antitrust case"
+    excerpt: "Google’s own AI chatbot, Bard, ruled the company has a “monopoly on ... hiccups were likely to occur as the public gained access to Bard. “As more people start to use Bard and test its capabilities, they’ll surprise us. Things will go wrong ..."
+    publishedDateTime: 2023-03-21T20:46:00Z
+    webUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/"
+    ampWebUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 54
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
+    excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
+    publishedDateTime: 2023-03-25T20:34:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The Morning After: Google expands access to its AI chatbot, Bard"
+    excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
+    publishedDateTime: 2023-03-22T13:12:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-google-expands-access-to-its-ai-chatbot-bard-112516974.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 49
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
+    publishedDateTime: 2023-03-23T16:40:00Z
+    webUrl: "https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
+  - title: "Google opens sign-ups for its Bard AI chatbot"
+    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
+    publishedDateTime: 2023-03-22T06:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
+    excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T17:17:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Google's Bard AI chatbot has now been released to the public"
+    excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
+    publishedDateTime: 2023-03-21T19:42:00Z
+    webUrl: "https://www.newscientist.com/article/2365601-googles-bard-ai-chatbot-has-now-been-released-to-the-public/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/21183855/SEI_149177734.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
+    excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
+    publishedDateTime: 2023-03-23T23:43:00Z
+    webUrl: "https://decrypt.co/news-explorer?pinned=137644&title=a16z-leads-150m-series-a-round-in-chatbot-startup-character-ai"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Revealed: Jobs most at risk from artificial intelligence chatbot ChatGPT"
+    excerpt: "round 80 per cent of US workers could see their jobs impacted by artificial intelligence chatbot ChatGPT, a study found. ChatGPT is a free AI “chatbot” which can be used to do anything from writing essays to creating diet plans and helping users to ..."
+    publishedDateTime: 2023-03-26T07:29:00Z
+    webUrl: "https://www.standard.co.uk/news/world/chatgpt-openai-jobs-labour-market-united-states-b1069985.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
     quality: 36
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "'The iPhone Moment For AI\" And Nvidia Is Taking Control Of It"
-    excerpt: "He said generative AI's ability to automate and co-create makes it set to ... Microsoft and Nvidia are bringing Omniverse to hundreds of millions of Microsoft 365 and Azure users, enabling developers to speed up and scale up to solve previously impossible ..."
-    publishedDateTime: 2023-03-21T17:49:00Z
-    webUrl: "https://www.benzinga.com/news/large-cap/23/03/31443447/the-iphone-moment-for-ai-and-nvidia-is-taking-control-of-it"
+  - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
+    excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
+    publishedDateTime: 2023-03-24T11:47:00Z
+    webUrl: "https://abcnews.go.com/Nightline/video/man-formed-romantic-attachment-ai-chatbot-98094006"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
+  - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
+    excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
+    publishedDateTime: 2023-03-21T17:29:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/03/21/google-bard-chatbot-launch-us-uk/11514309002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 28
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
+    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 23
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
+    excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
+    publishedDateTime: 2023-03-24T12:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/24/tencent-wechat-chatbot-similar-chatgpt/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 20
+  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
+    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
+    publishedDateTime: 2023-03-22T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
     quality: 19
-  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
-    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
-    publishedDateTime: 2023-03-22T19:04:00Z
-    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
+  - title: "Tread a Careful Legal Path Around AI Chatbots"
+    excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
+    publishedDateTime: 2023-03-24T11:52:00Z
+    webUrl: "https://www.globest.com/2023/03/24/tread-a-careful-legal-path-around-ai-chatbots/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: GlobeSt.com
+      domain: globest.com
     quality: 19
-  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
-    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
-    publishedDateTime: 2023-03-24T04:13:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+  - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
+    excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
+    publishedDateTime: 2023-03-23T12:46:00Z
+    webUrl: "https://infotechlead.com/tech/character-ai-raises-150-mn-in-vc-funding-led-by-andreessen-horowitz-77512"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 17
+  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
+    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
+    publishedDateTime: 2023-03-24T22:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 8
 
 secured: "N7uc+ddQQ+krGdejVwBX/XubVaV/2Oyc/pKFWSK/1X2uQwo7jYE7rUl45sfKe4jQGh/LF6rpN9Uj5e5MR5zGYP94mgrKzds0EZkUl2EF0egG5kL6SX0mmrFrQCqqdYj9jSsWg8GguhEMJbWvTeq+Wz//0k95eW+L/lIxg26SHTy4NJXDYmFfedpEVjo574zcood5POVJCibzZjBHrn+mXFjK9wCueiV04W4sRI/ZVpp14TFtbizFFZ1faWrd8DVvCjXU75k43SLe7vE47BjoclWeRVeJJDaJqzjDlyMCcji+Bk3qrOyjJmWGaVKDR6VpR8K28kZogrq8ElKlEwYHNVk/1VAGScIhY2Aix0UTEgP7IYCptKlsayDxAn46d6lTFT6UTVMpLQTu2iw3D9Y0mL7fPZN1XUMMxHzg0w1ImrkI30zVKjwOZxtFZbtFL6pBysY5T9/GfDpzoR0MVHQ1aO4FLdT18xIMhMuUhI1+EJVtJdvXgM8dfuqNYSDLkQE2bQ+pIzrFFRC7mfQ+z/ytCw==;DWG3TuUKAaYgzDejSWg4uQ=="

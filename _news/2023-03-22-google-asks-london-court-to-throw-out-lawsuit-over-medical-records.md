@@ -39,15 +39,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Google Asks London Court to Throw Out Lawsuit Over Medical Records"
-    excerpt: "Google Asks London Court to Throw Out Lawsuit Over Medical Records LONDON (Reuters) - Google asked London's High Court on Tuesday to throw out a lawsuit brought on behalf of 1.6 million people ..."
-    publishedDateTime: 2023-03-21T16:28:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-21/google-asks-london-court-to-throw-out-lawsuit-over-medical-records"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "186957ru9qNCGdiEfH5DhqmCUkglvlZCgKw1hDha8s1r+dZVJk1kH0cgsn46G+Q9LM3YKa1bXhglRnm60v8FnBWr9uHqQlozeeNOrSt+CGCWMzPsy6W8PR4JKiMgMa1Tag9+PXwng2KIsP1mR0g0vnmUK5S7blae0j/Piux6xH6iFgO6rlJH3mlbw1Y++WLd0+xhgI9SNpn0iFzuv0TFq8i6VEOZ+PE1R9T4o9IY9bz5/h8bCYzJK9cK8L2iIkHpS+1Ao6qq288s5bnZpWMDPZrVoPktWT/lYKtiB723p7YSZUKExeKm7UOXGAA7eXksrqnGs/ePQy5fb9pgs5mpc63/Kjo+MdhH3N0IK8FqlRQ=;HfV7/TRlecwl+oBpf+ETvQ=="
 ---

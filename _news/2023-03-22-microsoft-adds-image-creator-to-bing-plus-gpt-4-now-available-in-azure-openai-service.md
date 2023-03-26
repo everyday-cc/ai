@@ -39,22 +39,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
-    excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
-    publishedDateTime: 2023-03-21T15:08:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsofts-bing-adds-ai-image-creator-powered-by-dall-e/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/51bc512df0a7fcf9cbd9bff203649bb9961e637a/hub/2023/03/21/72c5b735-0d39-45be-919d-3af6f32e03cf/screen-shot-2023-03-21-at-11-06-04-am.png?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
     excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
     publishedDateTime: 2023-03-26T01:07:00Z
@@ -84,20 +68,6 @@ related:
     quality: 95
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57fe17cf-29ba-4f20-8547-d7a31a8d6d83/bafceabc-1b05-4a4e-ae9c-2c97359e061a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Adds DALL-E AI Image Generator to Bing"
-    excerpt: "Microsoft on Tuesday announced that it is using an advanced version of Open AI’s DALL-E image generator to power its own Bing and Edge browser. Like DALL-E before it, the newly announced Bing Image Creator will generate a set of images for users based on a line of written text."
-    publishedDateTime: 2023-03-21T16:00:00Z
-    webUrl: "https://gizmodo.com/microsoft-adds-dall-e-ai-image-generator-to-bing-1850247593"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/437bc7da01d90b82f97eb88c6dd7b4d7.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -274,22 +244,6 @@ related:
       - url: "https://fox2now.com/wp-content/uploads/sites/14/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
         width: 760
         height: 500
-        isCached: true
-  - title: "Microsoft & OpenAI add AI image creation tool to Bing"
-    excerpt: "After integrating ChatGPT into Bing, Microsoft is adding a tool to it, that creates images from words using an advanced version of OpenAI's DALL-E model."
-    publishedDateTime: 2023-03-21T15:56:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/21/microsoft-openai-add-ai-image-creation-tool-to-bing/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 74
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/53579-107660-bing-xl.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft gains access to Open AI code base, trouble for Google?"
     excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
@@ -507,20 +461,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Syneos Health Collaborates with Microsoft to Accelerate AI Across the Clinical to Commercial Continuum"
-    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
-    publishedDateTime: 2023-03-21T15:41:00Z
-    webUrl: "https://www.pharmiweb.com/pwtoday-story/syneos-health-collaborates-with-microsoft-to-accelerate-ai-across-the-clinical-to-commercial-continuum"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 38
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
   - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
     excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"

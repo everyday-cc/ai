@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Five AI stocks in focus amid ChatGPT frenzy"
+    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
+    publishedDateTime: 2023-03-22T07:02:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 61
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
     excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
     publishedDateTime: 2023-03-22T08:45:00Z
@@ -136,6 +152,22 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "How to use ChatGPT and other generative AI for business and in life"
+    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
+    publishedDateTime: 2023-03-26T09:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "ChatGPT shakes up European Union's plans to regulate artificial intelligence"
     excerpt: "The European Commission, the EU's executive arm, first announced a plan in April 2021 for an AI rulebook, and the European Parliament hopes to finalise its preferred AI Act text this month"
@@ -217,6 +249,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
+    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
+    publishedDateTime: 2023-03-22T15:50:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
     excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
     publishedDateTime: 2023-03-23T20:19:00Z
@@ -245,6 +291,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
+    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
+    publishedDateTime: 2023-03-22T19:04:00Z
+    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
     excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
     publishedDateTime: 2023-03-23T12:00:00Z
@@ -263,6 +318,15 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 13
+  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
+    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
+    publishedDateTime: 2023-03-24T04:13:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 8
 
 secured: "AWIDXfaaBcJnrR9rRBWcln9IH26DKNc8KrQW2JvHAjAXlu5RblJEDAev/s7u5cqhO8dmabrRIBN3BOI4CGc/sGtAksKJnqrv6MTKfqbtZLeOxQdkq5fLs/mFfCxY9ks1zb3MxqK7z7I0/AJqzJdio/Q9Zow7begMkm6c/pSOp1LiAyg4FVYVWju/xcI0x2Eg6ia2Cb9/c9sSu4iVP/uRUOLbie6smbU1HKLDkj3eHgfiTISMDkWP2rIheuDa/7ef7/LGJo8/KJLUCmtKZPOo+qzT94eJWPv4HjY5zLwjz0myiunwdEJJVLfMSFheqbMUMbJkN9/cTf2FJzT/eXo6ct9FcDpdkOQJ8+sDknkbLnjM/dtRn0TEBhrwfnKxSgxUk/7EfvoyFE2/6dj7BeYw36CyUk+ZxEN3iY3rsfx0Pnurx4vqMZGR2x5xKRPhfaDwD8GGvnCazfjTnPAZCK3JsmvE+usbiYyrRBjNBBldknI6BK+732chdbIve1Glg+wgjC/4O7KysaMK6Fjm9FTT3A==;GPZYjZfhzpEmqY5OAdZ/MQ=="
 ---

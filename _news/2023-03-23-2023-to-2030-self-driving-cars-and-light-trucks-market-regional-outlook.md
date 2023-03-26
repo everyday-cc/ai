@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Machine Learning (AutoML) Market Outlook and Forecast to 2031 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major and emerging players ..."
+    publishedDateTime: 2023-03-24T20:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Latest \"Machine Learning Market\" Dynamics and Forecast 2031"
     excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 115 pages:-\"The global Machine Learning market size was valued at USD 14304.85 million in 2022 and is expected to expand at a CAGR of 48.64% during the forecast period, reaching USD 154282.83 million ..."
     publishedDateTime: 2023-03-25T22:41:00Z

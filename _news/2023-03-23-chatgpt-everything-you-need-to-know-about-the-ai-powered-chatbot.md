@@ -39,6 +39,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "ChatGPT vs. Bing Chat: Which AI chatbot should you use?"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-23T21:58:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e63ab95bd77e8d21991d7936a5538a8084aae9fe/2023/03/23/709c574b-b938-4c25-9c87-8728af5dfb4b/2022.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
     excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
     publishedDateTime: 2023-03-21T17:07:00Z
@@ -272,20 +288,6 @@ related:
       name: YAHOO!News
       domain: engadget.com
     quality: 49
-  - title: "Say what, Bard? Join our conversation with Google’s new AI chatbot."
-    excerpt: "It’s an AI trained on trillions of words from the internet that ... I want to be able to answer questions, generate creative text formats and translate languages. I want to be able to help people learn, grow and connect with each other."
-    publishedDateTime: 2023-03-21T15:23:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/21/google-bard/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CZZW2QPPJHOPITD6GYX3RJWZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google opens sign-ups for its Bard AI chatbot"
     excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
     publishedDateTime: 2023-03-22T06:24:00Z
@@ -407,6 +409,15 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 20
+  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
+    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
+    publishedDateTime: 2023-03-22T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
   - title: "Tread a Careful Legal Path Around AI Chatbots"
     excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
     publishedDateTime: 2023-03-24T11:52:00Z

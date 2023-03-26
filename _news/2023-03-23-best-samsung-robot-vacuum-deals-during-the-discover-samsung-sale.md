@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-dea
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Best Dyson deals: The best spring cleaning deals on vacuums, air purifiers and more"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-03-21T15:40:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-dyson-deals-the-best-spring-cleaning-deals-on-vacuums-air-purifiers-and-more-2023-03-21/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 53
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/28/e28e00d5-99bf-426e-b1aa-81fb9359f7cc/thumbnail/1200x630/5441e9571c0bd1bd67fcd2b222dc4979/gettyimages-1436398701.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "VspOXs28iNTqg7FUgD1wcXzhy8iXCO5PiVJSpDWT2vnAeykMQXlJT7QFdeprTc1dtC3P1eAimJaPPcYzB8EAY04CuNFkfcNwsRau/sem2IIb5PaCIb23lyMwoO0icBvTlAUPsFtxbtuzfsAVMhEKQrF+3C4rL5qkEPqGYR87PrvfM6Ik0QuVG+K3aobBxuuJn1yPj5VjlvESXesfnD6LE5iyu4raJ5N8kTvJABaGbHE1mhmL3MQy/HtXZKzGL7VEoCKjYXvdJhcr9DEv46xBwNu8D8xWLEi7MG6CPh8/k8aWKDxQ0HyEqopF43iSaKoAsHogIQ/WrMAxJp2HjLIfISV1d09gpE2n+KS47LXq75ozGQbOZajM4cNxh/1J52HFRiuLwgmid9x7sZgPgTJSiYU4GTLhTUBiBRVrxKSFBAxpcYxLHpfILB6BcEKCLIA/68sXYUidKr2hULc8VssE7yUN0OKyBKYzMTPieAlsC/a4L05/qqgJCEnTBEzA45+QuUJKWWYHLQlqcU+iDiFhdw==;UJbpt19iADuU0ETkvpciiw=="

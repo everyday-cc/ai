@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Asks London Court to Throw Out Lawsuit Over Medical Records"
-    excerpt: "Google Asks London Court to Throw Out Lawsuit Over Medical Records LONDON (Reuters) - Google asked London's High Court on Tuesday to throw out a lawsuit brought on behalf of 1.6 million people ..."
-    publishedDateTime: 2023-03-21T16:28:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-03-21/google-asks-london-court-to-throw-out-lawsuit-over-medical-records"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Google asks London court to throw out lawsuit over medical records"
     excerpt: "The Royal Free London NHS Trust transferred patient data to Google's artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse ..."
     publishedDateTime: 2023-03-22T12:20:00Z
@@ -49,6 +40,6 @@ related:
         height: 676
         isCached: true
 
-secured: "oL2zbAHzGTiU3yibsz46kQUlAFC1sbxDqtBsJ/wMdm8V/rL/XBvIcbOqYypzAPrYq2DsQpkTR5qpu1aj40T3mcDJMB6LPyAHnJO//qwXC8+lG8yefcNjIerTMpTz0lDFhp3zJzdR5FcTXgtpcm1hFK8kdqz8fqSvr37HbMvnuzNOWEQyxt54WoQy6DfKIL/J310B5LhlCpbwAIMd7C3y2PuCxBdN1TKIdtIovWPnX0o1Q28MTOhZ3zv866+G7DpY2fNunNOC79PuQwoyvFImOQN3jLkYBLAQLR+W/bkg1IYPoFSFrnBc32LgUCi729Q0H3FEAzbUZ/a4ndPPJpEsgLC8YxxaXwdqkKF50R6j/DQ=;FRs+4zQlbFu0sqIIyERMew=="
+secured: "F2puyXHHD8Q8BJu93ACeT5bGGRfRDjXCzn/hAPWASKfbYGvmbabBrWikKBNWutBPjoRklYmLQT8y3V/GqGthtWusekjs5L2yia9/5HzjrDF++smJ5aMOB04ZGMR2g9Sv/4rtHvkntVejQIQgPdH0Dx6ixBsg0IFA0UbXqQ0FA+5f1p/GUgnG+iPiaDy7s9B0Eh/xZrClvli0XffMZzrVIs61+MwOGW3joS5/odKEJoKZfMPzS+DwYr7U281zLycuaKxZOzmRapttGu13uCgteV9CMgIsd/FICwGa5umxYi0B21fmsOd9cjBszUrNLATtis9h9vkCDCLgFMUXcjFOkSRYql2iW4+2DC+IrMVh+QM=;T9yDhEHneyODn4BzzLDdzw=="
 ---
 

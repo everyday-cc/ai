@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Tesla engineers tried to convince Elon Musk not to give up radar for self-driving"
-    excerpt: "A new report states that Tesla engineers tried to convince Elon Musk not to give up on radar for its Autopilot and self-driving effort. Tesla has a weird history with radar sensors for its Autopilot and Full Self-Driving vehicle programs."
-    publishedDateTime: 2023-03-21T15:29:00Z
-    webUrl: "https://electrek.co/2023/03/21/tesla-engineer-convince-elon-musk-not-give-up-radar-self-driving/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Elon-Musk-Twitter-deal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple self-driving test program grows to over 200 drivers"
     excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
     publishedDateTime: 2023-03-22T22:29:00Z
@@ -72,20 +58,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
         width: 1312
         height: 738
-        isCached: true
-  - title: "Tesla rolls out its Full Self-Driving Beta v11 update in North America"
-    excerpt: "The update allows the Tesla vehicles to use a single stack for highway and city autonomous driving requirements."
-    publishedDateTime: 2023-03-21T15:52:00Z
-    webUrl: "https://interestingengineering.com/transportation/tesla-rolls-out-its-full-self-driving-beta-v11-update-in-north-america"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/21/image/jpeg/0RDZ6LVbruynTbOS8OVHZxIqgXGpwEtGN51rx15e.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."

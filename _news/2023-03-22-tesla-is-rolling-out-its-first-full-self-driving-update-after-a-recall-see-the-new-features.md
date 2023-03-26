@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
 type: article
 quality: 78
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla engineers tried to convince Elon Musk not to give up radar for self-driving"
-    excerpt: "A new report states that Tesla engineers tried to convince Elon Musk not to give up on radar for its Autopilot and self-driving effort. Tesla has a weird history with radar sensors for its Autopilot and Full Self-Driving vehicle programs."
-    publishedDateTime: 2023-03-21T15:29:00Z
-    webUrl: "https://electrek.co/2023/03/21/tesla-engineer-convince-elon-musk-not-give-up-radar-self-driving/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Elon-Musk-Twitter-deal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s Self-Driving Ambitions Are Further and Further Away"
     excerpt: "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”"
     publishedDateTime: 2023-03-24T02:01:00Z
@@ -76,20 +62,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/53612-107732-Apple-Crossover-xl.jpg"
         width: 1312
         height: 738
-        isCached: true
-  - title: "Tesla rolls out its Full Self-Driving Beta v11 update in North America"
-    excerpt: "The update allows the Tesla vehicles to use a single stack for highway and city autonomous driving requirements."
-    publishedDateTime: 2023-03-21T15:52:00Z
-    webUrl: "https://interestingengineering.com/transportation/tesla-rolls-out-its-full-self-driving-beta-v11-update-in-north-america"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/21/image/jpeg/0RDZ6LVbruynTbOS8OVHZxIqgXGpwEtGN51rx15e.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."

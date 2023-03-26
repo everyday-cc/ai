@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Forbes
@@ -32,22 +32,29 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils Isaac Sim on Omniverse Cloud for better robot design"
-    excerpt: "Nvidia has unveiled its Isaac Sim platform for its Omniverse Cloud, enabling engineers to work together remotely to simulate robots"
-    publishedDateTime: 2023-03-21T16:15:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/amp/"
+  - title: "Supermicro announces new AI development platform powered by NVIDIA"
+    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
+    publishedDateTime: 2023-03-22T16:13:00Z
+    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/isaac.jpg?w=1200&strip=all"
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
-        height: 669
+        height: 1200
         isCached: true
+  - title: "DDN Takes The Next Step To Simplify AI Supercomputing Adoption"
+    excerpt: "DDN Announces Compatibility with NVIDIA DGX H100 Systems and New Partnership with Lambda to Address the Needs of Enterprises Seeking to Accelerate A"
+    publishedDateTime: 2023-03-21T19:04:00Z
+    webUrl: "https://menafn.com/1105830719/DDN-Takes-The-Next-Step-To-Simplify-AI-Supercomputing-Adoption"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "VRKv+++4dwaivM6UC/7ZZ51TUGnQinlDxlAHwNXNFamA9R15JOyy8aYRqtUpy6jti1PP0MESJVfhXweTg8/KhojNGvTs9EXjC1SIS6y3oHoFCiBPEz018HBXL4vVUMKYOfiq+4ADavslHR3su9rBhqhVXqhO58cZmHbSFuXb8zOP4VPMoFZmvTMWmcEkLIiu3OPuv9nvj6BucF7KVOggWDR+tRmwKfpfpXt59sS76yYQDNeixp/1Cd8Y2Wo9zTFM2q2taY4gSr/pa5L208N8oblA+rU7X6x3IHM268pVx1u4StG/lTQZtobJ5WYUy7VRaebkZCADp7vLxrfyXXpw2NJY5QLBfTEbuZUT2kBw6vD1x3cUmcTcFT8ozeq/ofnC5PI97ASNtJEemVFbtfPYIj3alsgX2Z/4TO/sAfuwlgOqF4FstSsXaeii2cLgQ4btMxRgnKeULwBfEVZjkKk6xao+KyVbPYQ/qaENr5v5LBTXc+qsPe5/Z0rbXvPhZ+BXPBJFo1bha6DU59Q8dKD8NQ==;wNTuzzx+SxsvWPsOKtzK2A=="
 ---

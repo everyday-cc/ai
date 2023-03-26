@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/nvidia-robot-trainin
 webUrl: "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: eWeek
@@ -29,67 +29,72 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s DGX Cloud brings AI supercomputing to enterprises via a web browser"
-    excerpt: "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More Nvidia announced today at its annual GPU Technology Conference (GTC) that it’s now offering a service that will ..."
-    publishedDateTime: 2023-03-21T16:15:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/amp/"
+  - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
+    excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T14:55:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/VB_nvidia_DGX-cloud_032123.jpg?w=1200&strip=all"
-        width: 1200
-        height: 647
+      - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
+        width: 2560
+        height: 1600
         isCached: true
-  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
-    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
-    publishedDateTime: 2023-03-22T20:40:00Z
-    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+  - title: "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law"
+    excerpt: "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development."
+    publishedDateTime: 2023-03-22T17:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://images.barrons.com/im-748583/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Supermicro announces new AI development platform powered by NVIDIA"
-    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
-    publishedDateTime: 2023-03-22T16:13:00Z
-    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Nvidia dusts off dual GPU cards"
+    excerpt: "At least for data centres  Nvidia has announced a new dual-GPU product, the H100 NVL but sadly not for SLI or multi-GPU gaming. In fact based on what Nvidia says the H100 NVL (H100 NVLink)will be a rubbish card for gaming and targets the growing AI market."
+    publishedDateTime: 2023-03-22T00:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-cards"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
+      - url: "https://www.fudzilla.com/media/k2/items/cache/27e8a2b89808b6dd5eff2351941494aa_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
-    excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
-    publishedDateTime: 2023-03-21T19:27:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58614936-nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud-399.htm"
+  - title: "'The iPhone Moment For AI\" And Nvidia Is Taking Control Of It"
+    excerpt: "He said generative AI's ability to automate and co-create makes it set to ... Microsoft and Nvidia are bringing Omniverse to hundreds of millions of Microsoft 365 and Azure users, enabling developers to speed up and scale up to solve previously impossible ..."
+    publishedDateTime: 2023-03-21T17:49:00Z
+    webUrl: "https://www.benzinga.com/news/large-cap/23/03/31443447/the-iphone-moment-for-ai-and-nvidia-is-taking-control-of-it"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 24
-  - title: "DDN Takes The Next Step To Simplify AI Supercomputing Adoption"
-    excerpt: "DDN Announces Compatibility with NVIDIA DGX H100 Systems and New Partnership with Lambda to Address the Needs of Enterprises Seeking to Accelerate A"
-    publishedDateTime: 2023-03-21T19:04:00Z
-    webUrl: "https://menafn.com/1105830719/DDN-Takes-The-Next-Step-To-Simplify-AI-Supercomputing-Adoption"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
 
 secured: "pFrjG2MYpbsJvzzpWJJv1ueXsQCxNcKqO/Arv4AOhkfgMnoAYVCoQnhJVMkuoXF8d/8cVtPQsHwAV9BK8opddTz8+OXfPrmjwBMV9x8jgWXr5/OeKe+PIbl09uUr05KYrGbs78O50LVBsYJww0dC7NAOhmRU9YlsxOLSyNHAp31VePhN6TAX+T0sBiQWXL06Z1Mfjw+z0M154ppRnNwqw2sh3z4gSFO3Y01LHR5Acxqh+GXwxO94gewvJtDNALzrigJtsYGRGJoU1+jeciZVQAC/olbTHxi5+mCv+JpBgr+j1xF/LD5B4AkiXFQQ06Z7BBKDeeSVX/+kTRmCoGCTpUrDsSnPduDAxawyzFsV9sX5yEuuGKUb+1vpdenyfdlK5axfZ/hLQaRv6BTxPXjRJ0m81xPR2AHDtaWEIv5S/PIs4W6uXB7f2Jo0qxOUIjEmfsPfTDkwmBDw5qBtgMAmvwmK5Yc7/kMYov7IfDUNK94Kcae8S8MH9pUsc7Wr6gdJRdeEuZ64o8Zs8lpnF7iVJg==;LZDGcNC4ebVSDviOsKHW/g=="

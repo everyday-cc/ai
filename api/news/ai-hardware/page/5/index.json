@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-07-first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot.md",
+      "title": "First Tests! The GeForce RTX 4090 Laptop GPU Is a Scorcher (But DLSS Helps a Lot)",
+      "excerpt": "Our initial tests on two gaming laptops with Nvidia's GeForce RTX 4090 inside reveal some rocket-liftoff frame rates—if you're playing one of the few games with DLSS 3. (It's still fast without it, mind you.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
+      "originalUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-synopsys-has-helped-over-100-clients-use-ai-to-accelerate-chip-design.md",
       "title": "Synopsys Has Helped Over 100 Clients Use AI To Accelerate Chip Design",
       "excerpt": "EDA vendor Synopsys started helping clients use reinforcement learning, an AI technique, to accelerate and improve physical chip layout with striking results. Physical chip design presents engineers with some 10 90000 possible ways to lay out the circuits in silicon,",
@@ -1158,92 +1245,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-us-india-partnership-targets-arms-and-ai-to-compete-with-china.md",
-      "title": "U.S., India Partnership Targets Arms And AI To Compete With China",
-      "excerpt": "semiconductors and artificial intelligence (AI). Washington wants to deploy more Western mobile phone networks in the subcontinent to counter China's Huawei Technologies Co Ltd, to welcome more Indian computer chip specialists to the United States and to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
-      "originalUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4413820/g20-summit-bali.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-india-partnership-targets-arms-ai-compete-china-3663085?amp=1",
-      "publishedDateTime": "2023-01-31T17:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-laptops-get-ai-chips-smart-software-engines-to-boost-efficacy.md",
-      "title": "Laptops get AI chips, smart software engines to boost efficacy",
-      "excerpt": "NEW DELHI: Earlier this year, Chinese laptop maker Lenovo unveiled four gaming laptops with an embedded artificial intelligence (AI) -powered chip called Lenovo LA AI. Combined with Lenovo AI Engine+, the chip will allow the laptop to automatically tune ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy-11675178489033.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy-11675178489033.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/01/31/600x338/laptop_1675180595247_1675180600772_1675180600772.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy/amp-11675178489033.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/laptops-get-ai-chips-smart-software-engines-to-boost-efficacy/amp-11675178489033.html",
-      "publishedDateTime": "2023-01-31T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

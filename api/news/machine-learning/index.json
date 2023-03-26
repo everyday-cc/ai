@@ -315,7 +315,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -368,7 +368,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-machine-learning-model-to-predict-student-performance-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -410,50 +410,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.md",
-      "title": "Light meets deep learning: Computing fast enough for next-gen AI",
-      "excerpt": "Artificial intelligence (AI) models are essential for sophisticated image classification, the most important part of digital analysis. The researchers who recently published \"Universal Linear Optics Revisited: New Perspectives for Neuromorphic Computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
-      "originalUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2023/light-meets-deep-learn.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
-      "publishedDateTime": "2023-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1451,6 +1407,60 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research.md",
+      "title": "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”",
+      "excerpt": "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
+      "originalUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/",
+      "publishedDateTime": "2023-03-15T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
       ]
     }
   ],

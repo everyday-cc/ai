@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-24-global-automotive-speech-recognition-system-market-to-grow-from-2023-2026.md",
+      "title": "Global Automotive Speech Recognition System Market to Grow from 2023-2026",
+      "excerpt": "Mar 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Automotive Speech",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market.md",
+      "title": "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market",
+      "excerpt": "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/",
+      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641ccf3d95843f2edd8a9f03/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/",
+      "publishedDateTime": "2023-03-24T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation.md",
       "title": "Three Ways To Increase ROI On AI-Driven Data And Analytics Transformation",
       "excerpt": "Digital transformation is in full throttle, but it’s not all smooth sailing for companies. Why is it so hard to get it right?",
@@ -764,6 +867,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
+      "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
+      "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "publishedDateTime": "2023-03-23T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-leadership-in-times-of-ai-7-tips-from-the-trenches.md",
       "title": "Leadership In Times Of AI: 7 Tips From The Trenches",
       "excerpt": "In this article, I will share our approach to this challenge at Qode Media and highlight seven tips for leaders to navigate the uncertainty of AI disruption. The AI revolution can be a reset for agencies.",
@@ -971,6 +1127,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-23-nvidia-stock-rides-the-iphone-moment-of-ai-to-add-87-billion-in-market-cap-through-the-banking-crisis.md",
+      "title": "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis",
+      "excerpt": "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg",
+          "width": 799,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "publishedDateTime": "2023-03-23T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
       "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
       "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
@@ -979,7 +1187,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -1074,205 +1282,6 @@
         "AI",
         "Machine Learning",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-modernize-your-apps-and-accelerate-business-growth-with-ai.md",
-      "title": "Modernize your apps and accelerate business growth with AI",
-      "excerpt": "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/modernize-your-apps-and-accelerate-business-growth-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/53d6248f-d174-44f3-b838-b6cae4798126.png",
-          "width": 660,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:07:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-canva-can-now-generate-custom-templates-thanks-to-ai.md",
-      "title": "Canva Can Now Generate Custom Templates, Thanks To AI",
-      "excerpt": "Recognizing the need for global communication, Canva's Translate tool allows users to convert their text into over 100 different languages with just a click, broadening their audience reach. Finally, Magic Write, Canva’s AI-powered copywriting assistant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641bf062a1a89bcbfdca4c2c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/03/23/canva-can-now-generate-custom-templates-thanks-to-ai/amp/",
-      "publishedDateTime": "2023-03-22T23:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-canva-launches-magic-ai-tools-for-its-design-softwares-125-million-users.md",
-      "title": "Canva Launches ‘Magic’ AI Tools For Its Design Software’s 125 Million Users",
-      "excerpt": "Canva CEO Melanie Perkins says of the AI product rush: “We’ll do what we’ve always done, which is focus on our own race.” The ten-year-old Australian startup led by Melanie Perkins said annualized revenue had reached $1.6 billion and also unveiled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/",
-      "originalUrl": "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641bb5e08ebec13782c28bdb/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-edmonton-ai-guru-rich-sutton-has-lost-his-deepmind-but-not-his-ambition.md",
-      "title": "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition",
-      "excerpt": "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ...",
-      "sourceUrl": null,
-      "webUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5",
-      "originalUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/",
-      "cdnAmpWebUrl": "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/",
-      "publishedDateTime": "2023-03-22T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edmonton Journal",
-        "domain": "edmontonjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

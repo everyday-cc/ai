@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-26-generative-ai-in-the-enterprise-use-cases-early-learnings.md",
+      "title": "Generative AI In The Enterprise - Use Cases & Early Learnings",
+      "excerpt": "GPT becomes an attractive alternative for companies looking to switch their manual call centers into a more responsive, always-on, and more efficient capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/amp/",
+      "publishedDateTime": "2023-03-25T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-artificial-intelligence-ai-in-agriculture-market-latest-growth-research-by-top-players-2023-2028.md",
       "title": "Artificial Intelligence AI in Agriculture Market: Latest Growth Research by Top Players 2023-2028",
       "excerpt": "Artificial Intelligence (AI) in Agriculture Market size is being driven by the growing adoption of the robots in agriculture. Increasing consumption and rising requirement of better yield of crops are estimated to be one of the major factors that is ...",
@@ -683,6 +735,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-25-ai-and-the-metaverse-the-mark-zuckerberg-way.md",
+      "title": "AI and the Metaverse, the Mark Zuckerberg Way",
+      "excerpt": "CEO Mark Zuckerberg truly buried the metaverse? Or is this simply the Tribune's own interpretation? The headline was based on a Zuckerberg post on Facebook and Instagram about Meta’s technology plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
+      "publishedDateTime": "2023-03-24T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-25-how-generative-ai-stole-only-part-of-the-show-at-the-gdc-the-deanbeat.md",
       "title": "How generative AI stole only part of the show at the GDC | The DeanBeat",
       "excerpt": "Weili Dai’s Story Machine also showed a vision for using generative AI for art or game programming with a new startup dubbed Robot Invader. I learned about how generative AI and other forms of AI will become so much more efficient in a matter of months ...",
@@ -1137,109 +1223,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-global-automotive-speech-recognition-system-market-to-grow-from-2023-2026.md",
-      "title": "Global Automotive Speech Recognition System Market to Grow from 2023-2026",
-      "excerpt": "Mar 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Automotive Speech",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market.md",
-      "title": "Brazilian Startup Using AI To Tackle Recruitment Bias Aims For US Market",
-      "excerpt": "Human resources startup Jobecam is about to take a significant new step ... By using artificial intelligence (AI) and machine learning, the system ranks candidates more suited to the job. The initial interview takes place with an automatically generated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/",
-      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641ccf3d95843f2edd8a9f03/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/03/24/brazilian-startup-using-ai-to-tackle-recruitment-bias-aims-for-us-market/amp/",
-      "publishedDateTime": "2023-03-24T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

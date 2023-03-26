@@ -2,6 +2,281 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-02-18-the-chief-executive-of-an-ai-driven-markets-analytics-company-breaks-down-how-to-invest-in-the-craze-sparked-by-chatgpt.md",
+      "title": "The chief executive of an AI-driven markets analytics company breaks down how to invest in the craze sparked by ChatGPT",
+      "excerpt": "If this was forwarded to you, sign up here. Download Insider's app here. Jan Szilagyi is the chief executive officer and cofounder of Toggle AI. This conversation has been lightly edited for length and clarity. Phil Rosen: Tell me, with all this hype ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/investing-ai-exec-markets-toggle-microsoft-google-amazon-tech-economy-2023-2",
+      "originalUrl": "https://www.businessinsider.com/investing-ai-exec-markets-toggle-microsoft-google-amazon-tech-economy-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63ef792fe083d60018efbeb2?width=1200&format=jpeg",
+          "width": 846,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/investing-ai-exec-markets-toggle-microsoft-google-amazon-tech-economy-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/investing-ai-exec-markets-toggle-microsoft-google-amazon-tech-economy-2023-2?amp",
+      "publishedDateTime": "2023-02-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-bill-gates-told-an-ai-chatbot-he-was-overly-intense-and-didnt-believe-in-weekends-in-microsofts-early-days.md",
+      "title": "Bill Gates told an AI chatbot he was 'overly intense' and 'didn't believe in weekends' in Microsoft's early days",
+      "excerpt": "An curved arrow pointing right. Microsoft cofounder Bill Gates said he was \"overly intense\" and \"didn't believe in weekends\" during the company's early days in an interview with an AI chatbot on Friday. \"I was kinda overly intense. I didn't believe in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2",
+      "originalUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f0a93a5ca81e0018556956?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2?amp",
+      "publishedDateTime": "2023-02-18T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-funding-new-research-to-operationalize-safety-in-artificial-intelligence.md",
+      "title": "Funding New Research to Operationalize Safety in Artificial Intelligence",
+      "excerpt": "The Center for Advancing Safety of Machine Intelligence (CASMI) at Northwestern University ... The development of intelligent decision-support tools (DSTs) in the healthcare industry often excludes patients from the process. Maia Jacobs, Slivka Professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "originalUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/images/news/2023/funding-new-research-to-operationalize-safety-in-artificial-intelligence-diakopoulos-helberger.jpg",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mccormick.northwestern.edu",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.incisivemedia.com/production/CTG/images/branding_logo.png",
+          "width": 360,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-should-government-leaders-have-to-pass-cognitive-tests-to-stay-in-office.md",
+      "title": "Should government leaders have to pass cognitive tests to stay in office?",
+      "excerpt": "Nikki Haley, as part of launching her campaign to become the next Republican presidential candidate, believes it should be mandatory for politicians older than 75 to take mental and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "originalUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2023/02/Untitled-design-84.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "publishedDateTime": "2023-02-17T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field.md",
+      "title": "MTP NOW Feb. 17 — New uncertainty on artificial intelligence; Trump and DeSantis outpace 2024 field",
+      "excerpt": "Congressional leaders look to regulate artificial intelligence. Former President Trump and Florida Governor Ron DeSantis maintain their lead in the Republican presidential field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/mtp-now-feb-17-new-uncertainty-on-artificial-intelligence-trump-and-desantis-outpace-2024-field-163593285549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676673432843_now_mtp_netcast_230217_1920x1080-i41iku.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163593285549",
+      "publishedDateTime": "2023-02-17T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-google-cloud-flex-agreements-woo-users-during-a-slowdown-in-demand.md",
       "title": "Google Cloud Flex Agreements woo users during a slowdown in demand",
       "excerpt": "Google Cloud Flex Agreements offer the option to migrate enterprise workloads with no up-front commitments, and provide access to free storage, compute and network services such as Spanner, BigQuery,",
@@ -878,292 +1153,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/",
       "publishedDateTime": "2023-02-17T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
-      "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
-      "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-bluefire-ai-appoints-fintech-connex-as-adviser.md",
-      "title": "BlueFire AI Appoints Fintech Connex as Adviser",
-      "excerpt": "Building on an already successful relationship, BlueFire AI, the award-winning provider of artificial intelligence for capital markets participants, appoints Fintech Connex as its adviser. The two firms will work closely together as Bluefire builds on its excellent traction with clients and investors.",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/artificial-intelligence/bluefire-ai-appoints-fintech-connex-adviser",
-      "originalUrl": "https://financialit.net/news/artificial-intelligence/bluefire-ai-appoints-fintech-connex-adviser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/dsc02789.jpg",
-          "width": 6000,
-          "height": 3376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-one-startups-plan-to-help-africa-lure-back-its-ai-talent.md",
-      "title": "One Startup’s Plan to Help Africa Lure Back Its AI Talent",
-      "excerpt": "Lelapa is building a research lab to serve African businesses and nonprofits, with the hope that locally grown algorithms can better serve communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/",
-      "originalUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ed3d75e20576b439b7c7b7/master/pass/business-africa-ai-research-lab.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/amp",
-      "publishedDateTime": "2023-02-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data",
-      "excerpt": "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips.md",
-      "title": "The Future Of U.S. Semiconductor Manufacturing Requires More Than Just Chips",
-      "excerpt": "New models of collaboration that encourage increased cooperation across this electronics manufacturing innovation ecosystem are exactly what is needed to solve a multitude of semiconductor supply-chain problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625d802e8acf449b7b041341/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/17/the-future-of-us-semiconductor-manufacturing-requires-more-than-just-chips/amp/",
-      "publishedDateTime": "2023-02-17T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership.md",
-      "title": "Meta Media Shares Surge 201% On Adrian Cheng’s Appointment And Baidu AI Partnership",
-      "excerpt": "Meta Media Holdings’ stock skyrocketed more than 201% over the past week after the Chinese media company appointed Adrian Cheng as a co-chairman and announced a partnership with the ChatGPT-like bot developed by Chinese search giant Baidu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef5cb0e757255840ed2985/0x0.jpg?format=jpg&crop=1066,711,x0,y231,safe&width=1200",
-          "width": 1066,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
-      "publishedDateTime": "2023-02-17T01:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

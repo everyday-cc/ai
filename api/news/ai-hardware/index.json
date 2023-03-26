@@ -249,6 +249,111 @@
       ]
     },
     {
+      "path": "_news/2023-03-23-nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms.md",
+      "title": "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms",
+      "excerpt": "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/",
+      "publishedDateTime": "2023-03-23T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-nvidia-stock-rides-the-iphone-moment-of-ai-to-add-87-billion-in-market-cap-through-the-banking-crisis.md",
+      "title": "Nvidia stock rides the 'iPhone moment of AI' to add $87 billion in market cap through the banking crisis",
+      "excerpt": "The iPhone moment of AI' The rally has been driven chiefly by investor perception that Nvidia is well positioned to take advantage of the ongoing boom in artificial intelligence technologies. The company is the No. 1 producer of graphics chips needed for ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/641b6480b7834100191adc97?width=1200&format=jpeg",
+          "width": 799,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-market-cap-ai-tech-shares-keynote-dgx-cloud-2023-3?amp",
+      "publishedDateTime": "2023-03-23T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable.md",
       "title": "Nvidia stock hits best winning streak since 2007 as AI advantage called ‘insurmountable’",
       "excerpt": "On Tuesday, Nvidia founder and Chief Executive Jensen Huang announced a slew of products and services targeted at expanding AI development, including new chips and platforms specifically targeted at generative AI applications as well as AI video and image ...",
@@ -301,65 +406,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-22-light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.md",
-      "title": "Light meets deep learning: Computing fast enough for next-gen AI",
-      "excerpt": "Artificial intelligence (AI) models are essential for sophisticated image classification, the most important part of digital analysis. The researchers who recently published \"Universal Linear Optics Revisited: New Perspectives for Neuromorphic Computing ...",
+      "path": "_news/2023-03-23-a-tough-stock-not-to-own-wall-street-endorses-club-name-nvidia-as-it-dominates-ai.md",
+      "title": "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI",
+      "excerpt": "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ...",
       "sourceUrl": null,
-      "webUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
-      "originalUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.html",
+      "webUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
+      "originalUrl": "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2023/light-meets-deep-learn.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
-      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/440942530/light-meets-deep-learning-computing-fast-enough-for-next-gen-ai.amp",
-      "publishedDateTime": "2023-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sciencex",
-        "domain": "sciencex.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-investors-take-note-nvidias-rush-of-new-ai-deals-could-be-a-game-changer.md",
-      "title": "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer",
-      "excerpt": "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg",
-          "width": 2560,
-          "height": 1600,
+          "url": "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -369,14 +430,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:55:00-07:00",
+      "publishedDateTime": "2023-03-22T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -448,6 +509,49 @@
         "AI",
         "Facebook AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-22-nvidia-rtx-5000-ada-workstation-gpu-might-be-in-the-works-with-these-killer-specs.md",
+      "title": "NVIDIA RTX 5000 Ada Workstation GPU Might Be In The Works With These Killer Specs",
+      "excerpt": "NVIDIA kicked off this year's GPU Technology Conference (GTC) with a flurry of announcements and an interesting keynote about bringing AI everywhere, all at once. As part of the busy first day, NVIDIA unveiled a new workstation card based on Ada Lovelace ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "originalUrl": "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs",
+      "publishedDateTime": "2023-03-22T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -659,7 +763,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 584,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -1389,110 +1493,6 @@
         "name": "India TV",
         "domain": "indiatvnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-baidu-shares-fall-after-ernie-ai-chatbot-demo-disappoints.md",
-      "title": "Baidu shares fall after Ernie AI chatbot demo disappoints",
-      "excerpt": "For months, the company had diverted internal resources to building Ernie, two people said, including reallocating most of Baidu’s servers running Nvidia’s powerful A100 chips to the AI team. OpenAI’s release of ChatGPT last November had caught Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/baidu.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/chinese-search-giant-launches-ai-chatbot-with-prerecorded-demo/?comments-page=1&amp",
-      "publishedDateTime": "2023-03-17T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-17-edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market: The Growing Trend 2027",
-      "excerpt": "“Global Edge Artificial Intelligence (AI) Chip market size was USD million and it is expected to reach USD million by the end of 2027, with a CAGR of between 2021 and 2027”Ask for Sample Report Edge Artificial Intelligence (AI) Chip Market Report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-the-growing-trend-2027-2023-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-16T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
