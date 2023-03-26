@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-storytelling-startup-tome-re
 webUrl: "https://www.reuters.com/technology/ai-storytelling-startup-tome-records-fast-user-growth-launch-paid-tier-soon-2023-03-23/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
     publishedDateTime: 2023-03-23T14:16:00Z
     webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "AI startups to watch"
+    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
+    publishedDateTime: 2023-03-24T07:18:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
     type: article
     provider:
       name: The Business Journals

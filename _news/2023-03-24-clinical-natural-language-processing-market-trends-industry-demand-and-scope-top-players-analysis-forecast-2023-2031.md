@@ -29,24 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027"
-    excerpt: "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ..."
-    publishedDateTime: 2023-03-23T07:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23"
+  - title: "2023-2028 Neural Network Market Insights and Demand Outlook"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 21, 2023 (The Expresswire) -- The “Neural Network Market” Report provides accurate information on industry SWOT analysis, CAGR status, product growth prospects and ..."
+    publishedDateTime: 2023-03-22T03:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2028-neural-network-market-insights-and-demand-outlook-2023-03-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Also, it splits Artificial Intelligence and Cognitive Computing market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by highlighting ..."
-    publishedDateTime: 2023-03-23T18:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
+  - title: "Artificial Neural Networks Market Size, Fundamentals And Forecast Analysis 2023 to 2031"
+    excerpt: "Mar 21, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Neural Networks Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
+    publishedDateTime: 2023-03-21T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-fundamentals-and-forecast-analysis-2023-to-2031-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market Outlook: Examining Demand and Growth Projections Across Industries till 2030"
+    excerpt: "Mar 24, 2023 (Alliance News via COMTEX) -- Quadintel offers a thorough analysis of the Machine Learning Market, including assessments of business solutions, studies and advancements, applications, advantages, benefits, and breadth. This market research ..."
+    publishedDateTime: 2023-03-24T17:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-examining-demand-and-growth-projections-across-industries-till-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch
@@ -57,29 +71,71 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Analysis: Understanding The Current State and Future Trends 2023-2028"
-    excerpt: "Global Speech and Voice Recognition Technology Market Report (Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https://www.marketresearchguru ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
+    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
+    publishedDateTime: 2023-03-22T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Analysis: Understanding The Current State and Future Trends 2023-2028"
-    excerpt: "Global Artificial Intelligence in Manufacturing and Supply Chain Market Report (120 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
-    publishedDateTime: 2023-03-24T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-analysis-understanding-the-current-state-and-future-trends-2023-2028-2023-03-24"
+  - title: "Deep Learning Market 2023 Industry Demand, Share, Global Trend, Industry News and Business Growth 2030"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- The report offers insights into the current state of the Deep Learning Market and highlights the key factors driving growth in this sector. The report also provides a detailed analysis of the competitive landscape ..."
+    publishedDateTime: 2023-03-22T20:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2023-industry-demand-share-global-trend-industry-news-and-business-growth-2030-2023-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest Forecast for Artificial Intelligence In Manufacturing Market [2023-2030] | Stay Ahead of the Success"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- [110 Pages Report] Global “Artificial Intelligence In Manufacturing Market” [2023-2030] latest research report provides size ..."
+    publishedDateTime: 2023-03-23T22:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-forecast-for-artificial-intelligence-in-manufacturing-market-2023-2030-stay-ahead-of-the-success-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Accelerator Market [2023-2030] | Gain Valuable Insights with Our Statistical Report"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Global AI Accelerator Market Status and Prospect | New Report [2023-2030] of 96Pages | Industry report provides an outline of the business with key Types [Graphics Processing Unit (GPU), Vision Processing Unit (VPU ..."
+    publishedDateTime: 2023-03-24T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-market-2023-2030-gain-valuable-insights-with-our-statistical-report-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."
+    publishedDateTime: 2023-03-22T21:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-fintech-market-report-informs-users-about-current-trends-and-their-effects-on-the-market-as-well-as-useful-market-insights-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ysKKmUFrft/qzCfjXEtJTTdr6I/R3Xbtdn1hU/aAOOXQyL2RZkXLPtezznQ2WVAn5bE/exhOsJYTqneynm61nUpeVzNC8kp18dRFpH/Y/uL5D+0lSL8R6ypugO4O1FN6zf8KH/D17WwHhg4Jzo3dGpd0Wqa+vRcDZkUbdvbuQaZdpQeOhnuwqWJYZf3VSkq5VBAVjngJv9Vpa+4NM0SqtHoK6VRYthV+Fz576kat3NrEnrh54By8H8v0XKP9z0oLP/ycscVqgJQpgqvMHDJPX8GoNP0qhGdR/Z1JIqrL9mOa3OmJr3947LUV8YshZT3zWnCiCtUm7MzvdZlGAWuQtZwJYAldhAZGGCjXhIBvZtA=;SUSQ1KUJVuqVJ3aw5Elqog=="
 ---

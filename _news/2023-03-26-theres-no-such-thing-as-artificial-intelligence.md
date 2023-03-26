@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-ch
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
 type: article
 quality: 67
-heat: 117
+heat: 118
 published: true
 
 provider:

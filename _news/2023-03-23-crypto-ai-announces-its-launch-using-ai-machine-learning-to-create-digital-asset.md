@@ -34,15 +34,6 @@ related:
       name: New York Magazine
       domain: nymag.com
     quality: 19
-  - title: "This Ukrainian Startup Is Looking to Automate Crypto Crime Reporting Using Smart Contracts, AI"
-    excerpt: "HAPI, a crypto startup working on cybersecurity tools for decentralized ... In the future, HAPI is considering using AI to automate report approval, too, Letsyuk said: “We’re now feeding the reports we get to the [latest AI product by OpenAI] GPT ..."
-    publishedDateTime: 2023-03-21T18:58:00Z
-    webUrl: "https://www.coindesk.com/consensus-magazine/2023/03/21/ukraine-crypto-hapi/"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 5
 
 secured: "IRNM1XXkZYUvbGzZjEevlsxRS7aVA1uag68PKX3lYbuilTgCHIT0N3CLak7jIp0xjHWffCKqgcyZ93n7dwGpTDkg21J/ty0xNCYyFa+jM/E/3dSQC7tPp9TTylysziG9jJ4pxuDyHgbQxQt8ZCkYQm8MVnnbbwDppi45gKdhZa+FieyRFL3McqSo/mjDNlXCIFVMiViX4T/fsbgB0H7ZbCdMLUuW2FWSEaihxLLuz5k8bJDXXTDNqcn1CLpzJqy9t/k8vqfXXeAUhl4Y7aU+EOdDAngBN3RtRvTEzzGOMMhv7Y3swd4apeQYj25LHN32Q4YKO1HR16fGhDJSHW5X1WjztzzJA3hN96hwCKYwQcM=;Sudzt/p1Swzcxmx8if1sLw=="
 ---

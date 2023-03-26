@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates Thinks AI Will Revolutionize Healthcare For World’s Poorest"
-    excerpt: "Former Microsoft CEO and billionaire philanthropist Bill Gates called artificial intelligence the “most important advance ... Soon-To-Be Grandfather Bill Gates Is Betting On AI, Gene Therapy And Other New Technologies To Solve Global Problems (Forbes)"
-    publishedDateTime: 2023-03-21T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/"
-    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d8ef8fb8a16b66bdef19/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Bill Gates praises artificial intelligence in blog post, calling it 'revolutionary'"
     excerpt: "Microsoft co-founder Bill Gates on Tuesday described artificial intelligence (AI) as \"revolutionary\" and said it will need \"rules of the road\" as it continues to develop. In a Tuesday blog post, Gates touted AI, saying it will change how people live and ..."
     publishedDateTime: 2023-03-23T00:02:00Z
@@ -101,36 +85,6 @@ related:
       - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
         width: 644
         height: 362
-        isCached: true
-  - title: "Bill Gates weighs in on the future of artificial intelligence"
-    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
-    publishedDateTime: 2023-03-26T01:39:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
-    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
-    excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
-    publishedDateTime: 2023-03-21T20:01:00Z
-    webUrl: "https://www.aol.com/finance/bill-gates-ai-does-everything-170040707.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/z5GxlTQ.j13xh3bf8moBIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e6fd16625aa654f2e45a8d5f40c6f49"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "PoCTvh5JQv6gGZgI5J1HR4FMbnbJez2Jnm4ctrS93QodMmcudTXUW/lVmYO842ta1liGsgCi55Oo8TYexdjd0AaAEyjYlnkWZ+jvQkCK91D/jezAEj00wBXJS5EQ1senzdq85q2t+GJh6pKuu/cqF+juZ4pHF5ah7KsDJz+IRDzT5OzDhh3/6Tjy7JDNN8MVYvW89+6kuIo0QohqISLDAKCRRLljcWn2h6vZVgdorUYy98n692+QbguomBsiL9oPRdo8aJjnjJUxQd+YVq2EBu+d812EQl7uUBLQxvibCbeXtqolYCHdu/6tW6f0dhreKPJWklhw8wpuZpv9axnTNWabyOHtfWOTRFpw8vJa74whsjMd+n7GHd5yJksnVZZS7wZ+D8eNZ7x4SjPkLLZOm4sCXWwBb7XNVK54unIMjicUzSv7b3NDwDf2xfjmxID7nqMJOUl3RIPrGJ6Mgi33cAobbXPurK/qQvN84VV2ykJjSOFIHoQty8mtxDKIWWfMMbhC3SZ4AcRztGZD/u1ANQ==;60dOmnPwScZCZwZrU9XSIA=="

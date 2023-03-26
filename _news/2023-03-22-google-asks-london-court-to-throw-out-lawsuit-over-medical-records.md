@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Google makes bid to throw out High Court claim over NHS medical record transfer"
-    excerpt: "Google has made a bid to throw out a High Court claim brought on behalf of around 1.6 million people about the transfer of their medical records by an NHS trust. The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015."
-    publishedDateTime: 2023-03-21T18:43:00Z
-    webUrl: "https://www.glasgowtimes.co.uk/news/national/23403042.google-makes-bid-throw-high-court-claim-nhs-medical-record-transfer/"
+    excerpt: "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ..."
+    publishedDateTime: 2023-03-21T20:53:00Z
+    webUrl: "https://www.standard.co.uk/news/crime/google-high-court-deepmind-nhs-royal-free-hospital-b1069000.html"
     type: article
     provider:
-      name: glasgowtimes
-      domain: glasgowtimes.co.uk
+      name: London Evening Standard
+      domain: standard.co.uk
     quality: 35
     images:
-      - url: "https://www.glasgowtimes.co.uk/resources/images/16583206/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://static.standard.co.uk/2023/03/21/18/40e6bbcbb1145fec7e99614e124d2d4cY29udGVudHNlYXJjaGFwaSwxNjc5NTEwMjA0-2.18437725.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "186957ru9qNCGdiEfH5DhqmCUkglvlZCgKw1hDha8s1r+dZVJk1kH0cgsn46G+Q9LM3YKa1bXhglRnm60v8FnBWr9uHqQlozeeNOrSt+CGCWMzPsy6W8PR4JKiMgMa1Tag9+PXwng2KIsP1mR0g0vnmUK5S7blae0j/Piux6xH6iFgO6rlJH3mlbw1Y++WLd0+xhgI9SNpn0iFzuv0TFq8i6VEOZ+PE1R9T4o9IY9bz5/h8bCYzJK9cK8L2iIkHpS+1Ao6qq288s5bnZpWMDPZrVoPktWT/lYKtiB723p7YSZUKExeKm7UOXGAA7eXksrqnGs/ePQy5fb9pgs5mpc63/Kjo+MdhH3N0IK8FqlRQ=;HfV7/TRlecwl+oBpf+ETvQ=="

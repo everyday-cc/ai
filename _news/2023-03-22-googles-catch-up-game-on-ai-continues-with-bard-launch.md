@@ -7,7 +7,7 @@ originalUrl: "https://www.spokesman.com/stories/2023/mar/21/googles-catch-up-gam
 webUrl: "https://www.spokesman.com/stories/2023/mar/21/googles-catch-up-game-on-ai-continues-with-bard-la/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Google Bard’s AI search launch was, well, boring"
-    excerpt: "It all leaves one with the distinct impression that Google, once the home-run king of search, may be more of a minor leaguer among a number of new AI star players. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other ..."
-    publishedDateTime: 2023-03-21T18:46:00Z
-    webUrl: "https://www.pcworld.com/article/1666669/google-bards-ai-search-launch-was-well-boring.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
 
 secured: "BDjAU5kz+cKSaYXilS8wlNhYkKLTtLoHrqEg6KVclBKxK510rwg6EOmiU1KILMTYMH4mO1sZcHBfF2EZFwAFS9kVyEcycCCdNSUj6cTQXsa0wRaFBOraoijWUc56GJB1iCmwxM3nXIlab5h7V+bTAr/0w38xualBbvhbL9Dj+kVfSxjrhUaNn22aBAtx9Xi2mKPezKXOxmVJu5ImUgG3AOrJuWvAMgpcOucGuVTKqi3GjiVO6A5uzwCrfqabAM83OsGs3AFFuu+WlS93G3NQZo65UZr8mJDiIBCQNUSXBpTBUd6s8mUBeLulLqZYvXntpU1W/zf4h7liPEbf3mfrg4Ul3aybqzY151t5gftbarkbtEogbTZiIxUGp/F3eZ7uK64K1L1TOpBozNRJeCBlk/zIRm6BZEpR/bGEVDoSte9GFQ7+MefJSJmndQmShJJ5GyRzKNVN5vDuBsUywLOkxo6X1QqA6bIc5ItStMlQwLQQo3EZe7HMTvFFBqmPOenkMek7mLi3aRLl55TxfsxMAQ==;ivajI/oi9Nj+PXa96stiDQ=="
 ---

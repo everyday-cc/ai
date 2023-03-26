@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-23T13:10:00Z
 originalUrl: "https://www.businessinsider.com/pitch-deck-sutro-generative-ai-raise-seed-funding-eniac-2023-3"
 webUrl: "https://www.businessinsider.com/pitch-deck-sutro-generative-ai-raise-seed-funding-eniac-2023-3"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
 
-secured: "O1gjsQbNkQO/6++tAPmLlKdsWON/RX5EVtjCqxA7y7aQxyZT7sMxG98+rJHjwe/QebH67vboUIv+/Ty9bmkIhLhiZlGKLq1n5laZDbJIa7KKxD0cSK0vLcIAKXj6VjDXH+oaLim03cyeVUNJhOLw/5mFrrahnXqngqOGc8kbiJANkqOpM7DQ1CkDta1V5LQHIIm2ngBRGW8bkJSO9+FNSwveLPti+qFVw/zC9nZOlcSyYxI5d8f7tG5QR0+TlKykLIlw/hGbVbN7F3Zd2PydzvweGy5T8FPo/X+nDYAFws8alACsOLvC9MhhEix60/KRfKJ3ChLAWIN7sYOn7544GwBvWIkY73YOAhC2NzBvUBQ=;VLm7i2owqWFLVmMF8ZbFzA=="
+images:
+  - url: "https://i.insider.com/641b15928a514c001825c74a?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "A1kP0RKGUv/eCyKUoOMsZ1GAPbX3I1k562YPeK/Z6Id5L7e5SC1S3JJtIvtC4fc4tFzhA5M7sjE1xhmf8Js9mJZIyA8bWsXizgm9rnomqt/Y5K+Kh2uZivnAyqwWqdCwt/1YySeocc+O4B0TcX3gjzA58UYFaDQ5aNE2c0xtQ4gW9e2R00pou2qF9NxDrejJDWtoOo5Q+56ejfKCVLIhs93JMlliuNpQoUp1+niZjqf5ed0ZsJhFWbXtpgOhoqemHu8PSyJ916TmbsXSkfTwHRjKztenDkKbUaBqJXuKXzlTrrXsOQe8l/w8hYprmBvJqCsnaS/IGNlKtUa8+kvXptpaiHrSaQzcY9ri+X0dgK4=;fc+juwwhJbKA98hkHxxrUQ=="
 ---
 

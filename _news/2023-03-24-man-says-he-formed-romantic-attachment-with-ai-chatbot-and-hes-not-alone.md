@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Releases ‘Bard’ AI Chatbot Amid Competition With ChatGPT"
-    excerpt: "Tuesday’s launch is the latest in the race to dominate the AI space, which accelerated late last year when San Francisco startup OpenAI launched ChatGPT, a chatbot that can answers users’ questions, not just by providing links to answers as search ..."
-    publishedDateTime: 2023-03-21T17:07:00Z
-    webUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/google-releases-bard-ai-chatbot-amid-competition-with-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419d957ca4d4eff2d4b2898/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
     excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
     publishedDateTime: 2023-03-23T13:58:00Z
@@ -367,20 +351,6 @@ related:
       - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
-    excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
-    publishedDateTime: 2023-03-21T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2023/03/21/google-bard-chatbot-launch-us-uk/11514309002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 28
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/19/USAT/78cc706a-d2f8-415e-bcb2-8653fa54b995-AP_Virus_Outbreak_Tech_vs_Misinformation.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
     excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."

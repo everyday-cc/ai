@@ -49,6 +49,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
+  - title: "This generative AI tool actually teaches kids how to write"
+    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
+    publishedDateTime: 2023-03-26T05:00:00Z
+    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "nKmuZq7NTEIfUAAaLuj+Hq1FQZN2cmjtMHPjDZUoe5ZA/el3ucyqlygVXeKFHDkKAL9/ydvRCGAQXIeOel7YNcFnMAIyTItAQIKwF9CH1fekNKZJCh4W4hrkRR/xXyYQImlVz7UI6ddgX0jYMwFYRWaekbSfm5S6QoCeFjvnBohnApKmZrDjRhQoji5rb/TOLy9EAiH0wBrrt8D5wc7Zplst6DaluMkxjni8E6Sd/GdYrbNxKSgFJm/nSkZWHWx15kqB4yeLyAo/yolcG6HxKr9NAPbKqEaPnAqIFEc9JQCbuWvwjikQCsd1X4GTqnd4dC2hgvDE3+6xFfZtPsR4JQaADjQatNGN3o8/njKfRtzZmRcruUSd6YHPqurHP8WiwzZbudmUEkGwuq4mo8PRrflXpVnY3D6fB8Ue9GnfdhE52r4SrTQWBp5RcgnsNQNHnqNjhEVn+AIMsUu+iLi2gRRpumEDIK2heWEOfEeDTpzTMd1Jn7YhBptDYQFqV19RN74bgRATEkAXitc8tPSPXg==;xCm8JzGHnzlWZKv7wEi4sw=="
 ---

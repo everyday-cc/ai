@@ -64,15 +64,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
-    publishedDateTime: 2023-03-22T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
+  - title: "Self Tanning Products Market 2023 | Future Exploration by 2027"
+    excerpt: "Mar (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Self Tanning Products"
+    publishedDateTime: 2023-03-26T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-tanning-products-market-2023-future-exploration-by-2027-2023-03-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

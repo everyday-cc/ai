@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: gizmodo
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is rolling out its first Full Self-Driving update after a recall — see the new features"
-    excerpt: "An curved arrow pointing right. A handful of Tesla drivers have taken to social media this week to show off the latest update to Tesla's driver assist software, known as \"Full Self Driving\" (FSD). The update comes with a variety of new features ..."
-    publishedDateTime: 2023-03-21T17:32:00Z
-    webUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-updates-fsd-with-new-features-after-nhtsa-recall-2023-3?amp"
+  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
+    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
+    publishedDateTime: 2023-03-21T21:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://i.insider.com/63c1610e33ffb700180f962b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Apple self-driving test program grows to over 200 drivers"
     excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
@@ -59,6 +59,22 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "We Were Told We’d All Be Riding in Self-Driving Cars by Now. Where Are They?"
+    excerpt: "According to predictions made nearly a decade ago, we should be riding around in self-driving vehicles today. It’s now clear the autonomous vehicle revolution was overhyped. Proponents woefully underestimated the technological challenges. It turns out ..."
+    publishedDateTime: 2023-03-23T23:32:00Z
+    webUrl: "https://www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/"
+    ampWebUrl: "https://www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/what-happened-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 41
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/24/gizmodo-12.png?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "California must address failures of Tesla's self-driving cars"
     excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
     publishedDateTime: 2023-03-24T18:01:00Z
@@ -68,15 +84,43 @@ related:
       name: The Desert Sun
       domain: desertsun.com
     quality: 34
-  - title: "Tesla's Rolling Out a Revised Version of 'Full Self Driving' After Recall"
-    excerpt: "Tesla is pushing out an updated version of its \"Full Self-Driving\" beta, its semi-autonomous driving system that was recalled earlier this year for behavior that regulators deemed unsafe. The system is not fully autonomous, as it relies on human ..."
-    publishedDateTime: 2023-03-21T18:58:00Z
-    webUrl: "https://www.roadandtrack.com/news/a43375512/tesla-rolls-out-revised-full-self-driving-after-recall/"
+  - title: "Cruise plans ambitious self-driving expansion"
+    excerpt: "Self-driving technology company Cruise is expanding its California ambitions beyond San Francisco. Company executives asked California regulators Monday to amend their existing permit to allow for testing of autonomous vehicles throughout the state."
+    publishedDateTime: 2023-03-23T14:48:00Z
+    webUrl: "https://www.autonews.com/mobility-report/cruise-seeks-self-driving-expansion-across-california"
     type: article
     provider:
-      name: Road & Track
-      domain: roadandtrack.com
-    quality: 33
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Which car has the best self-driving tech?"
+    excerpt: "The vision is that assisted driving will eventually develop to enable full self-driving, with the benefit of unlocking road safety benefits and freeing up the time we spend travelling. Much work has already been done by international regulators and the UK ..."
+    publishedDateTime: 2023-03-25T09:01:00Z
+    webUrl: "https://www.whatcar.com/news/self-driving-cars-tested/n25624"
+    type: article
+    provider:
+      name: What Car?
+      domain: whatcar.com
+    quality: 24
+    images:
+      - url: "https://media.whatcar.com/wc-image/2023-03/tesla_model_y_in_autopilot_mode_0.jpg"
+        width: 1600
+        height: 1060
+        isCached: true
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
+    publishedDateTime: 2023-03-22T05:11:00Z
+    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "eHqKFBpQI97iK2Dghh8lgmsnqEF2iMcMbPjEnZ7iRS626RUq9Tn+Uc+Uy6XNdP7tLYbhe59z+5FNolcmQJm01f8A3qCfuBGoXwU3shoA1vJLH3Jd8VWaTrqNe0Nv2tPKhOupfrmdDUuoyO5NFH+dkToSM4bcBIJbSW8HDe9aOm7zQWS8pzRApn+xUoz2KTtFsXmiYCDwBKZQz2KhvEnweS5a/xZiV8L4N/pD1fcR/SVolB2SU1t29+z0fcxlIJiVXiqg3Gm3248ky7FpHAG5k3vdDdxIXeHOSz0LyKlNfBJg1CAstTKtLdJO7y5Djo9mjpl/tO5WgR1ESuw7DBBv3UtPQR5ba/sYjJ27YJbTL8A=;NYrkzR1Dw5H7m9abwmhWrg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202303/voice-biometrics-seen-by-so
 webUrl: "https://www.biometricupdate.com/202303/voice-biometrics-seen-by-some-at-least-as-strategic"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK biometric ethics group to consider implications of gait and voice recognition"
-    excerpt: "Government and law enforcement interest in gait and voice biometrics is prompting a need for ethical guidance says the BFEG."
-    publishedDateTime: 2023-03-21T17:04:00Z
-    webUrl: "https://www.biometricupdate.com/202303/uk-biometric-ethics-group-to-consider-implications-of-gait-and-voice-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
   - title: "Neurotechnology Releases Megamatcher 13.0 Multi-Biometric Product Line With New Biometric Recognition Algorithms"
     excerpt: "MegaMatcher 13.0 includes significant performance improvements to fingerprint, face, iris and voice recognition algorithms and adds a new tattoo alg"
     publishedDateTime: 2023-03-25T15:08:00Z

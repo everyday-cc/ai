@@ -193,22 +193,6 @@ related:
         width: 860
         height: 491
         isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI Platform, Built on the New L4 GPU and Vertex AI"
-    excerpt: "SANTA CLARA, Calif., March 21, 2023 (GLOBE NEWSWIRE) -- NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a ..."
-    publishedDateTime: 2023-03-21T17:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31444482/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-ve"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31444482"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."
     publishedDateTime: 2023-03-21T22:03:00Z
@@ -223,15 +207,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "NVIDIA unveils AI Foundations, its customizable Gen-AI cloud service"
-    excerpt: "NVIDIA debuted its AI Foundations cloud services on Tuesday -- now most anybody can build their own chatbot or text-to-image generator.."
-    publishedDateTime: 2023-03-21T17:51:00Z
-    webUrl: "https://www.engadget.com/nvidia-ai-foundations-customizable-genewrative-ai-cloud-service-161505625.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 49
   - title: "TYAN’s AI Inference-Optimized Platforms Add Support for NVIDIA L4 Tensor Core GPU"
     excerpt: "TYAN, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary,"
     publishedDateTime: 2023-03-22T16:22:00Z
@@ -269,15 +244,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 49
-  - title: "Adobe launches generative AI tools aimed at marketers"
-    excerpt: "Adobe is launching new generative AI tools geared toward marketers and advertisers, including an app that writes ad copy."
-    publishedDateTime: 2023-03-21T18:11:00Z
-    webUrl: "https://techcrunch.com/2023/03/21/adobe-launches-generative-ai-tools-aimed-at-marketers/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Nvidia announces H100 GPU SKU aimed at large language model and generative AI workloads"
     excerpt: "Nvidia has developed a version of its H100 GPU specifically for large language model and generative AI development. The dual-GPU H100 NVL has more memory than the H100 SXM or PCIe, as well as more memory bandwith, key features for large AI models."
     publishedDateTime: 2023-03-22T21:03:00Z
@@ -402,15 +368,6 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
-    quality: 19
-  - title: "NVIDIA Hopper GPUs Expand Reach as Demand for AI Grows"
-    excerpt: "NVIDIA H100 GPUs Now Being Offered by Cloud Giants to Meet Surging Demand for Generative AI Training and Inference; Meta, OpenAI, Stability AI to Leverage H100 for Next Wave of AI SANTA CLARA, Calif.,"
-    publishedDateTime: 2023-03-21T18:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780848.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
   - title: "Nvidia lets any enterprise access an AI supercomputer"
     excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."

@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
+      "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
+      "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 379,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
+      "publishedDateTime": "2023-03-23T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027",
+      "excerpt": "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-23T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-modernize-your-apps-and-accelerate-business-growth-with-ai.md",
       "title": "Modernize your apps and accelerate business growth with AI",
       "excerpt": "At Microsoft, we’re committed to democratizing AI and giving you access to advanced generative AI models. As part of that commitment, in 2019, we started a long-term partnership with OpenAI. In January 2023, we announced the third phase of this partnership, including the general availability of Azure",
@@ -51,6 +157,60 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-ai-healthcare-solution-market-investment-feasibility-and-trends-from-2023-to-2029-ibm-watson-health-google-health-microsoft-healthcare.md",
+      "title": "AI Healthcare Solution Market Investment Feasibility and Trends from 2023 to 2029 | IBM Watson Health, Google Health, Microsoft Healthcare",
+      "excerpt": "Mar 23, 2023 (Heraldkeepers) -- Tech/News-The AI Healthcare Solution Market is projected to grow ... application dominance are all included in the report by- IBM Watson Health, Google Health, Microsoft Healthcare, NVIDIA, GE Healthcare, Cerner Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-healthcare-solution-market-investment-feasibility-and-trends-from-2023-to-2029-ibm-watson-health-google-health-microsoft-healthcare-2023-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-healthcare-solution-market-investment-feasibility-and-trends-from-2023-to-2029-ibm-watson-health-google-health-microsoft-healthcare-2023-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     },
     {
@@ -640,7 +800,7 @@
       "originalUrl": "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -830,6 +990,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-23-ai-will-revolutionize-your-inbox.md",
+      "title": "AI Will Revolutionize Your Inbox",
+      "excerpt": "With the introduction of new AI services from Microsoft ... Copilot is built on Microsoft’s Azure cloud platform and plays well with other Microsoft apps and Salesforce. Shortwave is built atop Gmail and prides itself on being open and decentralized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/",
+      "originalUrl": "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641b57c6c1e78edb1f70461c/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/",
+      "publishedDateTime": "2023-03-22T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-working-with-ai-robots-could-worsen-human-work-cultures.md",
       "title": "Working with AI robots could worsen human work cultures",
       "excerpt": "It’s said that as work becomes increasingly automated by Artificial Intelligence (AI), our special human traits ... Will we start expecting our human colleagues to be similarly pliant? A robot is not a person—even if its apologies sound genuinely ...",
@@ -881,7 +1093,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1028,205 +1240,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-these-new-tools-let-you-see-for-yourself-how-biased-ai-image-models-are.md",
-      "title": "These new tools let you see for yourself how biased AI image models are",
-      "excerpt": "You can now see for yourself using interactive new online tools. (Spoiler alert: it’s big.) The tools, built by researchers at AI startup Hugging Face and Leipzig University and detailed in a non-peer-reviewed paper, allow people to examine biases in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/",
-      "originalUrl": "https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/03/BiasGrid_painters.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/22/1070167/these-news-tool-let-you-see-for-yourself-how-biased-ai-image-models-are/amp/",
-      "publishedDateTime": "2023-03-22T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters.md",
-      "title": "Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters",
-      "excerpt": "Ubisoft announced that it's using an AI \"Ghostwriter\" tool to automatically write dialogue for some NPCs in its games.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
-      "originalUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1438362948.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/amp/",
-      "publishedDateTime": "2023-03-22T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-eight-major-issues-with-influencer-marketing-according-to-rad-ai.md",
-      "title": "Eight Major Issues with Influencer Marketing, According to RAD AI",
-      "excerpt": "Press Release Influencer marketing suffers from eight common issues that sabotage campaign results, according to an analysis by RAD AI, a platform that delivers ROI-based creative intelligence solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/",
-      "originalUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20230322005269/en/1744641/4/Asset_Hero_Integration.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/eight-major-issues-with-influencer-marketing-according-to-rad-ai/amp/",
-      "publishedDateTime": "2023-03-22T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-2-top-ai-stocks-ready-for-bull-runs.md",
-      "title": "2 Top AI Stocks Ready for Bull Runs",
-      "excerpt": "For instance, Microsoft has made ChatGPT available on its Azure cloud computing platform. The company's customers can now use large language AI models for various enterprise applications such as accelerating code development, improving email marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/22/2-top-ai-stocks-ready-for-bull-runs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/725348/artificial-intelligence-getty-62817.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-22T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

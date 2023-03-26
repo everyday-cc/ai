@@ -282,15 +282,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IoT in Healthcare Market worth $289.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Browse in-depth TOC on \"IoT in Healthcare Market\" 331 - Tables 40 - Figures 252 - Pages. Download PDF Brochure @"
-    publishedDateTime: 2023-03-21T18:08:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780761.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "snIphxXAuJEMfUwS6LSh+gegzg0DuuyALWYu9Fi2rpEhWFDTQ2HoxSsBmtszJcl0NqIMmsjPs7VyF6oOWUhI073LMX82T3ECZJP/q4S2FazYXOrmrKFLeQt8wGYQN6SO+tNlWRHNdNUbcnAJp3vXzNOfs6BPdNpvSAGpjXq/yGRt23u3+3Ms3rI9twP35V2YdoUHZOyBLdPVrCJvEg5gzXpvQ5WsmtXIivGcJ1f42ESXdXi4s3XEGWQyluE6zu11wypsVlPS5yjl2q5yCkuYubsx3MMiK0P370p2lCn09cLxQofrn5EE7mHWdi34/SkQ0LeGM5mE8sMp+1fEVepSRl35+ugv88dwrFYoKoA8jYE=;9bAGKXlWvBk60BSd97UwPA=="
 ---

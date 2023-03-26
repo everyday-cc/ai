@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK biometric ethics group to consider implications of gait and voice recognition"
-    excerpt: "Government and law enforcement interest in gait and voice biometrics is prompting a need for ethical guidance says the BFEG."
-    publishedDateTime: 2023-03-21T17:04:00Z
-    webUrl: "https://www.biometricupdate.com/202303/uk-biometric-ethics-group-to-consider-implications-of-gait-and-voice-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
   - title: "Voice biometrics seen by some, at least, as strategic"
     excerpt: "A sophisticated portfolio featuring voice ID is critical for any potential target. It should not be an also-ran in budgeting."
     publishedDateTime: 2023-03-23T20:38:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-12-06-lattice-semi-expands-to-mid-range-fpgas-with-avant-line.md",
+      "title": "Lattice Semi Expands To Mid-Range FPGAs With Avant Line",
+      "excerpt": "Lattice Semiconductor launched a new mid-range line of FPGAs dubbed Avant, significantly growing its potential market and morphing itself into a more complete FPGA provider. Read more here.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
+      "originalUrl": "https://seekingalpha.com/article/4562550-lattice-semi-mid-range-fpga-avant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1350814521/image_1350814521.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-ai-for-the-board-game-diplomacy.md",
       "title": "AI for the board game Diplomacy",
       "excerpt": "Successful communication and cooperation have been crucial for helping societies advance throughout history. The closed environments of board games can serve as a sandbox for modelling and investigating interaction and communication – and we can learn a lot from playing them. In our recent paper, published",

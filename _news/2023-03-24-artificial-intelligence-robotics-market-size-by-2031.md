@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-by-2031-2023-03-24"
 type: article
 quality: 99
-heat: 469
+heat: 479
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipset Market: Trends Shaping the Future 2023-2028"
+    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2023-03-26T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-trends-shaping-the-future-2023-2028-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

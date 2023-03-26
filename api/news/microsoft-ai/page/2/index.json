@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-16-datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai.md",
+      "title": "DataRobot Unveils New AI Platform, Ushering in the Era of Value-Driven AI",
+      "excerpt": "New capabilities and integrations with Microsoft Azure OpenAI Service and SAP ® solutions help accelerate time to value for enterprise customers DataRobot today announced the release of DataRobot AI Platform 9.0, along with deeper partner integrations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31383827/datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31383827/datarobot-unveils-new-ai-platform-ushering-in-the-era-of-value-driven-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31383827",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31383827",
+      "publishedDateTime": "2023-03-16T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you.md",
+      "title": "Microsoft’s new Power Platform AI copilot will build your apps for you",
+      "excerpt": "The idea here is to use AI to make using these tools for building line-of-business ... For now, Microsoft describes these features as “experimental previews powered by Azure OpenAI Service with GPT” and warns that they are not meant for production ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
+      "originalUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-16-083404.png?resize=1200,649",
+          "width": 1200,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/16/microsofts-new-power-platform-ai-copilot-will-build-your-apps-for-you/amp/",
+      "publishedDateTime": "2023-03-16T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-cast-ai-raises-20m-to-help-companies-reduce-cloud-spend.md",
       "title": "Cast AI raises $20M to help companies reduce cloud spend",
       "excerpt": "Cast AI customers can connect their cloud plans across AWS ... Customers will pay only once they start saving money. Frayman says that Cast will put the newly secured funds, which bring the startup’s total raised to more than $63 million, toward growing ...",
@@ -1346,102 +1441,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-chatgpt-is-now-available-in-microsofts-azure-openai-service.md",
-      "title": "ChatGPT is now available in Microsoft’s Azure OpenAI service",
-      "excerpt": "Microsoft is making ChatGPT available in its own Azure OpenAI service today. Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
-      "originalUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-cognitive-behavioral-therapy-offered-to-help-curb-violence.md",
-      "title": "Cognitive behavioral therapy offered to help curb violence",
-      "excerpt": "(WSMV) - Dozens of non-profit leaders, first responders, and community members are receiving cognitive behavioral ... families through three tiers of services, education and empowerment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
-      "originalUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/66EcQG1MB4mtWHETmUk4f1b3ugw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TSX6HJ3LBFDQJMMT2CPKINO2AY.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
-      "publishedDateTime": "2023-03-09T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSMV",
-        "domain": "wsmv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

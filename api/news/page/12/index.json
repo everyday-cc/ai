@@ -2,6 +2,336 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-03-16-how-wired-will-use-generative-ai-tools.md",
+      "title": "How WIRED Will Use Generative AI Tools",
+      "excerpt": "We may experiment with using AI as a research or analytical tool. The current generation of AI chatbots that Google and Microsoft are adding to their search engines answer questions by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/about/generative-ai-policy/",
+      "originalUrl": "https://www.wired.com/about/generative-ai-policy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63fff93482f5460a73e0eb93/191:100/w_1280,c_limit/Computer_Hands_FINAL.png",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions.md",
+      "title": "Bring legacy machine learning code into Amazon SageMaker using AWS Step Functions",
+      "excerpt": "Tens of thousands of AWS customers use AWS machine learning (ML) services to accelerate their ML development with fully managed infrastructure and tools. For customers who have been developing ML models on premises, such as their local desktop, they want to migrate their legacy ML models to the AWS Cloud",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-legacy-machine-learning-code-into-amazon-sagemaker-using-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T11:32:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says.md",
+      "title": "AI Gets Smarter, Safer, More Visual With GPT-4 Update, OpenAI Says",
+      "excerpt": "Azure now can use Nvidia's new H100 processors, which include specific circuitry to accelerate AI transformer calculations. Another large language model developer, Anthropic, also unveiled an AI chatbot called Claude on Tuesday. The company, which counts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-update-openai-says/",
+      "publishedDateTime": "2023-03-15T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-what-the-ai-boom-means-for-carbon-emissions.md",
+      "title": "What the AI Boom Means for Carbon Emissions",
+      "excerpt": "Artificial Intelligence is booming, and so is its carbon footprint. AI is the tech industry's new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2023-03-15/what-the-ai-boom-means-for-carbon-emissions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imGlILH27L.A/v40/-1x-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai.md",
+      "title": "What are the ethical hazards in the effort to commercialize AI?",
+      "excerpt": "Could training in ethics help? Microsoft reportedly laid off its artificial intelligence ethics and society team as part of the 10,000 job cuts announced in January. The company said it still ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2023/03/GettyImages-1246872444.jpg",
+          "width": 3600,
+          "height": 2401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/amp/",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/what-are-the-ethical-hazards-in-the-effort-to-commercialize-ai/amp/",
+      "publishedDateTime": "2023-03-15T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-16-ai-experiment-tricks-human-into-doing-robots-bidding-openai-report.md",
+      "title": "AI experiment tricks human into doing robot’s bidding: OpenAI report",
+      "excerpt": "A new artificial intelligence tool from OpenAI looks to have successfully tricked someone into doing its bidding, potentially moving the world one step closer to a day when robots rule over people. An experiment with OpenAI’s tool overcame a digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/",
+      "originalUrl": "https://www.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2023/03/10/OpenAI_Logo_96005--1a5ac_c0-214-5130-3206_s1200x700.jpg?dbcd8e3378513305b03afa91bce0566484275237",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2023/mar/15/ai-experiment-tricks-human-doing-robots-bidding-op/",
+      "publishedDateTime": "2023-03-15T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-15-spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon.md",
+      "title": "Spring cleaning deal: Score a new robot vacuum for 68% off on Amazon",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "originalUrl": "https://www.cbsnews.com/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/10/fcd3aa53-35d4-44cc-bd52-e1f2bd60712c/thumbnail/640x360/6720cc2b09b7072dbaca6887fd9ac8bb/screen-shot-2023-02-10-at-3-00-08-pm.png#",
+          "width": 415,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/spring-cleaning-deal-score-a-new-robot-vacuum-for-68-off-on-amazon/",
+      "publishedDateTime": "2023-03-15T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-grammarlys-new-ai-tool-is-more-than-a-spell-checker.md",
       "title": "Grammarly's New AI Tool Is More Than a Spell-Checker",
       "excerpt": "Grammarly, the company behind the digital writing assistant of the same name, is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo. The company said the new tool is intended to improve communication,",
@@ -902,333 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-the-future-smartphone-more-folds-less-phone-a-whole-lot-of-ai.md",
-      "title": "The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI",
-      "excerpt": "Research firm IDC said this was due to “significantly dampened ... Others said sophisticated silicon will help us identify “real” media versus fake or AI-generated facsimiles. And a few predicted that actual phone calls will fall by the wayside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/",
-      "originalUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6410cb9d50a2c32c8d5d2868/master/pass/w30_MARCH_AI-EMERG-TECH_POST-PHONE.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/amp",
-      "publishedDateTime": "2023-03-15T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs.md",
-      "title": "How The Games Industry Can Leverage Advances In AI To Revolutionize NPCs",
-      "excerpt": "So, how can game studios prepare for more advanced video game NPCs in the future? We'll walk you through the steps you should take now to be ready for advanced AI NPCs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62792c6a8956d9e3f1ed076c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/15/how-the-games-industry-can-leverage-advances-in-ai-to-revolutionize-npcs/amp/",
-      "publishedDateTime": "2023-03-15T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-using-hugging-face-machine-learning-models-in-azure.md",
-      "title": "Using Hugging Face machine learning models in Azure",
-      "excerpt": "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
-      "publishedDateTime": "2023-03-15T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
-      "title": "AI, machine learning necessary to run a modern network",
-      "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "originalUrl": "https://www.itweb.co.za/content/4r1ly7R9gZrvpmda",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/4r1ly7R9gZrvpmda",
-      "publishedDateTime": "2023-03-14T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-india-must-think-hard-on-artificial-intelligence-guardrails.md",
-      "title": "India must think hard on Artificial Intelligence guardrails",
-      "excerpt": "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143-770x433.jpg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp",
-      "publishedDateTime": "2023-03-14T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-mobile-world-congress-2023-showcases-the-latest-tech-from-robotics-to-ai.md",
-      "title": "Mobile World Congress 2023 showcases the latest tech, from robotics to AI",
-      "excerpt": "The Mobile World Congress 2023 in Barcelona, Spain, showcased some of the newest tech and inventions, including robotics, AI and 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
-      "originalUrl": "https://www.usatoday.com/videos/tech/2023/03/14/visitors-interact-metaverse-mobile-world-congress-spain/11473851002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/03/14/USAT/6d20ce67-ac7a-41a3-b4a1-0b75ced1323b-Sequence_02.00_00_00_00.Still001.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-15-this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like.md",
-      "title": "This is what the driverless trains on the Ontario Line will look like",
-      "excerpt": "Transit riders have been given a sneak peek at the driverless trains that will operate on the Ontario Line subway extension. The international consortium tasked with designing the trains released ...",
-      "sourceUrl": null,
-      "webUrl": "https://toronto.ctvnews.ca/this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like-1.6313445",
-      "originalUrl": "https://toronto.ctvnews.ca/this-is-what-the-driverless-trains-on-the-ontario-line-will-look-like-1.6313445",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/15/1_6313391.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/toronto/2023/3/14/1_6313445.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/toronto/2023/3/14/1_6313445.amp.html",
-      "publishedDateTime": "2023-03-14T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-26-icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare.md",
+      "title": "ICMR Comes Up With First Ethical Guidelines For Application Of AI In Biomedical Research, Healthcare",
+      "excerpt": "There was a time in the 40s when many Anglo-Indian families moved to Mhow. Most of them worked as railways personnel. But now, most of the families have moved abroad Journalist Vikas Kumar Jha first visited McCluskieganj in 1990 to write a story for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446",
+      "originalUrl": "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/public/uploads/articles/2020/4/12/Coronavirus_AP12_.jpg",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/icmr-comes-up-with-first-ethical-guidelines-for-application-of-ai-in-biomedical-research-healthcare-news-273446/amp",
+      "publishedDateTime": "2023-03-26T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-03-26-theres-no-such-thing-as-artificial-intelligence.md",
       "title": "There's No Such Thing as Artificial Intelligence",
       "excerpt": "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ...",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -61,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/sanjaysrivastava/2023/03/25/generative-ai-in-the-enterpriseuse-cases--early-learnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -101,7 +145,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -932,7 +977,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 287,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -1027,7 +1072,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 469,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -1068,6 +1113,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-2023-data-science-and-machine-learning-service-market-size-growth-global-industry-trends-2029.md",
+      "title": "2023 Data Science and Machine Learning Service Market Size, Growth | Global Industry Trends [2029]",
+      "excerpt": "Data Science and Machine Learning Service Market Report Contains 2023 ... Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc. We also cooperate with some third-party ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-service-market-size-growth-global-industry-trends-2029-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-data-science-and-machine-learning-service-market-size-growth-global-industry-trends-2029-2023-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1120,109 +1218,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats.md",
-      "title": "Gold Medal for Big Brother? AI Will Monitor Paris 2024 Olympics for Threats",
-      "excerpt": "Using AI-powered video surveillance is required to 'meet the greatest security challenge in its history,' according to the French government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats",
-      "originalUrl": "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02uEfvpzFV2NYHYEGcPXtnL-1.fit_lim.size_1200x630.v1679661096.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-24-the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says.md",
-      "title": "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says",
-      "excerpt": "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/",
-      "originalUrl": "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Clinical Natural Language Processing Market Trends, Industry Demand and Scope, Top Players Analysis, Forecast 2023 - 2031"
-    excerpt: "Mar 24, 2023 (The Expresswire) -- [108+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Clinical Natural Language Processing Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-24T15:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-trends-industry-demand-and-scope-top-players-analysis-forecast-2023---2031-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing and Supply Chain Market Analysis: Understanding The Current State and Future Trends 2023-2028"
     excerpt: "Global Artificial Intelligence in Manufacturing and Supply Chain Market Report (120 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
     publishedDateTime: 2023-03-24T18:24:00Z

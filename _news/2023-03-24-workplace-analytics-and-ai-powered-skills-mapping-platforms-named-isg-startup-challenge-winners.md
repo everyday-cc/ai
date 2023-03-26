@@ -52,15 +52,6 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 18
-  - title: "Altair Announces Altair RapidMiner: One Converged Platform for Data Analytics and Artificial Intelligence"
-    excerpt: "TROY, Mich., March 16, 2023 /PRNewswire/ -- Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI), announced the rebrand of its entire data analytics and AI suite as Altair RapidMiner, uniting all data ..."
-    publishedDateTime: 2023-03-21T18:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1313325&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 15
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps in workforce skills were voted the winners of ISG Startup Challenges at events hosted in London and New York by Information Services Group (ISG) (Nasdaq: III),"
     publishedDateTime: 2023-03-24T21:24:00Z

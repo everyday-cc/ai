@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-
 webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-share-and-forecast-till-2031-2023-03-21"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
+    excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
+    publishedDateTime: 2023-03-22T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-and-research-report-2023-consumption-share-applications-types-and-forecast-to-2031-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AJ+2Bl/hLn+L0QKpe9pMy46GuHmAU69oErRednQcTA0WKiY2OSCOjaWdNENQVeSxWFgrDQlpMYsK+Dir8ohBgJidei1C5k5MDsTQ70LZwJ2bRAWtaiwSOu+1uAzp5Up37PgCMzhDT+uoyVg6AESAcmLJHWVl1NhyxFyuomT5YRMjKdU33tVxlZryLSF/2Fp0gS1PzGj4ByACkr8T/0PZYkDh15gFhGpP0m7+nkqUZtKCVua3YMysUGgw9SJLBMEd506/kzl/9g6E6lqMvVMTi+efhFZxpqC2LXi/4KdummSZzk3pDPmWWE7o9/sq/KR84Jy/IcLRO0mIlL8gYtLbFFpVUB7FBLHF+OByYi7f6y0=;dbdvMb6xcICSuGKk724fUA=="
 ---

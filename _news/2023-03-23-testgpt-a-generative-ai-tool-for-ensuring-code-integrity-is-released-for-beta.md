@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/testgpt-a-generative-ai-tool-for-ensuring-code-integrity-is-released-for-beta/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 17
+  - title: "This generative AI tool actually teaches kids how to write"
+    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
+    publishedDateTime: 2023-03-26T05:00:00Z
+    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
     quality: 17
 
 secured: "1cySf96QjnQGKiPk3O7IEsYI/Ba768d0veQFcZhtb0IX0dj+/bCN0gUAvpcXS6AjephwNcXIqjIGDqKjolq8sIo19Hdp8I2V7sZ5lZYdfSg2wk+zmuFinLPRaxb9PYNcgdY9G2d28AKcYCEoIWN9acurEQUBvxg4MNXwYP6NWr7ILdEDQgogWmyzrGLSsIUXTvcLtL9rD2AdjTYINASNz6TkgSqcz4kRtiKYgD+1Ttz4f9/SZDIsDDYAu/iXI4gqz5eXPtvIm53sX5jaVip9LXney9kevmupyziNfRqMc3Jynx3Su1lpWuqjLVt0UZ3QRD/kkGnRB5VJ5Vi26KXi4aRBYVEmlKuXe6recl9HslKKfsdF5j9euYFj2XaSVZLyeGG0rT72MHCORdip/xszoDVqTK1562qI0qTeOhlJkJLaGpa/QzBkjCG9SMOTVRSY8RannGhp40sUEataUAdRq6j+Vwk9bBgczoLRIJx67uBTzpCQm2fWlWyn2ayA6/EX6lf9XHHWmRvgFcVTBBZ1eQ==;7XeOtVZfoc+B+z1pPe23IA=="

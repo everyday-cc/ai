@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-24-gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats.md",
+      "title": "Gold Medal for Big Brother? AI Will Monitor Paris 2024 Olympics for Threats",
+      "excerpt": "Using AI-powered video surveillance is required to 'meet the greatest security challenge in its history,' according to the French government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats",
+      "originalUrl": "https://www.pcmag.com/news/gold-medal-for-big-brother-ai-will-monitor-paris-2024-olympics-for-threats",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02uEfvpzFV2NYHYEGcPXtnL-1.fit_lim.size_1200x630.v1679661096.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says.md",
+      "title": "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says",
+      "excerpt": "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/",
+      "originalUrl": "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-03-24-global-automotive-speech-recognition-system-market-to-grow-from-2023-2026.md",
       "title": "Global Automotive Speech Recognition System Market to Grow from 2023-2026",
       "excerpt": "Mar 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Automotive Speech",
@@ -113,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/24/three-ways-to-increase-roi-on-ai-driven-data-and-analytics-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -204,6 +307,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-24-teslas-self-driving-ambitions-are-further-and-further-away.md",
+      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
+      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/22/11b44f8929b7238c7c7add384e26a2f8.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
+      "publishedDateTime": "2023-03-23T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -819,7 +965,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -971,59 +1117,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-23-artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030.md",
-      "title": "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2023-03-23-ai-storytelling-startup-tome-records-fast-user-growth-to-launch-paid-tier-soon.md",
       "title": "AI storytelling startup Tome records fast user growth, to launch paid tier soon",
       "excerpt": "March 23 (Reuters) - Artificial intelligence storytelling startup Tome has seen its user numbers triple in a month to 3 million and is planning to launch a paid subscription in the coming weeks, Chief Executive Keith Peiris told Reuters, as AI products ...",
@@ -1032,7 +1125,7 @@
       "originalUrl": "https://www.reuters.com/technology/ai-storytelling-startup-tome-records-fast-user-growth-launch-paid-tier-soon-2023-03-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1176,112 +1269,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-chatbot-start-up-characterai-valued-at-1-billion-in-new-funding-round.md",
-      "title": "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round",
-      "excerpt": "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html",
-      "publishedDateTime": "2023-03-23T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-23-artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027.md",
-      "title": "Artificial Intelligence & Advanced Machine Learning Market Sales Outlook 2023 Up-to-date Development Data and Market Trends Forecast to 2027",
-      "excerpt": "Competitive Landscape The market analysis entails a section solely dedicated for major players in the Global Artificial Intelligence and Advanced Machine Learning Market wherein our analysts provide an insight to the financial statements of all the major ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-sales-outlook-2023-up-to-date-development-data-and-market-trends-forecast-to-2027-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-23T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Sales"
       ]
     }
   ],

@@ -262,15 +262,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 19
-  - title: "How artificial intelligence is helping to detect heart disease in remote Australia"
-    excerpt: "Artificial intelligence helps health practitioners perform echocardiograms to detect heart problems The technology could be developed to enable similar scanning of other body areas The trial targets people in remote areas because a national shortage of ..."
-    publishedDateTime: 2023-03-21T18:51:00Z
-    webUrl: "https://www.abc.net.au/news/2023-03-22/how-ai-heart-technology-helps-remote-patients-get-ultrasounds/102123878"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 11
   - title: "South Australia becomes the first state to introduce First Nations Voice to parliament"
     excerpt: "Picture: NCA NewsWire / Brenton Edwards “It is my pleasure as South Australia’s 36th governor to give assent to the First Nations Voice Bill 2023,” she said. “Today I restate my commitment to supporting recognition in our state, and working side-by ..."
     publishedDateTime: 2023-03-26T02:45:00Z

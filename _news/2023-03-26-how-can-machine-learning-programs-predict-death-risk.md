@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/how-can-machine-learning-programs-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-can-machine-learning-programs-predict-death-risk-211059-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Machine learning programs predict risk of death based on results from routine hospital tests"
-    excerpt: "In recently published findings, the research team built and trained machine learning programs based on 1.6 million ECGs done on 244,077 patients in northern Alberta between 2007 and 2020. The algorithm predicted the risk of death from that point for each ..."
-    publishedDateTime: 2023-03-21T18:19:00Z
-    webUrl: "https://medicalxpress.com/news/2023-03-machine-death-based-results-routine.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 28
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-progr.jpg"
-        width: 2075
-        height: 897
-        isCached: true
 
 secured: "FXgQkq5YGVakS8kFMVzliMHt3q5bpn8RxluWhLOGaf90mXJKJjA1+LpKlqGNiB8P3jXoFx8V9GkuPKTLja7H44ZicDd2E+3EK09E05thO9cDLU32bzm5+CyCwYdorz22F/hspWzmt74iBZwgLIUpXn7cyLZ5ydc7gNHhlwzObES6fKaHgYblqO6hqVFUxDWUPSOeBNCg68cmxFkh6XyMQFFzisRjvZ8GZCydQPO2Pj+H+7ClJHsqHGGm+M4njo/g6wlLeCXrYx8cV1UrFxZOOV/Pthd9BphOauph+7NFN/Jn+jFQOhQTT0FBWOwrMYxcVpFkOSNW2gHyDRSCHu4q7n6q2JBgO67lthnLm5fgoK4CMswmvGPv3Gy9pqgRB+qpM5tTQeaFg6yc8iHzUxNIkMOTOYUizMiKunGpZx9M4E9yL1xf+AU4hJXvD9SpE/9csLwiC6IBoghEdzV+YWVdvAnZV5MKZ3t4wI8PotKIP5eixo7TdA6pNOWCWxekABeuIhRJnDQ6UJGikgdnLJyl9Q==;IL1Izm+CnXc2b7pICwIRFQ=="
 ---

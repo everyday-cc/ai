@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-24-teslas-self-driving-ambitions-are-further-and-further-away.md",
+      "title": "Tesla’s Self-Driving Ambitions Are Further and Further Away",
+      "excerpt": "After announcing his ambitions to have millions of self-driving Teslas on the road all the ... up development of the tech as “the more data (in this case driving) the artificial intelligence guiding the car is exposed to, the faster it learns.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/03/22/11b44f8929b7238c7c7add384e26a2f8.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/03/teslas-self-driving-ambitions-are-further-and-further-away/amp/",
+      "publishedDateTime": "2023-03-23T19:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-our-pick-of-the-best-artificial-intelligence-ai-stocks-and-shares.md",
       "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks and Shares",
       "excerpt": "While rumors of Google’s death might be greatly exaggerated, what’s clear is that Microsoft will no doubt benefit from the AI revolution due to the tools and services offered by its Azure cloud computing platform.” Its share price hit an all-time ...",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/best-artificial-intelligence-ai-stocks-shares/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1373,40 +1416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-google-waymo-sues-uber-alleges-theft-of-self-driving-car-technology.md",
-      "title": "Google Waymo sues Uber, alleges theft of self-driving car technology",
-      "excerpt": "Uber is facing a lawsuit from Google over claims its self-driving car technology was stolen from Google's Waymo and has been used to accelerate Uber's own development. By Joel Hruska February 24 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "originalUrl": "https://www.extremetech.com/cars/244978-google-waymo-sues-uber-self-driving-car-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

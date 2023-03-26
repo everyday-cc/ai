@@ -48,6 +48,15 @@ related:
         width: 1546
         height: 861
         isCached: true
+  - title: "This generative AI tool actually teaches kids how to write"
+    excerpt: "As ChatGPT threatens higher education, edtech startup Pressto is using AI to help kids learn to write. Tech world matriarch Esther Wojcicki is advising."
+    publishedDateTime: 2023-03-26T05:00:00Z
+    webUrl: "https://www.fastcompany.com/90869664/pressto-generative-ai-writing-education-esther-wojcicki"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "qgTeEaeBZoSeTWravbMc5r3hn71C+qLS2Tw65zbK5DtoYqf4W7mfnF5u9intxoVY4ImalZWUe+pY5y/3Zc/k+4M0WOufpbNyCjOhOqbFYgaVv0aOopJDG78y1xqOzVV2YsZjaXPPOcp/Osi6Vd747c96KrcpVoFimR0O80rWskeBLGSRkN+Z1dtVWkmOjgET3Ro5UD6AexqLtibcRQunIJCNXqboUJ2zrduxdSoqFkZFhRRuZ86rjNexQb34qNrSubCjqixuYYw8cKmk9/W0I9ZIUqRp55PUZpGRI2pTAqPWJJtB1jRKhd1coz159c3QMCqmt4t22hp1BLOozTActhZaFm0V7Z2I2YbPGSEzMc6UxFk+a41shArDLMuWpUL8KO78vFLb7xT56bmvocG/5XXbK0q9AAgqzgef/rB5BsExzEZGnU8wJcoHtrRanxzPJdAK7xSf1ahm1lb49RDptqw48Q3ztlxb4Clny4qcNmkeGN0PtSguyrDbcv1OMOc1sDwm948rCdfojK72xnrcbg==;XOBebfjxFVaqCghlysaiAA=="
 ---

@@ -104,20 +104,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Microsoft brings DALL-E's AI image generation to Bing and Edge"
-    excerpt: "Microsoft's Bing AI chat can already be helpful for finding answers, but now it can help you produce fanciful pictures. The company has introduced a Bing Image Creator preview that adds OpenAI's DALL-E AI image generation to both Bing search and a sidebar in the Edge browser."
-    publishedDateTime: 2023-03-21T17:28:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-dall-es-ai-image-generation-to-bing-and-edge-152749735.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/ylZZRzVcjs_9qLYNyVItDg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/7b095760-c7f8-11ed-acef-77bea38b0e95.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
     excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
     publishedDateTime: 2023-03-22T15:03:00Z
@@ -189,6 +175,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
+    excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
+    publishedDateTime: 2023-03-26T10:44:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 82
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
     excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
@@ -265,29 +265,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft adds Image Creator to Bing, plus GPT-4 now available in Azure OpenAI Service"
-    excerpt: "“Coursera is using Azure OpenAI Service to create a new AI-powered learning experience on its platform, enabling learners to get high-quality and personalized support throughout their learning journeys,” said Mustafa Furniturewala, senior vice presiden ..."
-    publishedDateTime: 2023-03-21T18:29:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-adds-image-creator-to-bing-plus-gpt-4-now-in-azure-openai-service/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-  - title: "Microsoft Introduces GPT-4 in Azure OpenAI Service"
-    excerpt: "Microsoft today announced that it will be making GPT-4 available in preview in Azure OpenAI Service. The company said that customers can start applying for access to GPT-4 today."
-    publishedDateTime: 2023-03-21T18:21:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-introduces-gpt-4-in-azure-openai-service/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Microsoft-was-looking-for-ways-to-compete.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
     excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
@@ -410,15 +387,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft brings GPT-4 to its Azure OpenAI service"
-    excerpt: "By utilizing ChatGPT’s natural language processing and machine learning capabilities, [The Office Depot Corporation] aims to streamline its internal operations and drive business success. Of course, by bringing GPT-4 to Azure OpenAI Service, Microsoft is ..."
-    publishedDateTime: 2023-03-21T18:51:00Z
-    webUrl: "https://bgr.com/tech/microsoft-brings-gpt-4-to-its-azure-openai-service/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 51
   - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
     excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
     publishedDateTime: 2023-03-25T16:18:00Z
@@ -437,15 +405,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 45
-  - title: "Syneos inks deal with Microsoft for AI-powered clinical trials and marketing platform"
-    excerpt: "The agreement announced this week centers on an advanced analytics platform, which Syneos built on Microsoft’s Azure technology, that enables agile deployment of machine learning to support the analysis, design and execution of clinical trials and ..."
-    publishedDateTime: 2023-03-21T18:14:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/syneos-inks-deal-with-microsoft-for-ai-powered-clinical-trials-and-marketing-platform/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 44
   - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
     excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
     publishedDateTime: 2023-03-22T06:04:00Z
@@ -520,15 +479,6 @@ related:
       name: Tech.co
       domain: tech.co
     quality: 34
-  - title: "Microsoft and Adobe introduce AI image generator tools as competition heats up"
-    excerpt: "Artificial intelligence art generators have become ever more popular with the introduction of OpenAI LP’s DALL-E and Midjourney, which take text prompts and turn them into beautiful, often surreal artwork. Today, Microsoft Corp. announced that it’s ..."
-    publishedDateTime: 2023-03-21T18:09:00Z
-    webUrl: "https://siliconangle.com/2023/03/21/microsoft-adobe-introduce-ai-image-generator-tools-competition-heats/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
   - title: "Improving ESG performance in financial services on Microsoft Cloud"
     excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
     publishedDateTime: 2023-03-24T19:14:00Z

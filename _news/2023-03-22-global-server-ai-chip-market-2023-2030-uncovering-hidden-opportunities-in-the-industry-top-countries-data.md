@@ -351,6 +351,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipset Market: Trends Shaping the Future 2023-2028"
+    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2023-03-26T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-trends-shaping-the-future-2023-2028-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning Market: Size, Share, Trend, Application analysis and Forecast 2029"
     excerpt: "Mar 23, 2023 (The Expresswire) -- A new elaborated report titled as Global Artificial Intelligence and Machine Learning Market is now released by industry research based on comprehensive study of the market. Knowledge about the future market trends as well ..."
     publishedDateTime: 2023-03-23T14:20:00Z

@@ -106,20 +106,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Adobe Launches 'Firefly,' Its Very Own AI Image Generator"
-    excerpt: "It's a large undertaking, but the company does seem to have put an emphasis on establishing a set of ethics for its use of AI, and is using those ethics as a framework to build around. As mentioned, at a basic level you can generate an image of pretty much ..."
-    publishedDateTime: 2023-03-21T17:12:00Z
-    webUrl: "https://www.slashgear.com/1234478/adobe-launches-firefly-its-very-own-ai-image-generator/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
-    images:
-      - url: "https://www.slashgear.com/img/gallery/adobe-launches-firefly-its-very-own-ai-image-generator/l-intro-1679417994.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Text to Video Generative AI Is Finally Here and It’s Weird as Hell"
     excerpt: "Runway plans its Gen-2 text to video AI release, but the janky clip generator ModelScope may be the first AI video generator to catch the internet's attention."
     publishedDateTime: 2023-03-22T15:45:00Z
@@ -131,22 +117,6 @@ related:
     quality: 67
     images:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/41036d4b472fd76298e693d86d1531b9.gif"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe built its Firefly AI art generator to avoid bias and copyright issues"
-    excerpt: "Following DALL-E 2 and other generative AI systems, Adobe is announcing Firefly, which aims to make AI-generated images easier to produce."
-    publishedDateTime: 2023-03-21T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/"
-    ampWebUrl: "https://www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/adobe-firefly-ai-image-generator/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 55
-    images:
-      - url: "https://www.popsci.com/uploads/2023/03/21/Digital-images-and-photography-in-Photoshop-2.jpg?auto=webp"
         width: 1200
         height: 675
         isCached: true

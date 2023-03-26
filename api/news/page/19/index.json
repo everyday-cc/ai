@@ -2,6 +2,367 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-03-09-cognitive-behavioral-therapy-offered-to-help-curb-violence.md",
+      "title": "Cognitive behavioral therapy offered to help curb violence",
+      "excerpt": "(WSMV) - Dozens of non-profit leaders, first responders, and community members are receiving cognitive behavioral ... families through three tiers of services, education and empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
+      "originalUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/66EcQG1MB4mtWHETmUk4f1b3ugw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TSX6HJ3LBFDQJMMT2CPKINO2AY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
+      "publishedDateTime": "2023-03-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSMV",
+        "domain": "wsmv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-out-for.md",
+      "title": "Scammers are using AI to impersonate your loved ones. Here's what to watch out for",
+      "excerpt": "The next time you get a call from a family member or friend in need, you might want to make sure it's not a robot first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/",
+      "originalUrl": "https://www.zdnet.com/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7a5309a2e1f200b222a612ed2e738b0b11ce21c0/2023/03/08/4e1f592e-d717-4b04-b262-2f69a4b58f7d/gettyimages-1258096393.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/",
+      "publishedDateTime": "2023-03-09T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-an-ai-sexbot-fed-my-hidden-desiresand-then-refused-to-play.md",
+      "title": "An AI ‘Sexbot’ Fed My Hidden Desires—and Then Refused to Play",
+      "excerpt": "My introduction into the world of AI chatbot technology began as the most magical things in life do: with a generous mix of horniness and curiosity. Early this year, as ChatGPT entered the general lexicon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+      "originalUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6408f60857d6078ef81a964e/master/pass/ideas_ai_chatbot_sex.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/replika-chatbot-sexuality-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/replika-chatbot-sexuality-ai/amp",
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-artificial-intelligence-is-boomingso-is-its-carbon-footprint.md",
+      "title": "Artificial Intelligence Is Booming—So Is Its Carbon Footprint",
+      "excerpt": "Artificial intelligence has become the tech industry’s shiny new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwxrnxJ0ZpVY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-linklive-expands-partnership-with-kasisto-conversational-ai.md",
+      "title": "LinkLive Expands Partnership with Kasisto, Conversational AI",
+      "excerpt": "LinkLive, a leading cloud-based Contact Center as a Service (CCaaS) provider, has partnered with Kasisto, creators of KAI, the leading digital experience platform for the financial services industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelbiz.co.uk/press-release/linklive-expands-partnership-with-kasisto-conversational-ai/",
+      "originalUrl": "https://www.channelbiz.co.uk/press-release/linklive-expands-partnership-with-kasisto-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel Biz",
+        "domain": "channelbiz.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
+      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
+      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
+      "publishedDateTime": "2023-03-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-artificial-intelligence-tools-becoming-unavoidable-lawmakers-say.md",
+      "title": "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say",
+      "excerpt": "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
+      "publishedDateTime": "2023-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN 27 First News",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-artificial-intelligence-ai-in-healthcare.md",
+      "title": "Artificial intelligence (AI) in healthcare",
+      "excerpt": "Stages of AI adoption in healthcare organizations worldwide in 2021 Application of AI models on types of health data worldwide in 2021, by adoption stage Types of AI software in use in healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/study/115827/artificial-intelligence-ai-in-healthcare/",
+      "originalUrl": "https://www.statista.com/study/115827/artificial-intelligence-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/Study/115000/115827-opengraph.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-artificial-intelligence-ai-chip-market-size-and-forecast-till-2028.md",
       "title": "Artificial Intelligence (AI) Chip Market Size and Forecast till 2028",
       "excerpt": "The \"Artificial Intelligence (AI) Chip Market\" study describes how the technology industry is evolving and how major",
@@ -794,331 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-humane-a-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m.md",
-      "title": "Humane, a secretive AI startup founded by ex-Apple employees, raises another $100M",
-      "excerpt": "Humane, a secretive startup co-founded by ex-Apple employees, has raised $100 million in a fresh venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/",
-      "originalUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/",
-      "publishedDateTime": "2023-03-08T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-bay-area-airports-adopt-facial-recognition-to-process-travelers.md",
-      "title": "Bay Area Airports Adopt Facial Recognition to Process Travelers",
-      "excerpt": "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
-      "originalUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
-      "publishedDateTime": "2023-03-08T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-will-ai-chatbots-raise-digital-equity-concerns-for-students.md",
-      "title": "Will AI Chatbots Raise Digital Equity Concerns for Students?",
-      "excerpt": "Some ed-tech experts say the need to close the digital divide will only grow more urgent as Internet-based artificial intelligence tools become commonplace in schools and universities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/1e863f9/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa8%2F9a%2F2b3110904bb6ae8dcfecb0733cc2%2Fdigital-equity.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
-      "publishedDateTime": "2023-03-08T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-aaa-americans-fear-self-driving-cars.md",
-      "title": "AAA: Americans Fear Self-Driving Cars",
-      "excerpt": "Worried about self-driving cars?  If so, you're not alone. Fear of self-driving cars is on the rise, according to a new survey from the American Automobile Association (AAA).   AAA's annual automated vehicle survey checks in with drivers every year to gauge the temperature of how the public feels about autonomous driving tech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/aaa-americans-fear-self-driving-cars-17827392.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/64/46/23546289/3/rawImage.jpg",
-          "width": 1404,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Antonio Express-News",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-could-a-chatbot-write-this-article.md",
-      "title": "Could a chatbot write this article?",
-      "excerpt": "This makes it a powerful tool for various applications such as conversational AI, language translation, text summarisation, and more. Its advanced AI capabilities also make it a valuable research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "cdnAmpWebUrl": "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/could-a-chatbot-write-this-article/news-story/3be6cfdc46cb0fc9ee1cef8ecba8caa6?amp",
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools.md",
-      "title": "Discord is going all-in on AI with a new chatbot and moderation tools",
-      "excerpt": "Discord, like everyone else, is turning to AI to entice new and existing users ... You can even have Clyde start a thread for a group of your friends to hang out. Clyde can recommend playlists ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools/",
-      "originalUrl": "https://bgr.com/tech/discord-is-going-all-in-on-ai-with-a-new-chatbot-and-moderation-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-perceived-stress-tied-to-worse-cognitive-impairment-in-older-adults.md",
-      "title": "Perceived stress tied to worse cognitive impairment in older adults",
-      "excerpt": "There is an independent association between perceived stress and both prevalent and incident cognitive impairment, according to a study published online March 7 in JAMA Network Open. Ambar ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/perceived-stress-tied.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-racial-bias-in-artificial-intelligence-restricts-vital-access-to-healthcare-and-financial-services-says-data-scientist.md",
-      "title": "Racial bias in artificial intelligence restricts vital access to healthcare and financial services, says data scientist",
-      "excerpt": "Terrelle and Lorraine were turned down for a house loan they could easily afford, despite a six-figure salary each and great credit history. Frederick was discharged from the hospital as fit and healthy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/980645",
-      "originalUrl": "https://www.eurekalert.org/news-releases/980645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-c
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/25/lidar-radar-cameras-the-sensors-making-self-driving-cars-possible"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1240
     height: 826
     isCached: true
-
-related:
-  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
-    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
-    publishedDateTime: 2023-03-21T21:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
-    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
-    publishedDateTime: 2023-03-22T05:11:00Z
-    webUrl: "https://www.benzinga.com/startups/23/03/31450867/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
 
 secured: "gyVSnOt2Yif9iki6b/Ztt3eOCmOjZnz44kLFip4WKKZkzsfcvs8/8Ekd07xWVsVJuJPmghzNjVAe+8nYc6/UNsa4J/a1PZEUTigre1wGKoj+pKfO8GTdh0pZE8sJfj1Y/+6sY3cJL9OSUCKeMbpChVpEXlVAANU0m6DeX53R+U1rU95NqgXA+cLrwaTEXJMv/9dVILKm+LWzZzcxMVBE5+BTFwcMpwhSd484GcltmZrWztvoj/UisGl6VHkrHHiPkmOnSSzIwrBNlRTidHd+JtCL8tTr6O5HK0dgmpUU5WXYRcmkIsYe+mUF8BbAM20JmvyMPFbb1mElnuzIawgujYCIUY/Y2h2F1EMGdXeaXiA=;Cf+Z6yhMZudP9Qtzq+JuRg=="
 ---

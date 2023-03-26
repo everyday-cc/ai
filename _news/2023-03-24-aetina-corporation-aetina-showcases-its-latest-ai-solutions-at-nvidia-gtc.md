@@ -39,15 +39,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "NVIDIA GTC 2023 Keynote: AI Everywhere, All At Once"
-    excerpt: "This year, Huang discussed how NVIDIA and its partners are seeking to overcome a breadth of challenges with AI technology. NVIDIA H100 NVL With NVLink Huang announced a new GPU, the H100 NVL with dual-GPU NVLink. This new GPU is based on NVIDIA's Hopper ..."
-    publishedDateTime: 2023-03-21T18:07:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gtc-2023-keynote-ai-everywhere-all-at-once"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 21
   - title: "Aetina Corporation: Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
     excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform-AIP-SQ67"
     publishedDateTime: 2023-03-24T03:38:00Z

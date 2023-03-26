@@ -252,15 +252,6 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 19
-  - title: "How artificial intelligence is helping to detect heart disease in remote Australia"
-    excerpt: "Artificial intelligence helps health practitioners perform echocardiograms to detect heart problems The technology could be developed to enable similar scanning of other body areas The trial targets people in remote areas because a national shortage of ..."
-    publishedDateTime: 2023-03-21T18:51:00Z
-    webUrl: "https://www.abc.net.au/news/2023-03-22/how-ai-heart-technology-helps-remote-patients-get-ultrasounds/102123878"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 11
   - title: "Indigenous voice to parliament referendum question and constitution changes revealed by emotional PM"
     excerpt: "In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: 1: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; 2: The Aboriginal and Torres Strait Islander Voice may make ..."
     publishedDateTime: 2023-03-23T01:26:00Z

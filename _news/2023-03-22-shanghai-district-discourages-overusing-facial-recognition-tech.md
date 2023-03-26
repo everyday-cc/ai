@@ -7,8 +7,8 @@ originalUrl: "https://www.sixthtone.com/news/1012550/"
 webUrl: "https://www.sixthtone.com/news/1012550/"
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 74
+published: true
 
 provider:
   name: Sixth Tone
@@ -23,6 +23,26 @@ images:
     width: 2000
     height: 1000
     isCached: true
+
+related:
+  - title: "Facial recognition techniques nail robbers"
+    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
+    publishedDateTime: 2023-03-26T11:12:00Z
+    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-nail-robbers-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 34
+  - title: "Facial recognition techniques link gang to spate of betting outlet robberies"
+    excerpt: "Warrant officer Vanishree Abdul Rahim was the SAPS facial recognition techniques expert who did an analysis. She testified in court how she was able to determine that the accused were the same individuals seen in different instances, in the CCTV footage ..."
+    publishedDateTime: 2023-03-26T10:33:00Z
+    webUrl: "https://www.iol.co.za/sunday-tribune/news/facial-recognition-techniques-link-gang-to-spate-of-betting-outlet-robberies-a4e61131-5582-4ae3-bece-cfd32c6eafcb"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 16
 
 secured: "wdmOYr0NOvFRV+4mqEEtcIZ8FfFIPvzAmuDopmaiiz5gm4RPdL5qxMcnogzND17Pvi/CIX5DRVpU9mfC+4ePQj6ulLK/PyXV6BkbC3V4h1hP/FETfYmkza+omr65v/Yi6Xb8O4IlqfVy8d1hrPQrgxELXtDRkgeoSe2N63TQYdYhCIIXn0f33LBgbpSGgPBaiuqbaLAr7uBuzxtwjbObWV53100psWppc10yP41vD8id1ayfEHhWWG/pIT/17eAjUlIJK63QV8cqmKKIUAQ7v0yef1k0HY3JrGjU0ippAIC7NuJO/GhvtK+1PFAj1ofiWwH8T16/b6fz6K8a25i9weCF01hT3NB+KFvJNqj1LYaI/QbKrMBwwDdGr1olehDYhvl1uwVm2/Df/W1sTXagA57gGJ2BaMFYRij/JCSq6BNFX7/alRlXunPQmeH/IP7U68oLBURFGMi2aACgt36QE9LLBrwM/AY6ekh+/pCeAN5dyNr6y/qg6tK4xvmNMtfuIPRpoDJirqCdL7+RDDxdeg==;I1W2+iBwj7DbNmdUQPpA0w=="
 ---

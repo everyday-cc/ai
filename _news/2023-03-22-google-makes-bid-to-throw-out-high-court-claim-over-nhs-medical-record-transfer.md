@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google makes bid to throw out High Court claim over NHS medical record transfer"
-excerpt: "Google has made a bid to throw out a High Court claim brought on behalf of around 1.6 million people about the transfer of their medical records by an NHS trust. The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015."
-publishedDateTime: 2023-03-21T18:43:00Z
-originalUrl: "https://www.glasgowtimes.co.uk/news/national/23403042.google-makes-bid-throw-high-court-claim-nhs-medical-record-transfer/"
-webUrl: "https://www.glasgowtimes.co.uk/news/national/23403042.google-makes-bid-throw-high-court-claim-nhs-medical-record-transfer/"
+excerpt: "The software giant and its artificial intelligence arm DeepMind are facing legal action over the transfer of patient data by the Royal Free NHS Foundation Trust in October 2015. The records were ..."
+publishedDateTime: 2023-03-21T20:53:00Z
+originalUrl: "https://www.standard.co.uk/news/crime/google-high-court-deepmind-nhs-royal-free-hospital-b1069000.html"
+webUrl: "https://www.standard.co.uk/news/crime/google-high-court-deepmind-nhs-royal-free-hospital-b1069000.html"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: glasgowtimes
-  domain: glasgowtimes.co.uk
+  name: London Evening Standard
+  domain: standard.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.glasgowtimes.co.uk/resources/images/16583206/?type=og-image"
-    width: 945
-    height: 630
+  - url: "https://static.standard.co.uk/2023/03/21/18/40e6bbcbb1145fec7e99614e124d2d4cY29udGVudHNlYXJjaGFwaSwxNjc5NTEwMjA0-2.18437725.jpg?width=1200&width=1200&auto=webp&quality=75"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 676
         isCached: true
 
-secured: "F2puyXHHD8Q8BJu93ACeT5bGGRfRDjXCzn/hAPWASKfbYGvmbabBrWikKBNWutBPjoRklYmLQT8y3V/GqGthtWusekjs5L2yia9/5HzjrDF++smJ5aMOB04ZGMR2g9Sv/4rtHvkntVejQIQgPdH0Dx6ixBsg0IFA0UbXqQ0FA+5f1p/GUgnG+iPiaDy7s9B0Eh/xZrClvli0XffMZzrVIs61+MwOGW3joS5/odKEJoKZfMPzS+DwYr7U281zLycuaKxZOzmRapttGu13uCgteV9CMgIsd/FICwGa5umxYi0B21fmsOd9cjBszUrNLATtis9h9vkCDCLgFMUXcjFOkSRYql2iW4+2DC+IrMVh+QM=;T9yDhEHneyODn4BzzLDdzw=="
+secured: "HxFWTJ0SpJH8iwOqdaUR/Lw8aIcn9S3yE3z8Yvvvj6q0ed1x6pL2yE4dAFGU3U8kMzf2io8ASDpYfPQLtB+/+m/0XU4iaSETuA/S4iX4hGVzDbCJ3jaQNPXvvq81J17Ukb8+z4u55FPGtIRhPMv3LGXNjqX6X9NuvAY6Qtb4nYHIWvjVzR0rT6+laHzpfjHjEXEsq2EwzGdi7mf2/ZcB15q6z4vKtgzMuAB5hVaxBV4sNIbrXDK5m8GH4msliC7OU0YRr1uYEHyKPDwPkNsSfkl5t3Gyi0WhbPfnem0TwDFx+k8S6EwFDEZfBcHVNggWOyGKLWrKn/a+yPuLz0p5uel7slrZ+vLsLzea7WKX6IU=;wl+1nHr9L46J7Cr+kdXzWw=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Discover the Hidden Opportunities in the Artificial Intelligence Consulting Service Market [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Artificial Intelligence Consulting Service Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [124 Pages Report] Our Artificial Intelligence Consulting Service Market research ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EMzW29aclMIc29C1joRXe6K6jC5mM0gsBpZSzVPhX3aglxtLogk9Cm6C6vA6Cln9MfmubmiUOITHbI17rhGybnMYjGXMhTV5hRNxDWOBrnGgw04sZxvqw5w5VajoAIY4xXTzTj+Gi4c7+tqhPgtumIsMX2fujheUxFiCSUjZVSGle6wcP0qAC08IM35099G+Wg+NdpWRHZ95hfhKpSsEzNsKm8L3puKLZFW2oTAF9HO3SGIs8RTKsDYPcYInrvdAf1nL35P0/OXr57Bqsz7qkEBYze2TwGpL38t8FHu4eKBmYeDSblwCq6Y7LeszKo2klxes7wJR5s6ZTnm4IRrqCVvfn5uB7Dc0T8R0QvzUR0Q=;zGq7b1AEdMgVZ66BlfHDCw=="
 ---
