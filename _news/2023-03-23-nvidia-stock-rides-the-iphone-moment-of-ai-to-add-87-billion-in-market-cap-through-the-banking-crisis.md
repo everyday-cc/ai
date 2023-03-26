@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Launches Bard AI Chatbot to Counter ChatGPT"
-    excerpt: "The Alphabet unit stops short of integrating the new conversational computer program into its search function."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-747723/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Five AI stocks in focus amid ChatGPT frenzy"
     excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
     publishedDateTime: 2023-03-22T07:02:00Z

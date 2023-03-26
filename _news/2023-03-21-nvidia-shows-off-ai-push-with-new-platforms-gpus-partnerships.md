@@ -359,20 +359,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Nvidia set to unveil new AI chips and technologies at annual conference"
-    excerpt: "Nvidia set to unveil new AI chips and technologies at annual conference - Chief Executive Jensen Huang is presumed to disclose new artificial intelligence chips and technologies at"
-    publishedDateTime: 2023-03-21T11:57:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-set-to-unveil-new-ai-chips-and-technologies-at-annual-conference-nid-221797-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/xTdG259V.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Nvidia announces tech for speeding up chip design at AI conference"
     excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."
     publishedDateTime: 2023-03-21T22:03:00Z

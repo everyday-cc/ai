@@ -252,15 +252,6 @@ related:
       name: TechNewsWorld
       domain: technewsworld.com
     quality: 19
-  - title: "Forget ChatGPT — this new startup is all about AI-generated video"
-    excerpt: "ChatGPT may be stepping up its game with the release of GPT4 but it has been beaten to the punch in the race to create AI-generated video. The previews on Runway’s own site are interesting. The videos resemble super-charged GIFs,"
-    publishedDateTime: 2023-03-21T12:16:00Z
-    webUrl: "https://www.tomsguide.com/news/forget-chatgpt-this-new-startup-is-all-about-ai-generated-video"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 17
   - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
     excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
     publishedDateTime: 2023-03-24T13:36:00Z

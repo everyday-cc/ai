@@ -211,24 +211,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
-    excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-bets-on-generative-ai-with-firefly-tool-to-create-images-from-text/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
-    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
   - title: "Adobe Summit - generative AI takes a front-row seat"
     excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
     publishedDateTime: 2023-03-22T16:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-ar
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
 type: article
 quality: 104
-heat: 284
+heat: 264
 published: true
 
 provider:
@@ -201,24 +201,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe bets on generative AI with ‘Firefly’ tool to create images from text"
-    excerpt: "Adobe announced a series of AI initiatives on Tuesday, including Firefly, a generative AI tool that generates images using text prompts."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-bets-on-generative-ai-with-firefly-tool-to-create-images-from-text/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Adobe's customer experience offerings are getting a generative AI upgrade"
-    excerpt: "If you thought ChatGPT and the other generative AI tools are transformative to communication and understanding, wait until you see what happens when generative AI joins forces with marketing and sales teams. We're looking at an enormous increase in the ..."
-    publishedDateTime: 2023-03-21T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-customer-experience-offerings-are-getting-a-generative-ai-upgrade/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 46
   - title: "Adobe Offers More Responsible Generative AI"
     excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
     publishedDateTime: 2023-03-21T14:27:00Z

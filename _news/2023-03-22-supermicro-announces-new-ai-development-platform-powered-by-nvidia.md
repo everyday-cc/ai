@@ -69,15 +69,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to watch Nvidia’s AI announcement at GTC"
-    excerpt: "Nvidia’s GPU Technology Conference is in full swing, but it’s CEO Jensen Huang’s keynote address that has everyone waiting with bated breath. He’s expected to make major announcements about Nvidia’s future AI developments and how Nvidia GPUs will ..."
-    publishedDateTime: 2023-03-21T12:13:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-nvidia-ai-gtc/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
   - title: "NVIDIA and Microsoft to Bring the Industrial Metaverse and AI to Hundreds of Millions of Enterprise Users via Azure Cloud"
     excerpt: "NVIDIA today announced a collaboration with Microsoft to provide hundreds of millions of Microsoft enterprise users with access to powerful"
     publishedDateTime: 2023-03-21T19:27:00Z

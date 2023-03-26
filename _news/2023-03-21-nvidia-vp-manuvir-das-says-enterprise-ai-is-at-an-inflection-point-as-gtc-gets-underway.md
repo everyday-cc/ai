@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-vp-manuvir-das-says-enterprise-ai-is-at-an-inflection-point-as-gtc-gets-underway/amp/"
 type: article
 quality: 80
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As GTC kicks into high gear, Nvidia reportedly boosts orders for AI chips"
-    excerpt: "Analyst Tristan Gerra noted that the company's Hopper chips are likely to benefit from the growth of ... Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of the most significant developments in technology ..."
-    publishedDateTime: 2023-03-21T11:34:00Z
-    webUrl: "https://seekingalpha.com/news/3949364--gtc-nvidia-reportedly-boosts-orders-for-ai-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1399238913/image_1399238913.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
     excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
     publishedDateTime: 2023-03-24T05:18:00Z

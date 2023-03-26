@@ -348,20 +348,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Nvidia set to unveil new AI chips and technologies at annual conference"
-    excerpt: "Nvidia set to unveil new AI chips and technologies at annual conference - Chief Executive Jensen Huang is presumed to disclose new artificial intelligence chips and technologies at"
-    publishedDateTime: 2023-03-21T11:57:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-set-to-unveil-new-ai-chips-and-technologies-at-annual-conference-nid-221797-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/xTdG259V.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Nvidia shows off AI push with new platforms, GPUs, partnerships"
     excerpt: "the L 40 GPU, a new H100NVL and the new Grace Hopper CPU, which according to the company, doubles the performance over x86 CPUs on \"mainstream\" applications. Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of ..."
     publishedDateTime: 2023-03-21T15:40:00Z

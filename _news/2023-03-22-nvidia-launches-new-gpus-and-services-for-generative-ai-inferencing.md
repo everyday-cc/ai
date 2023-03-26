@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
 type: article
 quality: 104
-heat: 594
+heat: 584
 published: true
 
 provider:
@@ -348,20 +348,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--lnq3STjb--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-21t100448z_1_lynxmpej2k0aw_rtroptp_3_autos-tech-jlr-nvidia.jpg?itok=LSAkJAwK"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Nvidia set to unveil new AI chips and technologies at annual conference"
-    excerpt: "Nvidia set to unveil new AI chips and technologies at annual conference - Chief Executive Jensen Huang is presumed to disclose new artificial intelligence chips and technologies at"
-    publishedDateTime: 2023-03-21T11:57:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-set-to-unveil-new-ai-chips-and-technologies-at-annual-conference-nid-221797-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/xTdG259V.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Nvidia shows off AI push with new platforms, GPUs, partnerships"
     excerpt: "the L 40 GPU, a new H100NVL and the new Grace Hopper CPU, which according to the company, doubles the performance over x86 CPUs on \"mainstream\" applications. Last week, Morgan Stanley upgraded Nvidia (NVDA), calling the company's involvement in AI \"one of ..."

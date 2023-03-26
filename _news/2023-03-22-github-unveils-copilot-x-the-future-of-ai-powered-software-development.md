@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Are Roblox’s new AI coding and art tools the future of game development?"
-    excerpt: "At the Game Developers Conference Monday, Roblox rolled out a new set of AI tools designed to let the company's millions of player-creators create usable game code and in-game 2D surfaces using nothing but simple text Head of Roblox Studio Stef Corazza told a packed audience at the conference that the release is a major step toward \"democratizing\" game creation,"
-    publishedDateTime: 2023-03-21T12:43:00Z
-    webUrl: "https://arstechnica.com/gaming/2023/03/are-robloxs-new-ai-coding-and-art-tools-the-future-of-game-development/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 46
   - title: "Visions for the Future of Artificial Intelligence"
     excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
     publishedDateTime: 2023-03-24T00:00:00Z

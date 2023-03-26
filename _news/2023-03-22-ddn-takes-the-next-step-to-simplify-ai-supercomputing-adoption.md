@@ -63,15 +63,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to watch Nvidia’s AI announcement at GTC"
-    excerpt: "Nvidia’s GPU Technology Conference is in full swing, but it’s CEO Jensen Huang’s keynote address that has everyone waiting with bated breath. He’s expected to make major announcements about Nvidia’s future AI developments and how Nvidia GPUs will ..."
-    publishedDateTime: 2023-03-21T12:13:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-watch-nvidia-ai-gtc/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
   - title: "Supermicro announces new AI development platform powered by NVIDIA"
     excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
     publishedDateTime: 2023-03-22T16:13:00Z

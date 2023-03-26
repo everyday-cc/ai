@@ -262,15 +262,6 @@ related:
       name: TechNewsWorld
       domain: technewsworld.com
     quality: 19
-  - title: "Forget ChatGPT — this new startup is all about AI-generated video"
-    excerpt: "ChatGPT may be stepping up its game with the release of GPT4 but it has been beaten to the punch in the race to create AI-generated video. The previews on Runway’s own site are interesting. The videos resemble super-charged GIFs,"
-    publishedDateTime: 2023-03-21T12:16:00Z
-    webUrl: "https://www.tomsguide.com/news/forget-chatgpt-this-new-startup-is-all-about-ai-generated-video"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 17
 
 secured: "Pm9KahPQ92UEjkjCqAlfdNjcthJVNOtm45XbtHsCkdjmGjt6sgJXjcD5tBB+EDdSQLX7GHDOfW20Cowgq1YLBr9LZQPRq8kkx4jO5qc8ERXMKmvhrPA0xoBkA+VphUmlL2qqLz6hi3He1uDu4NWs83ZBEi2jfHSUCJyYj0CYRAWXZz2xDbXvcstqzEzUHM88y4XBK9hSbWA5/oQYaq5pMlAzw3tN4cJ7zyqNEqStjJm9N0ptaEVEylVZakTH9eeyV4CZ0JXegE28voAbS++0gFFnCCPZxL9Cju4OgGm319GS3OXezaaarNoDAmSRAuV9SysYDpj/3GNzoVAsymznH6JZxGk+OQOEwPlmBlTG1PiqeIhr70jb2ku56KVpWNfS/dykGT2WOR+kCRMLE0c1mIYGhGLlrJr1dOh2Ofxi+jBjclV1dB6NjYxrh88ChiZuoofCW0/U+IGyeDn+Ec+iFbDkJFRrqUfTH6f3MAtkf7FVMYZNmkBszoT1g8F3UU5pjcbMlgxEyAn3ghC7RCfCng==;254crBcfjJqOKaWinDmXjg=="
 ---
