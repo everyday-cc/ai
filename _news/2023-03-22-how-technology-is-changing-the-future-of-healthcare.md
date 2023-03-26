@@ -7,7 +7,7 @@ originalUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/
 webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/03/21/455345-how-technology-changing-future-healthcare.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Julie Stern joins Patient Discovery as Chief Technology Officer"
-    excerpt: "and driving insights through health data using natural language processing and machine learning (AI). \"We are extremely excited to welcome Julie to Patient Discovery, and we look forward to having her leadership as we accelerate our expansion and deliver ..."
-    publishedDateTime: 2023-03-21T13:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/julie-stern-joins-patient-discovery-as-chief-technology-officer-1032181943"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
 
 secured: "M+dMelJdbfhu3ZeJf/ckw1STZQZuNrFPzM0eA61dUw00hpbpmRPKA6uUM1AYOyELCJ6bCriO5pcjtECUudd42qhskdpLZiGHkFR3Lc4Ghiwl2OD6DAeQxHdVGeKXfwMXO5WE3/Jhpj2E88qzE0tScTA/BPZkPbRK6EglK4OYjG9X9JjzzET5vDSyYfyChjgQAMHBFJX91P0TyHJTghSFEq6tb5ofEpe8vCKvhF3qclDwYgwqELP/kQ+PQ6N33sfFV3mDSbj5QGpJN79uzv0Th2ByLq73M+wwawzpv/9/allqG8Lzommoov1ZgrMXsPcM7bOqVvjWgTO7hOLyPqRzIzdUC/PbTIWYu5qPDuyVvvx0bfNSmMv1mAtFsqvUZg3+6fxKJs/q+bNKtDNfkVGhBmkMNgAMS26iwl9VoKypMW3WJfaczme2zFcPlzLarbTRpCZ7BNEBE/rN0GQhdrI9xZSvqy1Sts+/KLyFNZ4ANuyzKB6fBiZ93Zb/D7GoNs/Pfn3UeDVXHhnD9o6CugLC3w==;9MRjModGsgKnUCgrbQcVqQ=="
 ---

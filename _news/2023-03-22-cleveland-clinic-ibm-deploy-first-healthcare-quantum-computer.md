@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-f
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Cleveland Clinic And IBM Launch World's First Quantum Computer Dedicated To Healthcare Research And Biomedical Discoveries"
-    excerpt: "IBM has used artificial intelligence to reduce drug development cycles from ... 17 years for a scientific discovery in a research lab to become an approved test or therapy for patients. Successful research and acceleration in this area by Cleveland Clinic ..."
-    publishedDateTime: 2023-03-21T14:04:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/03/21/cleveland-clinic-and-ibm-launch-worlds-first-quantum-computer-dedicated-to-healthcare-research-and-biomedical-discoveries/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6418ba489bbf5a66100aff98/0x0.jpg?format=jpg&width=1200"
-        width: 624
-        height: 441
-        isCached: true
 
 secured: "p5ibPUUoATnE61Rot+zHK8APUpFL4TqOWycAvlUTS4GktTZEAcQT2kn+/Cx3OWspWMGOL0HdwK2OGjY2Aza5e2lwRROALP5g8hiLA+3K83pZJy72ebZpIHeNaBOnRriwSSlg3owcegHFml7Wr8GmSEBDT9s3TMJeuifqdTi09Mr9baoeJGc+QDewxJD5yIqaU5wFCqP2GV9hw2GVIk3+OVg5BbfNoUKjdwzejUIubz/k8oMf16QryB+tlyvDhDaC8QEYUKRMW/YZup2a3Ga3EYprgyRSJsQNw67/HaBOPQeV1pOdcvibbODTWrhOl5g6udCHCtZN2aKDFZoRkiNHMxv6YCedwfFrTOalXH0BawUS4VwDYhzv0C1PHkkqay/5sexxpdFkmmrgGp5G+JYA7Txx18krsNvPiTB5A0jNHwi1bN3PYpwYSRT9EcEg7+neMymCuVnGWGxtbwQn2zGcdH+ckcEGqopPeznLrqi+q5pbFMM1BKpv25URpdFzzVXNCGuvmSa7hCCIX8IpCLyPiA==;l8PaP/uvI13y66TqKwYDvQ=="
 ---

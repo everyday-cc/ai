@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-a
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,73 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "There's No Such Thing as Artificial Intelligence"
+    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
+    publishedDateTime: 2023-03-26T06:37:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
+    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
+    publishedDateTime: 2023-03-23T09:16:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "From brain waves, this AI can sketch what you're picturing"
+    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
+    publishedDateTime: 2023-03-25T12:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
+    publishedDateTime: 2023-03-25T17:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Stretching the AI startup boom"
+    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
+    publishedDateTime: 2023-03-25T13:17:00Z
+    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "PZwrqnwLkYthTcTvBeeXnKJczitJk0Nh4HTKkCRqSiUnL3g6YKt41QnZVs47FqwOOJwezcmo+Rk7a+3USZXCUxjVcaIjt5i1FRWy1KTx/+RLNvJn1rKqwjOcIRBIn54Z6AVlqQkM/p3Pon8ABmzIeLBWR2rGT0qyefSMeMmtQseQj4s65xo+tQ0zqiEN7hxnaNjNKX7hpRB4q3l2OOCLseqN5X5HB59VfTq+PpRUk9aKgAO02w0SZknizYz4+vY+xjO99TVCYfIqlOOaXEsWSScoQGUNxsT+ggprpoiVAop+G1r/3Y7B2tuddFsWNF2EaZSXwY3qxzBledhXA/O41bw82HybDH9+ioM0y1Et7I0=;lIzhTWqpCtg602EpdD1p3Q=="
 ---

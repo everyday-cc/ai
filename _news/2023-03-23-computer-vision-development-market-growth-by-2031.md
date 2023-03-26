@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Operations (MLOps) Market Outlook by 2031"
+    excerpt: "The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-25T01:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-by-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market | Global Various Tendencies Industry Report 2029"
     excerpt: "Mar 24, 2023 (The Expresswire) -- [112+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “AI in Computer Vision Market” Size 2023 Key players Profiled in the ..."
     publishedDateTime: 2023-03-24T15:19:00Z

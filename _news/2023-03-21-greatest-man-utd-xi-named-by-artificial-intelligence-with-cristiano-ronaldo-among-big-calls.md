@@ -27,15 +27,6 @@ images:
 
 related:
   - title: "Man Utd’s greatest EVER XI named by artificial intelligence and Ronaldo makes it in – but there are some HUGE snubs"
-    excerpt: "CRISTIANO RONALDO made it into Manchester United's greatest XI named by ARTIFICIAL INTELLIGENCE. But the robots snubbed a few HUGE names from the all-star team. The ChatGPT system was asked to select the best players from the club's rich history."
-    publishedDateTime: 2023-03-21T13:47:00Z
-    webUrl: "https://www.thesun.co.uk/sport/21786175/man-utd-greatest-xi-artificial-intelligence-ronaldo-snubs/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 0
-  - title: "Man Utd’s greatest EVER XI named by artificial intelligence and Ronaldo makes it in – but there are some HUGE snubs"
     excerpt: "CRISTIANO RONALDO made it into Manchester United’s greatest XI named by ARTIFICIAL INTELLIGENCE. But the robots snubbed a few HUGE names from the all-star team. The ChatGPT system was asked to select the best players from the club’s rich history."
     publishedDateTime: 2023-03-21T18:29:00Z
     webUrl: "https://www.thesun.co.uk/sport/21786175/"

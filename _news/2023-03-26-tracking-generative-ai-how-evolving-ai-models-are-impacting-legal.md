@@ -25,19 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Better Carbon Offsets With AI: How Arma’s Innovative Artificial Intelligence Technology Can Create Offsets With More Accuracy and Value"
-    excerpt: "McapMediaWire-- Arma Services Inc. (OTC: ARMV) a leading carbon offset developer and technology company, announced today the development of innovative AI software aimed at transforming the carbon offset market. The software, uniquely designed to streamline ..."
-    publishedDateTime: 2023-03-22T20:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/better-carbon-offsets-with-ai-how-armas-innovative-artificial-intelligence-technology-can-create-offsets-with-more-accuracy-and-value-2023-03-22"
+  - title: "There's No Such Thing as Artificial Intelligence"
+    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
+    publishedDateTime: 2023-03-26T06:37:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
+    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
+    publishedDateTime: 2023-03-23T09:16:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "From brain waves, this AI can sketch what you're picturing"
+    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
+    publishedDateTime: 2023-03-25T12:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Stretching the AI startup boom"
+    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
+    publishedDateTime: 2023-03-25T13:17:00Z
+    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
+    publishedDateTime: 2023-03-23T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "7HZjpPuf/0IW2mACzNRxW+sfSCmM5X9ziBrqj2xRQKYSChmB9Jsf5m6G22OKjLG8RlWr/X0B5hTleXP7cAqMdJh5bimw2vwkPg8qnH9goYZNukZLWseaHJWAiuE50vThaXCktLOyB89mfVWjTJzwLM94wBMvR9Eyh3NRsTFc5YmCRMcCO1cknPjHXxwgQAeR3mj1IAd8ETLrcResq2NXz65eCyfQ4quEdvm71PYuSBJYaEbdRVIAS/i6KxWt4VwA3r2yBYPgtJcjeac+SU/l4Ss2dvPqoLQR6lfFB3mB0cpHpEL+P4vwOuwyeXftCQaCwNGzo8puyGkErRSNCq77AgXy5LfWb/TE+v7eQ/clsNnWSjpi6vvmycDkTPHHXX4T2f2lcrEp2TC01IFTqZvsPTFkXLgimwAqNSPE8FIHxcI4xMFmGcPIoz72VrUeUBA8Ny1ReQold2tBeBbKpT21+W4jFDMT4EoY+eS/OxHhzCbkZkZC7vqj4dtsPx+LKVcef3DS75gy6+fo8IAZ0CJlbw==;xwSJp2Zb0ZIk3rZrFORirg=="

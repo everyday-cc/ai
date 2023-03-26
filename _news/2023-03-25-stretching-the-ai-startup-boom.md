@@ -24,21 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "The dirty secret of artificial intelligence"
-    excerpt: "The emergence of tools such as ChatGPT triggers warnings about a fivefold increase in global data center energy consumption"
-    publishedDateTime: 2023-03-23T17:31:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html?outputType=amp"
+  - title: "There's No Such Thing as Artificial Intelligence"
+    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
+    publishedDateTime: 2023-03-26T06:37:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 59
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://images.english.elpais.com/resizer/Oo8dX2wdbnK6WqZbRNyg8m8-B14=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/5RVNKRJZIVCNHI3TG52ZHSGNHQ.jpeg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
+    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
+    publishedDateTime: 2023-03-23T09:16:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "From brain waves, this AI can sketch what you're picturing"
+    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
+    publishedDateTime: 2023-03-25T12:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
+    publishedDateTime: 2023-03-25T17:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
+    publishedDateTime: 2023-03-23T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "HmvO61i/bS3tbhwh1YLCXYonY24zf+DlPwknrG7t5kxmiSEUFQHPI6JWl01w0T25SQzA65PGnATkuJGo4sCVDscL4THSw7csg7DbM9GmmXn4Bm21X5occi4al21shX7V4qksnnegazZ6vyvwjlTSDQghQLafvOoygvxw0BX3CavZl14V4fYzWTQoehrubV4uDq5JQdHKDeILD7yRFedRG88bAYJ31tfCwmKBJYY72SS6TEDsjItvtt49IlgwjmKRD6bwn4qztomsOglLLf3ScCrp3gR0CIfIR2sUqPdu0lDV872gF5unv1JExEy3fkolyME1VEVO6Aqb3oBqnUyfoTs+fJjCHl4H3lktgS8wLGfcJrcjJWwD7pdqYYRKBx3usHI3qeifn0TxEiSLkeRmtwNn8b0EmV2jie3yFCXvaBLAukAxdO/Pn8oQxF+pOPk1Tz+I7p8/FrYG+ONeEIpvGLE488nefKxhJFtPu+Zw++GsdTN0A+gLoV0r7zRB5X5Z0rmVvtKgmLIsU3ABwo1zsw==;5EuaqqtsqXVvqD6/sAQejQ=="

@@ -87,6 +87,15 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "California must address failures of Tesla's self-driving cars"
+    excerpt: "California leaders needs to do what the National Highway Traffic Safety Administration so far failed to achieve: Keep Californians safe from Tesla’s flawed Full Self-Driving beta software. A nationwide recall of 362,758 Tesla vehicles equipped with ..."
+    publishedDateTime: 2023-03-24T18:01:00Z
+    webUrl: "https://www.desertsun.com/story/opinion/2023/03/24/california-must-address-failures-of-teslas-self-driving-cars/70030399007/"
+    type: article
+    provider:
+      name: The Desert Sun
+      domain: desertsun.com
+    quality: 34
   - title: "Tesla's Rolling Out a Revised Version of 'Full Self Driving' After Recall"
     excerpt: "Tesla is pushing out an updated version of its \"Full Self-Driving\" beta, its semi-autonomous driving system that was recalled earlier this year for behavior that regulators deemed unsafe. The system is not fully autonomous, as it relies on human ..."
     publishedDateTime: 2023-03-21T18:58:00Z

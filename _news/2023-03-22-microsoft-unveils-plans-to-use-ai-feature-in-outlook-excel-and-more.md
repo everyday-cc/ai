@@ -264,22 +264,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Inside The Infrastructure That Microsoft Builds To Run AI"
-    excerpt: "Key to all of this is getting the right supercomputing infrastructure into the field, and that job falls on Nidhi Chappell, general manager of Azure HPC and AI at Microsoft. Chappell’s team takes on all of the workload optimized compute, storage ..."
-    publishedDateTime: 2023-03-21T14:38:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/21/inside-the-infrastructure-that-microsoft-builds-to-run-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-hardware-rack.jpg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "Microsoft & OpenAI add AI image creation tool to Bing"
     excerpt: "After integrating ChatGPT into Bing, Microsoft is adding a tool to it, that creates images from words using an advanced version of OpenAI's DALL-E model."
     publishedDateTime: 2023-03-21T15:56:00Z

@@ -266,15 +266,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indian firms use AI-ML to tap US healthcare market"
-    excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
-    publishedDateTime: 2023-03-21T13:40:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/indian-firms-use-ai-ml-to-tap-us-healthcare-market/article66645862.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 51
   - title: "2023-2026 Speech and Voice Recognition Market Size and Industry Share Analysis"
     excerpt: "The Global Speech and Voice Recognition Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market growth ..."
     publishedDateTime: 2023-03-25T07:43:00Z
@@ -288,22 +279,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IoT in Healthcare Market worth $289.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The large-scale adoption of medical devices can be attributed to the growing need for cost-effective and efficient solutions for delivering healthcare services ... the internet of things (IoT), and artificial intelligence, have contributed significantly ..."
-    publishedDateTime: 2023-03-21T14:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31440294/iot-in-healthcare-market-worth-289-2-billion-by-2028-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31440294"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31440294"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "IoT in Healthcare Market worth $289.2 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Browse in-depth TOC on \"IoT in Healthcare Market\" 331 - Tables 40 - Figures 252 - Pages. Download PDF Brochure @"

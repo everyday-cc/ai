@@ -53,15 +53,6 @@ related:
         width: 400
         height: 356
         isCached: true
-  - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
-    excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
-    publishedDateTime: 2023-03-21T14:23:00Z
-    webUrl: "https://www.jaxdailyrecord.com/news/2023/mar/21/futurist-and-author-brett-king-to-speak-at-fscj-fintech-forum/"
-    type: article
-    provider:
-      name: Financial News & Daily Record
-      domain: jaxdailyrecord.com
-    quality: 4
   - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
     excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
     publishedDateTime: 2023-03-23T18:29:00Z

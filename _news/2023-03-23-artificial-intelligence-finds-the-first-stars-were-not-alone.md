@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "State-of-the-Art Artificial Intelligence Sheds New Light on the Mysterious First Stars"
+    excerpt: "By using machine learning and state-of-the-art supernova nucleosynthesis, a team of researchers has found the majority of observed second-generation stars in the universe were enriched by multiple supernovae,"
+    publishedDateTime: 2023-03-24T20:58:00Z
+    webUrl: "https://scitechdaily.com/state-of-the-art-artificial-intelligence-sheds-new-light-on-the-mysterious-first-stars/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 9
+
 secured: "6rO9HH+uSYZe0PE6t3fObQl9pASLpbRQoWp2X7aPxVzdpHQ7FZbvPy8Koxy6taSgSRdgp9W/mG59iujwmPC2g/jMmzaj2of0pwax4seRoN+s3GkCmgWSIOtPVI4lXK1VjFExcWzn0PBPPWjaQ0gQWlVtuYwvKyEh7WGRxJTgfyys4ts70OP41Qu+W2/5Nnw1U2Y+o0dS9KNMds/AgPleMx685dlrAQLVgSd+O71HWf60V03CxqaLq7dq886jJPJw859qQLjNrFsDagNq8XpSCIolohM5zRtZBxrYEZV4s6f9e7zGLIIvYYHKfCVeKM/Dmuz+U3nPZ7DGSgQYA4M9CszWnDmk2OmOuvboaIB6hl92r3SMeANE03h7n5MKf0GY4i+3CZ9V9JDWSSYdnHk8NxC6fc9tNquyjJcHhK7RTdiEBBTXcjUpbl3eq5doxMI0brBvoeLn8JCyrPp8ekh9EtaSnuvTg1jFNdWaI3VNseJrVAGu5TYXuJNgKNMiRFUNluCvGem0j4f6Q+42SQ5NoA==;Bw2UzlreFCOXYw+7wrJHaw=="
 ---
 

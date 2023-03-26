@@ -7,7 +7,7 @@ originalUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-announces-its-ai-powe
 webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-announces-its-ai-powered-saas-platform-toggle3d-experiences-a-963-jump-in-users/article_ad7213c4-2ddc-582a-a394-f8dde61933c1.html"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "If you haven’t tested artificial intelligence and experienced its power, here’s how"
+    excerpt: "Hello. Meet ChatGPT, an artificial intelligence invention that you can try for yourself. I’ll show you how. Microsoft Bing offers a similar artificial intelligence -- or AI – tool. Last week Google introduced its version call Bard. I’ve tried all three."
+    publishedDateTime: 2023-03-24T19:16:00Z
+    webUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-tested-artificial-intelligence-and-experienced-its-power-heres-how/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 11
 
 secured: "6k+ixkT9suZHr3olggOlktkSNjr+2YWLq7KQ87thQmJY9PDY19rbysIYL3dTa1m55wJAVdGfhsp06CM/sCbxMEundo+TeWsB/9Wpm3tVDANxJ6B4pk3/MKOsKZ4n0RK/aW70RgB2MU+nu5U5UDzdTcibjO7Avb7QqODchHMgItvz4MpAuBNcmN5UThN5kp5wgMYSbVx+qVV+p6yQU9l9D9F7Tr77U0BOWvTbp+IeoAHxLIHug/sh8XX3rI75tYM5xpiZNu8MX+RXF+D0jDOudLyk5HGPKT0J1UL1UvgS8R+aLWtVyGPR4hFq5Y1oYtoD2vgfuog73Cye5lCYVr6yCHWqQPISWgSsXIq3CEkO/7g=;yJRBKZQioax/tDlWT6/urw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-
 webUrl: "https://www.dallasnews.com/news/watchdog/2023/03/24/if-you-havent-tested-artificial-intelligence-and-experienced-its-power-heres-how/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+  - title: "Nextech3D.ai Announces Its AI-Powered SaaS Platform Toggle3D Experiences A +963% Jump in Users in 60-Days Crossing Over 1000 Users"
+    excerpt: "Nextech3D.ai CEO Evan Gappelberg commented ... This is a +963% change since the start of the year. Toggle3D is closely in touch with these users, generating active early adopter involvement in feedback, discovery of new use cases and suggestions for ..."
+    publishedDateTime: 2023-03-23T11:51:00Z
+    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-announces-its-ai-powered-saas-platform-toggle3d-experiences-a-963-jump-in-users/article_ad7213c4-2ddc-582a-a394-f8dde61933c1.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 7
     images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "W2cgX1WiskcxZi5Pt+BCA7FhckOocUDkKbMYgUFPulBkV35FzGMNbrq1F8NwWbw3JsosLlROZZLldmgsu9G4O+Dg8Tp1UpwhJbLO58/UzG7iNkpipTkgrKpyF6YTjehNzej9Hb0vk8d2bH+ZTiDyrHJT6pfisgkUSJUWYGD8KPtFRCbKirgAKF90GtT8/OLECfcbc8kvLLZUe2KiEwxKJefaba6RMVKyqEcXKmb4Lxsxo9BIWmBFGNkyCawl5Y5lYrk2jeCviZFlhJnDDfdNrmDb0kL9W90rTLjBBbT0rVKXbc3CfEVPUuRjh0D/VzwnUFxBn2l08f+l715AGFoJ2nUrueTKd6KkklqldP1wJs44Tx6It+WU0SDKyWkd9suOx/3zxiFaqIfV5WxgbTNL+I+zdSApvymC8l5zfPT7r7jEeje8+9W+KOcfGvQEig/LLHIJl0IDaC38Meomio874vt+YNdCIH/o39OiHp1gJS3FEyRtFgap+AofwKgMGYF5++D+BeVdnYWcBs4zmdV6dg==;Ktju/AlCamXl7SOjDsNDgw=="

@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind"
-    excerpt: "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ..."
-    publishedDateTime: 2023-03-21T13:05:00Z
-    webUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 100
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
     excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
     publishedDateTime: 2023-03-22T13:30:00Z
@@ -211,20 +195,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Offers More Responsible Generative AI"
-    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
-    publishedDateTime: 2023-03-21T14:27:00Z
-    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 39
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Adobe Announces Generative AI ‘Firefly’ Program And Wall Street Flocks Like A Moth To A Flame"
     excerpt: "The digital media giant has announced AI generative tools will be added to its suite of apps Adobe stock rose 3.1% after the announcement, buoyed by a strong Q1 earnings report last week Things are looking up for Adobe stock after a challenging year for the tech sector,"
     publishedDateTime: 2023-03-22T15:08:00Z
@@ -234,24 +204,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
-    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
-    publishedDateTime: 2023-03-21T13:03:00Z
-    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 21
-  - title: "Coke asks consumers to generate art with new AI platform"
-    excerpt: "Coca-Cola unveiled an artificial intelligence (AI) platform that is the first of its kind to combine ... \"Create Real Magic\" combines OpenAI's GPT-4, the startup’s most advanced large language model to date, and DALL-E, which generates images based ..."
-    publishedDateTime: 2023-03-21T13:22:00Z
-    webUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-marketing-art/645465/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 17
 
 secured: "9GN3xcchVlfE2cKIjqD0n3c4lLkTUaGc48vSkLrolJeA4grBpiXqhGgYVq6eTTU+TvMjiPX4Cio6zIGSGZ6soDNaBDuE2chKvniti4T2Fw+w7cPb8If68clek9VFV0b3jyY6P9q/wFLb0RIq5SMWnMM7m527Zmdg6hgK9MwWoUX6RWwlRHOFMSETqQp3Nq9wIONl3hh0wgF7PSr1ZKgXQvj0ansbo6HA8oSW1bFEWdM7Rh876w+87Kash2evL4FcQ/sOiwXC6JbmodqceteLkTk/iMHLpjqSOwJMfRVntMbdx81mJ6GPKOxTcKqNIVvvYTh/2pqdSZLsxaM+ngOM+T0mG5BHL7fnz2M+WrPRbQw=;60pNTD70hbOmUf9wCg+5Ug=="
 ---

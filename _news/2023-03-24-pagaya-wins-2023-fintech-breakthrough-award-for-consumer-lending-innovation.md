@@ -61,15 +61,6 @@ related:
         width: 400
         height: 356
         isCached: true
-  - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
-    excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
-    publishedDateTime: 2023-03-21T14:23:00Z
-    webUrl: "https://www.jaxdailyrecord.com/news/2023/mar/21/futurist-and-author-brett-king-to-speak-at-fscj-fintech-forum/"
-    type: article
-    provider:
-      name: Financial News & Daily Record
-      domain: jaxdailyrecord.com
-    quality: 4
   - title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
     excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards,"
     publishedDateTime: 2023-03-23T00:00:00Z

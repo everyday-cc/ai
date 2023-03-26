@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-by-2031-2023-03-24"
 type: article
 quality: 99
-heat: 459
+heat: 469
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Operations (MLOps) Market Outlook by 2031"
+    excerpt: "The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-25T01:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-outlook-by-2031-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

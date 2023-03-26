@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ocregister.com/2023/03/21/artificial-intelligence-ai-art
 cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 1024
     height: 700
     isCached: true
-
-related:
-  - title: "A copyright battle over AI-generated art will begin in Colorado"
-    excerpt: "(Photo by RJ Sangosti/The Denver Post) But while Allen is litigating his case with the public, AI is continuing to evolve in unexpected ways. “There are so many unanswered questions regarding the ethics, legality, and societal impact that will ..."
-    publishedDateTime: 2023-03-21T14:55:00Z
-    webUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/"
-    ampWebUrl: "https://www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
-    cdnAmpWebUrl: "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2023/03/21/artificial-intelligence-ai-art-trademark-fight-jason-allen-colorado/amp/"
-    type: article
-    provider:
-      name: Fort Morgan Times
-      domain: fortmorgantimes.com
-    quality: 59
-    images:
-      - url: "https://www.fortmorgantimes.com/wp-content/uploads/2023/03/TDP-L-Artificial-Intelligence-Art-RJS-01064.jpg?w=1024&h=700"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Award-winning AI artist vows appealing copyright rejection up to Supreme Court"
-    excerpt: "AI-generated creations are made by allowing software to be ... said there are still \"so many unanswered questions about ethics, legality, and societal impact that will no doubt be the focus of conversations for the months to come.\""
-    publishedDateTime: 2023-03-22T17:24:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/courts/colorado-artist-ai-copyright-case-supreme-court"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 35
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/55a1c1b/2147483647/strip/true/crop/4338x2277+0+307/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F01%2Ff7%2F1ab6115542b9a4abec2060464c07%2Fap23080575494759.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iY4ftLSYOKOWxPEzlDg6Sv4kEls+PJNwmiI9SxYpORggxYi6wehPNHzHrmed8kJV8RL8SjvyHn86tMgLR736eegWqFFgad9KQ/OcWU3EnmsXl3vtYEpO2gt9u1r+XdJHEgopSFogHJnoB5tjfEI8mG2gDlBIJ/9NwqTCbd15WQ0nLfa+KJL5dyPxwTo2cILWcx7n2tjwdWEMnfPHW1T1DK4Ln71EP1BdsEbh2Fc2U+Wo80JZ4Fs7RTbkovv+nMGEZyWwFs3Kq1C4yrtosR9TFV8t8fTJqjl9IzJH8EWBd+RS74T2cPanZKIxL2vShS+GwPH0vySsQAA3Fc3TcAkEm7pPEZXmlQWHwXefB4bwQPw=;6QZEspsI4sQG2DNJDIOuJQ=="
 ---

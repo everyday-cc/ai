@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google's Bard AI chatbot is now open to users in the US and UK. Here's how it works"
-    excerpt: "Google's AI chatbot, Bard, is a competitor to OpenAI's ChatGPT, which Microsoft invested in. Bard will be available to some users in the US and UK."
-    publishedDateTime: 2023-03-21T14:00:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3"
-    ampWebUrl: "https://www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-ai-bard-chatbot-launch-us-uk-2023-3?amp"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/6418b947833b31001947c885?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
     excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
     publishedDateTime: 2023-03-23T13:58:00Z
@@ -354,6 +338,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Revealed: Jobs most at risk from artificial intelligence chatbot ChatGPT"
+    excerpt: "round 80 per cent of US workers could see their jobs impacted by artificial intelligence chatbot ChatGPT, a study found. ChatGPT is a free AI “chatbot” which can be used to do anything from writing essays to creating diet plans and helping users to ..."
+    publishedDateTime: 2023-03-26T07:29:00Z
+    webUrl: "https://www.standard.co.uk/news/world/chatgpt-openai-jobs-labour-market-united-states-b1069985.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 36
+    images:
+      - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
     excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
     publishedDateTime: 2023-03-24T11:47:00Z
@@ -367,20 +365,6 @@ related:
       - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
         width: 608
         height: 342
-        isCached: true
-  - title: "Forget Bing AI - some Pixel superfans can now test out Google's Bard chatbot"
-    excerpt: "Google's Bard AI got off to a faltering start - to put it mildly - but this is a hint that we might see a public release of the chatbot before too long."
-    publishedDateTime: 2023-03-21T13:58:00Z
-    webUrl: "https://www.tweaktown.com/news/90796/forget-bing-ai-some-pixel-superfans-can-now-test-out-googles-bard-chatbot/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90796_01_forget-bing-ai-some-pixel-superfans-can-now-test-out-googles-bard-chatbot.jpg"
-        width: 620
-        height: 348
         isCached: true
   - title: "Google opens AI chatbot Bard to the public but warns not every response will be accurate"
     excerpt: "The AI tool was built as a complementary experience to Google ... Google's announcement follows the launch of San Francisco-based startup OpenAI's online chatbot ChatGPT in November. Earlier this year, Microsoft added a similar chatbot to its search ..."
@@ -428,15 +412,6 @@ related:
       name: GlobeSt.com
       domain: globest.com
     quality: 19
-  - title: "Google is releasing its Bard AI chatbot to the public"
-    excerpt: "Google will begin granting access to its Bard generative AI chatbot to tens of thousands of users who join a waiting list."
-    publishedDateTime: 2023-03-21T14:00:00Z
-    webUrl: "https://www.fastcompany.com/90868871/google-releasing-bard-ai-chatbot-to-the-public"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
     publishedDateTime: 2023-03-23T12:46:00Z

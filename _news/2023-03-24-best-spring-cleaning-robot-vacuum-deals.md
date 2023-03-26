@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-va
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-spring-cleaning-robot-vacuum-deals-2023-03-23/"
 type: article
 quality: 61
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Best Samsung robot vacuum deals during the Discover Samsung sale"
+    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
+    publishedDateTime: 2023-03-22T20:33:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-samsung-robot-vacuum-deals-for-spring-cleaning-2023-03-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 61
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/28/0d05e20f-fb26-434c-aee7-89cfc48406cf/thumbnail/1200x630/6ddd630ffc4d4d5d252c08853935328d/samsung-jet-bot-header.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Best Robot Vacuum Deals to Shop from the Discover Samsung Sale Event"
     excerpt: "This smart 'bot even has object recognition, helping it avoid items like socks and cables. If stick vacuums are more your speed, we also found incredible cordless stick vacuum options to shop for your home."
     publishedDateTime: 2023-03-22T23:02:00Z
@@ -43,20 +59,6 @@ related:
       - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/vac.jpeg?h=fa9e1e8b&itok=Ib5fhizY"
         width: 1280
         height: 720
-        isCached: true
-  - title: "ECOVACS Launches State-of-the-Art, AI Powered Robot Vacuum DEEBOT T10 OMNI, Offering the Ultimate Hands-Free Cleaning Solution"
-    excerpt: "With auto-grade self-driving technology and smart assistant YIKO, deep whole-home cleaning is just a voice command awaySAN MATEO, Calif., March"
-    publishedDateTime: 2023-03-21T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ecovacs-launches-state-of-the-art-ai-powered-robot-vacuum-deebot-t10-omni-offering-the-ultimate-hands-free-cleaning-solution-1032182114"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/2036998/ECOVACS_T10_OMNI_AI_Powered_Robot_Vacuum_and_Mop.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Best Dyson deals: The best spring cleaning deals on vacuums, air purifiers and more"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."

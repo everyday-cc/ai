@@ -47,22 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Adobe Firefly brings text-to-image AI to the masses, with artist ethics in mind"
-    excerpt: "The question of ethics has been looming in the background as text-to-image ... content credentials will show when original content has been “generated or modified using generative AI. Adobe and Nvidia, along with 900 other members of the CAI, support ..."
-    publishedDateTime: 2023-03-21T13:05:00Z
-    webUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/adobe-firefly-express-ai-image-generation-ethics/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 100
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/03/NVIDIA-AI-Foundations-Image.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Roblox launches its first generative AI game creation tools"
     excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
     publishedDateTime: 2023-03-22T03:57:00Z
@@ -201,20 +185,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Offers More Responsible Generative AI"
-    excerpt: "In a sharp retort to OpenAI and Microsoft, Adobe today announced Firefly, a family of responsible generative AI products and services."
-    publishedDateTime: 2023-03-21T14:27:00Z
-    webUrl: "https://www.thurrott.com/cloud/280845/adobe-offers-more-responsible-generative-ai"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 39
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/adobe-firefly.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Adobe Summit - generative AI takes a front-row seat"
     excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
     publishedDateTime: 2023-03-22T16:21:00Z
@@ -238,24 +208,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Adobe Is Training Generative AI For Its Customer Data Platform"
-    excerpt: "Generative AI isn’t just for creating unsettling art ... large language models for text-based use cases,” Fleisch explained. Translation: Marketers will be able to use natural language prompts to generate their segments and insights, not unlike ..."
-    publishedDateTime: 2023-03-21T13:03:00Z
-    webUrl: "https://www.adexchanger.com/ai/adobe-is-training-generative-ai-for-its-customer-data-platform/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 21
-  - title: "Coke asks consumers to generate art with new AI platform"
-    excerpt: "Coca-Cola unveiled an artificial intelligence (AI) platform that is the first of its kind to combine ... \"Create Real Magic\" combines OpenAI's GPT-4, the startup’s most advanced large language model to date, and DALL-E, which generates images based ..."
-    publishedDateTime: 2023-03-21T13:22:00Z
-    webUrl: "https://www.marketingdive.com/news/coca-cola-coke-generative-ai-marketing-art/645465/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 17
 
 secured: "yufPFsd5uMTNI+So6iFtzSYCqjkqyQoc9055wryV2uqapIxLu9/Guh3Ovqf43B9Yz7oKTnupP45Z1uue+AF2Zrh5+bZyCY+GgFXaF9xLSH25qGCoEWjPEZaHGp/kuMFtR5fRXLsyV2tZNFVzGBWPXD4b9s1FlqK4+iw8RU/CNjmoIK9mRhaXB1mHCDQ4uSpTGUSUbPTd221XqfPcvjgd9E7A4sDnAa1Az0p0K62hYs+4SO55csTBKSv3+UrqOusnDQnmlsRjjaVHkwbQnp7RD35lTbnVlhbQOcx/iC38zB/1RnJ6nWtTkyphVBwLughqMN0/P8TGI0zmrhGhWFl9ndDJEoZmNMxdJwgc+/Kg7wE=;ZB63iCz+oMd1Qex6wntsVQ=="
 ---
