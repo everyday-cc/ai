@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://live-production.wcms.abc-cdn.net.au/865775f2ddf234507c5ce6b31bba9096?impolicy=wcms_crop_resize&cropH=379&cropW=673&xPos=0&yPos=21&width=862&height=485"

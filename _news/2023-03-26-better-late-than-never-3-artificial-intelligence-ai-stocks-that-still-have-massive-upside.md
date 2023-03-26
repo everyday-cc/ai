@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg"
@@ -76,6 +77,6 @@ related:
       domain: businessinsider.com
     quality: 31
 
-secured: "8AfC1m8ZyaHSFzWmfKIr8TxmpO/wbr5t55hchHW2+nTlpePq9blk2zmSkIdgZA1dFwn2+yD/gY//uk9DZOLOd5i89mIZbMUkSe2E/qXb4Bso5D6NIHk76mh/zdyURQoAfzM138I9t+1rnXP0GgV0uILqhm75zWk7KYCYfgTgbg2DK3/Ivy9zJGnbdJKlP3OrxqXUBknWwDrlbivlKGoCGHbA6JJOF5rYswwA3YVDJCBJSZr1BbjF/podsirEDbznSVuh83++FitjmSqtmLlGBVPvfjhjFjQh5VuVmpV1z3qEX6MpxwamOp0zpJrxzcbJ1U+KYfzSKV34n1h8HxjeX7oKPVPqNeFPmdiBU+PinSk=;S3hir+FB6AZQrLxAmZ7mGw=="
+secured: "XxX2h2nVpTNWSVGBo4XS8hqnqbXNfdTqLHUGt0DVF0IfDq9Ueh0pRsU31WOoHinbxD/teLNtFP9gzRwsgLMdcFzG2AzeIc1WMHT6IIpIAm9U5y6ZIxsqxyEX4SJZ2S1LhfJ3sZjOS4FSa+Dn8L4HK3QkyUZpLDxspFgwES/asmlsDj9oJfFWKwKhHtk0m3jGxe9BdYzShfLYxPj8hdv/nm4q8v/BktI3dpBtnToXAVab8puiA5cy+w3ygFmAOz2njKxYmdwH14GNF/4XEt+/cOxVlqHrmTZ+Cg2vISpYEesdxQ9mW1ViAekIuwY2nP6bHMieOPDWbaoq7xmUpHEGGutuK4smsWvWMk1bTFSZR3iqaxZXlOySqXmkv6uINJoPdPVT60ooPrchnGG0qL+jaH/MqZ5JtDgk3qI53WvsW/pDfjuou2oSFeAaSqsiDTrZYJ+l8OHfOS0hnYQNEnksWTxe2zww3xMWbCJFCLwKF3UlyPWwCoKu4gCmqhC+gTsW1kbN9fg+pFyuoATJ2nZIDg==;6GkVb5j77B+OHLMrQiBiAQ=="
 ---
 
