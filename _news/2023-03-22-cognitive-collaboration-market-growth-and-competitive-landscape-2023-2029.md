@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global Automotive Speech Recognition System Market to Grow from 2023-2026"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global Automotive Speech"
+    publishedDateTime: 2023-03-24T11:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-to-grow-from-2023-2026-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Software Market | Global Various Tendencies Industry Report 2029"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- [122+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Computer Vision Software Market” Size 2023 Key players Profiled in the ..."
+    publishedDateTime: 2023-03-24T14:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-global-various-tendencies-industry-report-2029-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029"
     excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial"
     publishedDateTime: 2023-03-22T09:44:00Z
@@ -43,34 +71,56 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market Analysis: Explosive Growth Opportunity by 2029"
-    excerpt: "Based on the Artificial Intelligence and Cognitive Computing market development status, competitive landscape and development model in different regions of the world, this report is dedicated to providing niche markets, potential risks and comprehensive ..."
-    publishedDateTime: 2023-03-23T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-22"
+  - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
+    excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
+    publishedDateTime: 2023-03-21T13:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-report-global-forecast-from-2023-to-2029-2023-03-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 57
+  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
+    publishedDateTime: 2023-03-23T09:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Generative AI and GPT-Powered Legal Tech Announced at Legalweek 2023"
-    excerpt: "In addition to GPT-4, Leah also uses ContractPodAi’s own proprietary AI, combined with Microsoft Azure cloud. “What is unique about Leah at ContractPodAi is that it is embedded with an end-to-end CLM platform,” said Atena Reyhani, chief product ..."
-    publishedDateTime: 2023-03-24T14:10:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/24/the-generative-ai-and-gpt-powered-legal-tech-announced-at-legalweek-2023/"
+  - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
+    excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
+    publishedDateTime: 2023-03-24T10:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-report-global-forecast-from-2023-to-2030-2023-03-24"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 40
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/ChatGPT-767x633-2.jpg"
-        width: 768
-        height: 633
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
+    publishedDateTime: 2023-03-22T03:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
+    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
+    publishedDateTime: 2023-03-23T19:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
 
 secured: "LD4aNIvn6g8S1lnnnQb0nbwzy3GV8i6lIw1i+McuSShqnlU2UasoDb5zVVyEzIhjUwTE2yhCt/n2r3vViuNknbWZHssvK1SfbZWZMfBrHNxa7xJkzUi1yuDQFyCjYXTAfRDVgysXFEO7t/R5PakAgioTqimQ8jRJ2DTuugR8rL30KtXhyw2d5WGqHQShC1u6awsoVlWCWovnT2NwLQuU/HZBfYujBiwhHBqBHJufXTKOi2WHB2y+nDogP5VRgEzZUHWTTR4PadjW886FgCVwlWBddNgWHUkPVNE5BBEA+ycNRBAB4AyKniCHWuc1HHRzfkP5sGtQfQNV3AM2LSGWWTvJJaug0AXWq/pPXRBRejQ=;GCg0Z/QvWLM/SpjdD628Mg=="
 ---

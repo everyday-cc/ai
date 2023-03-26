@@ -263,6 +263,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
+    excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
+    publishedDateTime: 2023-03-25T20:34:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
+        width: 620
+        height: 372
+        isCached: true
   - title: "The Morning After: Google expands access to its AI chatbot, Bard"
     excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
     publishedDateTime: 2023-03-22T13:12:00Z

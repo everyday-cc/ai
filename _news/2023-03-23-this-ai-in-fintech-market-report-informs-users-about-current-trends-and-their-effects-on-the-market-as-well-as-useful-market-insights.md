@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
-    excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
-    publishedDateTime: 2023-03-23T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/get-your-hands-on-the-ultimate-mobile-phone-facial-recognition-technology-market-research-report-2023-2030-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market Size, and Research Report 2023 Consumption Share, Applications, Types and Forecast to 2031"
     excerpt: "Mar 22, 2023 (Alliance News via COMTEX) -- Report Ocean's recent report provides an accurate and comprehensive research analysis of the Cloud Natural Language Processingmarket with a primary focus on the present and past market conditions. The global Cloud ..."
     publishedDateTime: 2023-03-22T22:43:00Z
@@ -85,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
-    publishedDateTime: 2023-03-23T19:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-innovations-and-future-expansion-2023-2029-2023-03-23"
+  - title: "Global AI Accelerator Market [2023-2030] | Gain Valuable Insights with Our Statistical Report"
+    excerpt: "Mar 24, 2023 (The Expresswire) -- Global AI Accelerator Market Status and Prospect | New Report [2023-2030] of 96Pages | Industry report provides an outline of the business with key Types [Graphics Processing Unit (GPU), Vision Processing Unit (VPU ..."
+    publishedDateTime: 2023-03-24T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-accelerator-market-2023-2030-gain-valuable-insights-with-our-statistical-report-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 38
 
 secured: "FYxJwlNBDllPrZMFmx5N9zbBxhAxIGP2Ta1aWgdaY1xrD6u8pZBLU1GVMg6ezGyILE6xxrkRKhA6f+iuYSMv8S2cos/H8GDpsyrwgl2Aeo9H4iGRiUuyEoqlWzEwne7hQRiOAsC3RbX9ReOPPlTE7Sz9cGxUhxlwnPDn+0oTUnwKYpyhPfB5Y6BO2jJB+1DwdHiLTHpW27aOlyNHQDiBRxVvQgNzqJDqHSIS0drh9pfAHJ6Qh+wl/FiXTW4C+4PY6+oLuhNHR34aS6g1BY6SMslDXYjf+y581WvTjP4ohQiqcYnlOybMvT+Qkjkznbg4v18HvUDOXVtxM49BON/1O5aUfDUC4eBaGlQzFC5AWkk=;eM5wXD0q/+vWK2IXRJ2//w=="
 ---

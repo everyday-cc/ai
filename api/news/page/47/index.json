@@ -2,59 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2023-02-10-deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
-      "title": "Deep Learning Processor Chip Market to Grow Significantly by Leading Players 2023 to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 09, 2023 (The Expresswire) -- \"Deep Learning Processor Chip Market\" Size, Share and Trends Analysis Report 2023 - By Applications (Automotive, Consumer Electronics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-02-10-ibm-says-its-been-running-ai-supercomputer-since-may-but-chose-now-to-tell-the-world.md",
       "title": "IBM says it's been running 'AI supercomputer' since May but chose now to tell the world",
       "excerpt": "IBM is the latest tech giant to unveil its own \"AI supercomputer,\" this one composed of a bunch ... CFO links layoffs to Kyndryl, Watson Health IBM top brass accused again of using mainframes to prop up Watson, cloud sales IBM shifts remaining US-based ...",
@@ -1150,6 +1097,49 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-a-soft-robotic-tentacle-controlled-via-active-cooling.md",
+      "title": "A soft robotic tentacle controlled via active cooling",
+      "excerpt": "Robotic systems have become increasingly sophisticated over the past decades, improving both in terms of precision and capabilities. This is gradually facilitating the partial automation of some surgical and medical procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-soft-robotic-tentacl.jpg",
+          "width": 524,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-soft-robotic-tentacle-cooling.amp",
+      "publishedDateTime": "2023-02-09T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -48,36 +48,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "OpenAI-powered app from Microsoft will instantly transcribe patient notes during doctor visits"
-    excerpt: "Microsoft and its Nuance Communications subsidiary announced Dragon Ambient eXperience (DAX) Express, a clinical notes application for healthcare workers that is powered by artificial intelligence."
-    publishedDateTime: 2023-03-21T08:40:00Z
-    webUrl: "https://www.cnbc.com/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/20/microsoft-nuance-announce-clinical-notes-application-powered-by-openai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 109
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107183754-1674658141197-gettyimages-1459359021-_r7a9120_a787ccfd-5888-49a9-b381-b96bf2bf1cd0.jpeg?v=1679499024"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Introducing GPT-4 in Azure OpenAI Service"
-    excerpt: "Today, we are excited to announce that GPT-4 is available in preview in Azure OpenAI Service. Customers and partners already using Azure OpenAI Service can join the waitlist to access GPT-4 and start building with OpenAI’s most advanced model yet. With this milestone, we are proud to bring the world’s"
-    publishedDateTime: 2023-03-21T08:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-gpt4-in-azure-openai-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/318a6dc5-e32e-4418-8699-20f05752939d.png"
-        width: 900
-        height: 400
-        isCached: true
   - title: "Microsoft's Bing Adds AI Image Creator Powered By Dall-E"
     excerpt: "E, to encourage \"responsible use\" of the AI image generator. Microsoft launched on Tuesday Bing Image Creator, an artificial intelligence-powered image generator, which the company says will make the search engine \"more visual."
     publishedDateTime: 2023-03-21T15:08:00Z
@@ -93,6 +63,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/51bc512df0a7fcf9cbd9bff203649bb9961e637a/hub/2023/03/21/72c5b735-0d39-45be-919d-3af6f32e03cf/screen-shot-2023-03-21-at-11-06-04-am.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
+    excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
+    publishedDateTime: 2023-03-26T01:07:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641f96ad5984a6dfc1580d4a/0x0.jpg?format=jpg&width=1200"
+        width: 1051
+        height: 700
         isCached: true
   - title: "Artificial intelligence dubbed 365 Copilot coming to documents you write, Microsoft says"
     excerpt: "Artificial intelligence tools like ChatGPT are taking over the landscape of our everyday lives, and now Microsoft has just announced its own tool called 365 Copilot. It's meant to help people with work-related tasks, so anyone using it can be more productive."

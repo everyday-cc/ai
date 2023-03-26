@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-22"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -26,50 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "LegalTech Artificial Intelligence Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “LegalTech Artificial"
-    publishedDateTime: 2023-03-22T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legaltech-artificial-intelligence-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
-    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
-    publishedDateTime: 2023-03-22T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Generative AI and GPT-Powered Legal Tech Announced at Legalweek 2023"
-    excerpt: "In addition to GPT-4, Leah also uses ContractPodAi’s own proprietary AI, combined with Microsoft Azure cloud. “What is unique about Leah at ContractPodAi is that it is embedded with an end-to-end CLM platform,” said Atena Reyhani, chief product ..."
-    publishedDateTime: 2023-03-24T14:10:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/24/the-generative-ai-and-gpt-powered-legal-tech-announced-at-legalweek-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 40
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/ChatGPT-767x633-2.jpg"
-        width: 768
-        height: 633
-        isCached: true
 
 secured: "JqkPHqUavKPU5yxjsAZPwdLrUhf2WkBhwqB3MCG0AVj5pBT+9Qe5veIR82A+Wn3/FJsIGs9CtUuoTblZVs2taA3m8oogFX10i1zS9z6+9UrKFu+rDgtEX7X55fNwrNWhAWn7mXsM8C+l3zHjeiK7PbkSK6mRJg9R2Lia35xAX6KHKjJgXW/oZxxltOzvxhZD2b6B2+/7NDMC2z6aQxtI/AaboWoTgyMQ1vq9XJ0hOnTfGZThxgBcv74N4htzSNsHSFCUsCEpDXutqeK3IQyUJzsgu9j3x7y/xbg+wpzom1OSmFCp4tHAlyinmUad4hSgM0zFbkcx3B7EVNiWqH4j9wPrsg4Zk7f8hHvgg2rUOzY=;phH0VjFY0jUpmJ/7aevoXA=="
 ---

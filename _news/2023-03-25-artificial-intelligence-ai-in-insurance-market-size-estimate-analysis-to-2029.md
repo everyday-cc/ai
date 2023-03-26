@@ -302,6 +302,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence AI in Construction Market: Latest Growth Research by Top Players 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 25, 2023 (The Expresswire) -- The “Artificial Intelligence AI in Construction Market” [80 Pages] offers comprehensive analysis of both historical and future ..."
+    publishedDateTime: 2023-03-25T22:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-latest-growth-research-by-top-players-2023-2028-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in sextech Market Size by 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Artificial Intelligence in sextech Market\" study describes how the technology industry is evolving and how major and emerging players ..."
     publishedDateTime: 2023-03-24T16:02:00Z

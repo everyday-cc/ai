@@ -112,6 +112,22 @@ related:
         width: 644
         height: 362
         isCached: true
+  - title: "Bill Gates weighs in on the future of artificial intelligence"
+    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
+    publishedDateTime: 2023-03-26T01:39:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "KiwLDqSWrzYW/rLvyIgZp0OQ62vb4H+YNZEAWWLTiz9H8JcrYQsP+Z2YyS0kyOIWmXBrZBgq0qIwmKh6BAuJSDQ8+nx99RGZTtnLScyQWJJCkxmw45qdMzmAkR56H3WuvZStJruuHsn/zjpLxkwYPzfytHGXoP0jzUxBSkFwlvkAdpfxwNnHyuCgjaavdE2OZWCPofKG6ldO0yP4bcsO4OA4D1etuP+HItiCBJanKVLN7ECGQbtsyA+DbyHPmA+90dJAlgwvlnyHZW3uGWSSkfkcODzHv5OvEn9CUrvRg/5ZFqrCVjBU5/U8r9ymt3LbJhCQ9rWeaxa7t+XmxAhGoKThhDAO1ec8qMAWB1TioqnL/K1eWf8woepMNTcb2W7igev4ZiL4oieYnq9ZcuGsQ/9nYN9SDGH4+pIweuzlBz1YoaepFXOq3sanc6rKBo6DJg9L7A+ymQINXpfutnhAAKJdNEAd0A4Xhb81RVx6F+amNwzHT8/v5h+fUaMZM1sOD+9ySQkWs7StE2VfE6eZYw==;/MmrUIay+gU17P5RXP7BIA=="
 ---

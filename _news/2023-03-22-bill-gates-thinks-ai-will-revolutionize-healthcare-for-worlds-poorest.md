@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/03/21/bill-gates-thinks-ai-will-revolutionize-healthcare-for-worlds-poorest/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -101,6 +101,22 @@ related:
       - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
         width: 644
         height: 362
+        isCached: true
+  - title: "Bill Gates weighs in on the future of artificial intelligence"
+    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
+    publishedDateTime: 2023-03-26T01:39:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
+        width: 640
+        height: 428
         isCached: true
   - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
     excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
