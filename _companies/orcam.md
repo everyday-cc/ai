@@ -2,7 +2,7 @@
 name: "OrCam Technologies"
 overview: "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence."
 type: "profile"
-heat: 57
+heat: 71
 
 website: https://www.orcam.com
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=jx2zOrCTvcA"
 
-secured: "hT4bRtbBb3Win3xwC+f7KLs+HXOZf2sYXfJL4eXHhkEqpPG3zGMzcW43qcdmE+HR0wNeHo6GZ5iNOvy1PCFuq0qpVAoFMCxeeZsx30G/jp84O4iUjyuC3U/67pZ2nTTGvp5JExOp081Jk2eRd2AzyxBMR5IMP5rsKu9m0ES0Qdj/q80kfd25ntVDpW+FhMQGFL6nUN7rRozgVDeyA44DlfHjSYN85Nzn2F7N/oAvoNKpQbKSorXLjWG+nd+kSAIec8Xg+CE/AiH2WwyC6QPctxvAje6uhPt6dy0nVomfKZd+NtaBzJnYJWKT6KjNR13K85cf6Uzobd6xv3YSE6mPBWI8J0OdQVc2vF1LNv++Ur4L3vxy57q1ydcoWmOkoUZKe4iMr/o7ud3R5z/qCPNVVBNCw99azn76gB1wb3IYDfQ=;BKxFbyL+XmwxAMysLGq+vw=="
+secured: "Df3Gpuk0vkUUqUyvvOzG8Jhp29A/G1M/d9191L3D2KMJ7D5HItI1zzLlBnKoV/GBjU+ZZngPa/8+4j7cEQ98xfXVSTlvNZw4nVhsqNO35UeuqrFPYfL332E6A4MGN5yDKNGCAgPHb71Zvz34aq4mwqr7wUq1H9j7lGdEQe0hp+ua9L+wWeQ8hqiFbU4npWzGqd85IdmD+pxzDtvCSmlCeiS257mbqQP2BZ44r7sFnT4jX+GznvCFa77pbosc+M2wh6X7TArboWIjOzj+9IkxpA1fIoDcV9eUPzGBQDTVdhQcgPk/O1guogK4kMitKPtXaD9h64PQFlg3rMLmqLzKF5nKzPoZNBUm5HWmrp+aSbpYgp86InPtG0lBCiYXL/p5ly1ccqrQGtitOA4oYa59kNusyDJ3yKgdTXoq+Ebwk4s=;HKB9O5L+CZTt8D/xGCzB+g=="
 ---
 

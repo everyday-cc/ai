@@ -2,7 +2,7 @@
 name: "SentinelOne"
 overview: "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection."
 type: "profile"
-heat: 212
+heat: 235
 
 website: https://www.sentinelone.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SentinelOne"
   url: "https://twitter.com/SentinelOne"
-  followers: 40155
+  followers: 40154
 
 size: 201-500 employees
 yearFounded: 2013
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "3bE2Jie9my2HpdunIAvs/BGNSexS9tDc2t7yaWGk212w1MhwuTa7JLABjGz7u0FQ0fPOFxaogVvZVnFy3PLjuNe/azsgZCe7FBi44U2Rh5K+2mGkpB9D2Mn5f/8+Fm3Zf1Eh7WqP+N+TrojU3aqO1yBdAaimCJaUlXHsK6mANrGHX/PuQNUrOQVwXMSklYvwWH1Zys8NCESK6DCGVk1lI9RJ158IK8tIptNMqaIOhfoK6UVNppb3uwP4njmS+J9OVW5UE9CfGo/WqZykSC44pS7+SNmqQ3n/fXcp8+qEdrYYwJJZnKzyM8imhjs14xp1Uup+tiOwEb/xXnMQBsS6pJ7/yJhLldNA02d28GFjXkGYgGTfpeERkJn1vBNhtqyyFkz72dAv+X545Twa96IdtE+eVVjx2tlG+AURGPBQtXQ=;ZrUugFrFK4rXJpYW6J+qWw=="
+secured: "6lZjaVjvXeEnN1ta4GgVSUj6G38SZ5uklUWexqNNaRS7cb+JnsdP9e48Fnah35Icx2owSsJ2zzTYWlbEg/Ua192PkSJnwa7r0uDuw9JF/6u8HCZcRORGGtf0cOsg4B59uOWPjZBT3LIXO/lhfzDNWzZSofMolx6Unkgeen51zH/oVidkSnZkzbwcq6Bcrobm/4K3LucmtDQclI8S+uEMHkGaYamNwLGMmWFywXgNZNhg1hEBSQesXmojkrhyFgz5WpLHZ80Em6hfkP2UUrhEA1/7+HJH20eB9oRPNKpyIIi5GybbecES8ibBS8WLdtYnKJ5GTZA2oWqLWpHz9oDrnngNShBfsVSqX0C4jqQZD87zK0KYPyrTza5oXn3FXa9cCYfV8kVy+Z7jwkdQdo7t1aYX+YekIVpX+C+jyV+JSLk=;9YHCHSzj30S8vt6bG0Jsaw=="
 ---
 

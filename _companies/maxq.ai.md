@@ -4,7 +4,7 @@ otherNames:
   - "MedyMatch Technology"
 overview: "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://maxq.ai/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KlK9C4s1lvo"
 
-secured: "c5zYxYUogyXhG1qdrkYt0kIvuIXvwie4ggMZLRocuaFxbJbba6xzDXgzTMXsyuNSJORsAKTMzfsf8eiwgZnIc/TWpVW5CChGbMGYomOeedO7clGBfm81wxV8gIuuRFcRcBBji0XdLxtd+q0D7UHjzD1IrarwqCXXYpA4loizw6csySpH8YaRsZGM5Fq5P+o0IbEeNgmFjENrv+0Oh9oNi7MXcmi3lE6qTl2xgiVxnlRdmZB4ZNdqsXtn17k9onrz3WQkDq1v7YlXYRznB0uEi1VLBoO3f6vCapgMlDQf8pcWv9EI5/wr9n3+1GoUPpQAkJipqzKC9QoiJPmzaUe9i5Y8869YwXDodId6eIqVP3SrRWeym+FY9gomL+B10jc2reKpH38TgQW15R5fl4GM2A==;eMTqX2T297dWYhd23ML+FA=="
+secured: "YL1cn3veeFSbAt4Zc26WVMWsMuCwuf1I0XxaVElNJIBuebD454ofM49eWTuULdmcbRw3IpKesGw1htrQzLSk9FTLkv2frfhSWM2rtNNBPn2xgUFw9bhORoc3Cq0bOo+OAtAjn+MMbPnqA8OxGDTmCZ+esKn4UK7IJ/TELGMYqw89gpcwt4Zvs1bfZZnFYdb61R1hHwC8SoNRiExKEu87UTdHTuhfJLLn6ei4zcnaZZ87aFMN+0blOcGeYj/TtFou4hc1OJfrx+aD8XlTXVg94vmigfjNZs7Dq1DcYbODTwoi0gs/P9OoDyNtuEvK00dNBMeSclIa4DQv9MJUX4xPQ9W3P2IB8yqNykSOun7XzhvArmtrBJc8tH2wIfZdUScXp3y+thgyOLFOub364+nD5w==;rUoy3SPZLfW7dpIXERjSjA=="
 ---
 
