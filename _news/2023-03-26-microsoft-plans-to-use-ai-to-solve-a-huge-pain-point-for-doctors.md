@@ -331,22 +331,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In the LimeLight: Syneos Health, Microsoft to bring AI to clinical trials"
-    excerpt: "Utilizing Microsoft Azure services, Syneos Health has developed an advanced analytics platform that enables agile deployment of machine learning (ML) supporting the analysis, design and execution of clinical trials and commercial programs worldwide."
-    publishedDateTime: 2023-03-21T09:51:00Z
-    webUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/"
-    ampWebUrl: "https://wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/21/in-the-limelight-syneos-health-microsoft-to-bring-ai-to-clinical-trials/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 73
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
-        width: 794
-        height: 446
-        isCached: true
   - title: "Microsoft adds Image Creator to Bing, plus GPT-4 now available in Azure OpenAI Service"
     excerpt: "“Coursera is using Azure OpenAI Service to create a new AI-powered learning experience on its platform, enabling learners to get high-quality and personalized support throughout their learning journeys,” said Mustafa Furniturewala, senior vice presiden ..."
     publishedDateTime: 2023-03-21T18:29:00Z
@@ -397,20 +381,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Biotech AI startup Unlearn adds $15 mln and OpenAI CTO to board"
-    excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
-    publishedDateTime: 2023-03-21T09:12:00Z
-    webUrl: "https://www.reuters.com/technology/biotech-ai-startup-unlearn-adds-15-mln-openai-cto-board-2023-03-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
-        width: 1200
-        height: 628
         isCached: true
   - title: "How AI experts are using GPT-4"
     excerpt: "Several leading AI companies had major product releases. Google said it was giving developers access to its AI language models, and AI startup Anthropic unveiled its AI assistant Claude. But one announcement outshined them all: OpenAI’s new multimodal large language model,"
@@ -636,15 +606,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Smartest Thing About Microsoft's Copilot AI Feature Is the Name"
-    excerpt: "This brings us to Microsoft's announcement last week. At an event streamed on LinkedIn Microsoft's CEO, Satya Nadella announced a new AI-powered assistant for its Office productivity software, called Copilot. The entire demo is impressive, and, at only a ..."
-    publishedDateTime: 2023-03-21T09:56:00Z
-    webUrl: "https://www.inc.com/jason-aten/the-smartest-thing-about-microsofts-copilot-ai-feature-is-name.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 34
   - title: "Microsoft Bing’s New ‘DALL-E’ Feature Lets You Create AI Images"
     excerpt: "On top of adding pressure to its workforce, the search monolith also recently invested $300 million in the AI start-up Anthropic, which was founded by a former employee of OpenAI. This investment falls majorly short of Microsoft's recent $1 billion ..."
     publishedDateTime: 2023-03-21T19:04:00Z
@@ -691,6 +652,6 @@ related:
       domain: moneycontrol.com
     quality: 6
 
-secured: "uVgJJehugojNhgeaJcsls9K9oqVnzhR7SP9zPr2O92qVM7w2+saAynaaIULyYR9mqRx22r7YOzUJ4lUPwlF58HA8mXG5EECSgp0O1j0SIO7NZj3l1da8ug7gyBG+R9HDGh2UKLIlBpEvDp6j4Gti65cF2hAcl4Ydw/iHt5Aq7oJ1e1nzd8t4ptXsv8yhUSKjSaxOxvedXTFMrzzjKiNL1juoROtEEt9SOF7U2e0SJPS42keKDdKsPzxHex6/6ftO5TtpOwF6TB11BkdTSQAXAEprTTZkcA6OfhZiqkolfEyltjtf/oR3zOHubLujz+9gvnvIkqAINntCq0jXGVk48v3L6JnBwLbn3EYDwP/yIjY=;SmT0Bm2citFqJ+341pT6+Q=="
+secured: "xN/1BGCfJbD6m3NAVksLtjIAgRJY8Fwf+CNy+uxeiHJSt5BmznYaaym69P/UopI69QvmYMfiXR7RQDGoFW2wlm2gSOfNjPx9HV7IIOZ21Xh3sUUvZ/3JKDOM7z/QrtQtt7DUvCG62yRGwxlbgtCtqHNzN2SlZY/nvG4lTL1Ikg62WwzNOmXlALFZv+9zKRJXifTXcDuQPAvGemLcMoU4+B3eqjkL9ThRF2tmGRtuEtn+ZEx9BZcfWAoSdiYxKHWLlKKw62IlmMd4gveCCRpmlZb5q731ZoNZL59UcwltGZFrpyywobo673JDrenwfax5MLHvtx2xRaW/O/9WD1okNnMT/JIO5yeW/inZzuR/Sc+xTV9EbrGBVASzT9nsm9+uRt7gOCLHQEAIDHaRq2Dx2xtATAjG7K3e2IGflA/IJEBtOyfFbiphM151uqi8rIp11eVZSKHYXlbhLrMqC0VZMTfo0+olX0OO5MgCPR2mCg78C247qI7LHeBh+efQ00ikZfPhNexDwndTgSOeHJz23w==;g2BLyXQu4mcgecdKKx5zQA=="
 ---
 

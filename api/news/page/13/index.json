@@ -1055,49 +1055,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-14-popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gaps-and-coach-writers.md",
-      "title": "Popular AI-Powered Writing Platform, QuillBot, Launches Translation Tool to Help Bridge Language Gaps and Coach Writers",
-      "excerpt": "CHICAGO, March 14, 2023 /PRNewswire/ -- QuillBot, a pioneer in the application of AI to help individuals improve and perfect their writing skills, today announced the launch of a powerful new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31340022/popular-ai-powered-writing-platform-quillbot-launches-translation-tool-to-help-bridge-language-gap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant.md",
       "title": "The tech behind ChatGPT could power your next car's AI driving assistant",
       "excerpt": "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing",
@@ -1199,6 +1156,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-14-agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable.md",
+      "title": "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable",
+      "excerpt": "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "originalUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/",
+      "publishedDateTime": "2023-03-14T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/report-on-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24"
 type: article
 quality: 97
-heat: 297
+heat: 307
 published: true
 
 provider:
@@ -215,6 +215,20 @@ related:
     excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence (AI) in the Freight Transportation Market 2023 with 105 Report Pages and enhance with self-explained tables,"
     publishedDateTime: 2023-03-22T03:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-report-global-forecast-from-2023-to-2030-2023-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023-2029 Artificial Intelligence In Military Market: Business Growth Research"
+    excerpt: "Global “Artificial Intelligence In Military Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report ..."
+    publishedDateTime: 2023-03-26T02:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-military-market-business-growth-research-2023-03-25"
     type: article
     provider:
       name: MarketWatch

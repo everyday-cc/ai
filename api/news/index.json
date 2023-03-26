@@ -62,7 +62,7 @@
       "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-godfather-ai-possibly-wiping-humanity-not-inconceivable",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -113,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/data-through-a-prism-ai-powered-analysis-key-to-gleaning-data-insights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -312,7 +313,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -794,7 +795,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026-2023-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 297,
+      "heat": 307,
       "tags": null,
       "images": [
         {

@@ -240,6 +240,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023-2029 Artificial Intelligence In Military Market: Business Growth Research"
+    excerpt: "Global “Artificial Intelligence In Military Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report ..."
+    publishedDateTime: 2023-03-26T02:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-2029-artificial-intelligence-in-military-market-business-growth-research-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indian firms use AI-ML to tap US healthcare market"
     excerpt: "Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business. Artificial Intelligence and Machine Learning is changing the way patients are treated in the global healthcare business."
     publishedDateTime: 2023-03-21T13:40:00Z

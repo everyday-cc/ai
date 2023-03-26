@@ -1,28 +1,22 @@
 ---
 category: news
-title: "‘If not now, when?’: Emotional PM unveils Voice question"
-excerpt: "“Today is a truly historic day. Today we take a big step forward on the long journey to constitutional recognition through Voice,” she said. “This has been a rigorous and comprehensive process. Australians can be confident that the work has been done ..."
-publishedDateTime: 2023-03-23T01:24:00Z
-originalUrl: "https://www.afr.com/politics/federal/cabinet-to-discuss-indigenous-voice-wording-20230323-p5cuj8?post=p54os4"
-webUrl: "https://www.afr.com/politics/federal/cabinet-to-discuss-indigenous-voice-wording-20230323-p5cuj8?post=p54os4"
+title: "South Australia becomes the first state to introduce First Nations Voice to parliament"
+excerpt: "Picture: NCA NewsWire / Brenton Edwards “It is my pleasure as South Australia’s 36th governor to give assent to the First Nations Voice Bill 2023,” she said. “Today I restate my commitment to supporting recognition in our state, and working side-by ..."
+publishedDateTime: 2023-03-26T02:45:00Z
+originalUrl: "https://www.theaustralian.com.au/nation/south-australia-becomes-the-first-state-to-introduce-first-nations-voice-to-parliament/news-story/4b77956aaa3a6f9705eb2f6bc41cc39c"
+webUrl: "https://www.theaustralian.com.au/nation/south-australia-becomes-the-first-state-to-introduce-first-nations-voice-to-parliament/news-story/4b77956aaa3a6f9705eb2f6bc41cc39c"
 type: article
-quality: 24
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Australian Financial Review
-  domain: afr.com
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://static.ffx.io/images/$zoom_0.3252%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/df38d725996eb16f6833067fb7b4add2833502b9"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Australia unveils referendum question on Indigenous recognition"
@@ -172,6 +166,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "‘If not now, when?’: Emotional PM unveils Voice question"
+    excerpt: "“Today is a truly historic day. Today we take a big step forward on the long journey to constitutional recognition through Voice,” she said. “This has been a rigorous and comprehensive process. Australians can be confident that the work has been done ..."
+    publishedDateTime: 2023-03-23T01:24:00Z
+    webUrl: "https://www.afr.com/politics/federal/cabinet-to-discuss-indigenous-voice-wording-20230323-p5cuj8?post=p54os4"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3252%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/df38d725996eb16f6833067fb7b4add2833502b9"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Voice Referendum question has been announced. This is what it means"
     excerpt: "The government and the Referendum Working Group also announced the proposed wording that will be altered in the Australian Constitution if a 'yes' vote is successful. Australian Prime Minister Anthony Albanese surrounded by members of the First Nations ..."
     publishedDateTime: 2023-03-23T00:11:00Z
@@ -268,16 +276,7 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 9
-  - title: "South Australia becomes the first state to introduce First Nations Voice to parliament"
-    excerpt: "Picture: NCA NewsWire / Brenton Edwards “It is my pleasure as South Australia’s 36th governor to give assent to the First Nations Voice Bill 2023,” she said. “Today I restate my commitment to supporting recognition in our state, and working side-by ..."
-    publishedDateTime: 2023-03-26T02:45:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/south-australia-becomes-the-first-state-to-introduce-first-nations-voice-to-parliament/news-story/4b77956aaa3a6f9705eb2f6bc41cc39c"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
-secured: "ycEfE7E7FSZi+9vfy7XObco9hAQVggEuOw1NhtWXWCaJaRcphAKnktr3PvCVOXDs8p/W/iuvB8rVQe0B027Cq6rQwAjXWGEd6PpmqfosEHDoqkHuHl2UWDt6MXSIVQicpi/IQ5M4zYKjF8ocGGAAuISPMegdPEdv7BLIW18pHTMNtYJilPv/hfSuxFTUWg/gUwJydMHaeGqz0L4JDqrJA5XCZ7GUW5v1hqRu43i5kAdCWNMKFC08R7yIwkyPRr/Y1UnC6SjDoPlvvnMEN8cZPmQQqyBcvHuGiiQJjuOukpaMCX55CclBVv9+nDgDKfq/IQPZMUcer/twp7dcVFZQVavWTZACzYGTySVQpG1M8Pw=;O4H5xKTcoNCeC9f7bZPEYw=="
+secured: "irEpmcHcqyWJ12X4gTjYgE2jKnNObThawoHk8z4jUzCQi1AepJFekvGFHtkklGric2RQc6oV4LKzCrJDa0qrzdPlrkEycUIumYg8YUUn7HZi3C7s6Zy2ZpIJavRxFsMU6hi1ZIH/X0ndsTVP/R2XZ41Tz2ccqr4EHnsXgMLVuMgdxNqImKIl7N1unDAWSqacGu1LOn3+fv4gfiGd7LJGgvCXhHX1h//D6LSP8VX8FXOmGJhRVIjhLOpqyFaPEM01Ou0zBKKDoPkhHWjoU4QSeXPunFGo2si7TW0brx57aH3Yau6o/LsTAcKliozco38TBmL5w54hgW3ypVEKrE/gHU2fB6cx/dOHHEVhtBAsh1nQFqC00ROoEspYTdK4YaubUK9AEn14ZvdHtaL2B1I+GlYJQHuZ9GvjiLebXvY78ifODqfLmyvsElZnlXSwG8YRzt/Y5bBCNj5H5j1wTxjwVEJ9MKyF1ZsJZiFQOpW/Ej7OuJef5lR+kKd+C5vh1Rx1VFY8uj34JPX97YiW+ZC16Q==;zeISGixz7xRYVClaLKAZhw=="
 ---
 

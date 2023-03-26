@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-c
 webUrl: "https://www.gizmochina.com/2023/03/25/china-ai-ambitions-funding-chip-import-issues/"
 type: article
 quality: 64
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.eastidahonews.com/2023/03/idaho-robotics-teams-challen
 webUrl: "https://www.eastidahonews.com/2023/03/idaho-robotics-teams-challenge-world-competition-in-houston/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 900
     height: 623
     isCached: true
-
-related:
-  - title: "Local robotics team advances in international competitiion"
-    excerpt: "Local students once again are advancing to an international robotics competition. For Inspiration and Recognition of Science and Technology, or FIRST, is an international youth organization that operates several major student competitions,"
-    publishedDateTime: 2023-03-21T10:00:00Z
-    webUrl: "https://qctimes.com/news/local/education/local-robotics-team-advances-in-international-competitiion/article_f90bfc3b-7124-5179-a7e8-37955ccfbefe.html"
-    type: article
-    provider:
-      name: Quad-City Times
-      domain: qctimes.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/f/90/f90bfc3b-7124-5179-a7e8-37955ccfbefe/6418bacde55a4.preview.png?crop=1000%2C525%2C0%2C97&resize=1000%2C525&order=crop%2Cresize"
-        width: 1000
-        height: 525
-        isCached: true
-  - title: "Will Future Generations Use Robots as Emotional Companions?"
-    excerpt: "These robots are often programmed to respond to human interactions in a lifelike way, using sensors and artificial intelligence to learn from their ... can help us strengthen our emotional capacities, start a conversation with others, and even teach ..."
-    publishedDateTime: 2023-03-23T17:45:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/society-50/202303/will-future-generations-use-robots-as-emotional-companions"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "TfPJnc2FUlJaZtSh8OZNAEEkyv8eneovGNG+GjDHepgtgDH14h2k92FBlJKnQoGutJfsQMAOHGQp8oAtMVYuAIALlz73y/YUmFZmPrsZKqhu21qZbggnBd8or62UML5DmoP6VrF2fUV3ajF+hprWF9OW6o1XFAAsPjd5tZy6925mTlslVuGXzFESthSQEFMhFreth3AOMBwN9Dh5rf1ycZMXvORWnxa+GurXBamOCW7LZfCPc+1lWbbeQOClPaPMXS9LzUzO7Js4Df2yMOuLXx+AMVUqVxB+0gSj+O3EpYRBmTfFwRPbTFEjFViQB0ZJ5Ovv5maMjRWGLv3oXcQXL4gk39hiZKM6nsBT/va7aWu0f3VCipH1Hc1fNtpphzHc/u+qldX3TEjbnbMGal2d3oTuERhf25ISva8sKM1zH7rkxwQyl3ZNUja3gygB5vhYDFqdbpzd/tXd9a18N+imcBGOAK2vcmljpDUTdpwjdYnJm349su5coyGnNWlXJUpd7hm+4sodGCDzR1RoCOGnfw==;i/MMvqt0hq2GkXLq1j8d7g=="
 ---

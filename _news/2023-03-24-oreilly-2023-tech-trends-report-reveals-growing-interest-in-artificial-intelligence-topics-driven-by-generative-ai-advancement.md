@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 10 Investors in Vietnam Backing Emerging Fintech Startups"
-    excerpt: "A look at ten VC firms in Vietnam that are helping shape the domestic fintech market and which are still actively looking for investment opportunities in the sector."
-    publishedDateTime: 2023-03-21T09:05:00Z
-    webUrl: "https://fintechnews.sg/70212/vietnam/top-10-investors-in-vietnam-backing-emerging-fintech-startups/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/03/10-VC-Investors-in-Vietnam-Backing-Up-and-Coming-Fintech-Startups.png?x90673"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "16 companies from across the globe selected for Isle of Man fintech innovation challenge"
-    excerpt: "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide."
-    publishedDateTime: 2023-03-21T10:15:00Z
-    webUrl: "https://www.internationalinvestment.net/news/4086938/companies-globe-selected-isle-man-fintech-innovation-challenge"
-    type: article
-    provider:
-      name: internationalinvestment
-      domain: internationalinvestment.net
-    quality: 15
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/2f76d9a/9131743a-8cf3-448a-b2ee-92e9853ab5f8/4/fintech-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
     excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
     publishedDateTime: 2023-03-24T09:14:00Z

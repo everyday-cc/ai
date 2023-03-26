@@ -268,6 +268,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 9
+  - title: "South Australia becomes the first state to introduce First Nations Voice to parliament"
+    excerpt: "Picture: NCA NewsWire / Brenton Edwards “It is my pleasure as South Australia’s 36th governor to give assent to the First Nations Voice Bill 2023,” she said. “Today I restate my commitment to supporting recognition in our state, and working side-by ..."
+    publishedDateTime: 2023-03-26T02:45:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/south-australia-becomes-the-first-state-to-introduce-first-nations-voice-to-parliament/news-story/4b77956aaa3a6f9705eb2f6bc41cc39c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "Oj0EwU2l08bbELEai8sc2TyBZUAvE9p+9v3QJj/k0cISLKV3qdXGQWIsmVG2xVzJYn11tvQJQ7/NUJDVUoZ5mP9XpmAGj+lkQDqz57wPEM7HsosfQU2JFOj4r17mT7zuii2SUWd+Q5VQr0Z7CC3wwbwPiYNOEZ78nILbmWzziXRc4BJFlFnK4O1e+kSacc2RpRlVkSIuucfOONmEgOvfX4fFCDsoSnymiphg8GHNW/4SzCkVczCuh1QgLMHqJxrxl8NwuniONTvpCKRTk9JbhtI0pgFqHvgQbjQ+ma4idBAKxsL89WwbOPFu7kajTn2m/Km7Pv1MWDJyrjh+04CY32t/nuMaLdjL7cSj0/07HXM=;QloNePuCSHWpYqp9Q+gokg=="
 ---
