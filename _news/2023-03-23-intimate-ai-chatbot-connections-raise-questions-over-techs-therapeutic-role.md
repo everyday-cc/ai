@@ -189,22 +189,6 @@ related:
         width: 5561
         height: 3707
         isCached: true
-  - title: "Why did Stanford take down its Alpaca AI chatbot?"
-    excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
-    publishedDateTime: 2023-03-22T00:42:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "China keenly developing homegrown AI GPUs for chatbot apps"
     excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
     publishedDateTime: 2023-03-22T09:29:00Z
@@ -280,20 +264,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "Google Opens Up Access to Bard AI Chatbot"
-    excerpt: "Google today began allowing users to sign up to use Bard, its AI-powered chatbot that rivals Microsoft's Bing chatbot. First announced back"
-    publishedDateTime: 2023-03-21T23:23:00Z
-    webUrl: "https://www.macrumors.com/2023/03/21/google-bard-ai-chatbot-waitlist/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/muWO1r_6WOX08sxfZrkWN0GeVFU=/1600x/article-new/2023/03/google-bard.jpg"
-        width: 1600
-        height: 872
         isCached: true
   - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
     excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"

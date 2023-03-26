@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
 type: article
 quality: 104
-heat: 344
+heat: 334
 published: true
 
 provider:
@@ -204,20 +204,6 @@ related:
       - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
         width: 675
         height: 448
-        isCached: true
-  - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
-    excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
-    publishedDateTime: 2023-03-21T23:26:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/21/microsoft-previews-gpt-4-ai-model-on-azure-openai-service.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
     excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."

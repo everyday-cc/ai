@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/trump-arrested-putin-jailed-fake-ai-images-spread-online/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI platform allegedly bans journalist over fake Trump arrest images"
+    excerpt: "Yesterday, about 50 AI-generated images imagining what former President Donald Trump’s arrest would look like spread across Twitter. The images caused confusion for some users because the Midjourney v5 engine used to create them generates such realistic-looking content."
+    publishedDateTime: 2023-03-22T17:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/ai-platform-allegedly-bans-journalist-over-fake-trump-arrest-images/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Trump arrested? Putin jailed? Fake AI images spread online"
     excerpt: "Fake images of former President Donald Trump being arrested by New York City police and Russian President Vladimir Putin behind prison bars have flooded social media in recent days. Both"
     publishedDateTime: 2023-03-25T09:30:00Z

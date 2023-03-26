@@ -7,7 +7,7 @@ originalUrl: "https://www.accountingtoday.com/opinion/sages-harris-why-artificia
 webUrl: "https://www.accountingtoday.com/opinion/sages-harris-why-artificial-intelligence-will-improve-accounting"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How AI is Creating Explosive Demand for Training Data"
+    excerpt: "Artificial Intelligence (AI) has rapidly evolved in recent years, leading to groundbreaking innovations and transforming various industries. One crucial factor driving this progress is the availability and quality of training data."
+    publishedDateTime: 2023-03-26T16:59:00Z
+    webUrl: "https://www.unite.ai/how-ai-is-creating-explosive-demand-for-training-data/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/03/fabio-ballasina-wEL2zPX3jDg-unsplash-942x600.jpg"
+        width: 942
+        height: 600
+        isCached: true
 
 secured: "npsrk3vXcjtUDCLjX6lG59bw2qTthtl4iVB62RVFh4mCQZOkZzKyC6DYu4j9JWIpcXcGHyoE7ccmhVT+/9YSNc/vpg9OuFeim7Oumcw+rQjeLK7iYbuYDczuiGO9Z0lO1jDYII0YvwjfYKUd5gptSQa2lHxOc0o4Hf+uRvv0vskQNQr7Q6dr6PIT0ZcocynENnGSVCsJpszCWChfGI6f9IGb4Hy0qK8PSYwLx2PRZt15GzT6Jp2JINd5KQetIw5cAivGdLS2k13SHWNsdyrNJGniUMRRxi++yRUeey1POuNriWE+o74ifqNLXl5cJd52AyAQwl2UVgPjAFagsHAqhOIhTSXkNex11vZ2kLmXIBNBp/uakXfyMwYhxEOjpO4vClbaEPUeN3yj4DCkTXZaP5eGh9IwZGdlz7ygh8zyyCm+ozAQdOmPHy1WJ1XY0PZCzEXvuo7xFpyI5UYkFgSXBBDFDd8rYZqW6sX5EzEblf9quGbgPDCjlSDjsFQk7Useik7msyTeR6r7bY5sw4Yx4g==;N4neu/1S7F/GsjBqQHdvwg=="
 ---

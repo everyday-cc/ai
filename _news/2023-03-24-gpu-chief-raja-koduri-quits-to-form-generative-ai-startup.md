@@ -74,15 +74,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 30
-  - title: "Intel's chief architect explained why he's leaving to launch an AI startup"
-    excerpt: "Intel Corp.'s top chip architect— industry veteran Raja Koduri — is not only leaving the semiconductor giant, he's exiting the business. Koduri, whose end-of-month departure CEO Pat Gelsinger announced Tuesday on Twitter,"
-    publishedDateTime: 2023-03-22T00:34:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2023/03/21/intels-chief-architect-on-why-hes-leaving.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "J04RsgpsUZV8dnblw0VSPeR+MvXvUpU7I6rwBP3UqzbvsY3YQ2nU6vUyRssrcX9nTSiIfO6vDIZrn7KibwOl08+USNOQBTkLuB+EsqdGqoK7nEVNrN+LqYjUZVCKD3zaB/HIp+COnCpXRpgORuGIsgflXbrWy8IsOX/CAN1Z6LMfJ1RxBzCjKEwMfnlw6iPnbt2zN577HaPDc4Cv47FsFv88QeF+zJutqkRYCrkOy7vzLa3A7CgtP0NVnZblptFD1OndD2tuLN3jLtXIOSDadAJZyww96gX0J/gA1ulWGe+E9Sbmt9cAx9xtzJe1bxOJBz/VoG9C8uHsDmEavT4GNBZmRfbVs0B/Trz432h4gVwtFOuFUH1TLAtA0psmluvYOBUknqnnwarWiRuN9WrBbl4aLeS7elzy/ejjbkyYpDEUKGkwKfPhE777gKJ2Kn2cMEufIH9d9MDI1azq9ILcHocXF8k3uTianxOPudm8jX9PIFqTLQX88FpXFpmNiNw7o56upbUEzMDKQvWjZfiaAA==;kaP3Tkjbw0yVpyUWfejMEg=="
 ---

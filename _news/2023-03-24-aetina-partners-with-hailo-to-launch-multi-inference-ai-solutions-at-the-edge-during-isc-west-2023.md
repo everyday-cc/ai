@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aetina Teams Up With Hailo To Introduce Multi-Inference AI Solutions At The Edge During ISC West 2023"
+    excerpt: "Aetina & Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform."
+    publishedDateTime: 2023-03-26T16:02:00Z
+    webUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/"
+    ampWebUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 44
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/03/Aetina-Teams-Up-With-Hailo-To-Introduce-Multi-Inference-AI-Solutions-At-The-Edge-During-ISC-West-2023.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
     excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
     publishedDateTime: 2023-03-24T05:18:00Z
@@ -53,15 +69,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "NVIDIA's Data Center Platform Play Unveiled At GTC 2023"
-    excerpt: "NVIDIA introduced its turnkey DGX \"deep learning supercomputer\" in 2017, continuously updating it as new generation accelerators are introduced. The latest generation, the NVIDIA DGX H100, is a powerful machine ... with Azure offering DGX Cloud sometime ..."
-    publishedDateTime: 2023-03-22T19:02:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/03/22/nvidias-data-center-platform-play-unveiled-at-gtc-2023/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Aetina Corporation: Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
     excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform-AIP-SQ67"
     publishedDateTime: 2023-03-24T03:38:00Z
@@ -76,15 +83,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
-    excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
-    publishedDateTime: 2023-03-23T05:45:00Z
-    webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 13
 
 secured: "pibWPB0iyhKRkQTGFCH9P2Vx7dY1ZR/fC7OP5Q2MZkSbrGJbK+k0PjwWlgArE/N/WbWBEljoVy23SA7AL7GqvJl2sADRuGKKONMDtL2qO54gU2+mehYDrtu5YujVmsO8rrJACeiL1LmLrD9rXNK07Cnrpusyh7XAmwioOt70/2spwzrRDyo4UiHxv2xVvfu3v8Q/ZOlggb5lZ9ZGIjTTAXW7Ki9ZUqCtQ8+Fzgmd5eS5pulwCE4dWPUyRvMYqrOXaMEwJLIu3Oo8lq47q8WAG4PQdSSXufQYrZ8rFPRGPJiPap1OxCCuuEWUD1vcamn9N5UFG/4BphwWDtXIt8w/jeGurpZ5a/txG/QppMyVWy8=;Ic7DCO3NgR7VWo1Yp0jADA=="
 ---

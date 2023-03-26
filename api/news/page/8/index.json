@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-19-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-robt.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT)",
+      "excerpt": "Investors may trade in the Pre-Market (4:00-9:30 a.m. ET) and the After Hours Market (4:00-8:00 p.m. ET). Participation from Market Makers and ECNs is strictly voluntary and as a result, these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
+      "originalUrl": "https://www.nasdaq.com/market-activity/etf/robt/after-hours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-innovation-lab-sheikh-hasina-neural-network-inaugurated-at-ministry-of-foreign-affairs.md",
+      "title": "Innovation Lab, Sheikh Hasina Neural Network inaugurated at Ministry of Foreign Affairs",
+      "excerpt": "Foreign Minister Dr AK Abdul Momen inaugurated the Innovation Lab and Innovation Challenge Fund and the proposed Sheikh Hasina Neural Network at the Ministry of Foreign Affairs on Sunday (19 March).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086",
+      "originalUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/03/19/i_lab_0.jpg",
+          "width": 600,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086?amp",
+      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/bangladesh/innovation-lab-sheikh-hasina-neural-network-inaugurated-ministry-foreign-affairs-602086?amp",
+      "publishedDateTime": "2023-03-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tbsnews",
+        "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-19-samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much.md",
       "title": "Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much",
       "excerpt": "We like HDR-pimped pics, but this latest camera controversy outlines how computational photography could set us down a dicey path.",
@@ -1069,109 +1146,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-artificial-intelligence-in-retail-market-to-2023-2029.md",
-      "title": "Artificial Intelligence in Retail Market to 2023-2029",
-      "excerpt": "Focal Systems Inc., IBM Watson Group, Walmart Inc., Amazon Web Services, Inc., ViSenze Pte Ltd] most important, influential, or successful companies, brands, or individuals within a Artificial Intelligence in Retail market 2023 to 2028. Complete Overview ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-to-2023-2029-2023-03-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw.md",
-      "title": "Strangeworks might be the first startup to rely on AI to create everything it brought to SXSW",
-      "excerpt": "It took nine weeks for whurley — a staple of the Austin tech scene — to create and prepare for a keynote at SXSW 2018, where he would debut Strangeworks, a quantum computing startup he co-founded and runs. Five years later, generative AI would complete ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/",
-      "originalUrl": "https://techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/strangeworks-ceo.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/17/strangeworks-might-be-the-first-startup-to-rely-on-ai-to-create-everything-it-brought-to-sxsw/amp/",
-      "publishedDateTime": "2023-03-17T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

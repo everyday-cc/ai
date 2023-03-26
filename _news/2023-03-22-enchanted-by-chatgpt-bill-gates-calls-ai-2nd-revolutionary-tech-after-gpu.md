@@ -58,22 +58,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Google releases Bard, a competitor to ChatGPT, Claude and Bing Chat"
-    excerpt: "The new chatbot aims to emulate human-like conversations by utilizing natural language processing and machine learning to generate realistic and helpful responses to user queries. >>Follow VentureBeat’s ongoing generative AI coverage<< In its surprise ..."
-    publishedDateTime: 2023-03-21T23:07:00Z
-    webUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/"
-    ampWebUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/4249731778_596657ac94_k.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
     excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
     publishedDateTime: 2023-03-25T11:02:00Z
@@ -168,6 +152,22 @@ related:
     images:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280"
         width: 1280
+        height: 853
+        isCached: true
+  - title: "ChatGPT Alternatives: 10 AI Tools You Can Try To Become More Productive"
+    excerpt: "ChatDOC is a ChatGPT-based file reading assistant the can quickly extract, locate and summarize information from doucments/PDFs. Google also launched its AI assistant Bard for limited countries. It will soon roll out to other countries as well."
+    publishedDateTime: 2023-03-26T16:07:00Z
+    webUrl: "https://zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
+    ampWebUrl: "https://zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
+    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 59
+    images:
+      - url: "https://english.cdn.zeenews.com/sites/default/files/2023/03/26/1173932-ai.jpg"
+        width: 650
         height: 853
         isCached: true
   - title: "How to use ChatGPT and other generative AI for business and in life"

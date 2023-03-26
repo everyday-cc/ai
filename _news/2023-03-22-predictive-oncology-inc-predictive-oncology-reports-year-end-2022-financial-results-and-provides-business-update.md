@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Predictive Oncology Reports Year End 2022 Financial Results and Provides Business Update"
-    excerpt: "Predictive Oncology Inc. (Nasdaq: POAI), a science-driven company leveraging its proprietary artificial intelligence and machine l"
-    publishedDateTime: 2023-03-21T23:15:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/gnwcq-2023-3-21-predictive-oncology-reports-year-end-2022-financial-results-and-provides-business-update"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
-
 secured: "9REWqLx83VNdDYPI7gL+gkho/LeAKBhITqJ0loKpQs6so/BdZu+f1re/nIluWZwdR75ptYDhkfRGbu/l+Bo+w1GOoNz0PwysZ97obgKFv02w8AQsiB5n5rDxZ/Y1gq04LyzCm7Mh9UXhZTqAg0ok8CO6XOMJ0w4SxHTBhhsGRfc/zIeyKb7EXRZNvMn4TmD1om8BXHQwHC6+Mg6dGvS1AMWjIjRAMxfhFn0I1FsKuBapfH2x/f3/dtdIb9rgqFj8kNLmiYZ8bTL5Yt+Ce5IGl6XIhqz8tHbE8OUge/zCRuY95+1xsN+5U0EoZGtNh/cEe10ptxX6+NznEN5XdvscJkzIaqlp4mza4lOeKzUSdfs=;wrwFCubSQB/rL/7bhapmoA=="
 ---
 

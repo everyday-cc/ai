@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes"
-    excerpt: "Doctored images of the former US president went viral on Twitter. These are the telltale signs that they aren’t what they seem."
-    publishedDateTime: 2023-03-21T23:31:00Z
-    webUrl: "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/"
-    ampWebUrl: "https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/amp"
+  - title: "Donald Trump Shares Fake AI-Created Image Of Himself On Truth Social"
+    excerpt: "Donald Trump shared an image of himself on Thursday morning over at Truth Social. And it’s almost certainly fake."
+    publishedDateTime: 2023-03-23T18:07:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c91172d00a7f17e8a9f01/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Even Trump Shared A Fake AI Image Of Himself: Here’s How To Spot A Deepfake"
     excerpt: "Deepfakes first came about in 2017 after a Reddit user posted pornography with the adult actors’ faces swapped for the faces of celebrities."
@@ -51,19 +51,21 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The Trump AI Deepfakes Had an Unintended Side Effect"
-    excerpt: "The most crucial element of the fake Trump-arrest images is not that they are misleading. It is that they are cinematic."
-    publishedDateTime: 2023-03-24T16:05:00Z
-    webUrl: "https://www.theatlantic.com/culture/archive/2023/03/fake-trump-arrest-images-ai-generated-deepfakes/673510/"
+  - title: "AI-Generated Images Of Donald Trump Getting Arrested Foreshadow A Flood Of Memes, Fake News"
+    excerpt: "Images depicting the \"arrest\" of Former President Donald Trump spread over the internet, like a warning of the incoming misinformation flood."
+    publishedDateTime: 2023-03-22T20:35:00Z
+    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/"
+    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/03/22/ai-generated-images-of-donald-trump-getting-arrested-foreshadow-a-flood-of-memes-fake-news/amp/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 77
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/nrpGbUrI5ioXdZCF06ZFpxZIT2o=/0x31:1450x786/1200x625/media/img/mt/2023/03/a1Screen_Shot_2023_03_23_at_5.22.18_PM_copy/original.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b60a2d07ab5f22c70461c/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 625
+        height: 836
         isCached: true
   - title: "Fake AI images of Putin, Trump being arrested spread online"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
@@ -81,42 +83,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI platform allegedly bans journalist over fake Trump arrest images"
-    excerpt: "Yesterday, about 50 AI-generated images imagining what former President Donald Trump’s arrest would look like spread across Twitter. The images caused confusion for some users because the Midjourney v5 engine used to create them generates such realistic-looking content."
-    publishedDateTime: 2023-03-22T17:05:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/03/ai-platform-allegedly-bans-journalist-over-fake-trump-arrest-images/"
+  - title: "Trump Inexplicably Posts AI-Generated Photo of Himself Praying"
+    excerpt: "The former president is missing a finger and has the smoothness of a daytime soap opera star in an AI-generated photo he posted on Truth Social Thursday."
+    publishedDateTime: 2023-03-23T19:38:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-inexplicably-posts-ai-pic-of-himself-praying"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "DeepFakes: How to spot AI-generated images"
-    excerpt: "ABC News’ Phil Lipof spoke with ABC senior reporter Emmanuelle Saliba about the growing sophistication of AI-generated images and how to spot one as the 2024 election approaches."
-    publishedDateTime: 2023-03-25T10:46:00Z
-    webUrl: "https://abcnews.go.com/US/video/deepfakes-spot-ai-generated-images-98112114"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 37
     images:
-      - url: "https://s.abcnews.com/images/US/230324_abcnl_prime_saliba_hpMain_16x9_608.jpg"
-        width: 608
-        height: 342
-        isCached: true
-  - title: "It takes a few dollars and 8 minutes to create a deepfake. And that's only the start"
-    excerpt: "With just a photograph & 60 seconds of audio, you can now create a deepfake of yourself in just a matter of minutes by combining a few cheap AI tools. I've tried it myself, and the results are mind-blowing, even if they're not completely convincing."
-    publishedDateTime: 2023-03-23T09:42:00Z
-    webUrl: "https://www.houstonpublicmedia.org/npr/2023/03/23/1165146797/it-takes-a-few-dollars-and-8-minutes-to-create-a-deepfake-and-thats-only-the-start/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 15
-    images:
-      - url: "https://media.npr.org/assets/img/2023/03/22/deep-fake-video_wide-aff9448244d5548a16621c82cede8c98956acc26.jpg"
-        width: 2396
-        height: 1348
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_506,w_900,x_0,y_36/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679603023/Fr7KKTSaYAATbbb_mihj6f"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "u02gZuwGof+8JAmEYa/uUKAlEKBydZuGyAl39041tZMQ0LQkQ80B1Wuq/IWZhLgD1UzYtmprN7a5lMntNnJuXI8skLiTMJFcV3WkJnrMygqnzEJ6go1DGF3aE02KI7+KOobn3x+xodT/WixPOXRAlECiHLiu6BU+oldnECT8VdCViOUj+9nKxEyiGSUfwHcKgvdKfmQHkFofEZgOnQgNesgOueqaduVl8bjBno3ESztDmqlbBQXde2KW1XQg8ZIyDFVkmYfnI2/LcBgtnwc1wlJiyX03DSK1FG5mf6VkG9/8KQ6FVumU9RX/2sO7PUNvm0ysLPx+7ZcfL5GCtdDRUUMQqp7Z8HSq2rhfxjFJFEp5sraZEu/ITmCZM/84Gv8QaKQI/XIfwvcd4z8xgE5rkQbBQ4P4ip+KcNiZd/dySXQvt7axBjl2P+f2uqJPum83lvBH/qemJhbYlpVLuAz7wR9N0y2xWX4h9iT2Iv8OpC22SNwMZ3SOe0Crc8/JvE7R4skzdwrnSIAAjLD643VbrA==;pvE+PQEUN0d3nzhMTy3KrQ=="

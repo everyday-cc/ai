@@ -217,20 +217,6 @@ related:
         width: 675
         height: 448
         isCached: true
-  - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
-    excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
-    publishedDateTime: 2023-03-21T23:26:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/21/microsoft-previews-gpt-4-ai-model-on-azure-openai-service.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
     excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
     publishedDateTime: 2023-03-23T16:55:00Z

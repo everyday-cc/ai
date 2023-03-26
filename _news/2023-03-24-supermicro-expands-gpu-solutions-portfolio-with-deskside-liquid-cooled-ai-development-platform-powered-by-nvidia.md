@@ -51,6 +51,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Supermicro expands GPU Solutions Portfolio with deskside Liquid-Cooled AI Development platform, Powered by NVIDIA"
+    excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, is announcing the first in a line of powerful yet quiet and power-efficient NVIDIA-accelerated AI Development platforms which gives information professionals and developers the most powerful technology available today at their deskside."
+    publishedDateTime: 2023-03-23T05:45:00Z
+    webUrl: "https://theprint.in/ani-press-releases/supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia/1466060/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 13
   - title: "Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
     excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
     publishedDateTime: 2023-03-24T18:40:00Z

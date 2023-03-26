@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "As Nvidia pushes to democratize AI, here’s everything it announced at GTC 2023"
-    excerpt: "This includes Nvidia L4 for producing AI video; Nvidia L40 for 2D/3D image generation; Nvidia H100 NVL for deploying large language models; and Nvidia Grace Hopper — which connects the Grace CPU and Hopper GPU over a high-speed 900GB/sec coherent chip-to ..."
-    publishedDateTime: 2023-03-21T23:22:00Z
-    webUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/"
-    ampWebUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/01/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv-e1679423776142.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Semi holding Nvidia proves its a leader in AI software, expanding beyond chips"
     excerpt: "Separately, Nvidia launched four new \" inference platforms \" designed specifically for large language models (LLMs) and generative AI workloads. While Nvidia's chips have been essential to training the models that power generative AI applications ..."
     publishedDateTime: 2023-03-22T15:41:00Z
@@ -187,20 +171,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "NVIDIA brings generative AI to almost everything, everywhere, all at once"
-    excerpt: "NVIDIA unveiled four inference platforms tailored for a wide range of swiftly emerging generative AI applications."
-    publishedDateTime: 2023-03-22T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/03/nvidia-brings-generative-ai-to-almost-everything-everywhere-all-at-once/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 38
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/03/21032023_NVIDIA-L4.png"
-        width: 1087
-        height: 547
-        isCached: true
   - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
     excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
     publishedDateTime: 2023-03-22T15:50:00Z
@@ -256,20 +226,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 19
-  - title: "Lilbits: AI everywhere, aCropalypse and the Windows Snipping Tool, and NVIDIA’s new GPUs for mobile workstations"
-    excerpt: "After spending 5 years as the head of Intel’s graphics department (spearheading the company’s drive into discrete GPUs) Raja Koduri is stepping down to launch a generative AI startup. Koduri was previously at AMD and spent 4 years stint at Apple."
-    publishedDateTime: 2023-03-21T23:04:00Z
-    webUrl: "https://liliputing.com/lilbits-ai-everywhere-acropalypse-and-the-windows-snipping-tool-and-nvidias-new-gpus-for-mobile-workstations/"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 16
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/03/firefly-beta.jpg"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
     excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
     publishedDateTime: 2023-03-22T12:59:00Z

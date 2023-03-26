@@ -41,6 +41,20 @@ related:
         width: 1800
         height: 2400
         isCached: true
+  - title: "Voice Recognition Software Market Size, Trends and Forecast 2030"
+    excerpt: "Voice Recognition Software Market Insights 2023 by Types (Voice commands, dictation , Turning audio into text ,"
+    publishedDateTime: 2023-03-25T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-trends-and-forecast-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automatic Speech Recognition(ASR) Software Market Outlook: Predictions and Projections for 2028 And Beyond"
     excerpt: "Global Automatic Speech Recognition(ASR) Software Market Report (123 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
     publishedDateTime: 2023-03-24T18:24:00Z

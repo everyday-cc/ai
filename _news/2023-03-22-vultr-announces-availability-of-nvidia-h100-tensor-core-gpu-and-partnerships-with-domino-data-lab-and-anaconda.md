@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia dusts off dual GPU cards"
-    excerpt: "At least for data centres  Nvidia has announced a new dual-GPU product, the H100 NVL but sadly not for SLI or multi-GPU gaming. In fact based on what Nvidia says the H100 NVL (H100 NVLink)will be a rubbish card for gaming and targets the growing AI market."
-    publishedDateTime: 2023-03-22T00:01:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-cards"
+  - title: "Nvidia creates pared back H100 GPU for export to China, called H800"
+    excerpt: "With the US government blocking the export of Nvidia's high-end A100 and H100 GPU lines to China, the company has developed worse versions of the chips to be able to continue shipping its products. The company began selling the A800 last November,"
+    publishedDateTime: 2023-03-22T21:24:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-creates-pared-back-h100-gpu-for-export-to-china-called-h800/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/27e8a2b89808b6dd5eff2351941494aa_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "SoftBank Verifies GPU-based vRAN on Actual Machines with NVIDIA & Mavenir"
-    excerpt: "SoftBank announced, in collaboration with NVIDIA and Mavenir Systems, it succeeded in End-to-End (E2E) communication from user equipment to image processing multi-access edge computing (MEC) applications via virtualized radio access network (vRAN) components using Graphic Processing Units (GPUs) in actual machines."
-    publishedDateTime: 2023-03-24T07:50:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/31256-softbank-verifies-gpu-based-vran-on-actual-machines-with-nvidia-mavenir"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/eff4d2f6c43f76130218cd7f67643c1c.jpg?t=20230324_060550"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "NVIDIA RTX 5000 Ada workstation GPU is apparently in the works with 32GB of VRAM"
-    excerpt: "This would put the power requirement somewhere in the region of 200-250W. It makes sense, especially with reports that NVIDIA GPU sales in the AI and workstation sector lead to the company's stock price shooting. The NVIDIA RTX 5000 Ada Generation GPU ..."
-    publishedDateTime: 2023-03-23T03:31:00Z
-    webUrl: "https://www.tweaktown.com/news/90818/nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/0/90818_01_nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram.jpg"
-        width: 620
-        height: 348
+      - url: "https://media.datacenterdynamics.com/media/images/nvidiaceojensenhuangdgx2.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ASRock Rack GPU Server Platform Lineups Are Now Qualified for NVIDIA L4 Tensor Core GPUs"
     excerpt: "The NVIDIA L4 Tensor Core GPU, powered by the NVIDIA Ada Lovelace architecture, is a universal, energy-efficient accelerator designed to meet numerous AI needs. With the NVIDIA accelerator and its full-stack AI platform, the L4 GPU delivers higher AI ..."

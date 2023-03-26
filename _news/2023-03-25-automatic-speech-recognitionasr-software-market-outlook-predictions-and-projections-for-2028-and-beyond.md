@@ -45,6 +45,20 @@ related:
         width: 1800
         height: 2400
         isCached: true
+  - title: "Voice Recognition Software Market Size, Trends and Forecast 2030"
+    excerpt: "Voice Recognition Software Market Insights 2023 by Types (Voice commands, dictation , Turning audio into text ,"
+    publishedDateTime: 2023-03-25T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-trends-and-forecast-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Recognition dinner held for those in recovery"
     excerpt: "Dana Walls, left, with Sara Blythe at the Recovery Recognition Dinner held March 10 at The Pines Evergreen Room in Seymour. The two women are good friends and met through Leaving the 99 Ministry. The Recovery Recognition Dinner was all about hope and possibilities."
     publishedDateTime: 2023-03-24T06:00:00Z

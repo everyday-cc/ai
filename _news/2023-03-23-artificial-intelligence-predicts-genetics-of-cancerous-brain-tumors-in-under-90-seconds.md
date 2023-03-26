@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Study shows artificial Intelligence can predict genetics of cancerous brain tumors"
+    excerpt: "Researchers have made an AI-based diagnostic screening system called DeepGlioma that uses rapid imaging to analyze tumor specimens taken during an operation and detect genetic mutations more rapidly."
+    publishedDateTime: 2023-03-26T15:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2394293-study-shows-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2394293-study-shows-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2394293-study-shows-artificial-intelligence-can-predict-genetics-of-cancerous-brain-tumors?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 66
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_03_2023_15_35_10_584252.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Artificial intelligence predicts genetics of cancerous brain tumors in under 90 seconds"
     excerpt: "Using artificial intelligence, researchers have discovered how to screen for genetic mutations in cancerous brain tumors in under 90 seconds — and possibly streamline the diagnosis and treatment of gliomas, a study suggests. A team of neurosurgeons and ..."
     publishedDateTime: 2023-03-23T19:04:00Z

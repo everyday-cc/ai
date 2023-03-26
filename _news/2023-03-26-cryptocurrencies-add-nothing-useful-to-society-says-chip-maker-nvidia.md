@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia"
-excerpt: "Two weeks ago, Microsoft said it had bought tens of thousands of Nvidia’s AI-focused processors, the A100 GPU, in order to power the workload of OpenAI. Nvidia has sold 20,000 H100s, the successor to that chip, to Amazon for its cloud computing AWS ..."
-publishedDateTime: 2023-03-26T15:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
-webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
+excerpt: "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining"
+publishedDateTime: 2023-03-26T15:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/26/cryptocurrencies-add-nothing-useful-to-society-nvidia-chatbots-processing-crypto-mining"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "hDcRw1xFgjb1AolCD81hdSFvGtf7VP6INjJYurW1ANbE+ZdSiz9BqTK3qcAWRlDNg5kaRJjRk0A8ZJ6I/dxUzoS1F6gB9+3WaJlFQhElVpGR5AXko3aQejoqe0Q8SsFyr4vAfvPHDchjhv4ClsLhItvM1HMrxb7No14pCZNFbEc7GoG1DDA/RngkmtkIo1twlI8bd/TOjl/fDDi2x0Cp9yFzLS17qjQSl17uu8Azazguu1XlA2l8GcLM7q5FP9ivsMjg8I2qojOQvgHkidWArAOzidPIj/VnJoXyI/j6at9qcce+W9aiAjQJKRVanQ7/B9BP3Gsx16FPL30eFFkAVwnGWpbAKKK9gFH/UFgidDc=;umRcv0B79ELU3sAaMrnSaQ=="
+secured: "TB6var4qiJOmfKIaH4E4ZSA6SGYipEn4T4490YfHlp/ddYKHLitW9WnFCxk4icZPNc1VlhiNqLZNvaY6uPE7cxsM6nRM4lh1kC7kGbYUJbcTEhow4i+P2HtoD2jy61qLkjpJJ7RdEwuM25fegdW9U3VRUM+VZw/Ce+Eb6fDcrLhlvfCrsX/YqCY9rYhCO/VjNuyv47daIML5mNY328blFwwYbRBHik4MmWPwt7ZAulgFBIX1ikTmXsjEVHG21FUrw9il5SoIFBuPlxHT42yCiIg9TRshJWH6v/JbdJYiEe7bQlP2p4bFe/C7HqBxUR9kYFabxpRIuhoy69jNwrBshPwxZ5ZwdZEKsfLfETheis0=;6p/E8sndR2mrRL27rq+R2w=="
 ---
 

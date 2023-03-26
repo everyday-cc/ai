@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/leadership/female-ceo-shares-her-expe
 webUrl: "https://www.entrepreneur.com/leadership/female-ceo-shares-her-experience-leading-an-ai-company/448191"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Entrepreneur
@@ -26,22 +26,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "J&J Innovation, Salesforce CEO back $90M funding round for AI-based predictive cancer test company"
-    excerpt: "Artera, a company using artificial intelligence to develop predictive cancer tests ... use the funding to distribute its flagship ArteraAI Prostate Test, which predicts therapy benefit in localized prostate cancer. Additionally, Artera will look to ..."
-    publishedDateTime: 2023-03-21T23:25:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/j-j-innovation-salesforce-ceo-back-90m-funding-round-for-ai-based-predictive-cancer-test-company.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 25
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "TDz7iZb6VY+HBr9alJSrArnhE7OcCuRwdSJpinAgGnQpHk77EI5FGq9jEfinBhLQk7Fn6n1QiA3dCGyZ8bi1zfHhRbYtHOM+GtEN4Zkc68PyaBeAnBWMB2SBdeKFqqtDbpd/Vu85Iq1Co3Bn8h5tQa8SrlVzbuF41HN0JZiulGfuwNu27coTnPKCsuFwEJtqpZtf1Tc7K2+t9+NGlaSPj1d8/mlGVRd3YxldeDr4LoT/1nJFH5awQA4t92e9KZfjy6XoipEMrxoBtJMbEvQulJo7mHUEMdil/g3alSyhKH2YJE3KTxdoB0fk3VREPVeiW6WE0JFlOZGa2DcCyQbQtbuBiMfs0whlNTJkRhVDZK8=;O3ijkD0rNYpWFbmGEIfv/w=="
 ---

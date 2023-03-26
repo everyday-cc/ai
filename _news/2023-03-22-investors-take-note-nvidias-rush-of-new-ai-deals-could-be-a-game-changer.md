@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-n
 webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg"
         width: 708
         height: 400
+        isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "Nvidia, Google Join Hands To Launch AI Hardware Virtual Machines"
     excerpt: "At its annual GPU Technology Conference, chip maker Nvidia announced its partnership with Google Cloud, which will be"

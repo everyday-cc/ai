@@ -1,25 +1,27 @@
 ---
 category: news
 title: "The challenge of keeping an audience engaged: How language shapes attention"
-excerpt: "This study addresses these questions by utilizing natural language processing of over 600,000 reading sessions from 35,000 pieces of content, combined with controlled experiments. It is important to distinguish sustained attention from other types of ..."
-publishedDateTime: 2023-03-22T17:45:00Z
-originalUrl: "https://phys.org/news/2023-03-audience-engaged-language-attention.html"
-webUrl: "https://phys.org/news/2023-03-audience-engaged-language-attention.html"
-ampWebUrl: "https://phys.org/news/2023-03-audience-engaged-language-attention.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-audience-engaged-language-attention.amp"
+excerpt: "Language that is easier to process encourages continued reading, as does language that evokes anxious, exciting, and hopeful emotions."
+publishedDateTime: 2023-03-23T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/03/230322082758.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/03/230322082758.htm"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "VsUdC16GnQnH9gjlxl97DGEf41OWeqKH60HNBw4eO0csOhGIQITYCgP3WBHHHzQMGTypTkcjniCJlnzQM+o/dpcsagsR1S0mSrBrV2xtXxnIABSRRRRj3wN/Sp+F4ALK+U5XtccSNorWYuNbYBmaXU+/Jma9JtmY0z78K08otsTwl6T9vL03Aqeo5AlqWNcwaEemdyU/cZMLbmK28tLlhmeAl2dF9Q8wd3mTKh92a/RvdFgvmCS+ocMZOO2K+nTlKQRn2oLS6Uog+sEFsxAKhE8tbT32ho/KQm/UPaQsO/ho+oWVHUIdHgPcsapJHBLxXpawfretjRk21n77SLJJ4VUlAbgfv1HOZHJiW37DHE4=;Gfxd2AwC62KTvgZYqieKEg=="
+secured: "/aeu4t2h4XHAZ0KNQmvV0I2emF/Tcwi+Aj1wA8LXk7goS1RFN10z1W9zUDj/VkhPjky1VS3pFr0F7m6OHC9ZV5xgsVsY5fqrTeeQuPgAxHkTzN4ZVmLIGvClkJV6eqLyMbrC7+Y6U7N3ISB78WD4VDq6Sb9i3hR2EBqpzk3F+oLRZy3AbTt9fLiedyJTjucspy0pNv48TXkKerW26kRbEKUn3Nq2AFYC+//svRhzasaQdPRg2HLphTR9XM12ihdCEVBgjW79sqK52F3/I3q6OtAz1t/3v4AIaL3OdaEk8vFxAsm9vtOPYWwyQoVMnHFzaMGn+1TYG4e88LbxyyY2fMPdFcZK7vd7RscYspO3+Us=;5+7mm2oBr+wfdqF054Ejcg=="
 ---
 
