@@ -3,18 +3,28 @@ category: news
 title: "Have We Created Artificial Intelligence or Artificial Life?"
 excerpt: "We have all been reading and hearing a lot about artificial intelligence (AI) recently because it is an absolute game-changer. As AI developers madly rush forward to develop and deploy AIs, we are reminded of the frenzied early days of the internet."
 publishedDateTime: 2023-03-25T14:46:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
-webUrl: "https://www.psychologytoday.com/za/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+originalUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+webUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/tech-happy-life/202303/have-we-created-artificial-intelligence-or-artificial-life?amp"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI in Autos
   - AI
 
-secured: "cybyDd1hBdQpkt3pO3Ews/5L0X5HVaYHx4CeO6y6DN+FW61mCjQD/wn1p4UXreJEaH09cthDkORvuKg5fRIg4X9ZhiZ1esRQ5LtZ9rVslGG07M1UJAC7pVZkQERM6MFj9tGFBsXTHkBelyflGQKkKAawqyi8jJTBgQvhJFH2p3L4m7gR67RhCuPBOVmtCIjQl27SpqGQ6wgtNLxR1wlYiuFUgXhR+Ub8lKzYMqlmjkBlaP/5jMJHQ99itBAGq+l+E6nm5p4yKS93FWllLFffiL6m13DAoRbcufnZaV2k1C2kUMtTTabcqoRkqNNO+RUOo6yOyuBRW1lJqxRf+PLuIIthns8f4eNFpS0a/KMWHNR0lI85NWFBEgDXdxhfJ0jbYj1McKqwU6jHmkCdKdSII6xUePKaIUEqqTg6TkZOGrY0jI70r7gU1pgrKuD9BLsQEqDWi4RY9JYZZD8+IFiHWXOBoJWaQTruE4vuzn0P5FzmX6pC/+ynxjk4zJ8NYFLhwWWeUcqInpRQbUug/MnqGQ==;lpa4+O51ZExxDObHK3EX7A=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/Artificial%20Life.jpg?itok=yq9DsIHE"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "3+OW+MP4E5gBorq3+WCFjCvHTquJOxH2Uo0fF7l8B9GVeCDBqDc44G+bUgwUOjGcCRVxQ788VKIB8dyZ9oORmbfVCH9jdroPtJ7uLQeIYDKF3HNZsJ7mSHbRwhHf2wRbBjm5JIoJ9UPbc61FFaNG1rBpZJx7TwBCZI1MDRyiDua3w4Ra/mATmfAmS7yx3I+vcEBsXacvvgiClIxJraTObiZxG81v6TcCYLWY2ooXKb/KZ8HwNx03LanNzbTALvUgDyns/12QW/rZArQwfOWXBEXAHLuHz3FL8TMsRyklFkfiqq0nduyHQc6vzMciNHQSBg7O2N4QkO57EWK6E2z5PrRSlhRi9jM753MghJA7LMU=;vyucXeHNAlBebUissmwDdg=="
 ---
 

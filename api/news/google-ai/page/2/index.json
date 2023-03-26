@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-06-an-extension-of-ferminet-to-discover-quantum-phase-transitions.md",
+      "title": "An extension of FermiNet to discover quantum phase transitions",
+      "excerpt": "In 2020, Google's British AI subsidiary DeepMind used a new ANN architecture dubbed the Fermionic neural network (FermiNet) to solve the Schrodinger equation for electrons in molecules, a central problem in the field of chemistry. The Schroedinger equation ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "originalUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-extension-of-fermin.jpg",
+          "width": 2880,
+          "height": 1288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "publishedDateTime": "2023-02-06T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-05-alphabets-deepmind-forms-ai-drug-discovery-unit-isomorphic-labs.md",
       "title": "Alphabet's DeepMind forms AI drug discovery unit Isomorphic Labs",
       "excerpt": "Google parent Alphabet has drawn on its DeepMind artificial intelligence division to form a drug discovery unit that it calls Isomorphic Labs. The UK-registered company will be able to tap into ...",
@@ -1316,59 +1359,6 @@
         "AI",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028.md",
-      "title": "Machine Learning Framework Market 2023: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028",
-      "excerpt": "Global Machine Learning Framework Market report gives comprehensive insights into market size, share, growth trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2023-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2023-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T23:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-26T14:02:00Z
 originalUrl: "https://www.pcmag.com/news/levis-will-use-ai-models-alongside-human-ones"
 webUrl: "https://www.pcmag.com/news/levis-will-use-ai-models-alongside-human-ones"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: PC Magazine

@@ -2,6 +2,58 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2022-12-17-uber-is-back-in-the-robot-business-just-in-time-for-ces.md",
+      "title": "Uber Is Back In The Robot Business Just In Time For CES",
+      "excerpt": "Autonomous rides are now available in Las Vegas and Uber Eats is now being delivered by sidewalk robots in Miami.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639cacc15d7d2538098cea7f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2022/12/16/uber-is-back-in-the-robot-business-just-in-time-for-ces/amp/",
+      "publishedDateTime": "2022-12-16T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-next-generation-amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings-at-scale.md",
       "title": "Next generation Amazon SageMaker Experiments – Organize, track, and compare your machine learning trainings at scale",
       "excerpt": "Today, we’re happy to announce updates to our Amazon SageMaker Experiments capability of&nbsp;Amazon SageMaker that lets you organize, track, compare and evaluate machine learning (ML) experiments and model versions from any integrated development environment (IDE) using the SageMaker Python SDK or boto3,",
@@ -1143,58 +1195,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-implementing-ai-during-a-worldwide-talent-shortage.md",
-      "title": "Implementing AI during a worldwide talent shortage",
-      "excerpt": "Upskilling and investing in education are two ways to address the IT talent shortage, which is exacerbated by rapidly evolving AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
-      "originalUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
-      "publishedDateTime": "2022-12-15T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

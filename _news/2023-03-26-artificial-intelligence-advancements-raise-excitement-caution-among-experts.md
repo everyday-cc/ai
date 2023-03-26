@@ -41,15 +41,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Study highlights complicated relationship between AI and law enforcement"
-    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
-    publishedDateTime: 2023-03-22T02:47:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
 
 secured: "jc0emrPgVpBg/s3K9AIjat1SLDXOEM615ER8hbRMET2nyUvaKtPYh8QVmAPSlgdjguGrbllrDQPEu2BCNs/jp0c7dKsh/jRH0T0I8jq2iTgXdp5k4GSV5442DxzPaT76ccg4zM73avUwR0OIjf5AvVYoafy6SNFj9Jmqi0BBA4dqTy+VZ5L+/ijJAZpeGIX9Q7L1Pbd5StaMQggQSJWIb9KGlLl5v6t9NuaJS8J3/cqyOXpXZ0TQXVoCZfjgy+Ypg866e/NvVTVR3Ns67tyFxmRP9qaKnLsxZesjQ8lSN+c+YgoQu3LVBObbEQoNlmfbLnW81eFgtau+vrbX0OsVKNZwiqp/6dXSwLxwbX7eADw=;GD7XfFM5cPC79a32aFKTqg=="
 ---

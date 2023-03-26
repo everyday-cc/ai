@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Collaboration Market Growth and Competitive Landscape 2023-2029"
+    excerpt: "Mar 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Cognitive Collaboration"
+    publishedDateTime: 2023-03-22T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-growth-and-competitive-landscape-2023-2029-2023-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Get Your Hands on the Ultimate Mobile Phone Facial Recognition Technology Market Research Report [2023-2030]"
     excerpt: "Our Most Recent Research Report Indicates that Mobile Phone Facial Recognition Technology Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [115 Pages Report] Our Mobile Phone Facial Recognition Technology Market research ..."
     publishedDateTime: 2023-03-23T09:59:00Z
@@ -93,15 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Market 2023 Size Growing Rapidly with Recent Trends"
-    excerpt: "Artificial Intelligence-Emotion Recognition Market Analysis 2023 \\| by Product Type (, Facial Emotion Recognition, Speech Emotion Recognition, Others, ,), Application Type (, Educa"
-    publishedDateTime: 2023-03-22T03:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-size-growing-rapidly-with-recent-trends-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "Speech and Voice Recognition Market Latest Innovations and Future Expansion 2023-2029"
     excerpt: "Mar 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Market\" Insights 2023 By Applications (Speech Recognition, Voice Recognition), By Types (Automotive, Consumer, Banking, Financial Services and Insurance, Retail, Education, Healthcare and ..."
     publishedDateTime: 2023-03-23T19:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-righ
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hill
@@ -41,15 +41,6 @@ related:
         width: 800
         height: 544
         isCached: true
-  - title: "Study highlights complicated relationship between AI and law enforcement"
-    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
-    publishedDateTime: 2023-03-22T02:47:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
 
 secured: "FHYNwvkR+CCvIQ5Q5Ys+qn59BU59ZSq6uN7vss+sfThjD0Dff6f6DaXmdZFJ3vruFab0tOttaNXr+8AyBdFawSsIW2pgHMYM983ZN3sERokAvtTkmiECo71uXhi/MROv51Nk2IzQekqz06DmyrhG43Ca+/ju+3m8LzslzsFAHEDTTxPqvnSe7B+Uxq0l3PdJLXnUxQOfF8f8pFcVJFnL3WsGlEHSYea+AdR5/2a8k9WmBZ5Ls+JRkDw+T6/QefGKMHpGjj27I0GUfDfVc6jDhsN9b4tTiKxGYFkIW3W6EW+TrGSUL1U8Qud/L6xsdbxxnd9NGg1e+AO4YA+oHLFgY+cSNNwAjxd2VoIlYvZaJZ8=;demzdKxwuv9EXfdHYYcGHA=="
 ---

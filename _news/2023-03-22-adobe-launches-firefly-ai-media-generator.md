@@ -51,21 +51,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Roblox launches its first generative AI game creation tools"
-    excerpt: "Roblox outlined its vision for AI-assisted content creation, imagining a future where Generative AI could help users create code, 3D models and more with little more than text prompts. Now, it's taking its first steps toward allowing \"every user on Roblox to be a creator\" by launching its first AI tools: Code Assist and Material Generator,"
-    publishedDateTime: 2023-03-22T03:57:00Z
-    webUrl: "https://www.engadget.com/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    ampWebUrl: "https://www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/roblox-launches-its-first-generative-ai-game-creation-tools-192043349.html"
+  - title: "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare"
+    excerpt: "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit"
+    publishedDateTime: 2023-03-26T20:18:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/"
     type: article
     provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 98
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/H7g36USmt_yuStCzPps_eg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/bbec64d0-c81a-11ed-9be9-a8be448bb9f2.cf.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Adobe launches Firefly generative AI creative engine at Summit"
     excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."

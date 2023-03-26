@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Computer Vision Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-24T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-report-with-analysis-2023-to-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Deep Learning Neural Networks (DNNs) Market Report on Industry Research, Growth Trends, and Competitive Analysis 2023 to 2031"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (Alliance News via COMTEX) -- Europe deep learning neural networks (DNNs) market is expected to register healthy CAGR in the forecast period of 2019 to 2026."
     publishedDateTime: 2023-03-24T18:21:00Z

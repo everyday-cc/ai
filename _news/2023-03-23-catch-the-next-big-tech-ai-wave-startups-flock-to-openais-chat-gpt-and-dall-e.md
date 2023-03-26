@@ -94,8 +94,8 @@ related:
     quality: 17
   - title: "AI startups to watch"
     excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
-    publishedDateTime: 2023-03-23T17:13:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
+    publishedDateTime: 2023-03-24T07:18:00Z
+    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
     type: article
     provider:
       name: The Business Journals

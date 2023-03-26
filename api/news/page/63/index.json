@@ -2,6 +2,49 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-02-06-self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028.md",
+      "title": "Self-service Shared Coffee Machines Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2028",
+      "excerpt": "New research published as the “Self-service Shared Coffee Machines Market” research report provides an in-depth review",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech.md",
       "title": "Budget 2023: From video-based KYC to expansion of DigiLocker services, positive signals for fintech",
       "excerpt": "In India, the fintech space for consumers can be largely categorized into five major pillars, all essentially powered by technology and digitization. These include payment services, lending segments,",
@@ -918,40 +961,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands.md",
-      "title": "Scams, deepfake porn and romance bots: advanced AI is exciting, but incredibly dangerous in criminals’ hands",
-      "excerpt": "One of the biggest headlines in the gaming community last week involved a deepfake porn scandal. Such material is one example of how generative AI can cause immense harm.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "originalUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "publishedDateTime": "2023-02-05T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

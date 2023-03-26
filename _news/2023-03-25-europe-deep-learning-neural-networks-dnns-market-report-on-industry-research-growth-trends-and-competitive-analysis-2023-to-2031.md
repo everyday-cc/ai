@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market research Report with Analysis 2023 To 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Computer Vision Market\" study describes how the technology industry is evolving and how major and emerging players in the industry are ..."
+    publishedDateTime: 2023-03-24T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-report-with-analysis-2023-to-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Is Booming Worldwide Forecast 2023-2029"
     excerpt: "Mar 24, 2023 (The Expresswire) -- Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence in Platform as a Service (PaaS) Market in Information and Communication Technology , Information ..."
     publishedDateTime: 2023-03-24T07:58:00Z

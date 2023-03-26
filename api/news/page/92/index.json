@@ -2,6 +2,49 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-01-12-voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028.md",
+      "title": "Voice And Speech Recognition Software Market : Overview, Industry Trends, Analysis Key Players, Share, Size and Report 2023 to 2028",
+      "excerpt": "Voice And Speech Recognition Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028-2023-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-overview-industry-trends-analysis-key-players-share-size-and-report-2023-to-2028-2023-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-11T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-how-human-language-accelerated-robotic-learning.md",
       "title": "How human language accelerated robotic learning",
       "excerpt": "Researchers developed a suite of policies using machine learning training approaches with and without language information, and then compared the policies’ performance.",
@@ -1049,40 +1092,6 @@
       "provider": {
         "name": "Financial IT",
         "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-divilo-selects-thetaray-ai-solution-to-monitor-global-payments-for-financial-crime.md",
-      "title": "Divilo Selects ThetaRay AI Solution to Monitor Global Payments for Financial Crime",
-      "excerpt": "Through the agreement, ThetaRay will provide Divilo its SONAR solution, a SaaS-based AML transaction monitoring and sanctions list screening platform, for domestic and cross-borde",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/11/9741276.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/11/9741276.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

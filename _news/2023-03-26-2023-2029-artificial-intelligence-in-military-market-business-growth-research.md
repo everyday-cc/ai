@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Size, Trends and Forecast 2030"
-    excerpt: "Market Updates(360marketupdates.com) published a new research report on Computer Vision in Artificial Intelligence"
-    publishedDateTime: 2023-03-22T03:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-trends-and-forecast-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 Healthcare Artificial Intelligence (AI) Market Size, Growth | Global Industry Trends [2029]"
     excerpt: "Mar 23, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Healthcare Artificial Intelligence (AI) Market” Size 2023 Key players ..."
     publishedDateTime: 2023-03-23T20:28:00Z
@@ -191,20 +177,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in the Freight Transportation Market Report | Global Forecast From 2023 To 2030"
-    excerpt: "Market Updates (360marketupdates.com) published a new research report on Artificial Intelligence (AI) in the Freight Transportation Market 2023 with 105 Report Pages and enhance with self-explained tables,"
-    publishedDateTime: 2023-03-22T03:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-report-global-forecast-from-2023-to-2030-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

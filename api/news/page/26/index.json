@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-03-03-experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10.md",
+      "title": "Experts ranked the leading self-driving companies. Tesla didn't even crack the top 10.",
+      "excerpt": "Baidu, and Cruise. Tesla was named the only \"follower\" given its low ratings in automated-driving execution and strategy. The company has long come under fire for its \"Full Self-Driving\" and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "originalUrl": "https://www.businessinsider.in/Experts-ranked-the-leading-self-driving-companies-Tesla-didnt-even-crack-the-top-10-/articleshow/98373350.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/photo/98373239/Master.jpg",
+          "width": 1003,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/experts-ranked-the-leading-self-driving-companies-tesla-didnt-even-crack-the-top-10-/amp_articleshow/98373350.cms",
+      "publishedDateTime": "2023-03-02T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-nfl-players-with-concussion-histories-have-reduced-cognitive-performance-study-shows.md",
       "title": "NFL players with concussion histories have reduced cognitive performance, study shows",
       "excerpt": "A large study looking at over 350 former National Football League players found that players with a history of concussions and concussive symptoms had reduced cognitive performances later in life.",
@@ -1153,40 +1196,6 @@
         "AI",
         "AI in Security",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
-      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
-      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

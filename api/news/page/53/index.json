@@ -2,6 +2,39 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-02-08-googles-300m-ai-bet-startup-tackles-long-covid-and-giving-computers-a-sense-of-smell.md",
+      "title": "Google's $300M AI bet, startup tackles long Covid, and giving computers a 'sense of smell'",
+      "excerpt": "As the world remains captivated by OpenAI's artificial intelligence tool ChatGPT, Google is making sure it doesn't fall too far behind in the AI race. Google (NASDAQ: GOOG) announced recently that it invested $300 million in generative AI startup Anthropic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
+      "originalUrl": "https://www.bizjournals.com/boston/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-retail-investors-flock-to-small-cap-ai-firms-as-big-tech-battles-for-share.md",
       "title": "Retail investors flock to small-cap AI firms as Big Tech battles for share",
       "excerpt": "Microsoft is in a strong position in the AI race due to the combination of its close partnership with OpenAI and its Azure capabilities around compute and data, Barclays analyst Raimo Lenschow said. \"If you're investing in AI, you should consider the fact ...",
@@ -1007,40 +1040,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-now-ai-can-talk-the-frenzy-continues-with-news-from-soundhound-and-microsoft.md",
-      "title": "Now AI Can Talk? The Frenzy Continues With News From SoundHound and Microsoft.",
-      "excerpt": "Stocks in the field of artificial intelligence have been red-hot since the start-up Open AI launched the chatbot ChatGPT in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
-      "originalUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

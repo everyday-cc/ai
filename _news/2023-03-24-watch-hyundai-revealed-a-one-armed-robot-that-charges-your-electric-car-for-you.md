@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/hyundai-electric-car-charging-robo
 webUrl: "https://www.businessinsider.com/hyundai-electric-car-charging-robot-ioniq-6-tesla-snake-2023-3"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

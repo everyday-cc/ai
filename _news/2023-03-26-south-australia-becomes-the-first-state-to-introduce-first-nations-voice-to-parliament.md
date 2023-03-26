@@ -67,6 +67,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "A constitutional law expert explains the Voice referendum question"
+    excerpt: "Since then, this wording has been the subject of intense discussion and debate in the Referendum Working Group, comprised of Indigenous representatives, which has been advising the government. It has also been scrutinised by the Constitutional Expert Group,"
+    publishedDateTime: 2023-03-26T20:58:00Z
+    webUrl: "https://www.australiangeographic.com.au/news/2023/03/a-constitutional-law-expert-explains-the-voice-referendum-question/"
+    type: article
+    provider:
+      name: Australian Geographic
+      domain: australiangeographic.com.au
+    quality: 39
+    images:
+      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2023/03/shutterstock_1020070705.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "The Referendum Question Has Been Announced, So Let’s Unpack the Voice to Parliament"
     excerpt: "Details are as follows: In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: There shall be a body, to be called the Aboriginal and Torres Strait Islander Voice; The Aboriginal and Torres Strait Islander Voice ..."
     publishedDateTime: 2023-03-23T01:11:00Z

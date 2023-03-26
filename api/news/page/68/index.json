@@ -2,6 +2,57 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-02-03-ai-is-generating-a-surreal-endless-episode-of-seinfeld-on-twitch.md",
+      "title": "AI Is Generating A Surreal, Endless Episode Of ‘Seinfeld’ On Twitch",
+      "excerpt": "Seinfeld was famously described as \"a show about nothing,\" and that description has become something of a prophecy, as a bizarre, AI-generated Seinfeld episode has been streaming on Twitch for a full month,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/02/ai-is-generating-a-surreal-endless-episode-of-seinfeld-on-twitch/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/02/ai-is-generating-a-surreal-endless-episode-of-seinfeld-on-twitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dbf35287a5e00b239afec2/0x0.jpg?format=jpg&crop=1248,790,x148,y110,safe&width=1200",
+          "width": 1200,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/02/ai-is-generating-a-surreal-endless-episode-of-seinfeld-on-twitch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/02/02/ai-is-generating-a-surreal-endless-episode-of-seinfeld-on-twitch/amp/",
+      "publishedDateTime": "2023-02-02T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-microsoft-gives-businesses-a-gpt-boost-in-teams-and-viva-sales.md",
       "title": "Microsoft gives businesses a GPT boost in Teams and Viva Sales",
       "excerpt": "Today, Microsoft also offered a preview of a new generative AI ... The app uses the OpenAI API inside of Azure Cognitive Services, which Lamanna pointed out has “very strong privacy guarantees — your data is your data. We don’t train or retrain ...",
@@ -1130,58 +1181,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
-      "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
-      "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/01/trainium-eks.jpg",
-          "width": 1568,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T09:52:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
