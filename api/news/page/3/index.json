@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-23-canva-launches-magic-ai-tools-for-its-design-softwares-125-million-users.md",
+      "title": "Canva Launches ‘Magic’ AI Tools For Its Design Software’s 125 Million Users",
+      "excerpt": "Canva CEO Melanie Perkins says of the AI product rush: “We’ll do what we’ve always done, which is focus on our own race.” The ten-year-old Australian startup led by Melanie Perkins said annualized revenue had reached $1.6 billion and also unveiled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/",
+      "originalUrl": "https://www.forbes.com/sites/alexkonrad/2023/03/22/canva-launches-magic-ai-tools-reaches-125-million-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641bb5e08ebec13782c28bdb/0x0.jpg?format=jpg&crop=1920,1079,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-22T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-edmonton-ai-guru-rich-sutton-has-lost-his-deepmind-but-not-his-ambition.md",
+      "title": "Edmonton AI guru Rich Sutton has lost his DeepMind but not his ambition",
+      "excerpt": "He’s a rock star in AI (artificial intelligence), and a geek to meet. In 2017, he partnered with Google’s DeepMind project, opening its “first ever international AI research office” in ...",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5",
+      "originalUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/03/Richard-Sutton-1.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/",
+      "cdnAmpWebUrl": "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/",
+      "publishedDateTime": "2023-03-22T21:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Edmonton Journal",
+        "domain": "edmontonjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-23-agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports.md",
+      "title": "Agba: FG to Install Facial Recognition Cameras to Boost Security at Airports",
+      "excerpt": "The Minister of State, Budget and National Planning, Prince Clem Agba, yesterday said the federal government would commence installation of facial recognition technology at major airports in the country. Speaking when he hosted the Japanese Ambassador to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/sass-static.s3.eu-west-2.amazonaws.com/amg/www.thisdaylive.com/uploads/Clem-Agba.png?w=1267&ssl=1&mrf-size=m",
+          "width": 1267,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/23/agba-fg-to-install-facial-recognition-cameras-to-boost-security-at-airports/amp/",
+      "publishedDateTime": "2023-03-22T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-03-23-automated-machine-learning-automl-market-2023-size-and-forecast-to-2030.md",
       "title": "Automated Machine Learning (AutoML) Market 2023 Size and Forecast to 2030",
       "excerpt": "“Global Automated Machine Learning (AutoML) market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.”Ask for Sample Report GlobalAutomated Machine Learning ...",
@@ -10,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-2023-size-and-forecast-to-2030-2023-03-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1099,152 +1238,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup.md",
-      "title": "Intel GPU chief Raja Koduri quits to form own generative AI startup",
-      "excerpt": "Indian-American Raja Koduri, head of Intel's Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his own generative artificial intelligence (AI) startup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665536422-4008.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html",
-      "publishedDateTime": "2023-03-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-opera-adds-chatgpt-and-ai-prompts-into-its-browser.md",
-      "title": "Opera adds ChatGPT and AI prompts into its browser",
-      "excerpt": "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "originalUrl": "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/zdivnOCZZ3swfSBYBTkb.g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d379e10-c898-11ed-8542-eb2cdaacb701.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html",
-      "publishedDateTime": "2023-03-22T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-22-making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits.md",
-      "title": "Making faces: How to train an AI on your face to create silly portraits",
-      "excerpt": "Stable Diffusion can run on Linux systems, Macs that have an M1 or M2 chip, and AMD GPUs, and you can generate images using only the CPU. Those methods require some tinkering, though, so for the purposes of this walkthrough, a Windows machine with an ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/aiportraits1-300x390.png",
-          "width": 300,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/making-faces-how-to-train-an-ai-on-your-face-to-create-silly-portraits/amp/",
-      "publishedDateTime": "2023-03-22T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

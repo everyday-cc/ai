@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This AI in Fintech market report informs users about current trends and their effects on the market, as well as useful market insights"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 22, 2023 (Prime PR Wire via Comtex) -- The \"AI in Fintech Market\" is focused on controlling cost, and improving efficiency. Moreover, the reports offer both the demand ..."
-    publishedDateTime: 2023-03-22T21:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/this-ai-in-fintech-market-report-informs-users-about-current-trends-and-their-effects-on-the-market-as-well-as-useful-market-insights-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
     excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
     publishedDateTime: 2023-03-24T13:00:00Z
@@ -121,6 +107,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
+    excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards,"
+    publishedDateTime: 2023-03-23T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782615.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "XR3BJeS3/lQYMdTzUBxCQ9vuqAucqAEn1/SCW2rYJ71NTFsnhP8VYiDPSfkfPqRODDHOwyD7Ob7GQXUHyueOpMfJUHs2HcAjv0uSR0NXmTbLEeg2duku4cfHYswJnkFFMlNnC7Ct+eDqJIBBz25A4SZTPuSc6nXz+gbyfg8Pj6KdzaVXLshmb/G0pWs/f2z9T9JG6Ao7FaofGzejyIQn7VolZCCU3G51EnLumY6yo/iqwC+2lrY1fbp86cPGuNetuh9/2GTiOhwOf4fipKQboRvYqoO9++/LBpjB21CeOXmAg/07QxOsuMNWxULiz2TWxOmyYkZM6DCggilusoQowxzfyUMHf/UzrhLjXOnOf1HMhdGMYKPB0XkinIqD4pT5920ja1ynGRB/pp9PiDB0Xz3u2KKehn4n0+Kb2RAPMFLzHTqhJSvpZ06hScJ0tkba7NNTK+QD4yI+pj2gLxDV7CjohqkZyyG+/6Ymlt/P0pyvX8vZraRNqtvMbSdof75ctqZVL5dMgYhPvMAdLsTlrg==;pWvbGQv7qCXstJEX9AH23g=="
 ---

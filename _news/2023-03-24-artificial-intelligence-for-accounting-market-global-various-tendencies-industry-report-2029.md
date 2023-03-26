@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Mobile Speech Recognition Software Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
-    publishedDateTime: 2023-03-23T22:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Operations (MLOps) Market Report | Global Forecast From 2023 To 2029"
     excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Machine Learning Operations (MLOps) Market 2023 with 119 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
     publishedDateTime: 2023-03-21T13:21:00Z
@@ -80,24 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Powered Cognitive Search Market Premium Research Report Forecast 2023 To 2029"
-    excerpt: "Businesses Across the Globe Expected to Do Better in 2023 Top “AI-Powered Cognitive Search Market” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks ..."
-    publishedDateTime: 2023-03-23T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-premium-research-report-forecast-2023-to-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-  - title: "2023 Artificial Intelligence in Manufacturing and Supply Chain Market Size, Growth | Global Industry Trends [2029]"
-    excerpt: "Mar 23, 2023 (The Expresswire) -- [103+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Artificial Intelligence in Manufacturing and Supply Chain Market” Size ..."
-    publishedDateTime: 2023-03-23T18:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-artificial-intelligence-in-manufacturing-and-supply-chain-market-size-growth-global-industry-trends-2029-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
   - title: "Artificial Intelligence for Edge Devices Market Report | Global Forecast From 2023 To 2030"
     excerpt: "The growth of the Artificial Intelligence for Edge Devices Market was mainly operate by the expand RandD spending across the globe. Some of the Major top players describe in the research are , Microsoft, Baidu, NVIDIA, Arm, Horizon Robotics, MediaTek ..."
     publishedDateTime: 2023-03-24T10:01:00Z

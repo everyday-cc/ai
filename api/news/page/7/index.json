@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-20-pgi-to-help-make-cutting-edge-ai-based-healthcare-tools.md",
+      "title": "PGI to help make cutting edge AI-based healthcare tools",
+      "excerpt": "Post Graduate Institute of Medical Education and Research (PGIMER) here has been designated as a centre of excellence for artificial intelligence (AI) in healthcare by the Ministry of Health. The move comes as the Central Government ramps up its efforts to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596",
+      "originalUrl": "https://www.tribuneindia.com/news/chandigarh/pgi-to-help-make-cutting-edge-ai-based-healthcare-tools-489596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/3/2023_3$largeimg_582755391.jpg",
+          "width": 660,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-8-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
+      "title": "8 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
+      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "publishedDateTime": "2023-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-20-computer-vision-extracts-lightning-from-footage.md",
+      "title": "Computer Vision Extracts Lightning From Footage",
+      "excerpt": "While we may not gain a deeper scientific appreciation of lightning anytime soon, but we can capture it in various photography thanks to this project which leverages computer vision machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/07/01/computer-vision-extracts-lightning-from-footage/",
+      "originalUrl": "https://hackaday.com/2022/07/01/computer-vision-extracts-lightning-from-footage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/06/lightning-main.jpg",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-20-can-centuries-old-math-open-the-modern-black-box-of-ai.md",
       "title": "Can Centuries-Old Math Open the Modern Black Box of AI?",
       "excerpt": "A new Rice University study uses Fourier analysis and a novel approach to understand how AI deep neural networks learn to perform functions that involve complex physics—a step towards demystifying AI’s black box problem.",
@@ -130,6 +270,49 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-19-torontos-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.md",
+      "title": "Toronto’s Ontario Line will run new electric, driverless trains. Here’s what they’ll look like",
+      "excerpt": "GFG Rail, which is designing the subway’s rolling stock, has revealed renderings for the new electric fleet, which, once operational, will run through downtown Toronto, connecting Exhibition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "originalUrl": "https://www.thestar.com/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/news/gta/2023/03/25/hydro-one-responding-to-around-southern-ontario-power-outage/hydro_one.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2023/03/15/torontos-new-ontario-line-will-run-new-electric-driverless-trains-heres-what-theyll-look-like.html",
+      "publishedDateTime": "2023-03-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -959,195 +1142,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-baidu-ponyai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.md",
-      "title": "Baidu, Pony.ai win permits to offer driverless robotaxi services in Beijing",
-      "excerpt": "Baidu's Apollo service will deploy 10 fully autonomous vehicles in a technology park developed by the government of Beijing, the Chinese ride-hailing giant said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677",
-      "originalUrl": "https://auto.economictimes.indiatimes.com/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-98745677,imgsize-116038,width-1200,height=765,overlay-etauto/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677",
-      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-pony-ai-win-permits-to-offer-driverless-robotaxi-services-in-beijing/98745677",
-      "publishedDateTime": "2023-03-17T19:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ET Auto",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-new-combination-therapy-proves-effective-against-prostate-cancer.md",
-      "title": "New Combination Therapy Proves Effective Against Prostate Cancer",
-      "excerpt": "Prostate cancer is fast gaining as a common cancer form among men; more threatening since its symptoms often go unnoticed until it's too late. This quiz tests your knowledge on prostate cancer, its diagnosis and treatment options and is as mandatory for men as the screening tests mentioned here are!",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/vasectomy-may-up-risk-of-prostate-cancer.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-combination-therapy-proves-effective-against-prostate-cancer-210948-1.htm",
-      "publishedDateTime": "2023-03-17T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-a-mind-controlled-beer-pouring-robot-has-landed.md",
-      "title": "A mind-controlled beer-pouring robot has landed",
-      "excerpt": "The robot reads your mind and pours a beer for you - in this case, a ginger beer. You can see it in action at the Open Studio Day at The Watershed in Bristol on Saturday. Its inventor says they hope it inspires more young people to become engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-17T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-18-anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt.md",
-      "title": "Anthropic introduces Claude, a “more steerable” AI competitor to ChatGPT",
-      "excerpt": "Anthropic introduced Claude, a large language model (LLM) that can generate text, write code, and function as an AI assistant similar to ChatGPT. The model originates from core concerns about future AI safety and Anthropic has trained it using a technique it calls \"Constitutional AI.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/anthropic_claude_close2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/anthropic-introduces-claude-a-more-steerable-ai-competitor-to-chatgpt/amp/",
-      "publishedDateTime": "2023-03-17T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

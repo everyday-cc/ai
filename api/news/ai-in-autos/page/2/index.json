@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-10-driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033.md",
+      "title": "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, and Opportunities to 2023-2033",
+      "excerpt": "Driverless Car Market, 2023-2033' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-industry-insights-drivers-top-trends-global-analysis-forecast-and-opportunities-to-2023-2033-2023-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-automotive-artificial-intelligence-ai-market-by-segmentation-includes-type-applications-channel-and-forecast-to-2023-2033.md",
       "title": "Automotive Artificial Intelligence (AI) Market by Segmentation Includes Type, Applications, Channel, and Forecast to 2023-2033",
       "excerpt": "Mar 10, 2023 (AmericaNewsHour) -- Key Companies Covered in the Automotive Artificial Intelligence (AI) Market Research Intel Corporationm, Waymo, LLC., IBM Corporation, Microsoft Corporationand other key market players. CRIFAX added a new market research ...",
@@ -1296,58 +1348,6 @@
         "name": "Autoblog",
         "domain": "autoblog.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
-      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
-      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "publishedDateTime": "2023-03-01T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

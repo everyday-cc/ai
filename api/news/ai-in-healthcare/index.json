@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-24-artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029.md",
-      "title": "Artificial Intelligence in Accounting Market Premium Research Report Forecast To 2029",
-      "excerpt": "Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in Accounting Marketinformation for each End Users [BFSI, Retail and eCommerce, Government and Defense, Healthcare and Life Sciences, Manufacturing], Product Types [On-Premise, Cloud-Based], Main ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029-2023-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-premium-research-report-forecast-to-2029-2023-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-24T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-24-report-on-artificial-intelligence-ai-in-healthcare-market-size-until-2026.md",
       "title": "Report on Artificial Intelligence (AI) in Healthcare Market Size until 2026",
       "excerpt": "The Global Artificial Intelligence (AI) in Healthcare Market 2022-2026 Research Report offers a comprehensive analysis of the market, providing valuable insights into the market status, size, share, SWOT and PESTLE analysis. The report examines the market ...",
@@ -1474,6 +1422,59 @@
         "Microsoft AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 739,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

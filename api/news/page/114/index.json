@@ -2,6 +2,194 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-12-14-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
+      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
+      "excerpt": "OAKLAND, Calif., Dec 14 (Reuters) - EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-$21.7-mln",
+      "originalUrl": "https://www.nasdaq.com/articles/encharge-ai-a-chip-startup-born-in-princeton-lab-raises-$21.7-mln",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-stellar-cyber-integrates-with-deep-instincts-deep-learning-technology-for-unrivaled-cyber-attack-prevention.md",
+      "title": "Stellar Cyber Integrates with Deep Instinct's Deep Learning Technology for Unrivaled Cyber Attack Prevention",
+      "excerpt": "Under this latest integration, Deep Instinct's revolutionary approach to leverage deep learning is able to continuously analyze endpoints, servers, and other network assets to detect and prevent more than 99% of potential attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-stellar-cyber-integrates-with-deep-instincts-deep-learning-/2022/12/14/9730268.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-controlling-flight-of-insect-sized-robots.md",
+      "title": "Controlling Flight Of Insect-Sized Robots",
+      "excerpt": "Researchers solve the problem of mimicking bug-like flight for microbots by replacing gyroscopes with accelerometers. We have seen spies using small bugs",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/controlling-flight-of-insect-sized-robots",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/controlling-flight-of-insect-sized-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/12/a-gyroscope-free-syste-1.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronicsforu",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-entrust-adds-identity-as-a-service-to-aws-marketplace.md",
+      "title": "Entrust adds Identity as a Service to AWS marketplace",
+      "excerpt": "Entrust, a pioneer in trusted payments, identities, and digital infrastructure is now offering its cloud-based Identity and Access Management (IAM) solution in AWS Marketplace, a digital catalogue with thousands of software listings from independent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/entrust-adds-identity-service-aws-marketplace-co-11462-ga-co-1537871022-ga.1671016890.html",
+      "publishedDateTime": "2022-12-14T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-chinas-beidou-outpaces-gps-to-become-top-navigation-service-provider.md",
+      "title": "China’s BeiDou outpaces GPS to become top navigation service provider",
+      "excerpt": "File photo of a model of the Beidou Satellite Navigation System.Photo:Xinhua. China's BeiDou Navigation Satellite System (BDS) has become the top guidance service provider for dom",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/page/202212/1281885.shtml",
+      "originalUrl": "https://www.globaltimes.cn/page/202212/1281885.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-09-07/2d697ce1-5a82-4b9d-b10f-f96bf2f3c6c2.jpeg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-encharge-ai-emerges-from-stealth-with-217m-to-develop-ai-accelerator-hardware.md",
       "title": "EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware",
       "excerpt": "Axelera and GigaSpaces are both developing in-memory hardware to accelerate AI workloads. NeuroBlade last October raised $83 million for its in-memory inference chip for data centers and edge devices.",
@@ -910,212 +1098,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-how-ibms-watson-could-disrupt-medical-imaging.md",
-      "title": "How IBM's Watson Could Disrupt Medical Imaging",
-      "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "originalUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-migrate-sessionrunhook-to-keras-callbacks.md",
-      "title": "Migrate SessionRunHook to Keras callbacks",
-      "excerpt": "Start with imports and a simple dataset for demonstration purposes: import tensorflow as tf import tensorflow.compat.v1 as tf1 import time from datetime import datetime from absl import flags 2022-12-14 03&colon;29&colon;50.223888&colon; W tensorflow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-robot-controlled-by-rat-brain-cells.md",
-      "title": "Robot Controlled by Rat Brain Cells",
-      "excerpt": "Researchers from the University of Reading have made a robot that is controlled by brain cells extracted from rats. The cells are cultured and connected to the control circuit. The cells are alive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
-      "originalUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-this-force-controlled-robot-gripper-is-less-likely-to-break-stuff.md",
-      "title": "This Force Controlled Robot Gripper Is Less Likely To Break Stuff",
-      "excerpt": "While robotic arms can handle a wide variety of ... it may be desired to have a force controlled gripper to avoid damage. [James Bruton] has been whipping up a design of his own for just this ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
-      "originalUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/arm800.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-using-machine-learning-to-improve-the-toxicity-assessment-of-chemicals.md",
-      "title": "Using machine learning to improve the toxicity assessment of chemicals",
-      "excerpt": "Oct. 8, 2021 — A team has developed a novel machine learning approach that can create similarity projections via machine learning, enabling researchers to search an unstructured image database ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

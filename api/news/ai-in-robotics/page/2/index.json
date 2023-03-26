@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-16-artificial-intelligence-isnt-close-to-becoming-sentient.md",
+      "title": "Artificial intelligence isn't close to becoming sentient",
+      "excerpt": "Chatbots like ChatGPT raise important new questions about how artificial intelligence will shape our lives and about ... rather than the machines' actual personhood. In Japan, where robots are regularly used for elder care, seniors become attached to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "originalUrl": "https://www.upi.com/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/5211678968643/2023/1/db4c392242fd2b808f2c372be5b16d03/v1.5/Artificial-intelligence-isnt-close-to-becoming-sentient.jpg",
+          "width": 1018,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Voices/2023/03/16/AI-sentient-danger-artificial-intelligence/5211678968643/",
+      "publishedDateTime": "2023-03-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-2x-shar.md",
       "title": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shar",
       "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
@@ -1325,49 +1369,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-embodied-aigoogles-palm-e-allows-robot-control-with-natural-commands.md",
-      "title": "“Embodied AI”—Google’s PaLM-E allows robot control with natural commands",
-      "excerpt": "564b parameters makes ChatGPT with 150b seem like a simpleton. Speaking of, I'm astounded by it's (ChatGPT) apparent understanding of what I say. I have to keep reminding myself that no, it doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/civis/threads/“embodied-ai”—google’s-palm-e-allows-robot-control-with-natural-commands.1490504/page-2",
-      "originalUrl": "https://arstechnica.com/civis/threads/“embodied-ai”—google’s-palm-e-allows-robot-control-with-natural-commands.1490504/page-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

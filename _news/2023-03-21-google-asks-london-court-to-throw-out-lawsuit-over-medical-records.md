@@ -39,17 +39,17 @@ related:
         isCached: true
   - title: "Google asks London court to throw out lawsuit over medical records"
     excerpt: "The Royal Free London NHS Trust transferred patient data to Google's artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse ..."
-    publishedDateTime: 2023-03-22T00:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/22/google-asks-london-court-to-throw-out-lawsuit-over-medical-records"
+    publishedDateTime: 2023-03-22T12:20:00Z
+    webUrl: "https://www.channelnewsasia.com/business/google-asks-london-court-throw-out-lawsuit-over-medical-records-3363966"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 24
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/03/22/1989447.jpg"
-        width: 800
-        height: 534
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--bvTi1LvC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-21t162544z_2_lynxmpej2k0ok_rtroptp_3_britain-court-google-deepmind.jpg?itok=V_uY5CBl"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "W4+VrscBdmhXxK7CqwOythS2HXTm1BFm6M+bwzoGvtriuLOIRXy7KxSI1wGYtf9O3vdjos8n0iWnluv8bliK0WiJIRkuPXWYgDXApW9WdDaQxc4AzGRotSTOAB+eCQXQFuPUjMrtmsCXwt8Cv2pFeSp+8g1RWmIigm67Eif+IRrTEP1Q+b2nNutbgSVENo/0NBsCbs2mO9cZrrowxXkW9QFgqIWViPB30QWLClyHYcqBO57PqHPIpxTd1jnlFhU0JkfVJdt4NCuks+SSPGwkrjiwaWbJLR43WUY5qIoetoZv/O6MYYaElmW/+xd2bpp+2Q9ncAiZdMknuayQo4n7NjVKnO4NAIcVM6VfQl5NOyY=;0M5pZqaxBd5/XyU+tTYhLQ=="

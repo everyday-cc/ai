@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Share, Trends, Key Players, Revenue, Growth, and Forecast 2023 to 2031"
-    excerpt: "Mar 23, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Facial Recognition Market : Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
-    publishedDateTime: 2023-03-23T22:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-trends-key-players-revenue-growth-and-forecast-2023-to-2031-2023-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Synthetic Data Generation Market Size, Key Segments, Share, Trends, Growth, and Forecast 2031"
     excerpt: "Global Synthetic Data Generation Market is valued at approximately USD 123.3 million in 2021 and is anticipated"
     publishedDateTime: 2023-03-24T11:10:00Z
@@ -66,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Future of the Machine Learning in Manufacturing Market [2030] | Our Research Report Provides Long-Term Trends and Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- [109 Pages Report] Global “Machine Learning in Manufacturing Market” [2023-2030] latest research report provides key analysis of the ..."
-    publishedDateTime: 2023-03-25T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-of-the-machine-learning-in-manufacturing-market-2030-our-research-report-provides-long-term-trends-and-forecast-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

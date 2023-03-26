@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-by-2031-2023-03-24"
 type: article
 quality: 99
-heat: 450
+heat: 449
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/03/25/world/europe/who-will-take-care-o
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/25/world/europe/who-will-take-care-of-italys-older-people-robots-maybe.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Who will take care of Italy’s older people? Robots, maybe"
+    excerpt: "would be if a “social robot can assist in care.” Leaps in artificial intelligence would only make robots more responsive, she said, keeping older people self-sufficient longer and providing more relief to caregivers. Advertising “We all have to look ..."
+    publishedDateTime: 2023-03-25T22:04:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/who-will-take-care-of-italys-older-people-robots-maybe/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/who-will-take-care-of-italys-older-people-robots-maybe/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/who-will-take-care-of-italys-older-people-robots-maybe/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "98w1bCHvwji9wT10+TIas+I3CR+5tvbFxQkp8zBCHCCrhS8uaDx9tST3ZakXCoZ2GBKCi0OWS8ASLO470s5nkgAtWeQ7GzC1jpZoWCEGVzHqaLKduBUbByftJY0eOHspvzUacKjUoAjqlLyYQ0XdVS/Fd8dxXSjeis42jRdAOZy62B6D69eQ9nSGDpnFYkS6SJy4nR1h5gBdlCAFhjxT6fchIMZu+1c3FQiOwrdbqkpOe56BnLCX04Ek3y47YEVmLz0Fj/kHNSahYn8hamu+a3tFgQEH4FY4MpGslQ3ke6nW8e6O5gw21Sn38snU79L65JqP+ud0Gse5nS6pAASqZWJTBbtlh83ITozdDVC6MIHZ3tIA3Lk3rKSl51G4sSbBilc4h7Qu9ZFx7oFmwDqXpaR5nWcFZS5WesjV5R9nLGhALTNqrfraTyVZIG9Ayq+DfH56UGm0mKR67psJ/ehGAyWuvISBJrztZyoXdzhL3I5EJWwqzyTlq008W+ATg4rIJsKcQibtD6eudn/Mj00INA==;YDxn7HOnOCo2J1TQBt+JZw=="
 ---

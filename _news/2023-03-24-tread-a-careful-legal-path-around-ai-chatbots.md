@@ -153,6 +153,20 @@ related:
         width: 2500
         height: 1620
         isCached: true
+  - title: "ChatGPT Busy? 7 AI Chatbot Alternatives Ready to Answer Your Burning Questions"
+    excerpt: "If you're in the mood to talk, but ChatGPT is overloaded, you have other AI chatbot options, including Google's Bard, Microsoft's Bing, ChatSonic, and YouChat."
+    publishedDateTime: 2023-03-25T17:41:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-alternatives-ai-chatbots-ready-to-answer-your-burning-questions"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/0606kPUb7UJUANK86dXckjx-2.fit_lim.size_1200x630.v1679585246.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
     excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
     publishedDateTime: 2023-03-23T10:42:00Z

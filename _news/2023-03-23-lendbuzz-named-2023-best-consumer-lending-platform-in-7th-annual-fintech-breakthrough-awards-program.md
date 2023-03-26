@@ -1,104 +1,122 @@
 ---
 category: news
 title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
-excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards, conducted by FinTech ..."
-publishedDateTime: 2023-03-23T16:22:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31478367/lendbuzz-named-2023-best-consumer-lending-platform-in-7th-annual-fintech-breakthrough-awards-progr"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/b31478367/lendbuzz-named-2023-best-consumer-lending-platform-in-7th-annual-fintech-breakthrough-awards-progr"
+excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards,"
+publishedDateTime: 2023-03-23T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/03/23/9782615.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782615.htm"
 type: article
-quality: 8
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
 related:
-  - title: "Cresta Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "PALO ALTO, Calif., March 23, 2023 /PRNewswire/ -- Cresta, a leading provider of generative AI for the contact center, announced today that Business Intelligence Group has named the company a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2023-03-23T13:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cresta-named-winner-in-2023-artificial-intelligence-excellence-awards-1032187830"
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"
+    publishedDateTime: 2023-03-22T06:54:00Z
+    webUrl: "https://www.independent.co.uk/news/business/business-reporter/fintech-banking-trends-transform-business-b2305087.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "SoftSmile Honored as 2023 Artificial Intelligence Excellence Award Winner"
-    excerpt: "Since 2012, the award program has been celebrating one-of-a-kind innovations and outstanding performance – and now, SoftSmile joins the distinguished roster, being recognized am"
-    publishedDateTime: 2023-03-23T19:01:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/23/9782481.htm"
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2023/03/21/13/klarpay-business-reporter-article-image.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "O’Reilly 2023 Tech Trends Report Reveals Growing Interest in Artificial Intelligence Topics, Driven by Generative AI Advancement"
+    excerpt: "O’Reilly, a premier source for insight-driven learning on technology and business, announced the findings of its annual Technology Trends for 2023 report, which examines the most sought-after technology topics consumed by the 2."
+    publishedDateTime: 2023-03-24T13:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/24/oreilly-2023-tech-trends-report-reveals-growing-interest-in-artificial-intelligence-topics-driven-by-generative-ai-advancement/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/02/Snowflake_report_cover.png"
+        width: 300
+        height: 391
+        isCached: true
+  - title: "Top 10 Investors in Vietnam Backing Emerging Fintech Startups"
+    excerpt: "A look at ten VC firms in Vietnam that are helping shape the domestic fintech market and which are still actively looking for investment opportunities in the sector."
+    publishedDateTime: 2023-03-21T09:05:00Z
+    webUrl: "https://fintechnews.sg/70212/vietnam/top-10-investors-in-vietnam-backing-emerging-fintech-startups/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/03/10-VC-Investors-in-Vietnam-Backing-Up-and-Coming-Fintech-Startups.png?x90673"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "16 companies from across the globe selected for Isle of Man fintech innovation challenge"
+    excerpt: "Leading brand for international independent financial advisers, wealth management professionals serving expatriate and cross-border clients worldwide."
+    publishedDateTime: 2023-03-21T10:15:00Z
+    webUrl: "https://www.internationalinvestment.net/news/4086938/companies-globe-selected-isle-man-fintech-innovation-challenge"
+    type: article
+    provider:
+      name: internationalinvestment
+      domain: internationalinvestment.net
+    quality: 15
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/2f76d9a/9131743a-8cf3-448a-b2ee-92e9853ab5f8/4/fintech-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T09:14:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/03/24/9782853.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 38
+    quality: 15
     images:
-      - url: "https://mma.prnewswire.com/media/1699572/SoftSmile_Logo.jpg"
+      - url: "https://mma.prnewswire.com/media/2034304/AQR_Trader_Interface_Photo_Credit_Aquariux.jpg"
         width: 400
-        height: 400
+        height: 356
         isCached: true
-  - title: "Seno Medical's SenoGram® Decision Support Tool Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "San Antonio, TX, March 23, 2023 (GLOBE NEWSWIRE) -- The Artificial Intelligence Excellence Awards program has selected Seno Medical's AI platform, SenoGram ® — exclusively available in conjunction with the company's Imagio ® Breast Imaging System ..."
-    publishedDateTime: 2023-03-23T13:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31474900/seno-medicals-senogram-decision-support-tool-named-winner-in-2023-artificial-intelligence-excellen"
+  - title: "Futurist and author Brett King to speak at FSCJ fintech forum"
+    excerpt: "King will discuss blockchain, artificial intelligence and cryptocurrency at 9 a.m. in Auditorium ... Web Summit, The Economist and IBM’s World of Watson. He has appeared on CNBC, BBC, ABC, Fox and Bloomberg. King hosts the Breaking Banks radio show ..."
+    publishedDateTime: 2023-03-21T14:23:00Z
+    webUrl: "https://www.jaxdailyrecord.com/news/2023/mar/21/futurist-and-author-brett-king-to-speak-at-fscj-fintech-forum/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Excellence Awards recognize organizations, products and people that use AI to solve real problems."
-    publishedDateTime: 2023-03-23T15:17:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/messagepoint-named-winner-in-2023-artificial-intelligence-excellence-awards/article_4c33d5e9-2993-5b3b-8fe4-fe446d45e09c.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 17
-  - title: "Lattice Wins 2023 Artificial Intelligence Awards"
-    excerpt: "HILLSBORO, Ore.--(BUSINESS WIRE)--Lattice Semiconductor (NASDAQ: LSCC), the low power programmable leader, today announced that it won two Artificial Intelligence Excellence Awards from The Business Intelligence Group. The Lattice Avant™ FPGA platform ..."
-    publishedDateTime: 2023-03-23T20:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230323005005/en/Lattice-Wins-2023-Artificial-Intelligence-Awards"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 17
-  - title: "Messagepoint Named Winner in 2023 Artificial Intelligence Excellence Awards"
-    excerpt: "Messagepoint announced today it has been named a winner in the Business Intelligence Group’s Artificial Intelligence (AI) Excellence Awards. The AI Ex"
-    publishedDateTime: 2023-03-23T19:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230322005774/en/Messagepoint-Named-Winner-in-2023-Artificial-Intelligence-Excellence-Awards"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 17
-  - title: "Virtualitics Wins 2023 Artificial Intelligence Excellence Award"
-    excerpt: "Virtualitics Inc., an artificial intelligence and data exploration company, today announced it has been honored with a 2023 Artificial Intelligence Excellence Award from the Business Intelligence Group."
-    publishedDateTime: 2023-03-23T20:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/23/9782558.htm"
+      name: Financial News & Daily Record
+      domain: jaxdailyrecord.com
+    quality: 4
+  - title: "Pagaya Wins 2023 Fintech Breakthrough Award for Consumer Lending Innovation"
+    excerpt: "Pagaya has developed a unique AI-powered network, connecting its partners - financial services providers that originate assets with the assistance of Pagaya's technology - to third-party institutional investors,"
+    publishedDateTime: 2023-03-23T18:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pagaya-wins-2023-fintech-breakthrough-award-consumer-lending-/2023/03/23/9782396.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 2
+  - title: "Singapore-Based Fintech Company Aquariux Launches AQR Trader - A Retail Trading Platform Interface Tailored For Brokers"
+    excerpt: "With its clean design and enhanced trading capabilities boosted by trading tools from Acuity Signal Center, AQR Trader has recorded more than 3,000 user downloads following its beta launch. For the year ahead,"
+    publishedDateTime: 2023-03-24T18:51:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/24/9782853.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "oB7YcfAA1lSV115muCE4HGIJyGEcv5dnGCmWb5oqmetNWkoxmF99hpy74p/9CUFVlfuoOg4dB+0qnmYMOy6Cy3qjgkcFiVYVxQASWEulo/ecxxJ3XzLWTDgsjwHis96/2UrVn86qAqV+Pbd/0Ec84rvAqwhhGsCqW6OJmmAoOTEzjKgng3wYfVrsK7EHd5YOm+nxjbLV+2G7dkFh+Kxp/xav3+kkhu3e36u1LlbWcJEyAbFYRr9FKjj8agYQcFDkC3yNR0sqHmnAQAN1as/2QcOhcM1h/tKTH3sj9GuWOgOrMda+50nspkNjeoeD9iWiHCHHrS5i+qZ+oOcxJxBr4IhHm2+P+fHuQgsfVRHUCcM=;pTrfdlRFI9gvgiXtxbPuSA=="
+secured: "rtilgC97zSXWlxuGxFdoltSFznB9ytmxxL1b7ebCkPPTuTLbXcgnST5BM+sldaf7LHJGcybrLRUnC+Fto7mF/HPhaYh3kzGKel9WabSGsxrqNeSvaE70b1Yth/dyCdVDvjKsqloHp/RjOUiNiLROZOaB7aSXyhZY8ZR3YoIiRl7AXwCR3O9d6IgeS8nuJ2TL/82q5Out+3xtuFIXQs+gntUEzT7kMo1fF9rBoG5uEAQwUcmbLhFB42gy5M6WZpglgE1ihrS0jP/Zs6xPCu8R3HGm2KxRa9kWvA9ioMJ/VrkSDR6nXzKNKOg+HMEsv7bfAT5nvToiQqa52V+2EQ2cL0XEUstL0XIWps/HM1EotQk=;qyu70z6l2ALpNEtx+o/Tmg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-share
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/23/donald-trump-shares-fake-ai-created-image-of-himself-on-truth-social/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

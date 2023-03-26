@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest \"Machine Learning Market\" Dynamics and Forecast 2031"
+    excerpt: "Mar 25, 2023 (The Expresswire) -- Report Highlights with 115 pages:-\"The global Machine Learning market size was valued at USD 14304.85 million in 2022 and is expected to expand at a CAGR of 48.64% during the forecast period, reaching USD 154282.83 million ..."
+    publishedDateTime: 2023-03-25T22:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-machine-learning-market-dynamics-and-forecast-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Latest \"Facial Recognition Market\" Size, Competitors and Forecast to 2031"
+    excerpt: "Report Highlights with 98 pages: -\"The global Facial Recognition market size was valued at USD 4491.54 million in 2022"
+    publishedDateTime: 2023-03-25T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-facial-recognition-market-size-competitors-and-forecast-to-2031-2023-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market Report | Global Forecast From 2023 To 2030"
     excerpt: "Mar 21, 2023 (The Expresswire) -- 360 Market Updates(360marketupdates.com) published a new research report on Artificial Intelligence in Oil and Gas Market 2023 with 114 Report Pages and enhance with self-explained tables, pie chart and graph in smart format."
     publishedDateTime: 2023-03-22T08:02:00Z

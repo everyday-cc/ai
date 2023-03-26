@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-market-heating-up-even-more/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -84,20 +84,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Lendbuzz Named 2023 \"Best Consumer Lending Platform\" in 7th Annual FinTech Breakthrough Awards Program"
-    excerpt: "Lendbuzz, the AI-based fintech company that is revolutionizing the auto finance market, today announced that it has been selected as winner of the \"Best Consumer Lending Platform\" award in the 7 th annual FinTech Breakthrough Awards, conducted by FinTech ..."
-    publishedDateTime: 2023-03-23T16:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31478367/lendbuzz-named-2023-best-consumer-lending-platform-in-7th-annual-fintech-breakthrough-awards-progr"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "cFMghU9pDhHLk4VHWi0O9CYRY3KlMvC1yVH35dZMieE2slMMzUcFzC41JCHwtu6Po/NKt29MxTXHRjy1ZlyvuWAGKfPL1oDXWKLP1QcJssKmcQ8onJyi0k+r4KbUuv4kTCbvWmz1ZJIdzMJdvk/ROjyQyGmOS/SUsJkL6+E5URhPai7ZULADH0YgGwwOgGaPTDC9s5KGG6E4Hj3HFZzF14pSJ2/YtDtfhOdAhzDv8N6Zkr/ojtqAEfCndxWJSYSSKz8sfSyg3KDzls6bMMnsXkXvxmvb3ff6VYTg+LbOqJulELeMSHhX+DcQhzuvIeZcWipu9XCduuknF9hpXGU4NOpGx5JmsNbtbE9Yb938SsIy+M7w6w2lXGDJHoTgWMHFh0aGvJ4gIaU1FgZYyt5Xx3RKaS+II8lN4VitgHNnrGzwuHZrtECfNRV2LUb2WVkTX9xlVIUg6NvkbsShFd6IoGX+Xyp7liLyIK/in9eddAlpYsEUY64N+3Ap24sXW8Gj1eWFUxYkBPs/1bhpSK9Eqg==;w6TE2wvCtQJbHVS9t453qA=="
 ---

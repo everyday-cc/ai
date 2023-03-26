@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-01-is-artificial-intelligence-faster-than-brain-learning-study-finds.md",
+      "title": "Is artificial intelligence faster than brain learning? Study finds",
+      "excerpt": "Artificial intelligence has traditionally been derived from human brain dynamics. However, as compared to deep learning, brain learning has several important limitations (DL). First, efficient DL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "originalUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/is-artificial-intelligence-faster-than-brain-learning-study-finds-101675168281058-amp.html",
+      "publishedDateTime": "2023-01-31T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-tesla-faces-justice-department-probe-over-self-driving-tech.md",
       "title": "Tesla Faces Justice Department Probe Over Self-Driving Tech",
       "excerpt": "The DOJ has requested documents related to the automaker's Autopilot and Full Self-Driving software. The Department of Justice is seeking information about Tesla's Autopilot and Full Self-Driving, of FSD,",
@@ -1379,50 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ut-will-launch-online-masters-program-in-artificial-intelligence.md",
-      "title": "UT will launch online master’s program in artificial intelligence",
-      "excerpt": "AUSTIN (KXAN) — For the first time ever, people may be able to pursue a master’s degree in artificial intelligence online at the University of Texas at Austin. The university shared in a news ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
-      "originalUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/07/ut-austin_37219191_ver1.0.jpg?w=1280",
-          "width": 1280,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/education/ut-will-launch-online-masters-program-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-01-26T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

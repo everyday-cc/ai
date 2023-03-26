@@ -2,6 +2,210 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-02-07-artificial-intelligence-glossai-ai-driven-video-generator-developer-finalizes-8m-seed-round.md",
+      "title": "Artificial Intelligence: GlossAi, AI-driven Video Generator Developer, Finalizes $8M Seed Round",
+      "excerpt": "GlossAi, creators of an AI-driven video generator that allows organizations to rapidly create multi-audience content, announced an $8M seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/02/202205-artificial-intelligence-glossai-ai-driven-video-generator-developer-finalizes-8m-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/02/202205-artificial-intelligence-glossai-ai-driven-video-generator-developer-finalizes-8m-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-music-startup-waveai-launches-a-tool-for-human-songwriters.md",
+      "title": "AI music startup WaveAI launches a tool for human songwriters",
+      "excerpt": "We wrote about WaveAI’s launch of a musical AI app called Alysia back in 2019, although more recently its focus has been on LyricStudio, software to help songwriters when they are coming up with lyrics.",
+      "sourceUrl": null,
+      "webUrl": "https://musically.com/2023/02/07/ai-music-startup-waveai-launches-a-tool-for-human-songwriters/",
+      "originalUrl": "https://musically.com/2023/02/07/ai-music-startup-waveai-launches-a-tool-for-human-songwriters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Music Ally",
+        "domain": "musically.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-stmicro-leans-on-ai-cloud-as-chip-designs-become-more-complex.md",
+      "title": "STMicro leans on AI, cloud as chip designs become more complex",
+      "excerpt": "The company is one of a several that are using AI to help design chips, which involves translating a complicated circuit architecture into a blueprint for fabricating billions of transistors on a small piece of silicon. Synopsys, the maker of the AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
+      "originalUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/f5bGAua9t9HeQjQJO2SfjJqNKX8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OQ3DURFSHNMQ5GH7L6M2UNVASA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly.md",
+      "title": "How IBM’s new supercomputer is making AI foundation models more enterprise-budget friendly",
+      "excerpt": "IBM has built out a cloud-native AI supercomputer from affordable, commodity hardware for foundation model–training R&D initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/",
+      "originalUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/VB_IBM_Vela_AI_supercomputer_020623-e1675730861899.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ibms-new-supercomputer-is-making-ai-foundation-models-more-enterprise-budget-friendly/amp/",
+      "publishedDateTime": "2023-02-07T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-how-scientists-are-using-ai-to-talk-to-animals.md",
+      "title": "How Scientists Are Using AI to Talk to Animals",
+      "excerpt": "Portable sensors and artificial intelligence are helping researchers decode animal communication—and begin to talk back to nonhumans",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
+      "originalUrl": "https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo.md",
       "title": "FRANCISCONOMICS: Reflections on Pope Francis’ ‘Hands Off Africa’ Speech in the Democratic Republic of Congo",
       "excerpt": "To this end, I am sure there will be no shortages of events and reflections focusing on the United States and the African Diaspora. But since black history begins with Africa and BHM is also an opportunity to reconnect with and increase our understanding of the mother land and “the Cradle of Humanity,",
@@ -750,211 +954,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-bets-big-on-its-ai-service-bard-to-counter-chatgpt.md",
-      "title": "Google Bets Big on Its AI Service ‘Bard’ to Counter ChatGPT",
-      "excerpt": "Bard can be an outlet for creativity, and a launchpad for curiosity,” Google CEO Sundar Pichai wrote in a blog post",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6253477/google-bard-ai-chatgpt-microsoft/",
-      "originalUrl": "https://time.com/6253477/google-bard-ai-chatgpt-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical.md",
-      "title": "Cisco turns to risk-based authentication to make MFA and zero trust practical",
-      "excerpt": "Cisco releases risk-based authentication to offer an adaptive MFA authentication process and make zero trust practical.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
-      "originalUrl": "https://venturebeat.com/security/cisco-turns-to-risk-based-authentication-to-make-mfa-and-zero-trust-practical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
-      "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
-      "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
-      "sourceUrl": null,
-      "webUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "originalUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prescott eNews",
-        "domain": "prescottenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028.md",
-      "title": "Deep Learning in Machine Vision Market 2023 Research Report which Shows Huge Growth Rate, Revenue, Progress Insight and Forecast to 2028",
-      "excerpt": "Feb 07, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. Global “Deep Learning in Machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-research-report-which-shows-huge-growth-rate-revenue-progress-insight-and-forecast-to-2028-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T22:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-deep-learning-market-2023-new-report-global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027.md",
-      "title": "Deep Learning Market 2023 (New Report) - Global Industry SWOT Analysis with Strong Data by Prominent Player and Forecast upto 2027",
-      "excerpt": "Global Deep Learning Market 2023-2027 research report offers detailed coverage of Deep Learning industry and market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2023-new-report---global-industry-swot-analysis-with-strong-data-by-prominent-player-and-forecast-upto-2027-2023-02-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T22:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
