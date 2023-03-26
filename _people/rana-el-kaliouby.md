@@ -3,14 +3,14 @@ name: "Rana el Kaliouby"
 bio: "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst"
 location: Boston
 type: "profile"
-heat: 138
+heat: 108
 
 website: https://t.co/CptEKpnJzd
 
 twitter:
   username: kaliouby
   url: https://twitter.com/kaliouby
-  followers: 34958
+  followers: 34956
 
 linkedin:
   url: https://www.linkedin.com/in/kaliouby/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Rana el Kaliouby"
 
-secured: "nDuo808VsZ9O5+WlmN86OnSu/iVYBjSK9w4Nwao4CuMChgG6aFy8xKa4QgZXmHAg4lCUl3y0HO3YZOUh1+P86bNaqUomnDOt2XQ+0D5Uu3Cv76zM8mwifdzmBvl2XF3Eb45Vzwmvkcv5sxN5KAcWbAPGyZepOpmgwBXZ34pE3//9hp+D/0hsAEa04rHyeA5lCH4jvu6D2FOCyVeFOOJKQqkS//hKfQF941yhNSTJMusbl9DbH6Xw6/pDB5p6eDVVQHhZw+u7cI4KZzDbn1hoS4zwwyv948M3LD9St3ToZS7ijesvvvCePUPR0nyjsHDle2zJp5+2PB798e45/RyN+9NfUIWzyJkMu/Rz67oJ4oxiOTnaKl8JnUkcUzHq/f8w5MihxXMcQqPHsj0w7jyXTtoLGbX6UoOPhblDky9hwn0=;hd4+hnujCIKYVI9MC7JPuA=="
+secured: "tI+Wl+ICdPCPLSTkpo6w1mjnNqlQAIN2/y/sUsP/TAd3wk4YDKfYlPyVlwKC/BZQPQv6FRNf1ImoM89sBKzzfPSAvrwQFqsIasDVyGaJw8j0GgOAd55su1cA7rTxPHr8TonqlHVuhS9AakHIOhcVjLxlbxzQO3iuwPn5AIBkVq/l0tTXvb5NOYC6CBvWJMcmkqH0wJARS8WdcBSG+DQAaGTcJG+yuaraJ+VrrYvtyfrD/uNzkfLQfr+pZQ4m2pjYTMch7VxuR/7SyZW3Q77q/vohRREitOv/UTk9N0YVUBiSbgoLMS/M6xjgodNWYPp8pcsI2LQ/qJ6DCWXUiyDvRTG/6CEZ6CToVCYUJBVJ+XZeDQAEASbUZ8KiSn44OYa8/Q9GfoDntP/BHOqgA1GtGGbJsRGrHMaZ7ZWEpc9dvBo=;v9KUZqPEKCozpxUIOZhltw=="
 ---
 
