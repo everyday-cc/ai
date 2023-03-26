@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/03/22/ai-will-revolutionize-your-inbox/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Bill Gates predicts how artificial intelligence will evolve"
+    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
+    publishedDateTime: 2023-03-23T11:09:00Z
+    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
+    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 61
+    images:
+      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
     excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
     publishedDateTime: 2023-03-22T15:31:00Z
@@ -70,21 +86,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Bill Gates predicts how artificial intelligence will evolve"
-    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
-    publishedDateTime: 2023-03-23T11:09:00Z
-    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
-    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
-    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
     type: article
     provider:
-      name: as.com
-      domain: as.com
-    quality: 59
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
     images:
-      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
-        width: 644
-        height: 362
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PoCTvh5JQv6gGZgI5J1HR4FMbnbJez2Jnm4ctrS93QodMmcudTXUW/lVmYO842ta1liGsgCi55Oo8TYexdjd0AaAEyjYlnkWZ+jvQkCK91D/jezAEj00wBXJS5EQ1senzdq85q2t+GJh6pKuu/cqF+juZ4pHF5ah7KsDJz+IRDzT5OzDhh3/6Tjy7JDNN8MVYvW89+6kuIo0QohqISLDAKCRRLljcWn2h6vZVgdorUYy98n692+QbguomBsiL9oPRdo8aJjnjJUxQd+YVq2EBu+d812EQl7uUBLQxvibCbeXtqolYCHdu/6tW6f0dhreKPJWklhw8wpuZpv9axnTNWabyOHtfWOTRFpw8vJa74whsjMd+n7GHd5yJksnVZZS7wZ+D8eNZ7x4SjPkLLZOm4sCXWwBb7XNVK54unIMjicUzSv7b3NDwDf2xfjmxID7nqMJOUl3RIPrGJ6Mgi33cAobbXPurK/qQvN84VV2ykJjSOFIHoQty8mtxDKIWWfMMbhC3SZ4AcRztGZD/u1ANQ==;60dOmnPwScZCZwZrU9XSIA=="

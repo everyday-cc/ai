@@ -20,22 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps"
-    excerpt: "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ..."
-    publishedDateTime: 2023-03-21T19:52:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 112
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
     excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
     publishedDateTime: 2023-03-26T01:07:00Z
@@ -124,6 +108,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Healthcare Solution Market Investment Feasibility and Trends from 2023 to 2029 | IBM Watson Health, Google Health, Microsoft Healthcare"
+    excerpt: "Mar 23, 2023 (Heraldkeepers) -- Tech/News-The AI Healthcare Solution Market is projected to grow ... application dominance are all included in the report by- IBM Watson Health, Google Health, Microsoft Healthcare, NVIDIA, GE Healthcare, Cerner Corporation ..."
+    publishedDateTime: 2023-03-23T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-healthcare-solution-market-investment-feasibility-and-trends-from-2023-to-2029-ibm-watson-health-google-health-microsoft-healthcare-2023-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
     excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
     publishedDateTime: 2023-03-23T10:10:00Z
@@ -152,22 +150,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
-    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
-    publishedDateTime: 2023-03-22T20:41:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
     excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
     publishedDateTime: 2023-03-26T10:44:00Z
@@ -195,36 +177,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
-    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
-    publishedDateTime: 2023-03-24T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
-    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
-    excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
-    publishedDateTime: 2023-03-21T21:54:00Z
-    webUrl: "https://www.techspot.com/news/98023-microsoft-adobe-reveal-their-new-ai-image-generators.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 77
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-37.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
     excerpt: "BestReviews is reader-supported and may earn an affiliate commission. Details. Everything you need to know about Microsoft’s new AI feature Artificial intelligence is quickly becoming a part of"
@@ -258,22 +210,6 @@ related:
         width: 675
         height: 448
         isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
     excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
     publishedDateTime: 2023-03-21T23:26:00Z
@@ -288,19 +224,21 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "OpenAI's ChatGPT is 'only possible' with Microsoft Azure, says Microsoft"
-    excerpt: "\"Only Microsoft Azure provides the GPUs, the InfiniBand networking, and the unique AI infrastructure necessary to build these types of transformational AI models at scale, which is why OpenAI chose to partner with Microsoft,” said Scott Guthrie ..."
-    publishedDateTime: 2023-03-23T22:12:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/openais-chatgpt-is-only-possible-with-microsoft-azure"
+  - title: "How retailers are empowering business transformation with TCS and Microsoft Cloud"
+    excerpt: "TCS specializes in AI-powered vision technologies like Microsoft Azure Percept to create ... portfolio of intellectual property using machine vision, conversational assistants, predictive analytics, machine learning, AI, and other capabilities on Microsoft ..."
+    publishedDateTime: 2023-03-24T20:08:00Z
+    webUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html"
+    ampWebUrl: "https://www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/465442/how-retailers-are-empowering-business-transformation-with-tcs-and-microsoft-cloud.html/amp/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 68
+      name: CIO
+      domain: cio.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.cio.com/wp-content/uploads/2023/03/image-retail-custom-2-B4LLS.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
     excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
@@ -367,34 +305,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
-    excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
-    publishedDateTime: 2023-03-21T21:34:00Z
-    webUrl: "https://www.macrumors.com/2023/03/21/bing-ai-image-creation-microsoft/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 53
-    images:
-      - url: "https://images.macrumors.com/t/qhsiw54VkHcJa_hg5TJewpV8k1M=/2560x/article-new/2023/03/bing-image-creator-experience.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
-    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
     excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
     publishedDateTime: 2023-03-25T16:18:00Z
@@ -413,48 +323,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 45
-  - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
-    excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
-    publishedDateTime: 2023-03-22T06:04:00Z
-    webUrl: "https://futurism.com/sam-altman-warns-competitors"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
-    excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
-    publishedDateTime: 2023-03-21T22:12:00Z
-    webUrl: "https://www.channelnewsasia.com/business/biotech-ai-startup-unlearn-adds-15-million-and-openai-cto-board-3362966"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Google Opens Up Access to Bard AI Chatbot"
-    excerpt: "Google today began allowing users to sign up to use Bard, its AI-powered chatbot that rivals Microsoft's Bing chatbot. First announced back"
-    publishedDateTime: 2023-03-21T23:23:00Z
-    webUrl: "https://www.macrumors.com/2023/03/21/google-bard-ai-chatbot-waitlist/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/muWO1r_6WOX08sxfZrkWN0GeVFU=/1600x/article-new/2023/03/google-bard.jpg"
-        width: 1600
-        height: 872
-        isCached: true
   - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
     excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
     publishedDateTime: 2023-03-23T18:20:00Z
@@ -464,38 +332,15 @@ related:
       name: WGNO
       domain: wgno.com
     quality: 36
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+  - title: "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022"
+    excerpt: "Since its 2021 introduction, Microsoft and Microsoft-owned GitHub have been evolving the Copilot extension beyond code-completion capabilities to take advantage of new breakthroughs like natural language processing (NLP) tech that powers the sentient ..."
+    publishedDateTime: 2023-03-24T18:26:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Bing’s New ‘DALL-E’ Feature Lets You Create AI Images"
-    excerpt: "On top of adding pressure to its workforce, the search monolith also recently invested $300 million in the AI start-up Anthropic, which was founded by a former employee of OpenAI. This investment falls majorly short of Microsoft's recent $1 billion ..."
-    publishedDateTime: 2023-03-21T19:04:00Z
-    webUrl: "https://tech.co/news/microsoft-bing-create-ai-images"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 34
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 17
 
 secured: "vPaP1TP/1wMI3mi9Wfj6/RTZRIPadALQ8MyeZfgktAtWoERimsToOVMrji+x36kYbXThCqR8YC9YFIARjtJV90eQFPOhmG5nR/vtEVeJ97vRgaSDxSrllpilVY89OevnmW+g+bgNKjw9l0mFcJSl/oqLG5F7IchLRC6F6+2pQFownqMGWM/ADRMuwmPuhueigBnwuux3h4eN7fCixNBnXvuCx9eEO6lczql8jgwW+Ouh6rU98LV/uwxYPiKNP7FKrXTdILtI7c205A+gPva9YlRSC6W9/RrwcOtL6bsEb43mF9L4Qh+0jMDdxToBTKgTjFvFCG5pQAH485TK3Xr88B+8y60N2HhXoQe4uvd88Hi1kU7nfWPRtTehu9PmAEYgMrRJYATdBuUsgFYbHXrsz3C59br7kZvM3qS1h+nnIQDvg+b013hEB4/hmZuHMlqDRib4kfX+y6txWmpw7H0FhRqV+UeSBSh2SHfiOMPjPQBI++wG+KQS3dXLMPJt6ZD105Ugi4lQSsjhme0f9BE7pw==;yp8Z/McVLQQzMnI+DSm0Mg=="
 ---

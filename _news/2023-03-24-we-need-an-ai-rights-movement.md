@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-righ
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hill
@@ -27,22 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI isn't close to becoming sentient"
-    excerpt: "No wonder, then, that when I ask students how they see the growing prevalence of AI in their lives, one of the first anxieties they mention has to do with machine sentience. In the past few years, my colleagues and I at UMass Boston's Applied Ethics Center have been studying the impact of engagement with AI on people's understanding of themselves."
-    publishedDateTime: 2023-03-21T19:32:00Z
-    webUrl: "https://www.thehansindia.com/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
-    ampWebUrl: "https://www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/opinion/news-analysis/ai-isnt-close-to-becoming-sentient-788986"
+  - title: "Artificial Intelligence Advancements Raise Excitement, Caution Among Experts"
+    excerpt: "Artificial intelligence (AI) is becoming more prevalent than ever, with companies like OpenAI, Microsoft, and Google offering easily available AI too"
+    publishedDateTime: 2023-03-26T08:14:00Z
+    webUrl: "https://menafn.com/1105862279/Artificial-Intelligence-Advancements-Raise-Excitement-Caution-Among-Experts"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/03/21/1342860-chat-gpt.jpg"
-        width: 1200
-        height: 720
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_11.jpg"
+        width: 800
+        height: 544
         isCached: true
+  - title: "Study highlights complicated relationship between AI and law enforcement"
+    excerpt: "A recent study that examined the relationship between artificial intelligence (AI) and law enforcement underscores both the need for law enforcement agencies to be involved in the development of public policies regarding AI -- such as regulations governing autonomous vehicles -- and the need for law enforcement officers to better understand the limitations and ethical challenges of AI technologies."
+    publishedDateTime: 2023-03-22T02:47:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/03/230321112609.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
 
 secured: "FHYNwvkR+CCvIQ5Q5Ys+qn59BU59ZSq6uN7vss+sfThjD0Dff6f6DaXmdZFJ3vruFab0tOttaNXr+8AyBdFawSsIW2pgHMYM983ZN3sERokAvtTkmiECo71uXhi/MROv51Nk2IzQekqz06DmyrhG43Ca+/ju+3m8LzslzsFAHEDTTxPqvnSe7B+Uxq0l3PdJLXnUxQOfF8f8pFcVJFnL3WsGlEHSYea+AdR5/2a8k9WmBZ5Ls+JRkDw+T6/QefGKMHpGjj27I0GUfDfVc6jDhsN9b4tTiKxGYFkIW3W6EW+TrGSUL1U8Qud/L6xsdbxxnd9NGg1e+AO4YA+oHLFgY+cSNNwAjxd2VoIlYvZaJZ8=;demzdKxwuv9EXfdHYYcGHA=="
 ---

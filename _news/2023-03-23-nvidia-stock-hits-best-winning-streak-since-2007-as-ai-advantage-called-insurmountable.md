@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-hits-best-winning-streak-since-2007-as-ai-advantage-called-insurmountable-6b79a4e8"
 type: article
 quality: 80
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,38 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
+    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
+    publishedDateTime: 2023-03-22T16:24:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-748612/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia is winning AI race, but can’t afford to trip"
+    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
+    publishedDateTime: 2023-03-22T21:24:00Z
+    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
+    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 61
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tqKPLm2NyfpA2yQiYGdCb7s6SobdQpqqVW286g8NVH7VcAvHOgwjBmWa/XtQhnFsnNiUpBSL9SGRZ9DeggDJazFRhbH2VhsAaWZolEXCLS2h3XbPDrcn/lWtGN6MH5yX9NkVoWlpV+XotDNC35PosS2JwrDFLl3Ade4EyEzy5GArUWPcCwd1XDjaQcQmUmny2BxiHRU/e0imknWnsP71DM/UN3mrhciauya5KSjil5THW5rwCs4/97X0SVipmTEfQKjnv5It6Q2t+ocKcC2ieiAkiwoAzCeE4PDkX1zSttOHyouzcMqAo0jim8gyFGhDm9bytBWPd8x5SRKmpKxvMctVfdbc6JHOxq3Yg5m3Wp0=;WEtYe/YTMMphLc/VxDtLdA=="
 ---

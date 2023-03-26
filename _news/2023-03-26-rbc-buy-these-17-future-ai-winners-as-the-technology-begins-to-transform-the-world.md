@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-26T10:16:00Z
 originalUrl: "https://www.businessinsider.com/ai-investing-artificial-intelligence-stock-picks-to-buy-chatgpt-rbc-2023-3"
 webUrl: "https://www.businessinsider.com/ai-investing-artificial-intelligence-stock-picks-to-buy-chatgpt-rbc-2023-3"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.insider.com/641e059a1012e900188ee0a3?width=1200&format=jpeg"

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-26T13:00:00Z
 originalUrl: "https://tucson.com/opinion/local/local-opinion-the-ai-future-should-not-be-decided-by-those-who-profit-from-it/article_328f0660-c9c4-11ed-9952-dfc5fb31b7ff.html"
 webUrl: "https://tucson.com/opinion/local/local-opinion-the-ai-future-should-not-be-decided-by-those-who-profit-from-it/article_328f0660-c9c4-11ed-9952-dfc5fb31b7ff.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Arizona Daily Star

@@ -24,71 +24,79 @@ images:
     isCached: true
 
 related:
-  - title: "There's No Such Thing as Artificial Intelligence"
-    excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T06:37:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
+    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
+    publishedDateTime: 2023-03-22T20:41:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
+    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
+    publishedDateTime: 2023-03-24T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
+    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Venture capitalists race to land next AI deal on Big Tech's turf"
+    excerpt: "There’s an investment craze over generative artificial intelligence, the subset of AI that exploded in popularity with ChatGPT, the chatbot from startup OpenAI. Such technology can create virtually any text, image or other content on command after having ..."
+    publishedDateTime: 2023-03-25T06:00:00Z
+    webUrl: "https://www.reuters.com/article/ai-investment-idCAKBN2VQ0QP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
+    excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
+    publishedDateTime: 2023-03-22T06:04:00Z
+    webUrl: "https://futurism.com/sam-altman-warns-competitors"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
-    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
-    publishedDateTime: 2023-03-23T09:16:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+  - title: "AI startups to watch"
+    excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
+    publishedDateTime: 2023-03-23T14:16:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "From brain waves, this AI can sketch what you're picturing"
-    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
-    publishedDateTime: 2023-03-25T12:05:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "AI startups to watch"
+    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
+    publishedDateTime: 2023-03-23T17:13:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
-    publishedDateTime: 2023-03-25T17:15:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
-    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
-    publishedDateTime: 2023-03-23T13:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "HmvO61i/bS3tbhwh1YLCXYonY24zf+DlPwknrG7t5kxmiSEUFQHPI6JWl01w0T25SQzA65PGnATkuJGo4sCVDscL4THSw7csg7DbM9GmmXn4Bm21X5occi4al21shX7V4qksnnegazZ6vyvwjlTSDQghQLafvOoygvxw0BX3CavZl14V4fYzWTQoehrubV4uDq5JQdHKDeILD7yRFedRG88bAYJ31tfCwmKBJYY72SS6TEDsjItvtt49IlgwjmKRD6bwn4qztomsOglLLf3ScCrp3gR0CIfIR2sUqPdu0lDV872gF5unv1JExEy3fkolyME1VEVO6Aqb3oBqnUyfoTs+fJjCHl4H3lktgS8wLGfcJrcjJWwD7pdqYYRKBx3usHI3qeifn0TxEiSLkeRmtwNn8b0EmV2jie3yFCXvaBLAukAxdO/Pn8oQxF+pOPk1Tz+I7p8/FrYG+ONeEIpvGLE488nefKxhJFtPu+Zw++GsdTN0A+gLoV0r7zRB5X5Z0rmVvtKgmLIsU3ABwo1zsw==;5EuaqqtsqXVvqD6/sAQejQ=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Bill Gates predicts how artificial intelligence will evolve"
+    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
+    publishedDateTime: 2023-03-23T11:09:00Z
+    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
+    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 61
+    images:
+      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
+        width: 644
+        height: 362
+        isCached: true
   - title: "Bill Gates Says Artificial Intelligence Is the Most Revolutionary Technology in Decades"
     excerpt: "Bill Gates said he believes artificial intelligence is the most revolutionary technology he has seen in decades, on par with computers, cellphones and the internet. “The development of AI is as fundamental as the creation of the microprocessor ..."
     publishedDateTime: 2023-03-22T15:31:00Z
@@ -65,21 +81,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Bill Gates predicts how artificial intelligence will evolve"
-    excerpt: "Microsoft co-founder Bill Gates has published a 7-page letter in which he talked about the importance that Artificial Intelligence will have in the future. Gates says that the development of this technology is “as fundamental as the creation of the ..."
-    publishedDateTime: 2023-03-23T11:09:00Z
-    webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/"
-    ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
-    cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
     type: article
     provider:
-      name: as.com
-      domain: as.com
-    quality: 59
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
     images:
-      - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
-        width: 644
-        height: 362
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BHYTuV+8dJylSsoEAzCuxizfiSGppfGZGZkhoAJhZgsQ4AsLxYlk6toHKLtkttdoR8hrsUKmb6KSkdIGiXIKv9PL7ooLWIcVPxPkEzmX9NMW+TIp5x5piNp9ChmioNN6HgTBTXMCP2LafKmtdwkkMtik1OMrVDFcwMvZN3WNTGtudCeF0tlT9sh3Q3wYCqYrUfGQr+7D29LcHAksfyKbQnsN4Y0FGJwyGqaQBuz8oWJ1LiVydo0qq8eqaWqd2QxcPzSzyjtbugwB+ki91wWCJpm4ogF5mbFPil1nPx6iFurmwUis4Op680gE02TKF3do2ZHOfmR6Qqyw2vbOzx0hx4bUXwkHzKSeC0NIykhCmq0=;CM730MBWb8j9t3GARDT7Sg=="

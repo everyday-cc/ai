@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-22T16:31:00Z
 originalUrl: "https://www.tweaktown.com/news/90800/nvidia-announced-six-new-workstation-rtx-ada-gpus-for-laptops-and-desktops/index.html"
 webUrl: "https://www.tweaktown.com/news/90800/nvidia-announced-six-new-workstation-rtx-ada-gpus-for-laptops-and-desktops/index.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TweakTown

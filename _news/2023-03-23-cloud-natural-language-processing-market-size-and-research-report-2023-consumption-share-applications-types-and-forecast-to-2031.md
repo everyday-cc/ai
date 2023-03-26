@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Collaboration Market Share and Forecast till 2031"
-    excerpt: "Many major technology players are [Ku Zoom.ai, Microsoft, Cisco, iotum ... Based on Product Types the Market is categorized into [Solutions, Services] that held the largest Cognitive Collaboration market share In 2022. With the aim of clearly revealing ..."
-    publishedDateTime: 2023-03-22T04:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-share-and-forecast-till-2031-2023-03-21"
+  - title: "Artificial Intelligence in the Education Sector Market [Latest Report] Review Report 2023 Alongside Insights, Figures till 2030"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2023 (The Expresswire) -- Artificial Intelligence in the Education Sector Market Size 2023-2030 | New Report (109 Pages) | In This Reports Artificial Intelligence in ..."
+    publishedDateTime: 2023-03-23T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-latest-report-review-report-2023-alongside-insights-figures-till-2030-2023-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Discover the Hidden Opportunities in the Artificial Intelligence Consulting Service Market [2023-2030]"
+    excerpt: "Our Most Recent Research Report Indicates that Artificial Intelligence Consulting Service Market is Set to Undergo Significant Changes in 2023 Compared to the Previous Year. [124 Pages Report] Our Artificial Intelligence Consulting Service Market research ..."
+    publishedDateTime: 2023-03-25T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-the-hidden-opportunities-in-the-artificial-intelligence-consulting-service-market-2023-2030-2023-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

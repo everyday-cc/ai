@@ -3,8 +3,10 @@ category: news
 title: "WGA Would Allow Artificial Intelligence in Scriptwriting, as Long as Writers Maintain Credit"
 excerpt: "The Writers Guild of America has proposed allowing artificial intelligence to write scripts, as long as it does not affect writers’ credits or residuals. The guild had previously indicated that ..."
 publishedDateTime: 2023-03-21T19:41:00Z
-originalUrl: "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/#!"
-webUrl: "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/#!"
+originalUrl: "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/"
+webUrl: "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/"
+ampWebUrl: "https://variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/biz/news/writers-guild-artificial-intelligence-proposal-1235560927/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "zOWMmZEWiuqFs6WQ22maNCsjsX4UBixXlUiKjvqUSmKOpZ8EZtP7Cv3Xqe1aQ4BwifIUTQNUaNXH/Vk1uPtT3tOMjtimHK5T9ukC7m5HJ0tR9P6JAIM5QxVeu27J3Ba78PuGhAj12CjBSqxLSp6mc2gf1urydJCHEPh1IRyj5vdeuAGQgvMWKI4NnIRoYSqtS9hMck5AFcHw3uIqTlhfQw73Po8nOLWv3UXSkbF+Bd+Ejuxey2K04GdZC4PzA9bVOwtrd8i2Lh9qGEvU5CX5PvMwvDnvRCDn7N4evbdIfk6mzr4yDZN3u/IMffXvHzUlKSCldnZLsds/4T35htXO6rwXbMpPK8bs+r6WwYrpJ1s=;+f6nqLMYrP9XJU9VXMKEnw=="
+images:
+  - url: "https://variety.com/wp-content/uploads/2020/07/losangelesvenues232546.jpg?w=1000&h=563&crop=1"
+    width: 1000
+    height: 563
+    isCached: true
+
+secured: "93FdPc4h43suQx2XECWTPjIrwccnXPK4uVErzlm97E7OWFobHTaCgKBoLzMD64QO36bUpRCfohiXmgNz+BsyBBdLasIb00/OuLuC/Sgn69klJZGatmICU8kxsKM88EfwwLUUDOWkDl4VpR/dMqSSb9GevImRXDXiUqsOG/qoJL9YlQAwIIaLplviovzGM0NxNhPI5XWw4pvvV8gSxM9YVEzeCpvjmQpl+APEw+evHBXiCxW/qVDlrrRpf2Mo6L84ltVJbN/amHpxwJ1xaU+aNitAvfQ6S90y6f7niNCfAUrchab0/ji3UOV8qCXhdxjPC6Oa9Mal18AXOgWf9dvDsWbttj8C8+3Fou6X+X0mR20=;6gyLWnATiTnt8TX6FYSysA=="
 ---
 

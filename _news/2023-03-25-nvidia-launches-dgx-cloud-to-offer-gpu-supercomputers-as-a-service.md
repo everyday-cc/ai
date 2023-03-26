@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "NVIDIA Launches New GPUs And Services for Generative AI Inferencing"
-    excerpt: "ChatGPT has certainly changed the AI landscape, but it currently requires an 8-GPU node to run a query on OpenAI and Microsoft’s infrastructure. That is due in part to the memory requirements to hold the large model in the HBM memory of an NVIDIA A100 or ..."
-    publishedDateTime: 2023-03-21T22:45:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/03/21/nvidia-launches-new-gpus-and-services-for-generative-ai-inferencing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641a1edc5df0ce1a2b4b2898/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 638
-        isCached: true
   - title: "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves"
     excerpt: "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ..."
     publishedDateTime: 2023-03-22T17:47:00Z
@@ -81,6 +65,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms"
+    excerpt: "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform."
+    publishedDateTime: 2023-03-23T11:42:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Next-gen Nvidia AI chips coming to cloud platforms"
     excerpt: "At the chip maker’s annual developer conference on Tuesday, CEO Jensen Huang positioned Nvidia as the engine behind “the iPhone moment of AI”, as he’s taken to calling this inflection point in computing."
     publishedDateTime: 2023-03-22T07:08:00Z
@@ -97,34 +97,6 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "Nvidia Is Winning AI Race, But Can’t Afford to Trip"
-    excerpt: "The chip maker’s stock is near record valuation as it extends its lead even further with generative AI developments."
-    publishedDateTime: 2023-03-22T16:24:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-is-winning-ai-race-but-cant-afford-to-trip-10d9e75b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-748612/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia turns to AI cloud rental to spread new technology"
-    excerpt: "Huang said Nvidia was also working with Microsoft and Alphabet Inc (GOOGL.O) to offer its supercomputers, used to create new AI products, as a service. Nvidia on Tuesday announced new chips and ..."
-    publishedDateTime: 2023-03-21T21:26:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-set-reveal-new-ai-technologies-annual-conference-2023-03-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/XJt3E7YrrE6OCj0GDrbpdRo2CIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AMJ7RHVKFM75D2HO4GJCMFIOQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "NVIDIA goes all in on AI, shares progress at GTC"
     excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
     publishedDateTime: 2023-03-22T21:17:00Z
@@ -138,82 +110,6 @@ related:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
-        isCached: true
-  - title: "Departing Intel exec to focus on loosening Nvidia's grip on AI for movies, games"
-    excerpt: "REUTERS/Arnd Wiegmann March 21 (Reuters) - Raja Koduri, the chief architect at Intel Corp (INTC.O), is leaving to start a company that aims to loosen ... lets movie and game artists easily use those AI tools whether they are using a PC, Mac, iPad or ..."
-    publishedDateTime: 2023-03-21T20:51:00Z
-    webUrl: "https://www.reuters.com/article/intel-koduri/departing-intel-exec-to-focus-on-loosening-nvidias-grip-on-ai-for-movies-games-idUSKBN2VN1K0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
-    images:
-      - url: "https://www.reuters.com/resizer/oql1qx6qSkUFdLNmTd5ZvyA3C8E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SIVMUZZFKJIMROCY63625TDJLE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Nvidia is winning AI race, but can’t afford to trip"
-    excerpt: "The chip maker’s market value has now surpassed that of Tesla and Facebook-parent ... director of quantitative research for the firm. The bulk of Nvidia’s gains have come in the past three months, as the public launch of the AI-powered chatbot ..."
-    publishedDateTime: 2023-03-22T21:24:00Z
-    webUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip"
-    ampWebUrl: "https://www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/nvidia-winning-ai-race-cant-afford-trip.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 61
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7f347376-49e0-48d9-b642-d282cc199318/e0162b9a-2f0a-4f6b-a2fb-6fce05962b67/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia’s Four Workhorses Of The AI Inference Revolution"
-    excerpt: "The “Kepler” K80 twofer GPU card, launched way back in 2014, came out because Nvidia was so focused on the exploding AI market that it didn’t put enough 64-bit floating point math in the follow-on “Maxwell” GPU, and the stopgap was to just put ..."
-    publishedDateTime: 2023-03-21T22:19:00Z
-    webUrl: "https://www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/"
-    ampWebUrl: "https://www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/03/21/nvidias-four-workhorses-of-the-ai-inference-revolution/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/03/nvidia-h100-nvl-jensen-huang.jpg"
-        width: 860
-        height: 491
-        isCached: true
-  - title: "Oracle ties up with Nvidia to offer AI supercomputing service"
-    excerpt: "A new AI supercomputing service, dubbed Nvidia DGX Cloud, has been made generally available on Oracle Cloud Infrastructure’s Supercluster."
-    publishedDateTime: 2023-03-21T20:14:00Z
-    webUrl: "https://www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.html"
-    ampWebUrl: "https://www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3691297/oracle-ties-up-with-nvidia-to-offer-ai-supercomputing-service.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/01/10/16/datacenter-1280x1280-3-100915910-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia announces tech for speeding up chip design at AI conference"
-    excerpt: "Nvidia Corp Chief Executive Jensen Huang on Tuesday unveiled a new product for speeding up the design of semiconductors as it rolled out an array of new artificial intelligence technologies based around its chips and software."
-    publishedDateTime: 2023-03-21T22:03:00Z
-    webUrl: "https://www.channelnewsasia.com/business/nvidia-pairs-oracle-other-cloud-providers-spread-ai-technology-3362941"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--5ZK58jwp--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-21t212558z_2_lynxmpej2k0n5_rtroptp_3_usa-china-huawei-nvidia.jpg?itok=FRNPZyd1"
-        width: 1200
-        height: 676
         isCached: true
   - title: "TYAN’s AI Inference-Optimized Platforms Add Support for NVIDIA L4 Tensor Core GPU"
     excerpt: "TYAN, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary,"
@@ -266,34 +162,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Adobe launches new generative AI to transform customer experiences"
-    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
-    publishedDateTime: 2023-03-22T09:48:00Z
-    webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "Nvidia, Google Join Hands To Launch AI Hardware Virtual Machines"
-    excerpt: "At its annual GPU Technology Conference, chip maker Nvidia announced its partnership with Google Cloud, which will be"
-    publishedDateTime: 2023-03-22T15:22:00Z
-    webUrl: "https://menafn.com/1105835259/Nvidia-Google-Join-Hands-To-Launch-AI-Hardware-Virtual-Machines"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Nvidia GTC puts focus on generative AI"
     excerpt: "Nvidia is showcasing its latest technologies and breakthroughs in a variety of areas, including AI and the metaverse, particularly generative AI, at its ongoing GPU Technology Conference (GTC)."
     publishedDateTime: 2023-03-22T01:28:00Z
@@ -307,6 +175,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230321pd217_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Supermicro announces new AI development platform powered by NVIDIA"
+    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
+    publishedDateTime: 2023-03-22T16:13:00Z
+    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "NVIDIA brings generative AI to almost everything, everywhere, all at once"
     excerpt: "NVIDIA unveiled four inference platforms tailored for a wide range of swiftly emerging generative AI applications."
@@ -322,29 +204,20 @@ related:
         width: 1087
         height: 547
         isCached: true
-  - title: "Nvidia debuts host of AI technologies and services, capitalizing on ChatGPT hype"
-    excerpt: "The impressive capabilities of generative AI have created a sense of urgency for companies to reimagine their products and business models,” Nvidia CEO Jensen Huang said in a statement. “We are at the iPhone moment of AI."
-    publishedDateTime: 2023-03-21T19:28:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-debuts-host-ai-technologies-161518608.html"
+  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
+    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
+    publishedDateTime: 2023-03-22T15:50:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/kr0Y8SiKtViBkF.J4SQojQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://media.zenfs.com/en/aol_yahoo_finance_433/85a728feca49cafcc9c66f34ae3f9bed"
-        width: 1200
-        height: 638
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Milvus 2.3 Massively Accelerates AI-Powered Applications With NVIDIA GPU Support"
-    excerpt: "Purpose-built for AI-powered applications, Milvus stores, indexes and manages billions of embedding vectors generated by large language models (LLMs), convolutional networks and other machine learning (ML) models."
-    publishedDateTime: 2023-03-21T21:00:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780939.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
   - title: "NVIDIA Launches DGX Cloud, Giving Every Enterprise Instant Access to AI Supercomputer from a Browser"
     excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... Solutions (CCC), and digital-business-platform provider ServiceNow are among the first AI pioneers using DGX Cloud. “With NVIDIA DGX Cloud and NVIDIA BioNeMo, our researchers ..."
     publishedDateTime: 2023-03-22T04:32:00Z
@@ -359,15 +232,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Adobe launches Firefly AI media generator"
-    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
-    publishedDateTime: 2023-03-22T13:53:00Z
-    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 19
   - title: "Nvidia aims to bring AI to every industry"
     excerpt: "ChatGPT is just the start of a rapid uptake of artificial intelligence (AI) across the board. With computing now advancing at what he called “lightspeed,” Nvidia founder and CEO Jensen Huang has announced a broad set of partnerships with Google,"
     publishedDateTime: 2023-03-22T09:58:00Z
@@ -400,24 +264,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Crystal Group's rugged hardware with latest NVIDIA GPU brings extreme performance upgrades for AI at the edge"
-    excerpt: "The NVIDIA L4 GPU replaces its predecessor-the NVIDIA T4-and incorporates a wide array of updates, like improved performance for artificial intelligence (AI) and machine learning operations. Other benefits of the NVIDIA L4 GPU include: Compact and versatile in size,"
-    publishedDateTime: 2023-03-21T20:14:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780933.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-  - title: "ASRock Rack GPU Server Platform Lineups Are Now Qualified for NVIDIA L4 Tensor Core GPUs"
-    excerpt: "The NVIDIA L4 Tensor Core GPU, powered by the NVIDIA Ada Lovelace architecture, is a universal, energy-efficient accelerator designed to meet numerous AI needs. With the NVIDIA accelerator and its full-stack AI platform, the L4 GPU delivers higher AI ..."
-    publishedDateTime: 2023-03-22T15:43:00Z
-    webUrl: "https://www.hartware.de/2023/03/22/asrock-rack-gpu-server-platform-lineups-are-now-qualified-for-nvidia-l4-tensor-core-gpus/"
-    type: article
-    provider:
-      name: Hartware Net
-      domain: hartware.de
-    quality: 10
   - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
     excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
     publishedDateTime: 2023-03-22T12:59:00Z
@@ -427,15 +273,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 10
-  - title: "NVIDIA Unveils Large Language Models and Generative AI Service to Advance Life Sciences R&D"
-    excerpt: "NVIDIA today announced an expanded set of generative AI cloud services for customizing AI foundation models to accelerate the creation of new proteins and therapeutics, as well as research in the fields of genomics,"
-    publishedDateTime: 2023-03-21T19:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/21/9780845.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "9Lck7cw4boWEl+zBrH77/2mx29VxWMQeAlJ6lAwX1cNVRDzTZc1y4snoC0UMQj2fC6UY4x4PqGoVCNA6pIUHZT7Z61Zw/VqL5Zru5xIMhfFF8xYYNohhjERbi4cn/6KYrUm3e1S4LOPk4ZJ+E6CA1f6yX58czQ5we3d4KXpZ7f64HyPVEX7po6nRCKEE8+THqyH1EdIN0C8liM+hynnFauTUKvgFZ1S4FU8Jl30fPWIYusZN7WHvbEDEIBg1NdRhG/Qu7yxptckySTU75XziuX39SHU6DvCpnZT/C0UJE8ZzAZbaxEbPfqBdqjhrEaQZKv7LtVXASro6uuIG+/qKIeRqYi9ntiluABYpLpttUzZMTLWlrOG4otz3Bez2X+ycLaYUJ1XVjWKpWcmlvDLxSoA3hoJBDQ8rGSCfc0AbjxeJyHL39ojDFpu4cwTNHQ3IRDAn80BlAcd5p9P4U/VFj+zlw15mUiAjsWiMP39J7BHTkBCEF6qTdty+rbbKDqa4oPP/HNUxpZxsQRwPZdrkZQ==;KemGXTm2cVmBstenUQnmCw=="
 ---

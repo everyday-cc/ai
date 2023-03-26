@@ -1,20 +1,85 @@
 ---
 category: news
-title: "There's no such thing as artificial intelligence"
-excerpt: "Artificial intelligence in particular conjures the notion of thinking machines. But no machine can think, and no software is truly intelligent. The phrase alone may be one of the most successful marketing terms of all time."
-publishedDateTime: 2023-03-26T13:19:00Z
-originalUrl: "https://www.theedgesingapore.com/views/artificial-intelligence/theres-no-such-thing-artificial-intelligence"
-webUrl: "https://www.theedgesingapore.com/views/artificial-intelligence/theres-no-such-thing-artificial-intelligence"
+title: "There's No Such Thing as Artificial Intelligence"
+excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
+publishedDateTime: 2023-03-26T07:27:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
+webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
 type: article
+quality: 67
+heat: 108
+published: true
 
 provider:
-  name: The Edge Singapore
-  domain: theedgesingapore.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
-secured: "JafZjDAYMg3NUhPd/osBYj7OzZIGdnQ0aYdMqrUS5TqG48kWDpVhaLelmokTrxq45wr0qOCE6zFrLqI6hxb5YEDqyoFCLOo2PtlDRDoJYcX48/dkaIFzicVpC6OHq7vHKyvrYieHH3cWCYJj9A01OtpwvYNDKgltCYdOVbIRNhYKQbHOLoWWloNnzNDXT0lQmy7jCSh4VZQG2uoE8XOXfg6tO5mzdnQASuMZRFT3sSs7iw6IEh3902XESwJXehNOnLsaBRmckYUtsfrArCatPhIGLAiWGx5LMoFhyeuD9kkKXNyftwo3YZTfV4+ZOk728yXfPVa76B6JDTdn1ds4lp75nFg+8FvlQUlWltCcP2eGhdNwnkYaTSba/rTUUawOpDWjYWnqw0Ek19l1GG7htppn3s4JWIkE+cQHqDY69aoaGDQhEtNxeS8D5djg7YBgqFXz1B4dN44x68fJs15bqNY/t2p1EJkTEMA4bvz8xQDQEat2ALAGahQi6HeUOYUS64tjmz2zNuz1l/09cGUwJw==;Sj0VXdVRecZ56LYgGfyDUA=="
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU7LUSykyhPA/v1/1200x800.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
+    excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
+    publishedDateTime: 2023-03-23T09:16:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/641bd7c8b7834100191ae5c7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "From brain waves, this AI can sketch what you're picturing"
+    excerpt: "Some experts say in the wrong hands, the AI model could be used for interrogations or surveillance. “I think the line is very thin between what could be empowering and oppressive,” said Nita Farahany, a Duke University professor of law and ethics in ..."
+    publishedDateTime: 2023-03-25T12:05:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/brain-waves-ai-can-sketch-picturing-rcna76096"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "The London-based CLM provider’s latest offerings are powered by a combination of AI technologies including OpenAI’s latest GPT model GPT-4, Microsoft Azure, IBM Watson and ContractPodAi’s own proprietary AI. SALI’s new API and web application can ..."
+    publishedDateTime: 2023-03-25T17:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/25/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Vegas Bot AI starts Presale with the bang, users can secure revenue with their advanced AI-powered strategies"
+    excerpt: "With Chatbot AI's rising popularity, Vegas Bot AI strives to take natural language processing and machine learning a notch higher to better serve customers globally. Chatbot AI And Its Features Chatbot AI is a computer software that uses natural language ..."
+    publishedDateTime: 2023-03-23T13:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31475133/vegas-bot-ai-starts-presale-with-the-bang-users-can-secure-revenue-with-their-advanced-ai-powered-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
+secured: "eR4dwJoxvOYWcffp/tvPbxmmjd0inWVdMnMNOYPBdFyB338A7z9N+VxLCx4QOQnBSh1TaYcBGvZXJDQPFf4Ec6wTcgNa/z9znYzEAO7/OjC0WddflAjy1h91PRVCiNzUdKP4ntUYJduSv2XquNv8nWrlkHegDkgoHEOeMYfcHen7PRYiaK5Q69jdVBLpw6wTUa5FTEev9nE1HmaVlPrb96I7p/eSREKDU0205zxPOgD6V2YXZJ3atArXbJTRdINsmextELZb7tPoEdfqQJqi5A+6bWDD0k9btHQrFVVMaQT5WLUYV5z/Kt3WLqAIiLhQTzdZ13POifu5B47pSDhiwJ5g51eGxsLpflTVuR9Np1A=;1pQdMoykEstLNAIu30se7g=="
 ---
 

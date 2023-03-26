@@ -231,22 +231,6 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "Google’s AI chatbot Bard rules search giant has ‘monopoly’ in antitrust case"
-    excerpt: "Google’s own AI chatbot, Bard, ruled the company has a “monopoly on ... hiccups were likely to occur as the public gained access to Bard. “As more people start to use Bard and test its capabilities, they’ll surprise us. Things will go wrong ..."
-    publishedDateTime: 2023-03-21T20:46:00Z
-    webUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/"
-    ampWebUrl: "https://nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/21/bard-rules-google-has-monopoly-supports-doj-antitrust-case/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 54
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008578301.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
     excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
     publishedDateTime: 2023-03-25T20:34:00Z
@@ -309,19 +293,19 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Google's Bard AI chatbot has now been released to the public"
-    excerpt: "Google is now providing limited public access to its Bard AI chatbot to rival OpenAI's ChatGPT. Here's what we know so far about what it can do and how to access it"
-    publishedDateTime: 2023-03-21T19:42:00Z
-    webUrl: "https://www.newscientist.com/article/2365601-googles-bard-ai-chatbot-has-now-been-released-to-the-public/"
+  - title: "Google Opens Up Access to Bard AI Chatbot"
+    excerpt: "Google today began allowing users to sign up to use Bard, its AI-powered chatbot that rivals Microsoft's Bing chatbot. First announced back"
+    publishedDateTime: 2023-03-21T23:23:00Z
+    webUrl: "https://www.macrumors.com/2023/03/21/google-bard-ai-chatbot-waitlist/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 37
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/21183855/SEI_149177734.jpg"
-        width: 1350
-        height: 900
+      - url: "https://images.macrumors.com/t/muWO1r_6WOX08sxfZrkWN0GeVFU=/1600x/article-new/2023/03/google-bard.jpg"
+        width: 1600
+        height: 872
         isCached: true
   - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
     excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"

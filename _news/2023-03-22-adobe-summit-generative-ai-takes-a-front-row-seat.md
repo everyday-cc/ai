@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe launches new generative AI to transform customer experiences"
+    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
+    publishedDateTime: 2023-03-22T09:48:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Adobe Announces Generative AI ‘Firefly’ Program And Wall Street Flocks Like A Moth To A Flame"
     excerpt: "The digital media giant has announced AI generative tools will be added to its suite of apps Adobe stock rose 3.1% after the announcement, buoyed by a strong Q1 earnings report last week Things are looking up for Adobe stock after a challenging year for the tech sector,"
     publishedDateTime: 2023-03-22T15:08:00Z
@@ -144,6 +158,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
+  - title: "Adobe launches Firefly AI media generator"
+    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
+    publishedDateTime: 2023-03-22T13:53:00Z
+    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
 
 secured: "9GN3xcchVlfE2cKIjqD0n3c4lLkTUaGc48vSkLrolJeA4grBpiXqhGgYVq6eTTU+TvMjiPX4Cio6zIGSGZ6soDNaBDuE2chKvniti4T2Fw+w7cPb8If68clek9VFV0b3jyY6P9q/wFLb0RIq5SMWnMM7m527Zmdg6hgK9MwWoUX6RWwlRHOFMSETqQp3Nq9wIONl3hh0wgF7PSr1ZKgXQvj0ansbo6HA8oSW1bFEWdM7Rh876w+87Kash2evL4FcQ/sOiwXC6JbmodqceteLkTk/iMHLpjqSOwJMfRVntMbdx81mJ6GPKOxTcKqNIVvvYTh/2pqdSZLsxaM+ngOM+T0mG5BHL7fnz2M+WrPRbQw=;60pNTD70hbOmUf9wCg+5Ug=="
 ---

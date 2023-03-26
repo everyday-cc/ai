@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/intel-gpu-ch
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/intel-gpu-chief-raja-koduri-quits-to-form-own-generative-ai-startup-123032200874_1.html"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2017/11/2017-11-08-image-14.jpg"
         width: 800
         height: 489
-        isCached: true
-  - title: "Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company"
-    excerpt: "Raja Koduri tells CRN why he is leaving Intel as the company's chief architect after leading the buildout of its graphics capabilities for more than five years."
-    publishedDateTime: 2023-03-21T21:59:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/raja-koduri-main-driver-of-intel-s-gpu-efforts-to-leave-company"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027f-1796d31862fb-4f9cd94d0c0f-1000/1516284939508.jpeg"
-        width: 450
-        height: 450
         isCached: true
   - title: "GPU Chief Raja Koduri Quits To Form Generative AI Startup"
     excerpt: "NEW DELHI, (IANS) – Indian American Raja Koduri, head of Intel’s Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his ... create a new software co around generative AI for gaming, media and entertainment ..."

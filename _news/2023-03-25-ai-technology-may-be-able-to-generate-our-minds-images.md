@@ -120,6 +120,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe launches new generative AI to transform customer experiences"
+    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
+    publishedDateTime: 2023-03-22T09:48:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Adobe Summit - generative AI takes a front-row seat"
     excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
     publishedDateTime: 2023-03-22T16:21:00Z
@@ -143,6 +157,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
+  - title: "Adobe launches Firefly AI media generator"
+    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
+    publishedDateTime: 2023-03-22T13:53:00Z
+    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
 
 secured: "FiJ2mVUCcMePjlDIxALs1PiMMfETweVTrzvRBMdyDohVDagzb82ZFLSc6j8c9upmJQbqpYydCFW2v4muRnZF7teTmVBvMIpT8+Gtb4Qbq+xABchJBnaOi4JWlVrqkBvY7SzTnf2KybFVNnJ+VHAGpU/bmkLFTCCijwJjiTDw28VCQq2frK7lkBh3p9dtnxH2mU2P9ZX2WBMwPKDYF8DcqZaws/t4qtzWEfluJa+pCkfPLt+NwPFnLbWy6Blk7P7vqY6iTttt+0+jW0KCEap52dyhkJQr1+YueJrMBEBwtrRUySiw6hj3bDInC+TCadz3OUi4+RcJ50qkwcXOF3D+uN1YC3GkrRg1iJ39cCsWGA8=;AtlTysCZ2asGYqK2e1NiGQ=="
 ---

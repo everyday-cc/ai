@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chi
 webUrl: "https://www.reuters.com/technology/nvidia-tweaks-flagship-h100-chip-export-china-h800-2023-03-21/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Nvidia creates pared back H100 GPU for export to China, called H800"
     excerpt: "With the US government blocking the export of Nvidia's high-end A100 and H100 GPU lines to China, the company has developed worse versions of the chips to be able to continue shipping its products. The company began selling the A800 last November,"
     publishedDateTime: 2023-03-22T21:24:00Z

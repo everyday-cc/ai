@@ -79,11 +79,25 @@ related:
     provider:
       name: as.com
       domain: as.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://img.asmedia.epimg.net/resizer/nTpb6iLmYPEvJT5zWPCza8Libqc=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/NASU7R2OHOUMLAJJLS3ELUUDUI.jpg"
         width: 644
         height: 362
+        isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kumP7SIn5dHJU+F4oAUqqBWjMF8EDr72WDdpga+dhywGV9Asht9SYzoMK5f1WYd7ZhrBrQ4AfMicyDNyzOsD4EElkhTyifFjsc9zLbYrlkrDZt4c1dv0z7T9x5aCvcs8jGrwViJUN4vOrDdrnJEyMsHWz2VfyYROwyT0bklA+t98mbZ+M8JXcBxWHnoECVJEZZNgsLwFlRX3qm4CkSa2P/LkGrnZrmfrqck4WLX020lPhK2d8sZe9puuvy0oTvSF+u99wOloQ9SQ5NN7LuxRLgSo+uCZEzkPZy3bO1G/Qyw927G9DKf6fJI2nXPOLiKo5cr3Qy37D0QqnZC1StjWk/Iq/X9ITaSuxV+UhtsTGRI=;IHDfw4qE3/rYo2hPBK64FQ=="

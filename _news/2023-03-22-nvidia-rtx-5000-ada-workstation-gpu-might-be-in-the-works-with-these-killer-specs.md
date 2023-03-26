@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA RTX 5000 Ada workstation GPU is apparently in the works with 32GB of VRAM"
-    excerpt: "This would put the power requirement somewhere in the region of 200-250W. It makes sense, especially with reports that NVIDIA GPU sales in the AI and workstation sector lead to the company's stock price shooting. The NVIDIA RTX 5000 Ada Generation GPU ..."
-    publishedDateTime: 2023-03-23T03:31:00Z
-    webUrl: "https://www.tweaktown.com/news/90818/nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram/index.html"
+  - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
+    excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T14:55:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://static.tweaktown.com/news/9/0/90818_01_nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram.jpg"
-        width: 620
-        height: 348
+      - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia, Google Join Hands To Launch AI Hardware Virtual Machines"
+    excerpt: "At its annual GPU Technology Conference, chip maker Nvidia announced its partnership with Google Cloud, which will be"
+    publishedDateTime: 2023-03-22T15:22:00Z
+    webUrl: "https://menafn.com/1105835259/Nvidia-Google-Join-Hands-To-Launch-AI-Hardware-Virtual-Machines"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865702"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "XDZOgiNuyhYn4q3/pJUE6ih1Pv01M1xpOUnfHw2AvqduG/kbSEKnhbhY4nm0q4mSc3Uc0bRrWwkdW4Q+2HHIdxdK+Z730Bn4/24bnsGmlzNfQWm8eWEFAzdwi0kCYTB6QX+2fweyvOq4Oevke73QOB9Y/Zw96ySH+MFslpkrpfhTKMdUqI7T4pvT6PQS7LLFTJrwf5auyDqNCpvk/e5CHRB/mTEyCwfQfLtkxd99SnHUYH5Q1VcSCwBenI9dtzq7l1IX5oPkgO+uh2Auk4XBwcKQUIUQWJ70I4pqxv2PjPwZi2+EZUXLcT7x5DxvLimtYKP7Fo6oDnLSyeLl19scwydBvtRzCL7doFdkCawUgX2ToijBYMusTX2xHEgSefZMsaDkrpS7LWK9ahRv14FbY0mXLcpIMVX0MMUTBgyi1eDvgNKlZDE3RRWHaMA6a+7i0FHVWFIyqLcXW7vmV6OyDNkEXhsJ79p222JZAoqsrxVCDEiUF1w3LxQ3aZaKvV6jrpclGfAWITOOKaDsU2rGrw==;rCos0oPjY/R88FOFdFYFtw=="

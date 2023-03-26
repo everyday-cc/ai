@@ -85,34 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Generative AI Makes Headway in Healthcare"
-    excerpt: "Startups offering the same kind of artificial intelligence behind the viral chatbot ChatGPT are making inroads into hospitals and drug companies even as questions remain over the technology’s accuracy. Healthcare startups such as Pittsburgh-based ..."
-    publishedDateTime: 2023-03-21T22:42:00Z
-    webUrl: "https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-748228/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market | Industry Forecast 2023 - 2031"
-    excerpt: "The Artificial Intelligence (AI) Market in BFSI Sector market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of Percent, this market is estimated to reach USD million in 2029. The report focuses on the Artificial ..."
-    publishedDateTime: 2023-03-21T21:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-industry-forecast-2023---2031-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2023 to 2030 Artificial Intelligence (AI) in Oil and Gas Market Regional Outlook"
     excerpt: "Artificial Intelligence (AI) in Oil and Gas Market” Are a Collection of Information and Analysis Obtained From"
     publishedDateTime: 2023-03-24T17:25:00Z

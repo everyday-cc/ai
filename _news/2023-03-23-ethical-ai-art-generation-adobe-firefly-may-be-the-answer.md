@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/03/ethical-ai-ar
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/ethical-ai-art-generation-adobe-firefly-may-be-the-answer/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe launches new generative AI to transform customer experiences"
+    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
+    publishedDateTime: 2023-03-22T09:48:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Adobe Summit - generative AI takes a front-row seat"
     excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
     publishedDateTime: 2023-03-22T16:21:00Z
@@ -148,6 +162,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
+  - title: "Adobe launches Firefly AI media generator"
+    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
+    publishedDateTime: 2023-03-22T13:53:00Z
+    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
 
 secured: "7oydx2pypMUKRcietnprHZoziXRNS8iJELnOVkqxD2UuZZaHxoPVP0oaqdnNFVmGLwWoHMU3giPQJfLeijW+MNY4V57kT6TVFByKqSXUsWkJrAkDxKW+fp2P2CjzsrPN8nM6n+kUm2kyIvB5DR5iBeMeGxDHHaFwiO3+UZmhOkIMPJxs00IW96MBV5ZsYq54sBpeZa0aMz0e+MzKoAPCy6vib7XwASzqDsLZjk8z5I6GKsNG52zbn1+NZFq48M8qm895qW+0YQGl2p6ENTx0txO3X7eaMSYCIN58mkUaqZzyshZbuzXx8s2Oq7DwVr79O2ywjLc3/ujKX2wp21n9yK37C7QMixYpZqlneCk15oUzqOync8TP/fGQ0R0a72pp7ROPjLZ4P3RqDZ74q8HQ2daMZauGAdoYa2b+h8zkP9mFBqnwbB79+3Gw0o+vXBBfc7p+Wlr41jFyNrNRRFKPMBcjty333tnahjPSDwQR8qRuZN9Qkov/9iCuha1tWVy1r2UwqwA5h2dgyChSl82iTA==;xIE23u67jrPsYPzzOe+PVw=="
 ---

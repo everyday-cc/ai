@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-26T12:20:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/vote-no-to-a-voice-that-divides-us/news-story/7c00b590a5f3fc75a34f9430d2ccb7ac"
 webUrl: "https://www.theaustralian.com.au/commentary/vote-no-to-a-voice-that-divides-us/news-story/7c00b590a5f3fc75a34f9430d2ccb7ac"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

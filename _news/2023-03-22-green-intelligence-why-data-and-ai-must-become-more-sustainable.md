@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-must-become-more-sustainable/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Edge vision AI adds to connected intelligence theme at ew 2023"
-    excerpt: "(Image EE Times/ Sally Ward-Foxton) The solutions on offer all tend to claim to offer the ability to add vision and artificial intelligence (AI ... applications ranging from self-driving robots to healthcare where vision systems are used to detect ..."
-    publishedDateTime: 2023-03-21T19:59:00Z
-    webUrl: "https://www.embedded.com/edge-vision-ai-adds-to-connected-intelligence-theme-at-ew-2023/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 23
   - title: "Is GPT-4 already showing signs of artificial general intelligence?"
     excerpt: "Microsoft researchers have claimed that OpenAI’s GPT-4 is capable of such a wide variety of tasks, in some cases exceeding human ability, that the artificial intelligence model is showing “sparks” of artificial general intelligence (AGI). Is this ..."
     publishedDateTime: 2023-03-24T15:01:00Z

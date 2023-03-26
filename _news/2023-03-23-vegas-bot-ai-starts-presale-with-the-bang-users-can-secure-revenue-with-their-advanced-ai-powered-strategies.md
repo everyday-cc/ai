@@ -27,7 +27,7 @@ images:
 related:
   - title: "There's No Such Thing as Artificial Intelligence"
     excerpt: "According to its proponents, we will all live in the “metaverse,” build our financial infrastructure on “web3” and power our lives with “artificial intelligence.” All three of these terms are mirages that have raked in billions of dollars ..."
-    publishedDateTime: 2023-03-26T06:37:00Z
+    publishedDateTime: 2023-03-26T07:27:00Z
     webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
     type: article
     provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "Stretching the AI startup boom"
-    excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
-    publishedDateTime: 2023-03-25T13:17:00Z
-    webUrl: "https://www.axios.com/2023/03/25/ai-startup-boom-funding"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/WxnvNEr5uH5bJmlNzktoAtAILiw=/1366x768/smart/2023/03/24/1679691568441.jpg"
-        width: 1366
-        height: 768
         isCached: true
 
 secured: "PZwrqnwLkYthTcTvBeeXnKJczitJk0Nh4HTKkCRqSiUnL3g6YKt41QnZVs47FqwOOJwezcmo+Rk7a+3USZXCUxjVcaIjt5i1FRWy1KTx/+RLNvJn1rKqwjOcIRBIn54Z6AVlqQkM/p3Pon8ABmzIeLBWR2rGT0qyefSMeMmtQseQj4s65xo+tQ0zqiEN7hxnaNjNKX7hpRB4q3l2OOCLseqN5X5HB59VfTq+PpRUk9aKgAO02w0SZknizYz4+vY+xjO99TVCYfIqlOOaXEsWSScoQGUNxsT+ggprpoiVAop+G1r/3Y7B2tuddFsWNF2EaZSXwY3qxzBledhXA/O41bw82HybDH9+ioM0y1Et7I0=;lIzhTWqpCtg602EpdD1p3Q=="

@@ -8,8 +8,8 @@ webUrl: "https://www.abc.net.au/news/2023-03-24/what-is-agi-artificial-general-i
 ampWebUrl: "https://amp.abc.net.au/article/102035132"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102035132"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:

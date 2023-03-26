@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe launches new generative AI to transform customer experiences"
+    excerpt: "Software major Adobe has announced new generative AI innovations across its Experience Cloud that ... large language models (LLMs), including ChatGPT through the Microsoft Azure OpenAI Service and FLAN-T5. The selection will align with the unique needs ..."
+    publishedDateTime: 2023-03-22T09:48:00Z
+    webUrl: "https://www.dailypioneer.com/2023/technology/adobe-launches-new-generative-ai-to-transform-customer-experiences.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2023/story/images/big/adobe-launches-new-generative-ai-to-transform-customer-experiences-2023-03-22.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Adobe Summit - generative AI takes a front-row seat"
     excerpt: "It said multiple LLMs (large language models) would be used, including ChatGPT through Microsoft Azure OpenAI Service and Google Research ... For creators who don’t want their work used in training AI models, a new “Do Not Train” tag can be applied ..."
     publishedDateTime: 2023-03-22T16:21:00Z
@@ -148,6 +162,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
+  - title: "Adobe launches Firefly AI media generator"
+    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
+    publishedDateTime: 2023-03-22T13:53:00Z
+    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
 
 secured: "yufPFsd5uMTNI+So6iFtzSYCqjkqyQoc9055wryV2uqapIxLu9/Guh3Ovqf43B9Yz7oKTnupP45Z1uue+AF2Zrh5+bZyCY+GgFXaF9xLSH25qGCoEWjPEZaHGp/kuMFtR5fRXLsyV2tZNFVzGBWPXD4b9s1FlqK4+iw8RU/CNjmoIK9mRhaXB1mHCDQ4uSpTGUSUbPTd221XqfPcvjgd9E7A4sDnAa1Az0p0K62hYs+4SO55csTBKSv3+UrqOusnDQnmlsRjjaVHkwbQnp7RD35lTbnVlhbQOcx/iC38zB/1RnJ6nWtTkyphVBwLughqMN0/P8TGI0zmrhGhWFl9ndDJEoZmNMxdJwgc+/Kg7wE=;ZB63iCz+oMd1Qex6wntsVQ=="
 ---

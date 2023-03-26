@@ -65,20 +65,6 @@ related:
         width: 800
         height: 489
         isCached: true
-  - title: "Raja Koduri, Main Driver Of Intel’s GPU Efforts, To Leave Company"
-    excerpt: "Raja Koduri tells CRN why he is leaving Intel as the company's chief architect after leading the buildout of its graphics capabilities for more than five years."
-    publishedDateTime: 2023-03-21T21:59:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/raja-koduri-main-driver-of-intel-s-gpu-efforts-to-leave-company"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027f-1796d31862fb-4f9cd94d0c0f-1000/1516284939508.jpeg"
-        width: 450
-        height: 450
-        isCached: true
   - title: "GPU Chief Raja Koduri Quits To Form Generative AI Startup"
     excerpt: "NEW DELHI, (IANS) – Indian American Raja Koduri, head of Intel’s Accelerated Computing Systems and Graphics Group, has quit the chip-making major to form his ... create a new software co around generative AI for gaming, media and entertainment ..."
     publishedDateTime: 2023-03-23T17:45:00Z

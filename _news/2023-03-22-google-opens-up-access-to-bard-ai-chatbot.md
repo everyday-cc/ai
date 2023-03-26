@@ -24,477 +24,377 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds GPT-4 in Azure OpenAI Service for businesses to make their own AI apps"
-    excerpt: "Microsoft has been on a tear with its AI-related announcements over the last few days, and it's not stopping. Today, after revealing the new Bing Image Creator in its Bing Chat service, the company has just announced it is adding GPT-4 to its Azure OpenAI ..."
-    publishedDateTime: 2023-03-21T19:52:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-gpt-4-in-azure-openai-service-for-businesses-to-make-their-own-ai-apps/"
+  - title: "Chatbot Start-Up Character.AI Valued at $1 Billion in New Funding Round"
+    excerpt: "Founded by ex-Google employees, the Silicon Valley company is among the few start-ups poised to compete with OpenAI, the creator of ChatGPT."
+    publishedDateTime: 2023-03-23T09:01:00Z
+    webUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.html"
+    ampWebUrl: "https://www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/23/technology/chatbot-characterai-chatgpt-valuation.amp.html"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 112
+      name: The New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/02/1677151005_chagpt-1_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://static01.nyt.com/images/2023/03/23/multimedia/23CHARACTERAI-1-qkjc/23CHARACTERAI-1-qkjc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Microsoft Plans To Use AI To Solve A Huge Pain Point For Doctors"
-    excerpt: "Healthcare organizations use patient charts to code and bill for services provided. Documentation also acts as a record of the patient journey, which has become especially important in the growing landscape of healthcare litigation."
-    publishedDateTime: 2023-03-26T01:07:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/25/microsoft-plans-to-use-ai-to-solve-a-huge-pain-point-for-doctors/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641f96ad5984a6dfc1580d4a/0x0.jpg?format=jpg&width=1200"
-        width: 1051
-        height: 700
-        isCached: true
-  - title: "Artificial intelligence dubbed 365 Copilot coming to documents you write, Microsoft says"
-    excerpt: "Artificial intelligence tools like ChatGPT are taking over the landscape of our everyday lives, and now Microsoft has just announced its own tool called 365 Copilot. It's meant to help people with work-related tasks, so anyone using it can be more productive."
-    publishedDateTime: 2023-03-22T15:33:00Z
-    webUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says"
-    ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-dubbed-365-copilot-coming-documents-write-microsoft-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 95
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/57fe17cf-29ba-4f20-8547-d7a31a8d6d83/bafceabc-1b05-4a4e-ae9c-2c97359e061a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can’t wait for Microsoft’s AI-generated presentations? Canva has it now"
-    excerpt: "Magic Eraser is part of the Pro tier, like the AI-powered Beat Sync, as well as anything that includes your own branding, Canva said. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written ..."
-    publishedDateTime: 2023-03-23T05:25:00Z
-    webUrl: "https://www.pcworld.com/article/1665426/cant-wait-for-microsofts-ai-powerpoint-switch-to-canva-instead.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/Magic-Presentations.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Better AI Stock: Microsoft vs. Nvidia"
-    excerpt: "Microsoft has an early mover advantage in the generative AI market thanks to OpenAI and ChatGPT. Nvidia's dominance in GPUs and the importance of these chips in generative AI applications could help it remain a top AI stock. With a purported investment of ..."
-    publishedDateTime: 2023-03-24T21:20:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/24/better-ai-stock-microsoft-vs-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725637/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
-    excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
-    publishedDateTime: 2023-03-22T15:03:00Z
-    webUrl: "https://www.wsj.com/articles/publishers-prepare-for-showdown-with-microsoft-google-over-ai-tools-6514a49e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-748377/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "You can now use Microsoft's AI to create images using just your words"
-    excerpt: "Microsoft has announced the Bing Image Creator. It uses OpenAI’s DALL.E neural network to create images from text prompts. The AI image generator is now available to try out on any browser and the new Bing preview. Just when Google opened up public ..."
-    publishedDateTime: 2023-03-22T05:34:00Z
-    webUrl: "https://www.androidauthority.com/bing-image-creator-3300886/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Microsoft-logo-angled-MWC-2022.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
-    excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
-    publishedDateTime: 2023-03-23T10:10:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/23/microsoft-is-all-in-on-ai-2-ways-it-will-benefit/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/725379/gettyimages-1145585734.jpg"
-        width: 2190
-        height: 1369
-        isCached: true
-  - title: "Microsoft Threatens to Restrict Data From Rival AI Search Tools"
-    excerpt: "Microsoft Corp. has threatened to cut off access to its internet-search data, which it licenses to rival search engines, if they don’t stop using it as the basis for their own artificial intelligence chat products,"
-    publishedDateTime: 2023-03-25T00:28:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-25/microsoft-threatens-to-restrict-bing-data-from-rival-ai-search-tools"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEBCvguQnGgQ/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Catch The Next Big Tech AI Wave: Startups Flock To OpenAI’s Chat GPT And DALL-E"
-    excerpt: "As the 2020s unfold, it's becoming increasingly clear that AI has the potential to generate significant wealth for those who can harness its power. Whether you're a startup founder looking to streamline your operations or a tech entrepreneur with a new ..."
-    publishedDateTime: 2023-03-22T20:41:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/03/22/catch-the-next-big-tech-ai-wave-startups-flock-to-openais-chat-gpt-and-dall-e/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641b66e3a9d4c17aad161d37/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Microsoft Reportedly Threatens to Restrict Search Data From Rival AI Tools"
-    excerpt: "At least two customers have been told their access to Microsoft's internet search index will be cut off if they continue to use it for their AI chatbots, Bloomberg reports."
-    publishedDateTime: 2023-03-26T10:44:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-reportedly-threatens-to-restrict-search-data-from-rival-ai-tools"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 82
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05PNmVt8nHVpVgrbjZy1kpb-1.fit_lim.size_1200x630.v1679827422.png"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Daily Authority: ⚔️ Google outs Bard, Microsoft answers with new AI image maker"
-    excerpt: "They say all great stories start with a sense of Wonder. That’s why the folks over at Wonder Dynamics have introduced something called Wonder Studio. It’s an AI editing tool that can switch actors in a movie with CG characters! Imagine how much time ..."
-    publishedDateTime: 2023-03-22T08:17:00Z
-    webUrl: "https://www.androidauthority.com/daily-authority-march-22-2023-3300899/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 80
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-logo-loading.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "While OpenAI has been working on text and images, iGenius has been working on GPT for numbers"
-    excerpt: "And with algorithms, natural language processing and user-created metadata, or what iGenius calls advanced conversational AI, the complexity of data quality can be improved and elevated. Gartner has dubbed this ‘conversational analytics.’ Virtualizing ..."
-    publishedDateTime: 2023-03-24T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/"
-    ampWebUrl: "https://venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/while-openai-has-been-working-on-text-and-images-igenius-has-been-working-on-gpt-for-numbers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/iGeniusxVB-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft and Adobe reveal their new AI image generators, Bing Image Creator and Firefly"
-    excerpt: "Microsoft and Adobe unveiled their first applications for visually-based generative AI on Tuesday. The two companies have different intentions for the technology, but both are starting with a slow rollout in light of concerns over the ethics of generative AI."
-    publishedDateTime: 2023-03-21T21:54:00Z
-    webUrl: "https://www.techspot.com/news/98023-microsoft-adobe-reveal-their-new-ai-image-generators.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 77
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-21-image-37.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "BestReviews is reader-supported and may earn an affiliate commission. Details. Everything you need to know about Microsoft’s new AI feature Artificial intelligence is quickly becoming a part of"
-    publishedDateTime: 2023-03-22T16:57:00Z
-    webUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    ampWebUrl: "https://fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 76
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2023/03/computer-software-best-microsoft-365-products-1.jpg?w=1280"
-        width: 760
-        height: 500
-        isCached: true
-  - title: "Microsoft gains access to Open AI code base, trouble for Google?"
-    excerpt: "Azure is Microsoft’s cloud computing service which will help developers build new AI systems by making OpenAI’s service models available to the market. Google retaliated recently with their AI offering Bard AI, a chatbot to compete with ChatGPT."
-    publishedDateTime: 2023-03-24T08:41:00Z
-    webUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/"
-    ampWebUrl: "https://memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
-    cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/2023/03/microsoft-gains-access-to-open-ai-code-base-trouble-for-google/?amp=1"
-    type: article
-    provider:
-      name: Memeburn
-      domain: memeburn.com
-    quality: 74
-    images:
-      - url: "https://s5.cdn.memeburn.com/wp-content/uploads/2023/03/Google-bard-1.jpg"
-        width: 675
-        height: 448
-        isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Previews GPT 4 AI Model on Azure OpenAI Service"
-    excerpt: "Microsoft on Tuesday announced a preview of OpenAI's GPT-4 artificial intelligence (AI) model for users of the Azure OpenAI service. The Azure OpenAI service was commercially released back in January, offering access to DALL-E 2 for composing images from ..."
-    publishedDateTime: 2023-03-21T23:26:00Z
-    webUrl: "https://redmondmag.com/articles/2023/03/21/microsoft-previews-gpt-4-ai-model-on-azure-openai-service.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 69
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/PartyLIghtsinSkySmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "OpenAI's ChatGPT is 'only possible' with Microsoft Azure, says Microsoft"
-    excerpt: "\"Only Microsoft Azure provides the GPUs, the InfiniBand networking, and the unique AI infrastructure necessary to build these types of transformational AI models at scale, which is why OpenAI chose to partner with Microsoft,” said Scott Guthrie ..."
-    publishedDateTime: 2023-03-23T22:12:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/openais-chatgpt-is-only-possible-with-microsoft-azure"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DCgdavJhRVMwg9d6aF6JXY-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Australia's Canva Adds AI Tools To Take On Microsoft, Google"
-    excerpt: "Bloomberg Australian design software company Canva Inc. is accelerating its expansion into digital workplace products, adding artificial inte"
-    publishedDateTime: 2023-03-23T16:55:00Z
-    webUrl: "https://menafn.com/1105846065/Australias-Canva-Adds-AI-Tools-To-Take-On-Microsoft-Google"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/23/TP_bcdc8image_story.jpg"
-        width: 680
-        height: 357
-        isCached: true
-  - title: "Microsoft just launched a Notion AI competitor called Loop. Here's how you can access it"
-    excerpt: "Loop enables you to collaboratively create documents using any Microsoft Office application, like Outlook, Teams, or Word."
-    publishedDateTime: 2023-03-24T21:23:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/smart-office/microsoft-just-launched-a-notion-ai-competitor-called-loop-heres-how-you-can-access-it/"
+  - title: "ChatGPT vs. Bing Chat: Which AI chatbot should you use?"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-23T21:58:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 55
-  - title: "Nvidia teams up in Microsoft Azure pact"
-    excerpt: "Nvidia cloud based services  The maker of graphics cards named after a Roman vengence daemon, Nvidia has teamed up with the software King of the World, Microsoft. The darkish pact will see two Nvidia cloud-based services hosted by Microsoft Azure."
-    publishedDateTime: 2023-03-22T11:55:00Z
-    webUrl: "https://www.fudzilla.com/news/56576-nvidia-teams-up-in-microsoft-azure-pact"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+    quality: 89
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/c8e5e25d6ca5acd51fb2adbfbdab9ff6_L.jpg"
-        width: 620
-        height: 498
-        isCached: true
-  - title: "Microsoft Reveals More Partner Designations, AI Opportunity"
-    excerpt: "A second upcoming designation is for learning partners ... commitment with Azure intellectual property (IP) co-sell eligible products and services. Partners will also gain the ability to transact containers and virtual machine (VM) software reservations ..."
-    publishedDateTime: 2023-03-22T20:43:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-reveals-more-partner-designations-ai-opportunity"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027f-178ca52379f0-58443240c6f2-1000/microsoft-sign.jpeg"
-        width: 609
-        height: 457
-        isCached: true
-  - title: "AI wars: Elon Musk attacks Microsoft over ChatGPT tech access"
-    excerpt: "Elon Musk, the CEO of Tesla and Twitter, may have just stepped up his attacks on Microsoft in the ongoing conflict over artificial intelligence (AI)."
-    publishedDateTime: 2023-03-25T09:25:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-elon-musk-attacks-microsoft-chatgpt-access"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/25/image/jpeg/6d7CeY62RxFsKuxAliFamIlh8wObxQboQdFHROq9.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft's AI-Powered Bing Experience Gains Image Creation Functionality"
-    excerpt: "Microsoft today announced that its AI-enhanced Bing browser now includes Bing Image Creator, image-generating technology powered by"
-    publishedDateTime: 2023-03-21T21:34:00Z
-    webUrl: "https://www.macrumors.com/2023/03/21/bing-ai-image-creation-microsoft/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 53
-    images:
-      - url: "https://images.macrumors.com/t/qhsiw54VkHcJa_hg5TJewpV8k1M=/2560x/article-new/2023/03/bing-image-creator-experience.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
-    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "GeekWire Podcast: Microsoft, OpenAI, and the AI opportunity for startups, with Neo CEO Ali Partovi"
-    excerpt: "Neo’s diverse team of employees and mentors has impacted its startup accelerator and venture portfolio, with 46% of its capital backing startups led by women or members of underrepresented groups. (Neo Photo) This week on the GeekWire Podcast: what AI me ..."
-    publishedDateTime: 2023-03-25T16:18:00Z
-    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-openai-microsoft-and-the-ai-opportunity-for-startups-with-neo-ceo-ali-partovi/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 50
-  - title: "Nvidia unveils new AI chips coming to Amazon, Google, and Microsoft cloud services"
-    excerpt: "These kinds of chip superclusters are part of a push by Nvidia to rent out supercomputing services through a new program called DGX Cloud, hosted by Oracle and soon Microsoft Azure and Google Cloud. Nvidia said the goal is to make accessing an AI ..."
-    publishedDateTime: 2023-03-22T05:39:00Z
-    webUrl: "https://mybroadband.co.za/news/cloud-hosting/484737-nvidia-unveils-new-ai-chips-coming-to-amazon-google-and-microsoft-cloud-services.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 45
-  - title: "OpenAI CEO Warns That Competitors Will Make AI That’s More Evil"
-    excerpt: "Concerned about OpenAI and the implications of its powerful AI tech? Fair, but CEO Sam Altman says you should probably focus your worry on its competition."
-    publishedDateTime: 2023-03-22T06:04:00Z
-    webUrl: "https://futurism.com/sam-altman-warns-competitors"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/sam-altman-warns-competitors-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biotech AI startup Unlearn adds $15 million and OpenAI CTO to board"
-    excerpt: "Unlearn.AI, which has built a machine learning platform that creates \"digital twin\" profiles of patients in clinical trials, has raised $15 million to expand partnerships and accelerate regulatory approval,"
-    publishedDateTime: 2023-03-21T22:12:00Z
-    webUrl: "https://www.channelnewsasia.com/business/biotech-ai-startup-unlearn-adds-15-million-and-openai-cto-board-3362966"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Microsoft unveils plans to use AI feature in Outlook, Excel and more"
-    excerpt: "On the other hand, AI critics worry it will bring more harm than good ... generate humanlike responses and perform a wide range of language-related tasks such as language translation, text summarization [and] sentiment analysis.” The GPT-3.5 architecture ..."
-    publishedDateTime: 2023-03-23T18:20:00Z
-    webUrl: "https://wgno.com/news/microsoft-unveils-plans-to-use-ai-feature-in-outlook-excel-and-more/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 36
-  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
-    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
-    publishedDateTime: 2023-03-23T15:12:00Z
-    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/e63ab95bd77e8d21991d7936a5538a8084aae9fe/2023/03/23/709c574b-b938-4c25-9c87-8728af5dfb4b/2022.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Bing’s New ‘DALL-E’ Feature Lets You Create AI Images"
-    excerpt: "On top of adding pressure to its workforce, the search monolith also recently invested $300 million in the AI start-up Anthropic, which was founded by a former employee of OpenAI. This investment falls majorly short of Microsoft's recent $1 billion ..."
-    publishedDateTime: 2023-03-21T19:04:00Z
-    webUrl: "https://tech.co/news/microsoft-bing-create-ai-images"
+  - title: "ChatGPT vs. Google Bard vs. Bing: Which AI Chatbot Gives the Best Answers?"
+    excerpt: "If you are looking for a system to translate languages, then Bing AI might be a good choice. And if you are looking for a system to generate comprehensive and informative responses, then Google Bard might be a good choice.\" In other words, Bard thinks it's ..."
+    publishedDateTime: 2023-03-23T13:58:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-vs-google-bard-vs-microsoft-bing-which-ai-chatbot-gives-best-answers"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 34
-  - title: "Improving ESG performance in financial services on Microsoft Cloud"
-    excerpt: "Overcoming data-related challenges will be key for banks and other financial institutions to make progress ... that produce environmentally friendly goods and services. Leadership teams are also learning that ESG initiatives can boost business performance."
-    publishedDateTime: 2023-03-24T19:14:00Z
-    webUrl: "https://www.cio.com/article/465423/improving-esg-performance-in-financial-services-on-microsoft-cloud.html"
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 71
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03hxl67L6BOEuU7RuYTxAXH-5.fit_lim.size_1200x630.v1679516177.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "A 16-Month-Old Chatbot Startup With No Revenue Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T20:58:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f?mod=tech_lead_pos6"
+    ampWebUrl: "https://www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 21
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 70
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
+    excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
+    publishedDateTime: 2023-03-22T13:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
+        width: 1200
+        height: 821
+        isCached: true
+  - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
+    excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
+    publishedDateTime: 2023-03-24T15:40:00Z
+    webUrl: "https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/JDt6b0saEHni9d599POntWzuF4E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440534/AI_Hands_A_Bernis_01.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A 16-Month-Old Chatbot Startup, Character.AI, Is Now a $1 Billion Unicorn"
+    excerpt: "A 16-month-old chatbot startup is now a $1 billion unicorn. Character.AI, a Silicon Valley company started by two former Google employees, said Thursday it raised $150 million in a new funding round led by well-known venture-capital firm Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T14:19:00Z
+    webUrl: "https://www.wsj.com/articles/a-16-month-old-chatbot-startup-character-ai-is-now-a-1-billion-unicorn-97aa194f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 66
+    images:
+      - url: "https://images.wsj.net/im-749471/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Google Bard accused of plagiarism as publishers fight back against AI chatbots"
+    excerpt: "Bard missed all the finer nuances of the comparison, and ended up highlighting only the gaming aspect of the two chips, thereby offering an incomplete analysis. Plagiarism by an AI chatbot is nothing new. According to The Wall Street Journal, Google Bard ..."
+    publishedDateTime: 2023-03-23T15:18:00Z
+    webUrl: "https://www.techspot.com/news/98049-google-bard-accused-plagiarism-publishers-fight-back-against.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-23-image-14.jpg"
+        width: 2500
+        height: 1620
+        isCached: true
+  - title: "ChatGPT Busy? 7 AI Chatbot Alternatives Ready to Answer Your Burning Questions"
+    excerpt: "If you're in the mood to talk, but ChatGPT is overloaded, you have other AI chatbot options, including Google's Bard, Microsoft's Bing, ChatSonic, and YouChat."
+    publishedDateTime: 2023-03-25T17:41:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-alternatives-ai-chatbots-ready-to-answer-your-burning-questions"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/0606kPUb7UJUANK86dXckjx-2.fit_lim.size_1200x630.v1679585246.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "AI chatbot Character.AI, with no revenue, raises $150 mln led by Andreessen Horowitz"
+    excerpt: "Character.AI has raised $150 million in a new funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion, and it's in talks with cloud providers for more strategic investment, the company told Reuters. The billion-dollar ..."
+    publishedDateTime: 2023-03-23T10:42:00Z
+    webUrl: "https://www.reuters.com/technology/ai-chatbot-characterai-with-no-revenue-raises-150-mln-led-by-andreessen-horowitz-2023-03-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=134"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Ex-Google employees' A.I. chatbot startup valued at $1 billion after Andreessen Horowitz funding"
+    excerpt: "Character.AI said it raised $150 million in a funding round led by Andreessen Horowitz. The startup's founders helped create the architecture used in today's popular chatbots. Andreessen previously bet big on crypto and social audio, driving valuations up ..."
+    publishedDateTime: 2023-03-23T19:28:00Z
+    webUrl: "https://www.cnbc.com/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/23/characterai-valued-at-1-billion-after-150-million-round-from-a16z.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 59
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102177477-468005219.jpg?v=1679599585"
+        width: 5561
+        height: 3707
+        isCached: true
+  - title: "Why did Stanford take down its Alpaca AI chatbot?"
+    excerpt: "No, the Alpaca AI chatbot didn’t get high and start hallucinating, although you might be forgiven for thinking that after reading Stanford’s reasons for axing it. University researchers cited “hallucinations” among their reasons for taking Alpaca offline after launching a public demo last week."
+    publishedDateTime: 2023-03-22T00:42:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-did-stanford-take-down-its-alpaca-ai-chatbot?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/69c4bd7/2147483647/strip/true/crop/940x490+0+49/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9a%2F82%2Fa5d41b7366c53fb88e5b816c2cad%2Fshutterstock-540433684.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Intimate AI chatbot connections raise questions over tech's therapeutic role"
+    excerpt: "As artificial intelligence gains more capabilities the public has flocked ... Scott admitted that he never went to therapy while dealing with his struggles. \"In hindsight, yeah, maybe that would've been a good idea,\" he said. Turkle said it is important ..."
+    publishedDateTime: 2023-03-23T15:36:00Z
+    webUrl: "https://abcnews.go.com/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/intimate-ai-chatbot-connections-raise-questions-techs-therapeutic/story?id=98014798"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 56
+    images:
+      - url: "https://s.abcnews.com/images/Technology/ntl-4-scott-sarina-abc-ps-230322_1679507960689_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "China keenly developing homegrown AI GPUs for chatbot apps"
+    excerpt: "Chinese GPU developers including Jingjia Microelectronics and Innosilicon are developing homegrown AI GPUs at full throttle to keep up with the AI boom spurred by the growing popularity of ChatGPT, especially now that the US has banned Nvidia and AMD..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20230322PD200/ai-gpu-china-ernie-bot-generative-ai-ic-design-distribution.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230322pd200_files/3_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+  - title: "You wait ages for an AI chatbot to come along, then a whole bunch turn up. Why?"
+    excerpt: "The fact that ChatGPT isn’t the only machine-learning program out there is down to the way in which tech breakthroughs arise"
+    publishedDateTime: 2023-03-25T20:34:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/25/you-wait-ages-for-an-ai-chatbot-to-come-along-then-a-whole-bunch-turn-up-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The Morning After: Google expands access to its AI chatbot, Bard"
+    excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
+    publishedDateTime: 2023-03-22T13:12:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-google-expands-access-to-its-ai-chatbot-bard-112516974.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 49
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
+    publishedDateTime: 2023-03-23T16:40:00Z
+    webUrl: "https://techcrunch.com/2023/03/23/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
+  - title: "Google opens sign-ups for its Bard AI chatbot"
+    excerpt: "Search and hyperscale computing giant Google said today that it has opened up access to Bard, a generative AI chatbot meant to compete with similar services offered by Microsoft and OpenAI, among others."
+    publishedDateTime: 2023-03-22T06:24:00Z
+    webUrl: "https://www.arnnet.com.au/article/706327/google-opens-sign-ups-its-bard-ai-chatbot/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/google_3200x2000.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Character.AI Hits Unicorn Status With $150M Raise As AI Craze Continues"
+    excerpt: "Personalized chatbot startup Character.AI closed a $150 million Series A at a $1 billion valuation led by Andreessen Horowitz."
+    publishedDateTime: 2023-03-23T17:17:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "a16z Leads $150M Series A Round in Chatbot Startup Character AI"
+    excerpt: "Venture capitalist firms are always on the lookout for the next big thing, and Andreessen Horowitz is no exception. They recently announced an investment in Character AI, a software development company,"
+    publishedDateTime: 2023-03-23T23:43:00Z
+    webUrl: "https://decrypt.co/news-explorer?pinned=137644&title=a16z-leads-150m-series-a-round-in-chatbot-startup-character-ai"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 37
+    images:
+      - url: "https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Revealed: Jobs most at risk from artificial intelligence chatbot ChatGPT"
+    excerpt: "round 80 per cent of US workers could see their jobs impacted by artificial intelligence chatbot ChatGPT, a study found. ChatGPT is a free AI “chatbot” which can be used to do anything from writing essays to creating diet plans and helping users to ..."
+    publishedDateTime: 2023-03-26T07:29:00Z
+    webUrl: "https://www.standard.co.uk/news/world/chatgpt-openai-jobs-labour-market-united-states-b1069985.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 36
+    images:
+      - url: "https://static.standard.co.uk/2022/12/20/17/20172519-11b276fe-6c3b-481d-a99a-14ae76e0b1cf.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Man says he formed romantic attachment with AI chatbot — and he's not alone"
+    excerpt: "ABC News' Ashan Singh sits down with one of the 2 million users of Replika, a conversational chatbot program that is quickly gaining traction online."
+    publishedDateTime: 2023-03-24T11:47:00Z
+    webUrl: "https://abcnews.go.com/Nightline/video/man-formed-romantic-attachment-ai-chatbot-98094006"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/230324_ntl_artificial_intelligence_1254_hpMain_16x9_608.jpg"
+        width: 608
+        height: 342
+        isCached: true
+  - title: "The Week’s 10 Biggest Funding Rounds: Benefits Startup Gravie And Character.AI Lock Up Huge Rounds"
+    excerpt: "Want to keep track of the largest startup funding deals in 2023 with our new curated list of $100 million-plus venture deals to U.S.-based companies? Check out our new Megadeals Tracker here. This is a weekly feature that runs down the week’s top 10 ..."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-gravie-character-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 23
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Tencent plans to rollout WeChat Chatbot Similar to ChatGPT, but says not in a rush to be the first"
+    excerpt: "Tencent’s Chatbot is called ‘HunyuanAide’. The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI gives ..."
+    publishedDateTime: 2023-03-24T12:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/24/tencent-wechat-chatbot-similar-chatgpt/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 20
+  - title: "Google Invites Public To Test Drive Its AI Chatbot Bard"
+    excerpt: "Microsoft has been working on several language models that endeavor to improve natural language processing and generation across a variety of applications, including translation, sentiment analysis, and question-answering. Bard also departs from ChatGPT by ..."
+    publishedDateTime: 2023-03-22T12:00:00Z
+    webUrl: "https://www.technewsworld.com/story/google-invites-public-to-test-drive-its-ai-chatbot-bard-178066.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 19
+  - title: "Tread a Careful Legal Path Around AI Chatbots"
+    excerpt: "A company, which will remain nameless, recently contacted GlobeSt.com about a commercial real estate service that incorporated ChatGPT’s natural language processing. An interesting concept, but when asked about potential issues of copyright, the firm ..."
+    publishedDateTime: 2023-03-24T11:52:00Z
+    webUrl: "https://www.globest.com/2023/03/24/tread-a-careful-legal-path-around-ai-chatbots/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 19
+  - title: "Character.AI raises $150 mn in VC funding led by Andreessen Horowitz"
+    excerpt: "Character.AI has raised $150 million in a new VC funding round led by Andreessen Horowitz that valued the AI chatbot startup at $1 billion. Character.AI is also in talks with cloud providers for more strategic investment, Reuters news report said."
+    publishedDateTime: 2023-03-23T12:46:00Z
+    webUrl: "https://infotechlead.com/tech/character-ai-raises-150-mn-in-vc-funding-led-by-andreessen-horowitz-77512"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 17
+  - title: "Here's why Character.AI chatbot founders say this week's unicorn funding is just a start"
+    excerpt: "Running this type of AI can be expensive and, while you just raised a very large ... Clearly people love what we have to offer and that will help us start to monetize this in the not-too-distant future. Noam: Our first option is to monetize through ..."
+    publishedDateTime: 2023-03-24T22:21:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/03/24/q-a-interview-with-characterai-founders.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
 
 secured: "0uK/Ky8JZn1O0BacrrHzDKmsMJM+3VMMLcpTtVjV/JVyD+/vXgI7A5N5yeOZa7Ej0Fxqh7RdSNL8OH6GdK2V3avGUaT26xKzMQaygSqLKuw9O+AwdoC0+v6IS2dvO67/ZEeBIwIkF2e+aynUHFHH64+9ait+PcbwIRqKU+gDqkwEha5wJU1gUQaL0tWVP3/SG4B2m6r3zU65HDoGsmTrgyAFxCk8QyyOtjoqP/BkXBh7hSxLrn820maGWhkIh/B+Mo6UFGbz2h/PVDUdi88RCAYMzTLDfs4PyCwshrjX9KQ5r2fvrIkQovJskP0KaKxPwO+VHfAgfqFwZ2pBD2nwy0vUt10H13aLDIMFB4COG6o=;EHNqLsJGMIpl7FcYT5k2ug=="
 ---

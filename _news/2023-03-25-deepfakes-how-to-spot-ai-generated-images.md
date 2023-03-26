@@ -95,20 +95,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Trump Hasn't Been Arrested But AI Images Keep Fooling People"
-    excerpt: "Trump told his supporters that he was expecting to be arrested on Tuesday over allegations of hush money paid to the former porn star Stormy Daniels. To be clear: The case against him exists. The Manhattan district attorney’s office has previously asked Trump to testify to a grand jury."
-    publishedDateTime: 2023-03-21T21:50:00Z
-    webUrl: "https://kotaku.com/did-donald-trump-arrested-today-yet-news-ai-midjourney-1850249881"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a4dccfd4b352a5d12ed777f2633ccef1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fake AI images of Trump arrest, Putin jailed, spread on social media"
     excerpt: "He even stated clearly in his Twitter thread that the images were AI-generated. Still, the images were enough ... Arthur Holland Michel, a fellow at the Carnegie Council for Ethics in International Affairs in New York who is focused on emerging ..."
     publishedDateTime: 2023-03-23T19:19:00Z

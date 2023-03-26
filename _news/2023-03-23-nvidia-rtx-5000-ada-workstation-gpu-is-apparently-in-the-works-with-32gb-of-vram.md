@@ -25,22 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA RTX 5000 Ada Workstation GPU Might Be In The Works With These Killer Specs"
-    excerpt: "NVIDIA kicked off this year's GPU Technology Conference (GTC) with a flurry of announcements and an interesting keynote about bringing AI everywhere, all at once. As part of the busy first day, NVIDIA unveiled a new workstation card based on Ada Lovelace ..."
-    publishedDateTime: 2023-03-22T14:35:00Z
-    webUrl: "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
+  - title: "Nvidia dusts off dual GPU cards"
+    excerpt: "At least for data centres  Nvidia has announced a new dual-GPU product, the H100 NVL but sadly not for SLI or multi-GPU gaming. In fact based on what Nvidia says the H100 NVL (H100 NVLink)will be a rubbish card for gaming and targets the growing AI market."
+    publishedDateTime: 2023-03-22T00:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-cards"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg"
-        width: 708
-        height: 400
+      - url: "https://www.fudzilla.com/media/k2/items/cache/27e8a2b89808b6dd5eff2351941494aa_L.jpg"
+        width: 620
+        height: 465
         isCached: true
+  - title: "SoftBank Verifies GPU-based vRAN on Actual Machines with NVIDIA & Mavenir"
+    excerpt: "SoftBank announced, in collaboration with NVIDIA and Mavenir Systems, it succeeded in End-to-End (E2E) communication from user equipment to image processing multi-access edge computing (MEC) applications via virtualized radio access network (vRAN) components using Graphic Processing Units (GPUs) in actual machines."
+    publishedDateTime: 2023-03-24T07:50:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/31256-softbank-verifies-gpu-based-vran-on-actual-machines-with-nvidia-mavenir"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/eff4d2f6c43f76130218cd7f67643c1c.jpg?t=20230324_060550"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Vultr Announces Availability of NVIDIA H100 Tensor Core GPU and Partnerships with Domino Data Lab and Anaconda"
+    excerpt: "The NVIDIA HGX H100 joins Vultr’s other cloud-based NVIDIA GPU offerings, including the A100, A40, and A16, rounding out Vultr’s extensive infrastructure-as-a-service (IaaS) support for accelerated computing workloads. From generative AI, deep learning ..."
+    publishedDateTime: 2023-03-22T15:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vultr-announces-availability-of-nvidia-h100-tensor-core-gpu-and-partnerships-with-domino-data-lab-and-anaconda/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ASRock Rack GPU Server Platform Lineups Are Now Qualified for NVIDIA L4 Tensor Core GPUs"
+    excerpt: "The NVIDIA L4 Tensor Core GPU, powered by the NVIDIA Ada Lovelace architecture, is a universal, energy-efficient accelerator designed to meet numerous AI needs. With the NVIDIA accelerator and its full-stack AI platform, the L4 GPU delivers higher AI ..."
+    publishedDateTime: 2023-03-22T15:43:00Z
+    webUrl: "https://www.hartware.de/2023/03/22/asrock-rack-gpu-server-platform-lineups-are-now-qualified-for-nvidia-l4-tensor-core-gpus/"
+    type: article
+    provider:
+      name: Hartware Net
+      domain: hartware.de
+    quality: 10
 
 secured: "Ge0v67N2mMwPYR+nOxjGDM6+6GdL1Kwqs3s0Z7C73qlrfC5ovIKnYXNSwykVFaawGH5HpZFxUosMuQQCEFZAj2kmpbttbz2kytOHPUbCR2yYm+JMRr40riqZHPm3lAgACLwRddBZb1mO/tzwZYyL6tJp0GvQsJrQJHk5Pj3/Au2nlkCUFI3IMNv0qs4bc5Tr4iRlGoady5/L188hapQ4moppor407w1eaH8TImqtt3kpAgup2Ru9OQhb0d1No//Dnu19wV26FwTkzLKwc8ULfwJmAPtBaMhdlH/wciqp9PlZjiEqtgTFS9GHMcmdPqM5FLE4P82ENTo0nBDPP5G7JCETC4iXGHLtZOPG1wZMj7fCgQ4DJx7VQWWn1vKcbI7QLDzI23JFmtmEl3p0TDRTfVkooiZyCuwnUmgGI4Wf7MGxN7c2q6MroyrxMfKae90oKZPbb6Fj1mfDNw/C9shMSAPCDRbxGusXmEeFSuWi/ZPUQRsMgVWn3BrZBeu4FyzufF8TViz3B1pLBWljbYvZ6Q==;RxnBrs3/LylIK9AX9nf0qQ=="
 ---

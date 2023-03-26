@@ -25,308 +25,255 @@ images:
     isCached: true
 
 related:
-  - title: "Opera adds ChatGPT and AI prompts into its browser"
-    excerpt: "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts.."
-    publishedDateTime: 2023-03-22T13:24:00Z
-    webUrl: "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    ampWebUrl: "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/zdivnOCZZ3swfSBYBTkb.g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d379e10-c898-11ed-8542-eb2cdaacb701.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI and ChatGPT can embrace engineering education?"
-    excerpt: "Hence, large language model based generative AI platforms like ChatGPT and Bing Chat can be a ... The ability of ChatGPT to summarise, shorten, elaborate, rephrase, and translate text can also help students improve their writing skills."
-    publishedDateTime: 2023-03-22T11:44:00Z
-    webUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education-11679484916404.html"
-    ampWebUrl: "https://www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/how-ai-and-chatgpt-can-embrace-engineering-education/amp-11679484916404.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/03/22/600x338/67bbde00-68bf-11ed-b05f-f3a699bb92b4_1668940894952_1679485118056_1679485118056.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Google releases Bard, a competitor to ChatGPT, Claude and Bing Chat"
-    excerpt: "The new chatbot aims to emulate human-like conversations by utilizing natural language processing and machine learning to generate realistic and helpful responses to user queries. >>Follow VentureBeat’s ongoing generative AI coverage<< In its surprise ..."
-    publishedDateTime: 2023-03-21T23:07:00Z
-    webUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/"
-    ampWebUrl: "https://venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-releases-bard-a-competitor-to-chatgpt-claude-and-bing-chat/amp/"
+  - title: "Speech AI, supercomputing in the cloud, and GPUs for LLMs and generative AI among Nvidia’s next big moves"
+    excerpt: "In this regard, the company unveiled NeMo and DGX Cloud on the software side, and Hopper GPU on the hardware one. NeMo, part of the Nvidia AI Foundations cloud services, creates AI-driven language and speech models. DGX Cloud is an infrastructure platform ..."
+    publishedDateTime: 2023-03-22T17:47:00Z
+    webUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/"
+    ampWebUrl: "https://venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/speech-ai-supercomputing-cloud-gpus-llms-generative-ai-nvidia-next-big-moves/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/4249731778_596657ac94_k.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all"
         width: 1200
-        height: 799
+        height: 850
         isCached: true
-  - title: "Those Generative AI ChatGPT And GPT-4 Outputs And Interaction Might Be Portraying Too Much Humility For Our Own Good, Says AI Ethics And AI Law"
-    excerpt: "ChatGPT and its successor GPT-4 will often interact and produce outputted essays that seem to exhibit humility, but some in AI Ethics and AI Law worry that this is a troubling trend. Here's why."
-    publishedDateTime: 2023-03-22T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/22/those-generative-ai-chatgpt-and-gpt-4-outputs-and-interaction-might-be-portraying-too-much-humility-for-our-own-good-says-ai-ethics-and-ai-law/amp/"
+  - title: "As Nvidia pushes to democratize AI, here’s everything it announced at GTC 2023"
+    excerpt: "This includes Nvidia L4 for producing AI video; Nvidia L40 for 2D/3D image generation; Nvidia H100 NVL for deploying large language models; and Nvidia Grace Hopper — which connects the Grace CPU and Hopper GPU over a high-speed 900GB/sec coherent chip-to ..."
+    publishedDateTime: 2023-03-21T23:22:00Z
+    webUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/"
+    ampWebUrl: "https://venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-nvidia-pushes-to-democratize-ai-heres-everything-it-announced-at-gtc-2023/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/01/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv-e1679423776142.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Semi holding Nvidia proves its a leader in AI software, expanding beyond chips"
+    excerpt: "Separately, Nvidia launched four new \" inference platforms \" designed specifically for large language models (LLMs) and generative AI workloads. While Nvidia's chips have been essential to training the models that power generative AI applications ..."
+    publishedDateTime: 2023-03-22T15:41:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/semi-holding-nvidia-proves-its-a-leader-in-ai-software.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 82
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106747420-1602840895304-GettyImages-902419318_1.jpg?v=1679499588&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "NVIDIA Bets Big On Public Cloud To Deliver Its AI Supercomputing And Omniverse Platforms"
+    excerpt: "Machine learning PaaS providers including Google Cloud Vertex AI ... Google Cloud customers can also access L4 GPU through the Vertex AI ML PaaS. Microsoft Azure becomes the first public cloud to deliver NVIDIA’s Omniverse as a platform."
+    publishedDateTime: 2023-03-23T11:42:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/03/23/nvidia-bets-big-on-public-cloud-to-deliver-its-ai-supercomputing-and-omniverse-platforms/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 82
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641a5f449007f9459b4b2898/0x0.jpg?format=jpg&crop=1455,819,x110,y75,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641c3a70b6a0326ff9054838/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Five AI stocks in focus amid ChatGPT frenzy"
-    excerpt: "Over the last couple of weeks, the buzzword around the tech world seems to be ChatGPT. From writing code to language translation, from writing blogs to cre.."
-    publishedDateTime: 2023-03-22T07:02:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/five-ai-stocks-in-focus-amid-chatgpt-frenzy?amp=1"
+  - title: "Next-gen Nvidia AI chips coming to cloud platforms"
+    excerpt: "At the chip maker’s annual developer conference on Tuesday, CEO Jensen Huang positioned Nvidia as the engine behind “the iPhone moment of AI”, as he’s taken to calling this inflection point in computing."
+    publishedDateTime: 2023-03-22T07:08:00Z
+    webUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/"
+    ampWebUrl: "https://techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/next-gen-nvidia-ai-chips-coming-to-cloud-platforms/223517/?amp=1"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 61
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 74
     images:
-      - url: "https://image.khaleejtimes.com?uuid=ef87a930-16ab-5250-8a8a-ae9e2a32b3cd&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&width=1200&height=675&x=1.0E-5&y=1.0E-5"
-        width: 1200
-        height: 675
+      - url: "https://techcentral.co.za/wp-content/uploads/2023/03/jensen-huang-1500-800.jpg"
+        width: 1500
+        height: 800
         isCached: true
-  - title: "AI Vs EU: ChatGPT Shakes Up Brussels Plans For Regulation"
-    excerpt: "Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon by users amazed at its ability to answer difficult questions clearly, write sonnets or code"
-    publishedDateTime: 2023-03-22T08:45:00Z
-    webUrl: "https://www.barrons.com/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c?refsec=topics_afp-news"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-vs-eu-chatgpt-shakes-up-brussels-plans-for-regulation-3efe27c"
+  - title: "NVIDIA goes all in on AI, shares progress at GTC"
+    excerpt: "These include AWS, Google Cloud, Azure, Oracle Cloud, and Alibaba Cloud. The company launched DGX Cloud, which enables access to an AI supercomputer right from a web browser. This removes the need to acquire, deploy, and manage on-premises infrastructure."
+    publishedDateTime: 2023-03-22T21:17:00Z
+    webUrl: "https://sdtimes.com/ai/nvidia-goes-all-in-on-ai-shares-progress-at-gtc/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP2956653982247083189024971462670948033464---1.jpg"
-        width: 768
-        height: 512
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
         isCached: true
-  - title: "AI vs EU: ChatGPT upends Brussels' intentions for regulation"
-    excerpt: "AI is in wide use, but the conversational robot ChatGPT has transformed how people view the technology — and how regulators should monitor it to protect against risks. Created by US startup OpenAI, ChatGPT appeared in November and was quickly seized upon ..."
-    publishedDateTime: 2023-03-22T08:42:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1052758-ai-vs-eu-chatgpt-upends-brussels-intentions-for-regulation"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 59
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-03-22/1052758_010609_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
-    excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
-    publishedDateTime: 2023-03-22T20:38:00Z
-    webUrl: "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/"
-    ampWebUrl: "https://www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/texas-lawmaker-uses-chatgpt-to-deliver-remarks-on-ai-bill/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 59
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/02/f5ae2bc0547d4821b9400e9a506a4250.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "How to use ChatGPT and other generative AI for business and in life"
-    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
-    publishedDateTime: 2023-03-26T09:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "ChatGPT shakes up European Union's plans to regulate artificial intelligence"
-    excerpt: "The European Commission, the EU's executive arm, first announced a plan in April 2021 for an AI rulebook, and the European Parliament hopes to finalise its preferred AI Act text this month"
-    publishedDateTime: 2023-03-22T08:24:00Z
-    webUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html"
-    ampWebUrl: "https://www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/chatgpt-shakes-up-european-unions-plans-to-regulate-artificial-intelligence-12331872.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 56
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/What-ChatGPT-thinks-of-China-banning-AI-language-models-for-the-public-because-it-cant-be-censored-2.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Enchanted by ChatGPT, Bill Gates calls AI 2nd revolutionary tech after GPU"
-    excerpt: "Artificial intelligence (AI) is the second truly significant technological revolution in Bill Gates' 67 years of life, according to a recent blog by the Microsoft co-founder."
-    publishedDateTime: 2023-03-22T12:34:00Z
-    webUrl: "https://interestingengineering.com/innovation/bill-gates-calls-ai-2nd-revolutionary-tech-after-gpu"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/bKUV73fV7Eo9MBNXW2tyMvZ8GtUcng4pQOjWxOey.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "With AI-powered ChatGPT, the watchword is verify, don't blindly trust"
-    excerpt: "It’s not always accurate and at times it has added information I didn’t add.” He uses ChatGPT, launched by OpenAI in November, for numerous purposes including creating event listings for LISTnet gatherings."
-    publishedDateTime: 2023-03-22T08:00:00Z
-    webUrl: "https://www.newsday.com/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    ampWebUrl: "https://www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/columnists/jamie-herzlich/chatgpt-ai-v7t5yclo"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 39
-  - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
-    excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
-    publishedDateTime: 2023-03-23T13:56:00Z
-    webUrl: "https://www.americamagazine.org/faith/2023/03/23/chatgpt-machine-learning-catholic-244953"
-    type: article
-    provider:
-      name: America Magazine
-      domain: americamagazine.org
-    quality: 39
-    images:
-      - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Google releases Bard, its competitor in the race to create AI chatbots"
-    excerpt: "Internet giant Google will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft."
-    publishedDateTime: 2023-03-21T20:14:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
-    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
-    publishedDateTime: 2023-03-24T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
-    excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
-    publishedDateTime: 2023-03-22T13:26:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/chatgpt-ai-models-apps-complicated-efforts-eu-lawmakers-landmark-rule-3884084"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 32
-    images:
-      - url: "https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
-    excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
-    publishedDateTime: 2023-03-23T20:19:00Z
-    webUrl: "https://phys.org/news/2023-03-paper-written-chatgpt-opportunities-ai.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 29
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/paper-written-using-ch.jpg"
-        width: 1719
-        height: 872
-        isCached: true
-  - title: "From ChatGPT-3.5 to ChatGPT-4: A Quantum Leap in Natural Language Processing and Multimodal Capabilities"
-    excerpt: "A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set ..."
-    publishedDateTime: 2023-03-22T15:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/03/chatgpt-35-chatgpt-4-quantum-leap-natural-language-processing-and-multimodal-capabilities/384296/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 22
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/03/22/032223gpt4NG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
-    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
-    publishedDateTime: 2023-03-22T19:04:00Z
-    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
+  - title: "TYAN’s AI Inference-Optimized Platforms Add Support for NVIDIA L4 Tensor Core GPU"
+    excerpt: "TYAN, an industry-leading server platform design manufacturer and a MiTAC Computing Technology Corporation subsidiary,"
+    publishedDateTime: 2023-03-22T16:22:00Z
+    webUrl: "https://www.datanami.com/this-just-in/tyans-ai-inference-optimized-platforms-add-support-for-nvidia-l4-tensor-core-gpu/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 49
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "8 Big Announcements At Nvidia’s GTC 2023: From Generative AI Services to New GPUs"
+    excerpt: "improve GPU performance and make GPU computing more accessible. These included the DGX Cloud AI supercomputing service, the AI Foundations services for custom generative AI applications, the L4 and H100 NVL specialized GPUs, and the Omniverse Cloud ..."
+    publishedDateTime: 2023-03-22T21:28:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/8-big-announcements-at-nvidia-s-gtc-2023-from-generative-ai-services-to-new-gpus"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 49
+    images:
+      - url: "https://www.crn.com/resources/027f-1798c9f33803-b9db66b81116-1000/first-slide.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "Nvidia unveils new AI Supercomputing Cloud Service"
+    excerpt: "Furthermore, Nvidia announced that it will roll out the DGX Super AI Computing System, which is equipped with 8 flagship A100 or H100 chips. For those unaware, the Ampere and Hopper chips that will be available in China are basically the A800 and H800 ..."
+    publishedDateTime: 2023-03-23T12:21:00Z
+    webUrl: "https://www.gizmochina.com/2023/03/23/nvidia-unveil-ai-supercomputing/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 49
+  - title: "Nvidia announces H100 GPU SKU aimed at large language model and generative AI workloads"
+    excerpt: "Nvidia has developed a version of its H100 GPU specifically for large language model and generative AI development. The dual-GPU H100 NVL has more memory than the H100 SXM or PCIe, as well as more memory bandwith, key features for large AI models."
+    publishedDateTime: 2023-03-22T21:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-h100-gpu-sku-aimed-at-large-language-model-and-generative-ai-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia-inference-platforms.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia GTC puts focus on generative AI"
+    excerpt: "Nvidia is showcasing its latest technologies and breakthroughs in a variety of areas, including AI and the metaverse, particularly generative AI, at its ongoing GPU Technology Conference (GTC)."
+    publishedDateTime: 2023-03-22T01:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230321PD217/generative-ai-inference-platform-large-language-model-nvidia-paas-platform-as-a-service.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230321pd217_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Supermicro announces new AI development platform powered by NVIDIA"
+    excerpt: "The company said the system is designed to accommodate high-performing CPUs and GPUs, suitable for AI/DL/ML and HPC applications. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and GPUs ..."
+    publishedDateTime: 2023-03-22T16:13:00Z
+    webUrl: "https://seekingalpha.com/news/3950002-supermicro-announces-new-ai-development-platform-powered-by-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "NVIDIA brings generative AI to almost everything, everywhere, all at once"
+    excerpt: "NVIDIA unveiled four inference platforms tailored for a wide range of swiftly emerging generative AI applications."
+    publishedDateTime: 2023-03-22T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/03/nvidia-brings-generative-ai-to-almost-everything-everywhere-all-at-once/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 38
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/03/21032023_NVIDIA-L4.png"
+        width: 1087
+        height: 547
+        isCached: true
+  - title: "NVIDIA Launches DGX Cloud, Giving Every Enterprise Instant Access to AI Supercomputer from a Browser"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... Solutions (CCC), and digital-business-platform provider ServiceNow are among the first AI pioneers using DGX Cloud. “With NVIDIA DGX Cloud and NVIDIA BioNeMo, our researchers ..."
+    publishedDateTime: 2023-03-22T04:32:00Z
+    webUrl: "https://www.businesswireindia.com/nvidia-launches-dgx-cloud-giving-every-enterprise-instant-access-to-ai-supercomputer-from-a-browser-83678.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 24
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_83678.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia aims to bring AI to every industry"
+    excerpt: "ChatGPT is just the start of a rapid uptake of artificial intelligence (AI) across the board. With computing now advancing at what he called “lightspeed,” Nvidia founder and CEO Jensen Huang has announced a broad set of partnerships with Google,"
+    publishedDateTime: 2023-03-22T09:58:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-aims-to-bring-ai-to-every-industry/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 19
-  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
-    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
-    publishedDateTime: 2023-03-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
+  - title: "Nvidia lets any enterprise access an AI supercomputer"
+    excerpt: "Microsoft Azure is expected to begin hosting DGX Cloud next quarter ... amount and type of DGX infrastructure needed for each job. DGX Cloud includes Nvidia AI Enterprise, the software layer of the Nvidia AI platform, which provides end-to-end AI ..."
+    publishedDateTime: 2023-03-22T09:29:00Z
+    webUrl: "https://it-online.co.za/2023/03/22/nvidia-lets-any-enterprise-access-an-ai-supercomputer/"
     type: article
     provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
+      name: IT-Online
+      domain: it-online.co.za
     quality: 19
-  - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
-    excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
-    publishedDateTime: 2023-03-24T13:36:00Z
-    webUrl: "https://www.gadgets360.com/apps/news/soundhound-chatgpt-android-ios-app-smart-ai-voice-assistant-features-details-3890346"
+  - title: "Nvidia launches DGX Cloud to offer GPU supercomputers-as-a-Service"
+    excerpt: "Offered through existing cloud providers, the DGX Cloud services provide access to dedicated clusters of Nvidia DGX hardware, which can be rented on a monthly basis. Each instance of DGX Cloud features eight Nvidia H100 or A100 80GB Tensor Core GPUs for a total of 640GB of GPU memory per node."
+    publishedDateTime: 2023-03-24T18:44:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-dgx-cloud-to-offer-gpu-supercomputers-as-a-service/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 13
-  - title: "Can ChatGPT invent a new language? AI bot stuns Twitter user with some jaw-dropping responses"
-    excerpt: "ChatGPT’s efficiency with generating content from scratch is well known. However, a Twitter user challenged the bot with a unique task."
-    publishedDateTime: 2023-03-24T04:13:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-invents-new-language-chronosentia-8515039/"
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
+  - title: "Lilbits: AI everywhere, aCropalypse and the Windows Snipping Tool, and NVIDIA’s new GPUs for mobile workstations"
+    excerpt: "After spending 5 years as the head of Intel’s graphics department (spearheading the company’s drive into discrete GPUs) Raja Koduri is stepping down to launch a generative AI startup. Koduri was previously at AMD and spent 4 years stint at Apple."
+    publishedDateTime: 2023-03-21T23:04:00Z
+    webUrl: "https://liliputing.com/lilbits-ai-everywhere-acropalypse-and-the-windows-snipping-tool-and-nvidias-new-gpus-for-mobile-workstations/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 8
+      name: Liliputing
+      domain: liliputing.com
+    quality: 16
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2023/03/firefly-beta.jpg"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "NVIDIA Launches Inference Platforms for Large Language Models and Generative AI Workloads"
+    excerpt: "NVIDIA launched four inference platforms optimized for a diverse set of rapidly emerging generative AI applications — helping developers quickly build specialized, AI-powered applications that can deliver new services and insights."
+    publishedDateTime: 2023-03-22T12:59:00Z
+    webUrl: "https://insidebigdata.com/2023/03/22/nvidia-launches-inference-platforms-for-large-language-models-and-generative-ai-workloads/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 10
 
 secured: "TwEPbbx3KFMa+7y4/1NOcRdFn5b+KGrNv2d4ASBJIOb5bEaMhuVVBNyPQlparU8NKFKshLubp6vW5iozPXXY4MdSUAJK2PKTdVq+2J/kOmm3b0j8ajcYJoJMT7DSHw3m1sjTF0LGm0MBJ9i9X7JUA4SPYsyW5E0aFt9wMk35hXOr+0JfCU6kBpgAtzdMd2Che6m3tLkTKH631+LuPCjf0oXypqoyl8zGO8B3gUMGi8gMnaXpojfnSSm0tSPQvB8bwQO0ctU3QDAUaoc+nmYMAsrp4Mm9DQuOQxy3FFFyAVgK0d01g7CxJvWlL1V53TGozmUP/Yd9UjCVI4M+T6qms4UltVEPYXIbda/i+nbcmakSa8gIvXoaH2rzMs2+0CVacJxUyFWxFlvE41s+ZcRrivu9zqB700iLSzY91Tros3MJrAv8VI5+sBJiwDV12E32GyY90rloR0Lr0T8BruviRarKKHvcIhRIPs4n0dxh8RkSmu7Wf+huBbk8tXsdAfj7ww96D/Xh5mVFKOZP6x6Dtw==;Z12qMcfYITvmD6sR0rsi4g=="
 ---

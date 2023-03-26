@@ -53,7 +53,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://g.foolcdn.com/editorial/images/725453/artificial-intelligence-ai-on-circuit-board.jpg"
         width: 2359

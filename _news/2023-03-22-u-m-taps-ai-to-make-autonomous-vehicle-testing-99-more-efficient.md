@@ -7,7 +7,7 @@ originalUrl: "https://www.dbusiness.com/daily-news/u-m-taps-ai-to-make-autonomou
 webUrl: "https://www.dbusiness.com/daily-news/u-m-taps-ai-to-make-autonomous-vehicle-testing-99-more-efficient/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Google Uses AutoML to Discover More Efficient AI Training Algorithm"
-    excerpt: "The practice of test && commit || revert teaches how to write code in smaller chunks, further reducing batch size. TCR yields high coverage by design, which smooths the downstream testing pipeline."
-    publishedDateTime: 2023-03-21T20:38:00Z
-    webUrl: "https://www.infoq.com/news/2023/03/google-lion-optimizer/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 34
 
 secured: "XwggtRm8/AA7rzWvjP3witEXVP4CccWE01DHVOiS18CKe0kW/y3tZkhpyLTeVtCk8OpfWjvn0nAYNt2GSZEBG5flD25oNCo3dEe9Sp++GoUaB2WYUVAkZsO88Hr2GIj3676XnbvMDsme8zSpcIVb1zmm6m+w9KuA81B/NaF4SaISj+kwGnbicxPIj/7IogIh7GJzGW83OpAm5VMr1JCmH9h4mAe7nRu80PmA2A+OVHO7G+odr+mkUBZnT/xO1o76NdLCu9zy66PY838QluQ8TqFQkfaukgcwyoJ4rhmEFMZKTYqqlI8hyIDUzEpHBiUiX3wmDna8sJp6kvAeMs4n0qtgcIblTjPvtMrEe52sz7tVJOddoKm/EGWqvGyZO4Ojb+1zKGQR4GBZpfbUCJYSTiMTonz56f2ZkjcgX4GIb2JORc1Rvlvmv/vzOx8/vlccPAg4mTzv1QMhtk+ZPXckCXJGwdvi6ixezmgG7dbKbYZaYIhgTiiNfCrmAVbeKvdyanXimlfZt7JgLt47OtmuBQ==;Mxqe6rdGcarFByD5TWli1g=="
 ---

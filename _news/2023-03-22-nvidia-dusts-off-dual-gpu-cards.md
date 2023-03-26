@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-c
 webUrl: "https://www.fudzilla.com/news/ai/56577-nvidia-dusts-off-dual-gpu-cards"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,64 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Eases The Complexity Of Robot Training"
-    excerpt: "GPU market leader NVIDIA is holding its virtual GPU Technology Conference (GTC). Over the years, GTC has evolved from a graphics and gaming show to an industry event dedicated to all things artificial intelligence (AI)."
-    publishedDateTime: 2023-03-21T20:01:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/nvidia-robot-training/"
+  - title: "SoftBank Verifies GPU-based vRAN on Actual Machines with NVIDIA & Mavenir"
+    excerpt: "SoftBank announced, in collaboration with NVIDIA and Mavenir Systems, it succeeded in End-to-End (E2E) communication from user equipment to image processing multi-access edge computing (MEC) applications via virtualized radio access network (vRAN) components using Graphic Processing Units (GPUs) in actual machines."
+    publishedDateTime: 2023-03-24T07:50:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/31256-softbank-verifies-gpu-based-vran-on-actual-machines-with-nvidia-mavenir"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg"
-        width: 1088
-        height: 725
+      - url: "https://www.thefastmode.com/media/k2/items/src/eff4d2f6c43f76130218cd7f67643c1c.jpg?t=20230324_060550"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
-    excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
-    publishedDateTime: 2023-03-22T14:55:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
+  - title: "Vultr Announces Availability of NVIDIA H100 Tensor Core GPU and Partnerships with Domino Data Lab and Anaconda"
+    excerpt: "The NVIDIA HGX H100 joins Vultr’s other cloud-based NVIDIA GPU offerings, including the A100, A40, and A16, rounding out Vultr’s extensive infrastructure-as-a-service (IaaS) support for accelerated computing workloads. From generative AI, deep learning ..."
+    publishedDateTime: 2023-03-22T15:33:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vultr-announces-availability-of-nvidia-h100-tensor-core-gpu-and-partnerships-with-domino-data-lab-and-anaconda/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
     images:
-      - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
-        width: 2560
-        height: 1600
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Nvidia CEO Says AI Can Overcome the Death of Moore’s Law"
-    excerpt: "Moore said “the number of transistors incorporated in a chip will approximately double every 24 months,” offering performance and cost benefits over time. Huang also explained that the AI industry has already gone through several stages of development."
-    publishedDateTime: 2023-03-22T17:35:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
+  - title: "NVIDIA RTX 5000 Ada workstation GPU is apparently in the works with 32GB of VRAM"
+    excerpt: "This would put the power requirement somewhere in the region of 200-250W. It makes sense, especially with reports that NVIDIA GPU sales in the AI and workstation sector lead to the company's stock price shooting. The NVIDIA RTX 5000 Ada Generation GPU ..."
+    publishedDateTime: 2023-03-23T03:31:00Z
+    webUrl: "https://www.tweaktown.com/news/90818/nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram/index.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
     images:
-      - url: "https://images.barrons.com/im-748583/social"
-        width: 1280
-        height: 640
+      - url: "https://static.tweaktown.com/news/9/0/90818_01_nvidia-rtx-5000-ada-workstation-gpu-is-apparently-in-the-works-with-32gb-of-vram.jpg"
+        width: 620
+        height: 348
         isCached: true
-  - title: "Custom Nvidia chip boosts China's AI push"
-    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-    publishedDateTime: 2023-03-23T09:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+  - title: "ASRock Rack GPU Server Platform Lineups Are Now Qualified for NVIDIA L4 Tensor Core GPUs"
+    excerpt: "The NVIDIA L4 Tensor Core GPU, powered by the NVIDIA Ada Lovelace architecture, is a universal, energy-efficient accelerator designed to meet numerous AI needs. With the NVIDIA accelerator and its full-stack AI platform, the L4 GPU delivers higher AI ..."
+    publishedDateTime: 2023-03-22T15:43:00Z
+    webUrl: "https://www.hartware.de/2023/03/22/asrock-rack-gpu-server-platform-lineups-are-now-qualified-for-nvidia-l4-tensor-core-gpus/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
-        width: 720
-        height: 480
-        isCached: true
+      name: Hartware Net
+      domain: hartware.de
+    quality: 10
 
 secured: "nQhOcOPrbsZIWtoNMQJC7xZu2iopCHi/723DQo0YhvnUT2UVdMZ3yJ9iAFMW/fzq+I2cSXWKl/vmY5nGeEvVnS7k3VSKHAzGJKw+khbIl8xdC3sru8y9B6BYwVLb0/Xt++feRYzeU1JWxON9WbDV8JCs27ebEy2k9hbVwdEg7BnnlTIQ0yX/zNi8mvqOV1I8WQo3S5Yx38Pas7xsEY6csgIqtMKLbzwX5Q6SAG3epW+Lh2BuN4lWItgTz4hEyya8kCCBpj3rjCbpn7B8zCV/Yt0nbfc2eBbHI3+FSN81ozKAnTqmobB+NguSb/PvaTcd/wESvgzl86YFBQAHhTXLQlp1Xka98y/2crsRfJMf7czCI6/06NYx5f2ikjtsoUAj3J4pjAsYU4jZm1u8ItGbfrumZda0fa7FVoLzDQTAbDhDrlt4dYllOqviBu8+Zc5pAaVEOtgR8ilJqAi2wTXuXEYCc7thhmb9kWeYwbdJlG9Uzdj+HeMp1XVnRvPjYj0zufeGwNIQrs9d1f7TgAfUMQ==;mKBFZ5fsYjThcR6WqQhq+w=="
 ---

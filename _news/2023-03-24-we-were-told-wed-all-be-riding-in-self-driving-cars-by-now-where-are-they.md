@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
-    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
-    publishedDateTime: 2023-03-21T21:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple self-driving test program grows to over 200 drivers"
     excerpt: "Apple has reported 16 total collisions in California since registering. The data shows Apple's continued commitment to testing self-driving tools for cars. It is registered alongside other manufacturers like Mercedes, Waymo, Tesla, Nvidia, and Zoox."
     publishedDateTime: 2023-03-22T22:29:00Z

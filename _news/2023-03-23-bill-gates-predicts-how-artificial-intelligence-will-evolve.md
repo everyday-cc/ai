@@ -8,7 +8,7 @@ webUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intell
 ampWebUrl: "https://en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
 cdnAmpWebUrl: "https://en-as-com.cdn.ampproject.org/c/s/en.as.com/latest_news/bill-gates-predicts-how-artificial-intelligence-will-evolve-n/?outputType=amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -82,6 +82,20 @@ related:
       - url: "https://images.wsj.net/im-748570/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "These are the 34 jobs OpenAI suggests will secure you against the AI revolution"
+    excerpt: "The creators of recent AI phenomenon, ChatGPT ... Additionally, LLMs can be used to translate content into different languages, which can help to reach a wider audience. And, I can be used to generate personalized content, such as news articles that ..."
+    publishedDateTime: 2023-03-23T15:12:00Z
+    webUrl: "https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 35
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ScPYLdpxFRGNZK7zfy5Lh6-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9ORE1OoSOJHFNd3fDFyT3/Ewq4hwxq2b37FVP+4ig7uwuK2rmz5m1c55kynSH1VZGKgKSBR3qvfERTSKYzXJ80RIO2sqy4AKaOhg6uRsHwk0jDNR1bVAGN0JGi2V6JJcC3uIGEyls2anbzYwVjj5mORGEoea7eiVWOHhPdcYUxKSWsV4nH31xuvSHrx2hq/+kjNKSCFWOsdQlQUAuxPQxkFWrKiDDtj/ddO2m4uU2suqv47Bj/6Jm2+blcQhVuOSxUiibdwms5++sOklrkL42gx2XEg8VRlPKKucM+X1nglUhn4FADxFP/JyvCJ4/DC+/WH7NPZvZkSuGS4vphi/UGjIGB/gd1FQrPlLjAJ1T0U=;cWy/wa6bq26KGysXNcuKeg=="

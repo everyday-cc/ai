@@ -40,24 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI startups to watch"
-    excerpt: "Investors are pouring billions of dollars into AI startups in what is quickly becoming the latest tech gold rush. Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT,"
-    publishedDateTime: 2023-03-23T14:16:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "AI startups to watch"
-    excerpt: "Leading the AI revolution is OpenAI, a startup from Sam Altman that created the fast-growing artificial intelligence chatbot ChatGPT, which this year reached 100 million monthly active users."
-    publishedDateTime: 2023-03-24T07:18:00Z
-    webUrl: "https://www.bizjournals.com/washington/inno/stories/awards/2023/03/23/ai-startups-to-watch.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "fT9HZSn11X+Cput17o2+chs8fT+0Pu+nLK2Z0VkUQK+1Mk5cp0sxTwfvZa2r6w/ePwscunRdxQNDSJdvac2ydTG0zWMcP5IHXuELfAaaIyXGmctM42k0EyYN5c25PE9J5O9Ph9wX2wkho13bdycL5XjmPRDQfszIWv8UrbpdCehWTxFKuH/V0c0H4PFMdafmuPSwSwzaa/Y9M0ny+rQJRG1Ciu+CkRBZ/9HIO8CKkqZvkvSF0/cQ1MruRCnri42Ho0+yujXuJbyvPHu+uUEWVGu+1Nvu74WBIi7DANeNisIXC3LOJtWtTW7DFQx9LrcM3idS5YHvZGoZuyEr32VdPx7uNp0bA/Nf5zZhD+flmzo=;apWW2LCiJNL/d7xPT4C2yw=="
 ---

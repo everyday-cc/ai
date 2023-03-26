@@ -7,7 +7,7 @@ originalUrl: "https://technology.inquirer.net/122439/bill-gates-the-age-of-ai-ha
 webUrl: "https://technology.inquirer.net/122439/bill-gates-the-age-of-ai-has-begun"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 620
     height: 349
     isCached: true
-
-related:
-  - title: "Bill Gates: AI is most important tech advance in decades"
-    excerpt: "Developed by OpenAI, ChatGPT is an AI chatbot which is programmed to answer questions online using natural, human-like language. The team behind it in January 2023 received a multibillion dollar investment from Microsoft - where Mr Gates still serves as an advisor."
-    publishedDateTime: 2023-03-21T19:56:00Z
-    webUrl: "https://www.bbc.com/news/technology-65032848"
-    ampWebUrl: "https://www.bbc.com/news/technology-65032848.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65032848.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ABFB/production/_129072044_gettyimages-1247163886.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Bill Gates weighs in on the future of artificial intelligence"
-    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
-    publishedDateTime: 2023-03-26T01:39:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
-    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
-    excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
-    publishedDateTime: 2023-03-21T20:01:00Z
-    webUrl: "https://www.aol.com/finance/bill-gates-ai-does-everything-170040707.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/z5GxlTQ.j13xh3bf8moBIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e6fd16625aa654f2e45a8d5f40c6f49"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "qQ3yqXMjzBmqzeyaebhbsEljef8Teb4Hb/6+LfaogLYvLDd6bAo7GHVK9hki3V1CNblfQjR8xUy5Bq5QRIfMR6sAeqM/FlWQxaveMDyc7hYbmj6SoWrDsPEGZtX+HiEwVvYasT1b8U3jVJkJzOp6dZbAnOL5DjWoD6NeAsDYtKspR04+Ku0z4ho2iow5KiJkP8QqiyIqAxcmTCSsyNmmLPQR4pgsRJ56TWzDFZxki+qIyeTPfcb8wFkNJWoXJDB9FU8APt7MDM6yzb08exOG4Uv7pbYk4T4NFi2hCfQAvQqVtQMOv1cmgjeCoELeJJ222iMA4FpZQzckYigJyzz8IdYP6V8HRz/UWdkyh53xXAA=;bwvUTGhM4NJLQ8Dp9sfEUQ=="
 ---

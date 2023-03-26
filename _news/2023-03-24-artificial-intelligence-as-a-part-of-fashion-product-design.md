@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-23T17:16:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-as-a-part-of-fashion-product-design/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-as-a-part-of-fashion-product-design/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Indiatimes

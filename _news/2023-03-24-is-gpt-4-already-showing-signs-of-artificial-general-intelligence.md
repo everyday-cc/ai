@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Edge vision AI adds to connected intelligence theme at ew 2023"
-    excerpt: "(Image EE Times/ Sally Ward-Foxton) The solutions on offer all tend to claim to offer the ability to add vision and artificial intelligence (AI ... applications ranging from self-driving robots to healthcare where vision systems are used to detect ..."
-    publishedDateTime: 2023-03-21T19:59:00Z
-    webUrl: "https://www.embedded.com/edge-vision-ai-adds-to-connected-intelligence-theme-at-ew-2023/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 23
   - title: "Phenom High-Volume Hiring Earns 2023 Artificial Intelligence Excellence Award by Business Intelligence Group"
     excerpt: "“Across various industries — including healthcare, early education ... including Gold for ‘Best Advance in AI for Business Impact,’ Business Intelligence Group's Artificial Intelligence Excellence Awards (3 consecutive years), and a regional ..."
     publishedDateTime: 2023-03-23T15:17:00Z

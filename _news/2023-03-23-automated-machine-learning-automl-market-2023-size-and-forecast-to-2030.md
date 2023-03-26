@@ -30,24 +30,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market LATEST REPORT 2023 to 2030"
-    excerpt: "The global Artificial Intelligence in Manufacturing and Supply Chain market size was valued at USD 1458669.56 million in 2022 and is expected to expand at a CAGR of 21.67% during the forecast period, reaching USD 4731719.69 million by 2028. The report ..."
-    publishedDateTime: 2023-03-24T21:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-latest-report-2023-to-2030-2023-03-24"
+  - title: "Automated Machine Learning (AutoML) Market Outlook and Forecast to 2031 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major and emerging players ..."
+    publishedDateTime: 2023-03-24T20:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automated Machine Learning (AutoML) Market Outlook and Forecast to 2031 with Top Countries Data"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 24, 2023 (The Expresswire) -- The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major and emerging players ..."
-    publishedDateTime: 2023-03-24T20:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
+  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market LATEST REPORT 2023 to 2030"
+    excerpt: "The global Artificial Intelligence in Manufacturing and Supply Chain market size was valued at USD 1458669.56 million in 2022 and is expected to expand at a CAGR of 21.67% during the forecast period, reaching USD 4731719.69 million by 2028. The report ..."
+    publishedDateTime: 2023-03-24T21:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-latest-report-2023-to-2030-2023-03-24"
     type: article
     provider:
       name: MarketWatch

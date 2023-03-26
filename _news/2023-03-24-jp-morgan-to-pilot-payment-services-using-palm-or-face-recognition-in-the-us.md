@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-24T15:05:00Z
 originalUrl: "https://interestingengineering.com/innovation/jp-morgan-to-pilot-payment-services-using-palm-or-face-recognition-in-the-us"
 webUrl: "https://interestingengineering.com/innovation/jp-morgan-to-pilot-payment-services-using-palm-or-face-recognition-in-the-us"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Interesting Engineering

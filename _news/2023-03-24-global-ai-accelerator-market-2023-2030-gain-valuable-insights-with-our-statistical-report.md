@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Networks Market Size, Fundamentals And Forecast Analysis 2023 to 2031"
-    excerpt: "Mar 21, 2023 (Alliance News via COMTEX) -- The modern-day document posted via Report Ocean, titled \"Artificial Neural Networks Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023 to 2031,\" affords a complete evaluation of the ..."
-    publishedDateTime: 2023-03-21T20:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-size-fundamentals-and-forecast-analysis-2023-to-2031-2023-03-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Outlook: Examining Demand and Growth Projections Across Industries till 2030"
     excerpt: "Mar 24, 2023 (Alliance News via COMTEX) -- Quadintel offers a thorough analysis of the Machine Learning Market, including assessments of business solutions, studies and advancements, applications, advantages, benefits, and breadth. This market research ..."
     publishedDateTime: 2023-03-24T17:51:00Z

@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla Engineers Unsuccessfully Tried To Convince Elon Musk To Keep Radar In Self-Driving Cars"
-    excerpt: "This decision was part of Tesla's shift towards a \"Tesla Vision\" approach, which relies solely on cameras for self-driving capabilities. What Happened: While the automaker maintained that the camera-only method is the best way to achieve autonomous driving ..."
-    publishedDateTime: 2023-03-21T21:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31444150/tesla-engineers-unsuccessfully-tried-to-convince-elon-musk-to-keep-radar-in-self-driving-cars"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31444150"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31444150"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/03/21/0x0-model3_01.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "We Were Told We’d All Be Riding in Self-Driving Cars by Now. Where Are They?"
     excerpt: "According to predictions made nearly a decade ago, we should be riding around in self-driving vehicles today. It’s now clear the autonomous vehicle revolution was overhyped. Proponents woefully underestimated the technological challenges. It turns out ..."
     publishedDateTime: 2023-03-23T23:32:00Z

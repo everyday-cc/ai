@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
+    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
+    publishedDateTime: 2023-03-25T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Those Generative AI ChatGPT And GPT-4 Outputs And Interaction Might Be Portraying Too Much Humility For Our Own Good, Says AI Ethics And AI Law"
     excerpt: "ChatGPT and its successor GPT-4 will often interact and produce outputted essays that seem to exhibit humility, but some in AI Ethics and AI Law worry that this is a troubling trend. Here's why."
     publishedDateTime: 2023-03-22T11:00:00Z
@@ -223,31 +239,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Google releases Bard, its competitor in the race to create AI chatbots"
-    excerpt: "Internet giant Google will grant users access to a chatbot after years of cautious development, chasing splashy debuts from rivals OpenAI and Microsoft."
-    publishedDateTime: 2023-03-21T20:14:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/google-releases-bard-its-competitor-in-the-race-to-create-ai-chatbots/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "Nvidia unveils DGX cloud, access to its supercomputers that power ChatGPT AI"
-    excerpt: "Nvidia has collaborated with Oracle Cloud, Microsoft Azure, Google Cloud, and other cloud providers to make its AI supercomputers accessible via cloud services."
-    publishedDateTime: 2023-03-22T15:50:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-unveils-dgx-cloud-access-to-supercomputers"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 36
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/22/image/jpeg/uZXsVGV9b3oXXPrcamtQN4NKj2sK5tVJQHkVWwzQ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
     excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
     publishedDateTime: 2023-03-22T13:26:00Z
@@ -326,6 +317,15 @@ related:
       name: The Indian Express
       domain: indianexpress.com
     quality: 8
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "ODHSFf6I2v15sSXPf4mEmTbX5RbHKp2AO/3H8XHQ+e0DFXp2UHXlOofGyhLVP2jqzLfvp94EqgcTSlTh+2e4QNieaw4NqGas7PhwA/NFMcA+FReSNAG0edSuTT5axsKM+eJCUTYFGpq5N8SrPQPofDv9nH5PvQ0L16Ks/46AjiXxKGBzd4h9yXD9dbTQWzVo2F68FVpTz8pU+EWCp7SbpgVAggSUzcPUDR5tVFBJB2BqJHXxasj7Y5cDps4FiNfmuW9tA0k+7Bgfbdl9MF/uyIdwfV9XLRT5xhv3Dv20FwCxSA5DuMaQAb8Y4zZoqm//Ea6APuYyk0LJqM3MdngmTMeKyTwXCOjCY0ii0nno5yY=;bm39uEylfsCswbicuU2mng=="
 ---

@@ -26,49 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates: AI is most important tech advance in decades"
-    excerpt: "Developed by OpenAI, ChatGPT is an AI chatbot which is programmed to answer questions online using natural, human-like language. The team behind it in January 2023 received a multibillion dollar investment from Microsoft - where Mr Gates still serves as an advisor."
-    publishedDateTime: 2023-03-21T19:56:00Z
-    webUrl: "https://www.bbc.com/news/technology-65032848"
-    ampWebUrl: "https://www.bbc.com/news/technology-65032848.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65032848.amp"
+  - title: "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says"
+    excerpt: "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,"
+    publishedDateTime: 2023-03-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ABFB/production/_129072044_gettyimages-1247163886.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Bill Gates: There will be AI that does 'everything that a human brain can'"
-    excerpt: "True to form, Microsoft founder Bill Gates is already thinking about the next big thing in tech. Think super AI — not just the run-of-the-mill AI sending all sorts of tech stock"
-    publishedDateTime: 2023-03-21T20:01:00Z
-    webUrl: "https://www.aol.com/finance/bill-gates-ai-does-everything-170040707.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/z5GxlTQ.j13xh3bf8moBIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e6fd16625aa654f2e45a8d5f40c6f49"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Bill Gates: “The Age of AI Has Begun”"
-    excerpt: "Microsoft founder Bill Gates recently released a seven-page online paper titled “The Age of AI Has Begun” on March 21, 2021. “It will change the way people work, learn, travel, get health"
-    publishedDateTime: 2023-03-23T05:57:00Z
-    webUrl: "https://technology.inquirer.net/122439/bill-gates-the-age-of-ai-has-begun"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 37
-    images:
-      - url: "https://technology.inquirer.net/files/2023/03/Bill-Gates-featured-image-www.cnbc_.com_-620x349.png"
-        width: 620
-        height: 349
+        height: 1200
         isCached: true
 
 secured: "3UxPqwoEsQp8MimBcfDZxfMd8vJJ/RoowxYcekqY7eVrhGHa57wXM6pMRVdW1mW/+UnTZao9yL2mhStiWrljZ7o0DP4RNS+rEd+C2yb7PfBmIEC5GzkyFFANK74lz+kPyc7deuxcBawwrwKSCkBuSg32BK0aX5OR0/DO5pV/UmIYZ5BTbHyMia/CQvVIGwDsN6HAiw9O0ofDglhUG/VQ/xIWiFGGJ1eqkqA9kccbnjIeiGPwyU+gIWgSalTjjxVz+Hi1gHUhboxO+8wap7YuhpiOUtWLPxSfRfYrjupgbqr/khm8tALCvgcU7Vj/4OKVzwFfh2XdrmedBsFWADjFe/bWqAxbrta749oO7VQf7KI=;DHCb/lGeIDZXbN/Y7CpRMQ=="

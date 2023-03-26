@@ -20,6 +20,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "How artificial intelligence could be used in Cleveland schools"
+    excerpt: "CLEVELAND (WJW) – Artificial intelligence called Amira will be piloted in the Cleveland Metropolitan School District this spring. It comes amid heated debate and even bans in districts including ..."
+    publishedDateTime: 2023-03-24T02:00:00Z
+    webUrl: "https://fox8.com/news/how-artificial-intelligence-could-be-used-in-cleveland-schools/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 19
+
 secured: "p5ibPUUoATnE61Rot+zHK8APUpFL4TqOWycAvlUTS4GktTZEAcQT2kn+/Cx3OWspWMGOL0HdwK2OGjY2Aza5e2lwRROALP5g8hiLA+3K83pZJy72ebZpIHeNaBOnRriwSSlg3owcegHFml7Wr8GmSEBDT9s3TMJeuifqdTi09Mr9baoeJGc+QDewxJD5yIqaU5wFCqP2GV9hw2GVIk3+OVg5BbfNoUKjdwzejUIubz/k8oMf16QryB+tlyvDhDaC8QEYUKRMW/YZup2a3Ga3EYprgyRSJsQNw67/HaBOPQeV1pOdcvibbODTWrhOl5g6udCHCtZN2aKDFZoRkiNHMxv6YCedwfFrTOalXH0BawUS4VwDYhzv0C1PHkkqay/5sexxpdFkmmrgGp5G+JYA7Txx18krsNvPiTB5A0jNHwi1bN3PYpwYSRT9EcEg7+neMymCuVnGWGxtbwQn2zGcdH+ckcEGqopPeznLrqi+q5pbFMM1BKpv25URpdFzzVXNCGuvmSa7hCCIX8IpCLyPiA==;l8PaP/uvI13y66TqKwYDvQ=="
 ---
 

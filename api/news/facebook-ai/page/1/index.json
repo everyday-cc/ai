@@ -54,26 +54,35 @@
       ]
     },
     {
-      "path": "_news/2023-03-25-ai-and-the-metaverse-the-mark-zuckerberg-way.md",
-      "title": "AI and the Metaverse, the Mark Zuckerberg Way",
-      "excerpt": "CEO Mark Zuckerberg truly buried the metaverse? Or is this simply the Tribune's own interpretation? The headline was based on a Zuckerberg post on Facebook and Instagram about Meta’s technology plans.",
+      "path": "_news/2023-03-24-we-need-an-ai-rights-movement.md",
+      "title": "We need an AI rights movement",
+      "excerpt": "A new dawn is breaking. This is just one of many reasons why we need to build a new field of digital minds research and an AI rights movement to ensure that, if the minds we create are sentient, they have their rights protected. Scientists have long ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way",
+      "webUrl": "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/",
+      "originalUrl": "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2018/07/humanoid_robot_07272018_1.jpg?w=1280",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse-the-mark-zuckerberg-way?amp",
-      "publishedDateTime": "2023-03-24T10:58:00-07:00",
+      "ampWebUrl": "https://thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/cybersecurity/3914567-we-need-an-ai-rights-movement/amp/",
+      "publishedDateTime": "2023-03-23T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

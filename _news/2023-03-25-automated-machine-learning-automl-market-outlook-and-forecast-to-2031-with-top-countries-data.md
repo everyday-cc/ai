@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-24T20:51:00Z
 originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-outlook-and-forecast-to-2031-with-top-countries-data-2023-03-24"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
