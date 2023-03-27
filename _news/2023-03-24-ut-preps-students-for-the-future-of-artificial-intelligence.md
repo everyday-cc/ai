@@ -26,49 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "GitHub unveils Copilot X: The future of AI-powered software development"
-    excerpt: "GitHub is introducing Copilot X, adopting the latest OpenAI GPT-4 model and expanding Copilot's capabilities with chat and pull requests."
-    publishedDateTime: 2023-03-22T14:30:00Z
-    webUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/"
-    ampWebUrl: "https://venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-unveils-copilot-x-the-future-of-ai-powered-software-development/amp/"
+  - title: "The Future Of Education Will Tap AI, Not Be Replaced By It, This Founder Says"
+    excerpt: "According to Under 30 Europe lister Joel Hellermark, the future of artificial intelligence and machine learning is rife with possibilities that can help the ways in which humans learn and collaborate,"
+    publishedDateTime: 2023-03-24T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/oliviapeluso/2023/03/24/the-future-of-education-will-tap-ai-not-be-replaced-by-it-this-founder-says/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/Screenshot-2023-03-22-at-12.09.08-AM.png?w=1200&strip=all"
-        width: 1199
-        height: 673
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641d2b19c49f86e711580d4a/0x0.jpg?format=jpg&crop=3823,3824,x0,y515,safe&width=1200"
+        width: 1200
+        height: 1200
         isCached: true
-  - title: "Why Oblivion's NPC Rampage Matters For The Future Of AI Development"
-    excerpt: "We're in the early days of widely accessible, large language model-trained AI and this level of public exposure has led to a lot of questions and concerns being raised about the technology, the ethics around it, and its potential impact on humanity."
-    publishedDateTime: 2023-03-23T20:28:00Z
-    webUrl: "https://www.slashgear.com/1237314/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/"
+  - title: "Bill Gates weighs in on the future of artificial intelligence"
+    excerpt: "While Gates acknowledges that AI has the potential to do great good, depending on government intervention, he is equally concerned by the potential harms."
+    publishedDateTime: 2023-03-26T01:39:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/all-news/article-735412"
+    ampWebUrl: "https://m.jpost.com/business-and-innovation/all-news/article-735412/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/all-news/article-735412/amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
     images:
-      - url: "https://www.slashgear.com/img/gallery/why-oblivions-npc-rampage-matters-for-the-future-of-ai-development/l-intro-1679602246.jpg"
-        width: 1600
-        height: 902
-        isCached: true
-  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
-    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
-    publishedDateTime: 2023-03-22T19:39:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
-        width: 647
-        height: 450
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/260786"
+        width: 640
+        height: 428
         isCached: true
   - title: "Visions for the Future of Artificial Intelligence"
     excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
@@ -84,29 +70,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "GitHub teases Copilot X, powered by GPT-4"
-    excerpt: "Microsoft-owned entities such as Azure and GitHub are reaping the benefits of Microsoft’s multibillion, multiyear partnership with OpenAI."
-    publishedDateTime: 2023-03-22T15:16:00Z
-    webUrl: "https://www.ciodive.com/news/GitHub-CopilotX-GPT4-OpenAI-Microsoft/645668/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 24
-    images:
-      - url: "https://www.ciodive.com/imgproxy/Kvqv_8Ndupq-2DxBLSHcozoWOiB6o5ELhSteP8vxCws/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0Jsb2ctSGVyb19MaWdodE1vZGUucG5n.png"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "GitHub debuts AI-powered Copilot X coding assistant"
-    excerpt: "Another set of new AI features focuses on pull requests ... “We’re starting with documentation for React, Azure Docs, and MDN, so we can learn and iterate quickly with the developers and users of these projects,” Dohmke detailed in today’s blog ..."
-    publishedDateTime: 2023-03-22T18:25:00Z
-    webUrl: "https://siliconangle.com/2023/03/22/github-debuts-ai-powered-copilot-x-coding-assistant/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "2NR7B6T947M/T8cyyiTnqxfasPK8f5SBDHt4u2IgoYYOx7+ydeD114WAbztkwLYbKK7kf6tHBIeJypJ60JfYMmMSLYrDajVzWfoCW6vsIsfA3fhHMyhzfO7mv3EPhfMUy6+miuFItFa1gp/4VyPzgiaiHootFOMPA2EW01/1YBK1XWt71KoY/Q6dW+7v+PKL6X6GE/wLbf3hzcLcqAc9iqOPJVbUEFbpgOQEObSf0UuT4w2o6ddC0rntu94QFQN842u21GaMfuc1a87vhiBEKxwUo/DiCH2ZmxZzl2l7mJOOR5GG4fA5yiMbr6pufOqBrOrC4OP2C0IQ8BTcxl7Tz/MakYia4aYA3A6f4doLd3wclEk8xd8nWxNCGBQDmZf+oaNH401rdBgqtqpFNY6zN0L36uPSVcw9Bh6gF9eGmKTiO1Fbuy8y0hT2MBsVmOOf1KNb9j+bKERT1xnckGlzF+f5JSQCwuA5FmWvxiqDAdwMX71YfZe+ttmV7m+YP1MKF6jrA60hbe9yC/e9CzXuGg==;1NfMLECe/d4rf5tH7GDBOQ=="
 ---

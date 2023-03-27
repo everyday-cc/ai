@@ -225,6 +225,20 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Dutton undermining Indigenous recognition: Albanese"
+    excerpt: "Labor is holding the line on its refusal to release expert legal advice about the Voice to parliament proposal, firing back at the opposition over the plan."
+    publishedDateTime: 2023-03-27T06:46:00Z
+    webUrl: "https://www.afr.com/politics/federal/dutton-undermining-indigenous-recognition-albanese-20230327-p5cvjc"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1939%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f9e4b0ade331e5c9aa07e2b71cb4f17c5dd465dc"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Albanese praises South Australia’s Voice with historic Bill set to pass"
     excerpt: "“Today is a day of healing, recognition and a step forward in South Australia’s relationship with First Nations people,” he said. “For too long, decisions have been made for Aboriginal and Torres Strait Islander people, and not by them. “The ..."
     publishedDateTime: 2023-03-25T19:02:00Z

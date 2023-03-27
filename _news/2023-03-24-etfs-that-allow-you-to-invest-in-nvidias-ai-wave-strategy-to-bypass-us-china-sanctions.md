@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-t
 webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,59 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
+    publishedDateTime: 2023-03-24T05:18:00Z
+    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Nvidia stock could soar as the chipmaker's dominant position in AI is poised to reshape the tech industry, Bank of America says"
+    excerpt: "OpenAI has since integrated similar AI technology into Microsoft's Bing search engine, after the software giant poured $10 billion into the startup earlier this year. Companies large and small have capitalized on the interest by announcing big plans for AI ..."
+    publishedDateTime: 2023-03-22T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-target-ai-llm-tech-artificial-intelligence-stocks-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "J8zDpRdikF4AMt3PtzEc/Jl1Iz6VQHhW++u4ugPVWSmkmQNWZZebTw/l32QOq+SO34vPYehXoWZD2WGyuTOqVCoHwCRFNOLXJq5uNl1Zpdnnz5TxNiClpVaEzIDqrkEcfE1rjFXwfy3Lo4sbiN7KT56ouaoL6YMPoTFiw55//iSV1vLwDmdRF9k6yn5tBc/MyqNFj62heH9/mipHLe46zCRygEnVr2UFXdoCJTabKkCkfXy4rSgj/fl1VsP48b6ofbf+7c4+iDto76JhesVXChGZMjCqRFIbzL/ccCsvKyxP378DdFUYeAvxMHYh7snAqgfgeLiZn9NeZDoP+HQD7kLF1Kmk0d0Hynbqlyk2ekA=;Bx4wRKeZcGZUMmMMZG4gwg=="
 ---

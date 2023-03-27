@@ -23,19 +23,61 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Nvidia Stock: GTC Confirms the AI Opportunity, but the Goodness Is Priced in, Says Deutsche Bank"
-    excerpt: "There’s no way around it, artificial intelligence (AI) looks set to play an increasingly big role in our daily lives and Nvidia (NVDA) has positioned itself at the forefront of this revolution. The chip giant’s pivot to all things AI was already well ..."
-    publishedDateTime: 2023-03-22T14:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-gtc-confirms-the-ai-opportunity-but-the-goodness-is-priced-in-says-deutsche-bank-1032185028"
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/03/image-544-1024x506.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 506
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
+    excerpt: "Aetina's New Edge Computing Systems and Platforms Are Powered by the Latest NVIDIA Jetson Orin System-on-Modules Aetina's NVIDIA-Certified System Tested with NVIDIA L4 Tensor Core GPU Aetina's SuperEdge AIS-D422-A1—an AI platform ideal for AI model ..."
+    publishedDateTime: 2023-03-24T05:18:00Z
+    webUrl: "https://www.asiaone.com/business/aetina-showcases-its-latest-ai-solutions-nvidia-gtc"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg?h=5b470aab&itok=7c0fUUzZ"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
+    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
+    publishedDateTime: 2023-03-24T16:53:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "yzJGDvJgw6LFcL5XfWnWXey64jIoy9K2wOPvvVp0Jt5rHkTEFiAeSOH31iYGapuawER9xgEXIWe9thYxMRzByGXcf0uVvc8A29ovpZ6ueFCWKaa6yXR/g5aUscsDm5Uspszn0H4GvIkbcwaysiS3KOzH9NPrIP+AoLIpswBGkY2JbKRnBwkF1reQfQvOWw+xCPNvwenc69ki00bfr6BJ1aUpCiqR15i+Jx91kuuJqFFemQdRD/xofmY6V1sVOETUUK8BHzYP1YdOtj6ebKU5dF8RuO/QAf/LLwXPMj4LpxkWzzIhtaxky2lCwPYLSXXmL4X7nUvrMNBn/ezDA9fsqtTV1DgFwZVFvmZBAIPnywPo0BShuPF214bxhpZ03wYMhzExGw7/jSQgti8M9JBBGoRntDKfzBki2YkWBRrsOnHpD2ZrGD/31WDb+ElaT8VPBGNrJi8HMFs5CwK7O5oi7dIc5P//0vvDAdQGwDnC6Mzjk+5AKSiDuEgFA0V501m0jvrgZjb7j3wxlUXcHSgQFg==;5uPD0sw8rj7UrPhU96qPDA=="

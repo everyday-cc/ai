@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to use ChatGPT and other generative AI for business and in life"
+    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
+    publishedDateTime: 2023-03-26T09:21:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CodiumAI debuts TestGPT, an AI-powered tool that tests code for errors"
     excerpt: "CodiumAI has created an AI model called TestGPT that’s powered by OpenAI’s GPT-4 large language model. Its job is to assist developers in testing their code interactively, which it does by generating tests on the go."
     publishedDateTime: 2023-03-22T17:34:00Z

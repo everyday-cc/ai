@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market Analysis: Explosive Growth Opportunity by 2029"
-    excerpt: "Based on the Artificial Intelligence and Cognitive Computing market development status, competitive landscape and development model in different regions of the world, this report is dedicated to providing niche markets, potential risks and comprehensive ..."
-    publishedDateTime: 2023-03-23T07:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-analysis-explosive-growth-opportunity-by-2029-2023-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market 2023: Growth Trends and Opportunities by 2027"
     excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Latest “Speech and Voice"
     publishedDateTime: 2023-03-26T12:17:00Z

@@ -26,6 +26,17 @@ images:
     height: 1122
     isCached: true
 
+related:
+  - title: "How machine learning is helping scientists forecast bird migration"
+    excerpt: "With chatbots like ChatGPT making a splash, machine learning is playing an increasingly prominent role in our lives. For many of us, it’s been a mixed bag. We rejoice when our Spotify For You playlist finds us a new jam, but groan as we scroll through a ..."
+    publishedDateTime: 2023-03-24T15:35:00Z
+    webUrl: "https://www.fastcompany.com/90870401/how-machine-learning-is-helping-scientists-forecast-bird-migration"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
+
 secured: "FDKxBodRwmrVK6pN5oJVA7QYsQMu+GX6rKKDSbhGT2iBAiFqpd2LoGXqUrA5oHqZ1yYapMBfOKd2ElVHCwlp0XHNq07XZZZpwi00vhZTnCw8gkWBLoCRXOe10lmy+bk8fFTZVckgUnnwiG2myBQJPD6xWxneRjTanhvi4IUeBK9DFoc+hwu2Ap+8JKwVtANlhDB1blT/XwoEd+BPCGBHV921Sxh412OTfP71JBpKhPRgvEtiTYPK+d+rkreTtSRwf47aUQBTDy/lkTiAbQkTafFx3ZeMbor3AZHCIJwboaCjRiEp6IZMP+6tziWVAvPitR+ptJihNsAm8DSxlijOF0ZtEpKwmfgE9YHLXDLAlM++HeoH62fkf5IsE+XfCGxYZuTuUQZfOZtXS90cOqS67nWXKhHbp3P5zsgRS9Y1k9niOM5ZckReOZUYgLKITg8YXVOF47McD8l2C91plJ3NrcdQCQ/hOpiqKeiL3Uv3lNbuhi5XOn0rZDNzX1laBspRBeQxLZ2qJo/wwl0axJqliA==;an4kVDiy3CpHQv5HDXnQjA=="
 ---
 

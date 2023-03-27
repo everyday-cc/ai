@@ -26,7 +26,7 @@ related:
     provider:
       name: The Washington Post
       domain: washingtonpost.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484

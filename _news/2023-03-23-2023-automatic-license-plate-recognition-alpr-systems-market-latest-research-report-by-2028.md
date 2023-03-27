@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Networks Market Growth Research 2023-2029 with Key Suppliers"
+    excerpt: "Mar 26, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Neural Networks"
+    publishedDateTime: 2023-03-26T11:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-growth-research-2023-2029-with-key-suppliers-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Spain Machine Learning as a Service Market Report Outlook, Growth, Key Players, Revenue, and Forecast 2023 to 2031"
     excerpt: "Market Segmentation Spain Machine Learning as a Service Market By Service (Managed ... Augmented & Virtual Reality), End User (Banking, Financial Services, and Insurance, IT and Telecom, Research and Academic, Government and Public Sector, Retail ..."
     publishedDateTime: 2023-03-24T19:36:00Z
@@ -66,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of Face Recognition Ststems Market: Forecasting Trends and Opportunities 2023-2028"
-    excerpt: "The 2022 Global \"Face Recognition Ststems Market\" Report offers a thorough analysis of the industry's development components, patterns, flows, and sizes. The report evaluates current and past market values to project potential market management for the ..."
-    publishedDateTime: 2023-03-24T14:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-face-recognition-ststems-market-forecasting-trends-and-opportunities-2023-2028-2023-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

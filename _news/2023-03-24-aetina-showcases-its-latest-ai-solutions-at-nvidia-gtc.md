@@ -25,63 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Aetina Teams Up With Hailo To Introduce Multi-Inference AI Solutions At The Edge During ISC West 2023"
-    excerpt: "Aetina & Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform."
-    publishedDateTime: 2023-03-26T16:02:00Z
-    webUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/"
-    ampWebUrl: "https://enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/aetina-teams-up-with-hailo-to-introduce-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023/amp/"
+  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
+    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
+    publishedDateTime: 2023-03-22T20:40:00Z
+    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 44
+      name: CNBC
+      domain: cnbc.com
+    quality: 62
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/03/Aetina-Teams-Up-With-Hailo-To-Introduce-Multi-Inference-AI-Solutions-At-The-Edge-During-ISC-West-2023.jpg"
-        width: 1500
-        height: 844
+      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Aetina Corporation: Aetina Showcases Its Latest AI Solutions at NVIDIA GTC"
-    excerpt: "The platforms, paired with the NVIDIA A2 Tensor Core GPU and the NVIDIA RTX A4500 graphics card, are NVIDIA-Certified Systems, ideal for use with NVIDIA software tools to run AI training and inference with better performance. Aetina's NVIDIA-Certified ..."
-    publishedDateTime: 2023-03-24T03:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58641034-aetina-corporation-aetina-showcases-its-latest-ai-solutions-at-nvidia-gtc-008.htm"
+  - title: "Custom Nvidia chip boosts China's AI push"
+    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
+    publishedDateTime: 2023-03-23T09:45:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 37
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/2038846/Aetina_s_New_Edge_Computing_Systems_Platforms_Are_Powered_Latest_NVIDIA.jpg"
-        width: 400
-        height: 209
+      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
-    excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform—AIP-SQ67, and AI-MXM-H84A"
-    publishedDateTime: 2023-03-24T00:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31485508/aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023"
+  - title: "Nvidia stock could soar as the chipmaker's dominant position in AI is poised to reshape the tech industry, Bank of America says"
+    excerpt: "OpenAI has since integrated similar AI technology into Microsoft's Bing search engine, after the software giant poured $10 billion into the startup earlier this year. Companies large and small have capitalized on the interest by announcing big plans for AI ..."
+    publishedDateTime: 2023-03-22T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-target-ai-llm-tech-artificial-intelligence-stocks-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "ETFs That Allow You To Invest In Nvidia's AI Wave, Strategy to Bypass US - China Sanctions"
+    excerpt: "\"The age of AI demands cloud data center infrastructures to support extraordinary ... This week, Nvidia said it has similarly developed a China-export version of its H100 chip, making it eligible for export to China. The H800 mainly reduced the chip ..."
+    publishedDateTime: 2023-03-24T16:53:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31492548/etfs-that-allow-you-to-invest-in-nvidias-ai-wave-strategy-to-bypass-us-china-sanctions"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 25
+    quality: 29
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Aetina Corporation: Aetina Partners with Hailo to Launch Multi-Inference AI Solutions at the Edge during ISC West 2023"
-    excerpt: "Aetina and Hailo join forces to launch multi-inference AI solutions that involve object recognition AI models, Aetina's AI inference platform-AIP-SQ67"
-    publishedDateTime: 2023-03-24T03:38:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58640762-aetina-corporation-aetina-partners-with-hailo-to-launch-multi-inference-ai-solutions-at-the-edge-during-isc-west-2023-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/2039160/Aetina_Partners_Hailo_Launch_Multi_Inference_AI_Solutions_That_Involve_AI.jpg"
-        width: 400
-        height: 209
+      - url: "https://cdn.benzinga.com/files/images/story/2023/03/24/nvda.png?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "HCXx0WcC8xV9639lcYBLOvtp0GX/TQ8txx2Q6poiJ0KCKM+jp8Cv0kKIkfQVVql2sI8qnwUH3Un2JKAjNH2vpmQ2gQpvk+ci9QSZSZNmAfbqoDIOcbauExCK2/tX0ebiERThoObXnqOiR60jtXw1OOW5KcTC3AdnNgAZ4QTYUx5cApF8bsIGVXa0vHBzlXIyX1XE6tRWTNEX5mgZzCUWY9AunQ3aYb9nidpE8g6YiKfU2tcxncs0+onp2Kmu4yUIs/1n7w4N6svc4dOKoARt3jk5+FW2oIbpriXuZnbwG8v984h+5JUKIfbhH0hefts7ygNWtt6uZ0voEFhJJ6U0xbcx07bou1i8xjgKixxuGsY=;7jKJSxotzhgT5FschD1EwA=="

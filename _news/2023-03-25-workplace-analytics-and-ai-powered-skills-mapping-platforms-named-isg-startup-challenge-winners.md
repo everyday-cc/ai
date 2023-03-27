@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market to Experience a Significant Increase in Revenues"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (96 Pages) | Information Technology |"
+    publishedDateTime: 2023-03-27T03:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Workplace Analytics and AI-Powered Skills-Mapping Platforms Named ISG Startup Challenge Winners"
     excerpt: "Technology platforms that facilitate collaboration and improved workplace experience and identify strengths and gaps"
     publishedDateTime: 2023-03-24T15:00:00Z

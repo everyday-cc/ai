@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ceo-ai-chips-moores-law-2fc9a763"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Barron's
@@ -36,6 +36,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
+    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
+    publishedDateTime: 2023-03-22T19:04:00Z
+    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "PbmnucdyEVBZY+J4mXkArYIRUxcFTfH4+piPaKVyfBgxr4YSSX18Y1pmb5Dvi62p9SDB6i8IZdLznoLiXviVtuXPqF6v+68kzvuMNQ3xI7g1XTOUSnO2ZLWQzyT64ZFSDGMf4yO7KoLgWWmvXj+2BQiWsylnZ/cUix4Ihq0ZURWT9+KCrUDB/69XVwjJ4ds51QS3A6QzqXOsaA1Mwzuh398L44pGat64CxhbCi1Dv38pg/ww0gdP7X9Ilq2K4etn6Cev/TkfPbGUlfJXvtI/xRosFAshKEjtu/w1DhiyskNU/qvm1irQYSneQszz3GygDlfExi6KPKGCW5/BiNir2nsndf/vED4mpuohDL/01fB9xmXqmoLCZUHEzhAwx9HkDpAH1VbnVWvm9wvj83aR3d5HAV+S1ENdIQth6uGgRByxAYwYSKnspuaiCk1xiXjQq2XHQ3+07W9w4L0hMNUyI9zZA1dRilq3eKzYnsr4B86O5csvmNVth3TlH2akw1tpLXcENqvIdykE+efOTAWr6A==;ZcgvzDwgKZO4jkc7woDMzQ=="
 ---

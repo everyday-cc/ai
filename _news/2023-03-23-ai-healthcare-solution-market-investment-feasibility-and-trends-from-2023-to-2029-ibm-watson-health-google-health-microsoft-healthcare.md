@@ -91,20 +91,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
-    excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
-    publishedDateTime: 2023-03-22T15:03:00Z
-    webUrl: "https://www.wsj.com/articles/publishers-prepare-for-showdown-with-microsoft-google-over-ai-tools-6514a49e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-748377/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft Is All-In on AI: 2 Ways It Will Benefit"
     excerpt: "In addition to software, Microsoft is also testing AI chatbot integration into its popular Azure cloud computing services. The company calls it Azure OpenAI Service, and its capabilities span content generation, summarizing conversations, and code generation."
     publishedDateTime: 2023-03-23T10:10:00Z

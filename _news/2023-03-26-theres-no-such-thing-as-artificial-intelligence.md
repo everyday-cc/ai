@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-ch
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-03-26/even-with-chat-gpt-4-there-s-no-such-thing-as-artificial-intelligence"
 type: article
 quality: 67
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Even with ChatGPT-4, there's no such thing as Artificial Intelligence. AI is a misnomer"
+    excerpt: "The term, AI, breeds misunderstanding and helps its creators avoid culpability. Reasonable technologists have tried for years to replace “AI” with “machine learning” but that doesn’t trip off the tong"
+    publishedDateTime: 2023-03-27T06:38:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/even-with-chatgpt-4-theres-no-such-thing-as-artificial-intelligence-ai-is-a-misnomer-10317181.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 64
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google's AI teams are experiencing a brain drain. Here's where its top researchers are now."
     excerpt: "Considered a breakthrough in natural language processing, the Transformer model helps an AI understand meaning by looking at each ... on BERT and is considered well-suited for tasks like translation and summarizing. Sharan Narang, another contributor ..."
     publishedDateTime: 2023-03-23T09:16:00Z

@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
-    excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
-    publishedDateTime: 2023-03-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare"
     excerpt: "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit"
     publishedDateTime: 2023-03-26T20:18:00Z
@@ -147,15 +131,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Adobe launches Firefly AI media generator"
-    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
-    publishedDateTime: 2023-03-22T13:53:00Z
-    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 19
 
 secured: "zgI3FylQjEkMEeNrEsSACRycpQbO2kBSn5yl35zqXib+V0UVqHYEdm1y9Ns18iR7LM6K5YcHRuze04xqBmxm7NeqY/TKevLzZW/b5+lmlp9oN/8nCQdsCyPDpdqOfxmaaPGoDUoYlvMUgmW74lSHaASF56SGGzsOWn1F+2a9ek2HD+fvLUI9VAam28IkKYgZnSYULkm3s4tzwrkAyq8tVjml2Ma8aoIIaaVds9u+ci1YFU+0oVLRAXX2TIM11Y00rGccqeatLQQl69Lw7S5m1+QJZpxAd+0+1C8gQJhI8YlCUC5NHlmARSLHh3NzdRu5OzkY5Yup6kafU7l3gOrJx8pxwVg67I11538/FV0XLWimEVcxIBkadc/bXSlf1q1YUdOp7YEnS4KbMaoix5zFYxRfWq5lrZjn61fywm7oe6xuaa3c2uDZYC08r+mzyYmG5jy3EsApRQxrQc4dXiCkt8l2LdX6h5B708tKRJWHp5LIMp1CXFCL+WlRahM1v+z0X2ZzLuFgVYEZ+WEntxuWDw==;K8Nea2rsyB7x2ymGvJFakA=="
 ---

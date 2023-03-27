@@ -25,63 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Investors, Take Note: Nvidia's Rush of New AI Deals Could Be a Game Changer"
-    excerpt: "The inveterate graphics processor designer has been busy making moves in the AI space recently. I mean really recently, as the push included a flurry of new partnership announcements at the 2023 version of Nvidia's GPU Technology Conference (GTC)."
-    publishedDateTime: 2023-03-22T14:55:00Z
-    webUrl: "https://www.fool.com/investing/2023/03/22/investors-take-note-of-nvidia-ai-deals/"
+  - title: "Nvidia: We Won't Sell to Companies That Use Generative AI 'To Do Harm'"
+    excerpt: "Nvidia CEO Jensen Huang also tells reporters that he supports governments stepping in to regulate generative AI programs, such as ChatGPT."
+    publishedDateTime: 2023-03-22T20:30:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-we-wont-sell-to-companies-that-use-generative-ai-to-do-harm"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: PC Magazine
+      domain: pcmag.com
     quality: 67
     images:
-      - url: "https://g.foolcdn.com/editorial/images/725492/nvda-logo-green.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
-  - title: "'A tough stock not to own.' Wall Street endorses Club name Nvidia, as it dominates AI"
-    excerpt: "\"Generative AI is marking an inflection point for AI and we continue ... Nvidia (NVDA) has demonstrated this week that both its chips and budding software offerings are integral to the future of artificial intelligence, bolstering the Club case in the ..."
-    publishedDateTime: 2023-03-22T20:40:00Z
-    webUrl: "https://www.cnbc.com/2023/03/22/a-tough-stock-not-to-own-wall-street-endorses-club-holding-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 62
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107198977-1677173650792-huang.jpg?v=1679516659&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "NVIDIA RTX 5000 Ada Workstation GPU Might Be In The Works With These Killer Specs"
-    excerpt: "NVIDIA kicked off this year's GPU Technology Conference (GTC) with a flurry of announcements and an interesting keynote about bringing AI everywhere, all at once. As part of the busy first day, NVIDIA unveiled a new workstation card based on Ada Lovelace ..."
-    publishedDateTime: 2023-03-22T14:35:00Z
-    webUrl: "https://hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-rtx-5000-ada-workstation-gpu-killer-specs"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61214/content/NVIDIA_RTX_6000_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "Custom Nvidia chip boosts China's AI push"
-    excerpt: "The booth of Nvidia Corp during an expo in Hangzhou, Zhejiang province. LONG WEI/FOR CHINA DAILY . Nvidia, a US-based artificial intelligence chip company, said it has developed a"
-    publishedDateTime: 2023-03-23T09:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202303/23/WS641ba671a31057c47ebb6076.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202303/23/641ba671a31057c4b4b7c6d4.jpeg"
-        width: 720
-        height: 480
+      - url: "https://i.pcmag.com/imagery/articles/04wn46kHLW6UTgatgHpHV92-1.fit_lim.size_1200x630.v1679502638.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "Chle1w6S4185Ks78MzeTokJ7glSFmmgCy2polRkVQp96l/Fp/BW+C3KxuOy8LaERagI84f+OxT3P1M/Mt5+zoEPW0Hu2EnetgjCeVTVRkfiT/26VTCFv7n1LaSsuZW71nAT40nN3uUFJnm5VxDcV3dpKZ5GJSTZ3eMYDqU8CR6MX2EmdDB5tpnMJzkBNEwuhf7iSiWB0KSWsH+KQ8jqeF7pIsqaLVpyxrEqC2tA/vEvhGqehnAXoRVc4q069brAHvIuSNydyfDAr0vPETTTxD7AOPXh5+wAzdCcJyYam5d/76NqobXw/sLGDNFl8AEjBtPyfpEv6jno6KqZIeXSZ6hQ/5eeTV2VN+agmHjcP2vI=;KxHDlwRg8/2gTXuSj996Aw=="

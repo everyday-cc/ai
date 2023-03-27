@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Google’s New AI Chatbot Is a Pretty Bad Fed Pundit So Far"
-    excerpt: "Of course, now that the AI wars are full on, this is likely to improve extremely quickly. But at least in its current iteration, it wasn’t good at previewing today’s Federal Reserve decision. To start,"
-    publishedDateTime: 2023-03-22T13:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-22/google-s-new-ai-chatbot-is-a-pretty-bad-fed-pundit-so-far"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKOixKDzsgmU/v0/1200x821.jpg"
-        width: 1200
-        height: 821
-        isCached: true
   - title: "AI chatbots compared: Bard vs. Bing vs. ChatGPT"
     excerpt: "Anyway, all that aside, let’s start with seeing how the chatbots fare in what should ... but I’d like to have seen the BIOS changes or dual-channel parts picked up properly. If AI chatbots aren’t factually reliable (and they’re not), then they ..."
     publishedDateTime: 2023-03-24T15:40:00Z
@@ -219,15 +205,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Morning After: Google expands access to its AI chatbot, Bard"
-    excerpt: "The big difference between Google and Bing’s integration is the alternative responses that Bard throws up alongside the conversation. You can click the dropdown arrow next to \"View other drafts\" at the top left of each chat bubble to see some other suggestions."
-    publishedDateTime: 2023-03-22T13:12:00Z
-    webUrl: "https://www.engadget.com/the-morning-after-google-expands-access-to-its-ai-chatbot-bard-112516974.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 49
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "ChatGPT, OpenAI’s text-generating AI system, has taken the world by storm ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed ..."
     publishedDateTime: 2023-03-23T16:40:00Z

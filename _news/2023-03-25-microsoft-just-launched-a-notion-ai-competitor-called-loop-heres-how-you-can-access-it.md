@@ -83,20 +83,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Publishers Prepare for Showdown With Microsoft, Google Over AI Tools"
-    excerpt: "Media executives want compensation for the use of their content in ChatGPT, Bing and Bard. Search companies say they will drive traffic to publishers."
-    publishedDateTime: 2023-03-22T15:03:00Z
-    webUrl: "https://www.wsj.com/articles/publishers-prepare-for-showdown-with-microsoft-google-over-ai-tools-6514a49e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-748377/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Healthcare Solution Market Investment Feasibility and Trends from 2023 to 2029 | IBM Watson Health, Google Health, Microsoft Healthcare"
     excerpt: "Mar 23, 2023 (Heraldkeepers) -- Tech/News-The AI Healthcare Solution Market is projected to grow ... application dominance are all included in the report by- IBM Watson Health, Google Health, Microsoft Healthcare, NVIDIA, GE Healthcare, Cerner Corporation ..."
     publishedDateTime: 2023-03-23T06:56:00Z

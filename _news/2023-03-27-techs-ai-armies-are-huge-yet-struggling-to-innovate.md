@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-27T00:03:00Z
 originalUrl: "https://www.washingtonpost.com/business/2023/03/27/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams/10593f66-cc5d-11ed-8907-156f0390d081_story.html"
 webUrl: "https://www.washingtonpost.com/business/2023/03/27/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams/10593f66-cc5d-11ed-8907-156f0390d081_story.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"

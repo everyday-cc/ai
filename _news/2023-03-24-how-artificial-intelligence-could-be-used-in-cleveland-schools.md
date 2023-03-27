@@ -7,7 +7,7 @@ originalUrl: "https://fox8.com/news/how-artificial-intelligence-could-be-used-in
 webUrl: "https://fox8.com/news/how-artificial-intelligence-could-be-used-in-cleveland-schools/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Cleveland Clinic, IBM Deploy First Healthcare Quantum Computer"
-    excerpt: "Cleveland Clinic and IBM officially announced the first implementation of an onsite quantum computer dedicated to healthcare research."
-    publishedDateTime: 2023-03-22T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/cleveland-clinic-ibm-deploy-first-healthcare-quantum-computer"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "DDzga6qBa8VcJpHkBVsqGWky/at+5TOv5/1lZOZOBgVNySBn/pSTWrkvnAw64cGBBlI3/6ernpOsku4Jm+5YCOHnXPH79mnSVtDQjvhwb0EzxQbq5lI6vtW0jAtYb8fzdVH0hqFWEYBwN4TrDIi1fpzsllPJJFsKhyQFI0m5SVaXCSzn5CAG/RLvEUjzLVrBovuxqfhMtTXcQWJFWlTSEW5qtP9u1E6AyjASPtDcGNGtFgP2QlyRuw0KWr+VM7CcmqRNu+7So/UJMZaSvhe29c0cYofd1I1BiVpPccNh8T6z6PNZZAACw8tSUtDJGxcvsS89oH42ewKEIBQzk9ncWKv7NcNVZAgazkgC3H/+qAo=;sV+Ew6YB/H1JlOqiVAmVCA=="
 ---

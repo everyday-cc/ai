@@ -84,34 +84,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Mozilla launches $30m start-up to build trustworthy AI"
-    excerpt: "As AI reigns as the hot topic in the tech world, Mozilla has launched a new start-up that will focus on developing open-source, trustworthy AI products. The non-profit has revealed Mozilla.ai, which has been given an initial funding boost of $30m by the ..."
-    publishedDateTime: 2023-03-22T14:58:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/mozilla-ai-safe-transparent-chatgpt"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/03/AdobeStock_390459703_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Mozilla Launches New Mozilla.ai Startup"
-    excerpt: "Mozilla announced today that it’s launching Mozilla.ai, a new startup dedicated to building a “trustworthy, independent, and open-source AI ecosystem.” Mozilla.ai will receive $30 million in initial funding from Mozilla, and the foundation is hoping ..."
-    publishedDateTime: 2023-03-22T14:46:00Z
-    webUrl: "https://www.thurrott.com/cloud/280920/mozilla-launches-mozilla-ai-startup"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 37
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/Mozilla-AI-startup.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Mozilla introduces new startup to build open, trustworthy AI"
     excerpt: "Mozilla, the developer of the Firefox Internet browser, has introduced a new startup called Mozilla.ai, which the company hopes \"will build a trustworthy and independent open-source AI ecosystem\". The company said that it is initially investing $30 million ..."
     publishedDateTime: 2023-03-23T09:23:00Z

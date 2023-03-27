@@ -69,15 +69,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 13
-  - title: "Super Micro Computer, Inc.: Supermicro Expands GPU Solutions Portfolio with Deskside Liquid-Cooled AI Development Platform, Powered by NVIDIA"
-    excerpt: "enabling a wide range of AI development and workloads to be run at a deskside,\" said Charles Liang, president and CEO of Supermicro. \"This exciting new GPU system will also have a completely built-in liquid cooling system, allowing leading-edge CPUs and ..."
-    publishedDateTime: 2023-03-22T13:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58623552-super-micro-computer-inc-supermicro-expands-gpu-solutions-portfolio-with-deskside-liquid-cooled-ai-development-platform-powered-by-nvidia-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "I8NKiVi2ItFFFTO16x9U3MyB/6bw2ojN1KpgHOsb/cEpEjmims+COPQgf5XsSPlhbvYD3dY7Be579OloA4TN6Rfx+xHR7Wh0xM26yx7I2rt7+m8qBNIYAoIcBfCt+QCIa+22D4QAf8UbRsVNsR1R1OHzBQ1K62idghhpFdqyqEgYFgdXpnNSWQKJsTbtxanEY8woY1sMDFekjuo51/ZDpvl3Q7iGedtSdBoQE7wA9c8Hj9Z+OZyS6jOWwDTDBA2vjMVd22gdrtTbJDMTi/1ZTk3R+bFLuHqdbPb5NvAjPSqAqh3MMwScrfAsjT4MAhez2mOmqhGpS+hrwZOShg3Mv95eQoq0T5qzWHNPtV0lia9PRkCzyOPp3dXjTDdnzXhaGT7T1mUpauITPIyU2odbYZoEwIbGj8ZtcKBmW0K97EdULXWBSIdlxtW3KEKnNv1treCosSN8Jp6jcv2zNG8bto5Ub0WtFtqaOwYS/ZzYZWG2YvOwiMaJ7R21Px0F1uuClQulD8qcKH4FDwk2aARU7Q==;Krp0WueKjNGZIozWNILIRA=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Exploring The Opportunities Of Generative AI For Improving Security Operations"
-    excerpt: "Overall, generative AI can enhance decision-making, be cost-effective and scalable, and reduce response times, making it a flexible security solution for any business."
-    publishedDateTime: 2023-03-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/22/exploring-the-opportunities-of-generative-ai-for-improving-security-operations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6419b0105b9a2d1bc30aff98/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Adobe launches Firefly generative AI creative engine at Summit"
     excerpt: "Adobe launched a palette of products and innovations, but the key advance is generative AI, centered on Adobe Firefly."
     publishedDateTime: 2023-03-23T04:30:00Z
@@ -148,15 +132,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 36
-  - title: "Adobe launches Firefly AI media generator"
-    excerpt: "The first two features are text-to-image and text effect generation, but Adobe has promised much more powerful capabilities in the future."
-    publishedDateTime: 2023-03-22T13:53:00Z
-    webUrl: "https://mybroadband.co.za/news/software/484753-adobe-launches-firefly-ai-media-generator.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 19
 
 secured: "JW16Wfq//uBFrN9s+GSQVxKTo5WJqeLVtZbvGOtTt5nVUviH652MJiMvy/0QdZqeGHdc4cCCZUSBDn9EVNpPnI9mqn4sG3uZSlNFtbZAgbS585It15AJmWIDz2Xss1SggF3jwJqM/e9K0+3p2gcOWLJFTnWoltVwpieuesWoKhqAOkFMWrFV2cQGTNLuharOqGXrLCfr9YPuoaCaQTaz2R+CMKTuW/q0fteZPDuXKbTanSTAqlcyFBfXBsL5MzR2eQed7bjX/w6Uu5D3oNiMRYuycgUjLAKc0BV1V2JZFbrGNZrFhqPDY0sv0NmSLgHLxyOUJE9+qidB/KFhPC0SprcGpN0O+wbb4w9zrAE3n75dpPItBTjeh4Kb8AP/Wcb8OwTy6D8B0MyyepM8HANZimWyqBYt/3DWSQe3QosED2WjdMk3xBysRvMFlvUsAAQOFBk3bx6z2xI/XqSOY689lUUVDOvesOzWyJRsPOUNpcs0Zi6RRy2Ts2e9lUEWPwrOyO8nIZeL8ZL1zy0kamiAlg==;S0Oi7z4nNdM6WjCrzU4F/A=="
 ---

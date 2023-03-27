@@ -40,6 +40,36 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "UT preps students for the future of artificial intelligence"
+    excerpt: "KNOXVILLE, Tenn. (WATE) — The University of Tennessee has partnered with the AI Education Project in a call to action for advanced AI literacy. The initiative is focused on connecting K-12 students with education innovations that align with 21st-century ..."
+    publishedDateTime: 2023-03-24T03:00:00Z
+    webUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/"
+    ampWebUrl: "https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/education-schools/ut-preparing-students-for-ai/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 57
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/AP23080575494759.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Visions for the Future of Artificial Intelligence"
+    excerpt: "Financial services, healthcare, and manufacturing use AI-enabled technologies to restructure operations and address previously unsolvable"
+    publishedDateTime: 2023-03-24T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/visions-for-the-future-of-artificial-intelligence-nid-10556.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/7kxusa2pac450-308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "3UxPqwoEsQp8MimBcfDZxfMd8vJJ/RoowxYcekqY7eVrhGHa57wXM6pMRVdW1mW/+UnTZao9yL2mhStiWrljZ7o0DP4RNS+rEd+C2yb7PfBmIEC5GzkyFFANK74lz+kPyc7deuxcBawwrwKSCkBuSg32BK0aX5OR0/DO5pV/UmIYZ5BTbHyMia/CQvVIGwDsN6HAiw9O0ofDglhUG/VQ/xIWiFGGJ1eqkqA9kccbnjIeiGPwyU+gIWgSalTjjxVz+Hi1gHUhboxO+8wap7YuhpiOUtWLPxSfRfYrjupgbqr/khm8tALCvgcU7Vj/4OKVzwFfh2XdrmedBsFWADjFe/bWqAxbrta749oO7VQf7KI=;DHCb/lGeIDZXbN/Y7CpRMQ=="
 ---

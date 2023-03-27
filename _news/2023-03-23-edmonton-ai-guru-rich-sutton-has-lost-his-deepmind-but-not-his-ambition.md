@@ -9,7 +9,7 @@ ampWebUrl: "https://edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind
 cdnAmpWebUrl: "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/news/canada/ai-guru-rich-sutton-deepmind/wcm/94a1769a-043c-4e26-a3a7-0e87d1d09ad5/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1000
     height: 750
     isCached: true
-
-related:
-  - title: "Scientists at DeepMind and Meta Press Fusion of AI, Biology"
-    excerpt: "AlphaFold was a huge advance in protein structure prediction…which led to a whole new wave of using deep learning,” says computational biologist David Baker of the University of Washington."
-    publishedDateTime: 2023-03-22T13:30:00Z
-    webUrl: "https://www.wsj.com/articles/scientists-at-deepmind-and-meta-press-fusion-of-ai-biology-4b92af6f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
 
 secured: "ZpcS7BCdKZZVd5UnpXXaRP9V/HD6JhRcScpbiemQKL2fPaV04XYYQd9TqTaoEi2yC9SdLO0c48QoqTqEXz5aRjqWwyaN3P474QP4RJ7ETEeblgDHz/gPbzMwxP2OOGVbXD/8N3l5Ld1X6GrcNiyGFC32ARUF77kd7xWPQmDsj3sHw4V/eQ9GfN6G3273O05bhUx9gra++IOOxHYLwalAniWg4FV7wgv+edUwi8WKLG8PQrs3EGvk2wn5HbKXzHIXuUPowxCSlIYCe7VPbmNyANuPVUKAmgbuEHaUESRwsIjT9ung9UPCJYsTdkc+MuBTiW5Z4/fwXVOITCqTgOq9aMgzHZ82so67sW9U1nB/HyM=;y57GpGrr4AKVgnRTBYknwA=="
 ---

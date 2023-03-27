@@ -54,6 +54,64 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
+    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
+    publishedDateTime: 2023-03-25T11:02:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New, Advanced GPT-4 AI Model Comes to GitHub Copilot, Azure OpenAI Service"
+    excerpt: "GPT-4, the advanced generative AI model from Microsoft partner OpenAI, is now powering the new GitHub Copilot X and the Azure OpenAI Service. In addition to adopting GPT-4 \"for a more personalized developer experience,\" GitHub Copilot X, the latest ..."
+    publishedDateTime: 2023-03-22T19:39:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/22/gpt-4-copilot-azure.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 52
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN1BlueSquaresBackground.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Amazon, Google scramble to keep pace with OpenAI despite huge AI teams"
+    excerpt: "The numbers underscore how seriously the world's biggest technology firms have been taking their work on artificial intelligence, but also how slow and cautious they have been to create services"
+    publishedDateTime: 2023-03-27T07:01:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/amazon-google-scramble-to-keep-pace-with-openai-despite-huge-ai-teams-123032700316_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/05/full/1670214258-7178.png"
+        width: 512
+        height: 383
+        isCached: true
+  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
+    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
+    publishedDateTime: 2023-03-24T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Stretching the AI startup boom"
     excerpt: "Generative AI startups may be getting all the attention and venture checks right now, but the next fund raise may be a tougher road. Why it matters: The market downturn has been raining on startupland’s parade for the past year,"
     publishedDateTime: 2023-03-25T13:17:00Z
@@ -86,6 +144,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
+    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
+    publishedDateTime: 2023-03-24T13:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 6
 
 secured: "J8lviQbOpTggBJkpMKgVBQXuRWwLqrRo43sh+GJRQR6sxbhDMEY6AvCnqCyNQ/sHIXHUGZ/HwXSiAYWbSMLG1xtBnZuyhTqQNtUZNUKCBVI8z9oX5XsjSzeZ3AnpiDU/TqmCN96mqr3aCTN/GzHpMWsTfc3MB3eNxWBLl/+znAAY+WiL+BQJxADZ4/OxN27UlDaRRhy0igSiFns2nGwf+fNOf/ndp+0XNFpImhYXFfNaEvyF/mQC7DF3zZcHrVPmyJYCuJKLYv2GdokKQm+dAv+tKyvUwOoxLG/NFWPeSQPA8NudZ36WCUlTbYZxNMrVqQ9ZQPXAeakhScDUPUosNYOocexEcgcSOw5Ng1MvDCyEPjBISwDlp1Yr1HbJfl6T7e+ofwWW82E7fMZo1O4kZmq9n8zRFKoR/qjfhE6NaDQgy1oEzVz2Id3gmLi1Mq0IJs6Clq2Q2I3WCSBVRFnNTvKQ7bd6hLioiIxVuJcCO6JgyN4U+8uiLRUTOlQPtms2YkPhIyKPXx7Jlkc9Hf6jsw==;GpgjW0Koqa3t3q7Zo6Ypvw=="
 ---

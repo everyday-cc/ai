@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Opera adds ChatGPT and AI prompts into its browser"
-    excerpt: "Opera has launched sidebar integration for both ChatGPT and ChatSonic and has introduced another feature called smart AI Prompts.."
-    publishedDateTime: 2023-03-22T13:24:00Z
-    webUrl: "https://www.engadget.com/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    ampWebUrl: "https://www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/opera-adds-chatgpt-and-ai-prompts-into-its-browser-113500436.html"
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/zdivnOCZZ3swfSBYBTkb.g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/8d379e10-c898-11ed-8542-eb2cdaacb701.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT As A Platform Gets Bigger And Bolder As OpenAI Rolls Out Plugins For All Kinds Of Add-On Apps, Stewing Up AI Ethics And AI Law"
-    excerpt: "Voila, your software package suddenly can do all manner of Natural Language Processing (NLP). All told, this meant that the uses of ChatGPT could expand immensely. Firms that provide apps were thirstily lured to the ChatGPT API like a siren call."
-    publishedDateTime: 2023-03-25T11:02:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/25/chatgpt-as-a-platform-gets-bigger-and-bolder-as-openai-rolls-out-plugins-for-all-kinds-of-add-on-apps-stewing-up-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/641e9f1ebcc461207e4ff60a/0x0.jpg?format=jpg&crop=2085,1173,x76,y10,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Texas lawmaker uses ChatGPT to deliver remarks on AI bill"
     excerpt: "That’s why we need HB 2060.” He said the council created by this proposal would monitor use of AI by state agencies, examine the need for a code of ethics for AI systems and recommend policies to protect Texans’ privacy. “House Bill 2060 is a ..."
     publishedDateTime: 2023-03-22T20:38:00Z
@@ -67,37 +35,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "ChatGPT Alternatives: 10 AI Tools You Can Try To Become More Productive"
-    excerpt: "ChatDOC is a ChatGPT-based file reading assistant the can quickly extract, locate and summarize information from doucments/PDFs. Google also launched its AI assistant Bard for limited countries. It will soon roll out to other countries as well."
-    publishedDateTime: 2023-03-26T16:07:00Z
-    webUrl: "https://zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
-    ampWebUrl: "https://zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
-    cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/web-stories/technology/chatgpt-alternatives-10-ai-tools-you-can-try-to-become-more-productive-2588128"
+  - title: "I made ChatGPT talk to itself - and the results weren’t what I expected"
+    excerpt: "My approach to ChatGPT and its burgeoning (and possibly career-threatening) success both within the tech industry and beyond our little digital bubble has been largely the same, with some small alterations."
+    publishedDateTime: 2023-03-27T06:00:00Z
+    webUrl: "https://www.techradar.com/features/i-made-chatgpt-talk-to-itself-and-the-results-werent-what-i-expected"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 59
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
     images:
-      - url: "https://english.cdn.zeenews.com/sites/default/files/2023/03/26/1173932-ai.jpg"
-        width: 650
-        height: 853
-        isCached: true
-  - title: "How to use ChatGPT and other generative AI for business and in life"
-    excerpt: "New AI language models are garnering a lot of interest ... ChatGPT can even help you with translation. - It can assist you in writing essays or long-form copy. - You can have a pleasant conversation with ChatGPT. - You can also use it to play games."
-    publishedDateTime: 2023-03-26T09:21:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/features/how-to-use-chatgpt-and-other-generative-ai-for-business-and-in-life-10313271.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/396571328.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/PU2t7kMJ9SFBTJYerGD8ve-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why the makers of ChatGPT care what Pope Francis says about AI"
     excerpt: "In January, Pope Francis addressed tech-industry leaders from companies such as Microsoft and IBM as well as members of the Jewish and Muslim communities during a conference on ethics in AI at the Vatican. The pope urged them to “ensure that the ..."
@@ -112,34 +62,6 @@ related:
       - url: "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/2023/03/23/rolf-van-root-oLthDWAG244-unsplash.jpg.jpg?itok=4H9L3l5G"
         width: 750
         height: 500
-        isCached: true
-  - title: "Codie.ai, first consultative AI assistant based on OpenAI ChatGPT"
-    excerpt: "Codie.ai has launched an AI assistant to transform how businesses interact with their customers. The platform interacts with customers human-likely and provides information about products and services of the company or retailer. London-based startup Codie ..."
-    publishedDateTime: 2023-03-24T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31499408/codie-ai-first-consultative-ai-assistant-based-on-openai-chatgpt"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "ChatGPT, Other AI Models Said to Have Complicated EU’s Efforts to Form Landmark Rule"
-    excerpt: "The AI industry expects an agreement by the end of the year but complexities and the lack of progress may delay it."
-    publishedDateTime: 2023-03-22T13:26:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/chatgpt-ai-models-apps-complicated-efforts-eu-lawmakers-landmark-rule-3884084"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 32
-    images:
-      - url: "https://i.gadgets360cdn.com/large/artificial_intelligence_pixabay_1200_1621239208595.jpg"
-        width: 1200
-        height: 803
         isCached: true
   - title: "Paper written using ChatGPT demonstrates opportunities and challenges of AI in academia"
     excerpt: "ChatGPT has the potential to create increasing and exciting opportunities—but also poses significant challenges—for the academic community, according to an innovative study written in large part using the software."
@@ -169,24 +91,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "ChatGPT Puts AI At Inflection Point, Nvidia CEO Huang Says"
-    excerpt: "It’s been 11 years since three AI researchers shocked the world with a breakthrough in computer vision, kickstarting the deep learning craze. But with"
-    publishedDateTime: 2023-03-22T19:04:00Z
-    webUrl: "https://www.datanami.com/2023/03/22/chatgpt-puts-ai-at-inflection-point-nvidia-ceo-huang-says/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "Is ChatGPT Smart Enough To Practice Mental Health Therapy?"
-    excerpt: "Online therapy is a booming industry ... recently surveyed several dozen mental health experts and bot developers actively involved with artificial intelligence chatbot projects. Some respondents rejected the reliability of AI tools to replace human ..."
-    publishedDateTime: 2023-03-23T12:00:00Z
-    webUrl: "https://www.technewsworld.com/story/is-chatgpt-smart-enough-to-practice-mental-health-therapy-178064.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 19
   - title: "SoundHound Launches Chat AI Voice Assistant With Access to ChatGPT on Android, iOS"
     excerpt: "SoundHound's proprietary technology is claimed to intelligently select the right response by combining access to GPT, and real-time knowledge domains."
     publishedDateTime: 2023-03-24T13:36:00Z
@@ -196,15 +100,6 @@ related:
       name: gadgets360
       domain: gadgets360.com
     quality: 13
-  - title: "AI News roundup: OpenAI adds plugin support to ChatGPT, Mozilla opens new AI startup and more"
-    excerpt: "The AI chatbot became popular in just a matter of weeks — way ... Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day"
-    publishedDateTime: 2023-03-24T13:32:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-openai-adds-plugin-support-to-chatgpt-mozilla-opens-new-ai-startup-and-more-10307071.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 6
 
 secured: "IYvrreJHBjqC2mOyLscf6blEfs6+2a6xE3S1RaIO2TORjhOHHcyKG9pwBA4++QRFQA/GRPoEmw7Vq8DNx342UmAt8dyNSB+GTQC73F3UuL8cXqU+TGLUwslPoa92T2+s8qe6EOEhh/mF5X+Rtw3KEaO4ulKI1KLPHn+unvenGs8LUC5xpNOzw3SDwouks48PaYy/HAxdVZtG2jaKvYkMix2zHergqWonVe/bLrwjCcAIjuKuddZv5p6NYiI1CYKM9imAEYr7qn6IyHqg/TQpTgUstYTltvxbWWVzZ3PgUuMqiu14ttBgxDM42IEyYX6NBdRrc18+8R7ShswM8NwNyXAEqgRPhVwuwBp5kUJ7xGHP0oX6NMlve0Fdhmo5n3oj7jvo4/3iaZheKFqdmLhosZtPLPMadRmZakuxh+tKsDVlQBo22zgw7TOasWFhHFV+bRndvo2VkeLkEg4fx/XhqsKepIsjez8CKJDe80nDxcJ3Au10aPTbp4ERc9pCsEfQFSq3mlDNmpFOtRIKsqycGg==;vWuSCfuIeSrHJ2Ztbq3aJQ=="
 ---
